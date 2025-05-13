@@ -1,0 +1,29 @@
+services:
+  dataprep:
+    build:
+      context: ./Code
+      dockerfile: Dockerfile
+    container_name: dataprep
+
+    volumes:
+      - ./Code:/workdir
+    
+    ports:
+      - "8888:8888"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: -1
+              capabilities: [gpu]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    ipc: host
+    ulimits:
+      memlock: -1
+      stack: 67108864
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4

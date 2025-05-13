@@ -1,0 +1,10 @@
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain
+pydantic
+selenium
+rich
+pandas
+webdriver_manager
+marker-pdf
