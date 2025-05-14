@@ -14,8 +14,9 @@ from selenium.common.exceptions import WebDriverException
 
 
 class RbiCircularScraper:
-    def __init__(self, base_url="https://www.rbi.org.in/scripts/bs_circularindexdisplay.aspx  ",
+    def __init__(self, year,base_url="https://www.rbi.org.in/scripts/bs_circularindexdisplay.aspx  ",
                  download_dir="Downloads"):
+        self.year = year
         self.base_url = base_url
         self.download_dir = download_dir
         os.makedirs(self.download_dir, exist_ok=True)
@@ -53,8 +54,8 @@ class RbiCircularScraper:
             self.driver.get(self.base_url)
             print("⏳ Waiting for JavaScript to load...")
             time.sleep(1.5)
-            print("🖱️ Simulating JavaScript click for year 2025")
-            self.driver.execute_script("GetYearMonth('2025','0');")
+            print(f"🖱️ Simulating JavaScript click for year {self.year}")
+            self.driver.execute_script(f"GetYearMonth('{self.year}','0');")
             time.sleep(1.5)  # Wait for data to load
             return self.driver.page_source
         except WebDriverException as e:
@@ -218,7 +219,7 @@ class RbiCircularScraper:
 
 
 if __name__ == "__main__":
-    scraper = RbiCircularScraper(download_dir="/workspaces/Data_prep/Code/Data/Raw-pdfs")
+    scraper = RbiCircularScraper(2024,download_dir="/workspaces/Data_prep/Code/Data/Raw-pdfs/2024")
     # # Uncomment this to test a specific PDF download before running the full scraper
     # test_pdf = "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/36NT8C402BE7C2A349E0BFFF3C526668CD7A.PDF  "
     # scraper.test_pdf_download(test_pdf)
