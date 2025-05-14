@@ -15,8 +15,8 @@ COPY . .
 #     libssl-dev \
 #     libffi-dev \
 #     libpython3-dev \
-#     && rm -rf /var/lib/apt/lists/*  && \
-#     pip install --upgrade pip 
+#     && rm -rf /var/lib/apt/lists/* && \
+#     pip install --upgrade pip
 
 
 # Update package lists
@@ -25,7 +25,7 @@ RUN apt-get update
 RUN apt-get install git
 
 # Necessary dependencies for Chrome
-RUN apt install libgtk-3-0 libnss3 libxss1 libasound2
+RUN apt install -y libgtk-3-0 libnss3 libxss1 libasound2
 
 
 # Install necessary dependencies for Chrome

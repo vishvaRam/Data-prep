@@ -5,6 +5,9 @@ langchain
 pydantic
 selenium
 rich
+opencv-python==4.7
 pandas
 webdriver_manager
 marker-pdf
+torchvision
+torchaudio

@@ -97,8 +97,8 @@ class PDFToMarkdownConverter:
         }
 
 def main():
-    input_directory = "PDFs"
-    output_directory = "Markdown"
+    input_directory = "/workspaces/Data_prep/Code/Data/Raw-pdfs"
+    output_directory = "/workspaces/Data_prep/Code/Data/pdf-markdowns"
 
     print(f"\nStarting PDF to Markdown conversion at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
