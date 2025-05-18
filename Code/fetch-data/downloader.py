@@ -219,7 +219,7 @@ class RbiCircularScraper:
 
 
 if __name__ == "__main__":
-    scraper = RbiCircularScraper(2024,download_dir="/workspaces/Data_prep/Code/Data/Raw-pdfs/2024")
+    scraper = RbiCircularScraper(2023,download_dir="/workspaces/Data_prep/Code/Data/Raw-pdfs/2023")
     # # Uncomment this to test a specific PDF download before running the full scraper
     # test_pdf = "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/36NT8C402BE7C2A349E0BFFF3C526668CD7A.PDF  "
     # scraper.test_pdf_download(test_pdf)

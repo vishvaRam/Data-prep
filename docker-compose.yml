@@ -7,7 +7,6 @@ services:
 
     volumes:
       - ./Code:/workdir
-      - ./Models:/root/.cache/huggingface/hub
     
     ports:
       - "8888:8888"

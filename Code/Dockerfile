@@ -1,5 +1,5 @@
 # Use a PyTorch base image
-FROM nvcr.io/nvidia/pytorch:24.06-py3
+FROM nvcr.io/nvidia/pytorch:24.12-py3
 
 # Set the working directory
 WORKDIR /workdir
@@ -7,26 +7,13 @@ WORKDIR /workdir
 # Install Python dependencies
 COPY . .
 
-# RUN  apt-get update && apt-get install -y \
-#     git \
-#     curl \
-#     python3-dev \
-#     build-essential \
-#     libssl-dev \
-#     libffi-dev \
-#     libpython3-dev \
-#     && rm -rf /var/lib/apt/lists/* && \
-#     pip install --upgrade pip
-
-
 # Update package lists
 RUN apt-get update
 
-RUN apt-get install git
+RUN apt-get install -y git
 
 # Necessary dependencies for Chrome
-RUN apt install -y libgtk-3-0 libnss3 libxss1 libasound2
-
+RUN apt install -y libgtk-3-0 libnss3 libxss1
 
 # Install necessary dependencies for Chrome
 RUN apt-get install -y wget gnupg ca-certificates
@@ -37,6 +24,8 @@ RUN apt install ./google-chrome-stable_current_amd64.deb -y --no-install-recomme
 RUN rm ./google-chrome-stable_current_amd64.deb
 
 RUN pip install -r requirements.txt
+
+ENV GEMINI_API_KEY=AIzaSyDbLuV1V0QyI1qI-OviHaaA3LuqdjcSGzY
 
 # Expose the port FastAPI will run on
 EXPOSE 8888
