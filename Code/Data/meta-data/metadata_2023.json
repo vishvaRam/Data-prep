@@ -1,0 +1,52 @@
+{
+    "RBI_2023-2024_52DOR.RET.REC.29_12.01.001_2023-24_2023-08-10": {
+        "document_type": "Regulatory Circular",
+        "regulation_area": "Monetary Policy",
+        "applicable_to": "Scheduled Commercial Banks / Regional Rural Banks / all Scheduled Primary (Urban) Co-operative Banks / all Scheduled State Co-operative Banks",
+        "issued_on": "2023-08-10",
+        "key_topics": [
+            "Cash Reserve Ratio (CRR)",
+            "Incremental CRR (I-CRR)",
+            "Reserve Bank of India Act, 1934",
+            "Liquidity conditions",
+            "NDTL"
+        ]
+    },
+    "RBI_2023-2024_53DoR.MCS.REC.28_01.01.001_2023-24_2023-08-18": {
+        "document_type": "Regulatory Circular",
+        "regulation_area": "Fair Lending Practices",
+        "applicable_to": "All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks, excluding Payments Banks) All Primary (Urban) Co-operative Banks All NBFCs (including HFCs) and All India Financial Institutions (EXIM Bank, NABARD, NHB, SIDBI and NaBFID)",
+        "issued_on": "2023-08-18",
+        "key_topics": [
+            "Penal Charges in Loan Accounts",
+            "Fair Lending Practices",
+            "Transparency in Disclosure",
+            "Board Approved Policy",
+            "Implementation Timeline"
+        ]
+    },
+    "RBI_2023-2024_54DoR.SIG.FIN.REC.31_03.10.001_2023-24_2023-08-18": {
+        "document_type": "Regulatory Framework for IDF-NBFCs",
+        "regulation_area": "Infrastructure Financing",
+        "applicable_to": "IDF-NBFCs",
+        "issued_on": "2023-08-18",
+        "key_topics": [
+            "Net owned funds (NOF) and regulatory capital",
+            "Raising of funds",
+            "Exposure limits"
+        ]
+    },
+    "RBI_2023-2024_55DOR.MCS.REC.32_01.01.003_2023-24_2023-08-18": {
+        "document_type": "Regulatory Circular",
+        "regulation_area": "Fair Practices Code for Lenders, Interest Rate Reset",
+        "applicable_to": "All Scheduled Commercial Banks, Regional Rural Banks, Primary (Urban) Co-operative Banks, State Co-operative Banks and District Central Co-operative Banks, Non-Banking Financial Companies (including Housing Finance Companies)",
+        "issued_on": "2023-08-18",
+        "key_topics": [
+            "Reset of Floating Interest Rate on EMI based Personal Loans",
+            "Communication to Borrowers Regarding Interest Rate Changes",
+            "Borrower Options for Interest Rate Changes",
+            "Transparency in Charges",
+            "Negative Amortization Prevention"
+        ]
+    }
+}
