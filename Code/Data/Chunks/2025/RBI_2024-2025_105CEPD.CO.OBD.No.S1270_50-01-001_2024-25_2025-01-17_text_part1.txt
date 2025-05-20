@@ -1,0 +1,41 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+www.rbi.org.in RBI/2024-25/105 CEPD.CO.OBD.No.S1270/50-01-001/2024-25 January 17, 2025
+
+Chairman/Managing Director/CEOs All Commercial Banks (including Regional Rural Banks, Small Finance Banks, Payment Banks, and Local Area Banks) All Primary (Urban) Co-operative Banks, State Co-operative Banks, District Central Co-operative Banks All Prepaid Payment Instrument Issuers All Non-Banking Financial Companies (including Housing Finance Companies) All Credit Information Companies All Payment Aggregators All Payment Systems Participants & Payment System Providers
+
+Madam/Dear Sir,
+
+# **Prevention of financial frauds perpetrated using voice calls and SMS – Regulatory prescriptions and Institutional Safeguards**
+
+The proliferation of digital transactions, while offering convenience and efficiency, has also led to a surge in frauds, a pressing concern underscoring the need for concerted action. The mobile number of a customer has emerged as a ubiquitous identifier, instrumental in account authentication and verification process, receiving sensitive payment communication, such as OTPs, transaction alerts, account updates, etc. The mobile number, however, can also be misused by scamsters in multiple ways for committing various types of online and other frauds.
+
+**–** बकैं �हंद� मेंपत्राचार का स्वागत करता है **–** 
+
+![](_page_1_Picture_0.jpeg)
+
+2. With a view to mitigate the potential misuse of mobile numbers, Regulated Entities (REs) are advised to:
+
+- a) Utilize the Mobile Number Revocation List (MNRL)[1](#page-1-0) available on the Digital Intelligence Platform (DIP) developed by Department of Telecommunications (DoT), Ministry of Communications, Government of India to monitor and clean their customer database. To enhance fraud risk monitoring and prevention, the REs are further advised to develop Standard Operating Procedures (SOP) incorporating the required action to be taken including, *inter alia,* updating the registered mobile number(RMN) after due verification; enhanced monitoring of accounts linked to these revoked mobile numbers for preventing the linked accounts from being operated as Money Mules and / or being involved in cyber frauds, etc.
+- b) Provide the verified details of their customer care numbers to DIP for enabling DoT to publish them on the "Sanchar Saathi" portal [\(https://sancharsaathi.gov.in/\)](https://sancharsaathi.gov.in/). The details may be shared on the DoT email [adg.diu-dot@gov.in](mailto:adg.diu-dot@gov.in)
+- c) Undertake transactional / service calls only using '1600xx' numbering series, when operationalized; undertake promotional voice calls only through phone numbers using '140xx' numbering series; follow the "Important Guidelines for sending commercial communication using telecom resources through Voice Calls or SMS" issued by Telecom Regulatory Authority of India (TRAI) and [annexed](#page-3-0) to this circular. REs are also advised to undertake awareness measures in this regard through emails, SMS and other modes, including in vernacular languages.
+
+<span id="page-1-0"></span><sup>1</sup> The Digital Intelligence Platform (DIP) developed by DoT has the availability of Mobile Number Revocation List (MNRL) on real time basis with various categories of disconnected mobile numbers such as mobile numbers (i) taken on fake/ forged documents and failed in re-verification, (ii) involved in cyber-crime/ financial fraud and reported by MHA/ Law Enforcement Agencies (LEAs), (iii) reported by citizens and failed in reverification, (iv) disconnected by Telecom Service Providers (TSPs) based on their fraud analysis/ exceeding limit, (v) reported for misuse by other organizations, and (vi) nonrecharge/ no-usage for long time etc.
+
+![](_page_2_Picture_0.jpeg)
+
+3. All REs are advised to ensure compliance with the above instructions expeditiously.
+
+Yours faithfully,
+
+(Dr. Neena R. Jain) Chief General Manager
+
+Encl: as above
+
+#### <span id="page-3-0"></span>**Important Guidelines for sending commercial communication using telecom resources through Voice Calls or SMS (as elucidated by TRAI)**
+
+To curb Unsolicited Commercial Communications (UCC) through voice calls or messages using telecommunication services, Telecom Regulatory Authority of India (TRAI) has issued Telecom Commercial Communications Customer Preference Regulations, 2018 (TCCCPR-2018) and several Directions under these Regulations. As per the provisions of the above Regulations, the Senders of Commercial Communication (Transactional/ Service/ Promotional communications) – such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers – are required to fulfil prescribed regulatory requirements. Senders are also referred to as Principal Entities (PEs).

@@ -1,0 +1,287 @@
+| Para<br>of | Existing Provision                               | Amended Provision                              |
+|------------|--------------------------------------------------|------------------------------------------------|
+| MD         |                                                  |                                                |
+| 7(c)       | Card-issuers may issue business                  | Card-issuers<br>may<br>issue<br>business       |
+|            | credit<br>cards<br>to<br>business                | credit<br>cards<br>to<br>business              |
+|            | entities/individuals<br>for<br>business          | entities/individuals<br>for<br>business        |
+|            | expenses.<br>The<br>business<br>credit           | expenses. The business credit cards            |
+|            | cards may also be issued as charge               | may also be issued as charge cards,            |
+|            | cards, corporate credit cards or by              | corporate credit cards or by linking a         |
+|            | linking<br>a<br>credit<br>facility<br>such<br>as | credit facility such as overdraft/cash         |
+|            | overdraft/cash credit provided for               | credit provided for business purpose           |
+|            | business purpose as per the terms                | as<br>per<br>the<br>terms<br>and<br>conditions |
+|            | and conditions stipulated for the                | stipulated for the facility concerned.         |
+|            | facility concerned. Corporate credit             | The card-issuers shall put in place<br>an      |
+|            | cards can be issued together with                | effective mechanism to monitor end             |
+|            | add-on cards wherever required.                  | use of funds. Business credit cards            |
+|            |                                                  | can be issued together with add-on             |
+|            |                                                  | cards wherever required.                       |
+| 8(a)       | Failure on the part of the card                  | Failure on the part of the card-issuers        |
+|            | issuers to complete the process of               | to complete the process of closure             |
+|            | closure within seven working days                | within seven working days shall result         |
+|            | shall result in a penalty of ₹500 per            | in a penalty<br>of ₹500 per calendar day       |
+|            | day<br>of<br>delay<br>payable<br>to<br>the       | of delay payable to the cardholder, till       |
+|            | cardholder, till the closure of the              | the closure of the account provided            |
+|            | account<br>provided<br>there<br>is<br>no         | there is no outstanding in the account.        |
+|            | outstanding in the account.                      |                                                |
+| 9(b)(ii    | Card-issuers<br>shall<br>inform<br>the           | Card-issuers<br>shall<br>inform<br>the         |
+| i)         | cardholders of the implications of               | cardholders<br>of<br>the<br>implications<br>of |
+|            | paying only 'the minimum amount                  | paying<br>only<br>'the<br>minimum<br>amount    |
+|            | due'. A legend/warning to the effect             | due'. A legend/warning to the effect           |
+|            |                                                  |                                                |
+
+|       | that<br>"Making<br>only<br>the<br>minimum      | that<br>"Making<br>only<br>the<br>minimum      |
+|-------|------------------------------------------------|------------------------------------------------|
+|       | payment every month would result               | payment every month would result in            |
+|       | in the repayment stretching over               | the<br>repayment<br>stretching<br>over         |
+|       | months/years<br>with<br>consequential          | months/years<br>with<br>consequential          |
+|       | compounded interest payment on                 | compounded interest payment on your            |
+|       | your outstanding balance" shall be             | outstanding<br>balance"<br>shall<br>be         |
+|       | prominently<br>displayed<br>in<br>all<br>the   | prominently displayed in all the billing       |
+|       | billing statements to caution the              | statements to caution the cardholders          |
+|       | cardholders<br>about<br>the<br>pitfalls<br>in  | about the pitfalls in paying only the          |
+|       | paying only the minimum amount                 | minimum amount due. The MITC shall             |
+|       | due. The MITC shall specifically               | specifically explain that the 'interest        |
+|       | explain that the 'interest-free credit         | free credit period' is suspended if any        |
+|       | period' is suspended if any balance            | balance of the previous month's bill is        |
+|       | of<br>the<br>previous<br>month's<br>bill<br>is | outstanding.                                   |
+|       | outstanding. The card-issuers shall            |                                                |
+|       | specify in the billing statement, the          |                                                |
+|       | level of unpaid amount of the bill i.e.,       |                                                |
+|       | part<br>payment<br>beyond<br>'minimum          |                                                |
+|       | amount due', at which the interest             |                                                |
+|       | free credit period benefits would not          |                                                |
+|       | be available to cardholders.                   |                                                |
+| 9(b)( | Card-issuers shall report a credit             | Card-issuers shall report a credit card        |
+| v)    | card account as 'past due' to credit           | account<br>as<br>'past<br>due'<br>to<br>credit |
+|       | information companies (CICs) or                | information companies (CICs) or levy           |
+|       | levy<br>penal<br>charges,<br>viz.<br>late      | penal<br>charges,<br>viz.<br>late<br>payment   |
+|       | payment charges and other related              | charges and other related charges, if          |
+|       | charges, if any, only when a credit            | any, only when a credit card account           |
+|       | card account remains 'past due' for            | remains 'past due' for more than three         |
+|       | more than three days. The number               | days. The number of 'days past due'            |
+|       | of 'days past due' and late payment            | and<br>late<br>payment<br>charges<br>shall,    |
+|       | charges<br>shall,<br>however,<br>be            | however,<br>be<br>computed<br>from<br>the      |
+|       | computed from the payment due                  | payment due date mentioned in the              |
+|       | date mentioned in the credit card              | credit card statement, as specified            |
+
+|       | statement, as specified under the           | under the regulatory instructions on           |
+|-------|---------------------------------------------|------------------------------------------------|
+|       | regulatory<br>instructions<br>on            | 'Prudential<br>norms<br>on<br>Income           |
+|       | 'Prudential<br>norms<br>on<br>Income        | Recognition, Asset Classification and          |
+|       | Recognition,<br>Asset<br>Classification     | Provisioning pertaining to Advances'           |
+|       | and<br>Provisioning<br>pertaining<br>to     | amended<br>from<br>time<br>to<br>time.<br>Late |
+|       | Advances' amended from time to              | payment charges and other related              |
+|       | time. Penal interest, late payment          | charges shall be levied,<br>only on the        |
+|       | charges and other related charges           | outstanding amount after the due date,         |
+|       | shall<br>be<br>levied<br>only<br>on<br>the  | and not on the total amount<br>due.            |
+|       | outstanding amount after the due            |                                                |
+|       | date and not on the total amount.           |                                                |
+| 10(d) | Card-issuers<br>do<br>not<br>follow<br>a    | Card-issuers do not follow a standard          |
+| 1     | standard billing cycle for all credit       | billing cycle for all credit cards issued.     |
+|       | cards issued. In order to provide           | In order to provide flexibility in this        |
+|       | flexibility in this regard, cardholders     | regard, cardholders shall be provided          |
+|       | shall be provided a one-time option         | option to modify the billing cycle of the      |
+|       | to modify the billing cycle of the          | credit card at least once, as per the          |
+|       | credit card as per their convenience.       | cardholders'<br>convenience.                   |
+| 12(b) | Before reporting default status of a        | Before reporting default status of a           |
+|       | credit<br>cardholder<br>to<br>a<br>Credit   | credit<br>cardholder<br>to<br>a<br>Credit      |
+|       | Information<br>Company,<br>the<br>card      | Information Company<br>(CIC), the card         |
+|       | issuers<br>shall<br>ensure<br>that<br>they  | issuers shall ensure that they adhere          |
+|       | adhere<br>to<br>a<br>procedure,<br>duly     | to the<br>procedure, approved by their         |
+|       | approved by their Board, including          | Board,<br>and intimate the<br>cardholder       |
+|       | issuing of a seven-day notice period        | prior to reporting of the status.<br>In the    |
+|       | to<br>such<br>cardholder<br>about<br>the    | event<br>the<br>customer<br>settles<br>his/her |
+|       | intention<br>to<br>report<br>him/her<br>as  | dues after having been reported as             |
+|       | defaulter to the Credit Information         | defaulter, the card-issuer shall update        |
+|       | Company. In the event the customer          | the status with CIC within 30 days from        |
+|       | settles his/her dues after having           | the date of settlement. Card-issuers           |
+|       | been<br>reported<br>as<br>defaulter,<br>the | shall be particularly careful in the case      |
+|       |                                             |                                                |
+
+|       | within 30 days from the date of           | disputes.<br>The<br>disclosure/release<br>of  |
+|-------|-------------------------------------------|-----------------------------------------------|
+|       | settlement. Card-issuers shall be         | information,<br>particularly<br>about<br>the  |
+|       | particularly careful in the case of       | default, shall be made only after the         |
+|       | cards<br>where<br>there<br>are<br>pending | dispute is settled. In all cases, a well      |
+|       | disputes. The disclosure/release of       | laid<br>down<br>procedure<br>shall<br>be      |
+|       | information, particularly about the       | transparently followed and be made a          |
+|       | default, shall be made only after the     | part of MITC.                                 |
+|       | dispute is settled. In all cases, a well  |                                               |
+|       | laid<br>down<br>procedure<br>shall<br>be  |                                               |
+|       | transparently followed and be made        |                                               |
+|       | a part of MITC.                           |                                               |
+| 14(c) | No bank shall issue debit cards to        | No bank shall issue debit cards to cash       |
+|       | cash credit/loan account holders.         | credit/loan accounts. However, it will        |
+|       | However, it will not preclude the         | not preclude the banks from linking the       |
+|       | banks from linking the overdraft          | overdraft facility provided along with        |
+|       | facility provided along with Pradhan      | Pradhan<br>Mantri<br>Jan<br>Dhan<br>Yojana    |
+|       |                                           |                                               |
+|       | Mantri Jan Dhan Yojana accounts           | accounts<br>or<br>Kisan<br>Credit<br>Card     |
+|       | with a debit card.                        | accounts<br>with a debit card.                |
+| 152   | Other Form Factors                        | CHAPTER –<br>IV                               |
+|       | (a) Scheduled Commercial Banks            | 16. Issue of Form Factor                      |
+|       | (other than RRBs) may issue other         | (a) Card-issuers may issue other form         |
+|       | form factors in place of a plastic        | factors in place of/in addition to<br>a       |
+|       | debit card such as wearables after        | plastic<br>debit/credit<br>card<br>such<br>as |
+|       | obtaining explicit consent from the       | wearables,<br>after<br>obtaining<br>explicit  |
+|       | customer.                                 | consent from the customer.                    |
+|       | (b) Form factors issued in place of a     | (b) Form factors shall be subject to all      |
+|       | debit card<br>shall be subject to the     | the specific and general guidelines           |
+|       | specific<br>and<br>general<br>guidelines  | applicable to the respective cards.           |
+|       | applicable to debit cards.                | (c) Card-issuers shall provide options        |
+|       | (c) Banks shall provide options for       | for<br>disabling or blocking the form factor  |
+|       | disabling or blocking the form factor     | in line with the instructions issued by       |
+
+|       | banking, SMS, IVR or any other             |                                                 |
+|-------|--------------------------------------------|-------------------------------------------------|
+|       | mode.                                      |                                                 |
+|       | (d) Banks shall submit a detailed          |                                                 |
+|       | report<br>to<br>the<br>Department<br>of    |                                                 |
+|       | Regulation, Reserve Bank of India,         |                                                 |
+|       | prior to the issuance of any such          |                                                 |
+|       | form factors. Any bank that has            |                                                 |
+|       | already issued such product prior to       |                                                 |
+|       | the effective date of the Master           |                                                 |
+|       | Direction, shall submit a detailed         |                                                 |
+|       | report to Department of Regulation         |                                                 |
+|       | within 30 days from the effective          |                                                 |
+|       | date.                                      |                                                 |
+| 17(b) | The co-branded credit/debit card           | The co-branded card shall explicitly            |
+|       | shall explicitly indicate that the card    | indicate that the card has been issued          |
+|       | has<br>been<br>issued<br>under<br>a<br>co  | under a co-branding arrangement. The            |
+|       | branding<br>arrangement.<br>The<br>co      | co-branding<br>partner<br>shall<br>not          |
+|       | branding<br>partner<br>shall<br>not        | advertise/market the co-branded card            |
+|       | advertise/market<br>the<br>co-branded      | as<br>its<br>own<br>product.<br>In<br>all       |
+|       | card as its own product. In all            | marketing/advertising<br>material,<br>the       |
+|       | marketing/advertising material, the        | name<br>of<br>the<br>card-issuer<br>shall<br>be |
+|       | name of the card-issuer shall be           | clearly shown.                                  |
+|       | clearly shown.                             |                                                 |
+| 21(b) | The co-branding partner shall not          | The co-branding partner<br>(CBP)<br>shall       |
+|       | have access to information relating        | not have access to information relating         |
+|       | to transactions undertaken through         | to transactions undertaken through the          |
+|       | the co-branded card. Post issuance         | co-branded card. Post issuance of the           |
+|       | of the card, the co-branding partner       | card, the CBP<br>shall not be involved in       |
+|       | shall not be involved in any of the        | any of the processes or the controls            |
+|       | processes or the controls relating to      | relating to the co-branded card except          |
+|       | the<br>co-branded<br>card<br>except<br>for | for being the initial point of contact in       |
+|       | being the initial point of contact in      | case of grievances. However, for the            |
+|       | case of grievances.                        | purpose of cardholder's<br>convenience,         |
+
+|       |                                                | card transaction related data may be             |
+|-------|------------------------------------------------|--------------------------------------------------|
+|       |                                                | drawn directly from the card-issuer's            |
+|       |                                                | system in an encrypted form and                  |
+|       |                                                | displayed in the CBP platform<br>with            |
+|       |                                                | robust<br>security.<br>The<br>information        |
+|       |                                                | displayed through the CBP's platform             |
+|       |                                                | shall be visible only to the cardholder          |
+|       |                                                | and shall neither be accessed<br>nor be          |
+|       |                                                | stored by<br>the CBP.                            |
+| 22    | Co-branding<br>arrangement                     | Co-branding with card-issuers                    |
+|       | between banks and NBFCs for                    | Prior approval shall not be required by          |
+|       | Credit Cards                                   | the<br>banks<br>(all<br>banks<br>including       |
+|       | NBFCs, which desire to enter into a            | Payments Banks, State Co-operative               |
+|       | co-branding arrangement for issue              | Banks<br>and<br>District<br>Central<br>Co        |
+|       | of credit cards with a card-issuer,            | operative<br>Banks)<br>and<br>NBFCs              |
+|       | shall<br>also<br>be<br>guided<br>by<br>the     | registered<br>with<br>the<br>Reserve<br>Bank     |
+|       | Guidelines on issue of Co-Branded              | (NBFCs –<br>ICC, HFC, Factor, MFI, and           |
+|       | Credit<br>Cards<br>contained<br>in<br>the      | IFC) to become a<br>co-branding partner          |
+|       | respective<br>Master<br>Directions             | of card-issuers. The role of the co              |
+|       | applicable to NBFCs, as amended                | branding partner<br>shall be as per the          |
+|       | from time to time.                             | conditions stipulated under para 21.             |
+| 23(g) | No card-issuer shall dispatch a card           | No card-issuer shall dispatch a card to          |
+| 3     | to a customer unsolicited, except in           | a customer unsolicited. In case of               |
+|       | the<br>case<br>where<br>the<br>card<br>is<br>a | renewal<br>of<br>an<br>existing<br>card,<br>the  |
+|       | replacement/renewal<br>of<br>a<br>card         | cardholder shall be provided an option           |
+|       | already held by the customer. In               | to decline the same if he/she wants to           |
+|       | case a card is blocked at the request          | do so<br>before dispatching the renewed          |
+|       | of the customer, replacement card              | card. Further, in case a card is blocked         |
+|       | in lieu of the blocked card shall be           | at<br>the<br>request<br>of<br>the<br>cardholder, |
+|       | issued with the explicit consent of            | replacement card in lieu of the blocked          |
+|       | the customer. Further, card-issuer             | card shall be issued with the explicit           |
+|       | shall obtain explicit consent of the           | consent of the cardholder.                       |
+
+|       | cardholder prior to the renewal of an       |                                                     |
+|-------|---------------------------------------------|-----------------------------------------------------|
+|       | existing card.                              |                                                     |
+| 26(c) | Card-issuers<br>shall<br>be<br>liable<br>to | Card-issuers<br>shall<br>be<br>liable<br>to         |
+|       | compensate the complainant for the          | compensate the complainant for the                  |
+|       | loss<br>of<br>his/her<br>time,<br>expenses, | loss<br>of<br>his/her<br>time,<br>expenses,         |
+|       | financial loss as well as for the           | financial<br>loss<br>as<br>well<br>as<br>for<br>the |
+|       | harassment<br>and<br>mental<br>anguish      | harassment<br>and<br>mental<br>anguish              |
+|       | suffered by him/her for the fault of        | suffered by him/her for the fault of the            |
+|       | the<br>card-issuer<br>and<br>where<br>the   | card-issuer and where the grievance                 |
+|       | grievance has not been redressed in         | has not been redressed in time. If a                |
+|       | time. If a complainant does not get         | complainant does not get satisfactory               |
+|       | satisfactory response from the card         | response from the card-issuer within a              |
+|       | issuer within a maximum period of           | maximum period of<br>30 days<br>from the            |
+|       | one month from the date of lodging          | date of lodging the complaint, he/she               |
+|       | the complaint, he/she will<br>have the      | will have the option to approach the                |
+|       | option to approach the Office of the        | Office of the RBI Ombudsman<br>under                |
+|       | concerned<br>RBI<br>Ombudsman<br>for        | Integrated Ombudsman Scheme<br>for                  |
+|       | redressal of his/her grievance/s.           | redressal of his/her grievance/s.                   |
+| 27(a) | Card-issuers shall not reveal any           | Card-issuers<br>shall<br>not<br>reveal<br>any       |
+|       | information relating to customers           | information<br>relating<br>to<br>customers          |
+|       | obtained at the time of opening the         | obtained at the time of opening the                 |
+|       | account or issuing the card to any          | account or issuing the card to any                  |
+|       | other person or organization without        | other person or organization without                |
+|       | obtaining their explicit consent, with      | obtaining their explicit consent, with              |
+|       | regard to the purpose/s for which           | regard to the purpose/s for which the               |
+|       | the information will be used and the        | information<br>will<br>be<br>used<br>and<br>the     |
+|       | organizations<br>with<br>whom<br>the        | organizations<br>with<br>whom<br>the                |
+|       | information will be shared. Card            | information<br>will<br>be<br>shared.<br>Card        |
+|       | issuers<br>shall<br>ensure<br>strict        | issuers shall ensure strict compliance              |
+|       | compliance<br>to<br>the<br>extant<br>legal  | to the extant legal framework on data               |
+|       | framework<br>on<br>data<br>protection.      | protection. Further, in case where the              |
+|       | Further,<br>in<br>case<br>where<br>the      | customers give explicit consent for                 |
+|       | customers give explicit consent for         | sharing the information provided by                 |
+
+|       | sharing the information with other           | them with other agencies, card-issuers        |
+|-------|----------------------------------------------|-----------------------------------------------|
+|       | agencies,<br>card-issuers<br>shall           | shall clearly state and explain to the        |
+|       | explicitly state and explain clearly to      | customer the full meaning/implications        |
+|       | the<br>customer<br>the<br>full               | of<br>the<br>disclosure<br>clause.<br>The     |
+|       | meaning/implications<br>of<br>the            | information<br>sought<br>from<br>customers    |
+|       | disclosure clause. The information           | shall not be of such nature which will        |
+|       | sought from customers shall not be           | violate the provisions of law relating to     |
+|       | of such nature which will violate the        | maintenance<br>of<br>secrecy<br>in<br>the     |
+|       | provisions<br>of<br>law<br>relating<br>to    | transactions. The card-issuers shall be       |
+|       | maintenance<br>of<br>secrecy<br>in<br>the    | solely responsible for the correctness        |
+|       | transactions. The card-issuers shall         | or otherwise of the data provided for         |
+|       | be<br>solely<br>responsible<br>for<br>the    | the purpose.                                  |
+|       | correctness or otherwise of the data         |                                               |
+|       | provided for the purpose.                    |                                               |
+| 27(c) | Card-issuers, which were granted             | Card-issuers,<br>which<br>were<br>granted     |
+|       | specific approvals for issue of co           | specific approvals for issuance<br>of co      |
+|       | branded debit cards in the past, are         | branded<br>cards<br>in the past, are advised  |
+|       | advised<br>to<br>ensure<br>that<br>the<br>co | to<br>ensure<br>that<br>the<br>co-branding    |
+|       | branding<br>arrangement<br>is<br>in          | arrangement is in conformity with the         |
+|       | conformity<br>with<br>the<br>instructions    | instructions issued under Chapter<br>V        |
+|       | issued under Chapter IV above. In            | above.<br>In<br>case,<br>the<br>co-branding   |
+|       | case, the co-branding arrangement            | arrangement is between two banks,             |
+|       | is between two banks, the card               | the card issuing bank shall ensure            |
+|       | issuing<br>bank<br>shall<br>ensure           | compliance<br>with<br>the<br>relevant         |
+|       | compliance<br>with<br>the<br>relevant        | instructions.                                 |
+|       | instructions.                                |                                               |
+| 28    | Card-issuers<br>shall<br>ensure              | Card-issuers shall ensure adherence           |
+|       | adherence<br>to<br>the<br>guidelines<br>on   | to<br>the<br>Master<br>Direction              |
+|       | "Managing<br>Risks<br>and<br>Code<br>of      | DoS.CO.CSITEG/SEC.1/31.01.015/2               |
+|       | Conduct in Outsourcing of Financial          | 023-24<br>dated<br>April<br>10,<br>2023<br>on |
+|       | Services" as amended from time to            | 'Outsourcing<br>of<br>Information             |
+|       | time.                                        | Technology Services'<br>and guidelines        |
+|       |                                              | on<br>Managing<br>Risks<br>and<br>Code<br>of  |
+
+| Circular/paragraph                  | Date      | Subject                             |
+|-------------------------------------|-----------|-------------------------------------|
+| RPCD.CO.RF.BC.No.2/07.06.00/        | September | Approval<br>for<br>Co-branded       |
+| 2005-06                             | 17, 2005  | Domestic Credit Card Business       |
+| DCBR.CO.BPD.(SCB).No.1/13.0         | April 30, | First Bi-monthly Monetary Policy    |
+| 5.000/2014-15                       | 2015      | Statement 2015-16 –<br>Issue of     |
+|                                     |           | Credit<br>Cards<br>by<br>Scheduled  |
+|                                     |           | Urban Cooperative Banks             |
+| Paragraph 60<br>and Annex XVII of   | October   | Issue<br>of<br>Co-branded<br>Credit |
+| the Master Direction –<br>Reserve   | 19, 2023  | Cards                               |
+| Bank<br>of<br>India<br>(Non-Banking |           |                                     |
+| Financial Company–<br>Scale Based   |           |                                     |
+| Regulation) Directions, 2023        |           |                                     |

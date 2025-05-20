@@ -1,0 +1,48 @@
+ll under three categories viz. General, Market and Credit. Under general category, there can be situations where bank is put unexpectedly to loss due to events such as civil unrest or collapse of currency in a country. Natural calamities and pandemics may also be included in the general category. Market category would include events such as a general melt down in the markets, which affects the entire financial system. Among the credit category, only exceptional credit losses would be considered as an extra-ordinary circumstance.
+
+5.6.2.3 In order to mitigate the adverse impact of COVID 19 related stress on banks, as a measure to enable capital conservation, banks are allowed to utilise 100 per cent of floating provisions held by them as on December 31, 2020 for making specific provisions for nonperforming assets with prior approval of their Boards. Such utilisation is permitted up to March 31, 2022.
+
+## 5.6.3 Accounting
+
+Floating provisions cannot be reversed by credit to the profit and loss account. They can only be utilised for making specific provisions in extraordinary circumstances as mentioned above. Until such utilisation, these provisions can be netted off from gross NPAs to arrive at disclosure of net NPAs. Alternatively, they can be treated as part of Tier II capital within the overall ceiling of 1.25% of total risk weighted assets.
+
+## 5.6.4 Disclosures
+
+Banks should make comprehensive disclosures on floating provisions in the "notes on accounts" to the balance sheet on (a) opening balance in the floating provisions account, (b) the quantum of floating provisions made in the accounting year, (c) purpose and amount of draw down made during the accounting year, and (d) closing balance in the floating provisions account.
+
+## 5.7 Additional Provisions at higher than prescribed rates
+
+## 5.7.1 For NPAs
+
+The regulatory norms for provisioning represent the minimum requirement. A bank may voluntarily make specific provisions for advances at rates which are higher than the rates prescribed under existing regulations, to provide for estimated actual loss in collectible amount, provided such higher rates are approved by the Board of Directors and consistently adopted from year to year. Such additional provisions are not to be considered as floating provisions. The additional provisions for NPAs, like the minimum regulatory provision on NPAs, may be netted off from gross NPAs to arrive at the net NPAs
+
+#### 5.7.2 For standard assets
+
+The provisioning rates prescribed in this Master Circular are the regulatory minimum and banks are encouraged to make provisions at higher rates in respect of advances to stressed sectors of the economy. In this regard, it is advised as under:
+
+(i) Banks shall put in place a Board–approved policy for making provisions for standard assets at rates higher than the regulatory minimum, based on evaluation of risk and stress in various sectors.
+
+(ii) The policy shall require a review, at least on a quarterly basis, of the performance of various sectors of the economy to which the bank has an exposure to evaluate the present and emerging risks and stress therein. The review may include quantitative and qualitative aspects like debt-equity ratio, interest coverage ratio, profit margins, ratings upgrade to downgrade ratio, sectoral non-performing assets/stressed assets, industry performance and outlook, legal/ regulatory issues faced by the sector, etc. The reviews may also include sector specific parameters.
+
+#### 5.8 Provisions on Leased Assets
+
+## 5.8.1 Substandard assets
+
+(i) 15 percent of the sum of the net investment in the lease and the unrealised portion of finance income net of finance charge component. The terms 'net investment in the lease', 'finance income' and 'finance charge' are as defined in 'AS 19 Leases'.
+
+(ii) Unsecured (as defined in Paragraph 5.4 above) lease exposures, which are identified as 'substandard' would attract additional provision of 10 per cent, i.e., a total of 25 per cent.
+
+## 5.8.2 Doubtful assets
+
+100 percent of the extent to which the finance is not secured by the realisable value of the leased asset, should be provided for. Realisable value is to be estimated on a realistic basis. In addition to the above provision, provision at the following rates should be made on the sum of the net investment in the lease and the unrealised portion of finance income net of finance charge component of the secured portion, depending upon the period for which asset has been doubtful:
+
+
+#### 5.8.3 Loss assets
+
+The entire asset should be written off, if for any reason, an asset is allowed to remain in books, 100 percent of the sum of the net investment in the lease and the unrealised portion of finance income net of finance charge component should be provided for.
+
+## 5.9 Guidelines for Provisions under Special Circumstances
+
+#### 5.9.1 Advances against deposits/specific instruments
+
+Advances against term deposits, NSCs eligible for surrender, KVPs, gold ornaments, g

@@ -1,0 +1,30 @@
+ from credit lines or liquidity facilities to special purpose entities;
+- Exposures from guarantees provided by monolines and other third parties.
+
+Securitisation exposures should be included in the bank's MIS to help ensure that senior management understands the implications of such exposures for liquidity, earnings, risk concentration and capital. More specifically, a bank should have the necessary processes in place to capture in a timely manner, updated information on securitisation transactions including market data, if available, and updated performance data from the securitisation trustee or servicer.
+
+# **13.9 Reputational Risk and Implicit Support[115](#page-143-0)**
+
+# 13.9.1 **Provision of Implicit Support for Securitisation Transactions**
+
+(i) Provision of implicit support to a transaction, whether contractual (i.e., credit enhancements provided at the inception of a securitised transaction) or non-contractual (implicit support) can take numerous forms. For instance, contractual support can include over collateralisation, credit derivatives, spread accounts, contractual recourse obligations, subordinated notes, credit risk mitigants provided to a specific tranche, the subordination of fee or interest income or the deferral of margin income, and clean-up calls that exceed 10 percent of the initial issuance. Examples of implicit support include the purchase of deteriorating credit risk exposures from the underlying pool, the sale of discounted credit risk exposures into the pool of securitised credit risk exposures, the purchase of underlying exposures at above market price or an increase in the first loss position according to the deterioration of the underlying exposures.
+
+(ii) The provision of implicit (or non-contractual) support, as opposed to contractual credit support (i.e., credit enhancements), raises significant supervisory concerns. For traditional securitisation structures the provision of implicit support undermines the clean break criteria, which when satisfied would allow banks to exclude the securitised assets from regulatory capital calculations. For synthetic securitisation structures, it negates the significance of risk transference. By providing implicit support, banks signal to the market that the risk is still with the bank and has not in effect been transferred. The institution's capital calculation therefore understates the true risk. Accordingly, national supervisors are expected to take appropriate action when a banking organisation provides implicit support.
+
+(iii) When a bank has been found to provide implicit support to a securitisation, it will be required to hold capital against all of the underlying exposures associated with the structure as if they had not been securitised. It will also be required to disclose publicly that it was found to have provided non-contractual support, as well as the resulting increase in the capital charge (as noted above). The aim is to require banks to hold capital against exposures for which they assume the credit risk, and to discourage them from providing non-contractual support.
+
+(iv) If a bank is found to have provided implicit support on more than one occasion, the bank is required to disclose its transgression publicly and the Reserve Bank will take appropriate action that may include, but is not limited to, one or more of the following:
+
+• The bank may be prevented from gaining favourable capital treatment on securitised assets for a period of time to be determined by the Reserve Bank;
+
+<span id="page-143-0"></span> <sup>115</sup> Annex 3 of the Guidelines on Implementation of Basel III Capital Regulations in India issued vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)  [DBOD.No.BP.BC.98/21.06.201/2011-2012 dated May 2, 2012.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)
+
+- The bank may be required to hold capital against all securitised assets as though the bank had created a commitment to them, by applying a conversion factor to the risk weight of the underlying assets;
+- For purposes of capital calculations, the bank may be required to treat all securitised assets as if they remained on the balance sheet; and
+- The bank may be required by the Reserve Bank to hold regulatory capital in excess of the minimum risk-based capital ratios.
+
+(v) During the SREP, Reserve Bank will determine implicit support and may take appropriate supervisory action to mitigate the effects. Pending any investigation, the bank may be prohibited from any capital relief for planned securitisation transactions (moratorium). The action of Reserve Bank will be aimed at changing the bank's behaviour with regard to the provision of implicit support, and to correct market perception as to the willingness of the bank to provide future recourse beyond contractual obligations.
+
+# 13.9.2 **Reputational Risk on Account of Implicit Support**
+
+(i) Reputational risk can be defined as the risk arising from n

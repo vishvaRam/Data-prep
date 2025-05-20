@@ -1,0 +1,7 @@
+| Item                             | Existing Rate                   | Revised Rate<br>(With immediate effect)  |
+|----------------------------------|---------------------------------|------------------------------------------|
+| Penal<br>interest<br>rates<br>on | Bank<br>Rate<br>plus<br>3.0     | Bank Rate plus 3.0 percentage points     |
+| shortfalls<br>in<br>reserve      | percentage points (9.75<br>per  | (9.50<br>per cent) or Bank Rate plus 5.0 |
+| requirements<br>(depending on    | cent) or Bank Rate plus 5.0     | percentage points (11.50<br>per cent).   |
+| duration of shortfalls).         | percentage points (11.75<br>per |                                          |
+|                                  | cent).                          |                                          |

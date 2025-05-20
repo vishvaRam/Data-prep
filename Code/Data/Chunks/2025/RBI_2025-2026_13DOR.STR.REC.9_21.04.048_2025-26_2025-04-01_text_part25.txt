@@ -1,0 +1,44 @@
+ions, 2018).
+- b) The new promoter shall have acquired at least 26 per cent of the paid up equity capital as well as voting rights of the borrower entity and shall be the single largest shareholder of the borrower entity.
+- c) The new promoter shall be in 'control' of the borrower entity as per the definition of 'control' in the Companies Act, 2013 / regulations issued by the Securities and Exchange Board of India/any other applicable regulations / accounting standards as the case may be.
+- d) The conditions for implementation of RP as laid out in Part B1 of this Master Circular are complied with.
+
+22.2 Upon change in ownership, all the outstanding loans/credit facilities of the borrowing entity need to demonstrate satisfactory performance (as defined at footnote 18) during the monitoring period. If the account fails to perform satisfactorily at any point of time during the monitoring period, it shall trigger a fresh Review Period, in terms of Paragraph 9.1 above.
+
+22.3 The quantum of provisions held (excluding additional provisions) by the bank against the said account as on the date of change in ownership of the borrowing entities can be reversed only after the end of monitoring period subject to satisfactory performance during the same.
+
+#### 23. Principles on classification of sale and lease back transactions as restructuring
+
+23.1 A sale and leaseback transaction of the assets of a borrower or other transactions of similar nature will be treated as an event of restructuring for the purpose of asset classification and provisioning in the books of lenders with regard to the residual debt of the seller as well as the debt of the buyer if all the following conditions are met:
+
+- a) The seller of the assets is in financial difficulty;
+- b) Significant portion, i.e. more than 50 per cent, of the revenues of the buyer from the specific asset is dependent upon the cash flows from the seller; and
+- c) 25 per cent or more of the loans availed by the buyer for the purchase of the specific asset is funded by the lenders who already have a credit exposure to the seller.
+
+#### 24. Prudential Norms relating to Refinancing of Exposures to Borrowers
+
+If borrowings/export advances (denominated in any currency, wherever permitted) for the purpose of repayment/refinancing of loans denominated in same/another currency are obtained:
+
+- a) From lenders who are part of Indian banking system (where permitted); or
+- b) with the support (where permitted) from the Indian banking system in the form of Guarantees/Standby Letters of Credit/Letters of Comfort, etc., such events shall be treated as 'restructuring' if the borrower concerned is under financial difficulty.
+
+#### 25. Takeout Finance
+
+Takeout financing transactions that involve prior commitments shall be governed by the circular DBOD.No.BP.BC.144/21.04.048-2000 dated February 29, 2000 on "Income Recognition, Asset Classification, Provisioning and other related matters and Capital Adequacy Standards – Takeout Finance".
+
+#### 26. Regulatory Exemptions
+
+## 26.1 Exemptions from RBI Regulations
+
+26.1.1 Acquisition of non-SLR securities by way of conversion of debt is exempted from the restrictions and the prudential limit on investment in unlisted non-SLR securities prescribed by the RBI.
+
+26.1.2 Acquisition of shares due to conversion of debt to equity during a restructuring process will be exempted from regulatory ceilings/restrictions on Capital Market Exposures, investment in Para-Banking activities and intra-group exposure. However, these will require reporting to RBI (reporting to DoS, CO every month along with the regular DSB Return on Asset Quality) and disclosure by banks in the Notes to Accounts in Annual Financial Statements. Nonetheless, banks will have to comply with the provisions of Section 19(2) of the Banking Regulation Act, 1949.
+
+26.2 Exemptions from Regulations of Securities and Exchange Board of India (SEBI)
+
+26.2.1 SEBI has provided exemptions, under certain conditions, from the requirements of Securities and Exchange Board of India (SEBI) (Issue of Capital and Disclosure Requirements) (ICDR) Regulations, 2018 for restructurings carried out as per the regulations issued by the Reserve Bank.
+
+26.2.2 With reference to the requirements contained in sub-regulations 158 (6) (a) of ICDR Regulations, 2018, the issue price of the equity shall be the lower of (a) or (b) below:
+
+- a) The average of the weekly high and low of the volume weighted average price of the related equity shares quoted on the recognised stock exchange during the twenty six weeks preceding the 'reference date' or the average of the weekly high and low of the volume weighted average prices of the related equity shares quoted on a recognised stock exchange during the two weeks preceding the 'reference date', whichever is lower; and
+- b) Book value: Book value per share to be calculated from the latest audited balance sheet (without considering 'revaluation reserves', if any) adjusted for cash f

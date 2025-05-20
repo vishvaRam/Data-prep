@@ -1,0 +1,44 @@
+er repo)**
+
+(In this case, the cash lent is the exposure and the security borrowed is collateral)
+
+
+
+@ The supervisory haircut of 2 per cent has been scaled down using the formula indicated in paragraph 7.3.7 of the Circular.
+
+# **Measurement of capital charge for Market Risks in respect of Interest Rate Derivatives and Options**
+
+### <span id="page-233-0"></span>**A. Interest Rate Derivatives**
+
+The measurement system should include all interest rate derivatives and off-balance-sheet instruments in the trading book, which react to changes in interest rates, (e.g., forward rate agreements (FRAs), other forward contracts, bond futures, interest rate and cross-currency swaps and forward foreign exchange positions). Options can be treated in a variety of ways as described in para B.1 below. A summary of the rules for dealing with interest rate derivatives is set out in the Table at the end of this section.
+
+### **1. Calculation of positions**
+
+The derivatives should be converted into positions in the relevant underlying and be subjected to specific and general market risk charges as described in the guidelines. In order to calculate the capital charge, the amounts reported should be the market value of the principal amount of the underlying or of the notional underlying. For instruments where the apparent notional amount differs from the effective notional amount, banks must use the effective notional amount.
+
+### **(a) Futures and Forward Contracts, including Forward Rate Agreements**
+
+These instruments are treated as a combination of a long and a short position in a notional government security. The maturity of a future or a FRA will be the period until delivery or exercise of the contract, plus - where applicable - the life of the underlying instrument. *For example, a long position in a June three-month interest rate future (taken in April) is to be reported as a long position in a government security with a maturity of five months and a short position in a government security with a maturity of two months*. Where a range of deliverable instruments may be delivered to fulfill the contract, the bank has flexibility to elect which deliverable security goes into the duration ladder but should take account of any conversion factor defined by the exchange.
+
+### **(b) Swaps**
+
+Swaps will be treated as two notional positions in government securities with relevant maturities. *For example, an interest rate swap under which a bank is receiving floating rate interest and paying fixed will be treated as a long position in a floating rate instrument of maturity equivalent to the period until the next interest fixing and a short position in a fixed-rate instrument of maturity equivalent to the residual life of the swap*. For swaps that pay or receive a fixed or floating interest rate against some other reference price, e.g., a stock index, the interest rate component should be slotted into the appropriate repricing maturity category, with the equity component being included in the equity framework.
+
+Separate legs of cross-currency swaps are to be reported in the relevant maturity ladders for the currencies concerned.
+
+# **2. Calculation of capital charges for derivatives under the Standardised Methodology**
+
+## **(a) Allowable offsetting of Matched Positions**
+
+Banks may exclude the following from the interest rate maturity framework altogether (for both specific and general market risk);
+
+- Long and short positions (both actual and notional) in identical instruments with exactly the same issuer, coupon, currency and maturity.
+- A matched position in a future or forward and its corresponding underlying may also be fully offset, (the leg representing the time to expiry of the future should however be reported) and thus excluded from the calculation.
+
+When the future or the forward comprises a range of deliverable instruments, offsetting of positions in the future or forward contract and its underlying is only permissible in cases where there is a readily identifiable underlying security which is most profitable for the trader with a short position to deliver. The price of this security, sometimes called the "cheapest-to-deliver", and the price of the future or forward contract should in such cases move in close alignment.
+
+No offsetting will be allowed between positions in different currencies; the separate legs of crosscurrency swaps or forward foreign exchange deals are to be treated as notional positions in the relevant instruments and included in the appropriate calculation for each currency.
+
+In addition, opposite positions in the same category of instruments can in certain circumstances be regarded as matched and allowed to offset fully. To qualify for this treatment the positions must relate to the same underlying instruments, be of the same nominal value and be denominated in the same currency. In addition:
+
+- for Futures: offsetting positions in the notional or underlying instruments to which the futures contra

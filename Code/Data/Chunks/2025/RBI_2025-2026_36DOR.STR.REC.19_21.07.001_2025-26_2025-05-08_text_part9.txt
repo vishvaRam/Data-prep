@@ -1,0 +1,32 @@
+te: Illustrations are provided for ease of understanding and are merely indicative and not exhaustive.*
+
+#### Illustration 1
+
+Assume that as on April 1, 2024 the RE earmarks a portfolio of ₹40 crore (out of the total **sanctioned** loans) under a DLG arrangement (DLG set). This portfolio shall remain "frozen" for the purpose of the specific DLG arrangement - meaning that no loan assets can be added or removed from it, except through loan repayment/ write-off. The RE can have such multiple DLG sets.
+
+The ceiling for DLG cover on such portfolio shall be fixed at ₹2 crore (5% of ₹40 crore), which shall get activated proportionately as and when the loans are **disbursed**.
+
+#### Illustration 2
+
+Assume that out of the above DLG set, loans amounting to ₹10 crore are disbursed immediately. Then as on April 1, 2024, the DLG cover available for the portfolio shall be ₹0.5 crore (5% of disbursed).
+
+Subsequently, if loans of ₹10 crore are further disbursed on April 15, 2024, the DLG cover shall proportionately increase to ₹1 crore effective April 15, 2024.
+
+#### *(Refer table below also for summary of each case)*
+
+**Case 1**: As on June 30, 2024, loans worth ₹5 crore mature without any default. In this case, the outstanding portfolio in the books of the RE would be ₹15 crore and the DLG cover shall remain at ₹1 crore.
+
+**Case 2:** Subsequently, there is a default of ₹2 crore during Q2-2024 and consequently the RE invokes the entire DLG (₹1 crore[13\)](#page-21-1). In this case, as of Sept 30, 2024 the outstanding portfolio in the books of the RE shall be ₹15 crore (*₹20 crore original portfolio less ₹5 crore loans matured without default*) but no headroom for DLG will be available
+
+<span id="page-21-1"></span> <sup>13</sup> It has been assumed that till date zero principal/interest have been received towards these loans.
+
+as the maximum permissible DLG cover of ₹1 crore (5% of disbursed) has been exhausted.
+
+**Case 3:** Going further, let's assume that recovery worth ₹1 crore is made by the RE during October 2024 on the defaulted loans of ₹2 crore. In such a case, the amount of the outstanding portfolio in the books of the RE as on October 31, 2024 shall come down to ₹14 crore *(₹20 crore original portfolio less ₹5 crore loans matured without any default less ₹1 crore loans which were in default and recovered).* However, the recovery amount of ₹1 crore cannot be added to reinstate the DLG cover.
+
+*(figures in ₹ crore)*
+
+
+<span id="page-23-0"></span>
+
+

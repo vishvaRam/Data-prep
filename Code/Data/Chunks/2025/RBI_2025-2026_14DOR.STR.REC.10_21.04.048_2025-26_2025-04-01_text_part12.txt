@@ -1,0 +1,49 @@
+reserve beyond the specified limits on their own or if provided in the respective State Co-operative Societies Acts.
+
+# **5.2 Provisioning for Retirement Benefits**
+
+Banks may have retirement benefit schemes for their staff, viz. Provident Fund, Gratuity and Pension. It is necessary that such liabilities are estimated on actuarial basis and full provision should be made every year for the purpose in their Profit and Loss Account.
+
+<span id="page-18-0"></span><sup>7</sup> Refer to para 3 c) ii of th[e circular DOR.CAP.REC.No.27/09.18.201/2024-25 dated August 02, 2024](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12716&Mode=0)
+
+### **5.3 Provisioning Pertaining to Fraud Accounts**
+
+The provisioning norm in respect of all cases of fraud identified in terms of the [Master Directions on](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12703)  [Fraud Risk Management in Urban Cooperative Banks \(UCBs\) / State Cooperative Banks \(StCBs\) /](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12703)  [Central Cooperative Banks \(CCBs\) dated July 15, 2024,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12703) as updated from time to time, are as under:
+
+5.3.1 The entire amount due to the bank (irrespective of quantum of security held against such assets), or for which the bank is liable (including in case of deposit accounts), is to be provided for over a period not exceeding four quarters commencing with the quarter in which the fraud has been detected;
+
+5.3.2 However, where there has been delay beyond the prescribed period, in reporting the fraud to Reserve Bank, the entire provisioning is required to be made at once. In addition, Reserve Bank of India may also initiate appropriate supervisory action where there has been delay by the bank in reporting a fraud or provisioning there against.
+
+# **5.4 Guidelines for Provisions in Specific Cases**
+
+## **(i) State Government guaranteed Advances**
+
+State Government guaranteed advance and investment in State Government guaranteed securities would attract extant provisioning norms on the basis of classification of assets into prescribed categories as detailed in paragraph 3 above.
+
+### **(ii) Advances granted under Rehabilitation Packages approved by Term Lending Institutions**
+
+(a) The existing credit facilities sanctioned to a unit under rehabilitation package approved by term lending institutions, should continue to be classified as sub-standard or doubtful asset as the case may be.
+
+(b) However, the additional facilities sanctioned as per package finalised by term lending institutions, the income recognition and asset classification norms will become applicable after a period of one year from the date of disbursement.
+
+(c) In respect of additional credit facilities granted to SSI units which are identified as sick and where rehabilitation packages / nursing programmes have been drawn by the banks themselves or under consortium arrangements, no provision need be made for a period of one year.
+
+(iii) Advances against fixed / term deposit, NSCs eligible for surrender, KVPs, and life policies are exempted from provisioning requirements.
+
+(iv) Advances against gold ornaments, government securities and all other kinds of securities are not exempted from provisioning requirements.
+
+#### **(v) Advances covered by ECGC Guarantee**
+
+(a) In the case of doubtful assets which are guaranteed by ECGC, provision should be made only for the balance in excess of the amount guaranteed by the Corporation. Further, while arriving at the provisioning required, realisable value of the securities should first be deducted from the outstanding balance in respect of the amount guaranteed by the Corporation and then provision made as illustrated hereunder:
+
+
+
+(b) Banks have the option of following more stringent method of provisioning in respect of advances covered by the guarantees of ECGC as compared to the method given above.
+
+### **(vi) Exposures guaranteed by Credit Guarantee Schemes**
+
+In terms of [circular DOR.STR.REC.67/21.06.201/2022-23 dated September 07, 2022,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12384&Mode=0) banks have been permitted to apply zero risk weight to advances guaranteed by Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and individual schemes under National Credit Guarantee Trustee Company Ltd (NCGTC), subject to certain conditions. In case such advances become non-performing, no provisions need to be made towards the guaranteed portion. The amount outstanding in excess of the guaranteed portion, should be provided for as per the extant guidelines on provisioning for non-performing assets.
+
+## **(vii) Interbank exposure of Primary (Urban) Co-operative Banks (UCBs) under All Inclusive Directions**
+
+- a) The interbank exposures arising from deposits placed by UCBs with a UCB under AID and their non-performing exposures a

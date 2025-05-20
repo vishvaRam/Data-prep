@@ -1,0 +1,56 @@
+her contracts of a similar nature
+- 1.2 Interest rate contracts include the following:
+	- (a) Single currency interest rate swaps
+	- (b) Basis swaps
+	- (c) Forward rate agreements
+	- (d) Interest rate futures
+	- (e) Interest rate options purchased
+	- (f) Other contracts of a similar nature
+- 1.3 As in the case of other off-Balance Sheet items, a two-stage calculation prescribed below shall be applied:
+
+
+
+When effective bilateral netting contracts as specified in paragraph II.3 of this Annex are in place, the conversion factors, as mentioned in the below table, shall be applicable[7](#page-17-0) :
+
+
+(b) Step 2 - The adjusted value thus obtained shall be multiplied by the risk weight allotted to the relevant counter-party as given in I-A above.
+
+*Note: At present, most of the Primary (Urban) Cooperative Banks are not carrying out forex transactions. However, those who have been given A.D's licence may undertake transactions mentioned above. In the event of any uncertainty in assigning risk weight against a specific transaction, RBI clarification may be sought for.*
+
+#### 2**. Repo in Corporate Bonds**
+
+UCBs which are lenders of funds in the repo transaction are required to provide counter-party credit risk corresponding to the risk weight for such exposure as applicable to the loan / investment exposure.
+
+<span id="page-17-0"></span> <sup>7</sup> For purposes of calculating the credit exposure to a netting counterparty for forward foreign exchange contracts and other similar contracts in which notional principal is equivalent to cash flows, the original credit conversion factors (i.e., without considering the impact of bilateral netting) should be applied to the notional principal, which is defined as the net receipts falling due on each value date in each currency. In no case should the reduced factors above be applied to net notional amounts.
+
+## 3. **Requirement for recognition of Bilateral Netting Contract:**
+
+(a) UCBs may net transactions subject to novation under which any obligation between a UCB and its counterparty to deliver a given currency on a given value date is automatically amalgamated with all other obligations for the same currency and value date, legally substituting one single amount for the previous gross obligations.
+
+(b) UCBs may also net transactions subject to any legally valid form of bilateral netting not covered in (a), including other forms of novation.
+
+(c) In both cases (a) and (b), a UCB will need to satisfy that it has:
+
+(i) A netting contract or agreement with the counterparty which creates a single legal obligation, covering all included transactions, such that the UCB would have either a claim to receive or obligation to pay only the net sum of the positive and negative mark-to-market values of included individual transactions in the event a counterparty fails to perform due to any of the following: default, bankruptcy, liquidation or similar circumstances.
+
+(ii) Written and reasoned legal opinions that, in the event of a legal challenge, the relevant courts and administrative authorities would find the UCB's exposure to be such a net amount under:
+
+- The law of the jurisdiction in which the counterparty is chartered and, if the foreign branch of a counterparty is involved, then also under the law of the jurisdiction in which the branch is located.
+- The law that governs the individual transactions; and
+- The law that governs any contract or agreement necessary to effect the netting.
+
+(iii) Procedures in place to ensure that the legal characteristics of netting arrangements are kept under review in the light of possible changes in relevant law.
+
+(d) Contracts containing walkaway clauses will not be eligible for netting for the purpose of calculating capital requirements under these guidelines. A walkaway clause is a provision which permits a non-defaulting counterparty to make only limited payments or no payment at all, to the estate of a defaulter, even if the defaulter is a net creditor.
+
+# **Guidelines on Issuance of Preference Shares**
+
+### <span id="page-19-0"></span>**A. Perpetual Non-Cumulative Preference Shares (PNCPS) eligible for inclusion in Tier I capital**
+
+UCBs are permitted to issue Perpetual Non-Cumulative Preference Shares (PNCPS) at face value to their members or any other person residing within their area of operation, with the prior approval of Reserve Bank of India (RBI). The UCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum, to the concerned Regional Office (RO) of the RBI. A certificate from a Chartered Accountant to the effect that the terms of the offer document are in compliance with these instructions shall also be submitted along with the application. The amounts raised through PNCPS shall comply with the following terms and conditions to qualify for inclusion as Tier I capital.
+
+## **2. Terms of Issue**
+
+### **2.1 Limits**
+
+The outstanding amount of PNCPS and Perpetual De

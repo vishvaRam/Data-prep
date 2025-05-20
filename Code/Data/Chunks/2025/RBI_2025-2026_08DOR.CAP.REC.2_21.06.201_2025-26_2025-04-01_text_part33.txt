@@ -1,0 +1,31 @@
+formulae and methodology set forth below must be calculated for each specific product giving rise to counterparty credit risk. In case the QCCP's prefunded own resources are shared among product types, the QCCP will have to allocate those funds to each of the calculations, in proportion to the respective product specific exposure i.e., EAD.
+- (c) Clearing member banks are required to capitalise their exposures arising from default fund contributions to a qualifying CCP by applying the following formula:
+	- Clearing member banks may apply a risk-weight of 1250% to their default fund exposures to the qualifying CCP, subject to an overall cap on the risk-weighted assets from all its exposures to the QCCP (i.e., including trade exposures) equal to 20% of the trade exposures to the QCCP. More specifically, the Risk Weighted Assets (RWA) for both bank *i*'s trade and default fund exposures to each QCCP are equal to[74:](#page-65-0)
+
+*Min {(2% \* TEi + 1250% \* DFi); (20% \* TEi)}* 
+
+Where;
+
+TEi is bank *i*'s trade exposure to the QCCP; and
+
+DFi is bank *i*'s pre-funded contribution to the QCCP's default fund.
+
+### **5.15.3.9 Exposures to Non-qualifying CCPs**
+
+- (a) Banks must apply the Standardised Approach for credit risk according to the category of the counterparty, to their trade exposure to a non-qualifying CCP[75.](#page-65-1)
+- (b) Banks must apply a risk weight of 1250% to their default fund contributions to a nonqualifying CCP.
+- (c) For the purposes of this paragraph, the default fund contributions of such banks will include both the funded and the unfunded contributions which are liable to be paid should the CCP so require. Where there is a liability for unfunded contributions (i.e. unlimited binding commitments) the Reserve Bank will determine in its Pillar 2 assessments the amount of unfunded commitments to which 1250% risk weight should apply.
+
+ <sup>74</sup> The 2% risk weight on trade exposures does not apply additionally, as it is included in the equation.
+
+<span id="page-65-1"></span><span id="page-65-0"></span><sup>75</sup> In cases where a CCP is to be considered as non-QCCP and the exposure is to be reckoned on CCP, the applicable risk weight will be according to the ratings assigned to the CCPs.
+
+#### **5.15.4 Failed Transactions**
+
+- (i) With regard to unsettled securities and foreign exchange transactions, banks are exposed to counterparty credit risk from trade date, irrespective of the booking or the accounting of the transaction. Banks are encouraged to develop, implement and improve systems for tracking and monitoring the credit risk exposure arising from unsettled transactions as appropriate for producing management information that facilitates action on a timely basis.
+- (ii) Banks must closely monitor securities and foreign exchange transactions that have failed, starting from the day they fail for producing management information that facilitates action on a timely basis. Failed transactions give rise to risk of delayed settlement or delivery.
+- (iii) Failure of transactions settled through a delivery-versus-payment system (DvP), providing simultaneous exchanges of securities for cash, expose banks to a risk of loss on the difference between the transaction valued at the agreed settlement price and the transaction valued at current market price (i.e., positive current exposure). Failed transactions where cash is paid without receipt of the corresponding receivable (securities, foreign currencies, or gold,) or, conversely, deliverables were delivered without receipt of the corresponding cash payment (non-DvP, or free delivery) expose banks to a risk of loss on the full amount of cash paid or deliverables delivered. Therefore, a capital charge is required for failed transactions and must be calculated as under. The following capital treatment is applicable to all failed transactions, including transactions through recognised clearing houses and Central Counterparties. Repurchase and reverse-repurchase agreements as well as securities lending and borrowing that have failed to settle are excluded from this capital treatment.
+- (iv) **For DvP Transactions**  If the payments have not yet taken place five business days after the settlement date, banks are required to calculate a **capital charge** by multiplying the positive current exposure of the transaction by the appropriate factor as under. In order to capture the information, banks will need to upgrade their information systems in order to track the number of days after the agreed settlement date and calculate the corresponding capital charge.
+
+
+(v) For non-DvP transactions (free deliveries) after the first contractual payment / delivery leg, the bank that has made the payment will treat its exposure as a loan if the second leg has not been received by the end of the business day. If the dates when two payment legs are made are the same according to the time zones where each payment is made, it is deemed that they are settled on th

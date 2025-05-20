@@ -1,0 +1,27 @@
+orrower and the RE shall not be controlled either directly or indirectly by a third-party, including the LSP.
+- iv. RE shall ensure that any fees, charges, reimbursements, etc. payable to LSP are paid directly by the RE and are not charged to or collected from the borrowers separately by LSP.
+
+<span id="page-8-2"></span><span id="page-8-1"></span><sup>6</sup> Co-lending arrangements shall be governed by the extant instructions, as amended from time to time. This shall also cover co-lending arrangements between REs for non-PSL loans subject to the condition that no third party other than the REs in a co-lending transaction shall have direct or indirect control over the flow of funds at any point of time. <sup>7</sup> Advances against salary, where the loan is disbursed directly to the bank account of the borrower but the repayment is from the corporate employer, can be allowed subject to the condition that the loan is repaid by the corporate employer by deducting the amount from the borrower's salary. It must, however, be ensured that LSPs do not have any control over the flow of funds directly or indirectly in such transactions and that repayment is directly from the bank account of the employer to the RE.
+
+v. In case of delinquent loans, RE may deploy physical interface to recover loans in cash, wherever necessary. In order to afford operational flexibility to RE, such transactions are exempted from the requirement of direct repayment of loan in the RE's bank account. However, any recovery by cash shall be duly reflected in full in the borrower's account on the same day and RE shall ensure that any fees, charges, etc., payable to LSPs for such recovery are paid directly by the RE and are not charged by LSP to the borrower either directly or indirectly from the recovery proceeds.
+
+## <span id="page-9-0"></span>10.**Cooling-off period**
+
+- i. The borrower shall be given an explicit option to exit a digital loan by paying the principal and the proportionate APR without any penalty during an initial "coolingoff period". The cooling off period shall be determined by the Board of the RE as laid down in their loan policy, subject to the period so determined not being less than one day. For borrower continuing with the loan even after cooling-off period, pre-payment shall continue to be allowed as per applicable RBI guidelines[8.](#page-9-2)
+- ii. RE may retain a reasonable one-time processing fee, if the customer exits the loan during the cooling-off period. This, if applicable, shall be disclosed to the customer upfront in KFS.
+
+#### <span id="page-9-1"></span>11.**Grievance redressal**
+
+i. The RE, and the LSP which has an interface with the borrower, shall designate nodal grievance redressal officers to deal with digital lending related complaints/ issues raised by the borrower.
+
+<span id="page-9-2"></span><sup>8</sup> In terms of [Circular DBR.Dir.BC.No.08/13.03.00/2019-20 "Levy of Foreclosure Charges /Pre-payment Penalty on](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11646&Mode=0)  [Floating Rate Term Loans" dated August 02, 2019](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11646&Mode=0) for banks and [Master Direction – Reserve Bank of India \(Non-](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)[Banking Financial Company – Scale Based Regulation\) Directions, 2023](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) dated October 19, 2023 for NBFCs, as amended from time to time, and other relevant instructions as issued from time to time.
+
+- ii. Contact details of the nodal grievance redressal officers shall be prominently displayed on the websites of the RE, its LSP and on the DLA, as well as in the KFS provided to the borrower.
+- iii. The facility of lodging complaint shall also be made available on the DLA and on the website as stated above. It is reiterated that responsibility of grievance redressal shall continue to remain with the RE.
+- iv. If any complaint lodged by the borrower against the RE or the LSP engaged by the RE is rejected wholly or partly by the RE, or the borrower is not satisfied with the reply; or the borrower has not received any reply within 30 days of receipt of complaint by the RE, the said borrower can lodge a complaint over the Complaint Management System (CMS)[9](#page-10-2) portal under the Reserve Bank-Integrated Ombudsman Scheme (RB-IOS)[10](#page-10-3) or send a physical complaint to "Centralised Receipt and Processing Centre, 4th Floor, Reserve Bank of India, Sector-17, Central Vista, Chandigarh - 160017" as per the grievance redressal mechanism prescribed by the Reserve Bank. This information shall be suitably conveyed to the borrower.
+
+## **Chapter IV: Technology and Data Requirement**
+
+#### <span id="page-10-1"></span><span id="page-10-0"></span>12.**Collection, usage and sharing of data with third parties**
+
+i. RE shall ensure that any collection of data by their DLA and DLA of their LSP is need-based and with prior and explici

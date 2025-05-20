@@ -1,0 +1,93 @@
+| Contents |                                                                                                                                                                |  |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 1        | General                                                                                                                                                        |  |
+| 2        | Eligible Category of Borrowers                                                                                                                                 |  |
+| 3        | Eligibility<br>for Housing Finance                                                                                                                             |  |
+| 4        | Terms and Conditions for Housing Loans                                                                                                                         |  |
+|          | 4.1 Maximum Loan Amount and Margin                                                                                                                             |  |
+|          | 4.2 Interest rate, foreclosure charges / prepayment penalty and reset of floating<br>interest rate on Equated Monthly Instalments (EMI) based housing<br>loans |  |
+|          | 4.3 Penal Charges                                                                                                                                              |  |
+|          | 4.4 Security                                                                                                                                                   |  |
+|          | 4.5 Period of Loan                                                                                                                                             |  |
+|          | 4.6 Graduated Instalments                                                                                                                                      |  |
+|          | 4.7 Aggregate Limit for Housing Finance                                                                                                                        |  |
+| 5        | Additional / Supplementary Finance                                                                                                                             |  |
+| 6        | Lending to Housing Boards                                                                                                                                      |  |
+| 7        | Advances to Builders / Contractors                                                                                                                             |  |
+| 8        | Housing Loans under Priority Sector                                                                                                                            |  |
+| 9        | Precautions                                                                                                                                                    |  |
+| 10       | National Building Code                                                                                                                                         |  |
+| •        | Annex 1                                                                                                                                                        |  |
+| •        | Annex 2                                                                                                                                                        |  |
+| •        | Appendix                                                                                                                                                       |  |
+
+| Sl No | Circular No.                                     | Date       | Subject                                                                                                                                                 |
+|-------|--------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | DoR.MCS.REC.61/01.01.00<br>1/2023-24             | 29.12.2023 | Fair Lending Practice - Penal Charges<br>in Loan Accounts: Extension of Timeline<br>for Implementation of Instructions                                  |
+| 2     | DoR.MCS.REC.38/01.01.00<br>1/2023-24             | 13.09.2023 | Responsible Lending Conduct –<br>Release of Movable / Immovable<br>Property Documents on Repayment/<br>Settlement of Personal Loans                     |
+| 3     | DoR.MCS.REC.28/01.01.00<br>1/2023-24             | 18.08.2023 | Fair Lending Practice - Penal Charges<br>in Loan Accounts                                                                                               |
+| 4     | DOR.MCS.REC.32/01.01.00<br>3/2023-24             | 18.08.2023 | Reset of Floating Interest Rate on<br>Equated Monthly Instalments (EMI)<br>based Personal Loans                                                         |
+| 5     | DOR.CRE.REC.92/07.10.00<br>2/2022-23             | 30.12.2022 | Individual Housing loans – Revised<br>limits under four-tiered regulatory<br>framework                                                                  |
+| 6     | DOR.CRE.REC.42/09.22.01<br>0/2022-23             | 08.06.2022 | Individual Housing loans –<br>Enhancement in limits                                                                                                     |
+| 7     | DOR.CRE.REC.18/09.22.01<br>0/2022-23             | 24.05.2022 | Housing Finance – Loans for<br>repairs/additions/alterations -<br>Enhancement of limits                                                                 |
+| 8     | UBD BPD(PCB) Cir No.<br>45/13.05.000/ 2013-14    | 28.01.2014 | Housing Sector: New Sub-Sector CRE<br>Residential Housing (CRE-RH)<br>Segment within CRE Sector &<br>Rationalisation of Provisioning and Risk<br>Weight |
+| 9     | UBD.CO.BPD(PCB).Cir.No.1<br>7/09.22.010/2013-14  | 17.09.2013 | Housing Sector: Innovative Loan<br>Products-Upfront Disbursal of Housing<br>Loans-UCBs                                                                  |
+| 10    | UBD CO BPD (PCB) Cir.<br>No.13/09.22.010/2013-14 | 10.09.2013 | Finance for housing schemes – Primary<br>(Urban) Co-operative Banks – loans for<br>repairs / additions / alterations –<br>enhancement of limits         |
+| 11    | UBD.BPD.(PCB).Cir.No.31/1<br>3.05.000/2011-12    | 26.04.2012 | Monetary Policy Statement 2012-13<br>Exposure to Housing, Real Estate and<br>Commercial Real Estate - Primary<br>(Urban) Co-operative Banks             |
+
+| 12 | UBD.BPD.(PCB).Cir.No.7/09<br>.22.010/2011-12  | 31.10.2011 | Revision in Limits of Housing Loans and<br>Repayment Period – Second Quarter<br>Review of Monetary Policy 2011-12.                                    |
+|----|-----------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 13 | UBD.BPD.(PCB).Cir.No.47/1<br>3.05.000/2010-11 | 11.05.2011 | Monetary Policy Statement 2011-12<br>Exposure to Housing, Real Estate and<br>Commercial Real Estate - Primary<br>(Urban) Co-operative Banks           |
+| 14 | UBD.BPD.(PCB).Cir.No.23/1<br>3.05.000/2010-11 | 15.11.2010 | Exposure to Housing, Real Estate<br>Sector and Commercial Real Estate -<br>Urban Co-operative Banks                                                   |
+| 15 | UBD(PCB)BPD.Cir.No.69/09<br>.22.010/ 2009-10  | 09.06.2010 | Exposure to Real Estate and<br>Commercial Real Estate Sector                                                                                          |
+| 16 | UBD.BPD.No.16/09.22.010/<br>2009-10           | 26.10.2009 | Builders to disclose mortgage in<br>pamphlets etc - Clause in terms &<br>conditions of loans                                                          |
+| 17 | UBD.PCB.Cir.No.30/09.09.0<br>01/08-09         | 08.12.2008 | Housing Loans - Orders of Delhi High<br>Court - WP by Kalyan Sanstha Welfare<br>Orgn against Union of India and Ors -<br>Implementation of Directions |
+| 18 | UBD.UCB.Cir.No.42/09.09.0<br>01/08-09         | 15.05.2008 | Revision of Individual Housing Loan<br>Limits - Annual Policy                                                                                         |
+| 19 | UBD.CO.BPD.No.33/13.05.0<br>00/07-08          | 29.02.2008 | Advances to builders / contractors                                                                                                                    |
+| 20 | UBD.UCB.Cir.No.40/13.05.0<br>00/06-07         | 04.05.2007 | Annual Policy Statement for the year<br>2007-08 - Residential housing loans :<br>reduction of risk weight                                             |
+| 21 | UBD.UCB.Cir.No.20/09.09.0<br>01/06-07         | 22.11.2006 | Housing Loans - Orders of Delhi High<br>Court - WP by Kalyan Sanstha Welfare<br>Orgn against Union of India and Ors -<br>Implementation of Directions |
+| 22 | UBD.UCB.Cir.No.58/09.09.0<br>1/05-06          | 19.06.2006 | Adherence to National Building Code<br>(NBC) - Specifications necessary for<br>lending institutions.                                                  |
+| 23 | UBD.UCB.Cir.No.55/09.11.6<br>00/05-06         | 01.06.2006 | Annual Policy Statement for the year<br>2006-07 - Risk weight on exposures to<br>commercial real estate.                                              |
+| 24 | UBD.UCB.Cir.No.8/09.11.60<br>0/05-06          | 09.08.2005 | Prudential Norms on capital adequacy -<br>Risk weight on housing finance /<br>commercial real estate exposures.                                       |
+| 25 | UBD.BPD(UCB)Cir.29/09.09<br>.01/ 2004-05      | 14.12.2004 | Priority sector lending - Housing Loan -<br>Enhancement of ceiling for UCBs                                                                           |
+
+| 26 | UBD.UCB.No.30/09.22.01/2<br>003-04         | 16.01.2004 | Frauds by deposit of fake title deeds of<br>the property / fake salary certificates in<br>housing loans   |
+|----|--------------------------------------------|------------|-----------------------------------------------------------------------------------------------------------|
+| 27 | UBD.BPD.No.45/09.09.01/2<br>002-03         | 14.05.2003 | Credit Policy for the year 203-04 -<br>Priority Sector Advances                                           |
+| 28 | UBD.BPD.UCB.No.31/09.09.<br>01/ 2002-03    | 30.12.2002 | Priority Sector Advances                                                                                  |
+| 29 | UBD.No.Plan.Cir.RCS.2/09.<br>22.01/98-99   | 15.03.1999 | Finance for Housing Schemes - Primary<br>(Urban) Co-operative Banks                                       |
+| 30 | UBD.No.Plan/.RO.49/09.22.<br>01/97-98      | 17.06.1998 | Finance for Housing Scheme - Primary<br>(Urban) Co-operative Banks                                        |
+| 31 | UBD.No.Plan.CIR(RCS).9/0<br>9.22.01/ 95-96 | 01.09.1995 | Finance for Housing Schemes - Primary<br>(Urban) Co-operative Banks                                       |
+| 32 | UBD.No.Plan.CIR(RCS)8/09<br>.22.01/ 94-95  | 11.01.1995 | Finance for Housing Schemes - Primary<br>(Urban) Co-operative Banks                                       |
+| 33 | UBD.No.P&O.10/UB-31/91-<br>92              | 26.03.1992 | Finance for Housing Schemes - Primary<br>(Urban) Co-operative Banks                                       |
+| 34 | UBD.No.P&O.108/UB.31-<br>88/89             | 05.04.1989 | Finance for Housing Schemes - Primary<br>(Urban) Co-operative Banks                                       |
+| 35 | UBD.DC1/R.1-87/88                          | 03.07.1987 | Maximum Limit on Advances                                                                                 |
+| 36 | UBD.No.(DC)2/R.1-87/88                     | 03.07.1987 | Maximum Limit on Advances                                                                                 |
+| 37 | DBOD.UBD.P&O.161/UB.31<br>-83/84           | 02.09.1983 | Urban co-operative bank finance for<br>housing schemes                                                    |
+| 38 | DBOD.UBD.P&O.229/UB.31<br>-82/83           | 05.11.1982 | Co-operative bank finance for housing<br>schemes                                                          |
+| 39 | DBOD.UBD.P&O<br>230/UB.31-82/83            | 05.11.1982 | Co-operative bank finance for housing<br>schemes for the economically weaker<br>sections of the community |
+| 40 | ACD.Plan.(SZ)401/PR.338-<br>81/2           | 17.08.1981 | Co-operative Bank Finance For Housing<br>Schemes                                                          |
+| 41 | ACD.Plan.1502/PR.338-76/7                  | 11.10.1976 | Co-operative bank finance for housing<br>schemes for the economically weaker<br>sections of the community |
+| 42 | ACD.Plan.(781)/PR.338-<br>76/77            | 24.08.1976 | Co-operative bank finance for housing<br>schemes for the economically weaker<br>sections of the community |
+
+| Sl<br>No | Circular No.                                             | Date                 | Subject                                                                                                                                             |
+|----------|----------------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | DOR.REG.No.84/07.01.000/2022-23                          | December 1,<br>2022  | Revised<br>Regulatory<br>Framework<br>-<br>Categorization of Urban Co-operative<br>Banks (UCBs) for Regulatory Purposes                             |
+| 2        | DOR (PCB).BPD.Cir<br>No.10/13.05.000/2019-20             | March 13,<br>2020    | Limits on exposure to single and group<br>borrowers/parties and large exposures<br>and Revision in the target for priority<br>sector lending – UCBs |
+| 3        | Master Directions FIDD.CO.Plan.BC.<br>5/04.09.01/2020-21 | September 4,<br>2020 | Master<br>Directions<br>–<br>Priority<br>Sector<br>Lending<br>(PSL)<br>–<br>Targets<br>and<br>Classification                                        |
+| 4        | UBD.BPD.(PCB)<br>CIR No.41/12.05.001/2011-12             | 26.06.2012           | Home Loans –<br>Levy of Fore-closure<br>Charges<br>/<br>Prepayment<br>Penalty<br>by<br>Urban Co-operative Banks (UCBs)                              |
+| 5        | UBD.BPD.(PCB)CI<br>RNo.33/09.09.001/2011-12              | 18.05.2012           | Priority Sector Lending – Indirect<br>Finance to Housing Sector.                                                                                    |
+| 6        | UBD.BPD.(PCB)CI<br>RNo.46/09.09.001/2010-11              | 11.05.2011           | Limit of Housing Loans Under Priority<br>Sector Advances - UCBs                                                                                     |
+| 7        | UBD.UCB.Cir.No.11/09.09.01/07-08                         | 30.08.2007           | Revised guidelines on lending to<br>priority sector.                                                                                                |
+| 8        | UBD.UCB.BPD.1/09.09.001/06-07                            | 11.07.2006           | Priority Sector lending-investments in<br>special bonds issued by NHB / HUDCO                                                                       |
+| 9        | UBD.UCB.Cir.No.16/09.09.001/06-<br>07                    | 17.10.2006           | Priority Sector lending-housing loans<br>enhancement of ceiling.                                                                                    |
+| 10       | UBD.DS.CirNo.44/13.05.00/2004-05                         | 15.04.2005           | Maximum Limit on Advances - Limit on<br>Credit Exposure                                                                                             |
+| 11       | UBD.No.DS.CIR.31/13.05.00/992000                         | 01.04.2000           | Maximum Limit on Advances - Limit on<br>Credit Exposure                                                                                             |
+| 12       | UBD.Plan.PCB.17/09.09.01/99-2000                         | 22.12.1999           | Priority Sector lending - Housing<br>Finance                                                                                                        |
+| 13       | UBD.No.Plan.UCB.24/09.09.01/97-<br>98                    | 01.12.1997           | Priority<br>Sector<br>Lending<br>by<br>Primary<br>(Urban) Cooperative Banks                                                                         |
+| 14       | UBD.No.DS.UCB.CIR.39/13.05.00/<br>95-96                  | 16.01.1996           | Maximum Limit on Advances by Primary<br>(Urban) Co-operative Banks                                                                                  |
+
+| 15 | UBD.No.Plan.(UCB)6/09.09.01/94-<br>95 | 22.07.1994 | Priority<br>Sector<br>Lending<br>by<br>Primary<br>(Urban) Cooperative Banks |
+|----|---------------------------------------|------------|-----------------------------------------------------------------------------|
+| 16 | UBD.No.Plan.68/09.09-01/93-94         | 09.05.1994 | Priority<br>Sector<br>Lending<br>by<br>Primary<br>(Urban) Cooperative Banks |
+| 17 | UBD.DC.536/R.1-84/84                  | 16.10.1984 | Maximum Limits on Advances                                                  |

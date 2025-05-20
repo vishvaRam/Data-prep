@@ -1,0 +1,25 @@
+oved by the Board of Directors to ensure that the ICAAP forms an integral part of the management process and decision making culture of the bank. Firm-wide risk management programmes should include detailed policies that set specific firm-wide prudential limits on the principal risks relevant to a bank's activities. A bank's policies and procedures should provide specific guidance for the implementation of broad business strategies and should establish, where appropriate, internal limits for the various types of risks to which the bank may be exposed. These limits should consider the bank's role in the financial system and be defined in relation to the bank's capital, total assets, earnings or, where adequate measures exist, its overall risk level.
+
+A bank's policies, procedures and limits shall:
+
+- Provide for adequate and timely identification, measurement, monitoring, control and mitigation of the risks posed by its lending, investing, trading, securitisation, off-balance sheet, fiduciary and other significant activities at the business line and firm-wide levels;
+- Ensure that the economic substance of a bank's risk exposures, including reputational risk and valuation uncertainty, are fully recognised and incorporated into the bank's risk management processes;
+- Be consistent with the bank's stated goals and objectives, as well as its overall financial strength;
+- Clearly delineate accountability and lines of authority across the bank's various business activities, and ensure there is a clear separation between business lines and the risk function;
+- Escalate and address breaches of internal position limits;
+- Provide for the review of new businesses and products by bringing together all relevant risk management, control and business lines to ensure that the bank is able to manage and control the activity prior to it being initiated; and
+- Include a schedule and process for reviewing the policies, procedures and limits and for updating them as appropriate.
+
+12.3.3.4 Identifying, measuring, monitoring and reporting of risk:
+
+(i) A bank's MIS should provide the board and senior management in a clear and concise manner with timely and relevant information concerning their institutions' risk profile. This information should include all risk exposures, including those that are off-balance sheet. Management should understand the assumptions behind and limitations inherent in specific risk measures.
+
+(ii) The key elements necessary for the aggregation of risks are an appropriate infrastructure and MIS that (i) allow for the aggregation of exposures and risk measures across business lines and (ii) support customised identification of concentrations and emerging risks. MIS developed to achieve this objective should support the ability to evaluate the impact of various types of economic and financial shocks that affect the whole of the financial institution. Further, a bank's systems should be flexible enough to incorporate hedging and other risk mitigation actions to be carried out on a firm-wide basis while taking into account the various related basis risks.
+
+(iii) To enable proactive management of risk, the board and senior management need to ensure that MIS is capable of providing regular, accurate and timely information on the bank's aggregate risk profile, as well as the main assumptions used for risk aggregation. MIS should be adaptable and responsive to changes in the bank's underlying risk assumptions and should incorporate multiple perspectives of risk exposure to account for uncertainties in risk measurement. In addition, it should be sufficiently flexible so that the institution can generate forward-looking bank-wide scenario analyses that capture management's interpretation of evolving market conditions and stressed conditions. Third-party inputs or other tools used within MIS (e.g., credit ratings, risk measures, models) should be subject to initial and ongoing validation.
+
+(iv) A bank's MIS should be capable of capturing limit breaches and there should be procedures in place to promptly report such breaches to senior management, as well as to ensure that appropriate follow-up actions are taken. For instance, similar exposures should be aggregated across business platforms (including the banking and trading books) to determine whether there is a concentration or a breach of an internal position limit.
+
+12.3.3.5 Internal controls:
+
+Risk management processes should be frequently monitored and tested by independent control areas and internal, as well as external, auditors. The aim is to ensure that the information on which decisions are based is accurate so that processes fully reflect management policies and that regular reporting, including the reporting of limit breaches and other exception-based reporting, is undertaken effectively. The risk management function of banks must be independent of the business lines in order to ensure an adequate separation of duties and to avoid conflicts of interest.

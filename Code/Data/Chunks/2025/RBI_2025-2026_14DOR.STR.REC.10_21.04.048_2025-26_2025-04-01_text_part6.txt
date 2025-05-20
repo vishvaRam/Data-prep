@@ -1,0 +1,49 @@
+he limit sanctioned as the principal amount and taking the tenor of the advance as one year. The term premium in the discount factor would be as applicable for one year. The fair value of the term loan components (Working Capital Term Loan and Funded Interest Term Loan) would be computed as per actual cash flows and taking the term premium in the discount factor as applicable for the maturity of the respective term loan components.
+
+2.2.7.17 In the event any security is taken in lieu of the diminution in the fair value of the advance, it should be valued at Re.1 This will ensure that the effect of charging off the economic sacrifice to the Profit & Loss account is not negated.
+
+2.2.7.18 The diminution in the fair value may be re-computed on each balance sheet date till satisfactory completion of all repayment obligations and full repayment of the outstanding in the account, so as to capture the changes in the fair value on account of changes in BPLR, term premium and the credit category of the borrower. Consequently, banks may provide for the shortfall in provision or reverse the amount of excess provision held in the distinct account.
+
+2.2.7.19 If due to lack of expertise / appropriate infrastructure, a bank finds it difficult to ensure computation of diminution in the fair value of advances extended by small branches, as an alternative to the methodology prescribed above for computing the amount of diminution in the fair value, banks will have the option of notionally computing the amount of diminution in the fair value and providing therefore, at five percent of the total exposure, in respect of all restructured accounts where the total dues to bank(s) are less than rupees one crore.
+
+2.2.7.20 The total provisions required against an account (normal provisions plus provisions in lieu of diminution in the fair value of the advance) are capped at 100% of the outstanding debt amount.
+
+(d) Prudential Norms for Conversion of Unpaid Interest into 'Funded Interest Term Loan' (FITL)
+
+### 2.2.7.21 Asset Classification Norms
+
+The FITL created by conversion of unpaid interest will be classified in the same asset classification category in which the restructured advance has been classified. Further movement in the asset classification of FITL would also be determined based on the subsequent asset classification of the restructured advance.
+
+### 2.2.7.22 Income Recognition Norms
+
+(i) The income, if any, generated may be recognised on accrual basis, if FITL is classified as 'standard', and on cash basis in the cases where the same has been classified as a non-performing asset.
+
+(ii) The unrealised income represented by FITL should have a corresponding credit in an account styled as "Sundry Liabilities Account (Interest Capitalization)".
+
+(iii) Only on repayment in case of FITL, the amount received will be recognized in the P&L Account, while simultaneously reducing the balance in the "Sundry Liabilities Account (Interest Capitalisation)".
+
+(e) Special Regulatory Treatment for Asset Classification
+
+2.2.7.23 The special regulatory treatment for asset classification, in modification to the provisions in this regard stipulated in para 2.2.7.1 to 2.2.7.8, will be available to the borrowers engaged in important business activities, subject to compliance with certain conditions as enumerated in para 2.2.7.28 below. Such treatment is not extended to the following categories of advances:
+
+(i) Consumer and personal advances including advances to individuals against the securities of shares / bonds / debentures, etc.
+
+(ii) Advances to traders
+
+2.2.7.24 The asset classification of the above two categories of accounts as well as that of other accounts which do not comply with the conditions enumerated in para 2.2.7.28, will be governed by the prudential norms in this regard described in para 2.2.7.1 to 2.2.7.8 above.
+
+(f) Elements of Special Regulatory Framework
+
+2.2.7.25 The special regulatory treatment has the following two components:
+
+(i) Incentive for quick implementation of the restructuring package.
+
+(ii) Retention of the asset classification of the restructured account in the pre restructuring asset classification category
+
+2.2.7.26 Incentive for Quick Implementation of the Restructuring Package
+
+During the pendency of the application for restructuring of the advance with the bank, the usual asset classification norms would continue to apply. The process of reclassification of an asset should not stop merely because the application is under consideration. However, as an incentive for quick implementation of the package, if the approved package is implemented by the bank within 90 days from the date of receipt of application by the bank, the asset classification status may be restored to the position which existed when the restructuring application was received by the bank.
+
+#### 2.2.7.27 Asset Classification Benefits
+
+Subject to the compliance with the undernoted conditions in addition to the adherence to the prudential fr

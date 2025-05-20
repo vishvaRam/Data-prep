@@ -1,0 +1,71 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+#### RBI/2023-24/54 DoR.SIG.FIN.REC.31/03.10.001/2023-24 August 18, 2023
+
+All Infrastructure Debt Fund-NBFCs (IDF-NBFCs)
+
+Dear Sir/ Madam,
+
+# **Review of Regulatory Framework for IDF-NBFCs**
+
+In order to enable IDF-NBFCs to play a greater role in the financing of the infrastructure sector and to harmonise the regulations governing financing of infrastructure sector by the NBFCs, a review of the guidelines applicable to IDF-NBFCs has been undertaken, in consultation with the Government of India.
+
+2. The revised regulatory framework for IDF-NBFCs is provided in the **[Annex.](#page-1-0)** These guidelines shall come into effect from the date of this circular.
+
+Yours faithfully,
+
+(J.P. Sharma) Chief General Manager
+
+#### **Annex**
+
+<span id="page-1-0"></span>An IDF is set up either as a trust or as a company. A trust based IDF is registered as an IDF-Mutual Fund (IDF-MF) and is regulated by the Securities and Exchange Board of India (SEBI) whereas a company based IDF is registered as an IDF-NBFC and is regulated by the Reserve Bank of India (RBI).
+
+#### **2. Definition**
+
+An IDF-NBFC means a non-deposit taking NBFC which is permitted to – (i) refinance post commencement operations date (COD) infrastructure projects that have completed at least one year of satisfactory commercial operations; and (ii) finance toll operate transfer (TOT) projects as the direct lender.
+
+#### **3. Net owned funds (NOF) and regulatory capital**
+
+An IDF-NBFC shall be required to have an NOF of at least ₹300 crore and capital-to-risk weighted assets ratio (CRAR) of minimum 15 per cent (with minimum Tier 1 capital of 10 per cent).
+
+## **4. Raising of funds**
+
+- (i) IDF-NBFC shall raise funds through issue of either rupee or dollar denominated bonds of minimum five-year maturity. With a view to facilitate better asset-liability management (ALM), IDF-NBFCs can raise funds through shorter tenor bonds and commercial papers (CPs) from the domestic market to the extent of up to 10 per cent of their total outstanding borrowings.
+- (ii) In addition to the bond route, IDF-NBFCs can also raise funds through loan route under external commercial borrowings (ECBs). However, such borrowings shall be subject to minimum tenor of five years and the ECB loans should not be sourced from foreign branches of Indian banks.
+- (iii) Regarding ECBs, IDF-NBFCs shall also be required to adhere to the guidelines issued by the Foreign Exchange Department of the RBI.
+
+# **5. Exposure limits**
+
+The exposure limits for IDF-NBFCs shall be 30% of their Tier 1 capital for single borrower/ party and 50% of their Tier 1 capital for single group of borrowers/ parties.
+
+### **6. Risk weights**
+
+For computing CRAR of the IDF-NBFCs, their assets shall be risk-weighted as per riskweights applicable to NBFC-Investment and Credit Companies (NBFC-ICCs).
+
+# **7. Requirements of a sponsor and tripartite agreement**
+
+7.1 Under the earlier guidelines, an IDF-NBFC was required to be sponsored by a bank or an NBFC-Infrastructure Finance Company (NBFC-IFC). The requirement of a sponsor for an IDF-NBFC has now been withdrawn and shareholders of IDF-NBFCs shall be subjected to scrutiny as applicable to other NBFCs, including NBFC-IFCs.
+
+7.2 Earlier, IDF-NBFCs were required to enter into a tripartite agreement with the concessionaire and the project authority for investments in the Public Private Partnership (PPP) infrastructure projects having a project authority. The requirement of the tripartite agreement has now been made optional.
+
+#### **8. Other regulatory norms**
+
+All other regulatory norms including income recognition, asset classification and provisioning norms as applicable to NBFC-ICCs shall be applicable to IDF-NBFCs.
+
+# **9. Guidelines governing sponsorship of IDF-MFs by NBFCs**
+
+9.1 All NBFCs shall be eligible to sponsor (sponsorship as defined by SEBI Regulations for Mutual Funds) IDF-MFs with prior approval of the RBI subject to the following conditions (based on the audited financial statements), in addition to those prescribed by SEBI:
+
+- (i) The NBFC shall have a minimum NOF of ₹300 crore and CRAR of 15 percent;
+- (ii) Its net NPAs shall be less than 3 per cent of the net advances;
+- (iii) It shall have been in existence for at least 5 years;
+- (iv)It shall be earning profits for the last three years and its performance shall be satisfactory;
+- (v) The CRAR of the NBFC post investment in the IDF-MF shall not be less than the regulatory minimum prescribed for it;
+- (vi)The NBFC shall continue to maintain the required level of NOF after accounting for investment in the proposed IDF-MF;
+- (vii) There shall be no supervisory concerns with respect to the NBFC.
+
+9.2 NBFCs that fulfil the eligibility criteria as above shall approach the Department of Regulation of the RBI, for prior approval to sponsor IDF-MFs.

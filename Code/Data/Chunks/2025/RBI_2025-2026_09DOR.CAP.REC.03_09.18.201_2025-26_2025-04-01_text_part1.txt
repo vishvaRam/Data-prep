@@ -1,0 +1,91 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2025-26/09 DOR.CAP.REC.03/09.18.201/2025-26 April 01, 2025
+
+All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+**Master Circular - Prudential Norms on Capital Adequacy - Primary (Urban) Cooperative Banks (UCBs)**
+
+Please refer to our [Master Circular DOR.CAP.REC.5/09.18.201/2024-25 dated April 01,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12654)  [2024](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12654) on the captioned subject.
+
+2. The enclosed [Master Circular](#page-1-0) consolidates and updates all the instructions / guidelines on the subject issued up to March 31, 2025 as listed in the [Appendix.](#page-34-0)
+
+Yours faithfully
+
+(Usha Janakiraman) Chief General Manager-in-Charge
+
+Encl: As above
+
+िविनयमन िवभाग,कें द्रीय कायार्लय, 12 वींऔर 13 वीं मंिजल, कें द्रीय कायार्लय भवन, शहीद भगत िसंह मागर्,फोटर्,मुंबई-400001 दू रभाष: 022-22601000 फै �: 022-22705691 ई-मेल: cgmicdor@rbi.org.in
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Department of Regulation, Central Office, 12th and 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in
+
+**िहंदी आसान है, इसका प्रयोग बढ़ाइए**
+
+#### **Master Circular**
+
+#### **Prudential Norms on Capital Adequacy - Primary (Urban) Co-operative Banks (UCBs)**
+
+#### **Contents**
+
+<span id="page-1-0"></span>
+
+
+# **Master Circular**
+
+#### **Prudential Norms on Capital Adequacy – Primary (Urban) Co-operative Banks (UCBs)**
+
+#### <span id="page-2-0"></span>**1. Introduction**
+
+Capital acts as a buffer in times of crisis or poor performance by a bank. Sufficiency of capital also instills depositors' confidence. As such, adequacy of capital is one of the preconditions for licensing of a new bank as well as its continuance in business.
+
+### <span id="page-2-1"></span>**2. Statutory Requirements**
+
+In terms of the provisions contained in Section 11 of Banking Regulation Act (AACS), no co-operative bank shall commence or carry on banking business unless the aggregate value of its paid-up capital and reserves is not less than one lakh of rupees. In addition, under Section 22(3)(d) of the above Act, the Reserve Bank prescribes the minimum entry point capital (entry point norms) from time to time, for setting-up of a new Primary (Urban) Cooperative Bank.
+
+### <span id="page-2-2"></span>**3. Net Worth**
+
+UCBs shall have minimum net worth as under:
+
+- Tier 1[1](#page-2-4) UCBs operating in a single district shall have minimum net worth of ₹2 crore.
+- All other UCBs (of all tiers) shall have minimum net worth of ₹5 crore.
+- UCBs which currently do not meet the minimum net worth requirement, as above, shall achieve the minimum net worth of ₹2 crore or ₹5 crore (as applicable) in a phased manner. Such UCBs shall achieve at least 50 per cent of the applicable minimum net worth on or before March 31, 2026 and the entire stipulated minimum net worth on or before March 31, 2028.
+
+The computation of "Net worth" in this context is provided in [Annex](#page-10-0) 1.
+
+## <span id="page-2-3"></span>**4. Capital Adequacy Norms**
+
+UCBs shall maintain minimum Capital to Risk Weighted Assets Ratio (CRAR) as under:
+
+- Tier 1 UCBs shall maintain, as hitherto, a minimum CRAR of 9 per cent of Risk Weighted Assets (RWAs) on an ongoing basis.
+- Tier 2 to 4 UCBs shall maintain a minimum CRAR of 12 per cent of RWAs on an ongoing basis.
+
+<span id="page-2-4"></span> <sup>1</sup> Tier 1 - All unit UCBs and salary earners' UCBs (irrespective of deposit size), and all other UCBs having deposits up to ₹100 crore;
+
+Tier 2 - UCBs with deposits more than ₹100 crore and up to ₹1000 crore;
+
+Tier 3 - UCBs with deposits more than ₹1000 crore and up to ₹10,000 crore;
+
+Tier 4 - UCBs with deposits more than ₹10,000 crore
+
+• UCBs in Tier 2 to 4, which do not currently meet the revised CRAR of 12 per cent of RWAs, shall achieve the same in a phased manner. Such UCBs shall achieve the CRAR of at least 10 per cent by March 31, 2024, 11 per cent by March 31, 2025, and 12 per cent by March 31, 2026.
+
+The computation of CRAR will be as under:
+
+ CRAR = Eligible Total Capital Total Risk Weighted Assets (RWAs)
+
+The capital funds (eligible total capital) for capital adequacy purposes shall consist of Tier I and Tier II capital as defined below. The total of Tier II capital shall be limited to a maximum of 100 per cent of total Tier I capital for the purpose of compliance with CRAR norms.
+
+Risk weights for different categories of exposures of banks are outlined in [Annex](#page-12-0) 2.
+
+## **4.1 Tier I Capital**
+
+Tier I shall comprise the following:
+
+- (i) Paid-up share capital[2](#page-3-0) co

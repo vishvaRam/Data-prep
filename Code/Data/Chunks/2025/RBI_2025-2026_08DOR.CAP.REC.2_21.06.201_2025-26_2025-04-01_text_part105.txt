@@ -1,0 +1,63 @@
+sheet test forms part of a requirement to prove insolvency under any law or otherwise.
+
+## **1.10 Loss Absorption Features**
+
+PDIs may be classified as liabilities for accounting purposes (not for the purpose of insolvency as indicated in paragraph 1.9 above). In such cases, these instruments must have principal loss absorption through either (i) conversion to common shares at an objective pre-specified trigger point or (ii) a write-down mechanism which allocates losses to the instrument at a pre-specified trigger point. The write-down will have the following effects:
+
+- a) Reduce the claim of the instrument in liquidation;
+- b) Reduce the amount re-paid when a call is exercised; and
+- c) Partially or fully reduce coupon payments on the instrument.
+
+Various criteria for loss absorption through conversion / write-down / write-off on breach of prespecified trigger and at the point of non-viability are furnished in **[Annex 15.](#page-259-0)**
+
+### **1.11 Prohibition on Purchase / Funding of Instruments**
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase the instrument, nor can the bank directly or indirectly fund the purchase of the instrument. Banks should also not grant advances against the security of the debt instruments issued by them.
+
+### **1.12 Re-capitalisation**
+
+The instrument cannot have any features that hinder re-capitalisation, such as provisions which require the issuer to compensate investors if a new instrument is issued at a lower price during a specified time frame.
+
+# **1.13 Reporting of Non-payment of Coupons and Non-exercise of Call Option**
+
+All instances of non-payment of coupon and non-exercise of call option should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision of the Reserve Bank of India, Mumbai.
+
+# **1.14 Seniority of Claim**
+
+The claims of the investors in instruments shall be
+
+(i) superior to the claims of investors in equity shares and perpetual non-cumulative preference shares;
+
+(ii) subordinated to the claims of depositors, general creditors and subordinated debt of the bank;
+
+(iii) is neither secured nor covered by a guarantee of the issuer nor related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+
+# **1.15 Investment in Instruments Raised in Indian Rupees by Foreign Entities/NRIs**
+
+(i) Investment by FIIs in instruments raised in Indian Rupees shall be outside the ECB limit for rupee denominated corporate debt, as fixed by the Govt. of India from time to time, for investment by FIIs in corporate debt instruments. Investment in these instruments by FIIs and NRIs shall be within an overall limit of 49% and 24% of the issue, respectively, subject to the investment by each FII not exceeding 10% of the issue and investment by each NRI not exceeding 5% of the issue.
+
+(ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+
+# **1.16 Terms of Issue of Instruments Denominated in Foreign Currency/ Rupee Denominated Bonds Overseas**
+
+Banks may augment their capital funds through the issue of PDIs in foreign currency/ rupee denominated bonds overseas without seeking the prior approval of the Reserve Bank of India, subject to compliance with the FEMA guidelines as applicable and the requirements mentioned below:
+
+(i) These instruments shall comply with all terms and conditions as applicable to the instruments issued in Indian Rupees.
+
+(ii) Not more than 49% of the eligible amount can be issued in foreign currency[186](#page-201-0) and/or in rupee denominated bonds overseas[187.](#page-201-1)
+
+# *"Eligible amount" in this context shall mean the higher of:*
+
+*(a) 1.5% of RWA and*
+
+*(b) Total Additional Tier 1 capital*
+
+*as on March 31 of the previous financial year.*
+
+An illustration of the above limit is provided in **[Annex 4A](#page-204-0)**.
+
+(iii) Instruments issued in foreign currency shall be outside the existing limit for foreign currency borrowings by Authorised Dealers, stipulated in terms of [Master Direction -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10485) Risk [Management and Inter-Bank Dealings dated July 5, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10485) as updated from time to time.
+
+(iv) Banks, other than foreign bank branches, raising PDIs overseas should obtain and keep on record a legal opinion from an advocate/ attorney practising in the relevant legal jurisdiction, that the terms and conditions of issue of the instrument are in conformity with this Master Circular, as amended from to time, can be enforced in the concerned legal jurisdiction and the applicable laws there do not stand in the way of enforcement of those conditions.
+
+# **1.17 Compliance with Res

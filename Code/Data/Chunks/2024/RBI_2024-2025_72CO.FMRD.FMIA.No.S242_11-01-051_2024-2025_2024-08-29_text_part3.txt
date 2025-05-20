@@ -1,0 +1,33 @@
+eria and](https://rbidocs.rbi.org.in/rdocs/content/pdfs/Value05102021_1.pdf)  [Operational Guidelines' dated](https://rbidocs.rbi.org.in/rdocs/content/pdfs/Value05102021_1.pdf) September 22, 2021, as amended from time to time, issued by the Reserve Bank. Any failure to do so shall attract appropriate action by the Reserve Bank including imposition of penalty under Section 30 of the Government Securities Act, 2006.
+- **(iv)**The authorised depository and authorised clearing corporation(s) shall also abide by the applicable terms and conditions for opening of the current account, as may be specified by the Reserve Bank.
+
+# **7. Participation in primary market**
+
+Participation by investors in the primary auctions of securities conducted by the Reserve Bank shall be in terms of the following:
+
+- **(i)** Investors desirous of participating in the auction of securities conducted by the Reserve Bank shall submit competitive bids in the primary auction through the authorised clearing corporation(s).
+- **(ii)** For the purpose, the authorised clearing corporation(s) shall act as an aggregator / facilitator and submit bids on the basis of firm orders from investors on the Reserve Bank's Core Banking Solution (E-Kuber) system or
+
+any other platform / system as may be notified by the Reserve Bank in this regard.
+
+- **(iii)** Such bids shall be submitted on the day of the auction during the time window notified in the specific notification issued by the Government of India.
+- **(iv)** The authorised clearing corporation(s) shall ensure that its current account with the Reserve Bank is funded at the start of the day on the settlement date of the primary auction so as to meet the settlement obligations arising from subscriptions in the primary auction by the investors. Any failure to meet the settlement obligations shall be treated as an instance of 'SGL bouncing' in terms of [RBI circular "Government Securities Act, 2006, Sections 27 and 30 -](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5876&Mode=0) [Imposition of penalty for bouncing of SGL forms" dated July 14, 2010,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5876&Mode=0) as amended from time to time, and will be subjected to the applicable penal provisions, as specified therein.
+- **(v)** On settlement, the securities allotted to the investors will be credited to the CSGL account of the authorised clearing corporation(s) on the settlement date. The authorised clearing corporation(s) shall undertake VFTs to credit the allotted securities to the CSGL account of the authorised depository on the same day. The authorised depository shall ensure that the securities are credited to the demat / securities account of the investors on the same day. The VFTs shall be subject to the terms and conditions contained in the [Reserve Bank Notification No. 108 dated October 5, 2021,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12175&Mode=0) on 'Value Free Transfer (VFT) of Government Securities – Guidelines', as amended from time to time.
+- **(vi)** Participation of the investors in the primary auction shall be subject to the terms and conditions contained in the [General Notification F.No.4\(2\)–](https://rbidocs.rbi.org.in/rdocs/content/pdfs/GOI27032018_A.pdf) [W&M/2018, dated March 27, 2018,](https://rbidocs.rbi.org.in/rdocs/content/pdfs/GOI27032018_A.pdf) as amended from time to time, and specific notifications issued by the Government of India.
+
+# **8. Participation in secondary market**
+
+Secondary market transactions in securities undertaken in the IFSC shall be subject to the following:
+
+### **A. Eligible transactions**
+
+Investors can trade in the secondary market in the IFSC with other investors and with eligible IBUs. Transactions between two eligible IBUs shall not be undertaken.
+
+#### **B. Trading procedure**
+
+- **(i)** Securities maintained by investors with the authorised depository will be available for trading in the OTC markets in the IFSC.
+- **(ii)** The trading hours for securities shall be from 09:00 hours to 17:00 hours IST, or as specified by the Reserve Bank from time to time.
+- **(iii)** The settlement cycle for trades in securities shall be T+1 or T+2 where T represents the trade date.
+- **(iv)** Eligible IBUs can trade with investors under this Scheme subject to the following:
+	- **I.** Such transaction shall be undertaken on a 'back-to-back' arrangement. The transaction between an eligible IBU and its parent bank / branch or subsidiary in India of the parent bank, shall be for due consideration (for value transfer).
+	- **II.** The two legs of the back-to-back transaction shall be undertaken on the same date and the eligible IBUs shall not maintain any overnight open securities position. In case of any open securities position arising on any account including settlement failure or unwinding of trades with investors, the eligible IBU shall reverse the trade with its parent bank or branch / subsidiary in India of the parent bank 

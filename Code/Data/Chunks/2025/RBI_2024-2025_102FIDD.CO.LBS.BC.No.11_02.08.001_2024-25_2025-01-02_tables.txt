@@ -1,0 +1,7 @@
+| Sr.<br>No. | Newly Created<br>District | Lead Bank Responsibility<br>assigned to | District Working Code<br>allotted to new district |
+|------------|---------------------------|-----------------------------------------|---------------------------------------------------|
+| 1          | Meluri                    | State Bank of India                     | 02R                                               |
+|            |                           |                                         | (to be read as 'numeral                           |
+|            |                           |                                         | zero, numeral two and                             |
+|            |                           |                                         | alphabet R')                                      |
+

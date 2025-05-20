@@ -1,0 +1,46 @@
+
+## **Notes:**
+
+(i) Foreign banks are required to furnish to Reserve Bank, an undertaking to the effect that the bank will not remit abroad the 'capital reserve' and 'remittable surplus retained in India'
+
+<span id="page-14-0"></span> <sup>8</sup> Please refer to Master Direction - [Classification, Valuation and Operation of Investment Portfolio of Commercial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Banks \(Directions\), 2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) It is also clarified that any negative balance in the AFS reserve shall be deducted from CET1 capital.
+
+<span id="page-14-1"></span><sup>9</sup> Revaluation reserves which do not qualify as CET1 capital shall also not qualify as Tier 2 capital. The bank may choose to reckon revaluation reserves in CET1 capital or Tier 2 capital at its discretion, subject to fulfilment of all the conditions specified in paragraph 4.2.3.1.A (vi).
+
+as long as they function in India to be eligible for including this item under Common Equity Tier 1 capital.
+
+- (ii) These funds may be retained in a separate account titled as 'Amount Retained in India for Meeting Capital to Risk-weighted Asset Ratio (CRAR) Requirements' under 'Capital Funds'.
+- (iii) An auditor's certificate to the effect that these funds represent surplus remittable to Head Office once tax assessments are completed or tax appeals are decided and do not include funds in the nature of provisions towards tax or for any other contingency may also be furnished to Reserve Bank.
+- (iv) The net credit balance, if any, in the inter-office account with Head Office / overseas branches will not be reckoned as capital funds. However, the debit balance in the Head Office account will have to be set-off against capital subject to the following provisions[10](#page-15-0):
+
+(a) If net overseas placements with Head Office / other overseas branches / other group entities (Placement minus borrowings, excluding Head Office borrowings for Tier I and II capital purposes) exceed 10% of the bank's minimum CRAR requirement, the amount in excess of this limit would be deducted from Tier I capital.
+
+(b) For the purpose of the above prudential cap, the net overseas placement would be the higher of the overseas placements as on date and the average daily outstanding over year to date.
+
+(c) The overall cap on such placements / investments will continue to be guided by the present regulatory and statutory restrictions i.e., net open position limit and the gap limits approved by the Reserve Bank of India, and Section 25 of the Banking Regulation Act, 1949. All such transactions should also be in conformity with other FEMA guidelines.
+
+# **4.2.4 Additional Tier 1 Capital**
+
+# **4.2.4.1 Additional Tier 1 Capital – Indian Banks**
+
+### *A. Elements of Additional Tier 1 Capital*
+
+Additional Tier 1 capital will consist of the sum of the following elements:
+
+(i) Perpetual Non-Cumulative Preference Shares (PNCPS), which comply with the regulatory requirements as specified in **[Annex 3](#page-187-0)**;
+
+<span id="page-15-0"></span> <sup>10</sup> Please refer to th[e circular DBOD.No.BP.BC.28/21.06.001/2012-13 dated July 9, 2012](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7433&Mode=0) on 'Treatment of Head Office Debit Balance - Foreign Banks'.
+
+(ii) Stock surplus (share premium) resulting from the issue of instruments included in Additional Tier 1 capital;
+
+(iii) Debt capital instruments eligible for inclusion in Additional Tier 1 capital, which comply with the regulatory requirements as specified in **[Annex 4](#page-195-0)**;
+
+(iv) Any other type of instrument generally notified by the Reserve Bank from time to time for inclusion in Additional Tier 1 capital;
+
+(v) While calculating capital adequacy at the consolidated level, Additional Tier 1 instruments issued by consolidated subsidiaries of the bank and held by third parties which meet the criteria for inclusion in Additional Tier 1 capital (refer to paragraph 4.3.3); and
+
+(vi) Less: Regulatory adjustments / deductions applied in the calculation of Additional Tier 1 capital [i.e., to be deducted from the sum of items (i) to (v)].
+
+# *B. Criteria for Classification as Additional Tier 1 Capital for Regulatory Purposes*
+
+(i) Under Basel III, the criteria for instruments to be included in Additional Tier 1 capital have been modified to improve their loss absorbency as indicated in **[Annex 3,](#page-187-0) [4](#page-195-0) and [15](#page-259-0)**. Criteria for inclusion of Perpetual Non-Cumulative Preference Shares (PNCPS) in Additional Tier 1 Capital are furnished in **[Annex 3](#page-187-0)**. Criteria for inclusion of Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital are furnished in **[Annex 4](#page-195-0)**. **[Annex 15](#page-259-0)** contains criteria for loss absorption through conversion / write-down / write-off of Additional Tier 1 instruments on breach of the pre-specified t

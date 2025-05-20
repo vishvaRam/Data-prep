@@ -1,0 +1,21 @@
+ An end of day statement of holdings shall be submitted by the authorised depository to the Reserve Bank, or any other agency specified by the Reserve Bank, in a manner and format as may be specified by the Reserve Bank.
+
+**(d)** The authorised depository shall also submit the details of the beneficial owners, based on the information requested and provided by investors relating to their holdings, to the Reserve Bank in a manner, format and periodicity as may be specified by the Reserve Bank.
+
+**(e)** The authorised depository and the authorised clearing corporation(s) shall submit to the Reserve Bank any other information related to transactions available with the authorised depository and the authorised clearing corporation(s) or provided by their clients as may be required by the Reserve Bank and in the format and within the timeframe prescribed.
+
+**(f)** The Reserve Bank shall be kept informed of any material event resulting in disruptions in the settlement of securities or any instances of market abuse without undue delay.
+
+### **14.Dissemination**
+
+**(a)** Investment by investors under the Scheme shall be reckoned based on the balances in the CSGL accounts maintained by the authorised depository on an endof-day basis. This information may be published by the Reserve Bank, CCIL or any other agency authorised by the Reserve Bank.
+
+**(b)** The Reserve Bank or any other agency authorised by it may publish any anonymised trade data related to transactions under this Scheme. The Reserve Bank may also share the information pertaining to such transactions with the Government / law enforcing agencies / regulators in India or other jurisdictions, as necessary.
+
+#### **15.Taxation**
+
+The applicable taxes will be as decided by the Government of India, from time to time.
+
+#### **16.Applicability of other laws, directions, regulations or guidelines**
+
+Eligible participants under this Scheme shall be governed by all other applicable provisions of Government Securities Act, 2006, Foreign Exchange Management Act, 1999 and the rules, regulations and directions issued thereunder by the Reserve Bank from time to time, unless otherwise specified.

@@ -1,0 +1,34 @@
+ shall certify that the data on DLAs submitted by them on the CIMS portal is correct and the DLAs are compliant with all the extant regulatory instructions, including the provisions of these Directions, as updated from time to time.
+- iv. Without prejudice to the generality of the above, the Chief Compliance Officer/ other official designated by the Board of the RE shall certify the following aspects:
+	- a. DLAs have link to RE's website where further information about the loan products, the lender, the LSP, particulars of customer care, link to Sachet Portal, privacy policies, etc. can be accessed by the borrower.
+	- b. DLAs (in case owned by LSP), have appointed a suitable nodal grievance redressal officer to deal with digital lending related complaints/ issues raised by the borrower, details of which are prominently available on the respective DLA.
+	- c. Data collection and storage by DLAs is in compliance with para 12 and 13 of these Directions and other statutory and regulatory requirements, as applicable from time to time.
+	- d. The DLA's particulars submitted by the RE are also suitably disclosed on the RE's website as required under para 8(iv) of these Directions.
+- v. RE shall ensure the correctness and timeliness of information regarding DLAs, as the data, as submitted by the RE on CIMS, shall be published on the website of RBI in an automated manner and RBI shall not verify/ validate the data submitted
+
+on CIMS. All issues and grievances of customers concerning DLAs shall be addressed and dealt with by the RE directly.
+
+- vi. RE shall ensure that the inclusion of any third party DLAs deployed by them as part of above reporting, shall not be construed by the DLAs or any associated entity as conferring any form of registration, authorization, or endorsement by the Reserve Bank. RE shall also ensure that such inclusion is not misrepresented in any marketing, promotional, or other materials issued by or on behalf of the DLAs.
+- vii. RE shall ensure that the reporting in respect of all DLAs on the CIMS portal is completed by June 15, 2025.
+
+#### **Chapter VI: Loss sharing arrangement in case of default**
+
+# <span id="page-14-1"></span><span id="page-14-0"></span>18.**Eligibility as DLG provider**
+
+i. RE may enter into DLG arrangements only with a LSP/ other RE engaged as a LSP. Further, the LSP providing DLG shall be incorporated as a company under the Companies Act, 2013.
+
+# <span id="page-14-2"></span>19.**Due diligence and other requirements with respect to DLG provider**
+
+- i. RE, including a RE acting as DLG provider, shall put in place a Board approved policy before entering into any DLG arrangement. Such policy shall include, at a minimum, the eligibility criteria for DLG provider, nature and extent of DLG cover, process of monitoring and reviewing the DLG arrangement, and the details of the fees, if any, payable to/ received by the DLG provider, as the case may be.
+- ii. RE shall ensure that any DLG arrangement does not act as a substitute for credit appraisal requirements and robust credit underwriting standards need to be put in place irrespective of the DLG cover.
+- iii. Every time a RE enters into or renews a DLG arrangement, it shall obtain adequate information to satisfy itself that the entity extending DLG would be able to honour it. Such information shall, at a minimum, include a declaration from the DLG
+
+provider, certified by the statutory auditor of the DLG provider, on the aggregate DLG amount outstanding, the number of RE and the respective number of portfolios against which DLG has been provided. The declaration shall also contain past default rates on similar portfolios.
+
+iv. It is clarified that the due-diligence requirements specified herein are in addition to the general requirements applicable to RE-LSP arrangements as set out in para 5 of these Directions.
+
+#### <span id="page-15-0"></span>20.**Restrictions on entering into DLG arrangements**
+
+- i. RE shall not enter into DLG arrangements for revolving credit facilities offered through digital lending channel and credit cards as defined under [Master Direction](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300)  [– Credit Card and Debit Card – Issuance and Conduct Directions, 2022](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300) dated April [21, 2022.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300)
+- ii. RE shall not enter into DLG arrangements on the loans which are covered by the credit guarantee schemes administered by trust funds as specified under para 2 of [Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12384&Mode=0)  [Guarantee Schemes \(CGS\) dated September 07, 2022,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12384&Mode=0) as amended from time to time.
+- iii. NBFC P2P shall not enter into DLG arrangements for the loans facilitated over its platform and be guided by para 6(1)(iv) of

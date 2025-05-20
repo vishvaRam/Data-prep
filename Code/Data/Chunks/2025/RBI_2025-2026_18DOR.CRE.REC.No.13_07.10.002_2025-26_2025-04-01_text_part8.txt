@@ -1,0 +1,33 @@
+rudential Guidelines on Restructuring of Advances**
+
+#### 6.1 General Principles
+
+The basic objective of restructuring is to preserve economic value of units and not evergreening of problem accounts. This can be achieved by UCBs and the borrowers by careful assessment of the viability, quick detection of weaknesses in accounts and a time-bound implementation of restructuring packages. The prudential guidelines will be applicable to all categories of debt restructuring other than those restructured on account of natural calamities, which will continue to be governed by the extant guidelines. The principles and prudential norms laid down are applicable to all advances, including borrowers who are eligible for special regulatory treatment for asset classification as detailed in the prudential guideline on restructuring of advances in [Master Circular - Income Recognition, Asset Classification, Provisioning and Other Related](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12821)  [Matters – UCBs dated April 1, 2025,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12821) as amended from time to time. For the definition of Micro, Small and Medium Enterprises (MSME), UCBs shall be guided by [Master Directions - Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12799)  [Bank of India \(Priority Sector Lending – Targets and Classification\) Directions, 2025 dated March](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12799)  [24, 2025,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12799) as amended from time to time.
+
+### 6.2. Eligibility Criteria for Restructuring of Advances
+
+6.2.1 UCBs may restructure the accounts classified under 'standard', 'sub-standard' and 'doubtful' categories.
+
+6.2.2 UCBs cannot reschedule / restructure / renegotiate borrowal accounts with retrospective effect. While a restructuring proposal is under consideration, the usual asset classification norms would continue to apply. The process of re-classification of an asset should not stop merely because restructuring proposal is under consideration. The asset classification status as on the date of approval of the restructured package by the competent authority would be relevant to decide the asset classification status of the account after restructuring / rescheduling /
+
+renegotiation. In case there is undue delay in sanctioning a restructuring package and in the meantime the asset classification status of the account undergoes deterioration, it would be a matter of supervisory concern.
+
+6.2.3 Normally, restructuring cannot take place unless alteration / changes in the original loan agreement are made with the formal consent / application of the debtor. However, the process of restructuring can be initiated by the UCB in deserving cases subject to customer agreeing to the terms and conditions.
+
+6.2.4 No account will be taken up for restructuring by the UCBs unless the financial viability is established and there is a reasonable certainty of repayment from the borrower, as per the terms of restructuring package. The viability should be determined by the UCBs based on the acceptable viability benchmarks determined by them, which may be applied on a case-by-case basis, depending on merits of each case. Illustratively, the parameters may include the Return on Capital Employed, Debt Service Coverage Ratio, Gap between the Internal Rate of Return and Cost of Funds and the amount of provision required in lieu of the diminution in the fair value of the restructured advance. The accounts not considered viable should not be restructured and UCBs should accelerate the recovery measures in respect of such accounts. Any restructuring done without looking into cash flows of the borrower and assessing the viability of the projects / activity financed by UCBs would be treated as an attempt at ever greening a weak credit facility and would invite supervisory concerns / action.
+
+6.2.5 The borrowers indulging in frauds and malfeasance will continue to remain ineligible for restructuring.
+
+6.3 Compromise settlements and technical write-offs
+
+UCBs shall adhere to the instructions contained in the [circular DOR.STR.REC.20/21.04.048/](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0) [2023-24 dated June 8, 2023](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0) regarding framework for compromise settlements and technical write-offs.
+
+## <span id="page-13-0"></span>**7. Specific Lending Activities**
+
+7.1 Bridge Loans / Interim Finance
+
+7.1.1 The grant of bridge loan / interim finance by UCBs to any company (including finance companies) is totally prohibited.
+
+7.1.2 The ban on sanction of bridge loans / interim finance is also applicable in respect of Euro issues.
+
+7.1.3 The UCBs should not circumvent these instructions by purport and / or intent by sanction of credit under a different nomenclature like unsecured negotiable notes, floating rate interest 

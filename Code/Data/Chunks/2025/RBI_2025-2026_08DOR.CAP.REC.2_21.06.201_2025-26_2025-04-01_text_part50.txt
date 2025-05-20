@@ -1,0 +1,38 @@
+capital charge measures into a maturity ladder with the fifteen time bands as set out in **Table 15**;
+- iv. subject long and short positions (short position is not allowed in India except in derivatives and Central Government Securities) in each time band to a 5 per cent vertical disallowance designed to capture basis risk; and
+- v. carry forward the net positions in each time-band for horizontal offsetting subject to the disallowances set out in **Table 16**.
+
+
+### **Table 15 - Duration Method – Time Bands and Assumed changes in Yield**
+
+
+**Table 16 - Horizontal Disallowances**
+
+8.3.9 The measurement system should include all interest rate derivatives and off balance-sheet instruments in the trading book which react to changes in interest rates, (e.g. forward rate agreements (FRAs), other forward contracts, bond futures, interest rate and cross-currency swaps and forward foreign exchange positions). Options can be treated in a variety of ways as described in **[Annex 9](#page-233-0)**.
+
+### **8.4 Measurement of Capital Charge for Equity Risk**
+
+8.4.1 The capital charge for equities would apply on their fair value in bank's trading book. Minimum capital requirement to cover the risk of holding or taking positions in equities in the trading book is set out below. This is applied to all instruments that exhibit market behaviour similar to equities but not to non-convertible preference shares (which are covered by the interest rate risk requirements described earlier). The instruments covered include equity shares[96](#page-102-0), whether voting or non-voting, convertible securities that behave like equities, for example: units of funds[97](#page-102-1) (other than debt mutual funds/ETFs mentioned in para 8.3.4), and commitments to buy or sell equity.
+
+### **Specific and General Market Risk**
+
+<span id="page-102-0"></span> <sup>96</sup> Please refer to Master Direction - [Classification, Valuation and Operation of Investment Portfolio of Commercial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Banks \(Directions\), 2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) Accordingly, a) investments in subsidiaries, associates and joint ventures would be part of banking book; b) unlisted equity would be part of banking book [FVTPL (non-HFT), or under AFS in terms of clause 6.2(a) of Directions]; and c) listed equity is generally part of trading book (classified under HFT), unless such investment is classified under AFS in terms of clause 6.2(a) of Directions.
+
+<span id="page-102-1"></span><sup>97</sup> Please also refer to paragraph 7(d) and 8(b) of Annex I of Master Direction - [Classification, Valuation and Operation](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [of Investment Portfolio of Commercial Banks \(Directions\), 2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)
+
+8.4.2 Capital charge for specific risk (akin to credit risk) will be 11.25 per cent or capital charge in accordance with the risk warranted by external rating (or lack of it) of the counterparty, whichever is higher and specific risk is computed on banks' gross equity positions (i.e., the sum of all long equity positions and of all short equity positions - short equity position is, however, not allowed for banks in India). In addition, the general market risk charge will also be 9 per cent on the gross equity positions. These capital charges will also be applicable to all trading book exposures, which are exempted from capital market exposure ceilings for direct investments.
+
+8.4.3 Specific Risk Capital Charge for banks' investment in Security Receipts[98](#page-103-0) will be 13.5 per cent (equivalent to 150 per cent risk weight).
+
+8.4.4 The specific risk charge for bank's investments in the equity of other banks / other financial entities / non-financial entities will be as under:
+
+
+# **Table 17 – Part A: Specific risk charge for bank's investments in the equity of other banks**
+
+\* Full deduction should be made from Common Equity Tier 1 capital **Note:**
+
+Till such time the investee banks have not disclosed their Basel III capital ratios publicly, the risk weights / capital charges may be arrived at based on the tables/paragraph as contained in the [Master Circular DBOD.No.BP.BC.4/21.06.001/2015-16 dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893) on
+
+<span id="page-103-0"></span> <sup>98</sup> Please refer to Master Direction - [Classification, Valuation and Operation of Investment Portfolio of Commercial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Banks \(Directions\), 2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) Accordingly, Security Receipts can be part of banking book [classified under FVTPL (non-HFT)] or trading book (classified under HFT).
+
+Prudential Guidelines on Capital Ad

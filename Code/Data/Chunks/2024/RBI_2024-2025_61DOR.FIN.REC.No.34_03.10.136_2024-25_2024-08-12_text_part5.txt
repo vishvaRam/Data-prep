@@ -1,0 +1,29 @@
+2019 dated June 26, 2019,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11602&Mode=0) as amended from time to time.
+
+### **Credit Default Swaps (CDS)**
+
+13. HFCs are permitted to participate in CDS market as users only and they shall buy credit protection only to hedge their credit risk on corporate bonds they hold. They shall not sell protection and hence, shall not enter into short positions in the CDS contracts. However, they are permitted to exit their bought CDS positions by unwinding them with the original counterparty or by assigning them in favour of buyer of the underlying bond or by assigning the contract to any other eligible market participant through novation (only in case of events such as winding-up or mergers/ acquisitions)[5](#page-7-1). Apart from complying with relevant instructions governing CDS, HFCs, as users, shall also ensure adherence to the guidelines as provided in Annex XIV of [Master Direction](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  – [Reserve Bank of India \(Non-Banking Financial Company–](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) Scale Based Regulation) [Directions, 2023,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) as amended from time to time, which shall be applicable, *mutatismutandis*, to them.
+
+<span id="page-7-0"></span><sup>4</sup> HFCs may continue to participate in Forward Rate Agreements and Interest Rate Swaps in OTC market, as hitherto, for hedging their underlying exposures, subject to adherence to relevant instructions as issued by the Reserve Bank.
+
+<span id="page-7-1"></span><sup>5</sup> Regulations on novation are applicable to HFCs as well as NBFCs.
+
+#### **Issue of co-branded credit cards**
+
+14. HFCs are allowed to issue co-branded credit cards, subject to the instructions prescribed in Master Direction – [Credit Card and Debit Card –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300) Issuance and Conduct [Directions, 2022,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300) as amended from time to time.
+
+#### **Accounting Year**
+
+15. With regard to accounting year, all HFCs are required to prepare their financial statements for the year ending on the 31st day of March. It has been decided that HFCs shall finalise their balance sheet within 3 months from the date to which it pertains. Further, whenever an HFC intends to extend the date of its balance sheet as per the provisions of Companies Act, it shall take prior approval of NHB before approaching Registrar of Companies (RoC) for this purpose. In cases where NHB and RoC grants extension of time, the HFC shall furnish to NHB a proforma balance sheet (unaudited) as on March 31 of the year and the returns due on the said date.
+
+#### **Periodicity of IS Audit**
+
+16. Attention is invited to para 50.1.2 of Master Direction – [Non-Banking Financial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)  Company – [Housing Finance Company \(Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030) Bank) Directions, 2021 wherein periodicity of IS Audit is prescribed. It is now advised that the Audit Committee must ensure that an Information System Audit is conducted as per the periodicity prescribed in [Master Direction on Information Technology Governance, Risk, Controls and](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12562)  Assurance Practices [dated November 07, 2023,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12562) as amended from time to time.
+
+#### **Investment through Alternative Investment Funds for calculation of NOF**
+
+17. In terms of Section 29A of the National Housing Bank Act, 1987, the investments/ loans/ exposures to subsidiaries, companies in the same group and other HFCs, in excess of 10 per cent of owned fund, is reduced from the owned fund, in order to arrive at Net Owned Fund (NOF) of an HFC. In this context, while arriving at the NOF, investment made by HFC in entities of the same group, either directly or indirectly, for example through an Alternative Investment Fund (AIF), shall be treated in the same manner, provided the funds in the AIF (company) have come from HFC to the extent of 50% or more; or where the beneficial owner in the case of AIF (trust) is the HFC and 50% of the funds in the Trust have come from the HFC. For this purpose, "beneficial ownership" would mean holding the power to make or influence decisions in the Trust and being the recipient of benefits arising out of the activities of the Trust.
+
+### **Technical Specifications for all participants of Account Aggregator ecosystem**
+
+18. In terms of provisions of para 3(1)(xi) and 3(1)(xii) of [Master Direction –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10598) Non-Banking Financial Company – [Account Aggregator \(Reserve Bank\) Directions, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10598) HFCs fall under the def

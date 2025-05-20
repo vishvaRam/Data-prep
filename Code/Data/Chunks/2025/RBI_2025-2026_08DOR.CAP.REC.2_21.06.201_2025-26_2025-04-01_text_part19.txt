@@ -1,0 +1,59 @@
+on Exposures of Scheduled Commercial Banks (SCBs) to Non-Banking Financial Companies (NBFCs) – Review of Risk Weights.
+
+well as unrated, will be risk-weighted at 100%. The following table indicates the risk weight applicable to claims on corporates and exposures to all NBFCs, excluding CICs.
+
+**Table 5: Part A – Long term Claims on Corporates and NBFCs excluding CICs – Risk Weights**
+
+
+#### **Table 5: Part B – Short term Claims on Corporates and NBFCs excluding CICs – Risk Weights**
+
+
+### **Note:**
+
+- (i) No claim on an unrated corporate may be given a risk weight preferential to that assigned to its sovereign of incorporation.
+- (ii) Claims on corporates and NBFCs, except CICs, having aggregate exposure from banking system of more than ₹ 100 crore which were rated earlier and subsequently have become unrated will attract a risk weight of 150%.
+- (iii) All unrated claims on corporates and NBFCs, except CICs, having aggregate exposure from banking system of more than ₹ 200 crore will attract a risk weight of 150%.
+
+5.8.2 The Reserve Bank may increase the standard risk weight for unrated claims where a higher risk weight is warranted by the overall default experience. As part of the supervisory review
+
+ <sup>38</sup> Please refer t[o circular DOR.STR.REC.26/21.06.008/2024-25 dated July 10, 2024.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12700&Mode=0)
+
+<span id="page-39-1"></span><span id="page-39-0"></span><sup>39</sup> Please refer t[o circular DBOD.BP.BC.No.59/21.06.007/2013-14 dated October 17, 2013.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8510&Mode=0)
+
+process, the Reserve Bank would also consider whether the credit quality of unrated corporate claims held by individual banks should warrant a standard risk weight higher than 100 per cent.
+
+5.8.3 The claims on non-resident corporates will be risk weighted as under as per the ratings assigned by international rating agencies.
+
+
+
+#### **Note:**
+
+- (i) Unrated claims having aggregate exposure from banking system of more than ₹ 200 crore will attract a risk weight of 150%.
+- (ii) Claims with aggregate exposure from banking system of more than ₹ 100 crore which were rated earlier and subsequently have become unrated will attract a risk weight of 150%.
+
+### **5.9 Claims included in the Regulatory Retail Portfolios**
+
+5.9.1 Claims (including both fund-based and non-fund based) that meet all the four criteria listed below in paragraph 5.9.3 may be considered as retail claims for regulatory capital purposes and included in a regulatory retail portfolio. Claims included in this portfolio shall be assigned a riskweight of 75 per cent, except as provided in paragraph 5.12 below for non-performing assets.
+
+5.9.2 The following claims, both fund based and non-fund based, shall be excluded from the regulatory retail portfolio:
+
+- (a) Exposures by way of investments in securities (such as bonds and equities), whether listed or not;
+- (b) Mortgage Loans to the extent that they qualify for treatment as claims secured by residential property[40](#page-40-0) or claims secured by commercial real estate[41](#page-40-1);
+- (c) Loans and Advances to bank's own staff which are fully covered by superannuation benefits and / or mortgage of flat/ house;
+- (d) Consumer Credit, including Personal Loans and credit card receivables;
+- (e) Capital Market Exposures;
+- (f) Venture Capital Funds.
+
+# **5.9.3 Qualifying Criteria**
+
+(i) *Orientation Criterion* - The exposure (both fund-based and non fund-based) is to an individual person or persons or to a small business; Person under this clause would mean any
+
+<span id="page-40-0"></span> <sup>40</sup> Mortgage loans qualifying for treatment as 'claims secured by residential property' are defined in paragraph 5.10.
+
+<span id="page-40-1"></span><sup>41</sup> As defined in paragraph 5.11.1.
+
+legal person capable of entering into contracts and would include but not be restricted to individual and HUF; small business would include partnership firm, trust, private limited companies, public limited companies, co-operative societies etc. Small business is one where the total average annual turnover is less than ₹ 50 crore. The turnover criterion will be linked to the average of the last three years in the case of existing entities; projected turnover in the case of new entities; and both actual and projected turnover for entities which are yet to complete three years.
+
+(ii) *Product Criterion* - The exposure (both fund-based and non-fund-based) takes the form of any of the following: revolving credits and lines of credit (including overdrafts), term loans and leases (e.g., instalment loans and leases, student and educational loans) and small business facilities and commitments.
+
+(iii) *Granularity Criterion* - Banks must ensure that the regulatory retail portfolio is sufficiently diversified to a degree that reduces the risks in the portfolio, warranting the 75 per cent risk weight. One way of achieving this is that no agg

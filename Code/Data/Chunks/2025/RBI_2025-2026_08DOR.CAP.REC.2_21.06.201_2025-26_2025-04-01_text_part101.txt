@@ -1,0 +1,58 @@
+
+- impede the normal operation of the bank or any restructuring activity (including acquisitions/disposals).
+
+A stopper may act to prohibit actions that are equivalent to the payment of a dividend, such as the bank undertaking discretionary share buybacks, **if otherwise permitted**.
+
+# **1.9 Treatment in Insolvency**
+
+The instrument cannot contribute to liabilities exceeding assets if such a balance sheet test forms part of a requirement to prove insolvency under any law or otherwise.
+
+# **1.10 Loss Absorption Features**
+
+PNCPS should have principal loss absorption through either (i) conversion to common shares at an objective pre-specified trigger point or (ii) a write-down mechanism which allocates losses to the instrument at a pre-specified trigger point. The write-down will have the following effects:
+
+- a) Reduce the claim of the instrument in liquidation;
+- b) Reduce the amount re-paid when a call is exercised; and
+- c) Partially or fully reduce dividend payments on the instrument.
+
+Various criteria for loss absorption through conversion / write-down / write-off on breach of prespecified trigger and at the point of non-viability are furnished in **[Annex 15](#page-259-0)**.
+
+## **1.11 Prohibition on Purchase / Funding of PNCPS**
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase PNCPS, nor can the bank directly or indirectly should fund the purchase of the instrument. Banks should also not grant advances against the security of PNCPS issued by them.
+
+### **1.12 Re-capitalisation**
+
+The instrument cannot have any features that hinder re-capitalisation, such as provisions which require the issuer to compensate investors if a new instrument is issued at a lower price during a specified time frame.
+
+### **1.13 Reporting of Non-payment of Dividends and Non-exercise of Call Option**
+
+All instances of non-payment of dividends and non-exercise of call option shall be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision of the Reserve Bank of India, Mumbai.
+
+#### **1.14 Seniority of Claim**
+
+The claims of the investors in instruments shall be
+
+(i) Superior to the claims of investors in equity shares;
+
+(ii) Subordinated to the claims of PDIs, all Tier 2 regulatory capital instruments, depositors and general creditors of the bank; and
+
+(iii) is neither secured nor covered by a guarantee of the issuer nor related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+
+### **1.15 Investment in Instruments Raised in Indian Rupees by Foreign Entities/NRIs**
+
+(i) Investment by FIIs and NRIs shall be within an overall limit of 49% and 24% of the issue respectively, subject to the investment by each FII not exceeding 10% of the issue, and investment by each NRI not exceeding 5% of the issue. Investment by FIIs in these instruments shall be outside the ECB limit for rupee-denominated corporate debt, as fixed by Government of India from time to time. The overall non-resident holding of Preference Shares and equity shares in public sector banks will be subject to the statutory / regulatory limit.
+
+(ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+
+### **1.16 Compliance with Reserve Requirements**
+
+(i) The funds collected by various branches of the bank or other banks for the issue and held pending finalisation of allotment of the Additional Tier 1 Preference Shares will have to be taken into account for the purpose of calculating reserve requirements.
+
+(ii) However, the total amount raised by the bank by issue of PNCPS shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+
+# **1.17 Reporting of Issuances**
+
+(i) Banks issuing PNCPS shall submit a report to the Chief General Manager-in-charge, Department of Regulation, Reserve Bank of India, Mumbai giving details of the instrument as per the format prescribed in **[Annex 22](#page-309-0)** duly certified by the compliance officer of the bank, soon after the issue is completed.
+
+(ii) The issue-wise details of amount raised as PNCPS qualifying for Additional Tier 1 capital by the bank from FIIs / NRIs are required to be reported within 30 days of the issue to the Chief General Manager, Reserve Bank of India, Foreign Exchange Department, Foreign Investment Division, Central Office, Mumbai 400 001 in the **proforma** given at the end of this **Annex**. The details of the secondary market sales / purchases by FIIs and the NRIs in these instruments on the floor of the stock exchange shall be reported by the custodians and designated banks, respectively, to the Reserve Bank of India through the soft copy 

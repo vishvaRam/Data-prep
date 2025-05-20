@@ -1,0 +1,41 @@
+the Board of directors that addresses the bank's approach for determining what disclosures it will make and the internal controls over the disclosure process. In addition, banks should implement a process for assessing the appropriateness of their disclosures, including validation and frequency.
+
+### **14.8 Implementation Date**
+
+In terms of Guidelines on Composition of Capital Disclosure Requirements issued vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8005&Mode=0)  [DBOD.No.BP.BC.98/21.06.201/2012-13 dated May 28, 2013,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8005&Mode=0) Pillar 3 disclosures as introduced under Basel III have become effective from July 1, 2013. The first set of disclosures as required by these guidelines was to be made by banks as on September 30, 2013.
+
+### **14.9 Scope and Frequency of Disclosures**
+
+14.9.1 Pillar 3 applies at the top consolidated level of the banking group to which the Capital Adequacy Framework applies. Disclosures related to individual banks within the groups would not generally be required to be made by the parent bank. An exception to this arises in the disclosure of capital ratios by the top consolidated entity where an analysis of significant bank subsidiaries within the group is appropriate, in order to recognise the need for these subsidiaries to comply
+
+with the Framework and other applicable limitations on the transfer of funds or capital within the group. Pillar 3 disclosures will be required to be made by the individual banks on a stand-alone basis when they are not the top consolidated entity in the banking group.
+
+14.9.2 Banks are required to make Pillar 3 disclosures[116](#page-156-0) at least on a half yearly basis, irrespective of whether financial statements are audited, with the exception of following disclosures:
+
+- (i) Table DF-2: Capital Adequacy;
+- (ii) Table DF-3: Credit Risk: General Disclosures for All Banks; and
+- (iii) Table DF-4: Credit Risk: Disclosures for Portfolios Subject to the Standardised Approach.
+
+The disclosures as indicated at (i), (ii) and (iii) above will be made at least on a quarterly basis by banks.
+
+14.9.3 All disclosures must either be included in a bank's published financial results / statements or, at a minimum, must be disclosed on bank's website. If a bank finds it operationally inconvenient to make these disclosures along with published financial results / statements, the bank must provide in these financial results / statements, a direct link to where the Pillar 3 disclosures can be found on the bank's website. The Pillar 3 disclosures should be made concurrent with publication of financial results / statements[117.](#page-156-1)
+
+14.9.4 However, banks may note that in the case of main features template (as indicated in paragraph 14.13.7) and provision of the full terms and conditions of capital instruments (as indicated in paragraph 14.13.8), banks are required to update these disclosures concurrently whenever a new capital instrument is issued and included in capital or whenever there is a redemption, conversion / write-down or other material change in the nature of an existing capital instrument.
+
+### **14.10 Regulatory Disclosure Section**
+
+14.10.1 Banks are required to make disclosures in the format as specified in **[Annex 17](#page-271-0)** of this Master Circular. Banks have to maintain a 'Regulatory Disclosures Section' on their websites, where all the information relating to disclosures will be made available to the market participants. The direct link to this page should be prominently provided on the home page of a bank's website and it should be easily accessible. This requirement is essentially to ensure that the relevance /
+
+<span id="page-156-0"></span> <sup>116</sup> Please refer to Annex 17 for detailed Pillar 3 disclosure templates.
+
+<span id="page-156-1"></span><sup>117</sup> It may be noted that Pillar 3 disclosures are required to be made by all banks including those which are not listed on stock exchanges and / or not required to publish financial results / statement. Therefore, such banks are also required to make Pillar 3 disclosures at least on their websites within reasonable period.
+
+benefit of Pillar 3 disclosures is not diminished by the challenge of finding the disclosure in the first place.
+
+14.10.2 An archive for at least three years of all templates relating to prior reporting periods should be made available by banks on their websites.
+
+# **14.11 Pillar 3 under Basel III Framework[118](#page-157-0)**
+
+14.11.1 The Pillar 3 disclosure requirements as introduced under Basel III along with previous disclosure requirements with suitable modifications / enhancements are detailed in the subsequent paragraphs.
+
+14.11.2 In order to ensure comparability of the capital adequacy of banks across jurisdictions, it is important to disclose details of items of regulatory capital and various regulatory adjustments to it. Further, to improve consistency an

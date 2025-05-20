@@ -1,0 +1,29 @@
+nted in that jurisdiction[122,](#page-159-0) clearly labelling them as being different from the Basel III minimum definition[123,](#page-159-1) and banks are required to separately disclose the impact of each of these different definitions in the notes to the template.
+
+14.12.4 The aim of both the approaches is to provide all the information necessary to enable market participants to calculate the capital of banks on a common basis. In the Indian context, Approach 2 appears to be more practical and less burdensome for banks than the Approach 1. Under the Approach 2, banks have to furnish data based on the definition of capital / regulatory adjustments as implemented in India. The difference with the Basel III minimum can be separately disclosed and explained in notes to the templates. This way of disclosure will be more relevant and comprehensible to a larger number of users of disclosures more specifically, the domestic users. At the same time, information provided in the notes to the templates to indicate differences from Basel III minimum will help facilitate cross-jurisdictional comparison of banks' capital, should users desire. Accordingly, the disclosure templates have been customised, keeping in view the consistency and comparability of disclosures.
+
+# **14.13 Reconciliation Requirements**
+
+14.13.1 Banks will be required to disclose a full reconciliation of all regulatory capital elements back to the balance sheet in the audited (or unaudited) financial statements. This requirement aims to address disconnect, if any, present in a bank's disclosure between the numbers used for the calculation of regulatory capital and the numbers used in the balance sheet.
+
+14.13.2 Banks will have to follow a three step approach to show the link between their balance sheet and the numbers which are used in the composition of capital disclosure template set out in **[Annex 17](#page-271-0) (Table DF-11** whichever applicable). The three steps are explained below and also illustrated in Table DF-12 of [Annex 17:](#page-271-0)
+
+Step 1: banks are required to disclose the reported balance sheet under the regulatory scope of consolidation[124](#page-159-2) (**Table DF-12 of [Annex 17](#page-271-0)**);
+
+Step 2: banks will have to expand the lines of the balance sheet under regulatory scope of consolidation (**Table DF-12 of [Annex 17](#page-271-0)**) to display all components which are used in the composition of capital disclosure template (**Table DF-11 of [Annex 17](#page-271-0)**); and
+
+<span id="page-159-0"></span> <sup>122</sup> As defined in th[e DBOD.No.BP.BC.98/21.06.201/2011-12 dated May 2, 2012](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0) on Guidelines on Implementation of Basel III Capital Regulations in India.
+
+<span id="page-159-1"></span><sup>123</sup> Basel III: A global regulatory framework for more resilient banks and banking systems, December 2010 (rev June 2011).
+
+<span id="page-159-2"></span><sup>124</sup> Regulatory scope of consolidation is explained in paragraph 3 of this Master Circular.
+
+Step 3: finally, banks will have to map each of the components that are disclosed in Step 2 to the composition of capital disclosure template set out in **Table DF-11 of [Annex 17](#page-271-0)** whichever, applicable.
+
+14.13.3 *Step 1: Disclose the reported balance sheet under the regulatory scope of consolidation* 
+
+(i) The scope of consolidation for accounting purposes is often different from that applied for the regulatory purposes. Usually, there will be difference between the financial statements of a bank specifically, the bank's balance sheet in published financial statements and the balance sheet considered for the calculation of regulatory capital. Therefore, the reconciliation process involves disclosing how the balance sheet changes when the regulatory scope of consolidation is applied for the purpose of calculation of regulatory capital on a consolidated basis.
+
+(ii) Accordingly, banks are required to disclose the list of the legal entities which have been included within accounting scope of consolidation but excluded from the regulatory scope of consolidation. This is intended to enable market participants and supervisors to investigate the risks posed by unconsolidated entities (e.g., unconsolidated subsidiaries). Similarly, banks are required to list the legal entities which have been included in the regulatory consolidation but not in the accounting scope of consolidation. Finally, it is possible that some entities are included in both the regulatory scope of consolidation and accounting scope of consolidation, but the method of consolidation differs between these two scopes. In such cases, banks are required to list these legal entities and explain the differences in the consolidation methods.
+
+(iii) If the scope of regulatory consolidation and accounting consolidation is identical for a particular banking group, it would not be required to undertake Step 1. The banking grou

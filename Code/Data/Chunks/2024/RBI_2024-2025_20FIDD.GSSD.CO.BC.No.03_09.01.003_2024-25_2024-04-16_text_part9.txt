@@ -1,0 +1,29 @@
+ired to embed '**Unique codes**' in banks' CBS against respective CIF/ loan accounts.
+
+- (x) All participating banks are required to submit their claims for reimbursement of credit guarantee fees only for the verified accounts.
+- (xi) Banks are required to submit claim certificate on quarterly basis (*i.e., as on June 30; September 30; December 31 and March 31*) to the Nodal Bank. The claims submitted by any lending institution should be accompanied by claim certificate given as **[Annexure-VIII](#page-26-0)** certifying the claims as true and correct. The claims of any bank for the quarter ending March 31 will be settled by DoRD only on receipt of the Statutory Auditor's certificate for the complete Financial Year.
+- (xii) Any remaining claims pertaining to the disbursements made during the previous year but not included in the claims, may be consolidated separately, and marked as an *'Additional Claim*' and submitted to Nodal Bank latest by September 30 of the subsequent Financial Year duly certified by Statutory Auditors as correct.
+- (xiii) Any corrections in claims by banks shall be adjusted from later claims based on auditor's certificate. All banks will be required to carry out necessary correction on the Nodal Bank's portal accordingly.
+- (xiv) Claims from bank will be settled through the Nodal Bank after due scrutiny by Department of Rural Development (DoRD).
+- (xv) Banks participating in the scheme will be required to make available all relevant records pertaining to the claims made to auditors/ representatives of DoRD for verification.
+- (xvi) Banks shall promptly intimate DoRD in case of any change in status as "MLI" with CGTMSE or CGFMU under NCGTC.
+
+# **2. Interest Subvention on Bank loan to individual SHG members for enterprises**
+
+- (i) The scheme is limited to Women Self Help Group members being supported under DAY - NRLM in rural areas only.
+- (ii) Interest subvention will be provided to an individual women entrepreneur only once.
+- (iii) All banks extending credit for enterprises fully or partially owned by women Self Help Group members under DAY-NRLM at interest rate equivalent to (1-year
+
+MCLR + max 3% spread) or maximum of 14% per annum will be eligible to claim interest subvention under this scheme.
+
+- (iv) Banks participating in the scheme will be required to upload the details of individual borrowers along with other relevant information on the Nodal Bank's portal.
+- (v) Details of individual borrowers uploaded on the portal by banks will be verified by respective SRLMs. For verification, SRLMs are required to enter '**Unique codes**' assigned by DAY-NRLM to individual SHG members.
+- (vi) Banks should also flag the loan accounts as *'SHG Member under DAY-NRLM'* on their CBS. For identification of SHG Members under DAY-NRLM, banks are required to embed '**Unique codes**' in banks' CBS against respective CIF/ loan accounts.
+- (vii) All participating banks are required to submit their claims for interest subvention only for the verified accounts on quarterly basis.
+- (viii) Lending Institutions can claim interest subvention of 2% per annum on maximum outstanding loan of ₹1.5 lakh per borrower for a maximum tenure of 3 years. In case of loan outstanding amount exceeding ₹1.5 lakh, interest subvention will be limited to the ceiling of ₹1.5 lakh only. The tenure of the loan will be calculated from the original date of sanction of the loan.
+- (ix) Lending Institutions should ensure that overlapping interest subvention schemes from multiple sources should not be combined for a single borrower.
+- (x) Interest subvention can be claimed only for the period the account remained standard. No interest subvention will be payable for the period the account remained classified as "*NPA*". In case account classified as "NPA" subsequently turns as standard asset on account of recovery of overdues, no subvention amount will be payable for the period the account remained classified as "NPA".
+- (xi) Lending Institutions are required to submit claim certificate on quarterly basis (*i.e., as on June 30; September 30; December 31 and March 31*) to the Nodal Bank. The claims submitted by any lending institution should be accompanied by claim certificate given as **[Annexure-IX](#page-27-0)** certifying the claims as true and correct. The claims of any bank for the quarter ending March 31 will be settled by DoRD only on receipt of the Statutory Auditors' certificate for the complete Financial Year.
+- (xii) Any remaining claims pertaining to the disbursements made during the previous year but not included in the claims, may be consolidated separately and marked as an *'Additional Claim*' and submitted to Nodal Bank latest by September 30 of the subsequent Financial Year duly certified by Statutory Auditors certifying the correctness.
+- (xiii) Claims from bank will be settled through the Nodal Bank after due scrutiny by Department of Rural Development (DoRD).
+- (xiv) Participating banks should credit the intere

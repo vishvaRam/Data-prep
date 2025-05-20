@@ -1,0 +1,44 @@
+![](_page_0_Picture_0.jpeg)
+
+# भारतीय �रज़वर् बैंक RESERVE BANK OF INDIA
+
+# RBI/2025-26/36 DOR.STR.REC.19/21.07.001/2025-26 May 8, 2025
+
+# **Reserve Bank of India (Digital Lending) Directions, 2025**
+
+#### **Index**
+
+
+
+#### **Chapter I: Preliminary**
+
+#### <span id="page-2-1"></span><span id="page-2-0"></span>1. **Preamble**
+
+Reserve Bank is statutorily mandated to operate the credit system of the country to its advantage. In this endeavour, Reserve Bank encourages innovation in the financial systems, products and credit delivery methods while ensuring orderly growth, financial stability and protection of depositors' and borrowers' interest. Certain concerns had emerged around the methods of designing, delivering and servicing digital credit products, which if not mitigated, may impact the borrower's confidence in the digital lending ecosystem. The concerns primarily relate to unbridled engagement of third parties, mis-selling, breach of data privacy, unfair business conduct, charging of exorbitant interest rates, and unethical recovery practices. To address these concerns, pursuant to the recommendations made by the "Working Group on Digital Lending", the Reserve Bank has, from time to time, issued guidelines to its regulated entities on digital lending. These Directions consolidate the earlier instructions along with certain new measures for arrangements involving Lending Service Providers partnering with multiple regulated entities as mentioned under para 6, and for creation of a directory of digital lending apps as mentioned under para 17 of these Directions.
+
+Accordingly, in exercise of powers conferred by sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, sections 30A and 32 of the National Housing Bank Act, 1987, section 6 of the Factoring Regulation Act, 2011 and section 11 of the Credit Information Companies (Regulation) Act, 2005, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby issues these Directions hereinafter specified.
+
+#### <span id="page-2-2"></span>2. **Short title and commencement**
+
+i. These Directions shall be called the Reserve Bank of India (Digital Lending) Directions, 2025.
+
+ii. These Directions shall come into force immediately except for para 6, which shall come into effect from November 1, 2025, and para 17, which shall come into effect from June 15, 2025.
+
+# <span id="page-3-0"></span>3. **Applicability**
+
+These Directions shall be applicable to all digital lending activities of the following entities, hereinafter referred to as a Regulated Entity (RE) and collectively as Regulated Entities (REs), as the context may require:
+
+- i. All Commercial Banks,
+- ii. All Primary (Urban) Co-operative Banks, State Co-operative Banks, Central Cooperative Banks,
+- iii. All Non-Banking Financial Companies (including Housing Finance Companies), and
+- iv. All All-India Financial Institutions.
+
+#### <span id="page-3-1"></span>4. **Definitions**
+
+For the purpose of these Directions, unless the context otherwise requires, the terms herein shall bear the meaning assigned to them below:
+
+- i. **Annual Percentage Rate (APR)**: APR as defined under [Circular No.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0)  [DOR.STR.REC.13/13.03.00/2024-25 on 'Key Facts Statement \(KFS\) for Loans &](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0)  [Advances' dated April 15, 2024,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0) as amended from time to time.
+- ii. **Default Loss Guarantee (DLG)**: A contractual arrangement, called by whatever name, between the RE and another entity, under which the latter guarantees to compensate the RE, for the loss due to default up to a certain percentage of the loan portfolio of the RE, specified upfront. Any other implicit guarantee of similar nature, linked to the performance of the loan portfolio of the RE and specified upfront, shall also be covered under the definition of DLG.
+- iii. **Digital Lending**: A remote and automated lending process, largely by use of seamless digital technologies for customer acquisition, credit assessment, loan approval, disbursement, recovery, and associated customer service.
+- iv. **Digital Lending Apps/ Platforms (DLAs)**: Mobile and/or web-based applications, on a standalone basis or as a part of suite of functions of an application with user interface that facilitate digital lending services. DLAs shall include applications of the RE as well as those operated by Lending Service Provider (LSP) engaged by RE for extending any credit facilitation services in conformity with extant outsourcing guidelines issued by the Reserve Bank.
+- v. **Lending Service Provider (LSP)**: An agent of a RE (including another RE) who carries out one or more of RE's digital lending functions, or part thereof, in customer acquisition, services incidental to underwrit

@@ -1,0 +1,54 @@
+mation/document.
+- (iv)A user with a covered short position in a bond forward shall exit its short position in case it ceases to hold the underlying government security.
+
+## **5. Settlement and Unwinding**
+
+(i) A bond forward transaction may be physically-settled or cash-settled.
+
+(ii) A physically-settled bond forward transaction shall be settled through the Clearing Corporation of India Ltd. (CCIL) or any other clearing agency or clearing arrangement approved by the Reserve Bank for the purpose.
+
+(iii) A cash-settled bond forward transaction may be settled bilaterally or through any clearing arrangement approved by the Reserve Bank for the purpose.
+
+(iv)A market participant may exit its position in a bond forward by unwinding the position with the original counterparty or assigning the position to any other eligible market participant(s) through novation[1](#page-4-0) subject to the provisions of the circular on Novation of OTC Derivative Contracts dated December 9, 2013, issued vide [Notification No. DBOD.No.BP.BC.76/21.04.157/2013-14.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8626&Mode=0) However, the provisions
+
+<span id="page-4-0"></span> <sup>1</sup> Novation is the replacement of a contract between two counterparties to an OTC derivatives transaction (the transferor, who steps out of the existing contract, and the remaining party) with a new contract between the remaining party and a third party (the transferee). The transferee becomes the new counterparty to the remaining party.
+
+![](_page_5_Picture_0.jpeg)
+
+under para 2, para 5.1 and para 5.2 of the above circular shall not apply to the novation of bond forward transactions undertaken in terms of these Directions.
+
+(v) The settlement basis and market conventions for bond forward transactions shall be specified by the Fixed Income Money Market and Derivatives Association of India (FIMMDA), in consultation with market participants. FIMMDA may also prescribe standard documentation procedures for bond forward transactions. Market participants may, alternatively, use a standard master agreement for bond forward transactions.
+
+#### **6. Market timing**
+
+The market timing for undertaking bond forward transactions shall be the market timing specified by the Reserve Bank for undertaking OTC Rupee Interest Rate Derivative transactions.
+
+### **7. Reporting**
+
+(i) A market-maker shall report all bond forward transactions undertaken during the day to the Trade Repository (TR) of the CCIL before closure of the TR for the day. The reporting shall include, *inter alia*, details of the counterparties, the underlying government security, settlement type (cash-settled or physically- settled) and whether a short position is a covered or uncovered short position.
+
+(ii) Market-makers shall also report instances of unwinding, novation, bilateral settlement and settlement default to the TR.
+
+(iii) For trades involving users which will be settled through CCIL, the user or the market-maker / clearing member of CCIL through which the user is availing CCIL's clearing and settlement services shall report all bond forward transactions undertaken during the day to the TR before closure of the TR for the day. For other trades, there shall be no requirement for users to report/confirm the transaction details to the TR. In such cases, the market-maker shall be responsible for ensuring the accuracy in respect of transactions reported.
+
+(iv) The reporting formats shall be as indicated by CCIL with the prior approval of the Reserve Bank.
+
+![](_page_6_Picture_0.jpeg)
+
+(v) Market-makers shall ensure that outstanding balances between their books and the TR are reconciled and subjected to concurrent audit on an ongoing basis.
+
+# **8. Obligation to provide information sought by the Reserve Bank**
+
+The Reserve Bank may call for information or statement or seek any clarification, which in the opinion of the Reserve Bank is necessary, from persons or agencies dealing in bond forward transactions, including eligible participants and ETP operators, and such persons/agencies shall furnish such information, statement or clarification within such time as specified by the Reserve Bank.
+
+## **9. Dissemination of Data**
+
+The Reserve Bank, or any other agency authorised by the Reserve Bank, may in public interest, publish anonymised data related to bond forward transactions.
+
+#### **10. Prudential Norms, Accounting and Capital Requirements**
+
+(i) Market participants shall follow the applicable prudential norms including those related to capital adequacy, exposure norms, related party transactions, etc., issued by their respective regulators for bond forward transactions.
+
+(ii) A market-maker shall put in place appropriate and robust methodologies for marking to market its positions in bond forwards.
+
+(iii) The accounting of bond forwards by market participants shall be as per notified and applicable accounting standards read with regulatory guidelines/instructions issued by the respect

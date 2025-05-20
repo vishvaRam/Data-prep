@@ -1,0 +1,107 @@
+ accordance with the applicable accounting regime and without taking into account the effects of credit risk mitigation techniques, e.g., collateral and netting.
+
+<span id="page-274-1"></span><sup>247</sup> That is, on the same basis as adopted for Segment Reporting adopted for compliance with AS 17.
+
+<span id="page-274-2"></span><sup>248</sup> The industries break-up may be provided on the same lines as prescribed for DSB returns. If the exposure to any particular industry is more than 5 per cent of the gross credit exposure as computed under (b) above it should be disclosed separately.
+
+<span id="page-274-3"></span><sup>249</sup> Banks shall use the same maturity bands as used for reporting positions in the ALM returns.
+
+- Provisions made during the period
+- Write-off
+- Write-back of excess provisions
+- Any other adjustments, including transfers between provisions
+- Closing balance
+
+In addition, write-offs and recoveries that have been booked directly to the income statement should be disclosed separately.
+
+(k) Amount of Non-Performing Investments
+
+(l) Amount of provisions held for non-performing investments
+
+(m) Movement of provisions for depreciation on investments
+
+- Opening balance
+- Provisions made during the period
+- Write-off
+- Write-back of excess provisions
+- Closing balance
+
+(n) By major industry or counterparty type:
+
+- Amount of NPAs and if available, past due loans, provided separately;
+- Specific and general provisions; and
+- Specific provisions and write-offs during the current period.
+
+In addition, banks are encouraged also to provide an analysis of the ageing of past-due loans.
+
+(o) Amount of NPAs and, if available, past due loans provided separately broken down by significant geographic areas including, if practical, the amounts of specific and general provisions related to each geographical area. The portion of general provisions that is not allocated to a geographical area should be disclosed separately.
+
+#### **Table DF-4 - Credit Risk: Disclosures for Portfolios Subject to the Standardised Approach**
+
+#### **Qualitative Disclosures**
+
+(a) For portfolios under the standardised approach:
+
+- Names of credit rating agencies used, plus reasons for any changes;
+- Types of exposure for which each agency is used; and
+- A description of the process used to transfer public issue ratings onto comparable assets in the banking book;
+
+#### **Quantitative Disclosures**
+
+(b) For exposure[250](#page-275-0) amounts after risk mitigation subject to the standardised approach, amount of a bank's outstandings (rated and unrated) in the following three major risk buckets as well as those that are deducted;
+
+- Below 100 % risk weight
+- 100 % risk weight
+- More than 100 % risk weight
+- Deducted
+
+<span id="page-275-0"></span> <sup>250</sup> As defined for disclosures in Table DF-3.
+
+### **Table DF-5: Credit Risk Mitigation: Disclosures for Standardised Approaches[251](#page-276-0)**
+
+#### **Qualitative Disclosures**
+
+(a) The general qualitative disclosure requirement with respect to credit risk mitigation including:
+
+*a) Policies and processes for, and an indication of the extent to which the bank makes use of, on- and off-balance sheet netting;* 
+
+- policies and processes for collateral valuation and management;
+- a description of the main types of collateral taken by the bank;
+- the main types of guarantor counterparty and their credit worthiness; and
+- information about (market or credit) risk concentrations within the mitigation taken
+
+#### *Quantitative Disclosures*
+
+*(b) For each separately disclosed credit risk portfolio the total exposure (after, where applicable, on- or off balance sheet netting) that is covered by eligible financial collateral after the application of haircuts.* 
+
+*(c) For each separately disclosed portfolio the total exposure (after, where applicable, on- or off-balance sheet netting) that is covered by guarantees/credit derivatives (whenever specifically permitted by RBI)*
+
+### **Table DF-6: Securitisation Exposures: Disclosure for Standardised Approach**
+
+#### **Qualitative Disclosures**
+
+
+<span id="page-276-0"></span> <sup>251</sup> At a minimum, banks must give the disclosures in this Table in relation to credit risk mitigation that has been recognised for the purposes of reducing capital requirements under this Framework. Where relevant, banks are encouraged to give further information about mitigants that have not been recognised for that purpose.
+
+
+#### **Table DF-7: Market Risk in Trading Book**
+
+#### **Qualitative disclosures**
+
+(a) The general qualitative disclosure requirement for market risk including the portfolios covered by the standardised approach.
+
+Quantitative disclosures
+
+(b) The capital requirements for:
+
+- interest rate risk;
+- equity position risk; and
+- foreign exchange risk;
+
+#### **Table DF-8: Operational Risk**
+
+Qualitative disclosures
+
+• The general qualitative disclosure requirement for operational risk.
+
+### **Table DF-9: Interest Rate Risk in the Bank

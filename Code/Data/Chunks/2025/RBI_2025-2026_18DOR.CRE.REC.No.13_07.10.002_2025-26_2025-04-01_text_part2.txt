@@ -1,0 +1,38 @@
+its of ₹10 crore and above from the banking system, the loan component should normally be 80% and the remaining Cash Credit component. UCBs have been given freedom to change the composition of working capital by increasing the cash credit component beyond 20% or increase the loan component beyond 80%, as the case may be, if they so desire. UCBs are expected to appropriately price each of the two components of working capital finance, taking into account the impact of such decisions on their cash and liquidity management.
+
+3.2 In the case of borrowers with working capital (fund based) credit limit of less than ₹10 crore, UCBs may persuade them to go in for the Loan System by offering an incentive in the form of lower rate of interest on the 'loan component' as compared to the 'cash credit component' The actual percentage of 'loan component' in these cases may be settled by the UCB with its borrower clients.
+
+#### 3.3 Ad hoc Credit Limit
+
+The release of ad hoc / additional credit for meeting temporary requirements may be considered by the financing UCB only after the borrower has fully utilised / exhausted the existing limit. As certain concerns were observed with regard to practices followed by banks in this regard, it has been reiterated vide circular [DoS.CO.PPG.BC.1/11.01.005/2020-21 dated August 21, 2020,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11952&Mode=0) that UCBs are expected to have a detailed Board approved policy on methodology and periodicity for review/renewal of credit facilities within the overall regulatory guidelines and adhere to the same strictly. Further, timely and comprehensive review/renewal of credit facilities should be an integral part of the Board approved loan policy and credit risk management framework, and UCBs should avoid frequent and repeated ad-hoc / short review/renewal of credit facilities without justifiable reasons. UCBs are also advised to capture all the data relating to regular as well as ad-hoc/short review/renewal of credit facilities in their core banking systems/management information systems and make the same available for scrutiny as and when required by any audit or inspection by Auditors/RBI. Moreover, the processes governing review/renewal of credit facilities should be brought under the scope of concurrent/internal audit/internal control mechanism of UCBs with immediate effect.
+
+## 3.4 Sharing of Working Capital Finance
+
+In respect of consortium lending, the level of individual bank's share in Cash Credit and Loan Component shall be governed by the norm for single / group borrowers' credit exposure.
+
+### 3.5 Rate of Interest
+
+UCBs are allowed to fix separate lending rates for 'loan component' and 'cash credit component'.
+
+## 3.6 Period of Loan
+
+The minimum period of the loan for working capital purposes may be fixed by UCBs in consultation with borrowers. UCBs may decide to split the loan component according to the need of the borrower with different maturity bases for each segment and allow roll over.
+
+#### 3.7 Export Credit
+
+In respect of borrowers enjoying export credit limit, the bifurcation of the working capital limit into loan and cash credit components, would be effected after excluding the export credit limits (preshipment and post-shipment).
+
+#### 3.8 Bills Limit
+
+3.8.1 Bills limit for inland sales may be fully carved out of the 'loan component'. Bills limit also includes limits for purchase of third party (outstation) cheques / bank drafts. UCBs must satisfy themselves that the bills limit is not mis-utilised.
+
+3.8.2 UCBs may lay down policy guidelines for periodic review of the working capital limit and the same may be scrupulously adhered to.
+
+#### <span id="page-4-0"></span>**4. Credit Administration**
+
+#### 4.1 Rate of Interest
+
+4.1.1 UCBs are permitted to determine their lending rates taking into account their cost of funds, transaction costs etc. with the approval of their Board. However, UCBs are advised to ensure that the interest rates charged by them are transparent and known to all customers. UCBs are also required to publish the minimum and maximum interest rates charged on advances and display the information in every branch. Though interest rates have been deregulated, rates of interest beyond a certain level may be seen to be usurious and can neither be sustainable nor be conforming to normal banking practice. Boards of UCBs have to lay down appropriate internal principles and procedures in this regard. In laying down such principles and procedures in respect of small value loans, particularly, personal loans and such other loans of similar nature, UCBs may take into account, *inter-alia*, the following broad guidelines:
+
+- (i) An appropriate prior-approval process should be prescribed for sanctioning such loans, which should take into account, among others, the cash flows of the prospective borrower.
+- (ii) Interest rates charged by UCBs, inter-alia, should incorporate risk premium as considered reasonable and justifi

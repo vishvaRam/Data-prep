@@ -1,0 +1,37 @@
+Significant Investments, Classification,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12538)  [Valuation and Operation of Investment Portfolio Norms and Resource Raising Norms for All India Financial Institutions\)](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12538)  Directions, 2023 [dated September 21, 2023](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12538) (as amended from time to time).
+
+ii. Disclosure under para (i) above shall be made on a monthly basis, with the disclosure for any given month to be provided no later than seven (7) working days following the conclusion of that month.
+
+#### <span id="page-18-0"></span>28.**Exceptions**
+
+Guarantees covered under the following schemes/ entities shall not be covered within the definition of DLG:
+
+- i. Guarantee schemes of Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and individual schemes under National Credit Guarantee Trustee Company Ltd (NCGTC).
+- ii. Credit guarantee provided by Bank for International Settlements (BIS), International Monetary Fund (IMF) as well as Multilateral Development Banks as referred to in para 5.5 of [RBI Master Circular on Basel III Capital Regulation dated](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12815)  [April 01, 2025,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12815) as amended from time to time.
+
+# **Chapter VII: General and Repeal Provisions**
+
+## <span id="page-18-2"></span><span id="page-18-1"></span>29.**General provisions**
+
+i. EMI programmes on Credit Card are governed specifically by Para 6(b)(iii)[12](#page-18-3) of the [Master Direction on Credit Card and Debit Card – Issuance and Conduct, 2022](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300) [dated April 21, 2022.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300) Such transactions shall not be covered under these Directions. However other loan products offered on Credit Cards which are not covered/ envisaged under the aforesaid para of the Master Direction shall be governed by the stipulations laid down under these Directions. Further, these Directions shall also be applicable to all loans offered on Debit Card, including EMI programmes.
+
+<span id="page-18-3"></span> <sup>12</sup> Card-issuers shall ensure complete transparency in the conversion of credit card transactions to Equated Monthly Instalments (EMIs) by clearly indicating the principal, interest and upfront discount provided by the merchant/cardissuer (to make it no cost), prior to the conversion. The same shall also be separately indicated in the credit card bill/statement. EMI conversion with interest component shall not be camouflaged as zero-interest/no-cost EMI.
+
+- ii. DLG arrangements entered between RE and LSP conforming to the instructions laid down in Chapter VI of these Directions shall not be treated as synthetic securitisation as defined under para 6(c) of [Master Direction – Reserve Bank of](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [India \(Securitisation of Standard Assets\) Directions, 2021 dated September 24,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [2021](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165) and shall also not attract the provisions of 'loan participation' as defined under Para 9(e) of the [Reserve Bank of India \(Transfer of Loan Exposures\)](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166)  [Directions, 2021 dated September 24, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166)
+- iii. These Directions are without prejudice to any other extant regulatory norms or statutory provisions as applicable to the RE's activities, from time to time.
+
+#### <span id="page-19-0"></span>30.**Repeal provisions**
+
+- i. With the issuance of these Directions, the instructions/guidelines contained in the circulars mentioned in the [Annex - III](#page-23-0) issued by RBI stand repealed.
+- ii. Notwithstanding the repeal under sub-para (i), anything done or any action taken or purported to have been done or taken, or any direction given or any proceeding taken or any penalty or fine imposed under the repealed enactments shall, insofar as it is not inconsistent with the provisions of these Directions, be deemed to have been done or taken under the corresponding provisions of these Directions.
+
+#### **Annex I: Data to be submitted on the CIMS portal**
+
+
+*\*Each DLA to be reported as a separate line item. In case any DLA is available on multiple app stores, each entry is required to be reported separately with specific links to the DLA on the app store*
+
+<span id="page-20-0"></span>*# In case DLA is a website, provide link to the website, or in case DLA is an app hosted on one of the app-stores, provide the link of the DLA on the app-store*
+
+# **Annex II: Illustrations**
+
+<span id="page-21-0"></span>*No

@@ -1,0 +1,54 @@
+emed to be protected will be reduced by the application of a haircut HFX, i.e.,
+
+### **GA = G x (1- HFX)**
+
+Where;
+
+G = nominal amount of the credit protection
+
+HFX = haircut appropriate for currency mismatch between the credit protection and underlying obligation.
+
+Banks using the supervisory haircuts will apply a haircut of eight per cent for currency mismatch.
+
+# **7.5.10 Sovereign Guarantees and Counter-Guarantees**
+
+A claim may be covered by a guarantee that is indirectly counter-guaranteed by a sovereign. Such a claim shall be treated as covered by a sovereign guarantee provided that:
+
+- (i) the sovereign counter-guarantee covers all credit risk elements of the claim;
+- (ii) both the original guarantee and the counter-guarantee meet all operational requirements for guarantees, except that the counter-guarantee need not be direct and explicit to the original claim; and
+- (iii) the cover should be robust and no historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct sovereign guarantee.
+
+# **7.5.11 ECGC Guaranteed Exposures**:
+
+Under the Export Credit insurance[92](#page-91-0) for banks on Whole Turnover Basis, the guarantee/insurance cover given by ECGC for export credit exposures of the banks ranges between 50% and 75% for pre-shipment credit and 50% to 85% in case of post-shipment credit. However, the ECGC's total liability on account of default by the exporters is capped by an amount specified as Maximum Liability (ML). In this context, it is clarified that risk weight (as given in para 5.2.3 of this Master Circular) applicable to the claims on ECGC should be capped to the ML amount specified in the whole turnover policy of the ECGC. The banks are required to proportionately distribute the ECGC maximum liability amount to all individual export credits that are covered by the ECGC Policy. For the covered portion of individual export credits, the banks shall apply the risk weight applicable to claims on ECGC. For the remaining portion of individual export credit, the banks shall apply the risk weight as per the rating of the counter-party. The Risk Weighted Assets computation can be mathematically represented as under:
+
+
+<span id="page-91-0"></span> <sup>92</sup> DBOD Mailbox Clarification dated October 18, 2013.
+
+## **7.6 Maturity Mismatch**
+
+7.6.1 For the purpose of calculating risk-weighted assets, a maturity mismatch occurs when the residual maturity of collateral is less than that of the underlying exposure. Where there is a maturity mismatch and the CRM has an original maturity of less than one year, the CRM is not recognised for capital purposes. In other cases where there is a maturity mismatch, partial recognition is given to the CRM for regulatory capital purposes as detailed below in paragraphs 7.6.2 to 7.6.4. In case of loans collateralised by the bank's own deposits, even if the tenor of such deposits is less than three months or deposits have maturity mismatch vis-à-vis the tenor of the loan, the provisions of paragraph 7.6.1 regarding derecognition of collateral would not be attracted provided an explicit consent of the depositor has been obtained from the depositor (i.e. borrower) for adjusting the maturity proceeds of such deposits against the outstanding loan or for renewal of such deposits till the full repayment of the underlying loan.
+
+### 7.6.2 Definition of Maturity
+
+1.1.1.
+
+The maturity of the underlying exposure and the maturity of the collateral should both be defined conservatively. The effective maturity of the underlying should be gauged as the longest possible remaining time before the counterparty is scheduled to fulfil its obligation, taking into account any applicable grace period. For the collateral, embedded options which may reduce the term of the collateral should be taken into account so that the shortest possible effective maturity is used. The maturity relevant here is the residual maturity.
+
+## 7.6.3 Risk Weights for Maturity Mismatches
+
+As outlined in paragraph 7.6.1, collateral with maturity mismatches are only recognised when their original maturities are greater than or equal to one year. As a result, the maturity of collateral for exposures with original maturities of less than one year must be matched to be recognised. In all cases, collateral with maturity mismatches will no longer be recognised when they have a residual maturity of three months or less.
+
+7.6.4 When there is a maturity mismatch with recognised credit risk mitigants (collateral, onbalance sheet netting and guarantees) the following adjustment will be applied:
+
+### **Pa = P x ( t- 0.25 ) ÷ ( T- 0.25)**
+
+where:
+
+Pa = value of the credit protection adjusted for maturity mismatch
+
+P = credit protection (e.g. collateral amount, guarantee amount) adjusted for any haircuts
+
+t = min (T, residual maturity of the credit protection arrangement) expressed in years
+
+T = min (5, residual maturity of the exposure) expressed in years

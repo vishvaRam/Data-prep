@@ -1,0 +1,33 @@
+![](_page_0_Picture_0.jpeg)
+
+# RBI/2024-25/18 DOR.STR.REC.13/13.03.00/2024-25 April 15, 2024
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks, excluding Payments Banks) All Primary (Urban) Co-operative Banks, State Co-operative Banks and Central Cooperative Banks All Non-Banking Financial Companies (including Housing Finance Companies)
+
+# **Key Facts Statement (KFS) for Loans & Advances**
+
+Please refer to our instructions on Key Facts Statement (KFS) and disclosure of Annual Percentage Rate (APR) as contained in paragraph 2 of [Circular on 'Display of](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9508&Mode=0)  [information by banks' dated January 22, 2015;](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9508&Mode=0) paragraph 6 of [Master Direction on](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12256)  ['Regulatory Framework for Microfinance Loans' dated March 14, 2022;](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12256) and paragraph 5 of ['Guidelines on Digital Lending' dated September 2, 2022.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12382&Mode=0)
+
+2. As announced in the [Statement on Developmental and Regulatory Policies dated](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57276)  [February 8, 2024,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57276) it has been decided to harmonize the instructions on the subject. This is being done in order to enhance transparency and reduce information asymmetry on financial products being offered by different regulated entities, thereby empowering borrowers for making an informed financial decision. The harmonised instructions shall be applicable in cases of all retail and MSME term loan products extended by all regulated entities (REs).
+
+- 3. For the purpose of this circular, following terms have been defined:
+	- (a) **Key Facts** of a loan agreement between an RE/a group of REs and a borrower are legally significant and deterministic facts that satisfy basic information required to assist the borrower in taking an informed financial decision.
+	- (b) **Key Facts Statement (KFS)** is a statement of key facts of a loan agreement, in simple and easier to understand language, provided to the borrower in a standardised format.
+- (c) **Annual Percentage Rate (APR**) is the annual cost of credit to the borrower which includes interest rate and all other charges associated with the credit facility.
+- (d) **Equated Periodic Instalment (EPI)** is an equated or fixed amount of repayments, consisting of both the principal and interest components, to be paid by a borrower towards repayment of a loan at periodic intervals for a fixed number of such intervals; and which result in complete amortisation of the loan. EPIs at monthly intervals are called EMIs.
+
+Other words and expressions not defined above, but used in this circular, shall have the same meaning as assigned to them under the [Master Direction on Interest Rate](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10295)  [on Advances \(2016\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10295) as updated from time to time or any other relevant regulation issued by the Reserve Bank.
+
+4. REs shall provide a KFS to all prospective borrowers to help them take an informed view before executing the loan contract, as per the standardised format given in the **[Annex A](#page-4-0)**. The KFS shall be written in a language understood by such borrowers. Contents of KFS shall be explained to the borrower and an acknowledgement shall be obtained that he/she has understood the same.
+
+5. Further, the KFS shall be provided with a unique proposal number and shall have a validity period of at least three working days for loans having tenor of seven days or more, and a validity period of one working day for loans having tenor of less than seven days.[1](#page-1-0)
+
+# *Explanation*
+
+Validity period refers to the period available to the borrower, after being provided the KFS by the RE, to agree to the terms of the loan. The RE shall be bound by the terms of the loan indicated in the KFS, if agreed to by the borrower during the validity period.
+
+6. The KFS shall also include a computation sheet of annual percentage rate (APR), and the amortisation schedule of the loan over the loan tenor. APR will include all
+
+<span id="page-1-0"></span> <sup>1</sup> In view of the stipulation relating to the validity period of the KFS, the provision at paragraph 8 of the 'Guidelines on Digital Lending' relating to mandatory minimum number of days for post-sanction cooling-off period, shall stand partially modified as under:
+
+*<sup>&</sup>quot;A borrower shall be given an explicit option to exit digital loan by paying the principal and the proportionate APR without any penalty during this period. The cooling off period shall be determined by the Board of the RE, subject to the perio

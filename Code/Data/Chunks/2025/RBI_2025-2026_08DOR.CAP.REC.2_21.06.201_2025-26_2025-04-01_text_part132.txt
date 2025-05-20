@@ -1,0 +1,43 @@
+iod before conversion.
+
+inform the Reserve Bank of India (Department of Regulation) about it. The investors will be required to bring the shareholdings below the statutory / regulatory ceilings within the specific time frame as determined by the Reserve Bank of India.
+
+2.18 In the case of unlisted banks, the conversion price should be determined based on the fair value of the bank's common shares to be estimated according to a mutually acceptable methodology which should be in conformity with the standard market practice for valuation of shares of unlisted companies.
+
+2.19 In order to ensure the criteria that the issuing bank must maintain at all times all prior authorisation necessary to immediately issue the relevant number of shares specified in the instrument's terms and conditions should the trigger event occur, the capital clause of each bank will have to be suitably modified to take care of conversion aspects.
+
+# *V. Order of Conversion / Write-down of Various Types of AT1 Instruments*
+
+2.20 Banks should clearly indicate in the offer document, the order of conversion / write-down of the instrument in question vis-à-vis other capital instruments which the bank has already issued or may issue in future, based on the advice of its legal counsels.
+
+# **3. Minimum Requirements to Ensure Loss Absorbency of Non-equity Regulatory Capital Instruments at the Point of Non-Viability**
+
+# *I. Mode of Loss Absorption and Trigger Event*
+
+3.1 The terms and conditions of all non-common equity Tier 1 and Tier 2 capital instruments issued by banks in India must have a provision that requires such instruments, at the option of the Reserve Bank of India, to either be written off or converted into common equity upon the occurrence of the trigger event, called the 'Point of Non-Viability (PONV) Trigger' stipulated below:
+
+# *(i) The PONV Trigger event is the earlier of:*
+
+a. a decision that a conversion[236](#page-263-0) or write-off[237](#page-263-1), without which the firm would become non-viable, is necessary, as determined by the Reserve Bank of India; and
+
+b. the decision to make a public sector injection of capital, or equivalent support, without which the firm would have become non-viable, as determined by the relevant authority.
+
+The Write-off of any Common Equity Tier 1 capital shall not be required before the write-off of any Non-equity (Additional Tier 1 and Tier 2) regulatory capital instrument.
+
+<span id="page-263-0"></span> <sup>236</sup> Conversion means full conversion to common shares.
+
+<span id="page-263-1"></span><sup>237</sup> Write-off means fully and permanently write-off.
+
+(ii) Such a decision would invariably imply that the write-off or issuance of any new shares as a result of conversion consequent upon the trigger event must occur prior to any public sector injection of capital so that the capital provided by the public sector is not diluted. As such, the contractual terms and conditions of an instrument must not provide for any residual claims on the issuer which are senior to ordinary shares of the bank (or banking group entity where applicable), following a trigger event and when conversion or write-off is undertaken.
+
+(iii) Any compensation paid to the instrument holders as a result of the write-off[238](#page-264-0) must be paid immediately in the form of common shares.
+
+(iv) The issuing bank must maintain at all times all prior authorisation necessary to immediately issue the relevant number of shares specified in the instrument's terms and conditions should the trigger event occur.
+
+(v) In order to ensure that these requirements are met, banks should obtain and keep on their records an external legal opinion confirming that the conversion or write-off feature of non-equity capital instruments (Additional Tier 1 or Tier 2) by the RBI at the point of non-viability is legally enforceable. Further, the legal opinion should also confirm that there are no legal impediments to the conversion of the instrument into ordinary shares of the bank (or a banking group entity, where applicable) or write-off upon a trigger event. The RBI may also require the bank to submit additional information in order to ensure that such instruments are eligible for inclusion into regulatory capital.
+
+### *II. A Non-viable Bank*
+
+## 3.2 For the purpose of these guidelines, a non-viable bank will be:
+
+A bank which, owing to its financial and other difficulties, may no longer remain a going concern on its own in the opinion of the Reserve Bank unless appropriate measures are taken to revive its operations and thus, enable it to continue as a going concern. The difficulties faced by a bank should be such that these are likely to result in financial losses and raising the Common Equity Tier 1 capital of the bank should be considered as the most appropriate way to prevent the bank from turning non-viable. Such measures would include write-off / conversion of non-equity regulatory capital into common shares in combination wit

@@ -1,0 +1,32 @@
+mes/ other data that is not available on the CBS or MIS of the banks. This would have to be collated at the Controlling Office level as is done now. At the SLBC website, functionalities could be provided to enter this data too. This could then be downloaded by the LDMs for district/ block level reports. Banks may also add Open Format fields like 'text boxes' for data or information that is special or is entered/ used once in a while.
+- vii. Such a system ensures that LDMs & SLBC Convenor Banks have to do zero or minimal data entry/ feeding and all data is entered by a single 'custodian of data' which is the Controlling Office of each bank. Any information to be provided by Government extension agencies could also be similarly uploaded.
+
+Necessary modifications may be made on the SLBC websites and to the CBS & MIS systems of all banks to implement the envisaged data flow mechanism.
+
+A Working Group of select SLBC Convenor banks and NABARD was constituted by RBI to work out a standardised system for collection, storage, presentation and management of data on the SLBC/ UTLBC website. A Standard Operating Procedure (SOP), which may be followed by SLBC/ UTLBC Convenor Banks, member banks and LDMs, as suggested by the Working Group for management of the data flow is given at [Annex III.](#page-65-0)
+
+## **4. Assignment of Lead Bank Responsibility**
+
+i) Lead Bank Scheme is administered by the Reserve Bank of India since 1969. The assignment of Lead Bank responsibility to designated banks in every district is done by the Reserve Bank of India following a detailed procedure formulated for this purpose. As on March 31, 2025, 12 public sector banks and two private sector banks (Jammu & Kashmir Bank and ICICI Bank) have been assigned Lead Bank responsibility in 782 districts of the country.
+
+ii) State Level Bankers' Committee (SLBC)/Union Territory Level Bankers' Committee (UTLBC), as an apex level forum at the State/Union Territory (UT) level, coordinates the activities of the financial institutions and Government departments in the State/Union Territory under the Lead Bank Scheme. SLBC/UTLBC Convenorship is assigned to banks for this purpose. As on March 31, 2025, the SLBC/ UTLBC convenorship of 28 States and 8 Union Territories has been assigned to 11 public sector banks and one private sector bank. A list of State/UT wise SLBC/UTLBC Convenor Banks and district wise Lead Banks is given in [Annex](#page-30-0) I.
+
+iii) The Lead Bank Scheme (LBS) has been extended to the districts in the metropolitan areas, thus bringing the entire country under the fold of the Lead Bank Scheme.
+
+## **5. Banking Penetration**
+
+i) Over the years, the focus of the Lead Bank Scheme has shifted to inclusive growth and financial inclusion. The use of Information Technology (IT) and intermediaries has enabled banks to increase the outreach, scale and depth of banking services at affordable cost.
+
+ii) SLBC Convenor Banks/ Lead Banks are advised to focus attention on the need for achieving 100% financial inclusion through penetration of banking services in the rural areas. Revised guidelines on ['Rationalisation of Branch Authorisation Policy'](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10972&Mode=0) issued by the Department of Regulation (DoR), RBI on May 18, 2017 advised banks to consider opening of a CBS-enabled banking outlet or a part time banking outlet, as the case may be, in unbanked rural centres.
+
+iii) SLBC Convenor Banks should take up with the State Governments/ other Government departments concerned, impeders, such as, issues of road/digital connectivity, conducive law and order situation, uninterrupted power supply, adequate
+
+security, etc., for ensuring banking expansion at all centres where penetration by the formal banking system is required. However, these impeders should not inhibit the scaling up of financial inclusion initiatives.
+
+#### **5.1 Roadmap for providing banking services in unbanked villages**
+
+In November 2009, a roadmap to provide banking services in villages with population more than 2000 was rolled out. All the identified villages have been provided with banking services through branches, BCs or through other modes, such as, ATMs and mobile vans. Later, in June 2012, a roadmap to provide banking services in unbanked villages with less than 2000 population was rolled out. SLBC Convenor Banks and Lead Banks were advised to complete the process of providing banking services in unbanked villages with population below 2000 by August 14, 2015.
+
+# **5.2 Roadmap for opening brick and mortar branches in villages with population more than 5000 without a bank branch of a scheduled commercial bank**
+
+As brick and mortar branches are an integral component of financial inclusion, it was decided to focus on villages with population above 5000 without a bank branch of a SCB. This was to enable banks to provide quality financial services and timely support to BC outlets that would help in sustaining and strengthe

@@ -1,0 +1,30 @@
+ainst drawing power available in the cash credit account.
+- **2.4.3.1** Banks may issue guarantees favouring other banks/ FIs/ other lending agencies for the loans extended by the latter, subject to strict compliance with the following conditions.
+	- (i) The Board of Directors should reckon the integrity/ robustness of the bank's risk management systems and, accordingly, put in place a well-laid out policy in this regard.
+
+The Board approved policy should, among others, address the following issues:
+
+- Prudential limits, linked to bank's Tier I capital, up to which guarantees favouring other banks/FIs/other lending agencies may be issued
+- Nature and extent of security and margins
+- Delegation of powers
+- Reporting system
+- Periodical reviews
+- (ii) The guarantee shall be extended only in respect of borrower constituents and to enable them to avail of additional credit facility from other banks/FIs/lending agencies.
+
+- (iii) The guaranteeing bank should assume a funded exposure of at least 10% of the exposure guaranteed.
+- (iv) Banks should not extend guarantees or letters of comfort in favour of overseas lenders including those assignable to overseas lenders. However, AD banks may also be guided by the provisions contained in [Notification No. FEMA 8/2000-RB](https://www.rbi.org.in/Scripts/BS_FemaNotifications.aspx?Id=162)  [dated May 3, 2000](https://www.rbi.org.in/Scripts/BS_FemaNotifications.aspx?Id=162) and subsequent amendments thereof.
+- (v) The guarantee issued by the bank will be an exposure on the borrowing entity on whose behalf the guarantee has been issued and will attract appropriate risk weight, as per the extant guidelines.
+- (vi) Of late, certain banks have been issuing guarantees on behalf of corporate entities in respect of non-convertible debentures issued by such entities. It is clarified that the extant instructions apply only to loans and not to bonds or debt instruments. Guarantees by the banking system for a corporate bond or any debt instrument not only have significant systemic implications but also impede the development of a genuine corporate debt market. Banks are advised to strictly comply with the extant regulations and in particular, not to provide guarantees for issuance of bonds or debt instruments of any kind. However, banks are permitted to provide partial credit enhancement (PCE) to bonds issued by corporates /special purpose vehicles (SPVs), NBFC-ND-SIs and Housing Finance Companies (HFCs) subject to conditions stipulated in [circular DBR.BP.BC.No.40/21.04.142/2015-16 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10035&Mode=0)  [September 24, 2015](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10035&Mode=0) on Partial Credit Enhancement to Corporate Bonds and other associated circulars issued subsequently on the subject. The PCE shall be provided only in the form of a non-funded irrevocable contingent line of credit.
+
+### **2.4.3.2 Lending banks**
+
+Banks extending credit facilities against the guarantees issued by other banks/FIs should ensure strict compliance with the following conditions:
+
+- (i) The exposure assumed by the bank against the guarantee of another bank/FI will be deemed as an exposure on the guaranteeing bank/FI and will attract appropriate risk weight as per the extant guidelines.
+- (ii) Exposures assumed by way of credit facilities extended against the guarantees issued by other banks/FI should be reckoned within the inter bank exposure limits prescribed by the Board of Directors. Since the exposure assumed by the bank against the guarantee of another bank/FI will be for a fairly longer term than those assumed on account of inter-bank dealings in the money market, foreign exchange market and securities market, the Board of Directors should fix an appropriate sub-limit for the longer term exposures, since these exposures attract greater risk.
+- (iii) Banks should monitor the exposure assumed on the guaranteeing bank/ FI, on a continuous basis and ensure strict compliance with the prudential limits/ sub limits prescribed by their Boards and the prudential single borrower limits prescribed by RBI for banks/FIs.
+
+## **2.4.4 Exceptions**
+
+- 2.4.4.1 In regard to resolution of stressed units, in exceptional cases, where banks are unable to participate in rehabilitation packages on account of temporary liquidity constraints, the concerned banks could provide guarantees in favour of the banks which take up their additional share. Such guarantees will remain extant until such time that the banks providing additional finance against guarantees are re-compensated.
+- 2.4.4.2 In cases of Sellers Line of Credit Scheme (since renamed as Direct Discounting Scheme) operated by IDBI Bank Ltd.[3](#page-15-0) and all India financial institutions like SIDBI, PFC, etc for sale of machinery, the primary credit is provided by the seller's bank to the seller through bills drawn on the buyer and the seller's bank has no access to the security covered 

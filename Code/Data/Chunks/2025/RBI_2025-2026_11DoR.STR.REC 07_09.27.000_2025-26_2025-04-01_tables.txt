@@ -1,0 +1,66 @@
+| 1.     | Guarantees                                                                            | Page<br>No. |
+|--------|---------------------------------------------------------------------------------------|-------------|
+| 1.1    | Issue<br>of<br>Guarantees                                                             | 3           |
+| 1.1.1  | Broad<br>Guidelines                                                                   | 3           |
+| 1.1.2  | Purpose                                                                               | 3           |
+| 1.1.3  | Maturity                                                                              | 3           |
+| 1.1.4  | Volume                                                                                | 3           |
+| 1.1.5  | Secured<br>Guarantees                                                                 | 3           |
+| 1.1.6  | Unsecured<br>Guarantees                                                               | 4           |
+| 1.1.7  | Deferred<br>Payment Guarantees                                                        | 4           |
+| 1.2    | Guarantees<br>in<br>respect<br>of<br>Commodities<br>covered<br>under<br>Selective     | 4           |
+| Credit | Controls                                                                              |             |
+| 1.3    | Safeguards<br>in<br>Issuance<br>of<br>Guarantees                                      | 5           |
+| 1.4    | Payment<br>under<br>Bank<br>Guarantees<br>-<br>Immediate<br>Settlement<br>of<br>Cases | 6           |
+| 1.5    | Delay<br>in<br>Obtaining<br>Certified<br>Copies<br>of<br>Judgments                    | 6           |
+| 1.6    | Correspondence<br>with<br>Government<br>Departments                                   | 7           |
+|        |                                                                                       |             |
+| 2.     | Co-acceptance<br>of<br>Bills                                                          |             |
+| 2.1    | Irregularities<br>in<br>Co-acceptance<br>of<br>Bills                                  | 7           |
+| 2.2    | Safeguards                                                                            | 8           |
+|        |                                                                                       |             |
+| 3.     | Letter<br>of<br>Credit                                                                |             |
+| 3.1    | Guidelines<br>for<br>Grant<br>of<br>LCs<br>facility                                   | 8           |
+| 3.2    | LCs<br>for<br>Commodities<br>Covered<br>under<br>Selective<br>Credit<br>Controls      | 9           |
+| 3.3    | Safeguards<br>in<br>Opening<br>of<br>LCs                                              | 9           |
+| 3.4    | Payment<br>under<br>LCs<br>-<br>Immediate<br>Settlement<br>of<br>Claims               | 10          |
+|        |                                                                                       |             |
+
+| 3.2         | LCs<br>for<br>Commodities<br>Covered<br>under<br>Selective<br>Credit<br>Controls   | 9  |
+|-------------|------------------------------------------------------------------------------------|----|
+| 3.3         | Safeguards<br>in<br>Opening<br>of<br>LCs                                           | 9  |
+| 3.4         | Payment<br>under<br>LCs<br>-<br>Immediate<br>Settlement<br>of<br>Claims            | 10 |
+|             |                                                                                    |    |
+|             |                                                                                    |    |
+| 4.          | Other<br>Common<br>Guidelines                                                      |    |
+|             |                                                                                    |    |
+| 4.1<br>fund | Credit Exposure Norms and Statutory / Other Restrictions on Non<br>Based<br>Limits | 11 |
+|             |                                                                                    |    |
+| Annex       |                                                                                    | 13 |
+
+| No. | Circular<br>No.                                 | Date       | Subject                                                                                                                |
+|-----|-------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------|
+| 1   | UBD.(PCB)BPD.Cir.No.29/13.05.000/2011-<br>12    | 30-03-2012 | Discounting<br>of<br>Bills<br>by<br>UCBs<br>–<br>Restricted<br>Letters<br>of<br>Credit                                 |
+| 2   | UBD.BSD-I/8/12.05.00/2000-2001                  | 09-11-2000 | Frauds<br>-<br>Preventive<br>Measures                                                                                  |
+| 3   | UBD.No.Plan.PCB.CIR.07/09.27.00/<br>99-<br>2000 | 21-09-1999 | Bank<br>Guarantees                                                                                                     |
+| 4   | UBD.No.Plan.(PCB)49/09.27.00/96-97              | 26-04-1997 | Payment<br>under<br>bank<br>guarantee - Immediate<br>settlement<br>of cases                                            |
+| 5   | UBD.No.DS.(PCB)DIR.4/13.03.00/96-97             | 16-07-1996 | Selective<br>Credit<br>Control<br>-<br>Advances<br>against<br>Sensitive<br>Commodities                                 |
+| 6   | UBD.No.I&L/PCB/9/12.05.00/95-96                 | 01-09-1995 | Payment<br>under<br>bank<br>guarantees - Immediate<br>settlement<br>of cases                                           |
+| 7   | UBD.Plan.Cir.SUB.1/09.27.00/94-95               | 18-10-1994 | Issue<br>of<br>guarantees<br>-<br>Guidelines<br>to<br>befollowed<br>by the primary<br>(urban)<br>co-operative<br>banks |
+| 8   | UBD.No.DS.CIR.PCB15/13.03.00/94-95              | 15-09-1994 | Selective<br>Credit<br>Controls<br>-<br>Imported<br>Sugar                                                              |
+| 9   | UBD.No.(PCB)CIR.79/13.03.00/93-94               | 26-05-1994 | Selective<br>Credit<br>Controls<br>-<br>Imported<br>Sugar                                                              |
+| 10  | UBD.No.Plan.42/09.27.00-93/94                   | 16-12-1993 | Bank guarantee -<br>Delay<br>in<br>obtaining<br>certified<br>copies<br>of<br>Judgements                                |
+| 11  | UBD.No.POT.1/UB.58-92/3                         | 03-07-1992 | Payment<br>under<br>LCs<br>-<br>Immediate settlement of<br>claims                                                      |
+| 12  | UBD.P&O.763/UB.58-83/84                         | 28-02-1984 | Issue<br>of<br>guarantees<br>-<br>Co-acceptance<br>of<br>bills<br>etc. by<br>the<br>urban<br>co<br>operative<br>banks  |
+
+| No. | Circular<br>No.                                 | Date       | Subject                                                                                                                                                                                          |
+|-----|-------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | UBD.PCB.No.59/13.05.000/2008-09                 | 09-04-2009 | Lending<br>under<br>consortium<br>arrangement<br>/<br>multiple<br>banking<br>arrangements                                                                                                        |
+| 2.  | UBD.PCB.No.36/13.05.000/2008-09                 | 21-01-2009 | Lending<br>under<br>consortium<br>arrangement<br>/<br>multiple<br>banking<br>arrangements                                                                                                        |
+| 3.  | UBD.PCB.Cir.12<br>&<br>13/12.05.001/2008-<br>09 | 17-09-2008 | ALM<br>guidelines                                                                                                                                                                                |
+| 4.  | UBD.BSD.No.IP.30/12.05.05/2002-03               | 26-12-2002 | Master<br>Circular<br>-<br>Prudential<br>Norms<br>-<br>Income<br>Recognition,<br>Asset<br>Classification,<br>Provisioning<br>and<br>other<br>related<br>matters                                  |
+| 5.  | UBD.No.DS(PCB).Cir.54/13.05.00/94-95            | 29-04-1995 | Maximum<br>limit<br>on<br>advances                                                                                                                                                               |
+| 6.  | UBD.No.(PCB)DIR.5/13-05.00/93-94                | 26-05-1994 | Maximum<br>Limit<br>on<br>Advances                                                                                                                                                               |
+| 7.  | UBD.No.DS(PCB)Cir.76/13.05.00/93-94             | 26-05-1994 | Maximum<br>limit<br>on<br>advances - Advances to<br>Directors<br>and<br>their<br>relatives<br>and<br>to<br>concerns<br>in<br>which<br>Directors<br>or<br>their<br>relatives<br>are<br>Interested |
+| 8.  | UBD.21/12:15:00/93-94                           | 21-09-1993 | Committee<br>to<br>enquire<br>into<br>various<br>aspects<br>relating<br>to<br>frauds<br>and<br>malpractices<br>in<br>banks<br>primary<br>(urban)<br>co<br>operative<br>banks                     |
+| 9.  | UBD.(DC).104/R.1-86/87                          | 25-06-1987 | Guidelines<br>for<br>Assessment of Working<br>Capital<br>Requirements,<br>Opening<br>of<br>LCs<br>and<br>Issue<br>of<br>Guarantees                                                               |

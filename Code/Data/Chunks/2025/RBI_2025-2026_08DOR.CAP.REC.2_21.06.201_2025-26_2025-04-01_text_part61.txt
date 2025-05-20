@@ -1,0 +1,40 @@
+capital ratio.
+- (c) It may be costly for banks to raise additional capital, especially if this needs to be done quickly or at a time when market conditions are unfavourable.
+- (d) For banks to fall below minimum regulatory capital requirements is a serious matter. It may place banks in breach of the provisions of the Banking Regulation Act and / or attract prompt corrective action on the part of RBI.
+- (e) There may be risks, either specific to individual banks, or more generally to an economy at large, that are not taken into account in Pillar 1[106](#page-123-0).
+
+As a part of Supervisory Review and Evaluation Process (SREP) under Pillar 2, RBI may review the risk management measures taken by the bank and its adequacy to manage currency induced credit risk[107](#page-123-1), especially if exposure to such risks is assessed to be on higher side.
+
+Under the SREP, the RBI would make an assessment as to whether the bank maintains adequate capital cushion to take care of the above situations. Such a cushion should be in addition to the capital conservation buffer and countercyclical capital buffer, if any, required to be maintained by the bank according to the applicable guidelines. Such cushion would generally be reflected in more than minimum capital adequacy ratio maintained by the bank after taking into account capital conservation buffer and countercyclical capital buffer.
+
+Under the SREP, RBI would also seek to determine whether a bank's overall capital remains adequate as the underlying conditions change. Generally, material increases in risk that are not otherwise mitigated should be accompanied by commensurate increases in capital. Conversely, reductions in overall capital (to a level still above regulatory minima) may be appropriate if the RBI's supervisory assessment leads it to a conclusion that risk has materially declined or that it has been appropriately mitigated. Based on such assessment, the RBI could consider initiating appropriate supervisory measures to address its supervisory concerns. The measures could include requiring a modification or enhancement of the risk management and internal control processes of a bank, a reduction in risk exposures, or any other action as deemed necessary to address the identified supervisory concerns. These measures could also include the stipulation
+
+<span id="page-123-0"></span> <sup>106</sup> If a bank has identified some capital add-on to take care of an identified Pillar 2 risk or inadequately capitalised Pillar 1 risk, that add-on can be translated into risk weighted assets as indicated in this paragraph below, which should be added to the total risk weighted assets of the bank. No additional Pillar 2 buffer need be maintained for such identified risks.
+
+<span id="page-123-1"></span><sup>107</sup> Please refer to [circular DBOD.No.BP.BC.85/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8694&Mode=0) and [DBOD.No.BP.BC.116/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0) dated January 15, 2014 and June 3, 2014, respectively.
+
+of a bank-specific additional capital requirement over and above what has been determined under Pillar 1.
+
+12.2.5 As and when the advanced approaches envisaged in the Basel capital adequacy framework are permitted to be adopted in India, the SREP would also assess the ongoing compliance by banks with the eligibility criteria for adopting the advanced approaches.
+
+# **12.3 The Structural Aspects of the ICAAP**
+
+12.3.1 This section outlines the broad parameters of the ICAAP that banks shall comply with in designing and implementing their ICAAP.
+
+# 12.3.2 Every bank shall have an ICAAP
+
+The ICAAP shall be prepared, on a solo basis, at every tier for each banking entity within the banking group, as also at the level of the consolidated bank. This requirement shall also apply to the foreign banks which have a branch presence in India and their ICAAP should cover their Indian operations only.
+
+12.3.3 ICAAP to encompass firm-wide risk profile[108](#page-124-0)
+
+## 12.3.3.1 General firm-wide risk management principles:
+
+Senior management should understand the importance of taking an integrated, firm-wide perspective of a bank's risk exposure, in order to support its ability to identify and react to emerging and growing risks in a timely and effective manner. The purpose of this guidance is the need to enhance firm-wide oversight, risk management and controls around banks' capital markets activities, including securitisation, off-balance sheet exposures, structured credit and complex trading activities.
+
+A sound risk management system should have the following key features:
+
+- Active board and senior management oversight;
+- Appropriate policies, procedures and limits;
+- Comprehensive and timely identification, measurement, mitigation, controlling, monitoring and reporting of risks;
+- Appropriate management information systems (MIS) at the business and firm-wide level; and
+- Comprehe

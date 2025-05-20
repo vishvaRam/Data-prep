@@ -1,0 +1,34 @@
+he fact that some of these claims may be rated by other chosen credit rating agencies whose ratings the bank has decided not to use. Banks shall not use one agency's rating for one corporate bond, while using another agency's rating for another exposure to the same counterparty, unless the respective exposures are rated by only one of the chosen credit rating agencies, whose ratings the bank has decided to use. External assessments for one entity within a corporate group cannot be used to risk weight other entities within the same group*.* 
+
+6.2.2 Banks must disclose the names of the credit rating agencies that they use for the risk weighting of their assets, the risk weights associated with the particular rating grades as
+
+<span id="page-70-0"></span> <sup>78</sup> Please refer t[o circular DBOD.BP.BC.No.59/21.06.007/2013-14 dated October 17, 2013.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8510&Mode=0)
+
+<span id="page-70-1"></span><sup>79</sup> Please refer t[o circular DOR.STR.REC.26/21.06.008/2024-25 dated July 10, 2024.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12700&Mode=0)
+
+<span id="page-70-2"></span><sup>80</sup> Please refer t[o circular DOR.No.CRE.BC.33/21.06.007/2020-21 dated January 27, 2021.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12016&Mode=0)
+
+<span id="page-70-3"></span><sup>81</sup> Please refer t[o circular DBR.No.BP.BC.74/21.06.009/2016-17 dated June 13, 2017.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11000&Mode=0) The rating-risk weight mapping for the long term and short term ratings assigned by INFOMERICS will be the same as in case of other rating agencies.
+
+determined by Reserve Bank through the mapping process for each eligible credit rating agency as well as the aggregated risk weighted assets as required vide **Table DF-4 of [Annex 17](#page-271-0)**.
+
+6.2.3 To be eligible for risk-weighting purposes, the external credit assessment must take into account and reflect the entire amount of credit risk exposure the bank has with regard to all payments owed to it. For example, if a bank is owed both principal and interest, the assessment must fully take into account and reflect the credit risk associated with timely repayment of both principal and interest.
+
+6.2.4 To be eligible for risk weighting purposes, the rating should be in force and confirmed from the monthly bulletin of the concerned rating agency. The rating agency should have reviewed the rating at least once during the previous 15 months.
+
+6.2.5 An eligible credit assessment must be publicly available. In other words, a rating must be published in an accessible form and included in the external credit rating agency's transition matrix. Consequently, ratings that are made available only to the parties to a transaction do not satisfy this requirement.
+
+6.2.6 For assets in the bank's portfolio that have contractual maturity less than or equal to one year, short term ratings accorded by the chosen credit rating agencies would be relevant. For other assets which have a contractual maturity of more than one year, long term ratings accorded by the chosen credit rating agencies would be relevant.
+
+6.2.7 Cash credit exposures tend to be generally rolled over and also tend to be drawn on an average for a major portion of the sanctioned limits. Hence, even though a cash credit exposure may be sanctioned for period of one year or less, these exposures should be reckoned as long term exposures and accordingly the long term ratings accorded by the chosen credit rating agencies will be relevant. Similarly, banks may use long-term ratings of a counterparty as a proxy for an unrated short- term exposure on the same counterparty subject to strict compliance with the requirements for use of multiple rating assessments and applicability of issue rating to issuer / other claims as indicated in **paragraphs 6.4, 6.5, 6.7 and 6.8** below.
+
+# **6.3 Mapping Process**
+
+The Revised Framework recommends development of a mapping process to assign the ratings issued by eligible credit rating agencies to the risk weights available under the Standardised risk weighting framework. The mapping process is required to result in a risk weight assignment consistent with that of the level of credit risk. A mapping of the credit ratings awarded by the chosen domestic credit rating agencies has been furnished below in **paragraphs 6.4.1 and 6.5.4**, which should be used by banks in assigning risk weights to the various exposures.
+
+# **6.4 Long Term Ratings**
+
+6.4.1 On the basis of the above factors as well as the data made available by the rating agencies, the ratings issued by the chosen domestic credit rating agencies have been mapped to the appropriate risk weights applicable as per the Standardised approach under the Revised Framework. The rating-risk weight mapping furnished in the Table 10 below shall be adopted by all banks in India:
+
+
+**Table 10: Risk Weight Mapping of Long Term Ratings of the c

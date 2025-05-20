@@ -1,0 +1,39 @@
+nt till full repayment of the loan.
+
+# **2.1.2 (B) Credit Card Accounts**
+
+- (i) In credit card accounts, the amount spent is billed to the card users through a monthly statement with a definite due date for repayment. Banks give an option to the card users to pay either the full amount or a fraction of it, i.e., minimum amount due, on the due date and roll-over the balance amount to the subsequent months' billing cycle.
+- (ii) A credit card account will be treated as non-performing asset if the minimum amount due, as mentioned in the statement, is not paid fully within 90 days from the payment due date mentioned in the statement.
+- (iii) Banks shall report a credit card account as 'past due' to credit information companies (CICs) or levy penal charges, viz. late payment charges, etc., if any, only when a credit card account remains 'past due' for more than three days. The number of 'days past due' and late payment charges shall, however, be computed from the payment due date mentioned in the credit card statement.
+
+# **2.1.3 Agricultural Advance**
+
+(i) In respect of all direct agricultural advances, as specified in [Annex 1:](#page-22-0)
+
+a) A loan granted for short duration crops will be treated as NPA, if the installment of principal or interest thereon remains overdue for two crop seasons.
+
+b) A loan granted for long duration crops will be treated as NPA, if the installment of principal or interest thereon remains overdue for one crop season.
+
+(ii) For the purpose of these guidelines, "long duration" crops would be crops with crop season longer than one year and crops, which are not "long duration" crops would be treated as "short duration" crops.
+
+(iii) The crop season for each crop, which means the period up to harvesting of the crops raised, would be as determined by the State Level Bankers' Committee in each state.
+
+(iv) Depending upon the duration of crops raised by an agriculturist, the above NPA norms would also be made applicable to agricultural term loans availed by him.
+
+(v) Banks should ensure that while granting loans and advances, realistic repayment schedules are fixed on the basis of cash flows / fluidity with the borrowers.
+
+## **2.1.4 Identification of Assets as NPAs should be done on an ongoing basis**
+
+(i) The system should ensure that identification of NPAs is done on an on-going basis and accounts are classified as NPA immediately, as soon as they turn into NPA as per the guidelines contained in this circular, without waiting till the end of quarter/financial year. Banks should also make provisions for NPAs as at the end of each calendar quarter i.e. as at the end of March / June / September / December, so that the income and expenditure account for the respective quarters as well as the P&L account and balance sheet for the year end reflects the provision made for NPAs.
+
+(ii) The borrower accounts shall be flagged as overdue by banks as part of their day-end processes for the due date, irrespective of the time of running such processes. Similarly, classification of borrower accounts as SMA[3](#page-4-0) as well as NPA shall be done as part of day-end process for the relevant date and the SMA or NPA classification date shall be the calendar date for which the day end process is run. In other words, the date of SMA/NPA shall reflect the asset classification status of an account at the day-end of that calendar date.
+
+Example: If due date of a loan account is March 31, 2022, and full dues are not received before the bank runs the day-end process for this date, the date of overdue shall be March 31, 2022. If it continues to remain overdue, then this account shall get tagged as SMA-1 upon running day-end process on April 30, 2022 i.e. upon completion of 30 days of being continuously overdue. Accordingly, the date of SMA-1 classification for that account shall be April 30, 2022.
+
+Similarly, if the account continues to remain overdue, it shall get tagged as SMA-2 upon running day-end process on May 30, 2022 and if continues to remain overdue further, it shall get classified as NPA upon running day-end process on June 29, 2022.
+
+(iii) UCBs having total assets of ₹2000 crore or above as on March 31, 2020 were required to implement system-based asset classification[4](#page-4-1) with effect from June 30, 2021.
+
+(iv) UCBs having total assets of ₹1000 crore or above but less than ₹2000 crore as on March 31, 2020 and having self-assessed themselves as being under Level III or Level IV in terms of the [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11772&Mode=0)  [DoS.CO/CSITE/BC.4083/31.01.052/2019-20 dated December 31, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11772&Mode=0) on Comprehensive Cyber Security Framework for UCBs were required to implement system-based asset classification with effect from September 30, 2021.
+
+(v) UCBs which meet the above criteria as at the end of the financial year 2020-2021 or subsequent financial years shall implement system

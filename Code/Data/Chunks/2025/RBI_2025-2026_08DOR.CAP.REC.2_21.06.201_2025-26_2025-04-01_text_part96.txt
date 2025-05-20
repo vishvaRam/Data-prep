@@ -1,0 +1,37 @@
+ountercyclical Capital Buffer Framework**
+
+# <span id="page-180-0"></span>**17. Countercyclical Capital Buffer**
+
+# **17.1 Objective**
+
+The aim of the Countercyclical Capital Buffer (CCCB) regime is twofold. Firstly, it requires banks to build up a buffer of capital in good times which may be used to maintain flow of credit to the real sector in difficult times. Secondly, it achieves the broader macro-prudential goal of restricting the banking sector from indiscriminate lending in the periods of excess credit growth that have often been associated with the building up of system-wide risk.
+
+# **17.2 The Framework**
+
+17.2.1 The CCCB may be maintained in the form of Common Equity Tier 1 (CET 1) capital only, and the amount of the CCCB may vary from 0 to 2.5% of total risk weighted assets (RWA) of the banks. If, as per the Reserve Bank of India directives, banks are required to hold CCCB at a given
+
+point in time, the same may be disclosed at table DF-11 of [Annex 17](#page-271-0) as indicated in Basel III Master Circular.
+
+17.2.2 The CCCB decision would normally be pre-announced with a lead time of 4 quarters. However, depending on the CCCB indicators, the banks may be advised to build up requisite buffer in a shorter span of time.
+
+17.2.3 The credit-to-GDP gap[168](#page-181-0) shall be the main indicator in the CCCB framework in India. However, it shall not be the only reference point and shall be used in conjunction with GNPA growth. The Reserve Bank of India shall also look at other supplementary indicators for CCCB decision such as incremental C-D ratio for a moving period of three years (along with its correlation with credit-to-GDP gap and GNPA growth), Industry Outlook (IO) assessment index (along with its correlation with GNPA growth) and interest coverage ratio (along with its correlation with credit-to-GDP gap). While taking the final decision on CCCB, the Reserve Bank of India may use its discretion to use all or some of the indicators along with the credit-to-GDP gap.
+
+17.2.4 The CCCB framework shall have two thresholds, viz., lower threshold and upper threshold, with respect to credit-to-GDP gap.
+
+- a. The lower threshold (L) of the credit-to-GDP gap where the CCCB is activated shall be set at 3 percentage points, provided its relationship with GNPA remains significant. The buffer activation decision will also depend upon other supplementary indicators as detailed in paragraph 4.
+- b. The upper threshold (H) where the CCCB reaches its maximum shall be kept at 15 percentage points of the credit-to-GDP gap. Once the upper threshold of the credit-to-GDP gap is reached, the CCCB shall remain at its maximum value of 2.5 per cent of RWA, till the time a withdrawal is signalled by the Reserve Bank of India.
+- c. In between 3 and 15 percentage points of credit-to-GDP gap, the CCCB shall increase gradually from 0 to 2.5 per cent of the RWA of the bank but the rate of increase would be different based on the level/position[169](#page-181-1) of credit-to-GDP gap between 3 and 15 percentage points. If the credit-to-GDP gap is below 3 percentage points then there will not be any CCCB requirement.
+
+17.2.5 The same set of indicators that are used for activating CCCB (as mentioned in paragraph 4) may be used to arrive at the decision for the release phase of the CCCB. However, discretion
+
+<span id="page-181-0"></span> <sup>168</sup> Credit-to-GDP gap is the difference between credit-to-GDP ratio and the long term trend value of credit-to-GDP ratio at any point in time.
+
+<span id="page-181-1"></span><sup>169</sup> The CCCB requirement shall increase linearly from 0 to 20 basis points when credit-to-GDP gap moves from 3 to 7 percentage points. Similarly, for above 7 and up to 11 percentage points range of credit-to-GDP gap, CCCB requirement shall increase linearly from above 20 to 90 basis points. Finally, for above 11 and up to 15 percentage points range of credit-to-GDP gap, the CCCB requirement shall increase linearly from above 90 to 250 basis points. However, if the credit-to-GDP gap exceeds 15 percentage points, the buffer shall remain at 2.5 per cent of the RWA.
+
+shall be with the Reserve Bank of India for operating the release phase of CCCB. Further, the entire CCCB accumulated may be released at a single point in time but the use of the same by banks will not be unfettered and will need to be decided only after discussion with the Reserve Bank of India.
+
+17.2.6 For all banks operating in India, CCCB shall be maintained on a solo basis as well as on consolidated basis.
+
+17.2.7 All banks operating in India (both foreign and domestic banks) should maintain capital for Indian operations under CCCB framework based on their exposures in India.
+
+17.2.8 Banks incorporated in India having international presence shall maintain adequate capital under CCCB as prescribed by the host supervisors in respective jurisdictions. The banks, based on the geographic location of their private sector credit exposures (including 

@@ -1,0 +1,36 @@
+ intent to conceal the actual status of accounts or evergreen the stressed accounts, will be subjected to stringent supervisory / enforcement actions as deemed
+
+<sup>13</sup> During the period when the RP is being finalised and implemented, the usual asset classification norms would continue to apply subject to additional provisioning requirements of this circular. The process of re-classification of an asset should not stop merely because RP is under consideration.
+
+appropriate by the Reserve Bank, including, but not limited to, higher provisioning on such accounts and monetary penalties<sup>14</sup> .
+
+## 14. Disclosures
+
+Lenders shall make appropriate disclosures in their financial statements, under 'Notes on Accounts', relating to RPs implemented.
+
+## 15. Exemptions
+
+15.1 Paragraphs 9, 10 and 11 above shall not be applicable to revival and rehabilitation of MSMEs covered by the instructions contained in [Circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10304&Mode=0)  [No.FIDD.MSME&NFS.BC.No.21/06.02.31/2015-16 dated March 17, 2016,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10304&Mode=0) as amended from time to time.
+
+15.2 Part B1 of this Master Circular shall not be available for borrower entities in respect of which specific instructions have already been issued or are issued by the Reserve Bank to the banks for initiation of insolvency proceedings under the IBC. Lenders shall pursue such cases as per the specific instructions issued to them.
+
+15.3 Resolution of Covid-19 related stress implemented under the following circulars shall be subject to the specific requirements, including the prudential norms, specified therein:
+
+- (i) [DOR.No.BP.BC/3/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11941&Mode=0) on "Resolution Framework for COVID-19-related Stress" read with [DOR.No.BP.BC/13/21.04.048/2020-21 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0)  [September 7, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0) on "Resolution Framework for COVID-19-related Stress – Financial Parameters";
+- (ii) [DOR.No.BP.BC/4/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11942&Mode=0) on "Micro, Small and Medium Enterprises (MSME) sector – Restructuring of Advances";
+- (iii) [DOR.STR.REC.11/21.04.048/2021-22 dated May 5,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12085&Mode=0) 2021 on "Resolution Framework – 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses" read with [DOR.STR.REC.20/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12104&Mode=0) on "Resolution Framework - 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses – Revision in the threshold for aggregate exposure";
+- (iv) [DOR.STR.REC.12/21.04.048/2021-22 dated May 5, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12086&Mode=0) on "Resolution Framework 2.0 – Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs)" read with [DOR.STR.REC.21/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12105&Mode=0) on
+
+<sup>14</sup> This may be in addition to direction to bank/s to file insolvency application under the IBC.
+
+"Resolution Framework - 2.0: Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs) – Revision in the threshold for aggregate exposure".
+
+(v) The above may be read along with the [FAQs on Resolution Framework for Covid-19](https://www.rbi.org.in/Scripts/FAQView.aspx?Id=137)  [related stress](https://www.rbi.org.in/Scripts/FAQView.aspx?Id=137) updated from time to time.
+
+#### **Part B2: Prudential Norms Applicable to Restructuring**
+
+#### 16. Definition of Restructuring
+
+16.1 Restructuring is an act in which a lender, for economic or legal reasons relating to the borrower's financial difficulty, grants concessions to the borrower. Restructuring may involve modification of terms of the advances / securities, which would generally include, among others, alteration of payment period / payable amount / the amount of instalments / rate of interest; roll over of credit facilities; sanction of additional credit facility/ release of additional funds for an account in default to aid curing of default / enhancement of existing credit limits; compromise settlements<sup>15</sup>where time for payment of settlement amount exceeds three months.
+
+16.2 For this purpose, the board-approved policies of lenders on resolution of stressed assets, required to be in place in terms of these guidelines, shall also have detailed policies on various signs of financial difficulty, providing quantitative as well as qualitative parameters, for determining financial difficulty as expected from a prudent bank. In order to enable lenders to frame respective policies for 

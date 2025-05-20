@@ -1,0 +1,25 @@
+must be used in conjunction with internal credit and trading limits.
+- (v) The measurement of CCR must include monitoring daily and intra-day usage of credit lines. The bank must measure current exposure gross and net of collateral held where such measures are appropriate and meaningful (e.g. OTC derivatives, margin lending, etc.). Measuring and monitoring peak exposure or potential future exposure (PFE), both the portfolio and counterparty levels is one element of a robust limit monitoring system. Banks must take account of large or concentrated positions, including concentrations by groups of related counterparties, by industry, by market, customer investment strategies, etc.
+- (vi) The bank must have an appropriate stress testing methodology in place to assess the impact on the counterparty credit risk of abnormal volatilities in market variables driving the counterparty exposures and changes in the creditworthiness of the counterparty. The results of this stress testing must be reviewed periodically by senior management and must be reflected in the CCR policies and limits set by management and the board of directors. Where stress tests reveal particular vulnerability to a given set of circumstances, management should explicitly consider appropriate risk management strategies (e.g. by hedging against that outcome, or reducing the size of the firm's exposures).
+- (vii) The bank must have a routine in place for ensuring compliance with a documented set of internal policies, controls and procedures concerning the operation of the CCR management system. The firm's CCR management system must be well documented, for example, through a risk management manual that describes the basic principles of the risk management system and that provides an explanation of the empirical techniques used to measure CCR.
+- (viii) The bank must conduct an independent review of the CCR management system regularly through its own internal auditing process. This review must include both the activities of the business credit and trading units and of the independent CCR control unit. A review of the overall CCR management process must take place at regular intervals (ideally not less than once a year) and must specifically address, at a minimum:
+	- the adequacy of the documentation of the CCR management system and process;
+	- the organisation of the collateral management unit;
+	- the organisation of the CCR control unit;
+	- the integration of CCR measures into daily risk management;
+	- the approval process for risk pricing models and valuation systems used by front and backoffice personnel;
+	- the validation of any significant change in the CCR measurement process;
+	- the scope of counterparty credit risks captured by the risk measurement model;
+	- the integrity of the management information system;
+- the accuracy and completeness of CCR data;
+- the accurate reflection of legal terms in collateral and netting agreements into exposure measurements; the verification of the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources;
+- the accuracy and appropriateness of volatility and correlation assumptions;
+- the accuracy of valuation and risk transformation calculations; and
+- the verification of the model's accuracy through frequent back-testing.
+- (ix) Banks should make an assessment as part of their ICAAP as to whether the bank's evaluation of the risks contained in the transactions that give rise to CCR and the bank's assessment of whether the Current Exposure Method (CEM) captures those risks appropriately and satisfactorily. In cases where, under SREP, it is determined that CEM does not capture the risk inherent in the bank's relevant transactions (as could be the case with structured, more complex OTC derivatives), RBI may require the bank to apply the CEM on a transaction-by-transaction basis (i.e., no netting will be recognized even if it is permissible legally).
+
+**13.3 Market Risk**: A bank should be able to identify risks in trading activities resulting from a movement in market prices. This determination should consider factors such as illiquidity of instruments, concentrated positions, one-way markets, non-linear/deep out-of-the money positions, and the potential for significant shifts in correlations. Exercises that incorporate extreme events and shocks should also be tailored to capture key portfolio vulnerabilities to the relevant market developments.
+
+**13.4 Operational Risk**: A bank should be able to assess the potential risks resulting from inadequate or failed internal processes, people, and systems, as well as from events external to the bank. This assessment should include the effects of extreme events and shocks relating to operational risk. Events could include a sudden increase in failed processes across business units or a significant incidence of failed internal controls.
+
+**13.5 Interest Rate Risk in the Banking Book (IRRBB):** A ba

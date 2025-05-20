@@ -1,0 +1,73 @@
+| SL No | No of loan<br>accounts | Amount<br>outstanding* | Irregular accounts<br>(4) |                    | Details of the NPA accounts (5) |         |  |
+|-------|------------------------|------------------------|---------------------------|--------------------|---------------------------------|---------|--|
+|       |                        |                        | No of<br>accounts         | Overdue<br>Amount* | No of accounts                  | Amount* |  |
+| 1     | 2                      | 3                      | 4(a)                      | 4(b)               | 5(a)                            | 5(b)    |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+
+| New loan accounts opened<br>during the period ………to<br>……… |        | Outstanding as at ……… (end<br>of previous period) |        | Total outstanding as at ………. | Amount of<br>interest<br>Subvention @4.5% |        |
+|------------------------------------------------------------|--------|---------------------------------------------------|--------|------------------------------|-------------------------------------------|--------|
+| No of<br>Accounts                                          | Amount | No of<br>Accounts                                 | Amount | No of<br>Accounts            | Amount                                    | Amount |
+|                                                            |        |                                                   |        |                              |                                           |        |
+
+| No of unique SHGs availed interest subvention | Amount of Interest subvention |  |  |  |
+|-----------------------------------------------|-------------------------------|--|--|--|
+|                                               |                               |  |  |  |
+
+|  | Statement for claims for the period …………….to …………………: credit disbursed/outstanding above ₹3 lakh and upto ₹5 lakh |  |  |
+|--|-------------------------------------------------------------------------------------------------------------------|--|--|
+|--|-------------------------------------------------------------------------------------------------------------------|--|--|
+
+| New loan accounts opened during the<br>period ………to ……… |                                                                  |        | Outstanding as at ……… (end of previous period) |                                                               |        | Total outstanding as at ………. |                                                                  |        | Amount of<br>interest<br>subvention @ 5% |
+|---------------------------------------------------------|------------------------------------------------------------------|--------|------------------------------------------------|---------------------------------------------------------------|--------|------------------------------|------------------------------------------------------------------|--------|------------------------------------------|
+| No of<br>Accounts                                       | Applicable<br>Interest rate (1<br>yr MCLR/<br>Benchmark<br>rate) | Amount | No of<br>Accounts                              | Applicable<br>Interest rate (1 yr<br>MCLR/<br>Benchmark rate) | Amount | No of<br>Accounts            | Applicable<br>Interest rate (1<br>yr MCLR/<br>Benchmark<br>rate) | Amount | Amount                                   |
+|                                                         |                                                                  |        |                                                |                                                               |        |                              |                                                                  |        |                                          |
+|                                                         |                                                                  |        |                                                |                                                               |        |                              |                                                                  |        |                                          |
+
+| No of unique SHGs availed interest subvention | Amount of Interest subvention |
+|-----------------------------------------------|-------------------------------|
+|                                               |                               |
+
+| New loan accounts opened<br>during the period ………to<br>……… |        | Amount of<br>Credit Guarantee Fees |
+|------------------------------------------------------------|--------|------------------------------------|
+| No of<br>Accounts                                          | Amount |                                    |
+|                                                            |        |                                    |
+
+| New loan accounts opened<br>during the period ………to | ………    | Outstanding as at ……… (end<br>of previous period) |        | Total outstanding as at ………. |        | Amount of<br>interest<br>Subvention @2% |
+|-----------------------------------------------------|--------|---------------------------------------------------|--------|------------------------------|--------|-----------------------------------------|
+| No of<br>Accounts                                   | Amount | No of<br>Accounts                                 | Amount | No of<br>Accounts            | Amount | Amount                                  |
+|                                                     |        |                                                   |        |                              |        |                                         |
+
+| No of women SHG members availed interest<br>subvention | Amount of Interest subvention |  |  |
+|--------------------------------------------------------|-------------------------------|--|--|
+|                                                        |                               |  |  |
+
+| No. | Circular No.                                | Date       | Subject                                                                                                                         |
+|-----|---------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | RPCD.GSSD.CO.<br>NO.<br>81/09.01.03/2012-13 | 27.06.2013 | Priority<br>Sector<br>Lending<br>–<br>Restructuring of SGSY as<br>National Rural Livelihoods<br>Mission(DAY-NRLM)-<br>Aajeevika |
+| 2.  | RPCD.GSSD.CO.BC.No.38/09.01.03/2013-14      | 20.09.2013 | Credit Facility under National<br>Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Reporting to RBI                          |
+| 3.  | RPCD.GSSD.CO.BC.No.57/09.01.03/2013-14      | 19.11.2013 | Restructuring of SGSY as<br>National Rural Livelihoods<br>Mission<br>(NRLM)-Aajeevika<br>Interest Subvention<br>Scheme          |
+| 4.  | FIDD.GSSD.CO.BC.NO.45/09.01.03/2014-15      | 09.12.2014 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Interest Subvention<br>Scheme                                      |
+| 5.  | FIDD.GSSD.CO.BC.NO.19/09.01.03/2015-16      | 21.01.2016 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Interest Subvention<br>Scheme 2015-16                              |
+| 6   | FIDD.GSSD.CO.BC.NO.26/09.01.03/2015-16      | 09.06.2016 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Interest Subvention<br>Scheme<br>2015-16<br>–<br>Modification.     |
+| 7   | FIDD.GSSD.CO.BC.NO.13/09.01.03/2016-17      | 25.08.2016 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Interest Subvention<br>Scheme 2016-17                              |
+| 8   | FIDD.GSSD.CO.BC.NO.17/09.01.03/2017-18      | 18.10.2017 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Interest Subvention<br>Scheme 2017-18                              |
+| 9   | FIDD.GSSD.CO.BC.NO.05/09.01.03/2018-19      | 03.07.2018 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika<br>Interest Subvention<br>Scheme 2018-19                              |
+| 10  | FIDD.GSSD.CO.BC.No.02/09.01.01/2019-20      | 01.07.2019 | Deendayal Antyodaya Yojana -<br>National<br>Rural<br>Livelihoods<br>Mission (DAY-NRLM)                                          |
+| 11  | FIDD.GSSD.CO.BC.No.15/09.01.01/2019-20      | 26.11.2019 | Deendayal Antyodaya Yojana -<br>National<br>Rural<br>Livelihoods<br>Mission (DAY-NRLM)                                          |
+
+| 12 | FIDD.GSSD.CO.BC.No.06/09.01.01/2020-21  | 18.09.2020 | Deendayal Antyodaya Yojana<br>-<br>National<br>Rural<br>Livelihoods |
+|----|-----------------------------------------|------------|---------------------------------------------------------------------|
+|    |                                         |            | Mission (DAY-NRLM)                                                  |
+| 13 | FIDD.GSSD.CO.BC.No.09/09.01.003/2021-22 | 09.08.2021 | Enhancement of collateral free                                      |
+|    |                                         |            | loans to Self Help Groups                                           |
+|    |                                         |            | (SHGs)<br>under<br>DAY-NRLM                                         |
+|    |                                         |            | from ₹10 lakh to ₹20 Lakh                                           |
+| 14 | FIDD.GSSD.CO.BC.No.09/09.01.003/2022-23 | 20.07.2022 | Deendayal Antyodaya Yojana<br>-                                     |
+|    |                                         |            | National<br>Rural<br>Livelihoods                                    |
+|    |                                         |            | Mission (DAY-NRLM)                                                  |
+| 15 | FIDD.GSSD.CO.BC.No.07/09.01.003/2023-24 | 26.04.2023 | Deendayal Antyodaya Yojana -                                        |
+|    |                                         |            | National<br>Rural<br>Livelihoods                                    |
+|    |                                         |            | Mission (DAY-NRLM)                                                  |

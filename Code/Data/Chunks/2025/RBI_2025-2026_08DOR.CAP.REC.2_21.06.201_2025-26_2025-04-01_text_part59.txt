@@ -1,0 +1,51 @@
+ed credit products. This, in turn, can make such products more difficult to value and hedge, and may lead to inadvertent increases in overall risk. Further, the increased growth of complex investor-specific products may result in thin markets that are illiquid, which can expose a bank to large losses in times of stress if the associated risks are not well understood and managed in a timely and effective manner.
+
+# <span id="page-119-0"></span>**12. Guidelines for the SREP of the RBI and the ICAAP of Banks**
+
+# **12.1 Background**
+
+12.1.1 The Basel capital adequacy framework rests on the following three mutually-reinforcing pillars:
+
+Pillar 1: Minimum Capital Requirements - which prescribes a risk-sensitive calculation of capital requirements that, for the first time, explicitly includes operational risk in addition to market and credit risk.
+
+Pillar 2: Supervisory Review Process (SRP) - which envisages the establishment of suitable risk management systems in banks and their review by the supervisory authority.
+
+Pillar 3: Market Discipline - which seeks to achieve increased transparency through expanded disclosure requirements for banks.
+
+12.1.2 The Basel Committee also lays down the following four key principles in regard to the SRP envisaged under Pillar 2:
+
+**Principle 1:** Banks should have a process for assessing their overall capital adequacy in relation to their risk profile and a strategy for maintaining their capital levels.
+
+**Principle 2:** Supervisors should review and evaluate banks' internal capital adequacy assessments and strategies, as well as their ability to monitor and ensure their compliance with the regulatory capital ratios. Supervisors should take appropriate supervisory action if they are not satisfied with the result of this process.
+
+**Principle 3:** Supervisors should expect banks to operate above the minimum regulatory capital ratios and should have the ability to require banks to hold capital in excess of the minimum.
+
+**Principle 4:** Supervisors should seek to intervene at an early stage to prevent capital from falling below the minimum levels required to support the risk characteristics of a particular bank and should require rapid remedial action if capital is not maintained or restored.
+
+12.1.3 It would be seen that the principles 1 and 3 relate to the supervisory expectations from banks while the principles 2 and 4 deal with the role of the supervisors under Pillar 2. Pillar 2 (Supervisory Review Process - SRP) requires banks to implement an internal process, called the Internal Capital Adequacy Assessment Process (ICAAP), for assessing their capital adequacy in relation to their risk profiles as well as a strategy for maintaining their capital levels. Pillar 2 also requires the supervisory authorities to subject all banks to an evaluation process, hereafter called Supervisory Review and Evaluation Process (SREP), and to initiate such supervisory measures on that basis, as might be considered necessary. An analysis of the foregoing principles indicates that the following broad responsibilities have been cast on banks and the supervisors:
+
+#### **Banks' responsibilities**
+
+- (a) Banks should have in place a process for assessing their overall capital adequacy in relation to their risk profile and a strategy for maintaining their capital levels (Principle 1)
+- (b) Banks should operate above the minimum regulatory capital ratios (Principle 3)
+
+#### **Supervisors' responsibilities**
+
+- (a) Supervisors should review and evaluate a bank's ICAAP. (Principle 2)
+- (b) Supervisors should take appropriate action if they are not satisfied with the results of this process. (Principle 2)
+- (c) Supervisors should review and evaluate a bank's compliance with the regulatory capital ratios. (Principle 2)
+- (d) Supervisors should have the ability to require banks to hold capital in excess of the minimum. (Principle 3)
+- (e) Supervisors should seek to intervene at an early stage to prevent capital from falling below the minimum levels. (Principle 4)
+- (f) Supervisors should require rapid remedial action if capital is not maintained or restored. (Principle 4)
+
+12.1.4 Thus, the ICAAP and SREP are the two important components of Pillar 2 and could be broadly defined as follows:
+
+The ICAAP comprises a bank's procedures and measures designed to ensure the following:
+
+- (a) An appropriate identification and measurement of risks;
+- (b) An appropriate level of internal capital in relation to the bank's risk profile; and
+- (c) Application and further development of suitable risk management systems in the bank.
+
+The SREP consists of a review and evaluation process adopted by the supervisor, which covers all the processes and measures defined in the principles listed above. Essentially, these include the review and evaluation of the bank's ICAAP, conducting an independent assessment of the bank's risk profile, and if necessary, taking appropriate prudential measures and other supervisory actions.
+
+12.1.

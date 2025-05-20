@@ -1,0 +1,25 @@
+s**
+
+6.8.1 Where a bank invests in a particular issue that has an issue specific rating by a chosen credit rating agency the risk weight of the claim will be based on this assessment. Where the bank's claim is not an investment in a specific assessed issue, the following general principles will apply:
+
+(i) In circumstances where the borrower has a specific assessment for an issued debt but the bank's claim is not an investment in this particular debt - the rating applicable to the specific debt (where the rating maps into a risk weight lower than that which applies to an unrated claim) may be applied to the bank's unassessed claim only if this claim ranks *pari passu* or senior to the specific rated debt in all respects and the maturity of the unassessed claim is not later than the maturity of the rated claim[84,](#page-74-0)
+
+<span id="page-74-0"></span> <sup>84</sup> In a case where a short term claim on a counterparty is rated as A1+ and a long term claim on the same counterparty is rated as AAA, then a bank may assign a 30 per cent risk weight to an unrated short term claim and 20 per cent risk weight to an unrated long term claim on that counterparty where the seniority of the claim ranks
+
+except where the rated claim is a short term obligation as specified in paragraph 6.5.2. If not, the rating applicable to the specific debt cannot be used and the unassessed claim will receive the risk weight for unrated claims.
+
+It is observed that the Press Releases (PRs) issued by External Credit Assessment Institutions (ECAIs) on rating actions are often devoid of the lenders' details. Absence of such information may result in banks applying the derived risk weights for unrated exposures, without satisfying themselves regarding adherence to prescribed conditions. This may, consequentially, lead to potentially lower provision of capital as well as underpricing of risks. In order to address the above information asymmetry, the Reserve Bank had advised the ECAIs vide letter dated June 4, 2021 to disclose the name of the banks and the corresponding credit facilities rated by them in the PRs issued on rating actions by August 31, 2021, after obtaining requisite consent from the borrowers.
+
+However, on a review it has been observed that the above disclosures are not available in a large number of PRs issued by ECAIs owing to the absence of requisite consent by the borrowers to the ECAIs. It is, therefore, advised[85](#page-75-0) that a bank loan rating without the above disclosure by the ECAI shall not be eligible for being reckoned for capital computation by banks. Banks shall treat such exposures as unrated and assign applicable risk weights in terms of paragraph 5.8.1 of this Master Circular.
+
+*Illustratively*, a scenario may be assumed, where a borrower has availed credit facilities from Banks A, B and C and external rating from an ECAI is obtained only in respect of the credit facility extended by Bank A. If the ECAI has disclosed the name of Bank A and the corresponding credit facility rated by it, then Bank A can reckon the said rating for risk weighting purpose. Banks B and C are permitted to derive risk weights for their respective unrated credit facilities subject to conditions stated in paragraph 6.8.1 (i) of Master Circular ibid, as permitted hitherto. In the event of ECAI not making the above disclosure, none of the banks shall reckon the said rating, and therefore shall apply risk weights of 100 percent or 150 percent as applicable in terms of extant instructions.
+
+(ii) In circumstances where the borrower has an issuer assessment, this assessment typically applies to senior unsecured claims on that issuer. Consequently, only senior claims on that issuer will benefit from a high quality issuer assessment. Other unassessed claims of a highly assessed issuer will be treated as unrated. If either the
+
+pari-passu with the rated claims and the maturity of the unrated claim is not later than the rated claim. In a similar case where a short term claim is rated A1+ and a long term claim is rated A, the bank may assign 50 per cent risk weight to an unrated short term or long term claim
+
+<span id="page-75-0"></span><sup>85</sup> Please refer [circular no. DOR.STR.REC.71/21.06.201/2022-23 dated October 10, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12396&Mode=0) on Review of Prudential Norms – Risk Weights for Exposures to Corporates and NBFCs.
+
+issuer or a single issue has a low quality assessment (mapping into a risk weight equal to or higher than that which applies to unrated claims), an unassessed claim on the same counterparty that ranks pari-passu or is subordinated to either the senior unsecured issuer assessment or the exposure assessment will be assigned the same risk weight as is applicable to the low quality assessment.
+
+- (iii) Where a bank intends to extend an issuer or an issue specific rating assigned by a chosen credit rating agency to any other exposure which the bank has on the sa

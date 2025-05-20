@@ -1,0 +1,64 @@
+![](_page_0_Picture_0.jpeg)
+
+भारतीय ररजर्व बकैं **RESERVE BANK OF INDIA [www.rbi.org.in](http://www.rbi.org.in/)**
+
+RBI/2025-26/13 DOR.STR.REC.9/21.04.048/2025-26 April 01, 2025
+
+All Commercial Banks (excluding RRBs)
+
+Madam/Dear Sir
+
+# **Master Circular - Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances**
+
+Please refer to the [Master Circular DOR.STR.REC.8/21.04.048/2024-25](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12657&Mode=0) dated April 2, 2024 consolidating instructions / guidelines issued to banks till March 31, 2024 on matters relating to prudential norms on income recognition, asset classification and provisioning pertaining to advances.
+
+2. Attached is the revised [Master Circular,](#page-1-0) updated to reflect all instructions issued upto March 31, 2025 on the above matter, as listed in [Annex](#page-68-0) 5. It may be noted that this Master Circular only consolidates all instructions on the above matter issued up to March 31, 2025 and does not contain any new instructions/guidelines.
+
+Yours faithfully
+
+(Vaibhav Chaturvedi) Chief General Manager
+
+Encl.: As above
+
+<span id="page-1-0"></span>
+
+
+
+
+# **Master Circular - Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances**
+
+## **Part A**
+
+## 1. GENERAL
+
+1.1 In line with the international practices and as per the recommendations made by the Committee on the Financial System (Chairman Shri M. Narasimham), the Reserve Bank of India has introduced, in a phased manner, prudential norms for income recognition, asset classification and provisioning for the advances portfolio of the banks so as to move towards greater consistency and transparency in the published accounts.
+
+1.2 The policy of income recognition should be objective and based on record of recovery rather than on any subjective considerations. Likewise, the classification of assets of banks has to be done on the basis of objective criteria which would ensure a uniform and consistent application of the norms. Also, the provisioning should be made on the basis of the classification of assets based on the period for which the asset has remained non-performing and the availability of security and the realisable value thereof.
+
+1.3 Banks are urged to ensure that while granting loans and advances, realistic repayment schedules may be fixed on the basis of cash flows with borrowers. This would go a long way to facilitate prompt repayment by the borrowers and thus improve the record of recovery in advances.
+
+## 2. DEFINITIONS
+
+#### 2.1 Non-performing Assets
+
+2.1.1 An asset, including a leased asset, becomes non-performing when it ceases to generate income for the bank.
+
+2.1.2 A non-performing asset (NPA) is a loan or an advance where;
+
+- i. interest and/ or instalment of principal remains overdue for a period of more than 90 days in respect of a term loan,
+- ii. the account remains 'out of order' as indicated at paragraph 2.2 below, in respect of an Overdraft/Cash Credit (OD/CC),
+- iii. the bill remains overdue for a period of more than 90 days in the case of bills purchased and discounted,
+- iv. the instalment of principal or interest thereon remains overdue for two crop seasons for short duration crops,
+- v. the instalment of principal or interest thereon remains overdue for one crop season for long duration crops,
+- vi. the amount of liquidity facility remains outstanding for more than 90 days, in respect of a securitisation transaction undertaken in terms of the [Reserve Bank of](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165) India [\(Securitisation of Standard Assets\) Directions, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+- vii. in respect of derivative transactions, the overdue receivables representing positive mark-to-market value of a derivative contract, if these remain unpaid for a period of 90 days from the specified due date for payment.
+
+2.1.3 In addition, an account may also be classified as NPA in terms of certain specific provisions of this Master Circular, including inter alia Paragraphs 4.2.4, 4.2.9 and Part B2.
+
+## 2.2 'Out of Order' status
+
+- 2.2.1 A CC/OD account shall be treated as 'out of order' if:
+	- i) The outstanding balance in the CC/OD account remains continuously in excess of the sanctioned limit/drawing power for 90 days, or
+	- ii) The outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but there are no credits continuously for 90 days, or the outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but credits are not enough to cover the interest debited during the previous 90 days period<sup>1</sup> .
+
+ 2.2.2 The definition of "out of order" as at paragraph 2.2.1 above shall be applicable to all loan products being offered as an overdraft facility, including those not meant for business purpose and/or which entail interest repayments as t

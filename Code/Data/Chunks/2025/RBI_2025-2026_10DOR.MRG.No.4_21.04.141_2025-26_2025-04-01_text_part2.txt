@@ -1,0 +1,40 @@
+e requirements of Chapter III. Does this imply that the banks shall be allowed to classify these securities under HTM, AFS, or FVTPL (including HFT) only upon upgradation and not at initial recognition? Also, clarity is required on what is meant by the segregation of such NPI investments from the rest of the portfolio?** 
+
+*[Refer Clauses 36(a)(v) & 36(b)of Directions]*
+
+Ans:
+
+- a. In partial modification to the clause 36(a)(v), it is clarified that the equity shares, debentures, bonds, etc., received upon conversion of principal and/or interest, shall be classified under HTM, AFS, or FVTPL (including HFT) only at initial recognition (i.e., when the loan is derecognised and the bond/equity, etc. is recognised), as per Chapter III of the Directions. Banks may, however, note that the asset classification of such instruments shall be the same as the loan and provisions made accordingly as stated in clause 36(a)(v).
+- b. The clause 36(b) of the Directions prescribes that once an investment become NPI, it should be segregated from rest of the portfolio and not considered for netting valuation gains and losses. It is clarified that the 'segregation from the rest of the portfolio' in this context means that such investments shall be segregated from other investments within the same category [i.e., HTM, AFS, or FVTPL (including HFT)] under which it was classified at initial recognition. Reclassification of the securities shall be guided by provisions of Chapter VI of the Master Direction.
+
+### **Q.No.5: Should special securities[2](#page-3-0) received from the Government of India towards the bank's recapitalisation requirement before FY 2021-22 be recognised at fair value at the time of transition to revised guidelines?**
+
+#### *[Refer Clause 43 of Directions]*
+
+Ans: As per clause 43 of the Directions, at the time of transition, the revised carrying value of securities classified under the HTM category shall be its acquisition cost adjusted for any premium/ discount amortised between the date of acquisition and March 31, 2024. Further, footnote number 35 to this clause specifies that in respect of special securities received from the Government of India towards banks' recapitalisation, the acquisition cost shall be as determined at initial recognition in terms of Chapter IV of this Directions. Accordingly, at the time of transition, as per Chapter IV of the Directions, the acquisition cost of these securities shall be the fair value at initial recognition arrived based on the prices / YTM of similar tenor Central Government securities put out by FBIL. Therefore, the revised carrying value of such special securities shall be fair value at initial recognition adjusted for any premium/ discount amortised between the date of acquisition and March 31, 2024. Further, as given in clause 43 of the Directions, the difference between the revised carrying value and the previous carrying value shall be adjusted in any General /Revenue Reserves.
+
+<span id="page-3-0"></span> <sup>2</sup> Special securities mean non-interest bearing (non-transferable) special GoI securities issued at par
+
+# **Q.No.6: Whether net unrealised gain on Level 3 instruments transferred to General/Revenue Reserves or in AFS-Reserves at the time of transition should be deducted from CET 1 capital?**
+
+#### *[Refer Clauses 28, 41 and 43 of Directions]*
+
+Ans: Net unrealised gain on Level 3 instruments (including investments and derivatives) transferred to Revenue/ General Reserve and AFS-Reserve at the time of transition, i.e., April 1, 2024, should be deducted from CET 1 capital.
+
+## **Q.No.7: At the time of transition, how would the revised carrying value of securities held under HTM, AFS and HFT in the previous framework and reclassified to HTM in the revised framework be calculated?**
+
+*[Refer Clause 43 of Directions]*
+
+Ans:
+
+- a. The clause 43 of the Directions prescribes that, at the time of transition, the revised carrying value of securities to be classified under HTM shall be the acquisition cost adjusted for any premium/ discount amortized between the date of acquisition and March 31, 2024.
+- b. Only in exceptional circumstances, where it is not practicable for banks to calculate revised carrying value as above, the fair value of the securities as of March 31, 2024, may be taken as the revised carrying value.
+- c. Further, as given under clause 43, the difference between the revised carrying value and the previous carrying value, shall be adjusted in any General/Revenue Reserves.
+
+# **Q.No.8: At the time of transition, how would the revised carrying value of securities held under HTM, AFS and HFT in the previous framework and reclassified to AFS in the revised framework be calculated?**
+
+*[Refer Clause 43 of Directions]*
+
+Ans:
+
+- a. The clause 43 of the Directions prescribes that, at the time of transition, the revised carrying value of securities to be classified under AFS shall be fair value as at March 31, 2024, and the difference between the re

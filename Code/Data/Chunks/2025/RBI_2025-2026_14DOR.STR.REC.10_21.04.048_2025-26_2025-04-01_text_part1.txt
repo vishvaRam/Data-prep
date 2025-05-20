@@ -1,0 +1,62 @@
+![](_page_0_Picture_0.jpeg)
+
+भारतीय �रजवर् बकैं
+
+# **RESERVE BANK OF INDIA [www.rbi.org.in](https://www.rbi.org.in/)**
+
+RBI/2025-26/14 DOR.STR.REC.10/21.04.048/2025-26 April 01, 2025
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+Madam / Dear Sir,
+
+# **Master Circular - Income Recognition, Asset Classification, Provisioning and Other Related Matters - UCBs**
+
+Please refer to our [Master Circular DOR.STR.REC.9/21.04.048/2024-25 dated April 02,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12658)  [2024](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12658) consolidating instructions / guidelines issued to banks till March 31, 2024 on matters relating to prudential norms on income recognition, asset classification and provisioning pertaining to advances.
+
+2. Attached is the revised [Master Circular,](#page-1-0) updated to reflect all instructions issued upto March 31, 2025 on the above matter, as listed in [Annex 9.](#page-38-0) It may be noted that this Master Circular only consolidates all instructions on the above matter issued up to March 31, 2025 and does not contain any new instructions/guidelines.
+
+Yours faithfully
+
+(Vaibhav Chaturvedi) Chief General Manager
+
+Encl: As above
+
+# <span id="page-1-0"></span>**Master Circular Income Recognition, Asset Classification, Provisioning and Other Related Matters**
+
+
+## **General**
+
+1.1 In order to reflect a bank's actual financial health in its balance sheet and as per the recommendations made by the Committee on Financial System (Chairman Shri M. Narasimham), the Reserve Bank has introduced, in a phased manner, prudential norms for income recognition, asset classification and provisioning for the advances portfolio of the banks.
+
+1.2 Broadly, the policy of income recognition should be objective and based on record of recovery rather than on any subjective considerations. Likewise, the classification of assets of banks has to be done on the basis of objective criteria, which would ensure a uniform and consistent application of the norms. The provisioning should generally be made on the basis of the classification of assets into different categories.
+
+1.3 The requirements of the State Co-operative Societies Acts and / or rules made thereunder or other statutory enactments may continue to be followed, if they are more stringent than those prescribed hereby.
+
+### **2. Non-performing Assets (NPA)**
+
+## **2.1 Classification of Assets as Non-Performing**
+
+2.1.1 A non-performing asset is a loan or an advance where:
+
+(i) Interest and / or installment of principal remain overdue[1](#page-2-0) for a period of more than 90 days in respect of a Term Loan.
+
+(ii) The account remains **'out of order'[2](#page-2-1)**, in respect of an Overdraft / Cash Credit (OD/CC) and all other loan products being offered as an overdraft facility, including those not meant for business purposes and/or which entail interest repayments as the only credits.
+
+(iii) The bill remains overdue for a period of more than 90 days in the case of bills purchased and discounted.
+
+(iv) In the case of direct agricultural advances as listed in [Annex 1,](#page-22-0) the overdue norm specified at para 2.1.3 would be applicable. In respect of agricultural loans other than those specified in [Annex 1,](#page-22-0) identification of NPAs would be done on the same basis as non-agricultural advances.
+
+(v) Any amount to be received remains overdue for a period of more than 90 days in respect of other accounts.
+
+(vi) In addition, an account may also be classified as NPA in terms of certain specific provisions of this Master Circular, including *inter alia* paragraphs 2.2.7 and clarifications provided under the frequently asked questions (FAQs) in [Annex-4.](#page-27-0)
+
+<span id="page-2-0"></span><sup>1</sup> Any amount due to the bank under any credit facility, if not paid by the due date fixed by the bank, becomes overdue.
+
+<span id="page-2-1"></span><sup>2</sup> An account should be treated as 'out of order ' if :
+
+i. the outstanding balance in the CC/OD account remains continuously in excess of the sanctioned limit/drawing power for 90 days, or
+
+ii. the outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but there are no credits continuously for 90 days, or the outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but credits are not enough to cover the interest debited during the previous 90 days period. The aforesaid 'previous 90 days period' is inclusive of the day for which the day-end process is being run.
+
+2.1.2 (A) The exact due dates for repayment of a loan, frequency of repayment, breakup between principal and interest, examples of SMA/NPA classification dates, etc. should be clearly specified in the loan agreement and the borrower should be apprised of the same at the time of loan sanction and also at the time of subsequent changes, if any, to the sanction terms/loan agreeme

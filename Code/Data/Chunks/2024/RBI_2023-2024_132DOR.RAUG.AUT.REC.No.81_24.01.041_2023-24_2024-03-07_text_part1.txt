@@ -1,0 +1,67 @@
+![](_page_0_Picture_0.jpeg)
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2023-24/132 DOR.RAUG.AUT.REC.No.81/24.01.041/2023-24 March 07, 2024
+
+The Chairperson / Managing Director / Chief Executive Officer Banks and Non-Banking Financial Companies
+
+Madam / Sir,
+
+#### **Amendment to the Master Direction - Credit Card and Debit Card – Issuance and Conduct Directions, 2022**
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 and Chapter IIIB of the Reserve Bank of India Act, 1934, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby, amends certain provisions issued vide [Master Direction](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300)  [DoR.AUT.REC.No.27/24.01.041/2022-23](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12300) dated April 21, 2022 on 'Credit Card and Debit Card – Issuance and Conduct Directions, 2022'.
+
+2. The amended provisions of the Master Direction are enclosed in the [Annex](#page-1-0) to this circular. [Frequently Asked Questions](https://rbi.org.in/Scripts/FAQDisplay.aspx?Id=167) relating to the provisions contained in the Master Direction are placed under [FAQ Section](https://rbi.org.in/Scripts/FAQDisplay.aspx) on the website and as an **Appendix** to the Master Direction.
+
+# 3. **Commencement**
+
+The amended provisions contained in this circular shall come into effect from March 07, 2024. The captioned Master Direction is hereby updated to reflect the changes effected by the below amendments.
+
+# 4. **Applicability**
+
+- a) Instructions relating to credit cards shall apply to all credit card issuing Banks and Non-Banking Financial Companies (NBFCs).
+- b) Instructions relating to debit cards shall apply to every bank operating in India.
+
+# **(Manoranjan Padhy)**
+
+Chief General Manager
+
+
+#### **I. Amendment to the existing provisions of the Master Direction (MD)**
+
+<span id="page-1-0"></span>
+
+
+
+<sup>1</sup> New provisions have been added under Para 10 of the Master Direction, therefore, para number of this provision has changed to 10(f).
+
+
+<sup>2</sup> The para has been shifted to a separate Chapter IV of the Master Direction.
+
+
+
+ <sup>3</sup> A new provision has been added under Para 23 of the Master Direction, therefore, para number of this provision has changed to 23(h).
+
+
+
+Conduct in Outsourcing of Financial Services', as amended from time to time. Further, the card-issuers shall not share card data (including transaction data) of the cardholders with the outsourcing partners unless sharing of such data is essential to discharge the functions assigned to the latter. In case of sharing of any data as stated above, explicit consent from the cardholder shall be obtained. It shall also be ensured that the storage and the ownership of card data remains with the card-issuer.
+
+#### **II. New provisions added in the MD**
+
+The following provisions have been added:
+
+- i. Para 3(a)(xxi) **Total Amount Due** is the total amount (net of credit received during the billing cycle, if any) payable by the cardholder as per the credit card statement generated at the end of a billing cycle.
+- ii. Para 9(b)(vi) Interest shall be levied only on the outstanding amount, adjusted for payments/refunds/reversed transactions.
+- iii. Para 10(c) Card-issuers shall provide the list of payment modes authorised by them for making payment towards the credit card dues, in their websites and billing statements. Further, card-issuers shall advise cardholders to exercise due caution and refrain from making payments through modes other than those authorised by them.
+- iv. Para 10(e) Any debit to the credit card account shall be done as per the authentication framework prescribed by the Reserve Bank from time to time, and not through any other mode/instrument**.**
+- v. Para 10(i) For business credit cards wherein the liability rests fully with the corporate or business entity (principal account holder), timeframe provided for
+
+payment of dues and adjustment of refunds may be as agreed between the cardissuer and the principal account holder.
+
+vi. Para 23(d) - In case card-issuers, at their discretion, decide to block/deactivate/suspend a debit or credit card, it shall be ensured that a standard operating procedure is followed as approved by their Board. Further, it shall also be ensured that blocking/deactivating/suspending a card or withdrawal of benefits available on any card is immediately intimated to the cardholder along with reasons thereof through electronic means (SMS, email, etc.) and other available modes.
+
+#### **III. Repeal of circular/paragraph**
+
+The following circular/paragraph stands repealed with the issuance of these directions:
+

@@ -1,0 +1,31 @@
+l charge determined as per **paragraph 5.15.3.5**[68](#page-60-0)
+
+# **5.15.3.7 Capital requirement for exposures to Central Counterparties (CCPs)**
+
+# **Scope of Application**
+
+- i. Exposures to central counterparties arising from OTC derivatives transactions, exchange traded derivatives transactions and securities financing transactions (SFTs) will be subject to the counterparty credit risk treatment as indicated in this paragraph below.
+- ii. Exposures arising from the settlement of cash transactions (equities, fixed income, spot FX, commodity etc.) are not subject to this treatment. The settlement of cash transactions remains subject to the treatment described in paragraph 5.15.4 of this Master Circular.
+- iii. When the clearing member-to-client leg of an exchange traded derivatives transaction is conducted under a bilateral agreement, both the client bank and the clearing member are to capitalise that transaction as an OTC derivative.
+- iv. For the purpose of capital adequacy framework, CCPs will be considered as financial institution. Accordingly, a bank's investments in the capital of CCPs will be guided in terms of paragraph 4.4.9 of this Master Circular.
+- v. Capital requirements will be dependent on the nature of CCPs viz. Qualifying CCPs (QCCPs) and non-Qualifying CCPs. A Qualifying CCP has been defined under paragraph 5.15.3.2 of this Master Circular.
+	- a. Regardless of whether a CCP is classified as a QCCP or not, a bank retains the responsibility to ensure that it maintains adequate capital for its exposures. Under Pillar 2, a bank should consider whether it might need to hold capital in excess of the minimum capital requirements if, for example, (i) its dealings with a CCP give rise to more risky exposures or (ii) where, given the context of that bank's dealings, it is unclear that the CCP meets the definition of a QCCP.
+	- b. Banks may be required to hold additional capital against their exposures to QCCPs via Pillar 2, if in the opinion of RBI, it is necessary to do so. This might be considered
+
+<span id="page-60-0"></span> <sup>68</sup> Please refer to the [circular DBOD.No.BP.BC.88/21.06.201/2012-13 dated March 28, 2013](https://rbi.org.in/scripts/NotificationUser.aspx?Id=7911&Mode=0) on 'Implementation of Basel III Capital Regulations in India – Clarifications', read with [circular DBOD.No.BP.BC.81/21.06.201/2013-14 dated](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8662&Mode=0)  [December 31, 2013](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8662&Mode=0) in terms of which the requirements for CVA risk capital charges would become effective as on April 1, 2014.
+
+appropriate where, for example, an external assessment such as an Financial Sector Assessment Program (FSAP) of International Monetary Fund / World Bank has found material shortcomings in the CCP or the regulation of CCPs, and the CCP and / or the CCP regulator have not since publicly addressed the issues identified.
+
+- c. Where the bank is acting as a clearing member, the bank should assess through appropriate scenario analysis and stress testing whether the level of capital held against exposures to a CCP adequately addresses the inherent risks of those transactions. This assessment will include potential future or contingent exposures resulting from future drawings on default fund commitments, and/or from secondary commitments to take over or replace offsetting transactions from clients of another clearing member in case of this clearing member defaulting or becoming insolvent.
+- d. A bank must monitor and report to senior management and the appropriate committee of the Board (e.g., Risk Management Committee) on a regular basis (quarterly or at more frequent intervals) all of its exposures to CCPs, including exposures arising from trading through a CCP and exposures arising from CCP membership obligations such as default fund contributions.
+- e. Unless Reserve Bank (DOR) requires otherwise, the trades with a former QCCP may continue to be capitalised as though they are with a QCCP for a period not exceeding three months from the date it ceases to qualify as a QCCP. After that time, the bank's exposures with such a central counterparty must be capitalised according to rules applicable for non-QCCP.
+
+### **5.15.3.8 Exposures to Qualifying CCPs (QCCPs)**
+
+## **(i) Trade exposures**
+
+### *Clearing member exposures to QCCPs*
+
+- (a) Where a bank acts as a clearing member of a QCCP for its own purposes, a risk weight of 2% must be applied to the bank's trade exposure to the QCCP in respect of OTC derivatives transactions, exchange traded derivatives transactions and SFTs.
+- (b) The exposure amount for such trade exposure will be calculated in accordance with the Current Exposure Method (CEM) for derivatives and rules as applicable for capital adequacy for Repo / Reverse Repo-style transactions[69.](#page-61-0)
+- (c) Where settlement is legally enforceable on a net basis in an event of default and regardless o

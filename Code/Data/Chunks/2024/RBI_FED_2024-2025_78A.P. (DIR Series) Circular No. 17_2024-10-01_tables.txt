@@ -1,0 +1,228 @@
+| Description                                                                               | Page |
+|-------------------------------------------------------------------------------------------|------|
+| 1.<br>General                                                                             | 2    |
+| 2.<br>Compounding of contraventions<br>by<br>Reserve<br>Bank                              | 2    |
+| 3.<br>Application<br>for<br>Compounding                                                   | 5    |
+| 4.<br>Cases not eligible<br>for compounding                                               | 6    |
+| 5.<br>Procedure<br>for<br>Compounding                                                     | 8    |
+| 6.<br>Issue<br>of<br>Compounding<br>order                                                 | 12   |
+| 7.<br>Payment<br>of<br>the<br>amount<br>for<br>which<br>contravention<br>is<br>compounded | 13   |
+| Annexure I<br>-<br>Details for payment of Compounding application fee and                 | 15   |
+| compounding amount.                                                                       |      |
+| -<br>Details of transactions relating to Foreign Direct Investment,<br>Annexure II        | 19   |
+| External<br>Commercial Borrowings, Overseas Direct Investment and Branch                  |      |
+| Office / Liaison<br>Office                                                                |      |
+| -<br>Undertaking in relation to status of investigation by<br>Annexure III                | 22   |
+| Directorate of Enforcement                                                                |      |
+
+| Regulations<br>under<br>Notification<br>No.<br>FEMA<br>20/2000-RB<br>dated May 3, 2000                                   | Regulations<br>under<br>Notification No. FEMA<br>20(R)/2017-RB<br>dated<br>November 07, 2017                                                | Rules under FEM<br>(Non–Debt<br>Instruments)<br>Rules, 2019 dated<br>October 17, 2019                                                 | Regulations<br>under Notification<br>No. FEMA<br>395/2019-RB<br>dated October 17,<br>2019 |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Paragraph 9(1)(A) of<br>Schedule 1                                                                                       | Regulation 13.1(1)                                                                                                                          | Rule 2(k) read with<br>Rule 5                                                                                                         | Regulation<br>3.1(I)(A)                                                                   |
+| Paragraph 9(1)(B) of<br>Schedule 1                                                                                       | Regulation 13.1(2)                                                                                                                          | Rule 21                                                                                                                               | Regulation 4(1)                                                                           |
+| Paragraph 9(2) of<br>Schedule 1                                                                                          | Regulation 13.1(3)                                                                                                                          | Paragraph 3 (b) of<br>Schedule I (Issue<br>of shares without<br>approval of RBI or<br>Government,<br>wherever required)               | Regulation 4(2)                                                                           |
+| Paragraph 8 of<br>Schedule 1                                                                                             | Paragraph 2 of<br>Schedule 1                                                                                                                | Rule 4 (Receiving<br>investment in India<br>from non-resident<br>or taking on record<br>transfer of shares<br>by Investee<br>Company) | Regulation 4(3)                                                                           |
+| Paragraph 5 of<br>Schedule 1                                                                                             | Regulation 11                                                                                                                               | Rule 9(4) and Rule<br>13(3)                                                                                                           | Regulation 4(6)                                                                           |
+| Regulation 2(ii) read<br>with Regulation 5(1)                                                                            | Regulation 2(v) read<br>with Regulation 5                                                                                                   |                                                                                                                                       | Regulation 4(7)                                                                           |
+| Paragraph 2 or 3 of<br>Schedule 1 (Issue of<br>shares without<br>approval of RBI or<br>Government,<br>wherever required) | Regulation 16.B (Issue<br>of shares without<br>approval of RBI or<br>Government, wherever<br>required)                                      |                                                                                                                                       | Regulation 4(11)                                                                          |
+| Regulation 10A (b)(i)<br>read with paragraph<br>10 of Schedule 1                                                         | Regulation 13.1(4)                                                                                                                          |                                                                                                                                       |                                                                                           |
+| Regulation 10B (2)<br>read with paragraph<br>10 of Schedule 1                                                            | Regulation 4<br>(Receiving investment<br>in India from non<br>resident or taking on<br>record transfer of<br>shares by investee<br>company) |                                                                                                                                       |                                                                                           |
+
+| Regulations<br>under<br>Notification<br>No.<br>FEMA<br>20/2000-RB<br>dated May 3, 2000                                                      | Regulations<br>under<br>Notification No. FEMA<br>20(R)/2017-RB<br>dated<br>November 07, 2017 | Rules under FEM<br>(Non–Debt<br>Instruments)<br>Rules, 2019 dated<br>October 17, 2019 | Regulations<br>under Notification<br>No. FEMA<br>395/2019-RB<br>dated October 17,<br>2019 |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Regulation 4<br>(Receiving<br>investment in India<br>from non-resident or<br>taking on record<br>transfer of shares by<br>investee company) | Regulation 13.1(11)                                                                          |                                                                                       |                                                                                           |
+| Regulation<br>14(6)(ii)(a)                                                                                                                  | Regulations 13.1(7)<br>and 13.1(8)                                                           |                                                                                       |                                                                                           |
+| Paragraphs 7(1) (for<br>the period upto<br>02.03.2017) and<br>6(1) (for the period<br>03.03.2017 to<br>06.11.2017) of<br>Schedule 9         | Regulation 10(5)                                                                             |                                                                                       |                                                                                           |
+| Regulation 10(A)(a)                                                                                                                         |                                                                                              |                                                                                       |                                                                                           |
+
+|      | Type of contravention                                                                              | Formula                                                                                                                                                                                                      |                                           |
+|------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| i.   | 1] Reporting/<br>submission<br>Contraventions<br>under<br>provisions of<br>FEMA 20/ FEMA           | Fixed<br>amount:<br>INR<br>10,000/-<br>(applied<br>once<br>for<br>each<br>regulation/ rule contravened, in a compounding application)<br>plus<br>Variable amount:                                            |                                           |
+|      | 20(R)/ FEMA 395                                                                                    | Amount under                                                                                                                                                                                                 | Compounding amount<br>that may be imposed |
+| ii.  | FEMA<br>3/<br>FEMA<br>3(R)                                                                         | Contravention (in INR)                                                                                                                                                                                       | (in INR)                                  |
+| iii. | FEMA 120/ FEMA<br>400                                                                              | Less than 10 lakh                                                                                                                                                                                            | 1,000 per Year                            |
+| iv.  | Any other reporting                                                                                | 10 lakhs or more and below 40<br>lakhs                                                                                                                                                                       | 2,500 per year                            |
+|      | contraventions<br>(except<br>those<br>in<br>Row 2 below and                                        | 40 lakhs or more and below 100<br>lakhs                                                                                                                                                                      | 7,000 per year                            |
+|      | of LO/BO/PO)                                                                                       | 1 crore or more and below 10<br>crore                                                                                                                                                                        | 50,000 per year                           |
+|      |                                                                                                    | 10 crore or more and below 100<br>Crore                                                                                                                                                                      | 100,000 per year                          |
+|      |                                                                                                    | 100 crores and above                                                                                                                                                                                         | 200,000 per year                          |
+| v.   | Reporting<br>contraventi<br>ons by LO/<br>BO/ PO                                                   | As above, subject to ceiling of INR 2 lakhs. In case of Project<br>Office, the amount imposed shall be calculated on 10% of total<br>project cost.                                                           |                                           |
+| APR/ | 2] Submission of AAC/<br>FLAR/<br>Share<br>certificate<br>Non-submission/<br>delayed submission of | INR 10,000 per AAC/ APR/ FCGPR (B) / FLA Return delayed.<br>Delayed/Non receipt of share certificate – INR.10000/- per<br>year, the total amount being subject to ceiling of 300% of the<br>amount invested. |                                           |
+| i.   | APR/<br>share<br>certificates (FEMA<br>120/ FEMA 400) or                                           |                                                                                                                                                                                                              |                                           |
+| ii.  | AAC<br>(FEMA<br>22/<br>FEMA 22(R)) or                                                              |                                                                                                                                                                                                              |                                           |
+| iii. | FCGPR (B) or FLA<br>Returns - FEMA 20<br>/ FEMA 20 (R) /<br>FEMA 120/ FEMA<br>395/ FEMA 400        |                                                                                                                                                                                                              |                                           |
+
+| 3]                                                                            | Fixed Amount: INR 30,000/- (applied once for each regulation/                                                                                       |                                                                                            |  |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--|
+| A] Allotment/ Refunds                                                         | rule contravened, in a compounding application) plus                                                                                                |                                                                                            |  |
+| Non-allotment of shares                                                       | Variable amount:                                                                                                                                    |                                                                                            |  |
+| or allotment/ refund after<br>the stipulated period for<br>Foreign Investment | Period of delay/ non<br>submission, as applicable                                                                                                   | Variable amount that<br>may be imposed as<br>percentage of "amount<br>under contravention" |  |
+| B] Contraventions<br>(Other than the reporting                                | Less than 1 year                                                                                                                                    | 0.30%                                                                                      |  |
+| contraventions<br>mentioned in Para 1(v)<br>above) by LO/ BO/ PO              | 1 year and above but less than 2<br>years                                                                                                           | 0.35%                                                                                      |  |
+|                                                                               | 2 years and above but less than 3<br>years                                                                                                          | 0.40%                                                                                      |  |
+|                                                                               | 3 years and above but less than 4<br>years                                                                                                          | 0.45%                                                                                      |  |
+|                                                                               | 4 years and above but less than 5<br>years                                                                                                          | 0.50%                                                                                      |  |
+|                                                                               | 5 years or more                                                                                                                                     | 0.75%                                                                                      |  |
+|                                                                               | (For project offices the amount of contravention shall be<br>deemed to be 10% of the cost of project).                                              |                                                                                            |  |
+| 4] Any<br>contravention<br>pertaining to issuance                             | Fixed Amount:<br>INR 5,00,000/-<br>(applied once for each<br>regulation/ rule contravened, in a compounding application)<br>plus                    |                                                                                            |  |
+| of any guarantee (other<br>than<br>reporting                                  |                                                                                                                                                     |                                                                                            |  |
+| contraventions)                                                               | Variable amount:<br>Duration of contravention                                                                                                       | Variable amount that<br>may be imposed as<br>percentage of "amount                         |  |
+|                                                                               | Less than 1 year                                                                                                                                    | under contravention"<br>0.050%                                                             |  |
+|                                                                               | 1 year and above but less than 2<br>years                                                                                                           | 0.055%                                                                                     |  |
+|                                                                               | 2 years and above but less than 3<br>years                                                                                                          | 0.060%                                                                                     |  |
+|                                                                               | 3 years and above but less than 4<br>years                                                                                                          | 0.065%                                                                                     |  |
+|                                                                               | 4 years and above but less than 5<br>years                                                                                                          | 0.070%                                                                                     |  |
+|                                                                               | 5 years or more                                                                                                                                     | 0.075%                                                                                     |  |
+|                                                                               | In case the contravention includes issue of guarantees for raisin<br>loans which are invested back into India, the amount impose<br>may be trebled. |                                                                                            |  |
+| 5] All<br>other<br>non                                                        | Fixed Amount: INR 50,000/- (applied once for each regulation/                                                                                       |                                                                                            |  |
+| reporting contraventions                                                      | rule contravened, in a compounding application) plus                                                                                                |                                                                                            |  |
+
+| Duration of contravention                  | Variable amount that<br>may be imposed as<br>percentage of "amount<br>under contravention" |
+|--------------------------------------------|--------------------------------------------------------------------------------------------|
+| Less than 1 year                           | 0.50%                                                                                      |
+| 1 year and above but less than 2<br>years  | 0.55%                                                                                      |
+| 2 years and above but less than 3<br>years | 0.60%                                                                                      |
+| 3 years and above but less than 4<br>years | 0.65%                                                                                      |
+| 4 years and above but less than 5<br>years | 0.70%                                                                                      |
+| 5 years or more                            | 0.75%                                                                                      |
+
+| Sr.<br>No. | Name of<br>the<br>Applicant | Details of<br>contraventions<br>(provisions of the<br>Act/Regulation/Rules<br>compounded) | Date of<br>compounding<br>order | Amount imposed<br>for compounding<br>ofcontraventions |
+|------------|-----------------------------|-------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------|
+|------------|-----------------------------|-------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------|
+
+| S.No                                             | RBI's Regional  | Account No. | IFSC Code   | Email Id                    |  |
+|--------------------------------------------------|-----------------|-------------|-------------|-----------------------------|--|
+|                                                  | Office          |             |             |                             |  |
+| 1                                                | Ahmedabad       | 186003001   | RBIS0AHPA01 | fedahmedabad@rbi.org.in     |  |
+| 2                                                | Andhra Pradesh  | 186003001   | RBIS0APPA01 | fedapro@rbi.org.in          |  |
+| 3                                                | Bengaluru       | 8024133     | RBIS0BGPA01 | firmsbengaluru@rbi.org.in   |  |
+| 4                                                | Bhopal          | 186003001   | RBIS0BLPA01 | fedbhopal@rbi.org.in        |  |
+| 5                                                | Bhubaneswar     | 186003001   | RBIS0BBPA01 | fedbhubaneswar@rbi.org.in   |  |
+| 6                                                | Chandigarh      | 186003001   | RBIS0CGPA01 | fedchandigarh@rbi.org.in    |  |
+| 7                                                | Chennai         | 186003001   | RBIS0CNPA01 | helpfirmschennai@rbi.org.in |  |
+| 8                                                | Guwahati        | 186003001   | RBIS0GWPA01 | fedguwahati@rbi.org.in      |  |
+| 9                                                | Hyderabad       | 186003001   | RBIS0NEFTHY | fedhyderabad@rbi.org.in     |  |
+| 10                                               | Jaipur          | 186003001   | RBIS0JPPA01 | fedjaipur@rbi.org.in        |  |
+| 11                                               | Jammu           | 8714295     | RBIS0JMPA01 | fedjammu@rbi.org.in         |  |
+| 12                                               | Kanpur          | 186003001   | RBIS0KNPA01 | fedkanpur@rbi.org.in        |  |
+| 13                                               | Kochi           | 186003001   | RBIS0KCPA01 | fedrbikochi@rbi.org.in      |  |
+| 14                                               | Kolkata         | 186003001   | RBIS0KLPA01 | fedkolkata@rbi.org.in       |  |
+| 15                                               | Mumbai          | 4802413301  | RBIS0MBPA04 | fedmro@rbi.org.in           |  |
+| 16                                               | New Delhi       | 186003001   | RBIS0NDPA01 | fednewdelhi@rbi.org.in      |  |
+| 17                                               | Panaji          | 186003001   | RBIS0PJPA01 | fedpanaji@rbi.org.in        |  |
+| 18                                               | Patna           | 186003001   | RBIS0PTPA01 | fedpatna@rbi.org.in         |  |
+| Details of Central office and CO Cell, New Delhi |                 |             |             |                             |  |
+| 1                                                | Central Office, | 41861403801 | RBIS0MBPA04 | fedcocefa@rbi.org.in        |  |
+|                                                  | Mumbai          |             |             |                             |  |
+| 2                                                | FED CO Cell,    | 186003001   | RBIS0NDPA01 | fedconewdelhi@rbi.org.in    |  |
+|                                                  | New Delhi       |             |             |                             |  |
+
+| S.No | RBI's Regional Office | Address                                               |  |  |
+|------|-----------------------|-------------------------------------------------------|--|--|
+| 1    | Ahmedabad             | Reserve Bank of India                                 |  |  |
+|      |                       | Near Gandhi Bridge, Ahmedabad, India.                 |  |  |
+|      |                       | Tel: 079 -27540943/<br>27540093                       |  |  |
+| 2    | Andhra Pradesh        | Reserve Bank of India                                 |  |  |
+|      |                       | 1st Floor and 3rd Floor, 6-1-56, Secretariat Road,    |  |  |
+|      |                       | Saifabad, Hyderabad-500004.                           |  |  |
+|      |                       | Tel: 040-2323 2785                                    |  |  |
+| 3    | Bengaluru             | Reserve Bank of India                                 |  |  |
+|      |                       | P.B No. 5467, 10/3/8, Nrupathunga Road,               |  |  |
+|      |                       | Bengaluru -<br>560001                                 |  |  |
+|      |                       | Tel: 080-22212789,                                    |  |  |
+| 4    | Bhopal                | Reserve Bank of India                                 |  |  |
+|      |                       | Hoshangabad Road, P.B. No.32,                         |  |  |
+|      |                       | Bhopal-462011.                                        |  |  |
+|      |                       | Tel: 0755-2550233                                     |  |  |
+| 5    | Bhubaneswar           | Reserve Bank of India                                 |  |  |
+|      |                       | Pt. Jawaharlal Nehru Marg, P.B.No.16,                 |  |  |
+|      |                       | Bhubaneswar -<br>751001, Odisha,                      |  |  |
+|      |                       | Tel: 0674-2392800                                     |  |  |
+| 6    | Chandigarh            | Reserve Bank of India                                 |  |  |
+|      |                       | Central Vista, Sector 17, Chandigarh -<br>160017.     |  |  |
+|      |                       | Tel: 0172-2721071,                                    |  |  |
+| 7    | Chennai               | Reserve Bank of India                                 |  |  |
+|      |                       | Fort Glacis, No. 16, Rajaji Salai,<br>Chennai -600001 |  |  |
+|      |                       | Tel: 044 –<br>2536 1631                               |  |  |
+| 8    | Guwahati              | Reserve Bank of India,                                |  |  |
+|      |                       | Pan Bazaar, Station Road, Guwahati-<br>781001         |  |  |
+|      |                       | Tel: 0361-3513072                                     |  |  |
+| 9    | Hyderabad             | Reserve Bank of India                                 |  |  |
+|      |                       | 6-1-56, Secretariat Road, Saifabad,                   |  |  |
+|      |                       | Hyderabad-500004.                                     |  |  |
+
+|    |           | Tel: 040-23230863/ 23267300                  |  |  |  |
+|----|-----------|----------------------------------------------|--|--|--|
+| 10 | Jaipur    | Reserve Bank of India                        |  |  |  |
+|    |           | Rambagh<br>Circle, Tonk Road, Jaipur-302004. |  |  |  |
+|    |           | Tel: 0141-2563794/ 2577961                   |  |  |  |
+| 11 | Jammu     | Reserve Bank of India                        |  |  |  |
+|    |           | Rail Head Complex, Jammu -<br>180012.        |  |  |  |
+|    |           | Tel: 0191-247 0061                           |  |  |  |
+| 12 | Kanpur    | Reserve Bank of India,                       |  |  |  |
+|    |           | Post Box No. 82/142,                         |  |  |  |
+|    |           | Mahatma Gandhi Road, Kanpur-<br>208001.      |  |  |  |
+|    |           | Tel: 0512-2305949                            |  |  |  |
+| 13 | Kochi     | Reserve Bank of India                        |  |  |  |
+|    |           | Banerji Road, Ernakulam North,               |  |  |  |
+|    |           | Post Box No. 3065, Kochi -<br>682018.        |  |  |  |
+|    |           | Tel: 0484-2402911/ 2400985                   |  |  |  |
+| 14 | Kolkata   | Reserve Bank of India                        |  |  |  |
+|    |           | 15, N S Road, Kolkata -<br>700001            |  |  |  |
+|    |           | Tel: 033-22303299                            |  |  |  |
+| 15 | Mumbai    | Reserve Bank of India,                       |  |  |  |
+|    |           | Mumbai Regional Office,                      |  |  |  |
+|    |           | Shahid Bhagat Singh Road, Kala Ghoda, Fort,  |  |  |  |
+|    |           | Mumbai, Maharashtra 400001, India            |  |  |  |
+|    |           | Tel: 022 -<br>22704715                       |  |  |  |
+| 16 | New Delhi | Reserve Bank of India                        |  |  |  |
+|    |           | 6, Sansad Marg, New Delhi -<br>110001.       |  |  |  |
+|    |           | Tel: 011-23325225                            |  |  |  |
+| 17 | Panaji    | Reserve Bank of India                        |  |  |  |
+|    |           | 7th Floor, Gera's Imperium-II                |  |  |  |
+|    |           | Patto, Panaji -<br>403001,                   |  |  |  |
+|    |           | Tel: 0832-2467888                            |  |  |  |
+| 18 | Patna     | Reserve Bank of India                        |  |  |  |
+|    |           | South Gandhi Maidan,                         |  |  |  |
+|    |           | Patna -<br>800001, India.                    |  |  |  |
+|    |           | Tel: 0612-2323291/2323109                    |  |  |  |
+
+| Sl.No. | Name of<br>Remitter | Total<br>Amount<br>(INR) | Date of<br>Receipt | Reported to RBI<br>on* | Delay if any |
+|--------|---------------------|--------------------------|--------------------|------------------------|--------------|
+|        |                     |                          |                    |                        |              |
+|        |                     |                          |                    |                        |              |
+|        | Total               |                          |                    |                        |              |
+
+| Name of<br>Investor | allotment of<br>Date of<br>shares | Number of<br>shares<br>allotted | Amount for<br>which shares<br>allotted | Date of<br>reporting to<br>RBI* | Delay if<br>any |
+|---------------------|-----------------------------------|---------------------------------|----------------------------------------|---------------------------------|-----------------|
+|                     |                                   |                                 |                                        |                                 |                 |
+|                     | Total                             |                                 |                                        |                                 |                 |
+
+| Sl.<br>No. | Name of<br>Remitter | Total<br>Amount<br>(INR) | Date of<br>Receipt | Excess<br>share<br>application<br>money | Date of<br>refund of<br>share<br>Application<br>money | Amount<br>in forex | RBI<br>Approval<br>letter and<br>date |
+|------------|---------------------|--------------------------|--------------------|-----------------------------------------|-------------------------------------------------------|--------------------|---------------------------------------|
+|            |                     |                          |                    |                                         |                                                       |                    |                                       |
+|            | Total               |                          |                    |                                         |                                                       |                    |                                       |
+
+|            | Authorised Capital |                       |                     |                          |                            |
+|------------|--------------------|-----------------------|---------------------|--------------------------|----------------------------|
+| Sl.<br>No. | Date               | Authorised<br>Capital | With effect<br>from | Date of Board<br>meeting | Date of filing with<br>ROC |
+|            |                    |                       |                     |                          |                            |
+|            |                    |                       |                     |                          |                            |
+
+| Date of draw | Amount in Foreign | Amount in |  |
+|--------------|-------------------|-----------|--|
+| down         | Currency          | INR       |  |
+
+| S.No | A.P (DIR Series) Circular         | Date              |
+|------|-----------------------------------|-------------------|
+| 1    | A.P.(DIR Series) Circular No. 31  | February 1, 2005  |
+| 2    | A.P.(DIR Series) Circular No. 56  | June 28, 2010     |
+| 3    | A.P.(DIR Series) Circular No. 57  | December 13, 2011 |
+| 4    | A.P.(DIR Series) Circular No. 11  | July 31, 2012     |
+| 5    | A.P.(DIR Series) Circular No. 76  | January 17, 2013  |
+| 6    | A.P.(DIR Series) Circular No. 20  | August 12, 2013   |
+| 7    | A.P.(DIR Series) Circular No. 117 | April 4, 2014     |
+| 8    | A.P.(DIR Series) Circular No. 36  | October 16, 2014  |
+| 9    | A.P.(DIR Series) Circular No. 73  | May 26, 2016      |
+| 10   | A.P.(DIR Series) Circular No. 29  | February 02, 2017 |
+| 11   | A.P.(DIR Series) Circular No. 6   | November 17, 2020 |
+

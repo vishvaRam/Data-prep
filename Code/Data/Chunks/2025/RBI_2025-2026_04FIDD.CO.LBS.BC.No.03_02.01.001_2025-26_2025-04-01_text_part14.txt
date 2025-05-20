@@ -1,0 +1,47 @@
+ data in approved format by controlling office of each bank working at state level.
+- There are 29 formats (flat files) for the data pertains to CBS or available through MIS of the bank.
+- Other than formats mentioned above, there are 04 excel formats for data pertains to FLCs & RSETI, which is required to be collected from the controlling office of banks at state level.
+- For Data pertaining to State Government/ Other data (which is not available on CBS or MIS of the bank), SLBC Convenor bank may follow their existing procedure or devise the new procedure.
+- SLBC Convenor bank must ensure that LDMs are able to access web portal of SLBC to download the block wise data of their respective district.
+- SLBC Convenor bank should provide the access to controlling offices of banks of respective state on SLBC web portal to download the uploaded data to verify the correctness of data.
+- SLBC Convenor bank must ensure that their data feeding website/web portal is having a provision for uploading the block wise ACP target data in approved format by LDMs of that state.
+
+# **Role of Lead District Managers (LDMs)**
+
+- LDMs must upload the block wise ACP target of the district on SLBC portal of the state, by 15th April of the starting of the financial year.
+- LDMs shall download the block wise information of district for review purpose.
+
+The flow chart describing the procedure to be followed in this regard is as follows.
+
+![](_page_67_Figure_4.jpeg)
+
+## **FLOW CHART**
+
+#### <span id="page-68-0"></span>**LBS – MIS Annex IV**
+
+Statement showing Achievement vis-à-vis Targets under the Annual Credit Plan (ACP) for the quarter ended \_\_\_\_
+
+Name of the State/Union Territory: No. of accounts in actuals, Amount in thousands
+
+
+#### <span id="page-69-0"></span>**Compendium of instructions - District Level Review Committee (DLRC)**
+
+**Preamble:** The District Level Review Committee (DLRC), a district level forum under the aegis of Lead Bank Scheme, primarily aims at facilitating stakeholders to undertake review of the district level credit plans and to devise workable solutions for enhancing flow of credit to deserving sectors, besides serving as a platform for Public Representatives to share their valuable feedback for improvising strategy.
+
+**Objectives:** DLRC forum shall function with the objective of evaluating the progress made in the implementation of Schemes included in District Credit Plan/ Annual Action Plan*,* identifying problem areas and devising suitable remedial steps. The forum shall act as a platform for public representatives to share their views and opinions on credit needs of the districts and issues and concerns relating to banking services etc. While the objective of the DCC is to serve as a coordination and implementation forum, the DLRC is expected to serve as a review forum.
+
+**Composition:** The DLRC forum shall be chaired by the District Collector/ District Magistrate and attended by all members of the District Consultative Committee (DCC). Public representatives (MPs/ MLAs/ Zilla Panchayat Chiefs) shall invariably invited to DLRC meetings. The forum may also have representatives of State Minority Commission, SC/ ST Corporation and representatives of the group of beneficiaries of rural lending. The forum may also consider inviting people with the expertise in the fields, such as progressive farmers and local industrialists as special invitees.
+
+The office of the Lead District Manager (LDM) shall be responsible for convening the meetings of DRLCs and for providing secretarial support for smooth functioning of the forum.
+
+**Frequency of the meetings:** DLRC meetings may be held on a quarterly basis, as hitherto.
+
+**Indicative agenda:** The primary aim of the DLRC forum shall be to review the performance under the aggregated district credit plan on a regular basis. The forum shall also undertake review of lending to priority sectors, Government Sponsored Schemes, performance of banks under various micro insurance and investment schemes launched by the Govt. of India.
+
+As the DLRC forum has public representatives as members who are well versed with the ground realities, their views and opinions on the credit needs of the district may be obtained and the same may be considered during the preparation of Potential Linked Plan (PLP) by NABARD. Responses to queries from public representatives need to be accorded highest priority and attended to promptly.
+
+#### **General instructions:**
+
+- Since public representative are the most important constituents of the DLRC forum, Lead banks must fix dates of DLRC meetings taking into account the convenience of the MPs and circulate the agenda papers to MPs well in advance.
+- Lead banks should invariably invite MPs and other public representatives in functions conducted by banks in the districts such as opening of new branches, distribution of KCCs, SHG credit linkage programmes etc.
+- Deliberations in the DLRC forum may be held as per the indicative agenda. All other iss

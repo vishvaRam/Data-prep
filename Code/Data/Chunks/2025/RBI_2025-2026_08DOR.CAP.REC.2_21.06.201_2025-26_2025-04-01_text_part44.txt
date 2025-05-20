@@ -1,0 +1,62 @@
+to calculate the capital requirements for transactions with bilateral netting agreements. The bilateral netting agreements must meet the requirements set out in **[Annex 18](#page-304-0)** (part A) of these guidelines.
+
+E\* = max {0, [(Σ(E) – Σ(C)) + Σ (Es x Hs) +Σ(Efx x Hfx)]}
+
+where:
+
+E\* = the exposure value after risk mitigation
+
+E = current value of the exposure
+
+C = the value of the collateral received
+
+Es = absolute value of the net position in a given security
+
+Hs = haircut appropriate to Es
+
+Efx = absolute value of the net position in a currency different from the settlement currency
+
+Hfx = haircut appropriate for currency mismatch
+
+The intention here is to obtain a net exposure amount after netting of the exposures and collateral and have an add-on amount reflecting possible price changes for the securities involved in the transactions and for foreign exchange risk if any. The net long or short position of each security included in the netting agreement will be multiplied by the appropriate haircut. All other rules regarding the calculation of haircuts stated in paragraphs 7.3.6-7.3.7 equivalently apply for banks using bilateral netting agreements for repo-style transactions.
+
+### 7.3.9 **Collateralised OTC derivatives transactions**
+
+The calculation of the counterparty credit risk charge for an individual contract will be as follows:
+
+counterparty charge = [(RC + add-on) – CA] x r x 9%
+
+where:
+
+RC = the replacement cost,
+
+add-on = the amount for potential future exposure calculated according to paragraph 5.15.3.4,
+
+CA = the volatility adjusted collateral amount under the comprehensive approach prescribed in paragraphs 7.3.6- 7.3.7 or zero if no eligible collateral is applied to the transaction, and r = the risk weight of the counterparty.
+
+When effective bilateral netting contracts are in place, RC will be the net replacement cost and the add-on will be ANet as calculated according to **[Annex 18](#page-304-0)** (part B) and paragraph 5.15.3.4. The haircut for currency risk (Hfx) should be applied when there is a mismatch between the collateral currency and the settlement currency. Even in the case where there are more than two currencies involved in the exposure, collateral and settlement currency, a single haircut assuming a 10 business day holding period scaled up as necessary depending on the frequency of mark-tomarket will be applied.
+
+### **7.4 Credit Risk Mitigation Techniques – On-Balance Sheet Netting**
+
+On-balance sheet netting is confined to loans/advances and deposits, where banks have legally enforceable netting arrangements, involving specific lien with proof of documentation. They may calculate capital requirements on the basis of net credit exposures subject to the following conditions:
+
+Where a bank,
+
+- (a) has a well-founded legal basis for concluding that the netting or offsetting agreement is enforceable in each relevant jurisdiction regardless of whether the counterparty is insolvent or bankrupt;
+- (b) is able at any time to determine the loans/advances and deposits withthe same counterparty that are subject to the netting agreement;
+- (c) monitors and controls the relevant exposures on a net basis; and
+- (d) monitors and controls its roll-off risks.
+
+it may use the net exposure of loans/advances and deposits as the basis for its capital adequacy calculation in accordance with the formula in **paragraph 7.3.6**. Loans/advances are treated as exposure and deposits as collateral. The haircuts will be zero except when a currency mismatch exists. All the requirements contained in **paragraph 7.3.6 and 7.6** will also apply.
+
+### **7.5 Credit Risk Mitigation Techniques - Guarantees**
+
+7.5.1 Where guarantees are direct, explicit, irrevocable and unconditional banks may take account of such credit protection in calculating capital requirements.
+
+7.5.2 A range of guarantors are recognised and a substitution approach will be applied. Thus, only guarantees issued by entities with a lower risk weight than the counterparty will lead to reduced capital charges since the protected portion of the counterparty exposure is assigned the risk weight of the guarantor, whereas the uncovered portion retains the risk weight of the underlying counterparty.
+
+7.5.3 Detailed operational requirements for guarantees eligible for being treated as a CRM are as under:
+
+### **7.5.4 Operational requirements for guarantees**
+
+(i) A guarantee (counter-guarantee) must represent a direct claim on the protection provider and must be explicitly referenced to specific exposures or a pool of exposures, so that the extent of the cover is clearly defined and incontrovertible. The guarantee must be irrevocable; there must be no clause in the contract that would allow the protection provider unilaterally to cancel the cover or that would increase the effective cost of cover as a result of deteriorating credit quality in the guaranteed exposure. The guarantee must also be unconditional; there should be no clause in the gu

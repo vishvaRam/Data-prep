@@ -1,0 +1,35 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2024-25/52 CO.DPSS.POLC.No.S415/02.27.019/2024-25 July 24, 2024
+
+The Chairman / Managing Director / Chief Executive Officer Authorised Payment System Operators / Participants (Banks and Non-banks)
+
+Madam / Dear Sir,
+
+# **Domestic Money Transfer – Review of Framework**
+
+The framework for Domestic Money Transfer (DMT) was introduced in 2011, vide [RBI circular](https://rbi.org.in/scripts/FS_Notification.aspx?Id=6750&&fn=9&&Mode=0)  [DPSS.PD.CO.No.622/02.27.019/2011-2012 dated October 5, 2011.](https://rbi.org.in/scripts/FS_Notification.aspx?Id=6750&&fn=9&&Mode=0) There has been significant increase in the availability of banking outlets, developments in payment systems for funds transfers, and ease in fulfilling KYC requirements etc., since then; and now users have multiple digital options for funds transfer. A review was recently undertaken of various services facilitated in the current framework. Based on the review, the following changes are being made:
+
+## a) **Cash Pay-out Service**
+
+i. The remitting bank shall obtain and keep a record of the name and address of the beneficiary.
+
+### b) **Cash Pay-in Service**
+
+- i. Remitting banks / Business Correspondents (BCs) shall register the remitter based on a verified cell phone number and a self-certified 'Officially Valid Document (OVD)' as per the Master Direction – [Know Your Customer Direction 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) as amended from time to time.
+- ii. Every transaction by a remitter shall be validated by an Additional Factor of Authentication (AFA).
+
+भुगतान और िनपटान प्रणाली िवभाग, कें द्रीय कायार्लय, 14वीमंिजल, कें द्रीयकायार्लयभवन,शहीदभगतिसंहमागर्, फोटर्, मु�ई - 400001 फोनTel: (91-22) 2264 4995; फै क् सFax: (91-22) 22691557; ई-मेलe-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in) Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400001
+
+![](_page_0_Picture_15.jpeg)
+
+- iii. Remitting banks and their BCs shall conform to provisions of the Income Tax Act, 1961 and the rules / regulations framed thereunder (as amended from time to time), pertaining to cash deposits.
+- iv. Remitter bank shall include remitter details as part of the IMPS / NEFT transaction message.
+- v. The transaction message shall include an identifier to identify the fund transfer as a cash-based remittance.
+- 2. The guidelines on Card-to-Card transfer are excluded from the purview of the DMT framework and shall be governed under the guidelines / approvals granted for such instruments.
+- 3. All other instructions in the above [circular dated October 5, 2011](https://rbi.org.in/scripts/FS_Notification.aspx?Id=6750&&fn=9&&Mode=0) including the limits in size of transactions shall continue to be applicable.
+- 4. This circular is issued under Section 18 read with Section 10 (2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and shall come into effect from November 01, 2024.
+
+Yours faithfully,
+
+(Gunveer Singh) Chief General Manager-In-Charge

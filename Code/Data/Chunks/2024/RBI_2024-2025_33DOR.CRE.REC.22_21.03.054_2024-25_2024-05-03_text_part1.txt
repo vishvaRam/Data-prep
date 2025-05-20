@@ -1,0 +1,38 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2024-25/33 DOR.CRE.REC.22/21.03.054/2024-25 May 03, 2024
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Madam/Dear Sir,
+
+## **Banks' Exposure to Capital Market - Issue of Irrevocable Payment Commitments (IPCs)**
+
+Please refer to [circular DBOD.Dir.BC.68/13.03.00/2011-12 dated December 27, 2011](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=6903&Mode=0) on "Banks' Exposure to Capital Market - Issue of Irrevocable Payment Commitments (IPCs)" and mailbox clarification dated September 11, 2012 on "Applicability of Irrevocable Payment Commitments".
+
+2. The risk mitigation measures prescribed in the aforesaid circular were based on T+2 rolling settlement for equities (T being the Trade day). The Stock Exchanges have since introduced T+1 rolling settlement, and accordingly the extant guidelines on issuance of IPCs by banks have been reviewed. Henceforth, all IPCs issued by custodian banks under the T+1 settlement cycle shall comply with the following instructions:
+
+i) Only those custodian banks will be permitted to issue IPCs, who have a clause in the Agreement with clients giving the banks an inalienable right over the securities to be received as pay out in any settlement. However, this clause will not be insisted upon if the transactions are pre-funded i.e., either clear INR
+
+�व�नयमन �वभाग, क�द्र�य कायार्लय, क�द्र�य कायार्लय भवन, 12वीं/ 13वींमंिज़ल, शह�द भगत �स ंह मागर्, फोटर्, मुंबई - 400001 टेल�फोन/ Tel No: 22661602, 22601000 फै क्स/ Fax No: 022-2270 5691
+
+Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+funds are available in the customer's account or, in case of FX deals, the bank's nostro account has been credited before the issuance of the IPC.
+
+- ii) The maximum intraday risk to the custodian banks issuing IPCs would be reckoned as Capital Market Exposure (CME) at 30 percent of the settlement amount. This is based on the assumption of 20 percent downward price movement of the equities on T+1, with an additional margin of 10 percent for further downward movement of price.
+- iii) In case margin is paid in cash, the exposure will stand reduced by the amount of margin paid. In case margin is paid by way of permitted securities to Mutual Funds / Foreign Portfolio Investors, the exposure will stand reduced by the amount of margin after adjusting for haircut as prescribed by the Exchange on the permitted securities accepted as margin.
+- iv) Under T+1 settlement cycle, the exposure shall normally be for intraday. However, in case any exposure remains outstanding at the end of T+1 Indian Standard Time, capital will have to be maintained on the outstanding capital market exposure in terms of the Master Circular – [Basel III Capital Regulations](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12652)  [dated April 1, 2024,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12652) as amended from time to time.
+- v) The underlying exposures of banks to their counterparties, emanating from the intraday CME, will be subject to limits prescribed under [Large Exposure](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0)  [Framework dated June 3, 2019,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0) as amended from time to time.
+
+3. The instructions contained in [circular DBOD.Dir.BC.68/13.03.00/2011-12 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=6903&Mode=0)  [December 27, 2011](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=6903&Mode=0) on 'Banks' Exposure to Capital Market - Issue of Irrevocable Payment Commitments (IPCs)' shall continue to remain valid for T+2 settlement cycle.
+
+4. These instructions shall come into force with immediate effect.
+
+Yours faithfully,
+
+(Vaibhav Chaturvedi) Chief General Manager

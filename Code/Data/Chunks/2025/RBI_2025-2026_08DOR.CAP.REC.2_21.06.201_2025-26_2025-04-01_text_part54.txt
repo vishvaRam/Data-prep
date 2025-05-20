@@ -1,0 +1,55 @@
+uation is prudent:
+
+- Senior management should be aware of the elements of the trading book or of other fairvalued positions which are subject to mark to model and should understand the materiality of the uncertainty this creates in the reporting of the risk/performance of the business.
+- Market inputs should be sourced, to the extent possible, in line with market prices (as discussed above). The appropriateness of the market inputs for the particular position being valued should be reviewed regularly.
+- Where available, generally accepted valuation methodologies for particular products should be used as far as possible.
+- Where the model is developed by the institution itself, it should be based on appropriate assumptions, which have been assessed and challenged by suitably qualified parties independent of the development process. The model should be developed or approved independently of the front office. It should be independently tested. This includes validating the mathematics, the assumptions and the software implementation.
+- There should be formal change control procedures in place and a secure copy of the model should be held and periodically used to check valuations.
+- Risk management should be aware of the weaknesses of the models used and how best to reflect those in the valuation output.
+- The model should be subject to periodic review to determine the accuracy of its performance (e.g., assessing continued appropriateness of the assumptions, analysis of P&L versus risk factors, comparison of actual close out values to model outputs).
+- Valuation adjustments should be made as appropriate, for example, to cover the uncertainty of the model valuation (see also valuation adjustments in paragraphs 8.8.1.2 (vi), (vii) and 8.8.2.1 to 8.8.2.4).
+
+## **Independent Price Verification**
+
+(iv) Independent price verification is distinct from daily mark-to-market. It is the process by which market prices or model inputs are regularly verified for accuracy. While daily marking-tomarket may be performed by dealers, verification of market prices or model inputs should be performed by a unit independent of the dealing room, at least monthly (or, depending on the nature of the market/trading activity, more frequently). It need not be performed as frequently as daily mark-to-market, since the objective, i.e., independent, marking of positions should reveal any error or bias in pricing, which should result in the elimination of inaccurate daily marks.
+
+(v) Independent price verification entails a higher standard of accuracy in that the market prices or model inputs are used to determine profit and loss figures, whereas daily marks are used primarily for management reporting in between reporting dates. For independent price verification, where pricing sources are more subjective, e.g., only one available broker quote, prudent measures such as valuation adjustments may be appropriate.
+
+#### **Valuation Adjustments**
+
+(vi) As part of their procedures for marking to market, banks must establish and maintain procedures for considering valuation adjustments. RBI would particularly expect banks using third-party valuations to consider whether valuation adjustments are necessary. Such considerations are also necessary when marking to model.
+
+(vii) At a minimum, banks should consider the following valuation adjustments while valuing their derivatives portfolios:
+
+- incurred CVA losses[101,](#page-112-0)
+- closeout costs,
+- operational risks,
+- early termination, investing and funding costs, and
+- future administrative costs and,
+- where appropriate, model risk.
+
+Banks may follow any recognised method/model to compute the above adjustments except provisions against incurred CVA losses. However, banks may use the following formula to calculate incurred CVA loss on derivatives transactions:
+
+## **ICVALt = Max [0,{(EEt \*RPt) - (EE0 \*RP0)}]**
+
+Where;
+
+ICVALt = Cumulative Incurred CVA loss at time 't'.
+
+EEt = Value of counterparty exposure projected after one year from 't' and discounted back to 't' using CEM and a risk free discount rate for one year
+
+EE0 = Counterparty exposure estimated at time '0' using CEM
+
+RPt = Credit spread of the counterparty as reflected in the CDS or bond
+
+In cases where market based credit spreads are not available, risk premium applicable to the counterparty according to its credit grade as per the internal credit rating system of the bank used for pricing/loan approval purposes at time 't' may be used.
+
+RP0 = Credit spread of the counterparty as reflected in the CDS or bond prices.
+
+In cases where market based credit spreads are not available, risk premium applicable to the counterparty according to its credit grade as per the internal credit rating system of the bank used for pricing / loan approval purposes at time '0' i.e. the date of the transaction.
+
+**Note**: Some of other terms used above are explained below:
+
+#### **Close-out costs**
+
+Close-out costs adjustment factors in the cost of elimin

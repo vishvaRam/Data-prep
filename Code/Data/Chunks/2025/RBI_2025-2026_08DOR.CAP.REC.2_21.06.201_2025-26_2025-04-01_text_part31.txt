@@ -1,0 +1,33 @@
+f whether the counterparty is insolvent or bankrupt, the total replacement cost
+
+<span id="page-61-0"></span> <sup>69</sup> Please refer to paragraph 7.3.8 of this Master Circular.
+
+of all contracts relevant to the trade exposure determination[70](#page-62-0) can be calculated as a net replacement cost if the applicable close-out netting sets meet the requirements set out in **[Annex 18](#page-304-0)** of these guidelines.
+
+(d) Banks will have to demonstrate that the conditions mentioned in **[Annex 18](#page-304-0)** are fulfilled on a regular basis by obtaining independent and reasoned legal opinion as regards legal certainty of netting of exposures to QCCPs. Banks may also obtain from the QCCPs, the legal opinion taken by the respective QCCPs on the legal certainty of their major activities such as settlement finality, netting, collateral arrangements (including margin arrangements); default procedures etc.
+
+## *Clearing member exposures to clients*
+
+The clearing member will always capitalise its exposure (including potential CVA[71](#page-62-1) risk exposure) to clients as bilateral trades, irrespective of whether the clearing member guarantees the trade or acts as an intermediary between the client and the QCCP. However, to recognize the shorter close-out period for cleared transactions, clearing members can capitalize the exposure to their clients by multiplying the EAD by a scalar which is not less than 0.71.
+
+### *Client bank exposures to clearing member*
+
+- I. Where a bank is a client of the clearing member, and enters into a transaction with the clearing member acting as a financial intermediary (i.e., the clearing member completes an offsetting transaction with a QCCP), the client's exposures to the clearing member will receive the treatment applicable to the paragraph "clearing member exposure to QCCPs" of this section (mentioned above), if following conditions are met:
+	- (a) The offsetting transactions are identified by the QCCP as client transactions and collateral to support them is held by the QCCP and / or the clearing member, as applicable, under arrangements that prevent any losses to the client due to:
+		- (i) the default or insolvency of the clearing member;
+		- (ii) the default or insolvency of the clearing member's other clients; and
+		- (iii) the joint default or insolvency of the clearing member and any of its other clients.
+
+The client bank must obtain an independent, written and reasoned legal opinion that concludes that, in the event of legal challenge, the relevant courts and administrative authorities would find
+
+<span id="page-62-0"></span> <sup>70</sup> It is clarified that the trade exposure (i.e., both replacement cost and potential future exposure) can be computed on net basis, provided other conditions stated in paragraph 5.15.3.8 are met.
+
+<span id="page-62-1"></span><sup>71</sup> Please refer to Guidelines on Implementation of Basel III Capital Regulations in India - Clarifications [\(Circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7911&Mode=0)  [DBOD.No.BP.BC.88/21.06.201/2012-13 dated March 28, 2013](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7911&Mode=0) read with [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8662&Mode=0)  [DBOD.No.BP.BC.81/21.06.201/2013-14 dated December 31, 2013\)](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8662&Mode=0) in terms of which CVA risk capital charges would become effective as on April 1, 2014.
+
+that the client would bear no losses on account of the insolvency of an intermediary under the relevant law, including:
+
+- the law(s) applicable to client bank, clearing member and QCCP;
+- the law of the jurisdiction(s) of the foreign countries in which the client bank, clearing member or QCCP are located
+- the law that governs the individual transactions and collateral; and
+- the law that governs any contract or agreement necessary to meet this condition (a).
+- (b) Relevant laws, regulations, rules, contractual, or administrative arrangements provide that the offsetting transactions with the defaulted or insolvent clearing member are highly likely to continue to be indirectly transacted through the QCCP, or by the QCCP, should the clearing member default or become insolvent. In such circumstances, the client positions and collateral with the QCCP will be transferred at the market value unless the client requests to close out the position at the market value. In this context, it may be clarified that if relevant laws, regulations, rules, contractual or administrative agreements provide that trades are highly likely to be ported, this condition can be considered to be met. If there is a clear precedent for transactions being ported at a QCCP and intention of the participants is to continue this practice, then these factors should be considered while assessing if trades are highly likely to be ported. The fact that QCCP documentation does not prohibit client trades from being ported

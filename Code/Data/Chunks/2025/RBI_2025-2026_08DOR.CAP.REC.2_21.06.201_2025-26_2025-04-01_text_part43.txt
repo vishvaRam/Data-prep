@@ -1,0 +1,45 @@
+e framework for collateral haircuts distinguishes between repo-style transactions (i.e., repo/reverse repos and securities lending/borrowing[91](#page-84-0)), "other capitalmarket-driven transactions" (i.e., OTC derivatives transactions and margin lending) and secured lending. In capital-market-driven transactions and repo-style transactions, the documentation contains remargining clauses; in secured lending transactions, it generally does not. In view of different holding periods, in the case of these transactions, the minimum holding period shall be taken as indicated below:
+
+<span id="page-84-0"></span> <sup>91</sup> In terms o[f Reserve Bank of India \(Government Securities Lending\) Directions, 2023 dated December 27, 2023.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12580&Mode=0)
+
+
+The haircut for the transactions with other than 10 business-days minimum holding period, as indicated above, will have to be adjusted by scaling up/down the haircut for 10 business–days indicated in the Table 12, as per the formula given in paragraph 7.3.7 (xi) below.
+
+(x) Adjustment for non-daily mark-to-market or remargining:
+
+In case a transaction has margining frequency different from daily margining assumed, the applicable haircut for the transaction will also need to be adjusted by using the formula given in paragraph 7.3.7 (xi) below.
+
+(xi) Formula for adjustment for different holding periods and / or non-daily mark-to-market or remargining:
+
+Adjustment for the variation in holding period and margining / mark-to-market, as indicated in paragraph (ix) and (x) above will be done as per the following formula:
+
+$$H = H\_{\rm tot} \sqrt{\frac{N\vec{\kappa} + (T\vec{\kappa} - 1)}{10}}$$
+
+Where;
+
+H = haircut
+
+H10 = 10-business-day standard supervisory haircut for instrument
+
+NR = actual number of business days between remargining for capital market transactions or revaluation for secured transactions.
+
+TM = minimum holding period for the type of transaction
+
+### 7.3.8 **Capital Adequacy Framework for Repo-/Reverse Repo-style transactions.**
+
+7.3.8.1 The repo-style transactions also attract capital charge for Counterparty credit risk (CCR), in addition to the credit risk and market risk. The CCR is defined as the risk of default by the counterparty in a repo-style transaction, resulting in non-delivery of the security lent/pledged/sold or non-repayment of the cash.
+
+A. Treatment in the books of the borrower of funds:
+
+- (i) Where a bank has borrowed funds by selling / lending or posting, as collateral, of securities, the 'Exposure' will be an off-balance sheet exposure equal to the 'market value' of the securities sold/lent as scaled up after applying appropriate haircut. For the purpose, the haircut as per Table 12 would be used as the basis which should be applied by using the formula in paragraph 7.3.7 (xi), to reflect minimum (prescribed) holding period of five business-days for repo-style transactions and the variations, if any, in the frequency of re-margining, from the daily margining assumed for the standard supervisory haircut. The 'off-balance sheet exposure' will be converted into 'on-balance sheet' equivalent by applying a credit conversion factor of 100 per cent, as per item 5 in **Table 8** (paragraph 5.15).
+- (ii) The amount of money received will be treated as collateral for the securities lent/sold/pledged. Since the collateral is cash, the haircut for it would be zero.
+- (iii) The credit equivalent amount arrived at (i) above, net of amount of cash collateral, will attract a risk weight as applicable to the counterparty.
+- (iv) As the securities will come back to the books of the borrowing bank after the repo period, it will continue to maintain the capital for the credit risk in the securities in the cases where the securities involved in repo are held under banking book, and capital for market risk in cases where the securities are held under trading book. The capital charge for credit risk / specific risk would be determined according to the credit rating of the issuer of the security. In the case of Government securities, the capital charge for credit / specific risk will be 'zero'.
+- B. Treatment in the books of the lender of funds:
+	- (i) The amount lent will be treated as on-balance sheet/funded exposure on the counter party, collateralised by the securities accepted under the repo.
+	- (ii) The exposure, being cash, will receive a zero haircut.
+	- (iii) The collateral will be adjusted downwards/marked down as per applicable haircut.
+	- (iv) The amount of exposure reduced by the adjusted amount of collateral, will receive a risk weight as applicable to the counterparty, as it is an on- balance sheet exposure.
+	- (v) The lending bank will not maintain any capital charge for the security received by it as collateral during the repo period, since such collateral does not enter its balance sheet but is only held as a bailee.
+
+7.3.8.2 The formula in paragraph 7.3.6 will be adapted as follows 

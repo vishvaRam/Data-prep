@@ -1,0 +1,69 @@
+ies with the minimum applicable regulatory CRAR, both as per the latest audited financial statements and the last CRAR as assessed by RBI during statutory inspection.
+
+b) Such refund does not result in the CRAR of the bank falling below the minimum regulatory CRAR applicable to the bank.
+
+For the purpose of computing CRAR as above, accretion to capital funds after the balance sheet date[5](#page-8-3), other than by way of profits, may be taken into account. Any reduction in capital funds, including by way of losses, during the aforesaid period shall also be considered.
+
+#### <span id="page-8-1"></span>**8. Measures for protection of investors in regulatory capital instruments specified in [Annex 3](#page-19-0) and [Annex 4](#page-25-0)**
+
+For the purpose of enhancing investor education on the risk characteristics of regulatory capital instruments, UCBs, which issue regulatory capital instruments
+
+ <sup>4</sup> Subject to the member fulfilling all the eligibility conditions for refund.
+
+<span id="page-8-3"></span><span id="page-8-2"></span><sup>5</sup> Capital funds shall be as per audited data.
+
+specified in [Annex](#page-19-0) 3 and [Annex](#page-25-0) 4 shall adhere to the following conditions:
+
+a) For floating rate instruments, banks should not use its Fixed Deposit rate as benchmark.
+
+b) A specific sign-off, as quoted below, from the investors, for having understood the features and risks of the instruments, may be incorporated in the common application form of the proposed issue:
+
+"By making this application, I / we acknowledge that I / we have understood the terms and conditions of the issue of [Name of the share/security] being issued by [Name of the bank] as disclosed in the Prospectus and Offer Document".
+
+c) UCBs shall ensure that all the publicity material / offer document, application form and other communication with the investor should clearly state in bold letters (Arial font, size 14, equivalent size in English / Vernacular version) how a PNCPS / PCPS / RNCPS / RCPS / PDI / LTSB, as the case may be, is different from a fixed deposit, and that these instruments are not covered by deposit insurance.
+
+d) The procedure for transfer to legal heirs in the event of death of the subscriber of the instrument should also be specified.
+
+#### <span id="page-9-0"></span>**9. Returns**
+
+Banks should furnish to the respective Regional Offices annual return indicating (i) capital funds, (ii) conversion of off-balance sheet / non-funded exposures, (iii) calculation of risk weighted assets, and (iv) calculation of capital funds and risk assets ratio. The format of the return is given in the [Annex](#page-31-0) 5. The returns should be signed by two officials who are authorized to sign the statutory returns submitted to Reserve Bank.
+
+## **Computation of Net Worth by UCBs**
+
+<span id="page-10-0"></span>
+
+
+<span id="page-10-1"></span> <sup>6</sup> Please refer to Master Direction – [Reserve Bank of India \(Classification, Valuation and Operation of](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12473)  [Investment Portfolio of Primary \(Urban\) Co-operative Banks\) Directions, 2023 dated April 1, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12473) for guidelines on creation of Investment Fluctuation Reserve (IFR) by Co-operative banks
+
+
+### **Note**:
+
+- 1. Funds raised through Perpetual Debt Instruments included in Tier I capital and debt capital instruments included in Tier II capital should not be reckoned as part of net worth.
+- 2. Perpetual Cumulative Preference Shares (PCPS), Redeemable Non-Cumulative Preference Shares (RNCPS) and Redeemable Cumulative Preference Shares (RCPS) included in Tier II capital should not be reckoned as part of net worth.
+- 3. No general or specific provisions should be included in computation of net worth.
+
+### **Prudential Norms - Risk Weights for Computation of CRAR**
+
+#### <span id="page-12-0"></span>**I. A**. **Funded Risk Assets**
+
+
+
+
+### **I. B. Off-Balance Sheet Items**
+
+The credit risk exposure attached to off-Balance Sheet items has to be first calculated by multiplying the face amount of each of the off-Balance Sheet items by 'credit conversion factors' as indicated in the table below. This will then have to be again multiplied by the weights attributable to the relevant counter-party as specified above.
+
+
+
+*Note: At present, Primary Urban Cooperative Banks may not be undertaking most of the off balance sheet transactions. However, keeping in view their potential for expansion, riskweights are indicated against various off balance sheet items, which, Primary Urban Cooperative Banks may undertake in future.*
+
+**II. Additional Risk Weights** (applicable to Authorised Dealers only)
+
+#### 1. **Foreign Exchange and Interest Rate related Contracts**
+
+- 1.1 Foreign exchange contracts include the following:
+	- (a) Cross currency swaps
+	- (b) Forward foreign exchange contracts
+	- (c) Currency futures
+	- (d) Currency options purchased
+	- (e) Ot

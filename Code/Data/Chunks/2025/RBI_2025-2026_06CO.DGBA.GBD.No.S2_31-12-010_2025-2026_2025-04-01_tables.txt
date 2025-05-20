@@ -1,0 +1,188 @@
+| Sr.<br>No. |      | Type of Transaction            | Unit                 | Revised Rate          |
+|------------|------|--------------------------------|----------------------|-----------------------|
+| a.         | (i)  | Receipts - Physical mode       | Per transaction      | ₹40/-                 |
+|            | (ii) | Receipts - e-mode              | Per transaction      | ₹9/-                  |
+| b.         |      | Pension Payments               | Per transaction      | ₹75/-                 |
+| c.         |      | Payments other than<br>Pension | Per<br>₹100 turnover | 6.5 paise<br>per ₹100 |
+
+|  |  | List of circulars consolidated in the Master Circular |
+|--|--|-------------------------------------------------------|
+|--|--|-------------------------------------------------------|
+
+| No. | Circular No.                    | Date       | Subject                                                                         |
+|-----|---------------------------------|------------|---------------------------------------------------------------------------------|
+| 1.  | DGBA.GAD.No.H-190/              | September  | TDS on Agency Commission will not                                               |
+|     | 31.12.010/2003-04               | 14, 2003   | be effected by RBI                                                              |
+| 2.  | DGBA.GAD.No.H-41/               | July 22,   | Scheme for acceptance of Income                                                 |
+|     | 42.02.001/2003-04               | 2004       | and<br>other<br>direct<br>taxes<br>(Central                                     |
+|     |                                 |            | Government)<br>and<br>Profession                                                |
+|     |                                 |            | tax/other<br>taxes<br>of<br>State                                               |
+|     |                                 |            | Governments<br>through<br>agency                                                |
+| 3.  | DGBA.GAD.No.H-1225-             | October    | banks.<br>Scheme for acceptance of Income                                       |
+|     | 1258/<br>42.02.001/ 2004-       | 27, 2004   | and<br>other<br>direct<br>taxes<br>(Central                                     |
+|     | 05                              |            | Government)<br>and<br>Profession                                                |
+|     |                                 |            | tax/other<br>taxes<br>of<br>State                                               |
+|     |                                 |            | Governments through agency banks                                                |
+| 4.  | DGBA.GAD.No.H-2625-             | December   | Remuneration<br>for<br>conduct<br>of                                            |
+|     | 2658/                           | 17, 2004   | Government<br>business<br>by<br>agency                                          |
+|     | 31.12.010(C)/2004-05            |            | banks<br>–<br>Payment<br>of<br>Turnover                                         |
+|     |                                 |            | Commission                                                                      |
+| 5.  | DGBA.GAD.No.H-3568-             | January    | Scheme for acceptance of Income                                                 |
+|     | 3601/<br>42.01.001/ 2004-<br>05 | 13, 2005   | and<br>other<br>direct<br>taxes<br>(Central<br>Government)<br>and<br>Profession |
+|     |                                 |            | tax/other<br>taxes<br>of<br>State                                               |
+|     |                                 |            | Governments through agency banks                                                |
+| 6.  | DGBA.GAD.No.H-4530/             | October    | Agency<br>Commission<br>claims                                                  |
+|     | 31.12.010(C)/ 2005-06           | 27, 2005   | submitted<br>by<br>agency<br>banks<br>–                                         |
+|     |                                 |            | common irregularities                                                           |
+| 7.  | DGBA.GAD.No.H                   | January    | Agency<br>Commission<br>claims                                                  |
+|     | 11136/<br>31.12.010(C)/         | 31, 2006   | submitted<br>by<br>agency<br>banks<br>–                                         |
+|     | 2005-06                         |            | common irregularities                                                           |
+| 8.  | DGBA.GAD.No.H                   | March 2,   | Agency<br>Commission<br>claims                                                  |
+|     | 13118/<br>31.12.010(C)/         | 2006       | submitted<br>by<br>agency<br>banks<br>–                                         |
+|     | 2005-06                         |            | common irregularities                                                           |
+| 9.  | DGBA.GAD.No.H.13034             | February   | Agency<br>Commission<br>on<br>pension                                           |
+|     | /                               | 27, 2007   | transactions                                                                    |
+|     | 31.12.010(C)/ 2006-07           |            |                                                                                 |
+| 10. | DGBA.GAD.H-1800/                | August 21, | Abnormal<br>increase<br>in<br>agency                                            |
+|     | 31.12.010(C)/2009-10            | 2009       | commission claims                                                               |
+| 11. | DGBA.GAD.H-3903/                | November   | Agency Commission claims to be                                                  |
+|     | 31.12.010(C)/2009-10            | 11, 2009   | certified by the External Auditor /<br>Chartered Accountant                     |
+| 12. | DGBA.GAD.No.H.160/              | July 7,    | Agency Commission claims to be                                                  |
+|     | 31.12.010(C)/ 2010-11           | 2010       | certified by the External Auditor                                               |
+| 13. | DGBA.GAD.No.H-670/              | March 24,  | TDS on Agency Commission will not                                               |
+|     | 31.12.010(C)/ 2010-11           | 2011       | be effected by RBI                                                              |
+| 14. | DGBA.GAD.No.H-8852/             | June 21,   | Payment of agency commission on                                                 |
+|     | 31.12.010(C)/ 2010-11           | 2011       | collection of Registration fee and                                              |
+|     |                                 |            | Stamp Duty                                                                      |
+
+| No. | Circular No.                            | Date                | Subject                                                             |
+|-----|-----------------------------------------|---------------------|---------------------------------------------------------------------|
+| 15. | DGBA.GAD.No.7575/31.                    | May 22,             | Agency<br>Commission<br>on<br>pension                               |
+|     | 12.011/2011-12                          | 2012                | transactions                                                        |
+| 16. | DGBA.GAD.No.H.2529/                     | October             | Conduct of Government Business by                                   |
+|     | 31.12.010(C)/2012-13                    | 31, 2012            | Agency Banks – Payment of Agency<br>Commission – Revised Format for |
+|     |                                         |                     | claiming<br>agency<br>commission<br>by                              |
+|     |                                         |                     | banks-Implementation<br>of<br>Working                               |
+|     |                                         |                     | Group recommendations                                               |
+| 17. | DGBA.GAD.No.H-2995/                     | January 7,          | Payment of agency commission –                                      |
+|     | 31.12.010/2014-15                       | 2015                | Certification<br>of claims by external                              |
+|     |                                         |                     | auditors                                                            |
+| 18. | DGBA.GAD.No.617/31.1                    | August 13,          | Conduct of Government Business by                                   |
+|     | 2.010(C)/2015-16                        | 2015                | Agency Banks – Payment of Agency<br>Commission                      |
+| 19. | DGBA.GAD.No.1636/31.                    | November            | Payment of agency commission –                                      |
+|     | 12.010/2015-16                          | 10, 2015            | Certification of claims by external                                 |
+|     |                                         |                     | auditors                                                            |
+| 20. | DGBA.GAD.No.2278/31.                    | January             | Payment of Agency Commission on                                     |
+|     | 12.010/2015-16                          | 21, 2016            | pension accounts                                                    |
+| 21. | DGBA.GBD.No.3262/31.<br>02.007/2016-17  | June 15,<br>2017    | Period for Submission of Agency<br>Commission Claims                |
+| 22. | DGBA.GBD.No.3333/31.                    | June 22,            | Payment of agency commission for                                    |
+|     | 02.007/2016-17                          | 2017                | government receipts                                                 |
+| 23. | DGBA.GAD.No.2294/15.                    | March 6,            | Gold Monetisation Scheme                                            |
+|     | 04.001/2016-17                          | 2017                |                                                                     |
+| 24. | DGBA.GAD.No.1007/15.<br>04.001/2017-18  | October<br>17, 2017 | Gold Monetisation Scheme, 2015                                      |
+| 25. | DGBA.GBD.No.1324/31.                    | November            | Agency Commission for GST receipt                                   |
+|     | 02.007/2017-18                          | 16, 2017            | transactions                                                        |
+| 26. | DGBA.GBD.1472/31.02.                    | November            | Reporting of Transactions by                                        |
+|     | 007/2017-18                             | 30, 2017            | agency banks to RBI                                                 |
+| 27. | DGBA.GBD.No.1498/31.                    | December            | Settlement of Agency transactions                                   |
+|     | 02.007/2017-18                          | 7, 2017             | in certain cases (for Funds and<br>Agency Commission) directly from |
+|     |                                         |                     | Reserve Bank of India                                               |
+| 28. | RBI/2018-19/16                          | July 12,            | Period for Submission of Agency                                     |
+|     | DGBA.GBD.No.87/31.02                    | 2018                | Commission Claims                                                   |
+|     | .007/2018-19                            |                     |                                                                     |
+| 29. | DGBA.GBD.No.1590/44.                    | December            | Payment of Agency commission to                                     |
+|     | 02.001/2018-19                          | 24, 2018            | Agency Banks – Applicability of TDS                                 |
+| 30. | DGBA.GBD.No.1870/44.                    | January             | provision under GST.<br>Payment of Agency commission to             |
+|     | 02.001/2018-19                          | 23, 2019            | Agency Banks – Applicability of TDS                                 |
+|     |                                         |                     | provision under GST.                                                |
+| 31. | DGBA.GBD.No.3144/31.                    | June 20,            | Rationalisation and Revision of                                     |
+|     | 02.007/2018-19                          | 2019                | Agency Commission Payable to                                        |
+|     |                                         |                     | Banks on Government Transactions                                    |
+| 32. | DGBA.GBD.No.5/<br>31.02.007/<br>2019-20 | July 31,<br>2019    | Agency<br>Commission-<br>Furnishing<br>reconciliation certificate   |
+| 33. | DGBA.GBD.No.648/31.1                    | September           | Agency<br>Commission-<br>Furnishing                                 |
+|     | 2.007/2019-20                           | 25, 2019            | reconciliation certificate                                          |
+
+| No. | Circular No.           | Date      | Subject                                 |
+|-----|------------------------|-----------|-----------------------------------------|
+| 34. | CO.DGBA.GBD.No.S95     | November  | Agency Commission for Direct Tax        |
+|     | 7/43-33-005/2022-2023  | 14, 2022  | collection under TIN 2.0 regime         |
+| 35. | CO.DGBA.GBD.No.S29     | June 14,  | Agency Commission for collection of     |
+|     | 5/31-12-010/2023-2024  | 2023      | indirect<br>taxes<br>through<br>ICEGATE |
+|     |                        |           | payment gateway                         |
+| 36. | CO.DGBA.GBD.No.S12     | March 13, | Cut-off time for uploading of GST,      |
+|     | 34/31-12-010/2023-2024 | 2024      | ICEGATE and TIN 2.0 luggage files       |
+
+| Reserve Bank of India<br>(Recipient of Services) | Name of the Agency Bank<br>(Supplier of services):                                                   |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Address:                                         | Address of Registered Office<br>of the<br>agency bank submitting the claim:<br>State:<br>State Code: |
+| GSTN:                                            | GSTN                                                                                                 |
+| PAN:                                             | PAN:                                                                                                 |
+| Place of Supply<br>Sate Name:<br>State Code:     |                                                                                                      |
+
+| Particulars                                              | No. of transactions |            | Amount in ₹ |            |
+|----------------------------------------------------------|---------------------|------------|-------------|------------|
+|                                                          | Physical            | Electronic | Physical    | Electronic |
+| 1. Gross Receipts                                        |                     |            |             |            |
+| 2.<br>Less:                                              |                     |            |             |            |
+| (a) Receipts representing Banks' own tax<br>liability ** |                     |            |             |            |
+| (b) TDS on various other items under the IT              |                     |            |             |            |
+| Act                                                      |                     |            |             |            |
+| (c) Transactions under Schemes/                          |                     |            |             |            |
+| Special schemes, if any, formulated by                   |                     |            |             |            |
+| Central/State<br>Government<br>for<br>senior             |                     |            |             |            |
+| citizens other than Senior Citizens Savings              |                     |            |             |            |
+| Scheme, 2004                                             |                     |            |             |            |
+| (d) Error scroll transactions                            |                     |            |             |            |
+| (e) Other ineligible items (like receipts on             |                     |            |             |            |
+| account<br>of<br>repayments<br>of<br>long<br>term        |                     |            |             |            |
+| borrowings of State Governments from                     |                     |            |             |            |
+| Fls/banks, Letter of Credit (LC) transactions            |                     |            |             |            |
+| on<br>behalf<br>of<br>Ministries<br>/<br>Departments,    |                     |            |             |            |
+| receipts under pension.)                                 |                     |            |             |            |
+| 3. Net Receipts                                          |                     |            |             |            |
+
+| Beginning of<br>quarter |  | End of Quarter |  |
+|-------------------------|--|----------------|--|
+|                         |  |                |  |
+
+| Total agency commission claimed |                        |            |  |
+|---------------------------------|------------------------|------------|--|
+| Type of transaction             | Number of transactions | Amount (₹) |  |
+| Physical Receipts @ ₹40/-       |                        |            |  |
+| per transaction                 |                        |            |  |
+| E-receipts @ ₹9/-<br>per        |                        |            |  |
+| transaction                     |                        |            |  |
+| Pension payments @ ₹75/-        |                        |            |  |
+| per transaction                 |                        |            |  |
+| Payments other than             |                        |            |  |
+| pension @ 6.5 paise per         |                        |            |  |
+| ₹100 turnover                   |                        |            |  |
+| Total                           |                        | A          |  |
+|                                 |                        |            |  |
+
+| Particulars<br>of Supply                                                                                                      | Rate | Amount in<br>₹ |
+|-------------------------------------------------------------------------------------------------------------------------------|------|----------------|
+| Undertaking Government banking<br>Service Description:<br>transaction                                                         |      | A              |
+| HSN/SAC Code:<br>997119                                                                                                       |      |                |
+| HAS/SAC Code Description:<br>Other financial services (except<br>investment banking, insurance services and pension services) |      |                |
+|                                                                                                                               | 9    | 9              |
+| CGST (%)                                                                                                                      | 9    | 9              |
+| SGST/UTGST (%)                                                                                                                | Or   | Or             |
+| Or                                                                                                                            | 18   | 18             |
+| IGST (%)                                                                                                                      |      |                |
+|                                                                                                                               |      | B              |
+| Total                                                                                                                         |      |                |
+| INR of (B) Only<br>(in words)                                                                                                 |      |                |
+
+| Sr.<br>No. | Month | No. of Pensioners |
+|------------|-------|-------------------|
+| 1          |       |                   |
+| 2          |       |                   |
+| 3          |       |                   |
+
+| Sr. No. | Month | No. of Pensioners |
+|---------|-------|-------------------|
+| 1       |       |                   |
+| 2       |       |                   |
+| 3       |       |                   |
+

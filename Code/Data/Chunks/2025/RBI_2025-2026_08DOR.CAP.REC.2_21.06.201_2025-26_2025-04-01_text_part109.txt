@@ -1,0 +1,43 @@
+tment of the Tier 2 Capital instruments will have to be taken into account for the purpose of calculating reserve requirements.
+
+(ii) The total amount raised by a bank through Tier 2 instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR/SLR requirements.
+
+# **1.14 Reporting of Issuances**
+
+Banks issuing debt instruments shall submit a report to the Chief General Manager-in-charge, Department of Regulation, Reserve Bank of India, Mumbai giving details of the instrument as per the format prescribed in **[Annex 22](#page-309-0)** duly certified by the compliance officer of the bank, soon after the issue is completed.
+
+# **1.15 Investment in Tier 2 Debt Capital Instruments Issued by Other Banks/ FIs**
+
+(i) A bank's investment in Tier 2 debt instruments issued by other banks and financial institutions will be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10% for cross holding of capital among banks/FIs prescribed vide [circular DBOD.BP.BC.No.3/ 21.01.002/ 2004-05 dated 6th July](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=1772&Mode=0)  [2004](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=1772&Mode=0) and also subject to cross holding limits.
+
+(ii) Bank's investments in Tier 2 instruments issued by other banks/ financial institutions will attract risk weight as per paragraphs 5.6 and 8.3.4 of this Master Circular, whichever applicable for capital adequacy purposes.
+
+# **1.16 Classification in the Balance Sheet**
+
+<span id="page-208-0"></span> <sup>194</sup> Includes both foreign currency and rupee denominated bonds raised overseas.
+
+The amount raised by way of issue of Tier 2 debt capital instrument may be classified under 'Schedule 4 – Borrowings' in the Balance Sheet.
+
+# **1.17 Debt Capital Instruments to Retail Investors[195](#page-209-0),[196](#page-209-1)**
+
+With a view to enhancing investor education relating to risk characteristics of regulatory capital requirements, banks issuing subordinated debt to retail investors, subject to approval of their Board, should adhere to the following conditions:
+
+(a) For floating rate instruments, banks should not use its Fixed Deposit rate as benchmark.
+
+(b) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks of the instrument may be incorporated in the common application form of the proposed debt issue.
+
+# *"By making this application, I / We acknowledge that I/We have understood the terms and conditions of the Issue of [insert the name of the instruments being issued] of [Name of The Bank ] as disclosed in the Draft Shelf Prospectus, Shelf Prospectus and Tranche Document ".*
+
+(c) All the publicity material, application form and other communication with the investor should clearly state in bold letters (with **font size 14**) how a subordinated bond is different from fixed deposit particularly that it is not covered by deposit insurance. In addition, the loss absorbency features of the instrument should be clearly explained and the investor's sign-off for having understood these features and other terms and conditions of the instrument should be obtained.
+
+# **1.18 Raising of Instruments for Inclusion as Tier 2 Capital by Foreign Banks in India**
+
+Foreign banks in India may raise Head Office (HO) borrowings in foreign currency for inclusion as Tier 2 capital subject to the same terms and conditions as mentioned in items 1.1 to 1.17 above for Indian banks. In addition, the following terms and conditions would also be applicable:
+
+(a) *Maturity period:* If the amount of Tier 2 debt capital raised as HO borrowings is in tranches, each tranche shall be retained in India for a minimum period of five years.
+
+<span id="page-209-0"></span> <sup>195</sup> Please refer t[o circular DBOD.BP.BC.No.69 / 21.01.002/ 2009-10 dated January 13, 2010.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5459&Mode=0)
+
+<span id="page-209-1"></span><sup>196</sup> Please also refer to the [circular DBOD.BP.BC.No.72/21.01.002/2012-13 dated January 24, 2013](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7824&Mode=0) on 'Retail Issue of Subordinated Debt for Raising Tier 2 Capital', in terms of which banks were advised that with a view to deepening the corporate bond market in India through enhanced retail participation, banks, while issuing subordinated debt for raising Tier 2 capital, are encouraged to consider the option of raising such funds through public issue to retail investors. However, while doing so banks are advised to adhere to the conditions prescribed in circular dated January 13, 2010 so as to ensure that the investor is aware of the risk characteristics of regulatory capital instruments.
+
+(b) *Rate of interest:* Rate of interest on Tier 2 capital raised as HO borrowings sho

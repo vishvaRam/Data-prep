@@ -1,0 +1,56 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2025-26/08 DOR.CAP.REC.2/21.06.201/2025-26
+
+April 01, 2025
+
+All Scheduled Commercial Banks (Excluding Small Finance Banks, Payments Banks and Regional Rural Banks)
+
+Madam / Dear Sir,
+
+# **Master Circular – Basel III Capital Regulations**
+
+Please refer to the Master Circular No. [DOR.CAP.REC.4/21.06.201/2024-25](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12652) dated April [01, 2024,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12652) consolidating therein the prudential guidelines on Basel III capital adequacy issued to banks till that date.
+
+2. The instructions contained in the aforesaid [Master Circular](#page-1-0) have been suitably updated / amended by incorporating relevant guidelines, issued as on date. A list of circulars consolidated in this Master Circular is contained in [Annex 26.](#page-320-0)
+
+3. Small Finance Banks and Payments Banks may refer to their respective licensing guidelines and operating guidelines issued by Reserve Bank, for prudential guidelines on capital adequacy.
+
+Yours faithfully,
+
+(Usha Janakiraman) Chief General Manager-in-Charge
+
+Encl.: As above
+
+िविनयमन िवभाग,क� �ीय कायार्लय, 12 व� और 13 व� मंिजल, क��ीय कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001 दूरभाष: 022-22601000 फै क्स: 022-22705691 ई-मेल: cgmicdor@rbi.org.in
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Department of Regulation, Central Office, 12th and 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in
+
+िहंदी आसान हैइसका प्रयोग बढ़ाइए
+
+<span id="page-1-0"></span>
+
+
+
+
+
+
+#### **Master Circular on Basel III Capital Regulations**
+
+#### **Part A: Minimum Capital Requirement**
+
+#### <span id="page-6-0"></span>**1. Introduction**
+
+1.1 Basel III reforms are the response of Basel Committee on Banking Supervision (BCBS) to improve the banking sector's ability to absorb shocks arising from financial and economic stress, whatever the source, thus reducing the risk of spill over from the financial sector to the real economy. During Pittsburgh summit in September 2009, the G20 leaders committed to strengthen the regulatory system for banks and other financial firms and also act together to raise capital standards, to implement strong international compensation standards aimed at ending practices that lead to excessive risk-taking, to improve the over-the-counter derivatives market and to create more powerful tools to hold large global firms to account for the risks they take. For all these reforms, the leaders set for themselves strict and precise timetables. Consequently, the Basel Committee on Banking Supervision (BCBS) released comprehensive reform package entitled "Basel III: A global regulatory framework for more resilient banks and banking systems" (known as Basel III capital regulations) in December 2010.
+
+1.2 Basel III reforms strengthen the bank-level i.e., micro prudential regulation, with the intention to raise the resilience of individual banking institutions in periods of stress. Besides, the reforms have a macro prudential focus also, addressing system wide risks, which can build up across the banking sector, as well as the procyclical amplification of these risks over time. These new global regulatory and supervisory standards mainly seek to raise the quality and level of capital to ensure banks are better able to absorb losses on both a going concern and a gone concern basis, increase the risk coverage of the capital framework, introduce leverage ratio to serve as a backstop to the risk-based capital measure, raise the standards for the supervisory review process (Pillar 2) and public disclosures (Pillar 3) etc. The macro prudential aspects of Basel III are largely enshrined in the capital buffers. Both the buffers i.e., the capital conservation buffer and the countercyclical buffer are intended to protect the banking sector from periods of excess credit growth.
+
+### <span id="page-6-1"></span>**2. Approach to Implementation and Effective Date**
+
+2.1 The Basel III capital regulations continue to be based on three-mutually reinforcing Pillars, viz. minimum capital requirements, supervisory review of capital adequacy, and market discipline of the Basel II capital adequacy framework[1.](#page-6-2) Under Pillar 1, the Basel III framework will continue to offer the three distinct options for computing capital requirement for credit risk and three other options for computing capital requirement for operational risk, albeit with certain modifications / enhancements. These options for credit and operational risks are based o

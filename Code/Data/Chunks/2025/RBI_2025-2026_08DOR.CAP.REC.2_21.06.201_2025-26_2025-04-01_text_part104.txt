@@ -1,0 +1,30 @@
+sferred to AFS reserve[185](#page-197-2) and reserves created on amalgamation.
+
+The accumulated losses and deferred revenue expenditure, if any, shall be netted off from (i) and (ii) to arrive at the available balances for payment of coupon.
+
+<span id="page-197-0"></span> <sup>183</sup> Consequence of full discretion at all times to cancel distributions/payments is that "dividend pushers" are prohibited. An instrument with a dividend pusher obliges the issuing bank to make a dividend/coupon payment on the instrument if it has made a payment on another (typically more junior) capital instrument or share. This obligation is inconsistent with the requirement for full discretion at all times. Furthermore, the term "cancel distributions/payments" means extinguish these payments. It does not permit features that require the bank to make distributions/payments in kind.
+
+<span id="page-197-1"></span><sup>184</sup> Please refer [circular no. DBR.BP.BC.No.50/21.06.201/2016-17 dated February 02, 2017](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10848&Mode=0) on 'Basel III Capital Regulations- Additional Tier 1 Capital'.
+
+<span id="page-197-2"></span><sup>185</sup> Please refer to clause 13(d) of Master Direction - [Classification, Valuation and Operation of Investment Portfolio](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [of Commercial Banks \(Directions\), 2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)
+
+If the aggregate of: (a) profits in the current year; (b) profits brought forward from the previous years and (c) permissible reserves as at (ii) above, excluding statutory reserves, net of accumulated losses and deferred revenue expenditure are less than the amount of coupon, only then the bank shall make appropriation from the statutory reserves. In such cases, banks are required to report to the Reserve Bank within twenty-one days from the date of such appropriation in compliance with Section 17(2) of the Banking Regulation Act 1949.
+
+It may be noted that prior approval of the Reserve Bank for appropriation of reserves as above, in terms of the [circular, DBOD.BP.BC No.31/21.04.018/2006-07 dated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=3098&Mode=0)  [September 20, 2006](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=3098&Mode=0) on 'Section 17 (2) of Banking Regulation Act, 1949 - Appropriation from Reserve Fund' is not required in this regard.
+
+However, payment of coupons on PDIs from the reserves is subject to the issuing bank meeting minimum regulatory requirements for CET1, Tier 1 and Total Capital ratios including the additional capital requirements for Domestic Systemically Important Banks at all times and subject to the restrictions under the capital buffer frameworks (i.e. capital conservation buffer and counter cyclical capital buffer in terms of paras 15 and 17 of this Master Circular).
+
+In order to meet the eligibility criteria for perpetual debt instruments, banks must ensure and indicate in their offer documents that they have full discretion at all times to cancel distributions / payments.
+
+- (f) the interest shall not be cumulative.
+- (g) The instrument cannot have a credit sensitive coupon feature, i.e., a dividend that is reset periodically based in whole or in part on the banks' credit standing. For this purpose, any reference rate including a broad index which is sensitive to changes to the bank's own creditworthiness and / or to changes in the credit worthiness of the wider banking sector will be treated as a credit sensitive reference rate. Banks desirous of offering floating reference rate may take prior approval of the RBI (DOR) as regard permissibility of such reference rates.
+- (h) In general, it may be in order for banks to have dividend stopper arrangement that stop dividend payments on common shares in the event the holders of AT1 instruments are not paid dividend/coupon. However, dividend stoppers must not impede the full discretion that bank must have at all times to cancel distributions/payments on the Additional Tier 1 instrument, nor must they act in a way that could hinder the re-capitalisation of the bank. For example, it would not be permitted for a stopper on an Additional Tier 1 instrument to:
+- attempt to stop payment on another instrument where the payments on this other instrument were not also fully discretionary;
+- prevent distributions to shareholders for a period that extends beyond the point in time that dividends/coupons on the Additional Tier 1 instrument are resumed;
+- impede the normal operation of the bank or any restructuring activity (including acquisitions/disposals).
+
+A stopper may act to prohibit actions that are equivalent to the payment of a dividend, such as the bank undertaking discretionary share buybacks, **if otherwise permitted**.
+
+# **1.9 Treatment in Insolvency**
+
+The instrument cannot contribute to liabilities exceeding assets if such a balance 

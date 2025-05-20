@@ -1,0 +1,69 @@
+Terms of Issue**
+
+# **2.1 Eligibility**
+
+2.1.1 Banks fulfilling the following criteria as per their latest audited financial statements are permitted to issue LTSB without seeking specific permission of RBI in this regard:
+
+- i. The CRAR shall be at least one percentage point above the minimum CRAR applicable to a UCB.
+- ii. Gross NPA less than 7% and net NPA not more than 3%.
+- iii. Net profit for at least three out of the preceding four years subject to the bank not having incurred net loss in the immediate preceding year.
+- iv. No default in maintenance of CRR/SLR during the preceding year.
+- v. The bank has at least two professional directors on its Board.
+- vi. Core Banking Solution (CBS) fully implemented.
+- vii. No monetary penalty has been imposed on the bank for violation of RBI directives / guidelines during the two financial years preceding the year in which the LTSB are being issued.
+
+2.1.2 Prior permission of the RBI is required for banks which do not comply with the above criteria. The UCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum to the concerned Regional Office of the RBI. A certificate from a Chartered Accountant to the effect that the terms of the offer document are in compliance with these instructions shall also be submitted along with the application.
+
+## **2.2 Limit**
+
+The amount of LTSB eligible to be reckoned as Tier II capital shall be limited to 50 per cent of total Tier I capital. The outstanding Long Term (Sub-ordinated) Deposits (LTDs) shall also be covered in the aforementioned ceiling of 50 per cent and reckoned for capital purposes as hitherto. These instruments, together with other components of Tier II capital shall not exceed 100 per cent of Tier I capital. The aforementioned limit shall be based on the amount of Tier I capital after deduction of goodwill and other intangible assets, but before the deduction of equity investments in subsidiaries, if any.
+
+## **2.3 Amount**
+
+The amount to be raised may be decided by the Board of Directors of banks.
+
+# **2.4 Maturity**
+
+LTSB shall be issued with a minimum maturity of ten years.
+
+# **2.5 Options**
+
+- 2.5.1 The LTSB shall not be issued with a 'put option' or 'step-up' option.
+- 2.5.2 However, LTSB may be issued with a call option subject to following conditions:
+	- a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+	- b) Call option shall be exercised only with the prior approval of Department of Regulation (DoR), RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+## **2.6 Classification in the Balance Sheet**
+
+These instruments will be classified as 'Borrowings' and shown separately in the Balance Sheet.
+
+## **2.7 Interest Rate**
+
+LTSB may bear a fixed rate of interest or a floating rate of interest referenced to a market determined rupee interest benchmark rate.
+
+## **2.8 Redemption / Repayment**
+
+Redemption / repayment at maturity shall be made only with the prior approval of the DoR, RBI.
+
+## **2.9 Seniority of Claims**
+
+LTSB will be subordinated to the claims of depositors and other creditors but would rank senior to the claims of investors in instruments eligible for inclusion in Tier I capital and holders of preference shares (both Tier I & Tier II). Among investors of instruments included in Lower Tier II capital (i.e., including outstanding LTDs, if any), the claims shall rank *pari passu* with each other.
+
+## **2.10 Progressive Discount**
+
+These Bonds shall be subjected to a progressive discount for capital adequacy purposes in the last five years of their tenor, as under:
+
+
+## **2.11 Other conditions**
+
+2.11.1 LTSB shall be fully paid-up, unsecured, and free of any restrictive clauses.
+
+2.11.2 UCBs shall also comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the LTSB, provided they are not in conflict with the terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of the DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier II capital.
+
+### **2.12 Reserve Requirement**
+
+The total amount raised through the issue of LTSB shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR / SLR requirements. The amount collected by the UCB from members / prospective investors and held by it pending issue of LTSB, shall not be reckoned for calculation of capital funds.
+
+### **2.13 Reporting Requirements**
+
+UCBs issuing LTSB shall submit a report to the concerned RO of DoS, RBI giving details of the amount raised, including the terms and con

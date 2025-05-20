@@ -1,0 +1,33 @@
+
+Since a sound risk management process provides the basis for ensuring that a bank maintains adequate capital, the board of directors of a bank shall set the tolerance level for risk.
+
+# 12.3.3.6 Submission of the outcome of the ICAAP to the Board and the RBI
+
+As the ICAAP is an ongoing process, a written record on the outcome of the ICAAP should be periodically submitted by banks to their board of directors. Such written record of the internal assessment of its capital adequacy should include, inter alia, the risks identified, the manner in which those risks are monitored and managed, the impact of the bank's changing risk profile on the bank's capital position, details of stress tests/scenario analysis conducted and the resultant capital requirements. The reports shall be sufficiently detailed to allow the Board of Directors to evaluate the level and trend of material risk exposures, whether the bank maintains adequate capital against the risk exposures and in case of additional capital being needed, the plan for augmenting capital. The board of directors would be expected make timely adjustments to the strategic plan, as necessary.
+
+Based on the outcome of the ICAAP as submitted to and approved by the Board, the ICAAP Document, in the format furnished at **[Annex 14](#page-250-0)**, should be furnished to the RBI (i.e., to the CGMin-Charge, Department of Supervision, Central Office, Reserve Bank of India, World Trade Centre, Centre I, Colaba, Cuffe Parade, Mumbai – 400 005, with a copy addressed to Senior Supervisory Manager of the bank). The document should reach the RBI latest by end of the first quarter (i.e., April-June) of the relevant financial year.
+
+# **12.4 Review of the ICAAP Outcomes**
+
+The board of directors shall, at least once a year, assess and document whether the processes relating to the ICAAP implemented by the bank successfully achieve the objectives envisaged by the board. The senior management should also receive and review the reports regularly to evaluate the sensitivity of the key assumptions and to assess the validity of the bank's estimated future capital requirements. In the light of such an assessment, appropriate changes in the ICAAP should be instituted to ensure that the underlying objectives are effectively achieved.
+
+# **12.5 ICAAP to be an Integral part of the Management and Decision-making Culture**
+
+The ICAAP should from an integral part of the management and decision-making culture of a bank. This integration could range from using the ICAAP to internally allocate capital to various business units, to having it play a role in the individual credit decision process and pricing of products or more general business decisions such as expansion plans and budgets. The integration would also mean that ICAAP should enable the bank management to assess, on an ongoing basis, the risks that are inherent in their activities and material to the institution.
+
+# **12.6 The Principle of Proportionality**
+
+The implementation of ICAAP should be guided by the principle of proportionality. Though banks are encouraged to migrate to and adopt progressively sophisticated approaches in designing their ICAAP, the RBI would expect the degree of sophistication adopted in the ICAAP in regard to risk measurement and management to be commensurate with the nature, scope, scale and the degree of complexity in the bank's business operations. The following paragraphs **illustratively** enumerate the broad approach which could be considered by banks with varying levels of complexity in their operations, in formulating their ICAAP.
+
+**(A)** In relation to a bank that defines its activities and risk management practices as **simple**, in carrying out its ICAAP, that bank could:
+
+- (a) identify and consider that bank's largest losses over the last 3 to 5 years and whether those losses are likely to recur;
+- (b) prepare a short list of the most significant risks to which that bank is exposed;
+- (c) consider how that bank would act, and the amount of capital that would be absorbed in the event that each of the risks identified were to materialise;
+- (d) consider how that bank's capital requirement might alter under the scenarios in (c) and how its capital requirement might alter in line with its business plans for the next 3 to 5 years; and
+- (e) document the ranges of capital required in the scenarios identified above and form an overall view on the amount and quality of capital which that bank should hold, ensuring that its senior management is involved in arriving at that view.
+
+**(B)** In relation to a bank that define its activities and risk management practices as **moderately complex**, in carrying out its ICAAP, that bank could:
+
+- (a) having consulted the operational management in each major business line, prepare a comprehensive list of the major risks to which the business is exposed;
+- (b) estimate, with the aid of historical data, where available, the range and distribution of possible losses 

@@ -1,0 +1,26 @@
+/sup> A master netting agreement (MNA) is deemed to meet this criterion if it satisfies the conditions as specified in [Annex 20](#page-307-0) (part B).
+
+16.4.3.9 If the conditions in paragraph 16.4.3.8 are met, the cash portion of variation margin received may be used to reduce the replacement cost portion of the leverage ratio exposure measure, and the receivables assets from cash variation margin provided may be deducted from the leverage ratio exposure measure as follows:
+
+- In the case of cash variation margin received, the receiving bank may reduce the replacement cost (but not the add-on portion) of the exposure amount of the derivative asset by the amount of cash received if the positive mark-to-market value of the derivative contract(s) has not already been reduced by the same amount of cash variation margin received under the bank's operative accounting standard.
+- In the case of cash variation margin provided to a counterparty, the posting bank may deduct the resulting receivable from its leverage ratio exposure measure, where the cash variation margin has been recognised as an asset under the bank's operative accounting framework.
+
+Cash variation margin may not be used to reduce the PFE amount (including the calculation of the net-to-gross ratio (NGR) as defined in para 16.4.3.4).
+
+16.4.3.10 *Treatment of clearing services*: where a bank acting as clearing member (CM)[148](#page-173-0) offers clearing services to clients, the clearing member's trade exposures[149](#page-173-1) to the central counterparty (CCP) that arise when the clearing member is obligated to reimburse the client for any losses suffered due to changes in the value of its transactions in the event that the CCP defaults, must be captured by applying the same treatment that applies to any other type of derivatives transactions. However, if the clearing member, based on the contractual arrangements with the client, is not obligated to reimburse the client for any losses suffered due to changes in the value of its transactions in the event that a QCCP defaults, the clearing member need not recognise the resulting trade exposures to the QCCP in the leverage ratio exposure measure[150](#page-173-2).
+
+16.4.3.11 Where a client enters directly into a derivatives transaction with the CCP and the CM guarantees the performance of its clients' derivative trade exposures to the CCP, the bank acting as the clearing member for the client to the CCP must calculate its related leverage ratio exposure resulting from the guarantee as a derivative exposure as set out in paragraphs 16.4.3.2 to
+
+ <sup>148</sup> A Clearing Member (CM) is as defined in the paragraph 5.15.3.2.
+
+<span id="page-173-1"></span><span id="page-173-0"></span><sup>149</sup> For the purposes of paragraphs 16.4.3.9 and 16.4.3.10, "trade exposures" includes initial margin irrespective of whether or not it is posted in a manner that makes it remote from the insolvency of the CCP.
+
+<span id="page-173-2"></span><sup>150</sup> An affiliated entity to the bank acting as a clearing member (CM) may be considered a client for the purpose of this paragraph of the Basel III leverage ratio framework if it is outside the relevant scope of regulatory consolidation at the level at which the Basel III leverage ratio is applied. In contrast, if an affiliate entity falls within the regulatory scope of consolidation, the trade between the affiliate entity and the CM is eliminated in the course of consolidation, but the CM still has a trade exposure to the qualifying central counterparty (QCCP), which will be considered proprietary and the exemption in this paragraph no longer applies.
+
+16.4.3.9, as if it had entered directly into the transaction with the client, including with regard to the receipt or provision of cash variation margin.
+
+16.4.3.12 *Additional treatment for written credit derivatives*: in addition to the CCR exposure arising from the fair value of the contracts, written credit derivatives create a notional credit exposure arising from the creditworthiness of the reference entity. It is therefore appropriate to treat written credit derivatives consistently with cash instruments (e.g., loans, bonds) for the purposes of the exposure measure.
+
+16.4.3.13 In order to capture the credit exposure to the underlying reference entity, in addition to the above CCR treatment for derivatives and related collateral, the effective notional amount[151](#page-174-0) referenced by a written credit derivative is to be included in the exposure measure. The effective notional amount of a written credit derivative may be reduced by any negative change in fair value amount that has been incorporated into the calculation of Tier 1 capital with respect to the written credit derivative[152.](#page-174-1) The resulting amount may be further reduced by the effective notional amount of a purchased credit derivative on the same reference name provided[153](#page-174-2)[154](#page-174-3):
+
+- the credit protection 

@@ -1,0 +1,97 @@
+Tier 1 is calculated as the difference between Common Equity Tier 1 and Tier 1 and Tier 2 is the difference between Total Capital and Tier 1.
+
+
+#### **Pillar 3 Disclosure Requirements**
+
+#### <span id="page-271-0"></span>**1. Scope of Application and Capital Adequacy**
+
+#### **Table DF-1: Scope of Application**
+
+#### **Name of the head of the banking group to which the framework applies\_\_\_\_\_\_\_\_\_**
+
+
+#### **(i) Qualitative Disclosures:**
+
+#### **a. List of group entities considered for consolidation**
+
+#### **b. List of group entities not considered for consolidation both under the accounting and regulatory scope of consolidation**
+
+
+<span id="page-271-1"></span> <sup>243</sup> If the entity is not consolidated in such a way as to result in its assets being included in the calculation of consolidated risk-weighted assets of the group, then such an entity is considered as outside the regulatory scope of consolidation
+
+<span id="page-271-2"></span><sup>244</sup> Also explain the treatment given i.e., deduction or risk weighting of investments under regulatory scope of consolidation.
+
+## **(ii) Quantitative Disclosures:**
+
+## **c. List of group entities considered for consolidation**
+
+
+#### **d. The aggregate amount of capital deficiencies[245](#page-272-0) in all subsidiaries which are not included in the regulatory scope of consolidation i.e., that are deducted:**
+
+
+#### **e. The aggregate amounts (e.g., current book value) of the bank's total interests in insurance entities, which are risk-weighted:**
+
+
+#### **f. Any restrictions or impediments on transfer of funds or regulatory capital within the banking group:**
+
+<span id="page-272-0"></span> <sup>245</sup> A capital deficiency is the amount by which actual capital is less than the regulatory capital requirement. Any deficiencies which have been deducted on a group level in addition to the investment in such subsidiaries are not to be included in the aggregate capital deficiency.
+
+
+#### **2. Risk exposure and assessment**
+
+The risks to which banks are exposed and the techniques that banks use to identify, measure, monitor and control those risks are important factors market participants consider in their assessment of an institution. In this section, several key banking risks are considered: credit risk, market risk, and interest rate risk in the banking book and operational risk. Also included in this section are disclosures relating to credit risk mitigation and asset securitisation, both of which alter the risk profile of the institution. Where applicable, separate disclosures are set out for banks using different approaches to the assessment of regulatory capital.
+
+## **2.1 General qualitative disclosure requirement**
+
+For each separate risk area (e.g., credit, market, operational, banking book interest rate risk) banks must describe their risk management objectives and policies, including:
+
+- (i) strategies and processes;
+- (ii) the structure and organisation of the relevant risk management function;
+- (iii) the scope and nature of risk reporting and/or measurement systems;
+- (iv) policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges/mitigants.
+
+#### **Credit risk**
+
+General disclosures of credit risk provide market participants with a range of information about overall credit exposure and need not necessarily be based on information prepared for regulatory purposes. Disclosures on the capital assessment techniques give information on the specific nature of the exposures, the means of capital assessment and data to assess the reliability of the information disclosed.
+
+# **Table DF-3: Credit Risk: General Disclosures for All Banks**
+
+#### **Qualitative Disclosures**
+
+(a) The general qualitative disclosure requirement with respect to credit risk, including:
+
+- Definitions of past due and impaired (for accounting purposes);
+	- Discussion of the bank's credit risk management policy;
+
+## **Quantitative Disclosures**
+
+(b) Total gross credit risk exposures[246,](#page-274-0) Fund based and Non-fund based separately.
+
+(c) Geographic distribution of exposures[247,](#page-274-1) Fund based and Non-fund based separately
+
+- Overseas
+- Domestic
+
+(d) Industry[248](#page-274-2) type distribution of exposures, fund based and non-fund based separately (e) Residual contractual maturity breakdown of assets,[249](#page-274-3)
+
+- (f) Amount of NPAs (Gross)
+	- Substandard
+	- Doubtful 1
+	- Doubtful 2
+	- Doubtful 3
+	- Loss
+- (g) Net NPAs
+- (h) NPA Ratios
+	- Gross NPAs to gross advances
+	- Net NPAs to net advances
+- (i) Movement of NPAs (Gross)
+	- o Opening balance
+	- o Additions
+	- o Reductions
+	- o Closing balance
+
+(j) Movement of provisions (Separate disclosure shall be made for specific provisions and general provisions held by the bank with a description of each type of provisions held**)** 
+
+• Opening balance
+
+<span id="page-274-0"></span> <sup>246</sup> That is after accounting offsets in

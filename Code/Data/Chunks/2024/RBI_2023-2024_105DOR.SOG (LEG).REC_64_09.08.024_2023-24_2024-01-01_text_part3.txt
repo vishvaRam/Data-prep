@@ -1,0 +1,35 @@
+f the email and mobile number are registered with the bank). The email/ SMS shall be sent on a quarterly basis.
+
+5.2 In case the whereabouts of the holder(s) of the inoperative account/ unclaimed deposit are not traceable, the banks shall contact the introducer, if any, who had introduced the account holder to the bank at the time of opening of the account. The banks shall also contact the nominee, if registered, for tracing the customer.
+
+5.3 The banks shall undertake special drives periodically to find out the whereabouts of the customers, their nominees or legal heirs in respect of inoperative accounts / unclaimed deposits.
+
+## **PART II- OPERATIONAL GUIDELINES**
+
+#### **6. Activation of Inoperative Accounts**
+
+6.1 The banks shall make available the facility of updation of KYC for activation of inoperative accounts/ unclaimed deposits at all branches (including non-home branches) and through Video-Customer Identification Process (V-CIP) if requested by the account holder, subject to the facility of V-CIP being provided by the bank. The V-CIP related instructions under Master Direction - [Know Your Customer \(KYC\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566)  [Direction, 2016 dated February 25, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) (as updated from time to time) shall be adhered to by the bank.
+
+6.2 The banks shall activate the inoperative accounts/ unclaimed deposits, including those which are under freeze by orders of various agencies like Courts, Tribunals, Law Enforcement Agencies, only after adhering to the KYC guidelines provided in the Master Direction - [Know Your Customer \(KYC\) Direction, 2016 dated February 25,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566)  [2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) (as updated from time to time) such as Customer Due Diligence (CDD), customer identification, risk categorisation, etc.
+
+6.3 The banks shall ensure that activation of inoperative account/ unclaimed deposits in CBS necessarily requires second level of authorisation by another officer at the same or higher level (i.e., through maker and checker). System logs shall invariably be maintained in case of any activity in or activation of inoperative accounts/unclaimed deposits for concurrent audit purpose. The preservation period of such system logs shall be as per the internal guidelines of the bank.
+
+6.4 The bank shall automatically intimate the inoperative account/ unclaimed deposit holders though SMS and registered email stating that on the basis of the KYC documents submitted by them, the inoperative status of the account has been removed. The intimation shall also mention the remedial measures available to them to report unauthorised access, if any. This would alert the account/ unclaimed deposit holder against any possible fraudulent activity in his/her inoperative account. The banks shall have in place adequate operational safeguards to ensure that the claimants in case of inoperative accounts/ unclaimed deposits are genuine. The banks shall process requests for activation of inoperative account/ unclaimed deposits within three working days from the receipt of the complete application.
+
+## **7. Payment of Interest**
+
+Interest on savings accounts shall be credited on a regular basis irrespective of the fact that the account is in operation or not.
+
+#### **8. Levy of Charges**
+
+8.1 The banks are not permitted to levy penal charges for non-maintenance of minimum balances in any account that is classified as an inoperative account.
+
+8.2 No charges shall be levied for activation of inoperative accounts.
+
+# **9. Display of Unclaimed Deposits and Search Facility**
+
+Banks shall host the details of unclaimed deposits {only name, address (without pin code) and Unclaimed Deposit Reference Number (UDRN)}, which have been transferred to DEA Fund of RBI on their respective websites, which shall be updated regularly, at least on a monthly basis. The banks, which do not have their own websites shall make available the above list of unclaimed deposits in their respective branches. The database hosted on the website shall provide a search option to enable the public to search for their unclaimed deposits using name in combination with the address of the account holder/ entity. Upon a successful search, details of unclaimed deposits shall be displayed in a format comprising account holder's name(s), his/her address (without pincode) and UDRN only. In case such accounts are not in the name of individuals, the search input and result should include names of individuals authorised to operate the accounts. However, the account number, its type, outstanding balance and the name of the branch shall not be disclosed on the bank's website.
+
+### **10. Fraud Risk Management in Inoperative Accounts**
+
+10.1 The banks shall not allow any debit transaction in an inoperative account unless there is a customer induced acti

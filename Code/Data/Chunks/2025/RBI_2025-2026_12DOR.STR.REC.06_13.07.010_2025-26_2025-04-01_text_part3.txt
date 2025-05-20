@@ -1,0 +1,41 @@
+generally, to encourage parties to over-extend their commitments and embark upon enterprises solely relying on the easy availability of guarantee facilities.
+
+## **2.2.3 Precautions for averting frauds**
+
+While issuing guarantees on behalf of customers, the following safeguards should be observed by banks:
+
+(i) At the time of issuing financial guarantees, banks should be satisfied that the customer would be in a position to reimburse the bank in case the bank is required to make payment under the guarantee.
+
+(ii) In the case of performance guarantee, banks should exercise due caution and have sufficient experience with the customer to satisfy themselves that the customer has the necessary experience, capacity and means to perform the obligations under the contract, and is not likely to commit any default.
+
+#### **2.2.4 Ghosh Committee Recommendations**
+
+Banks should implement the following recommendations made by the High Level Committee constituted in October 1991 (Chaired by Shri A. Ghosh, the then Dy. Governor of RBI):
+
+DOR– MC on Guarantees & Co-acceptances 2025
+
+(i) In order to prevent unaccounted issue of guarantees, as well as fake guarantees, as suggested by IBA, bank guarantees should be issued in serially numbered security forms.
+
+ (ii) Banks should, while forwarding guarantees, caution the beneficiaries that they should, in their own interest, verify the genuineness of the guarantee with the issuing bank.
+
+## **2.2.5 Internal control systems**
+
+Bank guarantees issued for Rs.50,000/- and above should be signed by two officials jointly. A lower cut-off point, depending upon the size and category of branches, may be prescribed by banks, where considered necessary. Such a system will reduce the scope for malpractices/ losses arising from the wrong perception/ judgement or lack of honesty/ integrity on the part of a single signatory. Banks should evolve suitable systems and procedures, keeping in view the spirit of these instructions and allow deviation from the two signatures discipline only in exceptional circumstances. The responsibility for ensuring the adequacy and effectiveness of the systems and procedures for preventing perpetration of frauds and malpractices by their officials would, in such cases, rest on the top managements of the banks. In case, exceptions are made for affixing of only one signature on the instruments, banks should devise a system for subjecting such instruments to special scrutiny by the auditors or inspectors at the time of internal inspection of branches.
+
+#### **2.2.6 Guarantees on behalf of Banks' Directors**
+
+- 2.2.6.1 Section 20 of the Banking Regulation Act, 1949 prohibits banks from granting loans or advances to any of their directors or any firm or company in which any of their directors is a partner or guarantor. However, certain facilities which, inter alia, include issue of guarantees, are not regarded as 'loan and advances' within the meaning of Section 20 of the Act, ibid. In this regard, it is pertinent to note with particular reference to banks giving guarantees on behalf of their directors, that in the event of the principal debtor committing default in discharging his liability and the bank being called upon to honour its obligation under the guarantee, the relationship between the bank and the director could become one of creditor and debtor. Further, directors would also be able to evade the provisions of Section 20 by borrowing from a third party against the guarantee given by the bank. These types of transactions are likely to defeat the very purpose of Section 20 of the Act, if banks do not take appropriate steps to ensure that the liabilities there under do not devolve on them.
+- 2.2.6.2 In view of the above, banks should, while extending non-fund based facilities such as guarantees, etc. on behalf of their directors and the companies/firms in which the director is interested, ensure that:
+
+(i) adequate and effective arrangements have been made to the satisfaction of the bank that the commitments would be met out of their own resources by the party on whose behalf guarantee was issued and
+
+(ii) the bank will not be called upon to grant any loan or advance to meet the liability, consequent upon the invocation of the guarantee.
+
+5
+
+In case, such contingencies arise as at (ii) above, the bank will be deemed to be a party to the violation of the provisions of Section 20 of the Banking Regulation Act, 1949.
+
+## **2.2.7 Bank Guarantee Scheme of Government of India[2](#page-7-0)**
+
+- 2.2.7.1 The Bank Guarantee Scheme formulated by the Government of India for the issuance of bank guarantees in favour of Central Government Departments, in lieu of security deposits, etc. by contractors, has been modified from time to time. Under the scheme, it is open to Government Departments to accept freely guarantees, etc. from all scheduled commercial banks.
+- 2.2.7.2 Banks should adopt the Model Form of Bank Guarantee Bond given in **[Annex 1.](#page-22-0)** The Govern

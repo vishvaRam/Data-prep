@@ -1,0 +1,31 @@
+purchased is on a reference obligation which ranks pari passu with or is junior to the underlying reference obligation of the written credit derivative in the case of single name credit derivatives[155](#page-174-4); and
+- the remaining maturity of the credit protection purchased is equal to or greater than the remaining maturity of the written credit derivative.
+
+16.4.3.14 Since written credit derivatives are included in the exposure measure at their effective notional amounts, and are also subject to add-on amounts for PFE, the exposure measure for
+
+<span id="page-174-0"></span> <sup>151</sup> The effective notional amount is obtained by adjusting the notional amount to reflect the true exposure of contracts that are leveraged or otherwise enhanced by the structure of the transaction.
+
+<span id="page-174-1"></span><sup>152</sup> A negative change in fair value is meant to refer to a negative fair value of a credit derivative that is recognised in Tier 1 capital. This treatment is consistent with the rationale that the effective notional amounts included in the exposure measure may be capped at the level of the maximum potential loss, which means the maximum potential loss at the reporting date is the notional amount of the credit derivative minus any negative fair value that has already reduced Tier 1 capital. For example, if a written credit derivative had a positive fair value of 20 on one date and has a negative fair value of 10 on a subsequent reporting date, the effective notional amount of the credit derivative may be reduced by 10. The effective notional amount cannot be reduced by 30. However, if at the subsequent reporting date the credit derivative has a positive fair value of 5, the effective notional amount cannot be reduced at all.
+
+<span id="page-174-2"></span><sup>153</sup> Two reference names are considered identical only if they refer to the same legal entity. For single-name credit derivatives, protection purchased that references a subordinated position may offset protection sold on a more senior position of the same reference entity as long as a credit event on the senior reference asset would result in a credit event on the subordinated reference asset.
+
+<span id="page-174-3"></span><sup>154</sup> The effective notional amount of a written credit derivative may be reduced by any negative change in fair value reflected in the bank's Tier 1 capital provided the effective notional amount of the offsetting purchased credit protection is also reduced by any resulting positive change in fair value reflected in Tier 1 capital.
+
+<span id="page-174-4"></span><sup>155</sup> For tranched products if applicable, the purchased protection must be on a reference obligation with the same level of seniority.
+
+written credit derivatives may be overstated. Banks may therefore choose to deduct the individual PFE add-on amount relating to a written credit derivative (which is not offset according to paragraph 16.4.3.13 and whose effective notional amount is included in the exposure measure) from their gross add-on in paragraphs 16.4.3.2 to 16.4.3.4[156](#page-175-0).
+
+## **16.4.4 Securities financing transaction exposures**
+
+16.4.4.1 SFTs[157](#page-175-1) are included in the exposure measure according to the treatment described in the following paragraphs. The treatment recognises that secured lending and borrowing in the form of SFTs is an important source of leverage and ensures consistent international implementation by providing a common measure for dealing with the main differences in the operative accounting frameworks.
+
+16.4.4.2 *General treatment (bank acting as principal)*: the sum of the amounts in subparagraphs (A) and (B) below are to be included in the leverage ratio exposure measure:
+
+- (A) Gross SFT assets[158](#page-175-2) recognised for accounting purposes (i.e., with no recognition of accounting netting)[159](#page-175-3), adjusted as follows:
+	- (i) excluding from the exposure measure the value of any securities received under an SFT, where the bank has recognised the securities as an asset on its balance sheet[160;](#page-175-4) and
+	- (ii) cash payables and cash receivables in SFTs with the same counterparty may be measured net if all the following criteria are met:
+		- (a) Transactions have the same explicit final settlement date;
+
+<span id="page-175-0"></span> <sup>156</sup> In these cases, where effective bilateral netting contracts are in place, and when calculating ANet = 0.4·AGross+ 0.6·NGR·AGross as per paragraphs 16.4.3.2 to 16.4.3.4, AGross may be reduced by the individual add-on amounts (i.e., notionals multiplied by the appropriate add-on factors) which relate to written credit derivatives whose notional amounts are included in the leverage ratio exposure measure. However, no adjustments must be made to NGR. Where effective bilateral netting contracts are not in place, the PFE add-on may be set to zero in order to avoid the double-counting described in this paragraph.
+
+<sp

@@ -1,0 +1,31 @@
+d assets for HFCs shall be aligned with those of NBFCs in the interest of harmonization of regulations. Accordingly, the instructions contained in para 33 of Master Direction – [Non-Banking Financial Companies](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563)  [Acceptance of Public Deposits \(Reserve Bank\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563)[1](#page-3-0) on *Safe Custody of Liquid Assets / Collection of Interest on SLR Securities* shall, *mutatis-mutandis,* be applicable to deposit taking HFCs; and the existing regulations on *Safe custody of approved securities* as contained in para 40 of [Master Direction –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030) Non-Banking Financial Company – [Housing Finance Company \(Reserve Bank\) Directions, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030) shall stand repealed.
+
+#### **Full cover for public deposits**
+
+4. HFCs shall ensure that full asset cover is available for public deposits accepted by them at all times in terms of para 42.1 of Master Direction – [Non-Banking Financial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030) 
+
+(ii) designate one of the scheduled commercial banks, in the place where the registered office of the non-banking financial company is situated, as its designated banker and entrust, in physical form, to such bank or the SHCIL the unencumbered term deposits in any scheduled commercial bank maintained by it in pursuance of directions as specified in Chapter III of these directions;
+
+and intimate the name and address of such entity where it has opened its gilt account or the depository (and the depository participant) where it has held its dematerialised account, in writing, to the Regional Office of the Bank under whose jurisdiction the registered office of the company is situated, as specified in First Schedule hereto:
+
+Provided that where a non-banking financial company intends to entrust the securities specified in clause (ii) above with the entity, at a place other than the place at which its registered office is located, it may do so with the prior approval, in writing, of the Regional Office of the Bank under whose jurisdiction the registered office of the company is situated, as specified in First Schedule hereto:
+
+Provided further that the government securities held in the said SGL account or gilt account or dematerialised account, shall not be traded, either by entering into ready forward contracts, including reverse ready forward contracts, or otherwise, except, by following the procedure and to the extent, as hereinafter specified.
+
+(2) The securities mentioned in sub-paragraph (1) above shall continue to be kept as specified therein for the benefit of the depositors and shall not be withdrawn or encashed or otherwise dealt with by the non-banking financial company except for repayment to the depositors with the prior approval of Reserve Bank of India:
+
+Provided that,
+
+(i) a non-banking financial company may withdraw a portion of such securities in proportion to the reduction of its public deposits duly certified to that effect by its auditor;
+
+(ii) the market value of these securities shall, at no point of time, be less than the percentage of public deposits as specified in the directions as specified in Chapter III of these directions.
+
+(3) Where the non-banking financial company intends to trade, either by entering into ready forward contracts, including reverse ready forward contracts, or otherwise, in the government securities that are held in excess of the requirement under section 45-IB of the Act and directions as specified in Chapter III of these directions, the same shall be undertaken by opening a separate SGL account or gilt account or dematerialised account, subject to the Bank's instructions in the matter, for keeping such excess government securities.
+
+<span id="page-3-0"></span><sup>1</sup> **33. Safe Custody of Liquid Assets** 
+
+<sup>(1)</sup> every non-banking financial company shall -
+
+<sup>(</sup>i) open a Subsidiary General Ledger (SGL) account with the Bank or a Gilt account with Constituent's Subsidiary General Ledger (CSGL) account holder or a dematerialized account with a depository through a depository participant registered with the Securities and Exchange Board of India and keep the unencumbered approved securities required to be maintained by it in pursuance of section 45-IB of the RBI Act and the Directions as specified in Chapter III of these directions in such account;
+
+<sup>(4)</sup> In order to protect the interest of depositors, an exclusive SGL or gilt account or dematerialized account to hold Government securities shall be maintained for securities held for the purpose of compliance with section 45-IB of the Act. This account shall be operated only for purchase or sale of securities due to increase or decrease in the quantum of public deposits or withdrawal of secu

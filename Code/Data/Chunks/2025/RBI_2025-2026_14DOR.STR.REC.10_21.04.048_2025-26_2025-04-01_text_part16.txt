@@ -1,0 +1,70 @@
+ be got valued once in three years by valuers appointed as per the guidelines approved by the Board of Directors.
+
+### **10. Compromise settlements and technical write-offs - What are the guidelines to be complied by banks, for undertaking compromise settlements and technical write-offs?**
+
+Please refer to the ['Framework for Compromise Settlements and Technical Write-offs' dated June 08,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0)  [2023](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0) and the [FAQs](https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=160) on the same, issued on June 20, 2023.
+
+#### **Prudential Guidelines on Restructuring of Advances**
+
+## **Key Concepts**
+
+### <span id="page-30-0"></span>**i) Advances**
+
+The term 'Advances' will mean all kinds of credit facilities including cash credit, overdrafts, term loans, bills discounted / purchased, receivables, etc. and investments other than that in the nature of equity.
+
+### **ii) Fully Secured**
+
+When the amounts due to a bank (present value of principal and interest receivable as per restructured loan terms) are fully covered by the value of security, duly charged in its favour in respect of those dues, the bank's dues are considered to be fully secured. While assessing the realisable value of security, primary as well as collateral securities would be reckoned, provided such securities are tangible securities and are not in intangible form like guarantee etc., of the promoter / others. However, for this purpose the bank guarantees, State Government Guarantees and Central Government Guarantees will be treated on par with tangible security.
+
+### **iii) Restructured Accounts**
+
+A restructured account is one where the bank, for economic or legal reasons relating to the borrower's financial difficulty, grants to the borrower concessions that the bank would not otherwise consider. Restructuring would normally involve modification of terms of the advances / securities, which would generally include, among others, alteration of repayment period / repayable amount / the amount of instalments / rate of interest (due to reasons other than competitive reasons).
+
+#### **iv) Repeatedly Restructured Accounts**
+
+When a bank restructures an account a second (or more) time(s), the account will be considered as a 'repeatedly restructured account'. However, if the second restructuring takes place after the period up to which the concessions were extended under the terms of the first restructuring, that account shall not be reckoned as a 'repeatedly restructured account'.
+
+### **v) SMEs**
+
+Small and Medium Enterprises as defined in terms of the [circular FIDD.MSME &](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11951&Mode=0)  [NFS.BC.No.4/06.02.31/2020-21 dated August 21, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11951&Mode=0) on 'New Definition of Micro, Small and Medium Enterprises – clarifications'as updated from time to time.
+
+#### **vi) Specified Period**
+
+Specified Period means a period of one year from the date when the first payment of interest or installment of principal falls due under the terms of restructuring package.
+
+#### **vii) Satisfactory Performance**
+
+Satisfactory performance during the specified period means adherence to the following conditions during that period.
+
+#### Non-Agricultural Cash Credit Accounts
+
+In the case of non-agricultural cash credit accounts, the account should not be out of order any time during the specified period. In addition, there should not be any overdues at the end of the specified period.
+
+### Non-Agricultural Term Loan Accounts
+
+In the case of non-agricultural term loan accounts, no payment should remain overdue for a period of more than 90 days. In addition there should not be any overdues at the end of the specified period.
+
+### All Agricultural Accounts
+
+In the case of agricultural accounts, at the end of the specified period the account should be regular.
+
+#### **Annex 6** (vide para 2.2.7.29)
+
+<span id="page-32-0"></span>
+
+
+### **Prudential Guidelines on Restructuring of Advances**
+
+### **Prudential Guidelines on Restructuring of Advances**
+
+<span id="page-33-0"></span>
+
+
+
+## **Guidelines on Asset Classification of Projects under Implementation**
+
+<span id="page-35-0"></span>Banks must fix a Date of Commencement of Commercial Operations (DCCO) for all project loans at the time of sanction of the loan / financial closure[9](#page-35-1) (in the case of multiple banking or consortium arrangements). For the purpose of IRAC norms, all project loans may be divided into the following two categories; (i) Project Loans for infrastructure sector (ii) Project Loans for non-infrastructure sector.
+
+## **1. Project Loans for Infrastructure Sector**
+
+1.1 A loan for an infrastructure project will be classified as NPA during any time before commencement of commercial operations as per record of recovery (90 days overdue), unless it is restructure

@@ -1,0 +1,38 @@
+ as Tier II capital as defined below and subject to a limit of 1.25% of risk weight assets provided it is not attributed to any identified potential loss or diminution in value of an asset or a known liability.*
+- *(iii) Outstanding Innovative Perpetual Debt Instruments (IPDI) which were issued in terms of Annex to [circular UCB.PCB.Cir.No.39/09.16.900/08-09 dated January](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4782&Mode=0)  23, [2009](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4782&Mode=0) shall also be eligible to be reckoned as Tier I capital subject to the ceilings prescribed in Annexes to this Master Circular. It may be noted that the Annex to circular dated January 23, 2009 has since been repealed vide [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0)  [No. DOR.CAP.REC.92/09.18.201/2021-22 dated March 08, 2022,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0) and with effect from March 08, 2022, amount issued through PDI by conversion of existing deposits as part of revival plan/ financial reconstruction of the UCBs (in terms of circular dated January 23, 2009) shall comply with the [Annex 4](#page-25-0) of this Master Circular.*
+
+### **4.2 Tier II Capital**
+
+Tier II capital shall comprise the following:
+
+### **4.2.1 General Provisions and Loss Reserves**
+
+These would include such provisions of general nature appearing in the books of the bank which are not attributed to any identified potential loss or a diminution in value of an asset or a known liability. Adequate care must be taken to ensure that sufficient provisions have been made to meet all known losses and foreseeable potential losses before considering any amount of general provision as part of Tier II capital as indicated above. To illustrate: General provision for Standard Assets, excess provision on transfer of stressed loans etc. could be considered for inclusion under this category. Such provisions which are considered for inclusion in Tier II capital will be admitted up to 1.25% of total risk weighted assets.
+
+As per the extant instructions, provisions made for NPAs as per prudential norms are deducted from the amount of Gross NPAs to arrive at the amount of Net NPAs. The prudential treatment of different type of provisions and its treatment for capital adequacy purposes is given below:
+
+#### (a) Additional General Provisions (Floating Provisions)
+
+Additional general provisions (floating provisions) for bad debts i.e., provisions not earmarked for any specific loan impairments (NPAs) may be used either for netting off of gross NPAs or for inclusion in Tier II capital within the overall ceiling of 1.25% of total risk weighted assets but cannot be used on both counts.
+
+#### (b) Additional Provisions for NPAs at higher than prescribed rates
+
+In cases where banks make specific provision for NPAs in excess of what is prescribed under the prudential norms, the total specific provision may be deducted from the amount of Gross NPAs while reporting the amount of Net NPAs. The additional specific provision made by the bank will not be reckoned as Tier II capital.
+
+(c) Excess Provisions on transfer of stressed loans to Asset Reconstruction Companies (ARC)
+
+In terms of instructions issued vid[e Reserve Bank of India \(Transfer of Loan](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166)  [Exposures\) Directions, 2021 dated September 24, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166) and as amended from time to time, excess provisions on transfer of stressed loans to ARC, until reversal, shall continue to be shown under 'provisions' and would be considered as Tier II capital within the overall ceiling of 1.25% of risk weighed assets.
+
+#### (d) Provisions for Diminution in Fair Value
+
+Provisions for diminution in the fair value of restructured accounts, both in respect of standard assets and NPAs, are permitted to be netted from the relative loan asset and will not be reckoned as Tier II capital.
+
+#### **4.2.2 Investment Fluctuation Reserve**
+
+Balances in the Investment Fluctuation Reserve, created in terms of [Master](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12473)  Direction – [Reserve Bank of India \(Classification, Valuation and Operation](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12473)  [of Investment Portfolio of Primary \(Urban\) Co-operative Banks\) Directions,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12473)  [2023 dated April 1, 2023,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12473) shall be eligible for inclusion in Tier II capital.
+
+#### **4.2.3 Tier II capital instruments**
+
+UCBs may issue the following instruments to augment their Tier II capital:
+
+a) Upper Tier II instruments - Perpetual Cumulative Preference Shares (PCPS), Redeemable Non-Cumulative Preference Shares (RNCPS) and Redeemable Cumulative Preference Shares (RCPS) which comply with the regulatory requ

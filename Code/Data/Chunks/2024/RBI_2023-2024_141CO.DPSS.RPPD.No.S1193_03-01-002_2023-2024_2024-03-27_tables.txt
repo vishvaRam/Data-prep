@@ -1,0 +1,7 @@
+| Date           | Presentation Session       | Return Session             |
+|----------------|----------------------------|----------------------------|
+| March 30, 2024 | 17:00 Hours to 17:30 Hours | 19:00 Hours to 19:30 Hours |
+| (Saturday)     |                            |                            |
+| March 31, 2024 | 17:00 Hours to 17:30 Hours | 19:00 Hours to 19:30 Hours |
+| (Sunday)       |                            |                            |
+

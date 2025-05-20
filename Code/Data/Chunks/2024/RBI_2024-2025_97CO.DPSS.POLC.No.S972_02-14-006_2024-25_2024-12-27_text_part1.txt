@@ -1,0 +1,32 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2024-2025/97 CO.DPSS.POLC.No.S972/02-14-006/2024-25 December 27, 2024
+
+All Prepaid Payment Instrument Issuers (Banks and Non-banks), National Payments Corporation of India (NPCI) and System Participants
+
+Madam / Dear Sir,
+
+## **Unified Payments Interface (UPI) access for Prepaid Payment Instruments (PPIs) through third-party applications**
+
+Currently, UPI payments from / to a bank account can be carried out using the UPI application of that bank or of any third-party application provider. However, UPI payments from / to a PPI can only be carried out using the mobile application provided by the PPI issuer.
+
+2. As announced in the [Statement on Development and Regulatory Policies dated April 05,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57639)  [2024](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57639), it has been decided to enable UPI payments from / to full-KYC PPIs through third-party UPI applications. This will enable PPI holders to make / receive UPI payments through the mobile application of third-party UPI applications. The relevant provisions have been amended in Master Directions [CO.DPSS.POLC.No.S-479/02.14.006/2021-22 dated August 27, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12156) on [Prepaid Payment Instruments](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12156) (MD-PPIs) (see [Annex\)](#page-1-0).
+
+3. This circular is issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(Gunveer Singh) Chief General Manager-in-Charge
+
+> भगतान और �नपटान प्रणाल� �वभाग ु , केंद्र�य कायार्लय, 14 वी मंिजल, केंद्र�य कायार्लय भवन, शह�द भगत �स ंह मागर्, फोटर्, मम्बई ु – 400 001 फोन: (91-22) 2264 4995, फै क्स Fax: (91-22) 2265 9566, 2269 1557, ई-मेल: [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+Department of Payment and settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001. Phone: (91-22) 2264 4995, Fax: (91-22) 2265 9566, 2269 1557, Email[: cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+�हंद� आसान है, इसका प्रयोग बढ़ाइए
+
+## <span id="page-1-0"></span>**Revised provisions of the MD-PPIs:**
+
+## Requirements for achieving interoperability through UPI
+
+
+## **Annex**

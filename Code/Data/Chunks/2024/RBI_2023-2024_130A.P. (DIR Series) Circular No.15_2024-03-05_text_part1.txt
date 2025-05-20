@@ -1,0 +1,23 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2023-24/130 A.P. (DIR Series) Circular No.15 March 05, 2024
+
+To
+
+All Authorised Persons, who are Indian Agents under Money Transfer Service Scheme
+
+Madam / Sir,
+
+## **Money Transfer Service Scheme - Submission of Statement on CIMS**
+
+Please refer to the [A.P. \(DIR Series\) Circular No.70 dated May 19, 2016,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10405&Mode=0) wherein all Authorised Persons who are Indian Agents under the Money Transfer Service Scheme (MTSS) were required to submit a quarterly statement (within 15 days from the close of the quarter to which it relates) on the quantum of remittances received through MTSS using the eXtensible Business Reporting Language (XBRL) platform.
+
+2. With the launch of the Reserve Bank's next generation data warehouse viz., the Centralised Information Management System (CIMS), it has been decided that the reporting of the aforesaid statement will be done on CIMS portal (URL: [https://sankalan.rbi.org.in/\)](https://sankalan.rbi.org.in/) with effect from the quarter-ending March 2024. The statement has been assigned return code - 'R130' on CIMS. In case no remittance was received during a quarter, a 'NIL' report shall be submitted.
+
+3. The Master Direction on ['Reporting under Foreign Exchange Management Act, 1999'](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10202) is being updated to reflect the changes.
+
+4. The directions contained in this circular have been issued under section 10(4), 11(1), and 11(2) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+
+Yours faithfully,
+
+(Puneet Pancholy) Chief General Manager

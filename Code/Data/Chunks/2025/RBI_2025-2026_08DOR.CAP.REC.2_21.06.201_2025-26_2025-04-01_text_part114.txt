@@ -1,0 +1,48 @@
+here it will be subject to specific risk, counterparty credit risk and general market risk (wherever applicable) capital requirements as applicable to Trading Book.
+
+<span id="page-218-0"></span> <sup>202</sup> Basel II Framework has been modified and enhanced by Basel III capital regulations. Therefore, a reference to Basel II Framework in this Annex should now be construed as reference to Basel III guidelines as contained in this Master Circular
+
+5.1.3 The unprotected portion of the underlying exposure should be risk-weighted as applicable under Basel II framework. The amount of credit protection shall be adjusted if there are any mismatches between the underlying asset/ obligation and the reference / deliverable asset / obligation with regard to *asset* or *maturity*. These are dealt with in detail in the following paragraphs.
+
+## (i) **Asset mismatches**
+
+Asset mismatch will arise if the underlying asset is different from the reference asset or deliverable obligation. Protection will be reckoned as available by the protection buyer only if the mismatched assets meet the requirements specified in paragraph 4 (k) above.
+
+## (ii) **Maturity mismatches**
+
+The protection buyer would be eligible to reckon the amount of protection if the maturity of the credit derivative contract were to be equal or more than the maturity of the underlying asset. If, however, the maturity of the CDS contract is less than the maturity of the underlying asset, then it would be construed as a maturity mismatch. In case of maturity mismatch the amount of protection will be determined in the following manner:
+
+- a. If the residual maturity of the credit derivative product is less than **three months** no protection will be recognized.
+- b. If the residual maturity of the credit derivative contract is **three months** or more protection proportional to the period for which it is available will be recognised. When there is a maturity mismatch the following adjustment will be applied.
+
+$$\mathbf{Pa} = \mathbf{P} \times (\mathbf{t} \cdot \mathbf{.25}) \div (\mathbf{T} \cdot \mathbf{.25})$$
+
+Where:
+
+Pa = value of the credit protection adjusted for maturity mismatch
+
+P = credit protection
+
+t = min (T, residual maturity of the credit protection arrangement) expressed in years
+
+T = min (5, residual maturity of the underlying exposure) expressed in years
+
+*Example: Suppose the underlying asset is a corporate bond of Face Value of Rs. 100 where the residual maturity is of 5 years and the residual maturity of the CDS is 4 years. The amount of credit protection is computed as under:* 
+
+$$\uparrow\uparrow\text{00}\uparrow\langle (\text{4-.25})\star(\text{5-.25})\rangle = \uparrow\text{00}\uparrow\langle \text{3.75}\star\text{4.75}\rangle = \uparrow\text{8.95}\uparrow$$
+
+c. Once the residual maturity of the CDS contract reaches **three months**, protection ceases to be recognised.
+
+### **5.2 Internal Hedges**
+
+Banks can use CDS contracts to hedge against the credit risk in their existing corporate bonds portfolios. A bank can hedge a Banking Book credit risk exposure either by an internal hedge (the protection purchased from the trading desk of the bank and held in the Trading Book) or an external hedge (protection purchased from an eligible third party protection provider). When a bank hedges a Banking Book credit risk exposure (corporate bonds) using a CDS booked in its Trading Book (i.e. using an internal hedge), the Banking Book exposure is not deemed to be hedged for capital purposes unless the bank transfers the credit risk from the Trading Book to an eligible third party protection provider through a CDS meeting the requirements of paragraph 5.1 vis-à-vis the Banking Book exposure. Where such third party protection is purchased and is recognised as a hedge of a Banking Book exposure for regulatory capital purposes, no capital is required to be maintained on internal and external CDS hedge. In such cases, the external CDS will act as indirect hedge for the Banking Book exposure and the capital adequacy in terms of paragraph 5.1, as applicable for external / third party hedges, will be applicable.
+
+## **6. Capital Adequacy for CDS in the Trading Book**
+
+### **6.1 General Market Risk**
+
+A credit default swap does not normally create a position for general market risk for either the protection buyer or protection seller. However, the present value of premium payable / receivable is sensitive to changes in the interest rates. In order to measure the interest rate risk in premium receivable/payable, the present value of the premium can be treated as a notional position in Government securities of relevant maturity. These positions will attract appropriate capital charge for general market risk. The protection buyer / seller will treat the present value of the premium payable / receivable equivalent to a short / long notional position in Government securities of relevant maturity.
+
+### **6.2 Specific Risk for Exposure to Reference Entity**
+
+A CD

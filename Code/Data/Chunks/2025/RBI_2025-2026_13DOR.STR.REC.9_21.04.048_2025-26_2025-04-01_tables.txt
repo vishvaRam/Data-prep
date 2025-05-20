@@ -1,0 +1,381 @@
+|    | Part A 5                                                                    |  |  |  |
+|----|-----------------------------------------------------------------------------|--|--|--|
+| 1. | GENERAL  5                                                                  |  |  |  |
+| 2. | DEFINITIONS 5                                                               |  |  |  |
+|    | 2.1<br>Non-performing Assets  5                                             |  |  |  |
+|    | 2.2 'Out of Order' status 6                                                 |  |  |  |
+|    | 2.3 'Overdue' status  6                                                     |  |  |  |
+|    | 3. INCOME RECOGNITION  6                                                    |  |  |  |
+|    | 3.1<br>Income Recognition Policy 7                                          |  |  |  |
+|    | 3.2<br>Reversal of income 7                                                 |  |  |  |
+|    | 3.3<br>Appropriation of recovery in NPAs 8                                  |  |  |  |
+|    | 3.4<br>Interest Application 8                                               |  |  |  |
+|    | 3.5<br>Computation of NPA levels  8                                         |  |  |  |
+| 4. | ASSET CLASSIFICATION 8                                                      |  |  |  |
+|    | 4.1<br>Categories of NPAs 8                                                 |  |  |  |
+|    | 4.2<br>Guidelines for classification of assets 9                            |  |  |  |
+|    | 5. PROVISIONING NORMS  27                                                   |  |  |  |
+|    | 5.1 General 27                                                              |  |  |  |
+|    | 5.2 Loss assets  27                                                         |  |  |  |
+|    | 5.3 Doubtful assets 27                                                      |  |  |  |
+|    | 5.4 Substandard assets  28                                                  |  |  |  |
+|    | 5.5 Standard assets  30                                                     |  |  |  |
+|    | 5.6 Prudential norms on creation and utilisation of floating provisions 31  |  |  |  |
+|    | 5.7 Additional Provisions at higher than prescribed rates  32               |  |  |  |
+|    | 5.8 Provisions on Leased Assets  33                                         |  |  |  |
+|    | 5.9 Guidelines for Provisions under Special Circumstances 33                |  |  |  |
+|    | 5.10 Provisioning Coverage Ratio 38                                         |  |  |  |
+|    | 6. Writing-off of NPAs  38                                                  |  |  |  |
+|    | 6.1 General 38                                                              |  |  |  |
+|    | 6.2 Write-off at Head Office Level  39                                      |  |  |  |
+|    | 7. NPA Management – Requirement of Effective Mechanism and Granular Data 39 |  |  |  |
+|    | PART B1 - Framework for Resolution of Stressed Assets  41                   |  |  |  |
+
+| 8. Early identification and reporting of stress 41                                                                                           |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 9. Implementation of Resolution Plan 42                                                                                                      |  |
+| 10. Implementation Conditions for RP 43                                                                                                      |  |
+| 11. Delayed Implementation of Resolution Plan 44                                                                                             |  |
+| 12. Prudential Norms  45                                                                                                                     |  |
+| 13. Supervisory Review 45                                                                                                                    |  |
+| 14. Disclosures 46                                                                                                                           |  |
+| 15. Exemptions  46                                                                                                                           |  |
+| Part B2: Prudential Norms Applicable to Restructuring 48                                                                                     |  |
+| 16. Definition of Restructuring  48                                                                                                          |  |
+| 17. Prudential Norms  49                                                                                                                     |  |
+| 18. Provisioning Norms 51                                                                                                                    |  |
+| 19. Additional Finance  52                                                                                                                   |  |
+| 20. Income recognition norms  52                                                                                                             |  |
+| 21. Conversion of Principal into Debt / Equity and Unpaid Interest into 'Funded Interest Term Loan' (FITL),<br>Debt or Equity Instruments 52 |  |
+| 22. Change in Ownership 55                                                                                                                   |  |
+| 23. Principles on classification of sale and lease back transactions as restructuring  56                                                    |  |
+| 24. Prudential Norms relating to Refinancing of Exposures to Borrowers  56                                                                   |  |
+| 25. Takeout Finance 56                                                                                                                       |  |
+| 26. Regulatory Exemptions  56                                                                                                                |  |
+| 27. Restructuring of frauds/willful defaulters 57                                                                                            |  |
+| PART C – Miscellaneous  58                                                                                                                   |  |
+| 28. Wilful Defaulters  58                                                                                                                    |  |
+| 29. Dissemination of Information  59                                                                                                         |  |
+| 30. Bank Loans for Financing Promoters' Contribution 59                                                                                      |  |
+| 31. Credit Risk Management  59                                                                                                               |  |
+| 32. Registration of Transactions with CERSAI 60                                                                                              |  |
+| 33. Board Oversight  60                                                                                                                      |  |
+| 34. Specification of due date/repayment date  60                                                                                             |  |
+| 35.<br>Consumer Education 61                                                                                                                 |  |
+| PART D - ANNEXES 62                                                                                                                          |  |
+| Annex - 1 62                                                                                                                                 |  |
+| Details of Gross Advances, Gross NPAs, Net Advances and Net NPAs 62                                                                          |  |
+
+| Annex – 2 64                                                              |  |
+|---------------------------------------------------------------------------|--|
+| Activities eligible for crop season linked asset classification norms  64 |  |
+| Annex – 3 66                                                              |  |
+| Format for Computing Countercyclical Provisioning Buffer  66              |  |
+| Annex – 4 68                                                              |  |
+| Independent Credit Evaluations 68                                         |  |
+| Annex – 5  69                                                             |  |
+| List of Circulars consolidated by the Master Circular on IRAC Norms  69   |  |
+
+| Particulars                                                                                                                                                                                                                                 | Provisioning Requirement |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| If the revised DCCO is within two years/one<br>year from the original DCCO prescribed at<br>the time of financial closure for infrastructure<br>and non-infrastructure projects (including<br>commerical real estate projects) respectively | 0.40 per cent            |
+
+| If the DCCO is extended:                                                                                                               | 5.00 per cent –                     |
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| i) Beyond two years and upto four years or                                                                                             | From the date of                    |
+| three years from the original DCCO, as the                                                                                             | such restructuring till the revised |
+| case may be, for infrastructure projects                                                                                               | DCCO or 2 years from the date of    |
+| depending upon the reasons for such delay;                                                                                             | restructuring, whichever is later   |
+| ii) Beyond one years and upto two years from<br>the original DCCO, for non-infrastructure<br>projects (including real estate projects) |                                     |
+
+| Period for which the advance has | Provisioning requirement<br>(%) |
+|----------------------------------|---------------------------------|
+| remained in 'doubtful' category  |                                 |
+| Up to one year                   | 25                              |
+| One to three years               | 40                              |
+| More than three years            | 100                             |
+
+| Likely Loss / EBID (%)       | Incremental Provisioning Requirement on the<br>total credit exposures over and above extant<br>standard asset provisioning |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Up<br>to 15 per cent         | 0                                                                                                                          |
+| More than 15 per cent and up | 20                                                                                                                         |
+| to 30 per cent               | bps                                                                                                                        |
+| More than 30 per cent and up | 40                                                                                                                         |
+| to 50 per cent               | bps                                                                                                                        |
+| More than 50 per cent and up | 60                                                                                                                         |
+| to 75 per cent               | bps                                                                                                                        |
+| More than 75 per cent        | 80 bps                                                                                                                     |
+
+| Period for which the advance has<br>remained in 'doubtful' category | Provisioning<br>requirement (%) |
+|---------------------------------------------------------------------|---------------------------------|
+| Up to one year                                                      | 25                              |
+| One to three<br>years                                               | 40                              |
+| More than three years                                               | 100                             |
+
+| Outstanding Balance                                                  | Rs. 4 lakhs                                                       |
+|----------------------------------------------------------------------|-------------------------------------------------------------------|
+| ECGC Cover                                                           | 50 percent                                                        |
+| Period<br>for<br>which<br>the<br>advance<br>has<br>remained doubtful | More than 2 years remained doubtful (say<br>as on March 31, 2014) |
+| Value of security held                                               | Rs. 1.50 lakhs                                                    |
+
+| Rs. 4.00 lakhs                                     |
+|----------------------------------------------------|
+| Rs. 1.50 lakhs                                     |
+| Rs. 2.50 lakhs                                     |
+| Rs. 1.25 lakhs                                     |
+|                                                    |
+| Rs. 1.25 lakhs                                     |
+| Rs.<br>1.25<br>lakhs<br>(@<br>100<br>percent<br>of |
+| unsecured portion)                                 |
+| Rs.0.60 lakhs (@ 40 per cent of the                |
+| secured portion)                                   |
+| Rs.1.85 lakhs (as on March 31, 2014)               |
+|                                                    |
+
+| Outstanding Balance                                   | ₹10 lakh                                                                                                  |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| CGTMSE/CRGFTLIH Cover                                 | 75% of the amount outstanding or 75% of the<br>unsecured amount or ₹37.50 lakh, whichever<br>is the least |
+| Period for which the advance has<br>remained doubtful | More than 2 years remained doubtful (say as<br>on March 31, 2014)                                         |
+| Value of security held ₹1.50 lakh                     | Value of security held ₹1.50 lakh                                                                         |
+
+| Balance outstanding                                                 | ₹10.00 lakh |
+|---------------------------------------------------------------------|-------------|
+| Less: Value of security                                             | ₹1.50 lakh  |
+| Unsecured amount                                                    | ₹8.50 lakh  |
+| Less: CGTMSE/CRGFTLIH cover (75%)                                   | ₹6.38 lakh  |
+| Net unsecured and uncovered portion:                                | ₹2.12 lakh  |
+| Provision for Secured portion @ 40% of<br>₹1.50 lakh                | ₹0.60 lakh  |
+| Provision for Unsecured & uncovered<br>portion @ 100% of ₹2.12 lakh | ₹2.12 lakh  |
+| Total provision required                                            | ₹2.72 lakh  |
+
+| Risk category | ECGC<br>Classification | Provisioning<br>Requirement<br>(per cent) |  |
+|---------------|------------------------|-------------------------------------------|--|
+| Insignificant | A1                     | 0.25                                      |  |
+| Low           | A2                     | 0.25                                      |  |
+| Moderate      | B1                     | 5                                         |  |
+| High          | B2                     | 20                                        |  |
+| Very high     | C1                     | 25                                        |  |
+| Restricted    | C2                     | 100                                       |  |
+| Off-credit    | D                      | 100                                       |  |
+
+| SMA Sub<br>categories | Basis for classification –<br>Principal or interest payment or<br>any other amount wholly or partly overdue between |  |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------|--|
+| SMA-0                 | Up<br>to 30 days                                                                                                    |  |
+| SMA-1                 | More than 30 days and up<br>to 60 days                                                                              |  |
+| SMA-2                 | More than 60 days and up<br>to 90 days                                                                              |  |
+
+| SMA Sub<br>categories | Basis for classification –<br>Outstanding balance remains<br>continuously in excess of the sanctioned limit or drawing<br>power, whichever is lower, for a period of: |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SMA-1                 | More than 30 days and up<br>to 60 days                                                                                                                                |
+| SMA-2                 | More than 60 days and up<br>to 90 days                                                                                                                                |
+
+| Aggregate exposure of the borrower to lenders<br>mentioned at 3(a), 3(b) and 3(c) | Reference date                |  |
+|-----------------------------------------------------------------------------------|-------------------------------|--|
+| ₹2000 crore<br>and above                                                          | June 7, 2019                  |  |
+| ₹1500 crore<br>and above, but less than ₹2000 crore                               | January 1, 2020               |  |
+| Less than ₹1500 crore                                                             | To be announced in due course |  |
+
+| Timeline for implementation of<br>viable RP | Additional provisions to be made as a %<br>of total outstanding<br>(funded+non-funded),<br>if RP not implemented within the timeline |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 180 days from the end of Review Period      | 20%                                                                                                                                  |
+
+| Asset<br>Classification                  | Period as NPA      | Regular provisioning (%)                | Accelerated<br>provisioning (%)                |
+|------------------------------------------|--------------------|-----------------------------------------|------------------------------------------------|
+| Sub-standard<br>(secured)                | Up to 6 months     | 15                                      | No change                                      |
+|                                          | 6 months to 1 year | 15                                      | 25                                             |
+| Sub-standard<br>(unsecured ab<br>initio) | Up to 6 months     | 25 (other than infrastructure<br>loans) | 25                                             |
+|                                          |                    | 20 (infrastructure loans)               |                                                |
+|                                          | 6 months to 1 year | 25 (other than infrastructure<br>loans) | 40                                             |
+|                                          |                    | 20 (infrastructure loans)               |                                                |
+| Doubtful I                               | 2nd year           | 25 (secured portion)                    | 40 (secured portion)                           |
+|                                          |                    | 100 (unsecured portion)                 | 100 (unsecured portion)                        |
+| Doubtful II                              | 3rd & 4th year     | 40 (secured portion)                    | 100 for both secured and<br>unsecured portions |
+|                                          |                    | 100 (unsecured portion)                 |                                                |
+| Doubtful III                             | 5th year onwards   | 100                                     | 100                                            |
+
+| (Rs. in Crore up to two decimals) |                                                                                                                                                                                                                                                                      |                                                                                                                                                              |        |  |  |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--|--|
+|                                   |                                                                                                                                                                                                                                                                      | Particulars                                                                                                                                                  | Amount |  |  |
+| 1.                                |                                                                                                                                                                                                                                                                      | Standard Advances                                                                                                                                            |        |  |  |
+| 2.                                |                                                                                                                                                                                                                                                                      | Gross NPAs *                                                                                                                                                 |        |  |  |
+| 3.                                | Gross Advances ** (1+2 )                                                                                                                                                                                                                                             |                                                                                                                                                              |        |  |  |
+| 4.                                | Gross NPAs as a percentage of Gross Advances (2/3)<br>(in %)                                                                                                                                                                                                         |                                                                                                                                                              |        |  |  |
+| 5.                                | Deductions                                                                                                                                                                                                                                                           |                                                                                                                                                              |        |  |  |
+|                                   | (i)                                                                                                                                                                                                                                                                  | Provisions held in the case of NPA Accounts<br>as per asset classification (including additional<br>Provisions for NPAs at higher than prescribed<br>rates). |        |  |  |
+|                                   | (ii)                                                                                                                                                                                                                                                                 | DICGC / ECGC claims received and held<br>pending adjustment                                                                                                  |        |  |  |
+|                                   | (iii)                                                                                                                                                                                                                                                                | Part payment received and kept in Suspense<br>Account or any other similar account                                                                           |        |  |  |
+|                                   | (iv)                                                                                                                                                                                                                                                                 | Balance<br>in<br>Sundries<br>Account<br>(Interest<br>Capitalization -<br>Restructured Accounts), in<br>respect of NPA Accounts                               |        |  |  |
+|                                   | (v)                                                                                                                                                                                                                                                                  | Floating Provisions***                                                                                                                                       |        |  |  |
+| 6.                                | Net Advances(3-5)                                                                                                                                                                                                                                                    |                                                                                                                                                              |        |  |  |
+| 7.                                | Net NPAs {2-5(i + ii + iii + iv + v)}                                                                                                                                                                                                                                |                                                                                                                                                              |        |  |  |
+| 8.                                | Net NPAs as percentage of Net Advances (7/6) (in %)                                                                                                                                                                                                                  |                                                                                                                                                              |        |  |  |
+|                                   | *<br>Principal dues of NPAs plus Funded Interest Term Loan (FITL) where the<br>corresponding contra credit is parked in Sundries Account (Interest<br>Capitalization -<br>Restructured Accounts), in respect of NPA Accounts.                                        |                                                                                                                                                              |        |  |  |
+| **                                | For the purpose of this Statement, 'Gross Advances' mean all outstanding<br>loans and advances including advances for which refinance has been<br>received but excluding rediscounted bills, and advances written off at<br>Head Office level (Technical write off). |                                                                                                                                                              |        |  |  |
+| ***                               | Floating Provisions would be deducted while calculating Net NPAs, to<br>the<br>extent, banks have exercised this option, over utilising it towards Tier II<br>capital.                                                                                               |                                                                                                                                                              |        |  |  |
+
+|    | (Rs. in Crore up to two decimals)                                                                    |        |  |  |  |
+|----|------------------------------------------------------------------------------------------------------|--------|--|--|--|
+|    | Particulars                                                                                          | Amount |  |  |  |
+| 1. | Provisions on Standard Assets in Part A above                                                        |        |  |  |  |
+| 2. | Interest recorded as Memorandum Item                                                                 |        |  |  |  |
+| 3. | Amount of cumulative Technical Write -<br>Off in<br>respect of NPA accounts reported in Part A above |        |  |  |  |
+
+|    | Amount in Rs. in Crore                                                                              |                                                                 |                                                          |                        |                |                           |
+|----|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|------------------------|----------------|---------------------------|
+|    | Computing Countercyclical Provisioning Buffer as on September 30, 2010                              |                                                                 |                                                          |                        |                |                           |
+|    | 1<br>2                                                                                              | 3                                                               | 4                                                        | 5                      | 6              | 7                         |
+|    |                                                                                                     | Gross<br>NPA @ Plus<br>Technical /<br>Prudential<br>Write-off * | Specific<br>Provisions<br>for NPAs<br>held /<br>required | Technical<br>write-off | Total<br>(4+5) | Ratio<br>of (6)<br>to (3) |
+| 1. | Sub-Standard Advances                                                                               |                                                                 |                                                          |                        |                |                           |
+| 2. | Doubtful Advances<br>(a+b+c)                                                                        |                                                                 |                                                          |                        |                |                           |
+|    | a<br>< 1 year                                                                                       |                                                                 |                                                          |                        |                |                           |
+|    | b<br>1-3 Years                                                                                      |                                                                 |                                                          |                        |                |                           |
+|    | c<br>>3 years                                                                                       |                                                                 |                                                          |                        |                |                           |
+| 3. | Advances classified as<br>Loss Assets                                                               |                                                                 |                                                          |                        |                |                           |
+| 4. | Total                                                                                               |                                                                 |                                                          |                        |                |                           |
+| 5. | Floating Provisions for<br>Advances (only to the<br>extent they are not used<br>as Tier II Capital) |                                                                 |                                                          |                        |                |                           |
+| 6. | DICGC / ECGC claims<br>received and held<br>pending<br>adjustment                                   |                                                                 |                                                          |                        |                |                           |
+| 7. | Part payment received<br>and kept in Suspense<br>Account or any other<br>similar account            |                                                                 |                                                          |                        |                |                           |
+| 8. | Total<br>(Sum of column 6<br>of<br>Row 4+ Row 5 + Row 6+<br>Row 7)                                  |                                                                 |                                                          |                        |                |                           |
+| 9. | Provision Coverage<br>Ratio<br>{(Row 8/Total of<br>Column 3 of Row 4)*100}                          |                                                                 |                                                          |                        |                |                           |
+
+| 10.<br>If PCR < 70%, shortfall in<br>provisioning to achieve<br>PCR of 70% (70% of<br>Column 3 of Row 4 -<br>Row<br>8) |   |                                                                                                                                                                                                                                                                                                                        |  |
+|------------------------------------------------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|                                                                                                                        | a | Countercyclical<br>Provisioning Buffer,<br>if bank has achieved<br>PCR of 70% -<br>Floating<br>Provisions for<br>advances to the extent<br>not used as Tier II<br>capital (Row 5)                                                                                                                                      |  |
+| 11.                                                                                                                    | b | Countercyclical<br>Provisioning Buffer,<br>if bank has not<br>achieved PCR of 70%<br>-<br>Floating Provisions<br>for advances to the<br>extent not used as Tier<br>II capital (Row 5) +<br>Shortfall in<br>provisioning to achieve<br>PCR of 70%, if any<br>(Row 10) which needs<br>to be built up at the<br>earliest. |  |
+
+| ICE<br>Symbols | Definition                                                                                                                                                                                                             |  |  |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
+| RP1            | Debt facilities/instruments with this symbol are considered to have the highest<br>degree of safety regarding timely servicing of financial obligations. Such debt<br>facilities/instruments carry lowest credit risk. |  |  |
+| RP2            | Debt facilities/instruments with this symbol are considered to have high degree<br>of safety regarding timely servicing of financial obligations. Such debt<br>facilities/instruments carry very low credit risk.      |  |  |
+| RP3            | Debt facilities/instruments with this symbol are considered to have adequate<br>degree of safety regarding timely servicing of financial obligations. Such debt<br>facilities/instruments carry low credit risk.       |  |  |
+| RP4            | Debt facilities/instruments with this symbol are considered to have moderate<br>degree of safety regarding timely servicing of financial obligations. Such debt<br>facilities/instruments carry moderate credit risk.  |  |  |
+| RP5            | Debt facilities/instruments with this symbol are considered to have moderate risk<br>of default regarding timely servicing of financial obligations.                                                                   |  |  |
+| RP6            | Debt facilities/instruments with this symbol are considered to have high risk of<br>default regarding timely servicing of financial obligations.                                                                       |  |  |
+| RP7            | Debt facilities/instruments with this symbol are considered to have very high risk<br>of default regarding timely servicing of financial obligations.                                                                  |  |  |
+
+| S.no | Circular no.                                            | Date       | Subject                                                                                                                                                                                        |
+|------|---------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.   | Para 2.C.(a) of<br>DOR.STR.REC.57/21.06.001/20<br>23-24 | 16.11.2023 | Regulatory<br>measures<br>towards<br>consumer credit<br>and<br>bank<br>credit<br>to<br>NBFCs                                                                                                   |
+| 2.   | DOR.STR.REC.85/21.04.048/20<br>21-22                    | 15.02.2022 | Prudential<br>norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning pertaining to<br>Advances –<br>Clarifications                                                  |
+| 3.   | DOR.STR.REC.68/21.04.048/20<br>21-22                    | 12.11.2021 | Prudential<br>norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning pertaining to<br>Advances -<br>Clarifications                                                  |
+| 4.   | DOR.No.BP.BC.33/21.04.048/2<br>019-20                   | 07.02.2020 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Pertaining<br>to<br>Advances<br>-Projects<br>under Implementation                           |
+| 5.   | DBR.No.BP.BC.45/21.04.048/2<br>018-19                   | 07.06.2019 | Prudential Framework for<br>Resolution<br>of<br>Stressed<br>Assets                                                                                                                             |
+| 6.   | DBR.BP.BC.No.72/08.12.015/2<br>016-17                   | 07.06.2017 | Individual Housing Loans<br>: Rationalisation of<br>Risk-Weights and Loan<br>to Value (LTV) Ratios                                                                                             |
+| 7.   | DBR.No.BP.BC.64/21.04.048/2<br>016-17                   | 08.04.2017 | Additional Provisions For<br>Standard<br>Advances<br>At<br>Higher<br>Than<br>The<br>Prescribed Rates                                                                                           |
+| 8.   | DBR.No.BP.BC.34/21.04.132/2<br>016-17                   | 10.11.2016 | Schemes<br>for<br>Stressed<br>Assets –<br>Revisions (only<br>instructions on deferment<br>of DCCO)                                                                                             |
+| 9.   | DBR.No.BP.BC.92/21.04.048/2<br>015-16                   | 18.04.2016 | Provisioning<br>for<br>fraud<br>accounts                                                                                                                                                       |
+| 10.  | DBR.No.BP.BC.84/21.04.048/2<br>014-15                   | 06.04.2015 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>pertaining to Advances -<br>Projects<br>Under<br>Implementation -<br>Change<br>in Ownership |
+
+| 11. | DBR.No.BP.BC.85/21.04.048/2<br>014-15   | 06.04.2015 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning pertaining to<br>Advances –<br>Refinancing<br>of<br>Exposures<br>to<br>Borrowers                             |
+|-----|-----------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12. | DBR.No.BP.BC.83/21.04.048/2<br>014-15   | 01.04.2015 | Provisioning pertaining to<br>Fraud Accounts                                                                                                                                                                 |
+| 13. | DBR.No.BP.BC.79/21.04.048/2<br>014-15   | 30.03.2015 | Utilisation<br>of<br>Floating<br>Provisions<br>/<br>Counter<br>Cyclical Provisions                                                                                                                           |
+| 14. | Mailbox Clarification                   | 24.02.2015 | Refinancing<br>of<br>Project<br>Loans                                                                                                                                                                        |
+| 15. | DBR.No.CID.BC.54/20.16.064/2<br>014-15  | 22.12.2014 | Non-Cooperative<br>Borrowers                                                                                                                                                                                 |
+| 16. | DBOD.No.BP.BC.33/21.04.048/<br>2014-15  | 14.08.2014 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning pertaining to<br>Advances<br>–<br>Projects<br>under Implementation                                           |
+| 17. | DBOD.No.BP.BC.125/21.04.048<br>/2013-14 | 26.06.2014 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Pertaining<br>to Advances -<br>Projects<br>under Implementation                                           |
+| 18. | DBOD.No.BP.BC.98/21.04.132/<br>2013-14  | 26.02.2014 | Framework<br>for<br>Revitalising<br>Distressed<br>Assets in the Economy –<br>Refinancing<br>of<br>Project<br>Loans, Sale of NPAs and<br>Other<br>Regulatory<br>Measures<br>(except<br>paragraphs 2, 3 and 4) |
+| 19. | DBOD.No.BP.BC.95/21.04.048/<br>2013-14  | 07.02.2014 | Utilisation<br>of<br>Floating<br>Provisions<br>/<br>Counter<br>Cyclical<br>Provisioning<br>Buffer                                                                                                            |
+| 20. | DBOD.No.BP.BC.85/21.06.200/<br>2013-14  | 15.01.2014 | Capital and Provisioning<br>Requirements<br>for<br>Exposures to entities with<br>Unhedged<br>Foreign<br>Currency Exposures                                                                                   |
+| 21. | DBOD.No.BP.BC.78/21.04.048/<br>2013-14  | 20.12.2013 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning pertaining to<br>Advances -<br>Credit Card<br>Accounts                                                       |
+
+| 22. | DBOD.BP.BC.No.104/08.12.015<br>/2012-13 | 21.06.2013 | Housing<br>Sector:<br>New<br>sub-sector<br>CRE<br>(Residential<br>Housing)<br>within<br>CRE<br>&<br>Rationalisation<br>of<br>provisioning, risk-weight<br>and LTV ratios |
+|-----|-----------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 23. | DBOD.No.BP.BC<br>99/21.04.048/2012-13   | 30.05.2013 | Review<br>of<br>Prudential<br>Guidelines<br>on<br>Restructuring of Advances<br>by Banks and Financial<br>Institutions<br>(only<br>paragraph 2 on change in<br>DCCO       |
+| 24. | DBOD.No.BP.BC<br>90/21.04.048/2012-13   | 16.04.2013 | Advances Guaranteed by<br>Credit<br>Risk<br>Guarantee<br>Fund<br>Trust<br>for<br>Low<br>Income<br>Housing<br>(CRGFTLIH)<br>–<br>Risk<br>Weights and Provisioning         |
+| 25. | DBOD.No.BP.BC<br>83/21.04.048/2012-13   | 18.03.2013 | Prudential<br>Norms<br>on<br>Advances<br>to<br>Infrastructure Sector                                                                                                     |
+| 26. | DBOD.No.BP.BC<br>42/21.04.048/2012-13   | 14.09.2012 | NPA<br>Management<br>–<br>Requirement<br>of<br>an<br>Effective Mechanism and<br>Granular Data                                                                            |
+| 27. | DBOD.No.BP.BC<br>28/21.04.157/2011-12   | 11.08.2011 | Prudential Norms for Off<br>balance<br>Sheet<br>Exposures of Banks                                                                                                       |
+| 28. | DBOD.No.BP.BC.94/21.04.048/<br>2011-12  | 18.05.2011 | Enhancement of Rates of<br>Provisioning<br>for<br>Non<br>Performing Assets<br>and<br>Restructured Advances                                                               |
+| 29. | DBOD.No.BP.BC.87/21.04.048/<br>2010-11  | 21.04.2011 | Provisioning<br>Coverage<br>Ratio<br>(PCR)<br>for<br>Advances                                                                                                            |
+| 30. | DBOD.No.BP.BC.69/08.12.001/<br>2010-11  | 23.12.2010 | Housing<br>Loans<br>by<br>Commercial Banks –<br>LTV<br>Ratio, Risk Weight and<br>Provisioning                                                                            |
+| 31. | Mail Box Clarification                  | 06.07.2010 | Provisioning for Standard<br>Assets<br>–<br>Medium<br>Enterprises                                                                                                        |
+| 32. | DBOD.No.BP.BC.96/08.12.014/<br>2009-10  | 23.04.2010 | Prudential<br>Norms<br>on<br>Advances<br>to<br>Infrastructure Sector                                                                                                     |
+| 33. | DBOD.No.BP.BC.85/21.04.048/<br>2009-10  | 31.03.2010 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Pertaining<br>to Advances -<br>Projects<br>under Implementation       |
+
+| 34. | DBOD.No.BP.BC.64/21.04.048/<br>2009-10  | 01.12.2009 | Second Quarter Review<br>of Monetary Policy for the<br>Year<br>2009-10<br>-<br>Provisioning<br>Coverage<br>for Advances                                                                   |
+|-----|-----------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 35. | DBOD.No.BP.BC.58/21.04.048/<br>2009-10  | 05.11.2009 | Second Quarter Review<br>of Monetary Policy for the<br>Year<br>2009-10<br>-<br>Provisioning<br>Requirement<br>for<br>Standard Assets                                                      |
+| 36. | DBOD.No.BP.BC.46/21.04.048/<br>2009-10  | 24.09.2009 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning pertaining to<br>Advances -<br>Computation<br>of NPA Levels                               |
+| 37. | DBOD.No.BP.BC.33/21.04.048/<br>2009-10  | 27.08.2009 | Prudential Treatment in<br>respect<br>of<br>Floating<br>Provisions                                                                                                                        |
+| 38. | DBOD.No.BP.BC.125/21.04.048<br>/2008-09 | 17.04.2009 | Prudential<br>Norms<br>on<br>Unsecured Advances                                                                                                                                           |
+| 39. | DBOD.No.BP.BC.122/21.04.048<br>/2008-09 | 09.04.2009 | Prudential Treatment in<br>respect<br>of<br>Floating<br>Provisions                                                                                                                        |
+| 40. | DBOD.No.BP.BC.118/21.04.048<br>/2008-09 | 25.03.2009 | Prudential Treatment of<br>different<br>Types<br>of<br>Provisions in respect of<br>Loan Portfolios                                                                                        |
+| 41. | DBOD.BP.BC.83/21.01.002/200<br>8-09     | 15.11.2008 | Review<br>of<br>Prudential<br>Norms Provisioning for<br>Standard<br>Assets<br>and<br>Risk<br>Weights<br>for<br>Exposures<br>to<br>Corporates, Commercial<br>Real Estate and NBFC<br>ND-SI |
+| 42. | DBOD.No.BP.BC.84/21.04.048/<br>2008-09  | 14.11.2008 | Asset<br>Classification<br>Norms for Infrastructure<br>Projects<br>under<br>Implementation                                                                                                |
+| 43. | DBOD.BP.BC.No.69/21.03.009/<br>2008-09  | 29.10.2008 | Prudential Norms for Off<br>Balance<br>Sheet<br>Exposures of Banks                                                                                                                        |
+| 44. | DBOD.No.BP.BC.57/21.04.157/<br>2008-09  | 13.10.2008 | Prudential Norms for Off<br>balance<br>Sheet<br>Exposures of Banks                                                                                                                        |
+| 45. | DBOD.No.BP.BC.31/21.04.157/<br>2008-09  | 08.08.2008 | Prudential Norms for Off<br>balance<br>Sheet<br>Exposures of Banks                                                                                                                        |
+
+| 46. | DBOD.BP.BC.82/21.04.048/200<br>7-08        | 08.05.2008 | Prudential<br>Norms<br>on<br>Asset<br>Classification<br>Pertaining to Advances -<br>Infrastructure<br>Projects<br>under<br>Implementation<br>and<br>Involving<br>Time<br>Overrun                                 |
+|-----|--------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 47. | DBOD.No.BP.BC.76/21.04.048/<br>2006-07     | 12.04.2007 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Pertaining<br>to<br>Advances<br>-Projects<br>Involving Time Overrun                                           |
+| 48. | DBOD.No.BP.BC.68/21.04.048/<br>2006-07     | 13.03.2007 | Prudential<br>Norms<br>on<br>Creation and Utilisation<br>of Floating Provisions                                                                                                                                  |
+| 49. | DBOD.No.BP.BC.53/21.04.048/<br>2006-2007   | 31.01.2007 | Third Quarter Review of<br>the Annual Statement on<br>Monetary Policy for the<br>year<br>2006-07<br>–<br>Provisioning<br>Requirement<br>for<br>Standard<br>Assets<br>and<br>Risk Weights for Capital<br>Adequacy |
+| 50. | DBOD.No.BP.BC.21/21.04.048/<br>2006-2007   | 12.07.2006 | Annual Policy Statement<br>for<br>the<br>year<br>2006-07-<br>Additional<br>Provisioning<br>Requirement<br>for<br>Standard Assets                                                                                 |
+| 51. | DBOD.NO.BP.BC.89/<br>21.04.048/ 2005-06    | 22.06.2006 | Prudential<br>norms<br>on<br>creation and utilization of<br>floating provisions                                                                                                                                  |
+| 52. | DBOD.NO.BP.BC.85/<br>21.04.048/2005-06     | 29.05.2006 | Annual Policy Statement<br>for<br>the<br>year<br>2006-07:<br>Additional<br>Provisioning<br>Requirement<br>for<br>Standard Assets                                                                                 |
+| 53. | DBOD.NO.BP.BC.40/<br>21.04.048/2005-06     | 04.11.2005 | Mid<br>Term<br>Review<br>of<br>Annual Policy Statement<br>for<br>the<br>year<br>2005-06:<br>Additional<br>Provisioning<br>Requirement<br>for<br>Standard Assets                                                  |
+| 54. | DBOD.BP.BC.34/21.04.048/200<br>4-05        | 26.08.2004 | Repayment schedule of<br>rural housing loans                                                                                                                                                                     |
+| 55. | DBOD.BP.BC.29/21.04.048/200<br>4-05        | 13.08.2004 | Prudential norms -<br>State<br>Government guaranteed<br>exposures                                                                                                                                                |
+| 56. | RPCD No. Plan.BC<br>92/04.09.01/2003-04    | 24.06.2004 | Flow<br>of<br>credit<br>to<br>Agriculture                                                                                                                                                                        |
+| 57. | DBOD<br>No.BP.BC.102/21.04.048/2003-<br>04 | 24.06.2004 | Prudential<br>Norms<br>for<br>Agricultural Advances                                                                                                                                                              |
+
+| 58. | DBOD No.<br>BP.BC.99/21.04.048/2003-04        | 21.06.2004 | Additional<br>Provisioning<br>Requirement for NPAs                                                                                                                 |
+|-----|-----------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 59. | DBOD No.<br>BP.BC.97/21.04.141/2003-04        | 17.06.2004 | Prudential Guidelines on<br>Unsecured Exposures                                                                                                                    |
+| 60. | DBOD No.<br>BP.BC.96/21.04.103/2003-04        | 17.06.2004 | Country<br>Risk<br>Management Guidelines                                                                                                                           |
+| 61. | DBOD<br>BP.BC.NO.74/21.04.048/2002-<br>2003   | 27.02.2003 | Projects<br>under<br>implementation involving<br>time overrun                                                                                                      |
+| 62. | DBOD<br>No.BP.BC.71/21.04.103/2002-<br>2003   | 19.02.2003 | Risk<br>Management<br>Systems<br>in<br>Banks<br>–<br>Guidelines<br>on<br>Country<br>Risk Management                                                                |
+| 63. | DBOD<br>BP.BC.No.69/21.04.048/2002-<br>03     | 10.02.2003 | Upgradation<br>of<br>loan<br>accounts<br>classified<br>as<br>NPAs                                                                                                  |
+| 64. | DBOD.BP.BC<br>No.44/21.04.048/2002-03         | 30.11.2002 | Agricultural<br>loans<br>affected<br>by<br>natural<br>calamities                                                                                                   |
+| 65. | DBOD No.BP.BC.108/<br>21.04.048/2001-2002     | 28.05.2002 | Income<br>recognition,<br>asset classification and<br>provisioning on advances<br>treatment<br>of<br>projects<br>under<br>implementation<br>involving time overrun |
+| 66. | DBOD No.BP.BC.100/<br>21.01.002/2001-02       | 09.05.2002 | Prudential<br>norms<br>on<br>asset classification                                                                                                                  |
+| 67. | DBOD No.BP.BC.59/<br>21.04.048/2001-2002      | 22.01.2002 | Prudential<br>norms<br>on<br>income<br>recognition,<br>asset classification and<br>Provisioning<br>agricultural<br>advances                                        |
+| 68. | DBOD No.BP.BC.25/<br>21.04.048/2000-2001      | 11.09.2001 | Prudential<br>norms<br>on<br>income<br>recognition,<br>asset classification and<br>provisioning                                                                    |
+| 69. | DBOD No.BP.BC.132/<br>21.04.048/2000-2001     | 14.06.2001 | Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>for<br>Advances                                                                              |
+| 70. | DBOD.No.BP.BC.128/21.04.048<br>/2000--2001    | 07.06.2001 | SSI<br>Advances<br>Guaranteed by CGTSI -<br>Riskweight<br>and<br>provisioning norms                                                                                |
+| 71. | DBOD No.<br>BP.BC.116/21.04.048/2000-<br>2001 | 02.05.2001 | Monetary & Credit Policy<br>Measures 2001-02                                                                                                                       |
+| 72. | DBOD<br>No.BP.BC.98/21.04.048/2000-<br>2001   | 30.03.2001 | Treatment<br>of<br>Restructured Accounts                                                                                                                           |
+| 73. | DBOD No.<br>BP.BC.40/21.04.048/2000-<br>2001  | 30.10.2000 | Income<br>Recognition,<br>Asset Classification and                                                                                                                 |
+
+|     |                                        |            | Provisioning Reporting of<br>NPAs to RBI                                                                                                                                 |
+|-----|----------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 74. | DBOD.No.BP.BC.164/21.04.048<br>/2000   | 24.04.2000 | Prudential<br>Norms<br>on<br>Capital<br>Adequacy,<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning, etc.                                            |
+| 75. | DBOD.No.BP.BC.144/21.04.048<br>/2000   | 29.02.2000 | Income<br>Recognition,<br>Asset Classification and<br>Provisioning and Other<br>Related<br>Matters<br>and<br>Adequacy<br>Standards<br>-<br>Takeout Finance               |
+| 76. | DBOD.No.BP.BC.138/21.04.048<br>/2000   | 07.02.2000 | Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Export<br>Project Finance                                                                          |
+| 77. | DBOD.No.BP.BC.103/21.04.048<br>/99     | 21.10.1999 | Income<br>Recognition,<br>Asset Classification and<br>Provisioning Agricultural<br>Finance by Commercial<br>Banks through Primary<br>Agricultural<br>Credit<br>Societies |
+| 78. | DBOD.No.FSC.BC.70/24.01.00<br>1/99     | 17.07.1999 | Equipment<br>Leasing<br>Activity<br>-<br>Accounting/<br>Provisioning Norms                                                                                               |
+| 79. | DBOD.No.BP.BC.45/21.04.048/<br>99      | 10.05.1999 | Income<br>Recognition<br>Asset Classification and<br>Provisioning Concept of<br>Commencement<br>of<br>Commercial Production                                              |
+| 80. | DBOD.No.BP.BC.120/21.04.048<br>/98     | 29.12.1998 | Prudential<br>norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning Agricultural<br>Loans<br>Affected<br>by<br>Natural Calamities            |
+| 81. | DBOD.No.BP.BC.103/21.01.002<br>/98     | 31.10.1998 | Monetary & Credit Policy<br>Measures                                                                                                                                     |
+| 82. | DBOD.No.BP.BC.17/21.04.048/<br>98      | 04.03.1998 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset Classification and<br>Provisioning Agricultural<br>Advances                                                 |
+| 83. | DOS. No. CO.PP.<br>BC.6/11.01.005/9697 | 15.05.1997 | Assessments relating to<br>asset valuation and loan<br>loss provisioning                                                                                                 |
+| 84. | DBOD.No.BP.BC.29/21.04.04<br>8/97      | 09.04.1997 | Income<br>Recognition<br>Asset Classification and<br>Provisioning Agricultural<br>Advances                                                                               |
+| 85. | DBOD.No.BP.BC.14/21.04.048/<br>97      | 19.02.1997 | Income<br>Recognition<br>Asset Classification and                                                                                                                        |
+
+|     |                                    |            | Provisioning Agricultural<br>Advances                                                                                                                                          |
+|-----|------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 86. | DBOD.No.BP.BC.9/21.04.048/9<br>7   | 29.01.1997 | Prudential Norms Capital<br>Adequacy,<br>Income<br>Recognition<br>Asset<br>Classification<br>and<br>Provisioning                                                               |
+| 87. | DBOD.No.BP.BC.163/21.04.048<br>/96 | 24.12.1996 | Classification<br>of<br>Advances with Balance<br>less than Rs. 25,000/                                                                                                         |
+| 88. | DBOD.No.BP.BC.65/21.04.048/<br>96  | 04.06.1996 | Income<br>Recognition<br>Asset Classification and<br>Provisioning                                                                                                              |
+| 89. | DBOD.No.BP.BC.26/21.04.048/<br>96  | 19.03.1996 | Non<br>performing<br>Advances Reporting to<br>RBI                                                                                                                              |
+| 90. | DBOD.No.BP.BC.25/21.04.048/<br>96  | 19.03.1996 | Income<br>Recognition<br>Asset Classification and<br>Provisioning                                                                                                              |
+| 91. | DBOD.No.BP.BC.134/21.04.048<br>/95 | 20.11.1995 | EXIM<br>Bank's<br>New<br>Lending<br>Programme<br>Extension of Guarantee<br>cum<br>Refinance<br>to<br>Commercial<br>Bank<br>in<br>respect of Post shipment<br>Supplier's Credit |
+| 92. | DBOD.No.BP.BC.36/21.04.048/<br>95  | 03.04.1995 | Income<br>Recognition<br>Asset Classification and<br>Provisioning                                                                                                              |
+| 93. | DBOD.No.BP.BC.134/21.04.048<br>/94 | 14.11.1994 | Income<br>Recognition<br>Asset<br>Classification<br>Provisioning and Other<br>Related Matters                                                                                  |
+| 94. | DBOD.No.BP.BC.58/21.04.048/<br>94  | 16.05.1994 | Income<br>Recognition<br>Asset Classification and<br>Provisioning and Capital<br>Adequacy<br>Norms<br>-<br>Clarifications                                                      |
+| 95. | DBOD.No.BP.BC.50/21.04.048/<br>94  | 30.04.1994 | Income<br>Recognition<br>Asset Classification and<br>Provisioning                                                                                                              |
+| 96. | DOS.BC.4/16.14.001/9394            | 19.03.1994 | Credit Monitoring System<br>-<br>Health Code System for<br>Borrowal Accounts                                                                                                   |
+| 97. | DBOD.No.BP.BC.8/21.04.043/9<br>4   | 04.02.1994 | Income<br>Recognition,<br>Provisioning and Other<br>Related Matters                                                                                                            |
+| 98. | DBOD.No.BP.BC.195/21.04.048<br>/93 | 24.11.1993 | Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Clarifications                                                                                           |
+| 99. | DBOD.No.BP.BC.95/21.04.048/<br>93  | 23.03.1993 | Income<br>Recognition,<br>Asset<br>Classification,                                                                                                                             |
+
+|      |                                      |            | Provisioning and Other<br>Related Matters                                                               |
+|------|--------------------------------------|------------|---------------------------------------------------------------------------------------------------------|
+| 100. | DBOD.No.BP.BC.59/21.04.04<br>392     | 17.12.1992 | Income<br>Recognition,<br>Asset Classification and<br>Provisioning<br>Clarifications                    |
+| 101. | DBOD.No.BP.BC.129/21.04.0<br>4392    | 27.04.1992 | Income<br>Recognition,<br>Asset<br>Classification,<br>Provisioning and Other<br>Related Matters         |
+| 102. | DBOD.No.BP.BC.42/C.469<br>(W)90      | 31.10.1990 | Classification<br>of<br>Non<br>Performing Loans                                                         |
+| 103. | DBOD.No.Fol.BC.136/C.24985           | 07.11.1985 | Credit Monitoring System<br>-<br>Introduction of Health<br>Code<br>for<br>Borrowal<br>Accounts in Banks |
+| 104. | DBOD.No.BP.BC.35/21.01.002/<br>99    | 24.04.1999 | Monetary & Credit Policy<br>Measures                                                                    |
+| 105. | DBOD.No.FSC.BC.18/24.01.00<br>1/9394 | 19.02.1994 | Equipment Leasing, Hire<br>Purchase,<br>Factoring, etc. Activities                                      |

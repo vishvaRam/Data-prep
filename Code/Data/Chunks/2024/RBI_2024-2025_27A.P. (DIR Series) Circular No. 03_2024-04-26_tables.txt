@@ -1,0 +1,8 @@
+| Table 1: Investment limits for 2024-25             |                  |                    |                |                     |                    |            |
+|----------------------------------------------------|------------------|--------------------|----------------|---------------------|--------------------|------------|
+| all figures in ₹ Crore                             |                  |                    |                |                     |                    |            |
+|                                                    | G-Sec<br>General | G-Sec<br>Long Term | SGS<br>General | SGS<br>Long<br>Term | Corporate<br>Bonds | Total Debt |
+| Current FPI limits                                 | 2,67,890         | 1,36,890           | 92,828         | 7,100               | 6,67,871           | 11,72,578  |
+| Revised limit for<br>the HY Apr 2024-<br>Sept 2024 | 2,68,437         | 1,37,437           | 1,05,290       | 7,100               | 7,15,687           | 12,33,951  |
+| Revised limit for<br>the HY Oct 2024-<br>Mar 2025  | 2,68,984         | 1,37,984           | 1,17,752       | 7,100               | 7,63,503           | 12,95,322  |
+

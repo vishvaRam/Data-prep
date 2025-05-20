@@ -1,0 +1,30 @@
+l counterparty (QCCP)** is an entity that is licensed to operate as a CCP (including a license granted by way of confirming an exemption), and is permitted by the appropriate regulator / overseer to operate as such with respect to the products offered. This is subject to the provision that the CCP is based and prudentially supervised in a jurisdiction where the relevant regulator/overseer has established, and publicly indicated that it applies to the CCP on an ongoing basis, domestic rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures.
+
+A **clearing member** is a member of, or a direct participant in, a CCP that is entitled to enter into a transaction with the CCP, regardless of whether it enters into trades with a CCP for its own hedging, investment or speculative purposes or whether it also enters into trades as a financial intermediary between the CCP and other market participants[62.](#page-54-0)
+
+A **client** is a party to a transaction with a CCP through either a clearing member acting as a financial intermediary, or a clearing member guaranteeing the performance of the client to the CCP.
+
+**Initial margin** means a clearing member's or client's funded collateral posted to the CCP to mitigate the potential future exposure of the CCP to the clearing member arising from the possible future change in the value of their transactions. For the purposes of these guidelines, initial margin does not include contributions to a CCP for mutualised loss sharing arrangements (i.e. in case a CCP uses initial margin to mutualise losses among the clearing members, it will be treated as a default fund exposure).
+
+**Variation margin** means a clearing member's or client's funded collateral posted on a daily or intraday basis to a CCP based upon price movements of their transactions.
+
+**Trade exposures** include the current[63](#page-54-1) and potential future exposure of a clearing member or a client to a CCP arising from OTC derivatives, exchange traded derivatives transactions or SFTs, as well as initial margin.
+
+**Default funds**, also known as clearing deposits or guarantee fund contributions (or any other names), are clearing members' funded or unfunded contributions towards, or underwriting of, a CCP's mutualised loss sharing arrangements. The description given by a CCP to its mutualised
+
+<span id="page-54-0"></span> <sup>62</sup> For the purpose of these guidelines, where a CCP has a link to a second CCP, that second CCP is to be treated as a clearing member of the first CCP. Whether the second CCP's collateral contribution to the first CCP is treated as initial margin or a default fund contribution will depend upon the legal arrangement between the CCPs. In such cases, if any, RBI should be consulted for determining the treatment of this initial margin and default fund contributions.
+
+<span id="page-54-1"></span><sup>63</sup> For the purpose of this definition, the current exposure of a clearing member includes the variation margin due to the clearing member but not yet received.
+
+loss sharing arrangements is not determinative of their status as a default fund; rather, the substance of such arrangements will govern their status.
+
+**Offsetting transaction** means the transaction leg between the clearing member and the CCP when the clearing member acts on behalf of a client (e.g. when a clearing member clears or novates a client's trade).
+
+5.15.3.3 When entering into bilateral OTC derivative transactions, banks are required to hold capital to protect against the risk that the counterparty defaults and for credit valuation adjustment (CVA) risk. The CVA charge is introduced as part of the Basel III framework as explained in **paragraphs 5.15.3.4** and **5.15.3.5** below.
+
+# **5.15.3.4 Default Risk Capital Charge for CCR**
+
+The exposure amount for the purpose of computing for default risk capital charge for counterparty credit risk will be calculated using the **Current Exposure Method (CEM)** described as under:
+
+- (i) The credit equivalent amount of a market related off-balance sheet transaction calculated using the current exposure method is the sum of current credit exposure and potential future credit exposure of these contracts. For this purpose, credit equivalent amount will be adjusted for legally valid eligible financial collaterals in accordance with **paragraph 7.3** – Credit Risk Mitigation Techniques – Collateralised Transactions and the provisions held by the bank for CVA losses.
+- (ii) The CVA loss will be calculated as a prudent valuation adjustment as per prudent valuation guidance contained in **paragraph 8.8.1**, without taking into account any offsetting debit valuation adjustments (DVA) which have been deducted from capital (please see paragraph 4.4.6). The CVA loss deducted from exposures to determine outstanding EAD is the CVA loss gross of all DVA which have been separately deducted from capital. To the extent DVA has not been separate

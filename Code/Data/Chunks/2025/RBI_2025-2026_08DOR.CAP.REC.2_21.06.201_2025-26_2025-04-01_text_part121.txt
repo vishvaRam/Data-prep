@@ -1,0 +1,31 @@
+s required.
+
+
+**Table B -** *Simplified approach: capital charges*
+
+#### **II. Intermediate Approaches**
+
+#### **(a) Delta-plus Method**
+
+4. Banks which write options will be allowed to include delta-weighted options positions within the standardised methodology set out in paragraph 8.3 to 8.5 of this Master Circular. Such options should be reported as a position equal to the market value of the underlying multiplied by the delta.
+
+However, since delta does not sufficiently cover the risks associated with options positions, banks will also be required to measure gamma (which measures the rate of change of delta) and Vega (which measures the sensitivity of the value of an option with respect to a change in volatility) sensitivities in order to calculate the total capital charge. These sensitivities will be calculated according to an approved exchange model or to the bank's proprietary options pricing model subject to oversight by the Reserve Bank of India [217](#page-237-4).
+
+<span id="page-237-0"></span> <sup>213</sup> In some cases, such as foreign exchange, it may be unclear which side is the "underlying security"; this should be taken to be the asset which would be received if the option were exercised. In addition, the nominal value should be used for items where the market value of the underlying instrument could be zero, e.g., caps and floors, swaptions etc.
+
+<span id="page-237-1"></span><sup>214</sup> Some options (e.g., where the underlying is an interest rate or a currency) bear no specific risk, but specific risk shall be present in the case of options on certain interest rate-related instruments (e.g., options on a corporate debt security or corporate bond index; see Section B for the relevant capital charges) and for options on equities and stock indices (see Section C). The charge under this measure for currency options will be 9 per cent.
+
+<span id="page-237-2"></span><sup>215</sup> For options with a residual maturity of more than six months, the strike price should be compared with the forward, not current, price. A bank unable to do this must take the "in-the-money" amount to be zero.
+
+<span id="page-237-3"></span><sup>216</sup> Where the position does not fall within the trading book (i.e., options on certain foreign exchange or commodities positions not belonging to the trading book), it may be acceptable to use the book value instead.
+
+<span id="page-237-4"></span><sup>217</sup> Reserve Bank of India may wish to require banks doing business in certain classes of exotic options (e.g., barriers, digitals) or in options "at-the-money" that are close to expiry to use either the scenario approach or the internal models' alternative, both of which can accommodate more detailed revaluation approaches.
+
+5. Delta-weighted positions with *debt securities or interest rates as the underlying* will be slotted into the interest rate time-bands, as set out in **Table 15** of paragraph 8.3 of this Master Circular, under the following procedure. A two-legged approach should be used as for other derivatives, requiring one entry at the time the underlying contract takes effect and a second at the time the underlying contract matures. For instance, a bought call option on a June three-month interest-rate future will in April be considered, on the basis of its delta-equivalent value, to be a long position with a maturity of five months and a short position with a maturity of two months [218.](#page-238-0) The written option will be similarly slotted as a long position with a maturity of two months and a short position with a maturity of five months. Floating rate instruments with caps or floors will be treated as a combination of floating rate securities and a series of European-style options. For example, the holder of a three-year floating rate bond indexed to six month LIBOR with a cap of 15 per cent will treat it as:
+
+- (i) a debt security that reprices in six months; and
+- (ii) a series of five written call options on a FRA with a reference rate of 15 per cent, each with a negative sign at the time the underlying FRA takes effect and a positive sign at the time the underlying FRA matures[219](#page-238-1).
+
+6. The capital charge for *options with equities as the underlying* will also be based on the delta-weighted positions which will be incorporated in the measure of market risk described in paragraph 8.4 of this Master Circular. For purposes of this calculation each national market is to be treated as a separate underlying. The capital charge for options on foreign exchange and gold positions will be based on the method set out in paragraph 8.5 of this Master Circular. For delta risk, the net delta-based equivalent of the foreign currency and gold options will be incorporated into the measurement of the exposure for the respective currency (or gold) position.
+
+7. In addition to the above capital charges arising from delta risk, there will be further capital charges for gamma and for Vega risk. Banks u

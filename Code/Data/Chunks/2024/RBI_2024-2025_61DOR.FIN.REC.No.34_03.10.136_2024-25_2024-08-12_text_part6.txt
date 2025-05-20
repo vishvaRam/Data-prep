@@ -1,0 +1,29 @@
+inition of 'Financial Information Provider' and 'Financial Information User' in the Account Aggregator (AA) ecosystem. NBFC-Account Aggregator (AA) consolidates financial information, as defined in para 3(1)(ix) of the Master Direction, of a customer held with different financial entities, spread across financial sector regulators adopting different IT systems and interfaces. In order to ensure that such movement of data is secured, duly authorised, smooth and seamless, it has been decided to put in place a set of core technical specifications for the participants of the AA ecosystem. Reserve Bank Information Technology Private Limited (ReBIT), has framed these specifications and published the same on its website [\(www.rebit.org.in\)](https://www.rebit.org.in/). HFCs acting either as 'Financial Information Provider' or 'Financial Information User' are expected to adopt the technical specifications published by ReBIT, as updated from time to time.
+
+## **Part B**
+
+# <span id="page-10-0"></span>**Section III: Guidelines regarding Acceptance of Public Deposits** *(applicable only to NBFCs holding CoR to accept/ hold public deposits)*
+
+### **Nomination rules**
+
+19. As per para 32 of Master Direction – [Non-Banking Financial Companies](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563)  [Acceptance of Public Deposits \(Reserve Bank\) Directions, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563) NBFCs which are accepting public deposits need to comply with the provision of the Banking Companies (Nomination) Rules, 1985. In terms of the Rule 2(9) of the said rules, NBFCs are required to acknowledge in writing to the depositor/s the filling of the relevant duly completed form of nomination, cancellation and/or variation of the nomination. It is now advised that NBFCs shall devise a proper system of acknowledging the receipt of duly completed form of nomination, cancellation and/or variation of the nomination. Such acknowledgement shall be given to all the customers irrespective of whether the same is demanded by the customers. Further, NBFCs shall introduce the practice of recording on the face of the passbooks/ receipts the position regarding availment of nomination facility with the legend "Nomination Registered" and they shall also indicate the name of the Nominee in the passbook/ receipt, in case the customer is agreeable to the same.
+
+# **Repayment of public deposit in order to meet certain expenses of an emergent nature**
+
+20. Attention is invited to chapter V of Master Direction – [Non-Banking Financial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563) [Companies Acceptance of Public Deposits \(Reserve Bank\) Directions, 2016.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563) It has been now decided that for a non-banking financial company not being a problem Non-Banking Financial Company[6,](#page-10-1) in order to meet certain expenses of an emergent nature, subject to the satisfaction of the NBFC concerned about such circumstances–
+
+<span id="page-10-1"></span> <sup>6</sup> 'Problem non-banking financial company' means a non-banking financial company which -
+
+<sup>(</sup>i) has refused or failed to meet within five working days any lawful demand for repayment of the matured public deposits; or
+
+<sup>(</sup>ii) intimates the CLB under section 58AA of the Companies Act, 1956, about its default to a small depositor in repayment of any public deposit or part thereof or any interest thereupon; or
+
+<sup>(</sup>iii) approaches the Bank for withdrawal of the liquid asset securities to meet its deposit obligations; or
+
+<sup>(</sup>iv) approaches the Bank for any relief or relaxation or exemption from the provisions of these Directions or from that of [Master Direction –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) [Reserve Bank of India \(Non-Banking Financial Company –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) Scale Based Regulation) Directions, 2023 for avoiding default in meeting public deposit or other obligations; or
+
+<sup>(</sup>v) has been identified by the Bank to be a problem non-banking financial company either *suo moto* or based on the complaints from the depositors about non-repayment of public deposits or on complaints from the company's lenders about non-payment of dues;
+
+20.1. 'Tiny deposits'[7](#page-11-0) may prematurely be paid to individual depositors, at the request of the depositor, before the expiry of three months from the date of acceptance of such deposits, in entirety, without interest;
+
+20.2. In case of other public deposits, not more than fifty per cent of the amount of the principal sum of deposit or ₹5 lakh, whichever is lower, may be prematurely paid to individual depositors, at the request of the depositors, before the expiry of three months from the date of acceptance of such deposits, without interest; the remaining amount with interest at the contracted ra

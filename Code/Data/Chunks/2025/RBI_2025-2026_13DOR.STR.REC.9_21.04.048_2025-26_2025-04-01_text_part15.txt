@@ -1,0 +1,52 @@
+overnment & other securities and life insurance policies would attract provisioning requirements as applicable to their asset classification status.
+
+#### 5.9.2 Treatment of interest suspense account
+
+Amounts held in Interest Suspense Account should not be reckoned as part of provisions. Amounts lying in the Interest Suspense Account should be deducted from the relative advances and thereafter, provisioning as per the norms, should be made on the balances after such deduction.
+
+## 5.9.3 Advances covered by ECGC guarantee
+
+In the case of advances classified as doubtful and guaranteed by ECGC, provision should be made only for the balance in excess of the amount guaranteed by the Corporation. Further, while arriving at the provision required to be made for doubtful assets, realisable value of the securities should first be deducted from the outstanding balance in respect of the amount guaranteed by the Corporation and then provision made as illustrated hereunder:
+
+Example:
+
+
+#### Provision required to be made:
+
+
+5.9.4 Advance covered by guarantees under any existing or future schemes launched by Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and National Credit Guarantee Trustee Company Ltd (NCGTC).
+
+In case the advance covered by any existing or future schemes/guarantees launched by CGTMSE, CRGFTLIH and NCGTC becomes nonperforming, no provision need be made towards the guaranteed portion. The amount outstanding, in excess of the guaranteed portion, should be provided for as per the extant guidelines on provisioning for nonperforming assets. An illustrative example is given below:
+
+Example:
+
+
+Provision required to be made:
+
+
+## 5.9.5 Reserve for Exchange Rate Fluctuations Account (RERFA)
+
+When exchange rate movements of Indian rupee turn adverse, the outstanding amount of foreign currency denominated loans (where actual disbursement was made in Indian Rupee) which becomes overdue, goes up correspondingly, with its attendant implications of provisioning requirements. Such assets should not normally be revalued. In case such assets need to be revalued as per requirement of accounting practices or for any other requirement, the following procedure may be adopted:
+
+- a. The loss on revaluation of assets has to be booked in the bank's Profit & Loss Account.
+- b. In addition to the provisioning requirement as per Asset Classification, the full amount of the Revaluation Gain, if any, on account of foreign exchange fluctuation should be used to make provisions against the corresponding assets.
+- 5.9.6 Provisioning for country risk
+
+5.9.6.1 Banks shall make provisions, on the net funded country exposures on a graded scale ranging from 0.25 to 100 percent according to the risk categories mentioned below. To begin with, banks shall make provisions as per the following schedule:
+
+
+5.9.6.2 Banks are required to make provision for country risk in respect of a country where its net funded exposure is one per cent or more of its total assets.
+
+5.9.6.3 The provision for country risk shall be in addition to the provisions required to be held according to the asset classification status of the asset. However, in the case of 'loss assets' and 'doubtful assets', provision held, including provision held for country risk, may not exceed 100% of the outstanding.
+
+5.9.6.4 Banks may not make any provision for 'home country' exposures i.e. exposure to India. The exposures of foreign branches of Indian banks to the host country should be included. Foreign banks shall compute the country exposures of their Indian branches and shall hold appropriate provisions in their Indian books. However, their exposures to India will be excluded.
+
+5.9.6.5 Banks may make a lower level of provisioning (say 25% of the requirement) in respect of short-term exposures (i.e. exposures with contractual maturity of less than 180 days).
+
+5.9.7 Provisioning norms for Liquidity facility provided for Securitisation transactions The amount of liquidity facility drawn and outstanding for more than 90 days, in respect of securitisation transactions undertaken in terms of [Reserve Bank of India \(Securitisation of](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12165&Mode=0)  [Standard Assets\) Directions, 2021,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12165&Mode=0) should be fully provided for.
+
+#### 5.9.8 Provisioning requirements for derivative exposures
+
+Credit exposures computed as per the current marked to market value of the contract, arising on account of the interest rate & foreign exchange derivative transactions, credit default swaps and gold, shall also attract provisioning requirement as applicable to the loan assets in the 'standard' category, of the concerned counterparties. All conditions applicable for treatment of the provisions for standard assets would also apply to the aforesaid provisions for derivative and gold exposures.
+
+#### 5.9.

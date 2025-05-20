@@ -1,0 +1,35 @@
+y 1, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0) and [DOR.No.BP.BC.34/21.04.048/2019-20 dated February 11, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11808&Mode=0) shall attract the provisioning requirements prescribed therein.
+
+<sup>21</sup> For accounts restructured under IBC, the specified period shall be deemed to commence from the date of implementation of the resolution plan as approved by the Adjudicating Authority
+
+<sup>22</sup> Additional provisions for delayed implementation of RP within timelines shall be as per paragraphs 11.1 – 11.4 of this Master Circular
+
+#### 19. Additional Finance
+
+19.1 Any additional finance approved under the RP (including any resolution plan approved by the Adjudicating Authority under IBC) may be treated as 'standard asset' during the monitoring period under the approved RP, provided the account demonstrates satisfactory performance (as defined at footnote 16) during the monitoring period. If the restructured asset fails to perform satisfactorily during the monitoring period or does not qualify for upgradation at the end of the monitoring period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+
+19.2 Similarly, any interim finance [as defined in section 5 (15) of the IBC] extended by the lenders to debtors undergoing insolvency proceedings under IBC may be treated as 'standard asset' during the insolvency resolution process period as defined in the IBC. During this period, asset classification and provisioning for the interim finance shall be governed by the norms laid down in Part A of this Master Circular. Subsequently, upon approval of the resolution plan by the Adjudicating Authority, treatment of such interim finance shall be as per the norms applicable to additional finance, as per Paragraph 19.1 above.
+
+#### 20. Income recognition norms
+
+20.1 Interest income in respect of restructured accounts classified as 'standard assets' may be recognized on accrual basis and that in respect of the restructured accounts classified as 'nonperforming assets' shall be recognised on cash basis.
+
+20.2 In the case of additional finance in accounts where the pre-restructuring facilities were classified as NPA, the interest income shall be recognised only on cash basis except when the restructuring is accompanied by a change in ownership.
+
+21. Conversion of Principal into Debt / Equity and Unpaid Interest into 'Funded Interest Term Loan' (FITL), Debt or Equity Instruments
+
+21.1 An act of restructuring might create new securities issued by the borrower which would be held by the lenders in lieu of a portion of the pre-restructured exposure. The FITL / debt / equity instruments created by conversion of principal / unpaid interest, as the case may be, shall be placed in the same asset classification category in which the restructured advance has been classified.
+
+21.2 The provisioning applicable to such instruments shall be the higher of:
+
+- a) The provisioning applicable to the asset classification category in which such instruments are held; or
+- b) The provisioning applicable based on the fair valuation of such instruments as provided in the following paragraphs.
+
+21.3 Debt/quasi-debt/equity instruments<sup>23</sup> acquired by the lenders as part of a RP shall be valued as under:
+
+- a) Debentures/bonds shall be valued as per the instructions contained in Chapter VIII of the [Reserve Bank of India \(Classification, Valuation and Operation of Investment Portfolio of](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Commercial Banks\) Directions, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) (as amended from time to time).
+- b) Conversion of debt into Zero Coupon Bonds (ZCBs)/low coupon bonds (LCBs) as part of RP shall be subject to the conditions prescribed in paragraph 30 of the [Reserve Bank of](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [India \(Classification, Valuation and Operation of Investment Portfolio of Commercial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Banks\) Directions, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) (as amended from time to time). Such ZCBs/LCBs shall be valued as per the instructions contained in Chapter VIII of the above said Master Direction, subject to the following:
+	- i. Where the borrower fails to build up the sinking fund as required under the above said Master Circular, ZCBs/LCBs of such borrower shall be collectively valued at Re.1
+	- ii. Instruments without a pre-specified terminal value would be collectively valued at Re. 1.
+	- c) Equity instruments, where classified as standard, shall be valued at market value, if quoted, or else, should be valued at the lowest value arrived using the following valuation methodologies:
+		- i. Book value (without considering 'revaluation reserves', if any) which is to be ascer

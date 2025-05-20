@@ -1,0 +1,55 @@
+2.5.2 The different firms with one or more common partners engaged in the same line of business, *viz*., manufacturing, processing, trading activity, etc. shall be deemed to be connected group and units coming under common ownership shall be deemed to be a single party.
+
+#### 2.6 Unsecured advances
+
+Unsecured advances shall include clean overdrafts, loans against personal security, clean bills or *Multani hundies* purchased or discounted, cheques purchased and drawals allowed against cheques sent for collection but shall exclude:
+
+(i) advances backed by guarantee of the central or state governments, public sector financial institutions, banks and Deposit Insurance & Credit Guarantee Corporation;
+
+(ii) advances against supply bills drawn on the central or state governments or state owned undertakings which are accompanied by duly authorised inspection notes or receipted challans;
+
+(iii) advances against trust receipts;
+
+(iv) advances against inland Document against Acceptance (D/A) bills drawn under letters of credit;
+
+(v) advances against inland D/A bills (even where such bills are not drawn under letters of credit) having a usance of not exceeding 90 days;
+
+(vi) advances granted to salaried employees against personal security, provided that the Co-operative Societies Act of the State concerned contains an obligatory provision for deduction of periodical loan instalments by the employer out of the employee's salary / wages to meet the bank's claims and provided further that the bank has taken advantages of this provision in respect of each of such advances[1;](#page-4-2)
+
+(vii) advances against supply bills drawn on private parties of repute and receipted challans of public limited companies and concerns of repute and not outstanding for more than 90 days;
+
+(viii) advances against book debts which are not outstanding for more than 90 days;
+
+(ix) cheques issued by governments, public corporation and local self governing institutions;
+
+(x) advances in the form of packing credit for exports;
+
+(xi) demand drafts purchased;
+
+(xii) the secured portion of partly secured advances; and,
+
+(xiii) advances against legal assignment of contract moneys due, or to become due.
+
+Note: All bills of exchange not accompanied by the official receipts of the Indian Railways or Indian Airlines Corporation or Road and Water Transport Operators, as approved by the Board of Directors of the primary co-operative bank, shall be deemed to be clean bills.
+
+# <span id="page-4-0"></span>**3. Exposure Norms**
+
+<span id="page-4-1"></span>3.1 Exposure Ceiling to Individual / Group Borrowers
+
+3.1.1 UCBs are required to fix, with the approval of their Board of Directors, exposure ceiling in relation to their Tier-I capital. The exposure for the purpose shall comprise both credit exposure (loans and advances) and investment exposure (Non-SLR securities) as detailed at Para 2.3 and 2.4 so that -
+
+(i) the exposure to an individual borrower does not exceed 15 per cent of Tier-I capital; and,
+
+(ii) the exposure to a group of connected borrowers/parties does not exceed 25 per cent of Tier-I capital.
+
+<span id="page-4-2"></span> <sup>1</sup> Please also refer para 4.2.4 and 4.2.5 of this Master Circular.
+
+3.1.2 The exposure limits prescribed in Para 3.1.1 apply to all types of fresh exposures taken by UCBs after March 13, 2020 and UCBs were required to bring down their exposures which were in excess of the revised limits to within the aforesaid revised limits by March 31, 2023. However, where the existing exposure comprises only term loans and non-fund-based facilities, while no further exposure shall be taken on such borrowers, these facilities may be allowed to continue as per their respective repayment schedule / till maturity.
+
+3.1.3 Whether borrowers / parties belong to a 'group of connected borrowers / parties' shall be determined based on the instructions contained at Para 2.5.1 and 2.5.2 above.
+
+<span id="page-5-0"></span>3.2 Computation of exposure ceiling for individual / group borrowers
+
+The exercise of computing the exposure ceilings may be conducted every year after the finalisation and audit of balance sheet of the bank and the exposure ceilings may be advised to the loan sanctioning authorities and the investment department in the bank. In view of the linking of shareholding to lending, accretion to or reduction in the share capital after the balance sheet date, may be taken into account for determining exposure ceiling at half-yearly intervals, with the approval of their Board of Directors. Accordingly, banks may, if they so desire, fix a fresh exposure limit taking into account the amount of share capital available as on 30th September. However, accretion to capital funds other than to share capital, such as half-yearly profit etc., will not be eligible for reckoning the exposure ceiling. Banks should also ensure that they do not take exposures in excess of ceiling prescribed in anticipation of infusion of capital on a future date.
+
+#

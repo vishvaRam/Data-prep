@@ -1,0 +1,32 @@
+e course of their banking operations, would not be subject to market volatility, (since the loan disbursal / investment would be a "cash" transaction) though the value of eligible financial collateral would be, the haircut stipulated in **Table-12** (paragraph 7.3.7) would apply in respect of credit transactions only to the eligible collateral but not to the credit exposure of the bank. On the other hand, exposures of banks, arising out of repo-style transactions would require upward adjustment for volatility, as the value of security sold/lent/pledged in the repo transaction, would be subject to market volatility. Hence, such exposures shall attract haircut.
+- (ii) Additionally, where the exposure and collateral are held in different currencies an additional downwards adjustment must be made to the volatility adjusted collateral amount to take account of possible future fluctuations in exchange rates.
+
+(iii) Where the volatility-adjusted exposure amount is greater than the volatility-adjusted collateral amount (including any further adjustment for foreign exchange risk), banks shall calculate their risk-weighted assets as the difference between the two multiplied by the risk weight of the counterparty. The framework for performing calculations of capital requirement is indicated in **paragraph 7.3.6**.
+
+#### 7.3.5 **Eligible Financial Collateral**
+
+The following collateral instruments are eligible for recognition in the comprehensive approach:
+
+- (i) Cash (as well as certificates of deposit or comparable instruments, including fixed deposit receipts, issued by the lending bank) on deposit with the bank which is incurring the counterparty exposure.
+- (ii) Gold: Gold would include both bullion and jewellery. However, the value of the collateralised jewellery should be arrived at after notionally converting these to 99.99 purity.
+- (iii) Securities issued by Central and State Governments
+- (iv) Kisan Vikas Patra and National Savings Certificates provided no lock-in period is operational and if they can be encashed within the holding period.
+- (v) Life insurance policies with a declared surrender value of an insurance company which is regulated by an insurance sector regulator.
+- (vi) Debt securities rated by a chosen Credit Rating Agency in respect of which banks should be sufficiently confident about the market liquidity[87](#page-80-0) where these are either:
+	- (a) Attracting 100 per cent or lesser risk weight i.e., rated at least BBB(-) when issued by public sector entities and other entities (including banks and Primary Dealers); or
+	- (b) Attracting 100 per cent or lesser risk weight i.e., rated at least CARE A3/ CRISIL A3/ India Ratings and Research Private Limited (India Ratings) A3/ICRA A3/Brickwork A3/ Acuite A3/ IVR A3 (Infomerics) for short-term debt instruments.
+- (vii) Debt Securities not rated by a chosen Credit Rating Agency in respect of which banks should be sufficiently confident about the market liquidity where these are:
+
+<span id="page-80-0"></span> <sup>87</sup> A debenture would meet the test of liquidity if it is traded on a recognised stock exchange(s) on at least 90 per cent of the trading days during the preceding 365 days. Further, liquidity can be evidenced in the trading during the previous one month in the recognised stock exchange if there are a minimum of 25 trades of marketable lots in securities of each issuer.
+
+- (a) issued by a bank; and
+- (b) listed on a recognised exchange; and
+- (c) classified as senior debt; and
+- (d) all rated issues of the same seniority by the issuing bank are rated at least BBB (-) or CARE A3/ CRISIL A3/ India Ratings and Research Private Limited (India Ratings) A3/ICRA A3/Brickwork A3/Acuite A3/ IVR A3 (Infomerics) by a chosen Credit Rating Agency; and
+- (e) the bank holding the securities as collateral has no information to suggest that the issue justifies a rating below BBB(-) or CARE A3/ CRISIL A3/ India Ratings and Research Private Limited (India Ratings) A3/ICRA A3/Brickwork A3/Acuite A3/ IVR A3 (Infomerics) (as applicable) and;
+- (f) Banks should be sufficiently confident about the market liquidity of the security.
+- (viii) Units of Mutual Funds regulated by the securities regulator of the jurisdiction of the bank's operation mutual funds where:
+	- (a) a price for the units is publicly quoted daily i.e., where the daily NAV is available in public domain; and
+	- (b) Mutual fund is limited to investing in the instruments listed in this paragraph.
+- (ix) Re-securitisations, irrespective of any credit ratings, are not eligible financial collateral.
+- (x) For foreign bank branches, cash/unencumbered approved securities, the source of which is interest-free funds from Head Office or remittable surplus retained in Indian books, held with RBI under section 11(2)(b)(i) of the Banking Regulation Act,1949 may be reckoned as CRM, for offsetting the gross exposure of the foreign bank branches in India to the Head Office (including overseas branches), su

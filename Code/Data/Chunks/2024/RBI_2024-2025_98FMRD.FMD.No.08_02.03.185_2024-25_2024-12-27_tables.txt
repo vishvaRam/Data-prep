@@ -1,0 +1,8 @@
+| Exposure<br>(Quantity) | Hedges<br>Booked<br>(Quantity<br>booked) | Name of<br>Exchange | Name of<br>Product | Gross<br>Outflow<br>(USD Million) | Gross Inflow<br>(USD Million) |
+|------------------------|------------------------------------------|---------------------|--------------------|-----------------------------------|-------------------------------|
+|                        |                                          |                     |                    |                                   |                               |
+
+| Name<br>of the<br>resident<br>entity | PAN | Exposure<br>(Quantity) | Hedges<br>Booked<br>(Quantity<br>booked) | Name of<br>Exchange | Name of<br>Product | Gross<br>Outflow<br>(USD<br>Million) | Gross<br>Inflow<br>(USD<br>Million) |
+|--------------------------------------|-----|------------------------|------------------------------------------|---------------------|--------------------|--------------------------------------|-------------------------------------|
+|                                      |     |                        |                                          |                     |                    |                                      |                                     |
+

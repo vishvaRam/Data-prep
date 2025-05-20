@@ -1,0 +1,36 @@
+arantee outside the direct control
+
+of the bank that could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original counterparty fails to make the payment(s) due.
+
+(ii) All exposures will be risk weighted after taking into account risk mitigation available in the form of guarantees. When a guaranteed exposure is classified as non-performing, the guarantee will cease to be a credit risk mitigant and no adjustment would be permissible on account of credit risk mitigation in the form of guarantees. The entire outstanding, net of specific provision and net of realisable value of eligible collaterals / credit risk mitigants, will attract the appropriate risk weight.
+
+## **7.5.5 Additional operational requirements for guarantees**
+
+In addition to the legal certainty requirements in **paragraph 7.2** above, in order for a guarantee to be recognised, the following conditions must be satisfied:
+
+- (i) On the qualifying default/non-payment of the counterparty, the bank is able in a timely manner to pursue the guarantor for any monies outstanding under the documentation governing the transaction. The guarantor shall make one lump sum payment of all monies under such documentation to the bank, or the guarantor shall assume the future payment obligations of the counterparty covered by the guarantee. The bank must have the right to receive any such payments from the guarantor without first having to take legal actions in order to pursue the counterparty for payment.
+- (ii) The guarantee is an explicitly documented obligation assumed by the guarantor.
+- (iii) Except as noted in the following sentence, the guarantee covers all types of payments the underlying obligor is expected to make under the documentation governing the transaction, for example notional amount, margin payments etc. Where a guarantee covers payment of principal only, interests and other uncovered payments should be treated as an unsecured amount in accordance with paragraph 7.5.8.
+
+### **7.5.6 Range of Eligible Guarantors (Counter-Guarantors)**
+
+Credit protection given by the following entities will be recognised:
+
+- (i) Sovereigns, sovereign entities (including BIS, IMF, European Central Bank and European Community as well as those MDBs referred to in **paragraph 5.5**, ECGC and CGTMSE, CRGFTLIH, individual schemes under NCGTC which are backed by explicit Central Government Guarantee), banks and primary dealers with a lower risk weight than the counterparty.
+- (ii) Other entities that are externally rated except when credit protection is provided to a securitisation exposure. This would include credit protection provided by parent, subsidiary and affiliate companies when they have a lower risk weight than the obligor.
+- (iii) When credit protection is provided to a securitisation exposure, other entities that currently are externally rated BBB- or better and that were externally rated A- or better at the time the credit protection was provided. This would include credit protection provided by parent, subsidiary and affiliate companies when they have a lower risk weight than the obligor.
+- (iv) In case of securitisation transactions, SPEs cannot be recognised as eligible guarantors.
+
+## **7.5.7 Risk Weights**
+
+7.5.7.1 The protected portion is assigned the risk weight of the protection provider. Exposures covered by State Government guarantees will attract a risk weight of 20 per cent. The uncovered portion of the exposure is assigned the risk weight of the underlying counterparty subject to conditions stipulated in paragraph 7.5.7.2.
+
+7.5.7.2 As per para 7.13 of [Circular No.DBR.No.BP.BC.43/21.01.003/2018-19 dated June 03,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0)  [2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0) on Large Exposures Framework, any CRM instrument from which CRM benefits like shifting of exposure/ risk weights etc. are not derived may not be counted as an exposure on the CRM provider. In case of non-fund based credit facilities provided to a person resident outside India where CRM benefits are not derived and the exposure is shifted to the non-resident person, such exposures to the non-resident person shall attract a minimum risk weight of 150%.
+
+## **7.5.8 Proportional Cover**
+
+Where the amount guaranteed, or against which credit protection is held, is less than the amount of the exposure, and the secured and unsecured portions are of equal seniority, i.e. the bank and the guarantor share losses on a pro-rata basis capital relief will be afforded on a proportional basis: i.e. the protected portion of the exposure will receive the treatment applicable to eligible guarantees, with the remainder treated as unsecured.
+
+### **7.5.9 Currency Mismatches**
+
+Where the credit protection is denominated in a currency different from that in which the exposure is denominated – i.e., there is a currency mismatch – the amount of the exposure de

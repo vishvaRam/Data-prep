@@ -1,0 +1,28 @@
+[Annex 11](#page-244-0)**). However, in certain cases, such investments in both scheduled and non-scheduled commercial banks shall be fully deducted from Common Equity Tier 1 capital of investing bank as indicated in paragraphs 5.6, 8.3.4 and 8.4.4.
+
+4.4.9.3 With regard to computation of indirect holdings through mutual funds or index funds, of capital of banking, financial and insurance entities which are outside the scope of regulatory consolidation as mentioned in paragraphs 4.4.9.2(B) and 4.4.9.2(C) above, the following rules may be observed:
+
+- (i) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the financial entities is known; the indirect investment of the bank in such entities would be equal to bank's investments in these entities multiplied by the percent of investments of such entities in the financial entities' capital instruments.
+- (ii) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is not known but, as per the investment policies / mandate of these entities such investments are permissible; the indirect investment would be equal to bank's investments in these entities multiplied by maximum permissible limit which these entities are authorized to invest in the financial entities' capital instruments.
+- (iii) If neither the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds in the capital instruments of financial entities nor the maximum amount which these entities can invest in financial entities are known but, as per the investment policies / mandate of these entities such investments are permissible; the entire investment of the bank in these entities would be treated as indirect investment in financial entities. Banks must note that this method does not follow corresponding deduction approach i.e. all deductions shall be made from the Common Equity Tier 1 capital even though, the investments of such entities are in the Additional Tier 1 / Tier 2 capital of the investing banks.
+- 4.4.9.4 Application of these rules at consolidated level would mean:
+	- (i) Identifying the relevant entities below and above threshold of 10% of common share capital of investee entities, based on aggregate investments of the consolidated group (parent plus consolidated subsidiaries) in common share capital of individual investee entities.
+	- (ii) Applying the rules as stipulated in paragraphs 4.4.9.2(A), 4.4.9.2(B) and 4.4.9.2(C) and segregating investments into those which shall be deducted from the consolidated capital and those which shall be risk weighted. For this purpose,
+- investments of the entire consolidated entity in capital instruments of investee entities shall be aggregated into different classes of instruments.
+- the consolidated Common Equity of the group shall be taken into account.
+
+4.4.9.5 It has come to our notice that certain investors such as Employee Pension Funds have subscribed to regulatory capital issues of commercial banks concerned. These funds enjoy the counter guarantee by the bank concerned in respect of returns. When returns of the investors of the capital issues are counter guaranteed by the bank, such investments shall not be considered as regulatory capital for the purpose of capital adequacy.
+
+4.4.10 As indicated in paragraphs 3.4.2 and 3.5.1, equity investments in non-financial subsidiaries should be fully deducted from the consolidated and solo CET1 capital of the bank respectively, after making all the regulatory adjustments as indicated in above paragraphs.
+
+4.4.11 Intra Group Transactions and Exposures
+
+Attention is invited to [circular DBOD.No.BP.BC.96/21.06.102/2013-14 dated February 11, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8739&Mode=0) on "Guidelines on Management of Intra-Group Transactions and Exposures" in terms of which intra-group exposures beyond permissible limits subsequent to March 31, 2016, if any, would be deducted from Common Equity Tier 1 capital of the bank.
+
+4.4.12 The net unrealised gains arising on fair valuation of Level 3 financial instruments recognised in the Profit and Loss Account or in the AFS-Reserve shall be deducted from CET 1 capital[27](#page-32-0).
+
+# **4.5 Transitional Arrangements**
+
+4.5.1 Capital instruments, which no longer qualified as non-common equity Tier 1 capital or Tier 2 capital, were phased out beginning January 1, 2013, and completely derecognised from regulatory capital by March 31, 2022.
+
+4.5.2 Non-common equity regulatory capital instruments, issued on or after January 1, 2013, must comply with all the eligibility criteria, including the non-viability criteria, in order to be an eligible regulatory capital instrument (Additional Tier 1 or Tier 2 capital). Otherwise, such instrument will be

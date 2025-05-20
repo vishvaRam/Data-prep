@@ -1,0 +1,73 @@
+er will not reckon any exposure on the reference entity. The exposure will be deemed to have been transferred on the protection seller to the extent of protection available.
+- (ii) In all other cases where the obligations in Banking Book or Trading Book are hedged by CDS positions, the protection buyer will continue to reckon the exposure on the reference entity equal to the outstanding position of the underlying asset.
+- (iii) For all bought CDS positions (hedged and un-hedged) held in Trading Book, the protection buyer will also reckon exposure on the counterparties to the CDS contracts as measured by the Current Exposure Method.
+- (iv) The protection buyer needs to adhere to all the criteria required for transferring the exposures fully to the protection seller in terms of paragraph (i) above on an on-going basis so as to qualify for exposure relief on the underlying asset. In case any of these criteria are not met subsequently, the bank will have to reckon the exposure on the underlying asset. Therefore, banks should restrict the total exposure to an obligor including that covered by way of various unfunded credit protections (guarantees, LCs, standby LCs, CDS, etc.) within an internal exposure ceiling considered appropriate by the Board of the bank in such a way that it does not breach the single / group borrower exposure limit prescribed by RBI. In case of the event of any breach in the single / group borrower exposure limit, the entire exposure in excess of the limit will be risk weighted at 1250%. In order to ensure that consequent upon such a treatment, the bank does not breach the minimum capital requirement prescribed by
+
+RBI, it should keep sufficient cushion in capital in case it assumes exposures in excess of normal exposure limit.
+
+(v) In respect of bought CDS positions held in Trading Book which are not meant for hedging, the protection buyer will not reckon any exposure against the reference entity[211](#page-227-1).
+
+# **12. Reporting Requirements**
+
+Banks should report "total exposure" in all cases where they have assumed exposures against borrowers in excess of the normal single / group exposure limits due to the credit protections obtained by them through CDS, guarantees or any other instruments of credit risk transfer, to the Department of Supervision (DOS) on a quarterly basis.
+
+<span id="page-227-1"></span><span id="page-227-0"></span> <sup>211</sup> In a CDS transaction, the protection buyer does not suffer a loss when reference entity defaults; it rather gains in such a situation.
+
+#### **Annex 8**
+
+(Cf. para 7.3.6)
+
+#### <span id="page-228-0"></span>**Part – A Illustrations on Credit Risk Mitigation (Loan- Exposures) Calculation of Exposure amount for collateralised transactions**
+
+E \* = Max {0, [ E x (1 + He ) – C x ( 1 – Hc – HFX ) ] }
+
+Where,
+
+E\* = Exposure value after risk mitigation
+
+E = Current value of the exposure
+
+He = Haircut appropriate to the exposure
+
+C = Current value of the collateral received
+
+Hc = Haircut appropriate to the collateral
+
+HFX = Haircut appropriate for currency mismatch between the collateral and exposure
+
+
+
+## Exchange rate assumed to be 1 USD = Rs.40
+
+# Not applicable
+
+- @ In case of long term ratings, as per para 6.4.2 of the circular, where "+" or "-" notation is attached to the rating, the corresponding main rating category risk weight is to be used. Hence risk weight is 100 per cent.
+- ( \* ) Haircut for exposure is taken as zero because the loans are not marked to market and hence are not volatile
+
+Case 4: Haircut applicable as per Table – 12 of Basel III Capital Regulations
+
+Case 5: It is assumed that the Mutual Fund meets the criteria specified in paragraph 7.3.5(viii) and has investments in the securities all of which have residual maturity of more than five years are rated AA and above – which would attract a haircut of eight per cent in terms of Table 12.
+
+# **Part - B**
+
+#### **Illustrations on computation of capital charge for Counterparty Credit Risk (CCR) – Repo Transactions**
+
+An illustration showing computation of total capital charge for a repo transaction comprising the capital charge for CCR and Credit/Market risk for the underlying security, under Basel-II is furnished below:
+
+### **A. Particulars of a Repo Transaction:**
+
+Let us assume the following parameters of a hypothetical repo transaction:
+
+
+**B. Computation of total capital charge comprising the capital charge for Counterparty Credit Risk (CCR) and Credit / Market risk for the underlying security** 
+
+#### **B.1 In the books of the borrower of funds (for the off-balance sheet exposure due to lending of the security under repo)**
+
+(In this case, the security lent is the exposure of the security lender while cash borrowed is the collateral)
+
+
+
+
+@ The supervisory haircut of 2 per cent has been scaled down using the formula indicated in paragraph 7.3.7 of the Circular.
+
+# **B.2 In the books of the lender of funds (for the on-balance sheet exposure due to lending of funds und

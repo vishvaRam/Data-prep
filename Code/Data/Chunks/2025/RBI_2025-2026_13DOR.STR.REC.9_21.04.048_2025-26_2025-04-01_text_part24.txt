@@ -1,0 +1,31 @@
+tained from the company's latest audited balance sheet. The date as on which the latest balance sheet is drawn up should not precede the date of valuation by more than 18 months. In case the latest audited balance sheet is not available the shares are to be collectively valued at Re.1 per company.
+		- ii. Discounted cash flow method where the discount factor is the actual interest rate charged to the borrower on the residual debt post restructuring plus a risk premium to be determined as per the board approved policy considering the factors affecting the value of the equity. The risk premium will be subject to a floor of 3 per cent and the overall discount factor will be subject to a floor of 14 per cent. Further, cash flows (cash flow available from the current as well as immediately prospective (not more than six months) level of operations)
+
+<sup>23</sup> These instruments shall be subject to all the instructions contained in [Reserve Bank of India \(Classification, Valuation](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [and Operation of Investment Portfolio of Commercial Banks\) Directions](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) (as amended from time to time) to the extent they are not inconsistent with the instructions contained in this circular.
+
+occurring within 85 per cent of the useful economic life of the project only shall be reckoned.
+
+- d) Equity instruments, where classified as NPA, shall be valued at market value, if quoted, or else, shall be collectively valued at Re.1.
+- e) Preference Shares shall be valued as per the instructions contained in paragraph 26.2 of the [Reserve Bank of India \(Classification, Valuation and Operation of Investment Portfolio](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [of Commercial Banks\) Directions, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) (as amended from time to time) (as amended from time to time), subject to the following modifications:
+	- i. The discount rate shall be subject to a floor of weighted average actual interest rate charged to the borrower on the residual debt after restructuring plus a mark-up of 1.5 percent.
+	- ii. Where preference dividends/coupons are in arrears, no credit should be taken for accrued dividends/coupons and the value determined as above on DCF basis should be discounted further by at least 15 per cent if arrears are for one year, 25 per cent if arrears are for two years, so on and so forth (i.e., with 10 percent increments).
+
+21.4 The overarching principle should be that valuation of instruments arising out of resolution of stressed assets shall be based on conservative assessment of cash flows and appropriate discount rates to reflect the stressed cash flows of the borrowers. Statutory Auditors should also specifically examine as to whether the valuations of such instruments reflect the risk of loss associated with such instruments.
+
+21.5 In case lenders have acquired unquoted instruments on conversion of debt as a part of a RP, and if the RP is not deemed as implemented, such unquoted instruments shall collectively be valued at Re. 1 at that point, and till the RP is treated as implemented.
+
+21.6 The unrealised income represented by FITL / Debt or equity instrument should have a corresponding credit in an account styled as "Sundry Liabilities Account (Interest Capitalization)".
+
+21.7 The unrealised income represented by FITL / Debt or equity instrument can only be recognised in the profit and loss account as under:
+
+- a) FITL/debt instruments: only on sale or redemption, as the case may be;
+- b) Unquoted equity/ quoted equity (where classified as NPA): only on sale;
+- c) Quoted equity (where classified as standard): market value of the equity as on the date of upgradation, not exceeding the amount of unrealised income converted to
+
+such equity. Subsequent changes to value of the equity will be dealt as per the extant prudential norms on investment portfolio of banks.
+
+## 22. Change in Ownership
+
+22.1 In case of change in ownership of the borrowing entities, credit facilities of the concerned borrowing entities may be continued/upgraded as 'standard' after the change in ownership is implemented, either under the IBC or under this framework. If the change in ownership is implemented under this framework, then the classification as 'standard' shall be subject to the following conditions:
+
+- a) Lenders shall conduct necessary due diligence in this regard and clearly establish that the acquirer is not a person disqualified in terms of Section 29A of the IBC. Additionally, the 'new promoter' should not be a person/entity/subsidiary/associate etc. (domestic as well as overseas), from the existing promoter/promoter group. Lenders should clearly establish that the acquirer does not belong to the existing promoter group (as defined in Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulat

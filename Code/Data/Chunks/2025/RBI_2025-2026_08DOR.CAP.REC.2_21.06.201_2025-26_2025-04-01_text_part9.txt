@@ -1,0 +1,39 @@
+he subsidiary attributable to the third party investors.
+
+(ii) Surplus Tier 1 capital of the subsidiary is calculated as the Tier 1 capital of the subsidiary minus the lower of: (a) the minimum Tier 1 capital requirement of the subsidiary plus the capital conservation buffer (i.e., 9.5% of risk weighted assets) and (b) the portion of the consolidated minimum Tier 1 capital requirement plus the capital conservation buffer (i.e. 9.5% of consolidated risk weighted assets) that relates to the subsidiary.
+
+(iii) The amount of the surplus Tier 1 capital that is attributable to the third party investors is calculated by multiplying the surplus Tier 1 capital by the percentage of Tier 1 capital that is held by third party investors.
+
+The amount of this Tier 1 capital that will be recognised in Additional Tier 1 capital will exclude amounts recognised in Common Equity Tier 1 capital under paragraph 4.3.2.
+
+# 4.3.4 **Treatment of Minority Interest Corresponding to Tier 1 Capital and Tier 2 Capital Qualifying Capital Issued by Consolidated Subsidiaries**
+
+Total capital instruments (i.e., Tier 1 and Tier 2 capital instruments) issued by a fully consolidated subsidiary of the bank to third party investors (including amounts under paragraphs 4.3.2 and 4.3.3) may receive recognition in Total Capital only if the instruments would, if issued by the bank, meet all of the criteria for classification as Tier 1 or Tier 2 capital. The amount of this capital that will be recognised in consolidated Total Capital will be calculated as follows:
+
+(i) Total capital instruments of the subsidiary issued to third parties minus the amount of the surplus Total Capital of the subsidiary attributable to the third party investors.
+
+(ii) Surplus Total Capital of the subsidiary is calculated as the Total Capital of the subsidiary minus the lower of: (a) the minimum Total Capital requirement of the subsidiary plus the capital conservation buffer (i.e., 11.5% of risk weighted assets) and (b) the portion of the consolidated minimum Total Capital requirement plus the capital conservation buffer (i.e., 11.5% of consolidated risk weighted assets) that relates to the subsidiary.
+
+(iii) The amount of the surplus Total Capital that is attributable to the third party investors is calculated by multiplying the surplus Total Capital by the percentage of Total Capital that is held by third party investors.
+
+The amount of this Total Capital that will be recognised in Tier 2 capital will exclude amounts recognised in Common Equity Tier 1 capital under paragraph 4.3.2 and amounts recognised in Additional Tier 1 under paragraph 4.3.3.
+
+4.3.5 An illustration of calculation of minority interest and other capital issued out of consolidated subsidiaries that is held by third parties is furnished in **[Annex 16](#page-268-0)**.
+
+# **4.4 Regulatory Adjustments / Deductions**
+
+The following paragraphs deal with the regulatory adjustments / deductions which will be applied to regulatory capital **both** at solo and consolidated level.
+
+# **4.4.1 Goodwill and all Other Intangible Assets**
+
+(i) Goodwill and all other intangible assets should be deducted from Common Equity Tier 1 capital including any goodwill included in the valuation of significant investments in the capital of banking, financial and insurance entities which are outside the scope of regulatory consolidation. In terms of AS 23 – Accounting for investments in associates, goodwill/capital reserve arising on the acquisition of an associate by an investor should be included in the carrying amount of investment in the associate but should be disclosed separately. Therefore, if the acquisition of equity interest in any associate involves payment which can be attributable to goodwill, this should be deducted from the Common Equity Tier 1 of the bank.
+
+(ii) The full amount of the intangible assets is to be deducted net of any associated deferred tax liabilities which would be extinguished if the intangible assets become impaired or derecognized under the relevant accounting standards. For this purpose, the definition of intangible assets would be in accordance with the Indian accounting standards. Losses in the current period and those brought forward from previous periods should also be deducted from Common Equity Tier 1 capital, if not already deducted.
+
+(iii) Application of these rules at consolidated level would mean deduction of any goodwill and other intangible assets from the consolidated Common Equity which is attributed to the Balance Sheets of subsidiaries, in addition to deduction of goodwill and other intangible assets which pertain to the solo bank.
+
+# **4.4.2 Deferred Tax Assets (DTAs)[16](#page-21-0)**
+
+(i) Deferred tax assets (DTAs) associated with accumulated losses and other such assets shall be deducted in full, from CET1 capital.
+
+(ii) DTAs which relate to timing differences (other than those related to accumulated losses) may, instead of full deduction from CET1 capital, be recognised in the

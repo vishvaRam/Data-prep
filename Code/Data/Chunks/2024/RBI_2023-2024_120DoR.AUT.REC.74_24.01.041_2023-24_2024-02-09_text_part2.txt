@@ -1,0 +1,10 @@
+ Management and Inter-Bank Dealings](https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10485) dated [July 05, 2016](https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10485) (as updated from time to time), the Board may determine a global sublimit for net overnight open position in gold/silver, which shall not exceed one tonne of gold equivalent.
+
+### **C. Procedure of Application to RBI**
+
+a) For TM/TCM activities, the parent bank ('bank') shall seek a No Objection Certificate (NOC) from the Reserve Bank prior to its branch/subsidiary/joint venture in GIFT-IFSC seeking TM/TCM status on IIBX, subject to fulfilment of the prudential regulations as set out in Para 21 of the [Master](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10425)  [Direction/DBR.FSD.No.101/24.01.041/2015-16 dated May 26, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10425) (as updated from time to time). An eligible bank shall, with prior approval of its Board, make an application to the Department of Regulation, Reserve Bank of India with details of its proposed business plan as a TM/TCM for facilitating client trade along with particulars of the risk management architecture.
+
+[*A bank which has already been granted NOC by the Reserve Bank for its branch in GIFT-IFSC to act as Professional Clearing Member (PCM) of IIBX (as on date) need not take a separate approval from the Reserve Bank for obtaining TM/TCM status on IIBX. They should, however, give a prior intimation to the Department of Regulation, Reserve Bank of India while seeking to take up activities as TM/TCM on the IIBX*].
+
+- b) Banks authorized to import gold/silver can undertake the activities of an SCC by sending prior intimation to the Department of Regulation, Reserve Bank of India.
+- c) A bank acting as a TM/TCM/SCC of IIBX shall be required to seek additional approval from the Department of Regulation, Reserve Bank of India in case of any change in their role or scope of activities at IIBX from those permitted by this circular.

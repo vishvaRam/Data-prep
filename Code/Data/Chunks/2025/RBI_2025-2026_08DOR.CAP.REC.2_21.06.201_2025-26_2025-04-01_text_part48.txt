@@ -1,0 +1,42 @@
+tect against an adverse movement in the price of an individual security owing to factors related to the individual issuer, both for short (short position is not allowed in India except in derivatives and Central Government Securities) and long positions, and (ii) "**general market risk**" charge towards interest rate risk in the portfolio, where long and short positions (which is not allowed in India except in derivatives and Central Government Securities) in different securities or instruments can be offset.
+
+# **A. Specific Risk**
+
+8.3.4 The capital charge for specific risk is designed to protect against an adverse movement in the price of an individual security owing to factors related to the individual issuer. The specific risk charges for various kinds of exposures would be applied as detailed below:
+
+
+**\*Note**: In case of debt mutual fund / ETF which contains a mix of the above debt instruments, the specific risk capital charge shall be computed based on the debt instrument attracting the highest specific risk capital charge in the fund. Debt mutual fund / ETF classified in trading book for which constituent debt details are not available, at least as of each month-end, shall continue to be treated on par with equity for computation of capital charge for market risk as prescribed in paragraph 8.4.1.
+
+
+#### **Table 14 – Part A: Specific Risk Capital Charge for Sovereign securities issued by Indian and foreign sovereigns**
+
+
+#### **Table 14 - Part B: Specific risk capital charge for bonds issued by banks**
+
+\* The deduction should be made from Common Equity Tier 1 Capital.
+
+# refer to para 8.4.4 below for specific risk capital charge on equity instruments.
+
+### **Notes:**
+
+(i) In case of banks where no capital adequacy norms have been prescribed by the RBI, the lending / investing bank shall calculate the applicable Common Equity Tier 1 and capital conservation buffer of the bank concerned, notionally, by obtaining necessary information from the investee bank and using the capital adequacy norms as applicable to the commercial banks. In case, it is not found feasible to compute applicable Common Equity Tier 1 and capital conservation buffer on such notional basis, the specific risk capital charge of 31.5% or 56.25 %, as per the risk perception of the investing bank, shall be applied uniformly to the investing bank's entire exposure.
+
+- (ii) In case of banks where capital adequacy norms are not applicable at present, the matter of investments in their capital-eligible instruments would not arise for now. However, this Table above shall become applicable to them, if in future they issue any capital instruments where other banks are eligible to invest.
+- (iii) The existing specific risk capital charges up to 9% have been scaled up to reflect the application of specific risk charge corresponding to risk weight of 125% instead of 100%. For instance, the existing specific risk charge for exposure to capital instrument issued by scheduled banks with applicable Common Equity Tier 1 and capital conservation buffer more than 9% and instrument having a residual maturity of less than 6 month is 1.4%. This is scaled up as under:
+
+$$\mathbf{1}.4^\*\mathbf{1}25\% = \mathbf{1}.75$$
+
+(iv) Till such time the investee banks have not disclosed their Basel III capital ratios publicly, the risk weights / capital charges may be arrived at based on the tables/paragraph as contained in the [Master Circular DBOD.No.BP.BC.4/21.06.001/2015-16 dated July 1,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893)  [2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893) on Prudential Guidelines on Capital Adequacy and Market Discipline - New Capital Adequacy Framework.
+
+### **Table 14 – Part C[94:](#page-98-0) Specific Risk Capital Charge for Corporate Bonds (Other than bank bonds)**
+
+
+\* These ratings indicate the ratings assigned by Indian rating agencies/ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed with the main rating category.
+
+#### **Table 14 – Part D: Specific Risk Capital Charge for Securitisation Exposures**
+
+For securitisation transactions undertaken subsequent to the issuance of [Master](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  Direction – [Reserve Bank of India \(Securitisation of Standard Assets\) Directions, 2021](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [dated September 24, 2021,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165) the specific risk capital requirement of securitisation
+
+<span id="page-98-0"></span> <sup>94</sup> [Master Circular DBOD.No.BP.BC.73/21.06.001/2009-10 dated Feb 8, 2010.](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=5494)
+
+exposures that are held under trading book is to be calculated according to the revised method as set out in the Master Direction ibid. 

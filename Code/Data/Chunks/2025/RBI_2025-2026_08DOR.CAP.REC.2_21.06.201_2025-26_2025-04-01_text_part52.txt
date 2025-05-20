@@ -1,0 +1,37 @@
+the cash position. To the extent that the transaction transfers risk, an 80% specific risk offset will be applied to the side of the transaction with the higher capital charge, while the specific risk requirement on the other side will be zero.
+
+(iii) Banks may offset partially the specific risk capital charges when the value of the two legs (i.e., long and short) usually moves in the opposite direction. This would be the case in the following situations:
+
+(a) The position is captured in paragraph 8.6.2.1(ii) but there is an asset mismatch between the cash position and the CDS. However, the underlying asset is included in the (reference / deliverable) obligations in the CDS documentation and meets the requirements in paragraph 5.17.1.3(i) above.
+
+(b) The position is captured in paragraph 8.6.2.1(ii) but there is maturity mismatch between credit protection and the underlying asset. However, the underlying asset is included in the (reference/ deliverable) obligations in the CDS documentation.
+
+<span id="page-106-0"></span> <sup>99</sup> Please refer to paragraph 6.2 of Annex 7 of this Master Circular for details.
+
+(c) In each of the cases in paragraph (a) and (b) above, rather than applying specific risk capital requirements on each side of the transaction (i.e., the credit protection and the underlying asset), only higher of the two capital requirements will apply.
+
+# **8.6.2.2 Specific Risk Charge in CDS Positions which are not meant for Hedging**
+
+In cases not captured in paragraph 8.6.2.1, a specific risk capital charge will be assessed against both sides of the positions.
+
+# **8.6.3 Capital Charge for Counterparty Credit Risk**
+
+The credit exposure for the purpose of counterparty credit risk on account of CDS transactions in the Trading Book will be calculated according to the Current Exposure Method[100](#page-107-0).
+
+## **8.6.3.1 Protection Seller**
+
+A protection seller will have exposure to the protection buyer only if the fee/premia is outstanding. In such cases, the counterparty credit risk charge for all single name long CDS positions in the Trading Book will be calculated as the sum of the current marked-to-market value, if positive (zero, if marked-to-market value is negative) and the potential future exposure add-on factors based on table given below. However, for protection seller where the CDS positions are outside netting and margin agreements, the add-on will be capped to the amount of unpaid premia. Banks have the option to remove such CDS positions from their legal netting sets and treat them as individual unmargined transactions in order to apply the cap.
+
+
+### **8.6.3.2 Protection Buyer**
+
+A CDS contract creates a counterparty exposure on the protection seller on account of the credit event payment. The counterparty credit risk charge for all short CDS positions in the Trading Book
+
+<span id="page-107-0"></span> <sup>100</sup> A CDS contract, which is required to be marked-to-market, creates bilateral exposure for the parties to the contract. The mark-to-market value of a CDS contract is the difference between the default-adjusted present value of protection payment (called "protection leg" / "credit leg") and the present value of premium payable called ("premium leg"). If the value of credit leg is less than the value of the premium leg, then the marked-to-market value for the protection seller in positive. Therefore, the protection seller will have exposure to the counterparty (protection buyer) if the value of premium leg is more than the value of credit leg. In case, no premium is outstanding, the value of premium leg will be zero and the mark-to-market value of the CDS contract will always be negative for the protection seller and therefore, protection seller will not have any exposure to the protection buyer. In no case, the protection seller's exposure on protection buyer can exceed the amount of the premium unpaid. For the purpose of capital adequacy as well as exposure norms, the measure of counterparty exposures in case of CDS transaction held in Trading Book is the Potential Future Exposure (PFE) which is measured and recognised as per Current Exposure Method.
+
+will be calculated as the sum of the current marked-to-market value, if positive (zero, if markedto-market value is negative) and the potential future exposure add-on factors based on table given below:
+
+
+# **8.6.3.3 Capital Charge for Counterparty Risk for Collateralised Transactions in CDS**
+
+As mentioned in paragraph 3.3 of the [circular IDMD.PCD.No.5053/14.03.04/2010-11 dated May](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6432&Mode=0)  [23, 2011,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6432&Mode=0) collaterals and margins would be maintained by the individual market participants. The counterparty exposure for CDS traded in the OTC market will be calculated as per the Current Exposure Method. Under this method, the calculation of the counterparty credit risk charge for an individual co

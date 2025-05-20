@@ -1,0 +1,57 @@
+de=0) as amended from time to time.
+
+4.11 "Hindu Undivided Family" (HUF) means HUF as defined under Income-tax Act, 1961.
+
+4.12 "Individual" means a natural person.
+
+4.13 "Member of the bank's Staff" means a person employed on a regular basis, whether full-time or part-time, and includes a person recruited on probation or employed on a contract of a specified duration or on deputation and an employee taken over in pursuance of any scheme of amalgamation but does not include a person employed on casual basis.
+
+4.14 "Notice Deposit" means term deposit for specific period but withdrawable on giving at least one complete banking day's notice.
+
+4.15 "NRE Account" means a Non-Resident External deposit account referred to in [Foreign Exchange Management \(Deposit\) Regulations, 2016,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10325&Mode=0) as amended from time to time.
+
+4.16 "NRO Account" means a Non-Resident Ordinary deposit account referred to in [Foreign Exchange Management \(Deposit\) Regulations, 2016,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10325&Mode=0) as amended from time to time.
+
+4.17 "Retired Member of the bank's Staff" means an employee retiring whether on superannuation or otherwise as provided in the bank's Service/ Staff Regulations.
+
+4.18 "RFC Account" means a Resident Foreign Currency account referred to in Foreign Exchange Management (Foreign currency accounts by a person resident in India) Regulations, 2016, as amended from time to time.
+
+4.19 "Savings Deposit" means a form of interest bearing demand deposit which is a deposit account whether designated as "Savings Account", "Savings Bank Account", "Savings Deposit Account", "Basic Savings Bank Deposit Account (BSBDA)" or other account by whatever name called which is subject to the restrictions as to the number of withdrawals as also the amounts of withdrawals permitted by the bank during any specified period.
+
+4.20 "Scheduled Commercial Bank" means banks other than co-operative banks included in Second Schedule of Reserve Bank of India Act, 1934.
+
+6
+
+4.21 "Scheduled Co-operative Bank" means a State Co-operative Bank and a Primary (Urban) Co-operative Bank included in Second Schedule of Reserve Bank of India Act, 1934.
+
+4.22 "Term Deposit" means an interest-bearing deposit received by the bank for a fixed period and shall also include deposits such as Recurring/ Cumulative/ Annuity / Reinvestment deposits and Cash Certificates.
+
+4.23 All other expressions, unless defined herein, shall have the same meaning as have been assigned to them under the Banking Regulation Act,1949 or the Reserve Bank of India Act, 1934 or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+
+#### **CHAPTER – II: GENERAL GUIDELINES**
+
+#### <span id="page-7-1"></span><span id="page-7-0"></span>**5. Interest Rate Framework**
+
+Banks shall pay interest on deposits of money (other than current account deposits) accepted by them or renewed by them in their domestic, Ordinary Non-Resident (NRO), Non-Resident (External) Accounts (NRE) and Foreign Currency (Nonresident) Accounts (Banks) Scheme {FCNR(B)} deposit account on the terms and conditions specified in these directions:
+
+5.1 There shall be a comprehensive policy on interest rates on deposits duly approved by the Board of Directors or any committee of the Board to which powers have been delegated.
+
+5.2 The rates shall be uniform across all branches and for all customers and there shall be no discrimination in the matter of interest paid on the deposits, between one deposit and another of similar amount, accepted on the same date, at any of its offices.
+
+5.3 Interest rates payable on deposits shall be strictly as per the schedule of interest rates disclosed in advance.
+
+5.4 The commercial banks shall maintain the bulk deposit interest rate card in their Core Banking System to facilitate supervisory review.
+
+5.5 The rates shall not be subject to negotiation between the depositors and the bank.
+
+5.6 The interest rates offered shall be reasonable, consistent, transparent, and available for supervisory review/ scrutiny as and when required.
+
+5.7 All transactions, involving payment of interest on deposits shall be rounded off to the nearest rupee for rupee deposits and to two decimal places for FCNR(B) deposits.
+
+#### 5.8 Deposits maturing on non-business working day for commercial banks.
+
+5.8.1 If a term deposit is maturing for payment on a non-business working day, banks shall pay interest at the originally contracted rate on the original principal deposit amount for the non-business working day, intervening between the date of the maturity of the specified term of the deposit and the date of payment of the proceeds of the deposit on the succeeding working day.
+
+5.8.2 In case of reinvestment deposits and recurring deposits, banks shall pay interest for the intervening non-business working day on the maturity value.
+
+# 5.9 Deposits maturing on a Sunday

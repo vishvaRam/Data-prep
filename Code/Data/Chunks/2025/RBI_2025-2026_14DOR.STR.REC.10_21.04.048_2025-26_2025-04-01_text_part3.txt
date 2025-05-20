@@ -1,0 +1,39 @@
+-based asset classification within a period of six months from the end of the financial year concerned. For smooth implementation of the system, such UCBs may conduct pilot/parallel run and evaluate the results for accuracy/integrity of the asset classification in compliance with the applicable RBI instructions so as to ensure that they are ready for implementation of the system-based asset classification from the appointed date.
+
+(vi) UCBs not meeting the above criteria are also encouraged to voluntarily implement the system-based asset classification in their own interest.
+
+## **2.1.5 Charging of Interest at monthly rests**
+
+(i) Banks should charge interest at monthly rests in the context of adoption of 90 days norm for recognition of loan impairment w.e.f. from the year ended March 31, 2004 and consequential need for close monitoring of borrowers' accounts.
+
+(ii) The charging / compounding of interest on agricultural advances would be linked to crop seasons and the instructions regarding charging of interest on monthly rests shall not be applicable to agricultural advances.
+
+(iii) Banks should take into consideration due date/s fixed on the basis of fluidity with borrowers and harvesting / marketing season while charging interest and compound the same if the loan / installment becomes overdue in respect of short duration crops and allied agricultural activities.
+
+<span id="page-4-0"></span><sup>3</sup> Refer paragraph 2.1.6
+
+<span id="page-4-1"></span><sup>4</sup> 'System-based asset classification' would mean asset classification (downgrading as well as upgrading) carried out by the CBS / computerized systems of the bank in an automated manner on an ongoing basis, based on the relevant RBI instructions/guidelines.
+
+#### 2.1.6 Classification as Special Mention Account (SMA) and **Reporting of Large Exposures to Central Repository of Information on Large Credits (CRILC) - UCBs**
+
+SMA is an account which is exhibiting signs of incipient stress resulting in the borrower defaulting in timely servicing of her debt obligations, though the account has not yet been classified as NPA. As early recognition of such accounts enables banks to initiate timely remedial actions to prevent their potential slippages into NPAs, all UCBs shall classify loans/advances accounts as SMA, as under:
+
+
+In case of revolving credit facilities like cash credit, the SMA sub-categories will be as follows:
+
+
+(ii) The above-mentioned instructions on classification of borrower accounts into SMA categories are applicable for all loans, including retail loans, other than agricultural advances governed by crop seasonbased asset classification norms, irrespective of size of exposure.
+
+(iii) Primary (Urban) Co-operative Banks (UCBs) having total assets of ₹500 crore and above shall report credit information, including classification of an account as Special Mention Account (SMA), on all borrowers having aggregate exposures of ₹5 crore and above with them to Central Repository of Information on Large Credits (CRILC) maintained by the Reserve Bank. Aggregate exposure shall include all fund-based and non-fund based exposure, including investment exposure on the borrower.
+
+(iv) UCBs having total assets of ₹500 crore and above are required to submit CRILC Report on quarterly basis. Detailed operating instructions have been issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11790&Mode=0)  [DoS.OSMOS.No.4633/33.05.018/2019-20 dated January 16, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11790&Mode=0) on 'Reporting of Large Exposures to Central Repository of Information on Large Credits (CRILC) – UCBs' by the Department of Supervision, Reserve Bank of India.
+
+(v) UCBs should take utmost care about data accuracy and integrity while submitting the information /data on large credit to RBI, failing which penal action as per the provisions of the Banking Regulation Act, 1949 may be taken.
+
+## **2.2 Treatment of Accounts as NPAs**
+
+### **2.2.1 Record of Recovery**
+
+(i) The treatment of an asset as NPA should be based on the record of recovery. Banks should not treat an advance as NPA merely due to existence of some deficiencies which are temporary in nature such as nonavailability of adequate drawing power, balance outstanding exceeding the limit, non-submission of stock statements and the non-renewal of the limits on the due date, etc. Where there is a threat of loss, or the recoverability of the advances is in doubt, the asset should be treated as NPA.
+
+(ii) A credit facility should be treated as NPA as per norms given in paragraph 2.1 above. However, where entire overdues pertaining to all the credit facilities availed by a borrower from a given bank have been regularised by repayment through genuine sources (not by sanction of additional facilities or transfer of funds between accounts), the accounts may be upgraded to 'standard' asset category. In such cases, it should, however, be ensured that the accounts

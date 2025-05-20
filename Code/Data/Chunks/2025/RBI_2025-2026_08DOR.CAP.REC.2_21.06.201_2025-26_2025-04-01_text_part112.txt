@@ -1,0 +1,42 @@
+other banks and financial institutions shall be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10% of investing banks' total capital funds prescribed vide [circular DBOD.BP.BC.No.3/21.01.002/2004-05 dated July 6, 2004](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=1772&Mode=0) and also subject to cross holding limits.
+
+(ii) Bank's investments in these instruments issued by other banks / financial institutions shall attract risk weight for capital adequacy purposes as provided vide paragraphs 5.6 and 8.3.4 of this Master Circular, whichever applicable.
+
+# **1.15 Classification in the Balance Sheet**
+
+These instruments will be classified as 'Borrowings' under Schedule 4 of the Balance Sheet under item No. I (i.e., Borrowings).
+
+# **1.16 PCPS/RNCPS/RCPS to Retail Investors[200](#page-215-0)**
+
+With a view to enhancing investor education relating to risk characteristics of regulatory capital requirements, banks issuing PCPS/RNCPS/RCPS to retail investors, subject to approval of their Board, should adhere to the following conditions:
+
+(a) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks of the instrument may be incorporated in the common application form of the proposed issue.
+
+# *"By making this application, I / We acknowledge that I/We have understood the terms and conditions of the Issue of [insert the name of the instruments being issued] of [Name of The Bank] as disclosed in the Draft Shelf Prospectus, Shelf Prospectus and Tranche Document ".*
+
+(b) All the publicity material, application form and other communication with the investor should clearly state in bold letters (**with font size 14**) how a PCPS/RNCPS/RCPS is different from common shares / fixed deposit particularly that it is not covered by deposit insurance. In addition, the loss absorbency features of the instrument should be clearly explained and the investor's sign-off for having understood these features and other terms and conditions of the instrument should be obtained.
+
+<span id="page-215-0"></span> <sup>200</sup> Please refer t[o circular DBOD.BP.BC.38/21.06.201/2014-15 dated September 1, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9202&Mode=0) on Implementation of Basel III Capital Regulations in India – Amendments.
+
+#### **Prudential Guidelines on Credit Default Swaps (CDS)**
+
+#### <span id="page-216-0"></span>**1. Introduction**
+
+Banks can undertake transactions in CDS in terms of Master Direction – [Reserve Bank of India](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12226)  [\(Credit Derivatives\) Directions, 2022.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12226) As users, banks can buy CDS to hedge a Banking Book or Trading Book exposure. The prudential guidelines dealing with CDS are dealt with in the following paragraphs.
+
+#### **2. Definitions**
+
+The expressions/definitions unless defined in this Master Circular shall have the same meaning as have been assigned to them under Master Direction – [Reserve Bank of India \(Credit](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12226)  [Derivatives\) Directions, 2022.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12226)
+
+### **3**. **Classification of CDS into Trading Book and Banking Book Positions**
+
+Banks should refer to paragraph 8.2.1 of the Master Circular for classifying CDS into trading book and banking book. All CDS positions should meet the operational requirements indicated in paragraph 4 below.
+
+# **4. Operational requirements for CDS to be recognised as eligible External / Third-party hedges for Trading Book and Banking Book**
+
+- (a) A CDS contract should represent a direct claim on the protection provider and should be explicitly referenced to specific exposure, so that the extent of the cover is clearly defined and incontrovertible.
+- (b) Other than non-payment by a protection purchaser of premium in respect of the credit protection contract it should be irrevocable.
+- (c) There should be no clause in the contract that would allow the protection provider unilaterally to cancel the credit cover or that would increase the effective cost of cover as a result of deteriorating credit quality in the hedged exposure.
+- (d) The CDS contract should be unconditional; there should be no clause in the protection contract outside the direct control of the bank (protection buyer) that could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original counterparty fails to make the payment(s) due.
+- (e) The credit events specified by the contracting parties should at a minimum cover:
+- (i) failure to pay the amounts due under terms of the underlying obligation that are in effect at the time of such failure (with a grace period that is closely in line with the grace period in the underlying

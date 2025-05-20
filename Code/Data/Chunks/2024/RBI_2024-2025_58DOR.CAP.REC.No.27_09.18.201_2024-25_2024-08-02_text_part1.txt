@@ -1,0 +1,42 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2024-25/58 DOR.CAP.REC.No.27/09.18.201/2024-25 August 02, 2024
+
+Dear Sir/ Madam,
+
+## **Prudential Treatment of Bad and Doubtful Debt Reserve by Co-operative Banks**
+
+As you are aware, under the provisions of the respective State Co-operative Societies Acts, or otherwise, on prudential consideration, several co-operative banks have created Bad and Doubtful Debt Reserve (BDDR)[1](#page-0-0). While in some cases, BDDR is created by recognising an expense in the Profit and Loss (P&L) Account, in other cases it is created through appropriations from net profits.
+
+2. In terms of Accounting Standard (AS) 5[2,](#page-0-1) all expenses which are recognised in a period should be included in the determination of net profit or loss for the period. Consequently, not recognising the required provisions for Non-Performing Assets (NPAs) as an expense while arriving at the net profit in the P&L Account is not in consonance with extant Accounting Standards. Further, the treatment of BDDR for regulatory capital and reckoning of net NPAs varies across banks and in many cases has been observed to be at variance with regulatory norms.
+
+3. Accordingly, with a view to bringing about uniformity in the treatment of BDDR for prudential purposes, revised instructions on BDDR are being issued, as under:
+
+a) With effect from the FY 2024-25, all provisions as per Income Recognition, Asset Classification and Provisioning (IRACP) norms[3](#page-0-2), whether accounted for
+
+िविनयमन िवभाग,क� �ीय कायार्लय, 12 व� और 13 व� मंिजल, क��ीय कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001 दूरभाष: 022-22601000 फै क्स: 022-22705691 ई-मेल: cgmicdor@rbi.org.in
+
+ <sup>1</sup> BDDR, in the context of this circular, also includes reserves with such similar terminology.
+
+<span id="page-0-1"></span><span id="page-0-0"></span><sup>2</sup> AS 5 - Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies.
+
+<span id="page-0-2"></span><sup>3</sup> Urban Co-operative Banks may refer to the [Master Circular DOR.STR.REC.9/21.04.048/2024-25](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12658) dated April 02, [2024](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12658) titled 'Income Recognition, Asset Classification, Provisioning and Other Related Matters – UCBs' (as amended from time to time) and State and Central Co-operative Banks may refer to guidelines issued by NABARD on the IRACP norms (as amended from time to time).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Department of Regulation, Central Office, 12th and 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in
+
+![](_page_1_Picture_0.jpeg)
+
+under the head "BDDR" or any other head of account, shall be charged as an expense to the P&L account in the accounting period in which they are recognised. The eligibility of such provisions for regulatory capital purposes shall continue to be as defined in the extant guidelines on capital adequacy[4](#page-1-0).
+
+- b) After charging all applicable provisions as per IRACP norms and other extant regulations to the P&L Account, banks may make any appropriations of net profits below the line to BDDR, if required as per the applicable statutes or otherwise.
+- c) As a one-time measure, with a view to facilitate rectification and smoother transition to an AS compliant approach, the following regulatory treatment is prescribed:
+	- (i) Previously, banks may have created provisions required as per IRACP norms by appropriating from the net profit rather than recognizing the same as an expense in the P&L account. The balances in BDDR as on March 31, 2024, representing such provisions as per IRACP norms (that have been created by directly appropriating from net profits instead of recognising as an expense in the P&L Account) in the previous years (hereafter referred to as 'BDDR2024') shall be identified and quantified.
+	- (ii) As at March 31, 2025, to the extent of BDDR2024, an appropriation shall be made directly (i.e. 'below the line') from the P&L Account or General Reserves to provisions for NPA (i.e. liability). Such provisions shall be permitted to be netted off from GNPAs to arrive at NNPAs.
+
+<span id="page-1-0"></span> <sup>4</sup> Urban Co-operative Banks may refer to the [Master Circular DOR.CAP.REC.5/09.18.201/2024-25](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12654) dated April 01, [2024](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12654) titled 'Prudential Norms on Capital Adequacy - Primary (Urban) Co-operat

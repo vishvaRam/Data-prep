@@ -1,0 +1,35 @@
+ the nature of some transactions.
+- Short-term financing may be a primary objective in that the transactions mostly consist of an exchange of one asset for another (cash or securities) for a relatively short period of time, usually for the business purpose of financing. The two sides of the transactions are not the result of separate decisions but form an indivisible whole to accomplish a defined objective.
+- Netting may be used to mitigate the risk.
+- Positions are frequently valued (most commonly on a daily basis), according to market variables.
+- Remargining may be employed.
+
+The '**capital charge for default risk**' will be calculated using **Current Exposure Method** as explained in **paragraph 5.15.3.4**. The '**capital charge for CVA risk**' will be calculated as explained in **paragraph 5.15.3.5**. The Current Exposure method is applicable only to OTC derivatives. The counterparty risk on account of Securities Financing Transactions is covered in **paragraph 7.3.8** of the Master Circular.
+
+### 5.15.3.2 Definitions and general terminology
+
+**Counterparty Credit Risk (CCR)** is the risk that the counterparty to a transaction could default before the final settlement of the transaction's cash flows. An economic loss would occur if the transactions or portfolio of transactions with the counterparty has a positive economic value at the time of default. Unlike a firm's exposure to credit risk through a loan, where the exposure to credit risk is unilateral and only the lending bank faces the risk of loss, CCR creates a bilateral risk of loss: the market value of the transaction can be positive or negative to either counterparty to the transaction. The market value is uncertain and can vary over time with the movement of underlying market factors.
+
+**Securities Financing Transactions (SFTs)** are transactions such as repurchase agreements, reverse repurchase agreements, security lending and borrowing, collateralised borrowing and lending (CBLO) and margin lending transactions, where the value of the transactions depends on market valuations and the transactions are often subject to margin agreements.
+
+**Netting Set** is a group of transactions with a single counterparty that are subject to a legally enforceable bilateral netting arrangement and for which netting is recognised for regulatory capital purposes. Each transaction that is not subject to a legally enforceable bilateral netting arrangement that is recognised for regulatory capital purposes should be interpreted as its own netting set for the purpose of these rules.
+
+**Hedging Set** is a group of risk positions from the transactions within a single netting set for which only their balance is relevant for determining the exposure amount or EAD under the CCR standardised method.
+
+**Current Exposure** is the larger of zero, or the market value of a transaction or portfolio of transactions within a netting set with a counterparty that would be lost upon the default of the counterparty, assuming no recovery on the value of those transactions in bankruptcy. Current exposure is often also called Replacement Cost.
+
+**Credit Valuation Adjustment** is an adjustment to the mid-market valuation of the portfolio of trades with a counterparty. This adjustment reflects the market value of the credit risk due to any failure to perform on contractual agreements with a counterparty. This adjustment may reflect the market value of the credit risk of the counterparty or the market value of the credit risk of both the bank and the counterparty.
+
+**One-Sided Credit Valuation Adjustment** is a credit valuation adjustment that reflects the market value of the credit risk of the counterparty to the bank, but does not reflect the market value of the credit risk of the bank to the counterparty.
+
+**Outstanding EAD** for a given OTC derivative counterparty is defined as the greater of zero and the difference between the sum of EADs across all netting sets with the counterparty and the credit valuation adjustment (CVA) for that counterparty which has already been recognised by the bank as an incurred write-down (i.e., a CVA loss).
+
+**Cross-Product Netting** refers to the inclusion of transactions of different product categories within the same netting set.
+
+A **central counterparty[61](#page-53-0) (CCP)** is a clearing house that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer and thereby ensuring the future performance of open contracts. A CCP becomes counterparty to trades with market participants through novation, an open offer
+
+<span id="page-53-0"></span> <sup>61</sup> Please refer t[o circular DBOD.No.BP.BC.28/21.06.201/2013-14 dated July 2, 2013.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8204&Mode=0)
+
+system, or another legally binding arrangement. For the purposes of the capital framework, a CCP is a financial institution.
+
+A **qualifying centra

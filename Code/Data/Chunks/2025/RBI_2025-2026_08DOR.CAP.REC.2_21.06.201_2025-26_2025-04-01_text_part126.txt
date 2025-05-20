@@ -1,0 +1,61 @@
+ement (CRAR) under 'Pillar 1' calculation, and
+
+ii the adequacy of the bank's risk management processes;
+
+- c) a summary of the financial position of the bank, including the strategic position of the bank, its balance sheet strength, and future profitability;
+- d) brief descriptions of the capital raising and dividend plan including how the bank intends to manage its capital in the days ahead and for what purposes;
+- e) commentary on the most material risks to which the bank is exposed, why the level of risk is considered acceptable or, if it is not, what mitigating actions are planned;
+- f) commentary on major issues where further analysis and decisions are required; and
+- g) who has carried out the assessment, how it has been challenged / validated / stress tested, and who has approved it.
+
+## **II. Background**
+
+This section would cover the relevant organisational and historical financial data for the bank. e.g., group structure (legal and operational), operating profit, profit before tax, profit after tax, dividends, shareholders' funds, capital funds held vis-à-vis the regulatory requirements, customer deposits, deposits by banks, total assets, and any conclusions that can be drawn from trends in the data which may have implications for the bank's future.
+
+### **III. Summary of current and projected financial and capital positions**
+
+This section would explain the present financial position of the bank and expected changes to the current business profile, the environment in which it expects to operate, its projected business plans (by appropriate lines of business), projected financial position, and future planned sources of capital.
+
+The starting balance sheet used as reference and date as of which the assessment is carried out should be indicated.
+
+The projected financial position could reckon both the projected capital available and projected capital requirements based on envisaged business plans. These might then provide a basis against which adverse scenarios might be compared.
+
+### **IV. Capital Adequacy**
+
+This section might start with a description of the bank's risk appetite, in quantitative terms, as approved by the bank's Board and used in the ICAAP. It would be necessary to clearly spell out in the document whether what is being presented represents the bank's view of the amount of capital required to meet minimum **regulatory needs or** whether represents the amount of capital that a bank believes it would need to **meet its business plans**. For instance, it should be clearly brought out whether the capital required is based on a particular credit rating desired by the bank or includes buffers for strategic purposes or seeks to minimise the chance of breaching regulatory requirements. Where economic capital models are used for internal capital assessment, the confidence level, time horizon, and description of the event to which the confidence level relates, should also be enumerated. Where scenario analyses or other means are used for capital assessment, then the basis / rationale for selecting the chosen severity of scenarios used, should also be included.
+
+The section would then include a detailed review of the capital adequacy of the bank.
+
+The information provided would include the following elements:
+
+# **Timing**
+
+- the effective date of the ICAAP calculations together with details of any events between this date and the date of submission to the Board / RBI which would materially impact the ICAAP calculations together with their effects; and
+- details of, and rationale for, the time period selected for which capital requirement has been assessed.
+
+# **Risks Analysed**
+
+- an identification of the major risks faced by the bank in each of the following categories:
+	- a) credit risk
+	- b) market risk
+	- c) operational risk
+	- d) liquidity risk
+	- e) concentration risk
+	- f) interest rate risk in the banking book
+	- g) residual risk of securitisation
+	- h) strategic risk
+	- i) business risk
+	- j) reputation risk
+	- k) group risk
+	- l) pension obligation risk
+	- m) other residual risk; and
+	- n) any other risks that might have been identified
+- for each of these risks, an explanation of how the risk has been assessed and to the extent possible, the **quantitative results** of that assessment;
+- where some of these risks have been highlighted in the report of the RBI's on-site inspection of the bank, an explanation of how the bank has mitigated these;
+- where relevant, a comparison of the RBI-assessed CRAR during on-site inspection with the results of the CRAR calculations of the bank under the ICAAP;
+- a clear articulation of the bank's risk appetite, in quantitative terms, by risk category and the extent of its consistency (its 'fit') with the overall assessment of bank's various risks; and
+- where relevant, an explanation of any other methods, apart from capital, used by the bank to mitigate the risks.
+
+### **Methodology and Assumptions**
+
+A description of how assessments for each of t

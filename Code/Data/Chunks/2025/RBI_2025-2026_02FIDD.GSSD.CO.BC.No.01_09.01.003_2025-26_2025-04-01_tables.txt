@@ -1,0 +1,59 @@
+| Progress<br>report<br>for  |           |
+|----------------------------|-----------|
+| the month<br>of<br>------, | District: |
+| 20--                       | State:    |
+
+| SL No | No of loan<br>accounts | Amount<br>outstanding* | Irregular accounts<br>(4) |                    | Details of the NPA accounts (5) |         |  |
+|-------|------------------------|------------------------|---------------------------|--------------------|---------------------------------|---------|--|
+|       |                        |                        | No<br>of<br>accounts      | Overdue<br>Amount* | No of accounts                  | Amount* |  |
+| 1     | 2                      | 3                      | 4(a)                      | 4(b)               | 5(a)                            | 5(b)    |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+|       |                        |                        |                           |                    |                                 |         |  |
+
+| New loan accounts opened<br>during the period ………to<br>……… |  | Outstanding as at ……… (end<br>of previous period) |        | Total outstanding as at ………. | Amount of<br>interest<br>Subvention @4.5% |        |
+|------------------------------------------------------------|--|---------------------------------------------------|--------|------------------------------|-------------------------------------------|--------|
+| No of<br>Amount<br>Accounts                                |  | No of<br>Accounts                                 | Amount | No of<br>Accounts            | Amount                                    | Amount |
+|                                                            |  |                                                   |        |                              |                                           |        |
+
+| No of unique SHGs availed interest subvention | Amount of Interest subvention |  |  |  |
+|-----------------------------------------------|-------------------------------|--|--|--|
+|                                               |                               |  |  |  |
+
+|                   | New loan accounts opened during the<br>period ………to ………          |        | Outstanding as at ……… (end of previous period) |                                                               |        | Total outstanding as at ………. |                                                                  |        | Amount of<br>interest<br>subvention @ 5% |
+|-------------------|------------------------------------------------------------------|--------|------------------------------------------------|---------------------------------------------------------------|--------|------------------------------|------------------------------------------------------------------|--------|------------------------------------------|
+| No of<br>Accounts | Applicable<br>Interest rate (1<br>yr MCLR/<br>Benchmark<br>rate) | Amount | No of<br>Accounts                              | Applicable<br>Interest rate (1 yr<br>MCLR/<br>Benchmark rate) | Amount | No of<br>Accounts            | Applicable<br>Interest rate (1<br>yr MCLR/<br>Benchmark<br>rate) | Amount | Amount                                   |
+|                   |                                                                  |        |                                                |                                                               |        |                              |                                                                  |        |                                          |
+|                   |                                                                  |        |                                                |                                                               |        |                              |                                                                  |        |                                          |
+
+| No of unique SHGs availed interest subvention | Amount of Interest subvention |  |  |  |  |
+|-----------------------------------------------|-------------------------------|--|--|--|--|
+|                                               |                               |  |  |  |  |
+
+|                   | New loan accounts opened<br>during the period ………to<br>……… | Amount of<br>Credit Guarantee Fees |
+|-------------------|------------------------------------------------------------|------------------------------------|
+| No of<br>Accounts | Amount                                                     |                                    |
+|                   |                                                            |                                    |
+
+| New loan accounts opened<br>during the period ………to<br>……… |        | Outstanding as at ……… (end<br>of previous period) |        | Total outstanding as at ………. |        | Amount of<br>interest<br>Subvention @2% |
+|------------------------------------------------------------|--------|---------------------------------------------------|--------|------------------------------|--------|-----------------------------------------|
+| No of<br>Accounts                                          | Amount | No of<br>Accounts                                 | Amount | No of<br>Accounts            | Amount | Amount                                  |
+|                                                            |        |                                                   |        |                              |        |                                         |
+
+| No of women SHG members availed interest |                               |
+|------------------------------------------|-------------------------------|
+| subvention                               | Amount of Interest subvention |
+|                                          |                               |
+
+| No. | Circular No.                            | Date       | Subject                                          |  |  |
+|-----|-----------------------------------------|------------|--------------------------------------------------|--|--|
+| 1.  | RPCD.GSSD.CO.NO.81/09.01.03/2012-13     | 27.06.2013 | Priority Sector Lending –<br>Restructuring of    |  |  |
+|     |                                         |            | SGSY<br>as<br>National<br>Rural<br>Livelihoods   |  |  |
+|     |                                         |            | Mission(DAY-NRLM)- Aajeevika                     |  |  |
+| 2.  | RPCD.GSSD.CO.BC.No.38/09.01.03/2013-14  | 20.09.2013 | Credit<br>Facility<br>under<br>National<br>Rural |  |  |
+|     |                                         |            | Livelihoods<br>Mission(NRLM)-<br>Aajeevika       |  |  |
+|     |                                         |            | Reporting to RBI                                 |  |  |
+| 3.  | FIDD.GSSD.CO.BC.No.09/09.01.003/2021-22 | 09.08.2021 | Enhancement of collateral free loans to Self     |  |  |
+|     |                                         |            | Help Groups (SHGs) under DAY-NRLM from           |  |  |
+|     |                                         |            | ₹10 lakh to ₹20 Lakh                             |  |  |

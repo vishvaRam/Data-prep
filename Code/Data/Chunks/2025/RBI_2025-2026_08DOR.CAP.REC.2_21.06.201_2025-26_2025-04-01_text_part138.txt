@@ -1,0 +1,74 @@
+pan id="page-282-1"></span><sup>264</sup> Eligible Provisions and revaluation Reserves in terms of paragraph 4.2.5.1 of this Master Circular, both to be reported and break-up of these two items to be furnished in Notes.
+
+
+<span id="page-283-0"></span> <sup>265</sup> Please refer to Footnote 247 above.
+
+
+#### **Notes to the Template**
+
+
+
+
+
+
+
+
+## **3.2 Three Step Approach to Reconciliation Requirements**
+
+#### **Step 1**
+
+Under Step 1, banks are required to take their balance sheet in their financial statements (numbers reported the middle column below) and report the numbers when the regulatory scope of consolidation is applied (numbers reported in the right hand column below). If there are rows in the regulatory consolidation balance sheet that are not present in the published financial statements, banks are required to give a value of zero in the middle column and furnish the corresponding amount in the column meant for regulatory scope of consolidation. Banks may however, indicate what the exact treatment is for such amount in the balance sheet.
+
+### **Table DF-12: Composition of Capital- Reconciliation Requirements**
+
+
+
+### **Step 2**
+
+Under Step 2 banks are required to expand the regulatory-scope balance sheet (revealed in Step 1) to identify all the elements that are used in the definition of capital disclosure template set out in Table DF-11. Set out below are some examples of elements that may need to be expanded for a particular banking group. The more complex the balance sheet of the bank, the more items would need to be disclosed. Each element must be given a reference number/letter that can be used in Step 3.
+
+
+
+**Step 3:** Under Step 3 banks are required to complete a column added to the Table DF-11 disclosure template to show the source of every input.
+
+(iii) For example, the definition of capital disclosure template includes the line "goodwill net of related deferred tax liability". Next to the disclosure of this item in the disclosure template under Table DF-11, the bank would be required to put 'a – c' to show that row 8 of the template has been calculated as the difference between component 'a' of the balance sheet under the regulatory scope of consolidation, illustrated in step 2, and component 'c'.
+
+
+\*This table is not a separate disclosure requirement. Rather, this extract indicates how step 3 would be reflected in Table DF-11.
+
+#### **3.3 Main Features Template**
+
+(i) Template which banks must use to ensure that the key features of regulatory capital instruments are disclosed is set out below. Banks will be required to complete all of the shaded cells for each outstanding regulatory capital instrument (banks should insert "NA" if the question is not applicable).
+
+
+**Table DF-13: Main Features of Regulatory Capital Instruments**
+
+(ii) Using the reference numbers in the left column of the table above, the following table provides a more detailed explanation of what banks would be required to report in each of the grey cells, including, where relevant, the list of options contained in the spread sheet's drop down menu.
+
+
+
+
+# **3.5 Full Terms and Conditions of Regulatory Capital Instruments**
+
+Under this template, banks are required to disclose the full terms and conditions of all instruments included in the regulatory capital.
+
+### **Table DF-14: Full Terms and Conditions of Regulatory Capital Instruments**
+
+
+### **3.6 Disclosure Requirements for Remuneration**
+
+Please refer to the Guidelines on Compensation of Whole Time Directors/ Chief Executive Officers/ Material Risk Takers and Control Function staff issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11720&Mode=0)  [DOR.Appt.BC.No.23/29.67.001/2019-20](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11720&Mode=0) dated November 4, 2019, as amended from time to time, addressed to all private sector and foreign banks operating in India. Private sector and foreign banks operating in India are required to make disclosure on remuneration on an annual basis at the minimum, in their Annual Financial Statements in the following template:
+
+**Table DF-15: Disclosure Requirements for Remuneration**
+
+
+
+
+
+### **4. Leverage Ratio Disclosures**
+
+(i) The scope of consolidation of the Basel III leverage ratio as set out in paragraph 16.2.3 may be different from the scope of consolidation of the published financial statements. Also, there may be differences between the measurement criteria of assets on the accounting balance sheet in the published financial statements relative to measurement criteria of the leverage ratio (e.g., due to differences of eligible hedges, netting or the recognition of credit risk mitigation). Further, in order to adequately capture embedded leverage, the framework incorporates both on- and off-balance sheet exposures.
+
+<span id="page-299-0"></span> <sup>266</sup> Unrealised gains (losses) recognised in the balance sheet but not through the profit and loss account.
+
+<span id="page-299-1">

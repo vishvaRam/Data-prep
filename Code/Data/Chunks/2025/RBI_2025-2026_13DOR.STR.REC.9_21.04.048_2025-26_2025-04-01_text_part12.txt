@@ -1,0 +1,30 @@
+nt to which the advance is not covered by the realisable value of the security to which the bank has a valid recourse and the realisable value is estimated on a realistic basis.
+
+5.3.2 In regard to the secured portion, provision may be made on the following basis, at the rates ranging from 25 percent to 100 percent of the secured portion depending upon the period for which the asset has remained doubtful:
+
+27
+
+
+5.3.3 With a view to bringing down divergence arising out of difference in assessment of the value of security, in cases of NPAs with balance of ₹5 crore and above stock audit at annual intervals by external agencies appointed as per the guidelines approved by the Board would be mandatory in order to enhance the reliability on stock valuation. Collaterals such as immovable properties charged in favour of the bank should be got valued once in three years by valuers appointed as per the guidelines approved by the Board of Directors.
+
+## 5.4 Substandard assets
+
+5.4.1 A general provision of 15 percent on total outstanding should be made without making any allowance for ECGC guarantee cover and securities available.
+
+5.4.2 The 'unsecured exposures' which are identified as 'substandard' would attract additional provision of 10 per cent, i.e., a total of 25 per cent on the outstanding balance. However, in view of certain safeguards such as escrow accounts available in respect of infrastructure lending, infrastructure loan accounts which are classified as sub-standard will attract a provisioning of 20 per cent instead of the aforesaid prescription of 25 per cent. To avail of this benefit of lower provisioning, the banks should have in place an appropriate mechanism to escrow the cash flows and also have a clear and legal first claim on these cash flows.
+
+5.4.3 The provisioning requirement for unsecured 'doubtful' assets is 100 per cent. Unsecured exposure is defined as an exposure where the realisable value of the security, as assessed by the bank/approved valuers/Reserve Bank's inspecting officers, is not more than 10 percent, *ab-initio*, of the outstanding exposure. 'Exposure' shall include all funded and non-funded exposures (including underwriting and similar commitments). 'Security' will mean tangible security properly charged to the bank and will not include intangible securities like guarantees (including State government guarantees), comfort letters etc.
+
+5.4.4 In order to enhance transparency and ensure correct reflection of the unsecured advances in Schedule 9 of the banks' balance sheet, it is advised that the following would be applicable:
+
+a) For determining the amount of unsecured advances for reflecting in schedule 9 of the published balance sheet, the rights, licenses, authorisations, etc., charged to the banks as collateral in respect of projects (including infrastructure projects) financed by them, should not be reckoned as tangible security. Hence such advances shall be reckoned as unsecured.
+
+- b) However, banks may treat annuities under build-operate-transfer (BOT) model in respect of road / highway projects and toll collection rights, where there are provisions to compensate the project sponsor if a certain level of traffic is not achieved, as tangible securities subject to the condition that banks' right to receive annuities and toll collection rights is legally enforceable and irrevocable.
+- c) It is noticed that most of the infrastructure projects, especially road/highway projects are user-charge based, for which the Planning Commission has published Model Concession Agreements (MCAs). These have been adopted by various Ministries and State Governments for their respective public-private partnership (PPP) projects and they provide adequate comfort to the lenders regarding security of their debt. In view of the above features, in case of PPP projects, the debts due to the lenders may be considered as secured to the extent assured by the project authority in terms of the Concession Agreement, subject to the following conditions:
+	- i. User charges / toll / tariff payments are kept in an escrow account where senior lenders have priority over withdrawals by the concessionaire;
+	- ii. There is sufficient risk mitigation, such as pre-determined increase in user charges or increase in concession period, in case project revenues are lower than anticipated;
+	- iii. The lenders have a right of substitution in case of concessionaire default;
+	- iv. The lenders have a right to trigger termination in case of default in debt service; and
+	- v. Upon termination, the Project Authority has an obligation of (i) compulsory buy-out and (ii) repayment of debt due in a pre-determined manner.
+	- vi. In all such cases, banks must satisfy themselves about the legal enforceability of the provisions of the tripartite agreement and factor in their past experience with such contracts.
+- d) Banks should also disclose the total amount of advances for which intangible securities such as charge over the rights, lic

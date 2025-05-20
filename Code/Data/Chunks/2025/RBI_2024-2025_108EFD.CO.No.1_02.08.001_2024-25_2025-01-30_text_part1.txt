@@ -1,0 +1,59 @@
+![](_page_0_Picture_0.jpeg)
+
+# RESERVE BANK OF INDIA  **भारतीय �रज़वर् बैंक**
+
+[www.rbi.org.in](http://www.rbi.org.in/)
+
+RBI/2024-25/108 EFD.CO.No.1/02.08.001/2024-25 January 30, 2025
+
+The Chairman / Managing Director / Chief Executive Officer, Authorised Payment System Operators / Banks
+
+Madam / Dear Sir,
+
+#### **Framework for imposing monetary penalty and compounding of offences under the Payment and Settlement Systems Act, 2007**
+
+Please refer to the Circular [DPSS.CO.OD.No.1328/06.08.005/2019-20](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11785&Mode=0) dated January [10, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11785&Mode=0) on the 'Framework for imposing monetary penalty on authorised payment system operators/ banks under the Payment and Settlement Systems Act, 2007'.
+
+2. Keeping in view the amendments[1](#page-0-0) to the provisions of the Payment and Settlement Systems Act, 2007 (PSS Act), and with the objective of rationalising and consolidating enforcement action by Reserve Bank of India, it has been decided to amend the instructions contained in the framework.
+
+3. The revised framework [\(enclosed\)](#page-1-0) shall supersede the aforementioned Circular and come into effect from the date of this Circular.
+
+Yours faithfully,
+
+(Minal A. Jain) Chief General Manager-in-Charge
+
+Encl.: As above
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<span id="page-0-0"></span><sup>1</sup> By way of Jan Vishwas (Amendment of Provisions) Act, 2023 (18 of 2023), which has come into force from January 22, 2024 [Gazette notification Nos. S.O. 318(E) dated January 22, 2024 of Ministry of Finance, Department of Financial Services].
+
+#### <span id="page-1-0"></span>**Framework for imposing monetary penalty and compounding of offences under the Payment and Settlement Systems Act, 2007**
+
+#### **Offences and Penalties**
+
+1. Section 26 of the Payment and Settlement Systems Act, 2007 (PSS Act) incorporates provisions relating to offences and penalties.
+
+- 1.1 The list of contraventions is as under :
+	- (i) operation of a payment system without authorisation or failure to comply with the terms and conditions subject to which authorisation was issued [**section 26(1)**];
+	- (ii) wilfully makes a statement which is false in any material particular or wilfully omits to make a material statement in any application for authorisation or return or other document or information [**section 26(2)**];
+	- (iii) failure to produce any statement, information, returns or documents [**section 26(3)**];
+	- (iv) disclosure of information which is prohibited [**section 26(4)**];
+	- (v) non-compliance of direction issued by Reserve Bank or failure to pay the penalty imposed by Reserve Bank within the stipulated period [**section 26(5)**] and
+	- (vi) contravention of any provision of the PSS Act or if any default is made in complying with any other requirements of the PSS Act, or any regulation, order or direction made or given or condition imposed thereunder [**section 26(6)**].
+
+1.2 An illustrative list of the contraventions / violations with the applicable corresponding section that may be examined for enforcement actions is given below :
+
+- (i) failure to comply with the terms and conditions of authorisation issued by RBI [*section 26(1)*];
+- (ii) wilfully makes a statement which is false in any material particular or wilfully omits to make a material statement to RBI [*section 26(2)*];
+- (iii) failure to produce / furnish any statement, information, returns or other
+
+documents to RBI or to answer any question relating to the operation of payment systems [*section 26(3)*];
+
+- (iv) disclosure of any information prohibited under section 22 of the PSS Act [*section 26(4)*];
+- (v) inadequacy in storage of payment system data in India [*sections 26(4) and 26(6)*] and
+- (vi) (a) contravention of any provisions of the PSS Act or of any regulation, directions / instructions made thereunder, (b) non-compliance with direction pertaining to maintenance of net worth requirements, etc., (c) non-compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) norms, (d) non-compliance with direction pertaining to maintenance of nodal / escrow accounts, (e) breach of limits in loading, fund transfer, etc. of PPIs [*section 26(6)*].
+
+#### **Powers of Reserve Bank to impose penalties**
+
+2. In terms of section 30 of the PSS Act, Reserve Bank is empowered to impose a penalty not exceeding ₹10 lakh[1](#page-2-0) or twice the amount involved in such contravention or default where such amount is quantifiable, whichever is more, in case of contraventions / defaults of the nature mentioned in sub-sections (2), (3) and (6) of section 26 of the PSS Act[2.](#page-2-1) Where such contravention or default is a continuing one, a further penalty up to ₹25,000/- for every day after

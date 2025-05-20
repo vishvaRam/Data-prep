@@ -1,0 +1,23 @@
+ive regulators. In case the notified applicable accounting standards or the respective regulator have not prescribed the accounting treatment for bond forwards, guidance, if any, issued by the Institute of Chartered Accountants of India shall be followed in this regard.
+
+#### **11. Other Directions**
+
+(i) Government securities held to cover short positions in bond forwards may be used in a repo transaction(s) or lent/placed as collateral under a Government Securities Lending (GSL) transaction(s) subject to the condition that the holder of the short position is otherwise eligible to undertake a repo/GSL transaction.
+
+(ii) Government securities held to cover short positions in bond forwards shall be eligible to be reckoned for Statutory Liquidity Ratio (SLR) by the entity covering the short position, provided that the security is otherwise eligible to be reckoned for SLR.
+
+![](_page_7_Picture_0.jpeg)
+
+(iii) A market-maker shall comply with the provisions of the [Master Direction - Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12163)  [Bank of India \(Market-makers in OTC Derivatives\) Directions, 2021, dated September](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12163)  [16, 2021,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12163) as updated from time to time. A market participant shall also ensure compliance with the provisions of the [Reserve Bank of India \(Prevention of Market](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11500&Mode=0)  [Abuse\) Directions, 2019.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11500&Mode=0)
+
+(iv) A bond forward transaction that is not centrally cleared shall be subject to requirements for exchange of variation and initial margin in terms of the provisions of the [Master Direction – Reserve Bank of India \(Margining for Non-Centrally Cleared](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12682)  [OTC Derivatives\) Directions, 2024 dated May 08, 2024,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12682) as amended from time to time.
+
+# **12. Applicability of other laws, directions, regulations or guidelines**
+
+A person or agency dealing in bond forwards shall abide by the provisions of any direction, regulation, or guideline issued by any regulator or authority, that may be applicable, in respect of bond forward transactions, provided that such directions, regulations or guidelines do not conflict with these Directions. In case of any conflicts, the provisions of these Directions shall prevail.
+
+# **13. Violation of Directions**
+
+If a person or agency violates any provision of these Directions, the Reserve Bank may, in addition to taking any penal or regulatory action in accordance with law, disallow that person or agency from dealing in bond forwards for a period not exceeding one month at a time, after providing reasonable opportunity of hearing. Such action may be made public by the Reserve Bank.
+
+> (Dimple Bhandia) Chief General Manager

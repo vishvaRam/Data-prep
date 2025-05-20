@@ -1,0 +1,73 @@
+|     | Chapter I: Preliminary<br>3                                        |
+|-----|--------------------------------------------------------------------|
+| 1.  | Preamble<br><br>3                                                  |
+| 2.  | Short title and commencement<br><br>3                              |
+| 3.  | Applicability<br>4                                                 |
+| 4.  | Definitions<br>4                                                   |
+|     | Chapter II: General Requirements for RE-LSP Arrangements<br><br>5  |
+| 5.  | Due diligence requirements with respect to LSPs<br>5               |
+| 6.  | RE-LSP arrangements involving multiple lenders<br>6                |
+|     | Chapter III: Conduct and Customer Protection Requirements<br><br>7 |
+| 7.  | Assessing the borrower's creditworthiness<br>7                     |
+| 8.  | Disclosures to borrowers<br><br>8                                  |
+| 9.  | Loan disbursal, servicing and repayment<br><br>9                   |
+| 10. | Cooling-off period<br><br>10                                       |
+| 11. | Grievance redressal<br>10                                          |
+|     | Chapter IV: Technology and Data Requirement<br><br>11              |
+| 12. | Collection, usage and sharing of data with third parties<br>11     |
+| 13. | Storage of data<br><br>12                                          |
+| 14. | Comprehensive privacy policy<br><br>13                             |
+| 15. | Technology standards<br><br>13                                     |
+|     | Chapter V: Reporting of Credit Information and DLAs<br><br>13      |
+| 16. | Reporting to Credit Information Companies (CICs)<br><br>13         |
+
+| 17.                                                                                     | Reporting of DLAs to RBI<br>                                      | 13 |  |  |  |
+|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------|----|--|--|--|
+|                                                                                         | Chapter VI: Loss sharing arrangement in case of default           | 15 |  |  |  |
+| 18.                                                                                     | Eligibility as DLG provider                                       | 15 |  |  |  |
+| 19.                                                                                     | Due diligence and other requirements with respect to DLG provider | 15 |  |  |  |
+| 20.                                                                                     | Restrictions on entering into DLG arrangements                    | 16 |  |  |  |
+| 21.                                                                                     | Structure of DLG arrangements                                     | 16 |  |  |  |
+| 22.                                                                                     | Forms of DLG<br>                                                  | 17 |  |  |  |
+| 23.                                                                                     | Cap on DLG                                                        | 17 |  |  |  |
+| 24.                                                                                     | Recognition of NPA<br>                                            | 17 |  |  |  |
+| 25.                                                                                     | Treatment of DLG for regulatory capital                           | 18 |  |  |  |
+| 26.                                                                                     | Invocation and tenor of DLG                                       | 18 |  |  |  |
+| 27.                                                                                     | Disclosure requirements<br>                                       | 18 |  |  |  |
+| 28.                                                                                     | Exceptions<br>                                                    | 19 |  |  |  |
+|                                                                                         | Chapter VII: General and Repeal Provisions<br>                    | 19 |  |  |  |
+| 29.                                                                                     | General provisions                                                | 19 |  |  |  |
+| 30.                                                                                     | Repeal provisions<br>                                             | 20 |  |  |  |
+|                                                                                         | Annex I: Data to be submitted on the CIMS portal<br><br>21        |    |  |  |  |
+|                                                                                         | Annex II: Illustrations<br>22                                     |    |  |  |  |
+| Annex III: List of circulars to be repealed with the issuance of these Directions<br>24 |                                                                   |    |  |  |  |
+
+| Sl.<br>No. | Name of the<br>DLA | Name of the<br>owner of DLA<br>(Self-owned/<br>name of LSP<br>in case DLA<br>is of LSP) | Available on<br>(Website/<br>Name of<br>app store) | Link to DLA# | Name of<br>Grievance<br>Redressal<br>Officer | Email id<br>of<br>Grievance<br>Redressal<br>Officer | Telephone<br>number of<br>Grievance<br>Redressal<br>Officer | Mobile<br>number of<br>Grievance<br>Redressal<br>Officer | Website<br>of RE |
+|------------|--------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------|--------------|----------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|------------------|
+|            |                    |                                                                                         |                                                    |              |                                              |                                                     |                                                             |                                                          |                  |
+
+| Period                  | Disbu<br>rsed | Loan<br>maturing<br>without<br>default | Default<br>Amount | DLG<br>Invoked | Recovery<br>/ Write-off | Outstanding<br>Portfolio | Available<br>DLG<br>Cover |
+|-------------------------|---------------|----------------------------------------|-------------------|----------------|-------------------------|--------------------------|---------------------------|
+| Initial Position        | 10            | -                                      | -                 | -              | -                       | 10                       | 0.5                       |
+| Further<br>disbursement | 10            | -                                      | -                 | -              | -                       | 20                       | 1                         |
+| Case 1                  | 20            | 5                                      | -                 | -              | -                       | 15                       | 1                         |
+| Case 2                  | 20            | 5                                      | 2                 | 1              | -                       | 15                       | 0                         |
+| Case 3                  | 20            | 5                                      | 2                 | 1              | 1                       | 14                       | 0                         |
+
+| Annex III: List of circulars to be repealed with the issuance of these | Directions |
+|------------------------------------------------------------------------|------------|
+|------------------------------------------------------------------------|------------|
+
+| S.No. | Circular No.                | Date       | Subject                             |
+|-------|-----------------------------|------------|-------------------------------------|
+| 1.    | RBI/2019-20/258             | 24.06.2020 | Loans Sourced by Banks and          |
+|       | DOR(NBFC)(PD)               |            | NBFCs<br>over<br>Digital<br>Lending |
+|       | CC.No.112/03.10.001/2019-20 |            | Platforms: Adherence to Fair        |
+|       |                             |            | Practices<br>Code<br>and            |
+|       |                             |            | Outsourcing Guidelines              |
+| 2.    | RBI/2022-23/111             | 02.09.2022 | Guidelines on Digital Lending       |
+|       | DOR.CRE.REC                 |            |                                     |
+|       | .66/21.07.001/2022-23       |            |                                     |
+| 3.    | RBI/2023-24/41              | 08.06.2023 | Guidelines on Default Loss          |
+|       | DOR.CRE.REC                 |            | Guarantee (DLG) in Digital          |
+|       | .21/21.07.001/2023-24       |            | Lending                             |

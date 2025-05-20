@@ -1,0 +1,31 @@
+customers using such registered SMS Headers only.
+
+## **(d) Registration of Content Templates**
+
+(1) Senders are required to get message Content Templates also registered with the Telecom Service Providers.
+
+(2) These Content Templates typically have fixed and variable components. Fixed part of content is that part of Content Template which is common across all commercial communications sent to different recipients (customers of Banks etc) for same or similar subject. Variable part of Content (referred as Variables) is that part of Content Template which is specific to the particular transaction for a particular recipient (customers of Banks etc) or may vary for different customers on account of reference to name, address, date, time, place, balance, transaction amount, quantity, count or unique reference number etc.
+
+(e) Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) shall ensure that they send their commercial communications by engaging only Registered Telemarketers (RTMs) or establish the direct connectivity with the Telecom Service Provider for this purpose.
+
+#### **(B) Use of Digital Consent Acquisition (DCA) service for acquiring Digital Consents of customers for sending Commercial Communication**
+
+(a) DCA facility, established by Telecom Service Providers under TCCCPR-2018 Regulations, enables the acquisition of digital consent of the customer to receive commercial communication over SMS or voice from a Sender for a specific purpose. Digital Consents are recorded on DLT platform by the Access Provider after its verification by the subscriber through a simple and transparent process using OTP.
+
+(b) The Digital consents recorded on DLT system through DCA enables Senders to send promotional communications over SMS and voice to its customers who have opted to block all promotional communications through DND registration. Consents obtained by the Senders through any other mechanism are not treated valid under TCCCPR-2018 Regulations.
+
+(c) Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication that requires obtaining explicit consent from its customers) shall onboard the Digital Consent Acquisition (DCA) system deployed by Access Providers for the acquisition of digital consent of the customers and integrate the same with their systems/processes.
+
+#### **(C) Action on the part of PEs to maintain Confidentiality and Security of Data related to Commercial Communication and Prevention of Misuse/ Leakage thereof**:
+
+(a) Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) are responsible for maintaining the confidentiality and security of their customer' data/information, prevention of misuse/ leakage thereof, and taking corrective/ remedial measures in case of misuse/ leakage of such data/ information by any person authorized by them or otherwise, to handle such data/information including RTMs engaged by such Senders and their employees, agents, representatives, associates etc.
+
+(b) A Registered Telemarketer (RTM) who is an intermediary collects the information such as PE-ID (ID of Senders/ Principal Entities such as Banks, generated on DLT), Header ID, Content Template IDs, customer information, etc. from the Sender and it may travel through a series of such TMs (known as Aggregator-TMs) before it reaches to the last TM (referred to as 'Delivery-TM' in TRAI Regulations) before reaching the Access Provider.
+
+(c) In order to maintain confidentiality of data, Senders shall ensure that there are minimum number of aggregator-RTMs (preferably, not more than one or two) in the chain between the Sender and the Access Provider.
+
+(d) The Senders (PEs) – particularly Banks, Mutual Funds, Insurance Companies, and other Financial Institutions – should preferably have direct connectivity with Access Provider(s), to eliminate any TM in the chain.
+
+(e) As per the Direction of TRAI, a facility is being developed by the Access Provider to bind the message flow from the Sender to the Access Provider's network as per a pre-defined chain of TMs between the Sender and the Access Provider in the DLT platform. Once this is operational, the Sender shall be required to declare the entire chain of Registered Telemarketers between it (Sender) and the Access Provider.
+
+(f) Senders shall incorporate appropriate provisions in their Agreement(s)/ Contract(s) with RTMs, as a deterrent against misuse/ leakage of Headers, Cont

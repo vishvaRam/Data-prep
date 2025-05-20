@@ -1,0 +1,37 @@
+ protection buyer.
+
+### **9. General Provisions Requirements**
+
+At present, general provisions (standard asset provisions) are required only for Loans and Advances and the positive marked-to-market values of derivatives contracts. For all CDS positions including the hedged positions, both in the Banking Book and Trading Book, banks should hold general provisions for gross positive marked-to-market values of the CDS contracts.
+
+# **10. Prudential Treatment Post-Credit Event**
+
+<span id="page-224-0"></span> <sup>209</sup> The add-on factors will be the same regardless of maturity of the reference obligations or CDS contract.
+
+#### **10.1 Protection Buyer**
+
+In case the credit event payment is not received within the period as stipulated in the CDS contract, the protection buyer shall ignore the credit protection of the CDS and reckon the credit exposure on the underlying asset and maintain appropriate level of capital and provisions as warranted for the exposure. On receipt of the credit event payment, (a) the underlying asset shall be removed from the books if it has been delivered to the protection seller or (b) the book value of the underlying asset shall be reduced to the extent of credit event payment received if the credit event payment does not fully cover the book value of the underlying asset and appropriate provisions shall be maintained for the reduced value.
+
+## **10.2 Protection Seller**
+
+**10.2.1** From the date of credit event and until the credit event payment in accordance with the CDS contract, the protection seller shall debit the Profit and Loss account and recognise a liability to pay to the protection buyer, for an amount equal to fair value of the contract (notional of credit protection less expected recovery value). In case, the fair value of the deliverable obligation (in case of physical settlement) / reference obligation (in case of cash settlement) is not available after the date of the credit event, then until the time that value is available, the protection seller should debit the Profit and Loss account for the full amount of the protection sold and recognise a liability to pay to the protection buyer equal to that amount.
+
+**10.2.2** In case of physical settlement, after the credit event payment, the protection seller shall recognise the assets received, if any, from the protection buyer at the fair value. These investments will be classified as non-performing investments and valued in terms of paragraph 19 of the Master Direction – [Classification, Valuation and Operation of Investment Portfolio of](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12153)  [Commercial Banks \(Directions\), 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12153) Thereafter, the protection seller shall subject these assets to the appropriate prudential treatment as applicable to corporate bonds.
+
+#### **11. Exposure Norms**
+
+**11.1** For the present, the CDS is primarily intended to provide an avenue to investors for hedging credit risk in the corporate bonds, after they have invested in the bonds. It should, therefore, not be used as a substitute for a bank guarantee. Accordingly, a bank should not sell credit protection by writing a CDS on a corporate bond on the date of its issuance in the primary market or undertake, before or at the time of issuance of the bonds, to write such protection in future[210](#page-225-0).
+
+<span id="page-225-0"></span> <sup>210</sup> As per extant instructions issued by RBI, banks are not permitted to guarantee the repayment of principal and/or interest due on corporate bonds. Considering this restriction, writing credit protection through CDS on a corporate bond on the date of its issuance or undertaking, before or at the time of issuance, to write such protection in future, will be deemed to be a violation of the said instructions.
+
+**11.2** Exposure on account of all CDS contracts will be aggregated and combined with other onbalance sheet and off-balance sheet exposures against the reference entity for the purpose of complying with the exposure norms.
+
+### **11.3 Protection Seller**
+
+- (i) A protection seller will recognise an exposure to the reference entity of the CDS contract equal to the amount of credit protection sold, subject to paragraph (ii) below.
+- (ii) If a market maker has two completely identical opposite positions in CDS forming a hedged position which qualifies for capital adequacy treatment in terms of paragraph 6.2.1(i), no exposure would be reckoned against the reference entity.
+- (iii) Protection seller will also recognise an exposure to the counterparty equal to the total credit exposure calculated under Current Exposure Method as prescribed in Basel II framework in the case of all CDS positions held in the Trading Book.
+
+### **11.4 Protection Buyer**
+
+- (i) In respect of obligations hedged in the Banking Book as indicated in paragraph 5.1 and Trading Book as indicated in paragraph 6.2.1 (ii), the protection buy

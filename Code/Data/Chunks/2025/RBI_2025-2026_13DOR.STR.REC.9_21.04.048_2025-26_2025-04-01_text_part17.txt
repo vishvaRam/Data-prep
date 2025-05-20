@@ -1,0 +1,43 @@
+re expected to make all efforts to protect the value of their assets. Banks are required to extinguish all available means of recovery before writing off any account fully or partly. It is observed that some banks are resorting to technical write off of accounts, which reduces incentives to recover. Banks resorting to partial and technical write-offs should not show the remaining part of the loan as standard asset. With a view to bring in more transparency, henceforth banks should disclose full details of write offs, including separate details about technical write offs, in their annual financial statements as per the format prescribed in the Annex III – 4(a) of the [Master Direction on Financial Statements -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158) [Presentation and Disclosures dated August 30, 2021,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158) as updated from time to time.
+
+7. NPA Management – Requirement of Effective Mechanism and Granular Data
+
+7.1 Asset quality of banks is one of the most important indicators of their financial health. Banks should, therefore put in place a robust MIS mechanism for early detection of signs of distress at individual account level as well as at segment level (asset class, industry, geographic, size, etc.). Such early warning signals should be used for putting in place an effective preventive asset quality management framework, including a transparent restructuring mechanism for viable accounts under distress within the prevailing regulatory framework, for preserving the economic value of those entities in all segments.
+
+<sup>4</sup> Please refer to the [Framework for Compromise Settlements and Technical Write-offs dated June 8, 2023](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0) and [FAQs](https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=160) on the same issued on June 20, 2023.
+
+7.2 The banks' IT and MIS system should be robust and able to generate reliable and quality information with regard to their asset quality for effective decision making. There should be no inconsistencies between information furnished under regulatory / statutory reporting and the banks' own MIS reporting. Banks should also have system generated segment wise information on non-performing assets and restructured assets which may include data on the opening balances, additions, reductions (upgradations, actual recoveries, write-offs etc.), closing balances, provisions held, technical write-offs, etc.
+
+## 8. Government Debt Relief Schemes (DRS)
+
+Banks participating as lenders under Debt Relief Schemes (DRS) announced by State Governments shall comply with the guidelines contained in Annex-1 of the [circular on Government](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12760&Mode=0)  [Debt Relief Schemes \(DRS\) dated December 31, 2024.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12760&Mode=0)
+
+## **PART B1 - Framework for Resolution of Stressed Assets**
+
+8. Early identification and reporting of stress
+
+8.1 Lenders <sup>5</sup> shall recognise incipient stress in loan accounts, immediately on default <sup>6</sup> , by classifying such assets as special mention accounts (SMA) as per the following categories.
+
+
+8.2 In the case of revolving credit facilities like cash credit/overdraft, the SMA sub-categories will be as follows:
+
+
+8.3 The above-mentioned instructions on classification of borrower accounts into SMA categories are applicable for all loans (including retail loans), other than agricultural advances governed by crop season-based asset classification norms, irrespective of size of exposure of the bank.
+
+8.4 Classification of borrower accounts as SMA as well as NPA shall be done as part of day-end process for the relevant date and the SMA or NPA classification date shall be the calendar date for which the day end process is run. In other words, the date of SMA/NPA shall reflect the asset classification status of an account at the day-end of that calendar date.
+
+*Example: If due date of a loan account is March 31, 2022, and full dues are not received before the bank runs the day-end process for this date, the date of overdue* 
+
+ <sup>5</sup> For the purpose of instructions in part B1 and B2 of this Master Circular, 'lenders' shall mean:
+
+a. Scheduled Commercial Banks (excluding Regional Rural Banks);
+
+b. All India Term Financial Institutions (NABARD, NHB, EXIM Bank, and SIDBI);
+
+c. Small Finance Banks; and,
+
+d. Systemically Important Non-Deposit taking Non-Banking Financial Companies (NBFC-ND-SI) and Deposit taking Non-Banking Financial Companies (NBFC-D).
+
+<sup>6</sup> 'Default' means non-payment of debt (as defined under the IBC) when whole or any part or instalment of the debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be.
+
+For revolving facilities like cash credit, default would also mean, without prejudice to the above, the outstanding bala

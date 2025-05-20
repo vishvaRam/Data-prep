@@ -1,0 +1,29 @@
+ing and pricing, servicing, monitoring, recovery of specific loan or loan portfolio on behalf of RE in conformity with extant outsourcing guidelines issued by the Reserve Bank. [1](#page-4-2)
+
+#### **Chapter II: General Requirements for RE-LSP Arrangements**
+
+# <span id="page-4-1"></span><span id="page-4-0"></span>5. **Due diligence requirements with respect to LSPs**
+
+- i. Digital lending by a RE involving a LSP, shall be carried out under a contractual agreement between the RE and the LSP, which clearly defines the respective roles, rights, and obligations of each party thereto.
+- ii. RE shall conduct enhanced due diligence before they enter into an agreement with a LSP for digital lending, taking into account LSP's technical capabilities, robustness of data privacy policies and storage systems, fairness in conduct with borrowers, past records of conduct and ability to comply with all applicable regulations and statutes.
+
+<span id="page-4-2"></span><sup>1</sup> While entities offering only Payment Aggregator (PA) services in terms of the extant instructions issued by RBI shall remain out of the ambit of these Directions, any PA also performing the role of an LSP shall comply with these Directions.
+
+- iii. RE shall carry out periodic review of the conduct of the LSP vis-à-vis the terms of the contractual agreement and shall take appropriate action in the event of any deviation therefrom.
+- iv. RE shall lay down, as part of its policy, suitable monitoring mechanisms for the loan portfolios originated with the support of LSPs.
+- v. RE shall impart necessary guidance to LSP acting as a recovery agent, to discharge their duties responsibly and ensure that LSP complies with the applicable instructions[2](#page-5-1) in this regard.
+- vi. RE shall continue to conform to the extant guidelines on outsourcing[3](#page-5-2) and shall ensure that the LSPs engaged by them and the DLAs (either of the RE or of the LSPs engaged by the RE) comply with these Directions.
+- vii. As an overarching principle, any outsourcing agreement entered into by the RE with an LSP shall in no manner dilute or absolve the RE of its obligations under any statutory or regulatory provision, and the RE shall remain fully responsible and liable for all acts and omissions of the LSP.
+
+#### <span id="page-5-0"></span>6. **RE-LSP arrangements involving multiple lenders**
+
+In cases where a LSP has agreements with multiple REs for digital lending, each RE shall ensure the following:
+
+i. LSP shall provide a digital view of all the loan offers matching the borrower's request on the DLA which meets the requirement of the borrower. The name of the unmatched lenders shall also be disclosed in the digital view.
+
+<span id="page-5-1"></span> <sup>2</sup> [Circular DOR.ORG.REC.65/21.04.158/2022-23 on 'Outsourcing of Financial Services - Responsibilities of regulated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0)  [entities employing Recovery Agents' dated August 12, 2022,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0) and other relevant instructions as issued from time to time.
+
+<span id="page-5-2"></span><sup>3</sup> Para 2.6 of the [Master Circular on "Loans and Advances – Statutory and Other restrictions" dated July 01, 2015;](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9902) Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks issued *vide* [Circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=3148&Mode=0)  [dated November 03, 2006](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=3148&Mode=0) as amended from time to time; Para 48 of [Master Direction – Reserve Bank of India \(Non-](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)[Banking Financial Company – Scale Based Regulation\) Directions, 2023](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) dated October 19, 2023, as amended from time to time; ['Guidelines for Managing Risk in Outsourcing of Financial Services by Co-operative Banks', dated June](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12123&Mode=0)  [28, 2021;](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12123&Mode=0) [Circular on 'Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0)  [Agents' dated August 12, 2022,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0) and other related instructions issued by the Reserve Bank from time to time.
+
+- ii. While the LSP may adopt any mechanism to match the request of borrowers with the lender (s) to offer a loan, it shall follow a consistent approach for similarly placed borrowers and products. The mechanism adopted by the LSP and any subsequent changes to this mechanism shall be properly documented.
+- iii. The digital view of loan offers from matching lenders shall include the name (s) of the RE (s) extending the loan offer, a

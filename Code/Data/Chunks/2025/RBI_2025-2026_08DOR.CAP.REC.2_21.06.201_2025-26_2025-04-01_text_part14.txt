@@ -1,0 +1,30 @@
+internal ratings-based approach (as applicable). For the application of risk weighting the amount of the holdings which are required to be risk weighted would be allocated on a pro rata basis between the Banking and Trading Book. However, in certain cases, such investments in both scheduled and non-scheduled commercial banks will be fully deducted from Common Equity Tier 1 capital of investing bank as indicated in paragraphs 5.6, 8.3.4 and 8.4.4.
+- (v) For the purpose of risk weighting of investments in as indicated in para (iv) above, investments in securities having comparatively higher risk weights will be considered for risk weighting to the extent required to be risk weighted, both in banking and trading books. In other words, investments with comparatively poor ratings (i.e., higher risk weights) should be considered for the purpose of application of risk weighting first and the residual investments should be considered for deduction.
+- **(C) Significant Investments in the Capital of Banking, Financial and Insurance Entities which are outside the Scope of Regulatory Consolidation[23](#page-29-0)**
+- (i) The regulatory adjustment described in this section applies to investments in the capital of banking, financial and insurance entities that are outside the scope of regulatory
+
+<span id="page-29-0"></span> <sup>23</sup> Investments in entities that are outside of the scope of regulatory consolidation refers to investments in entities that have not been consolidated at all or have not been consolidated in such a way as to result in their assets being included in the calculation of consolidated risk-weighted assets of the group.
+
+consolidation where the bank owns more than 10% of the issued common share capital of the issuing entity or where the entity is an affiliate[24](#page-30-0) of the bank. In addition:
+
+- Investments include direct, indirect[25](#page-30-1) and synthetic holdings of capital instruments. For example, banks should look through holdings of index securities to determine their underlying holdings of capital.
+- Holdings in both the banking book and trading book are to be included. Capital includes common stock and all other types of cash and synthetic capital instruments (e.g., subordinated debt).
+- Underwriting positions held for five working days or less can be excluded. Underwriting positions held for longer than five working days must be included.
+- If the capital instrument of the entity in which the bank has invested does not meet the criteria for Common Equity Tier 1, Additional Tier 1, or Tier 2 capital of the bank, the capital is to be considered common shares for the purposes of this regulatory adjustment[26.](#page-30-2)
+- With the prior approval of RBI, a bank can temporarily exclude certain investments where these have been made in the context of resolving or providing financial assistance to reorganise a distressed institution.
+
+#### **(ii) Investments other than Common Shares**
+
+All investments included in para (i) above which are not common shares must be fully deducted following a corresponding deduction approach. This means the deduction should be applied to the same tier of capital for which the capital would qualify if it was issued by the bank itself. If the bank is required to make a deduction from a particular tier of capital and it does not have enough of that tier of capital to satisfy that deduction, the shortfall will be deducted from the next higher tier of capital (e.g., if a bank does not have enough Additional Tier 1 capital to satisfy the deduction, the shortfall will be deducted from Common Equity Tier 1 capital).
+
+### **(iii) Investments which are Common Shares**
+
+All investments included in para (i) above which are common shares and which exceed 10% of the bank's Common Equity (after the application of all regulatory adjustments) shall be deducted while calculating Common Equity Tier 1 capital. The amount that is not deducted (upto 10% if bank's common equity invested in the equity capital of such
+
+<span id="page-30-0"></span> <sup>24</sup> An affiliate of a bank is defined as a company that controls, or is controlled by, or is under common control with, the bank. Control of a company is defined as (1) ownership, control, or holding with power to vote 20% or more of a class of voting securities of the company; or (2) consolidation of the company for financial reporting purposes.
+
+<span id="page-30-1"></span><sup>25</sup> Indirect holdings are exposures or part of exposures that, if a direct holding loses its value, will result in a loss to the bank substantially equivalent to the loss in the value of direct holding.
+
+<span id="page-30-2"></span><sup>26</sup> If the investment is issued out of a regulated financial entity and not included in regulatory capital in the relevant sector of the financial entity, it is not required to be deducted.
+
+entities) in the calculation of Common Equity Tier 1 shall be risk weighted at 250% (refer to illustration in **

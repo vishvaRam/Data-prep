@@ -1,0 +1,27 @@
+n increasing risk
+
+<span id="page-6-2"></span> <sup>1</sup> For reference, please refer to the Master Circular on Prudential Guidelines on Capital Adequacy and Market Discipline - New Capital Adequacy Framework (NCAF) issued vide [circular DBOD.No.BP.BC.4/21.06.001/2015-16](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893)  [dated July 1, 2015.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893)
+
+sensitivity and allow banks to select an approach that is most appropriate to the stage of development of bank's operations. The options available for computing capital for credit risk are Standardised Approach, Foundation Internal Rating Based Approach and Advanced Internal Rating Based Approach. The options available for computing capital for operational risk are Basic Indicator Approach (BIA), The Standardised Approach (TSA) and Advanced Measurement Approach (AMA).
+
+2.2 Keeping in view the Reserve Bank's goal to have consistency and harmony with international standards, it was decided in 2007 that all commercial banks in India (excluding Local Area Banks and Regional Rural Banks) should adopt Standardised Approach for credit risk, Basic Indicator Approach for operational risk by March 2009 and banks should continue to apply the Standardised Duration Approach (SDA) for computing capital requirement for market risks.
+
+2.3 Banks were advised to undertake an internal assessment of their preparedness for migration to advanced approaches and take a decision with the approval of their Boards, whether they would like to migrate to any of the advanced approaches. Based on bank's internal assessment and its preparation, a bank may choose a suitable date to apply for implementation of advanced approach. Besides, banks, at their discretion, would have the option of adopting the advanced approaches for one or more of the risk categories, as per their preparedness, while continuing with the simpler approaches for other risk categories, and it would not be necessary to adopt the advanced approaches for all the risk categories simultaneously. However, banks should invariably obtain prior approval of the RBI for adopting any of the advanced approaches.
+
+**2.4 Effective Date**: The Basel III capital regulations were implemented in India with effect from April 1, 2013 and have been fully implemented as on October 1, 2021. Banks have to comply with the regulatory limits and minima as prescribed under Basel III capital regulations, on an ongoing basis.
+
+### <span id="page-7-0"></span>**3. Scope of Application of Capital Adequacy Framework**
+
+**3.1** A bank shall comply with the capital adequacy ratio requirements at two levels:
+
+(a) the consolidated ("Group") level[2](#page-7-1) capital adequacy ratio requirements, which measure the capital adequacy of a bank based on its capital strength and risk profile after consolidating the assets and liabilities of its subsidiaries / joint ventures / associates etc. except those engaged in insurance and any non-financial activities; and
+
+<span id="page-7-1"></span> <sup>2</sup> In terms of guidelines on preparation of consolidated prudential reports issued vide [circular DBOD.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=1071&Mode=0)  [No.BP.BC.72/21.04.018/ 2001-02 dated February 25, 2003,](https://rbi.org.in/scripts/NotificationUser.aspx?Id=1071&Mode=0) a consolidated bank may exclude group companies which are engaged in insurance business and businesses not pertaining to financial services. A consolidated bank should maintain a minimum Capital to Risk-weighted Assets Ratio (CRAR) as applicable to a bank on an ongoing basis. Please also refer t[o circular DBOD.No.FSD.BC.46/24.01.028/2006-07 dated December 12, 2006.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3206&Mode=0)
+
+(b) the standalone ("Solo") level capital adequacy ratio requirements, which measure the capital adequacy of a bank based on its standalone capital strength and risk profile.
+
+Accordingly, overseas operations of a bank through its branches will be covered in both the above scenarios.
+
+**3.2** For the purpose of these guidelines, the subsidiary is an enterprise that is controlled by another enterprise (known as the parent). Banks will follow the definition of 'control' as given in the applicable accounting standards.
+
+**3.3** The components, elements and eligibility criteria of the regulatory capital instruments for foreign banks operating in India under the Wholly Owned Subsidiary (WOS) model would be as applicable to the other domestic banks as stipulated in this Master Circular. The WOS shall meet the Basel III requirements on a continuous basis from the time of its entry / conversion. WOS shall, however, maintain a minimum capital adequacy ratio, on a continuous basis for an initial period of three years from the commencement of its operations, at 10 per cent. In addition, the WOS shall maintain the Capital Conservation Buffer and other buffers as applicable[3

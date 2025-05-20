@@ -1,0 +1,41 @@
+ The compounding amount payable is calculated based on guidance note given below. It may, however, be noted that the guidance note is meant only for the purpose of broadly indicating the basis on which the compounding amount is derived by the compounding authorities in the Reserve Bank. The actual compounding amount payable may sometimes vary, depending on the circumstances of the case considering the factors indicated in the foregoing paragraph.
+
+I. Guidance Note on Computation Matrix
+
+
+
+
+**II.** The above amounts are presently subject to the following provisos, viz.
+
+- i. The compounding amount payable shall not exceed 300% of the sum involved in contravention.
+- ii. In case the sum involved in contravention is less than Rupees one lakh, the total compounding amount payable shall not be more than amount of simple interest @5% p.a. calculated on the sum involved in contravention and for the period of contravention in case of reporting contraventions and @10% p.a. in respect of all other contraventions.
+- iii. In case of paragraph 8 of Schedule I to FEMA 20/2000 RB contraventions, the compounding amount payable will be further graded as under:
+	- a. If the shares are allotted after 180 days without the prior approval of Reserve Bank, 1.25 times the amount calculated as per table above (subject to provisos at (i) & (ii) above).
+	- b. If the shares are not allotted and the amount is refunded after 180 days with the Bank's permission: 1.50 times the amount calculated as per table above (subject to provisos at (i) & (ii) above).
+	- c. If the shares are not allotted and the amount is refunded after 180 days without the Bank's permission: 1.75 times the amount calculated as per table above (subject to provisos at (i) & (ii) above).
+- iv. In cases where it is established that the contravener has made undue gains, the
+
+amount thereof may be neutralized to a reasonable extent by adding the same to the compounding amount calculated as per matrix above.
+
+v. If an applicant against whom a compounding order had been passed earlier and applicant didn't pay the compounding amount as mentioned in such order and reapplies for compounding of contravention relating to the same transaction, the amount calculated as above may be enhanced by 50% of earlier compounding amount subject to sub-para (i) above.
+
+III. For calculating compounding amount in respect of reporting contraventions under para I.1 of above matrix, the period of contravention may be considered proportionately {(approx. rounded off to next higher month ÷ 12) X amount for 1 year}. The total no. of days does not exclude Sundays/holidays.
+
+#### **6. Issue of the Compounding Order**
+
+**6.1** The Compounding Authority shall pass a compounding order after affording an opportunity of being heard to the applicant as expeditiously as possible and not later than 180 days from the date of receipt of such compounding application by Reserve Bank and complete in all respects, on the basis of the averments made in the application as well as other documents and submissions made in this context by the contravener during the personal hearings.
+
+**6.2** If the applicant opts for the personal hearing, the Reserve Bank would encourage the applicant to appear either personally or through a virtual mode rather than being represented / accompanied by legal experts / consultants, as compounding is a voluntary process and only for admitted contraventions. Appearing for or opting out of personal hearing does not have any bearing whatsoever on the compounding amount that may be specified in the compounding order. If the applicant does not opt for personal hearing or absents on the day of hearing, Compounding Authority may pass the order based on available information/ documents.
+
+**6.3** The Compounding Order shall specify the provisions of the FEMA, 1999 or any rule, regulation, notification, direction, or order issued in exercise of the powers under FEMA, 1999 in respect of which contravention has taken place along with details of the contravention.
+
+12
+
+**6.4** One copy of the compounding order shall be provided to the applicant and another copy shall also be provided to the Adjudicating Authority, where the compounding of any contravention is made after making of a complaint under sub- section (3) of section 16 of the FEMA, as the case may be.
+
+**6.5** The summary information about the compounding orders passed on or after March 01, 2020, shall be hosted on the Reserve Bank's website [\(www.rbi.org.in\)](https://www.rbi.org.in/) in the following format:
+
+
+## **7. Payment of the amount for which contravention is compounded.**
+
+**7.1** The compounding amount as specified in the compounding order shall be paid by way of demand draft in favour of the "Reserve Bank ofIndia" or National Electronic Fund Transfer (NEFT), or Real Time Gross Settlement (RTGS), or such other permissible electronic or online modes of payment within 15 days from the date of the order of compounding of such contraven

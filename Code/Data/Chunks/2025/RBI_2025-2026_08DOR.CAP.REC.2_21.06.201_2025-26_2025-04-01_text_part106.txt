@@ -1,0 +1,49 @@
+erve Requirements**
+
+The total amount raised by a bank through debt instruments shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+
+# **1.18 Reporting of Issuances**
+
+Banks issuing PDIs shall submit a report to the Chief General Manager-in-charge, Department of Regulation, Reserve Bank of India, Mumbai giving details of the instrument as per the format prescribed in **[Annex 22](#page-309-0)** duly certified by the compliance officer of the bank, soon after the issue is completed.
+
+# **1.19 Investment in Additional Tier 1 Debt Capital Instruments (PDIs) Issued by Other Banks/ FIs**
+
+(i) A bank's investment in debt instruments issued by other banks and financial institutions will be reckoned along with the investment in other instruments eligible for capital status while
+
+<span id="page-201-0"></span> <sup>186</sup> Not applicable to foreign banks' branches. The limit for PDIs eligible for inclusion in AT1 capital, denominated in foreign currency/rupee denominated bonds, as prescribed in para 1.16(ii) above, is also applicable to foreign banks operating under the Wholly Owned Subsidiary (WOS) model
+
+<span id="page-201-1"></span><sup>187</sup> Please refer to [circular no. DOR.CAP.REC.No.56/21.06.201/2021-22 dated October 4, 2021](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12173&Mode=0) on Basel III Capital Regulations - Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital – Eligible Limit for Instruments Denominated in Foreign Currency/Rupee Denominated Bonds Overseas.
+
+computing compliance with the overall ceiling of 10% for cross holding of capital among banks/FIs prescribed vide [circular DBOD.BP.BC.No.3/21.01.002/2004-05 dated July 6, 2004](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=1772&Mode=0) and also subject to cross holding limits.
+
+(ii) Bank's investments in debt instruments issued by other banks will attract risk weight for capital adequacy purposes, as prescribed in paragraphs 5.6 and 8.3.4 of this Master Circular, whichever applicable.
+
+# **1.20 Classification in the Balance Sheet**
+
+The amount raised by way of issue of debt capital instrument may be classified under 'Schedule 4 – Borrowings' in the Balance Sheet [188.](#page-202-0)
+
+# **1.21 Raising of Instruments for Inclusion as Additional Tier 1 Capital by Foreign Banks in India**
+
+Foreign banks in India may raise Head Office (HO) borrowings in foreign currency for inclusion as Additional Tier 1 capital subject to the same terms and conditions as mentioned in items 1.1 to 1.18 above for Indian banks. In addition, the following terms and conditions would also be applicable:
+
+a) Maturity period: If the amount of Additional Tier 1 capital raised as Head Office borrowings shall be retained in India on a perpetual basis.
+
+b) Rate of interest: Rate of interest on Additional Tier 1 capital raised as HO borrowings should not exceed the on-going market rate. Interest should be paid at half yearly rests.
+
+c) Withholding tax: Interest payments to the HO will be subject to applicable withholding tax.
+
+d) Documentation: The foreign bank raising Additional Tier 1 capital as HO borrowings should obtain a letter from its HO agreeing to give the loan for supplementing the capital base for the Indian operations of the foreign bank. The loan documentation should confirm that the loan given by HO shall be eligible for the same level of seniority of claim as the investors in debt capital instruments issued by Indian banks. The loan agreement will be governed by and construed in accordance with the Indian law.
+
+e) Disclosure: The total eligible amount of HO borrowings shall be disclosed in the balance sheet under the head 'Additional Tier 1 capital raised in the form of Head Office borrowings in foreign currency.
+
+f) Hedging: The total eligible amount of HO borrowing should remain fully swapped in Indian Rupees with the bank at all times.
+
+<span id="page-202-0"></span> <sup>188</sup> Please refer t[o circular DBOD.No.BP.BC.81/21.01.002/2009-10 dated March 30, 2010.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=5554&Mode=0)
+
+g) Reporting and certification: Details regarding the total amount of Additional Tier 1 capital raised as HO borrowings, along with a certification to the effect that the borrowing is in accordance with these guidelines, should be advised to the Chief General Managers-in-Charge of the Department of Regulation, Department of External Investments and Operations and Financial Markets Regulation Department, Reserve Bank of India, Mumbai.
+
+# **1.22 Perpetual Debt Instruments to Retail Investors[189](#page-203-0)**
+
+With a view to enhancing investor education relating to risk characteristics of regulatory capital requirements, banks issuing Perpetual Debt Instruments to retail investors, subject to approval of their Board, shall adhere to the following conditions:
+
+(a) For flo

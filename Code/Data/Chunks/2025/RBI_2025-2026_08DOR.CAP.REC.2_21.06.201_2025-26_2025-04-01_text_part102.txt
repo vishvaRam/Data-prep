@@ -1,0 +1,72 @@
+of the LEC Returns, on a daily basis, as prescribed in Schedule 2 and 3 of the [FEMA Notification No.20 dated 3rd May 2000,](https://rbi.org.in/Scripts/BS_FemaNotifications.aspx?Id=174) as amended from time to time.
+
+# **1.18 Investment in Additional Tier 1 Capital Instruments (PNCPS) Issued by Other Banks/ FIs**
+
+(i) A bank's investment in PNCPS issued by other banks and financial institutions will be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10% of investing banks' capital funds as prescribed vide [circular DBOD.BP.BC.No.3/21.01.002/2004-05 dated July 6, 2004.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=1772&Mode=0)
+
+(ii) Bank's investments in PNCPS issued by other banks / financial institutions will attract risk weight as provided in paragraphs 5.6 and 8.3.4 of this Master Circular, whichever applicable for capital adequacy purposes.
+
+(iii) A bank's investments in the PNCPS of other banks will be treated as exposure to capital market and be reckoned for the purpose of compliance with the prudential ceiling for capital market exposure as fixed by RBI.
+
+# **1.19 Classification in the Balance Sheet**
+
+PNCPS will be classified as capital and shown under 'Schedule I - Capital' of the Balance sheet.
+
+## **1.20 PNCPS to Retail Investors[180](#page-193-0)**
+
+With a view to enhancing investor education relating to risk characteristics of regulatory capital requirements, banks issuing PNCPS to retail investors, subject to approval of their Board, should adhere to the following conditions:
+
+(a) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks of the instrument may be incorporated in the common application form of the proposed issue.
+
+# *"By making this application, I / We acknowledge that I / We have understood the terms and conditions of the Issue of [insert the name of the instruments being issued] of [Name of The Bank] as disclosed in the Draft Shelf Prospectus, Shelf Prospectus and Tranche Document".*
+
+(b) All the publicity material, application form and other communication with the investor shall clearly state in bold letters (**with font size 14**) how PNCPS is different from common shares. In addition, the loss absorbency features of the instrument should be clearly explained and the investor's sign-off for having understood these features and other terms and conditions of the instrument should be obtained.
+
+## **Reporting Format**
+
+# **Details of Investments by FIIs and NRIs in Perpetual Non-Cumulative Preference Shares qualifying as Additional Tier 1 capital**
+
+- (a) Name of the bank:
+- (b) Total issue size / amount raised (in Rupees):
+- (c) Date of issue:
+
+
+It is certified that
+
+(i) the aggregate investment by all FIIs does not exceed 49 % of the issue size and investment by no individual FII exceeds 10 % of the issue size.
+
+<span id="page-193-0"></span> <sup>180</sup> Please refer t[o circular DBOD.BP.BC.38/21.06.201/2014-15 dated September 1, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9202&Mode=0) on Implementation of Basel III Capital Regulations in India – Amendments.
+
+(ii) It is certified that the aggregate investment by all NRIs does not exceed 24 % of the issue size and investment by no individual NRI exceeds 5 % of the issue size.
+
+Authorised Signatory
+
+Date
+
+<span id="page-194-0"></span>Seal of the bank
+
+# **Criteria for Inclusion of Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital**
+
+<span id="page-195-0"></span>The Perpetual Debt Instruments that may be issued as bonds or debentures by Indian banks should meet the following terms and conditions to qualify for inclusion in Additional Tier 1 Capital for capital adequacy purposes:
+
+# **1. Terms of Issue of Instruments Denominated in Indian Rupees**
+
+# **1.1 Paid-in Status**
+
+The instruments should be issued by the bank (i.e., not by any 'SPV' etc. set up by the bank for this purpose) and fully paid-in.
+
+# **1.2 Amount**
+
+The amount of PDI to be raised may be decided by the Board of Directors of banks.
+
+# **1.3 Limits**
+
+While complying with minimum Tier 1 of 7% of risk weighted assets, a bank cannot admit, Perpetual Debt Instruments (PDI) together with Perpetual Non-Cumulative Preference Shares (PNCPS) in Additional Tier 1 Capital, more than 1.5% of risk weighted assets. However, once this minimum total Tier 1 capital has been complied with, any additional PNCPS and PDI issued by the bank can be included in Total Tier 1 capital reported. Excess PNCPS and PDI can be reckoned to comply with Tier 2 capital if the latter is less than 2% of RWAs i.e., while complying with minimum Total Capital of 9% of risk weighted assets.
+
+# **1.4 Maturity Period**
+
+The PDIs shall be perpetual i.e., there is no maturity date and there are no step-ups or other incentives to redeem.
+
+# **1.5 Rate of Interest**
+
+The interest payable to the investors may be eithe

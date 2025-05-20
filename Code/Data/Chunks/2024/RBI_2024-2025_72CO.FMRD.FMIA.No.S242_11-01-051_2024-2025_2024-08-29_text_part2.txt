@@ -1,0 +1,39 @@
+ude transactions undertaken on electronic trading platforms authorised by IFSCA.
+- **(ix) Subsidiary General Ledger (SGL)** account shall mean an account opened and held with the Reserve Bank in terms of Section 4 of the Government Securities Act, 2006, for holding or / and transacting in Government Securities.
+- **(x) Value Free Transfer (VFT)** of Government Securities shall have the meaning assigned in the [Reserve Bank Notification No. 108 dated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12175&Mode=0)  [October 5, 2021,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12175&Mode=0) on 'Value Free Transfer (VFT) of Government Securities – Guidelines', as amended from time to time.
+- **(b)** Words and expressions used but not defined in the Scheme shall have the meaning assigned to them in the Reserve Bank of India Act, 1934, Foreign Exchange Management Act, 1999 and Government Securities Act, 2006 or the rules and regulations made thereunder.
+
+#### **3. Eligible investors**
+
+- **(a)** The following persons will be eligible to participate in the Scheme (hereinafter referred to as 'investors') as specified in para 6(a):
+	- **(i)** Persons resident outside India as defined in Section 2(w) of the FEMA, 1999, that are eligible to invest in the IFSC, as specified by IFSCA, and are not
+
+incorporated in High-Risk Jurisdictions subject to a Call for Action as identified by FATF; and
+
+- **(ii)** An IBU of a foreign bank which does not have a branch or subsidiary licensed to undertake banking business in India.
+- **(iii)** Persons resident outside India as treated under [Foreign Exchange](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9619&Mode=0)  [Management \(International Financial Services Centre\) Regulations, 2015,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9619&Mode=0) that are eligible to invest in the IFSC, as specified by IFSCA, and are not incorporated in High-Risk Jurisdictions subject to a Call for Action as identified by FATF provided that such persons are not a branch, joint venture, subsidiary or trust of an entity incorporated in India.
+
+However, funds / schemes, including the ones setup by entities incorporated in India, regulated by IFSCA under the IFSCA (Fund Management) Regulations, 2022 shall be considered as eligible investors under the Scheme.
+
+# **4. Participation of Eligible IBUs**
+
+An IBU of a bank in India and an IBU of a foreign bank, provided that the foreign bank has a branch or subsidiary licensed to undertake banking business in India shall be eligible to participate in the Scheme (hereinafter referred to as 'eligible IBU') as specified in para 6(b).
+
+# **5. Eligible securities**
+
+Sovereign Green Bonds issued by the Government of India (hereinafter referred to as 'securities') shall be eligible for investment under the Scheme subject to the following conditions:
+
+- **(i)** Investments in Sovereign Green Bonds that are designated as 'specified securities' under the Fully Accessible Route (FAR) shall be governed by the provisions of the Directions [A.P. \(DIR Series\) Circular No. 25 dated March 30,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11849&Mode=0)  [2020,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11849&Mode=0) as amended from time to time; and
+- **(ii)** Investments in the Sovereign Green Bonds other than those designated as 'specified securities' under the FAR shall be reckoned under the investment limits prescribed for Foreign Portfolio Investors (FPI), vide [A.P. \(DIR Series\)](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12675&Mode=0)  [Circular No. 03 dated April 26, 2024,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12675&Mode=0) as amended from time to time, and subject to conditions prescribed for investments by FPIs in [A.P. \(DIR Series\) Circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11303&Mode=0)  [No.31 dated June 15, 2018,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11303&Mode=0) as amended from time to time.
+
+# **6. Scheme details**
+
+**(a)** Investors can participate in the primary auctions of securities undertaken by the Reserve Bank and transact in the secondary market for securities in the IFSC, as per the terms and conditions defined in the Scheme.
+
+**(b)** Eligible IBUs are not permitted to participate in the primary auctions under the Scheme. Eligible IBUs can undertake transaction in the secondary market as per the terms and conditions defined in the Scheme.
+
+**(c)** For operationalising the Scheme,
+
+- **(i)** The authorised depository and the authorised clearing corporation(s) shall each open a CSGL account and a current account with the Reserve Bank; and
+- **(ii)** The authorised depository and the authorised clearing corporation(s) may open an INR account with a commercial bank in India.
+- **(iii)**The authorised depository and authorised clearing corporation(s) shall abide by the ['Constituents' Subsidiary General Ledger Account: Eligibility Crit

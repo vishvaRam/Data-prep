@@ -1,0 +1,35 @@
+non-bank financial sector exposures), shall calculate their bank specific CCCB requirement as a weighted[170](#page-182-0) average of the requirements that are being applied in respective jurisdictions. The Reserve Bank of India may also ask Indian banks to keep excess capital under CCCB framework for exposures in any of the host countries they are operating if it feels the CCCB requirement in host country is not adequate.
+
+17.2.9 Banks will be subject to restrictions on discretionary distributions (may include dividend payments, share buybacks and staff bonus payments) if they do not meet the requirement on countercyclical capital buffer which is an extension of the requirement for capital conservation buffer (CCB). Assuming a concurrent requirement of CCB of 2.5% and CCCB of 2.5% of total RWAs, the required conservation ratio (restriction on discretionary distribution) of a bank, at various levels of CET1 capital held is illustrated in **Table-23**.
+
+
+**Table 23: Individual bank minimum capital conservation ratios, assuming a requirement of 2.5% each of capital conservation buffer and CCCB**
+
+<span id="page-182-0"></span> <sup>170</sup> Weight = (bank's total credit risk charge that relates to private sector credit exposures in that jurisdiction/ bank's total credit risk charge that relates to private sector credit exposures across all jurisdictions), where credit includes all private sector credit exposures that attract a credit risk capital charge, or the risk weighted equivalent trading book capital charges for specific risk, IRC and securitisation.
+
+The CET 1 ratio bands are structured in increments of 25% of the required CCB and CCCB prescribed by the Reserve Bank of India at that point in time[171](#page-183-0). A separate illustrative table is given below with an assumption of CCCB requirement at 1%.
+
+**Table 24: Individual bank minimum capital conservation standards, when a bank is subject to a 2.5% CCB and 1% CCCB**
+
+
+\*(6.375=5.50+0.625+0.250)
+
+As the total requirement of CCB and CCCB is 2.5% and 1% respectively, at each band, 0.625% and 0.250% of RWA are being added for CCB and CCCB respectively.
+
+17.2.10 Banks must ensure that their CCCB requirements are calculated and publicly disclosed with at least the same frequency as their minimum capital requirements as applicable in various jurisdictions. The buffer should be based on the latest relevant jurisdictional CCCB requirements that are applicable on the date that they calculate their minimum capital requirement. In addition, when disclosing their buffer requirement, banks must also disclose the geographic breakdown of their private sector credit exposures used in the calculation of the buffer requirement.
+
+17.3 The CCCB decisions may form a part of the first bi-monthly monetary policy statement of the Reserve Bank of India for the year. However, more frequent communications in this regard may be made by the Reserve Bank of India, if warranted by changes in economic conditions.
+
+17.4 The indicators and thresholds for CCCB decisions mentioned above shall be subject to continuous review and empirical testing for their usefulness and other indicators may also be used by the Reserve Bank of India to support CCCB decisions.
+
+<span id="page-183-0"></span> <sup>171</sup> First CET 1 ratio band = Minimum CET 1 ratio + 25% of CCB + 25% of applicable CCCB. For subsequent bands, starting point will be the upper limit of previous band. However, it may be mentioned that CET 1 ratio band may change depending on various capital/buffer requirements (e.g., D-SIB buffer) as prescribed by the Reserve Bank of India from time to time. Accordingly, lower and upper values of the bands as given in Table-25 will undergo changes.
+
+# <span id="page-184-0"></span>**Criteria for Classification as Common Shares (Paid-up Equity Capital) for Regulatory Purposes – Indian Banks**
+
+1. All common shares should ideally be the voting shares. However, in rare cases, where banks need to issue non-voting common shares as part of Common Equity Tier 1 capital, they must be identical to voting common shares of the issuing bank in all respects except the absence of voting rights. Limit on voting rights will be applicable based on the provisions of respective statutes governing individual banks {i.e., Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 / 1980 in case of nationalized banks; SBI Act, 1955 in case of State Bank of India; State Bank of India (Subsidiary Banks) Act, 1959 in case of associate banks of State Bank of India; Banking Regulation Act, 1949 in case of Private Sector Banks, etc.}
+
+2. Represents the most subordinated claim in liquidation of the bank.
+
+3. Entitled to a claim on the residual assets which is proportional to its share of paid up capital, after all senior claims have been repaid in liquidation (i.e. has an unlimited and variable claim, not a fixed or capped claim).
+
+4. Principal is perpetual and never repaid outside of liquidation (except 

@@ -1,0 +1,53 @@
+umulative Preference Shares (PNCPS) in Additional Tier 1 Capital**
+
+The PNCPS will be issued by Indian banks, subject to extant legal provisions, only in Indian rupees and should meet the following terms and conditions to qualify for inclusion in Additional Tier 1 Capital for capital adequacy purposes:
+
+### **1. Terms of Issue of Instruments**
+
+### **1.1 Paid up Status**
+
+The instruments should be issued by the bank (i.e., not by any 'SPV' etc. set up by the bank for this purpose) and fully paid up.
+
+## **1.2 Amount**
+
+The amount of PNCPS to be raised may be decided by the Board of Directors of banks.
+
+## **1.3 Limits**
+
+While complying with minimum Tier 1 of 7% of risk weighted assets, a bank cannot admit, Perpetual Non-Cumulative Preference Shares (PNCPS) together with Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital, more than 1.5% of risk weighted assets. However, once this minimum total Tier 1 capital has been complied with, any additional PNCPS and PDI issued by the bank can be included in Total Tier 1 capital reported. Excess PNCPS and PDI can be reckoned to comply with Tier 2 capital if the latter is less than 2% of RWAs i.e., while complying with minimum Total Capital of 9% of risk weighted assets.
+
+### **1.4 Maturity Period**
+
+The PNCPS shall be perpetual i.e., there is no maturity date and there are no step-ups or other incentives to redeem.
+
+## **1.5 Rate of Dividend**
+
+The rate of dividend payable to the investors may be either a fixed rate or a floating rate referenced to a market determined rupee interest benchmark rate.
+
+# **1.6 Optionality**
+
+PNCPS shall not be issued with a 'put option'. However, banks may issue the instruments with a call option at a particular date subject to following conditions:
+
+(a) The call option on the instrument is permissible after the instrument has run for at least five years;
+
+- (b) To exercise a call option a bank shall receive prior approval of RBI (Department of Regulation);
+- (c) A bank must not do anything which creates an expectation that the call will be exercised[176.](#page-188-0) For example, to preclude such expectation of the instrument being called, the dividend / coupon reset date need not be co-terminus with the call date. Banks may, at their discretion, consider having an appropriate gap between dividend / coupon reset date and call date; and
+- (d) Banks must not exercise a call unless:
+
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank[177](#page-188-1); or
+
+(ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised[178.](#page-188-2)
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points (b) to (d) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of PNCPS.
+
+To illustrate, if there is a change in tax treatment which makes the capital instrument with tax deductible coupons into an instrument with non-tax deductible coupons, then the bank would have the option (not obligation) to repurchase the instrument. In such a situation, a bank may be allowed to replace the capital instrument with another capital instrument that perhaps does have tax deductible coupons. Similarly, if there is a downgrade of the instrument in regulatory classification (e.g., if it is decided by the RBI to exclude an instrument from regulatory capital) the bank has the option to call the instrument and replace it with an instrument with a better regulatory classification, or a lower coupon with the same regulatory classification with prior approval of RBI. However, banks may not create an expectation / signal an early redemption / maturity of the regulatory capital instrument.
+
+## **1.7 Repurchase / Buy-back / Redemption**
+
+(i) Principal of the instruments may be repaid (e.g., through repurchase or redemption) only with prior approval of RBI and banks should not assume or create market expectations that
+
+<span id="page-188-0"></span> <sup>176</sup> If a bank were to call a capital instrument and replace it with an instrument that is more costly (e.g. has a higher credit spread) this might create an expectation that the bank will exercise calls on its other capital instruments. Therefore, bank may not be permitted to call an instrument if the bank intends to replace it with an instrument issued at a higher credit spread. This is applicable in cases of all Additional Tier 1 and Tier 2 instruments.
+
+<span id="page-188-1"></span><sup>177</sup> Replacement issues can be concurrent with but not after the instrument is called.
+
+<span id="page-188-2"></span><sup>178</sup> Here, minimum refers to Common Eq

@@ -1,0 +1,109 @@
+tion. The manner in which the demand draft has to be drawn and deposited/ details of bank account for transferring through electronic mode of payment shall be indicated in the compounding order. It may be ensured that intimation of payment of amount for which contravention is compounded shall be made as soon as possible, but not later than 2 hours from time of payment in the template provided in Para B of **[Annexure I.](#page-16-0)**
+
+**7.2** The provisions of Compounding Rules, 2024, do not confer any right to the contravener, after a compounding order is passed, to seek to withdraw the order or to hold that the compounding order is void or request review of the order passed by the Compounding Authority.
+
+**7.3** In case of failure to pay the sum compounded within the time specified in the compounding order and Compounding Rules, 2024, it shall be deemed that the contravener had never made an application for compounding of any contravention under these Rules.
+
+**7.4** In respect of the contraventions of the FEMA, 1999 which are not compounded by the Compounding Authority, the provisions of the Act for contravention shall apply to such person.
+
+**7.5** On realization of the sum for which contravention is compounded, a certificate in this regard shall be issued by the Reserve Bank subject to the specified conditions, if any, in the order.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+<span id="page-16-0"></span>**A**. **Bank account for making payment of compounding application fee and compounding amount by way of electronic or online mode of payment.**
+
+
+**Annexure I**
+
+**B**. **Mail to be sent (as soon as possible but not later than 2 hours from the time of payment) to RBI Regional Office / Central office/ CO Cell, New Delhi post making payment of compounding application fee/ compounding amount\*. (A copy of the mail sent to RBI office may also be included along with the application form).**
+
+**SUBJECT: - ……………….(***Please provide name of the applicant***) - Details of payment made for compounding application fee / compounding amount \* through electronic or online mode of payment** 
+
+## Sir/ Madam,
+
+In reference to captioned subject, it is brought to your notice that compounding application fee/ compounding amount has been paid by ………………..(*name of the applicant*). Details of the transaction are as below.
+
+- a. Compounding application reference no.# :
+- b. Mode of payment [NEFT/ RTGS/ Others (please specify)]:
+- c. Unique Transaction reference (UTR) No.:
+- d. Name of A/c holder:
+- e. A/c No.:
+- f. IFSC:
+- g. Branch Name:
+- h. Bank Name:
+- i. Date of payment:
+- j. In case of resubmission of application, details of UTR and date of payment of earlier application fee:
+- **2.** In view of the above, you are requested to take the aforesaid compounding application fee/ compounding amount\* payment on record.
+
+Regards,
+
+## XXXXX
+
+<sup>\*</sup> Strike off whichever is not applicable
+
+<sup>#</sup> Compounding application reference no. is the alphanumeric code mentioned in the order and may only be filled for payment of compounding amount but not for compounding application fee.
+
+## **Annexure I**
+
+# **C. Details of RBI Offices for submission of compounding application**
+
+
+
+# **Foreign Direct Investment (FDI)**
+
+<span id="page-20-0"></span>Details to be furnished along with application for compounding of contravention relating to Foreign Direct Investment in India
+
+- Name of the applicant
+- Date of incorporation
+- Income-tax PAN
+- Nature of activities under taken (Please give NIC code 1987 / 2008)
+- Brief particulars about the foreign investor
+- Details of foreign inward remittances received by Applicant Company from date of incorporation till date
+
+#### **Table A**
+
+
+\* date of reporting to RBI and not AD
+
+#### **Table B**
+
+
+\* date of reporting to RBI and not AD
+
+#### **Table C**
+
+
+# **Table D**
+
+
+A= B+C
+
+Please give supporting documents
+
+Table A - Copies of FIRC with date stamp of receipt at RBI Table B - Copies of FCGPR with date stamp of receipt at RBI
+
+Table C – letter seeking refund/ allotment of shares- approval letter from RBI A2 form
+
+- Copies of Balance Sheet during the period of receipt of share application money
+- and allotment of shares
+- Nature of contravention and reasons for the contravention
+
+# **External Commercial Borrowings (ECB)**
+
+Details to be furnished along with application for compounding of contravention relating to External Commercial Borrowing
+
+- Name of the applicant
+- Date of incorporation
+- Income-tax PAN
+- Nature of activities under taken (Please give NIC code 1987)
+- Brief particulars about the foreign lender
+- Is the applicant an eligible borrower?
+- Is the lender eligible lender?
+- Is the lender an equity holder?
+- What is the level of his holding at the time of loan agreement?
+- Details of ECB
+- Date of Loan agreement
+- Amount in Foreign Currency and Indian Rupee
+- Rate of interest
+- Period of loan
+- Repay

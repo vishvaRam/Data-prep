@@ -1,0 +1,53 @@
+ntract, taking into account the collateral, will be as follows:
+
+Counterparty risk capital charge = [(RC + add-on) – CA] x r x 9%
+
+Where;
+
+RC = the replacement cost,
+
+add-on = the amount for potential future exposure calculated according to paragraph 5.15.3.4 above.
+
+CA = the volatility adjusted amount of eligible collateral under the comprehensive approach prescribed in paragraph 7.3 on "Credit Risk Mitigation Techniques - Collateralised Transactions" of these guidelines, or zero if no eligible collateral is applied to the transaction, and
+
+r = the risk weight of the counterparty.
+
+# **8.6.4 Treatment of Exposures below Materiality Thresholds of CDS**
+
+Materiality thresholds on payments below which no payment is made in the event of loss are equivalent to retained first loss positions and should be assigned risk weight of 1250 per cent for capital adequacy purpose by the protection buyer.
+
+# **8.7 Aggregation of the capital charge for Market Risks**
+
+As explained earlier capital charges for specific risk and general market risk are to be computed separately before aggregation. For computing the total capital charge and Risk Weighted Assets for market risks, the calculations may be plotted in the following table:
+
+### **Proforma**
+
+(₹ in crore)
+
+
+## **8.8 Treatment for Illiquid Positions**
+
+#### **8.8.1** Prudent Valuation Guidance
+
+- (i) This section provides banks with guidance on prudent valuation for positions that are accounted for at fair value. It is especially important for positions without actual market prices or observable inputs to valuation, as well as less liquid positions which raise supervisory concerns about prudent valuation. The valuation guidance set forth below is not intended to require banks to change valuation procedures for financial reporting purposes.
+- (ii) A framework for prudent valuation practices should at a minimum include the following:
+
+## **8.8.1.1** *Systems and Controls:*
+
+Banks must establish and maintain adequate systems and controls sufficient to give management and supervisors the confidence that their valuation estimates are prudent and reliable. These systems must be integrated with other risk management systems within the organisation (such as credit analysis). Such systems must include:
+
+(i) Documented policies and procedures for the process of valuation. This includes clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and review of their appropriateness, guidelines for the use of unobservable inputs reflecting the bank's assumptions of what market participants would use in pricing the position, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, end of the month and ad-hoc verification procedures; and
+
+(ii) Clear and independent (i.e., independent of front office) reporting lines for the department accountable for the valuation process.
+
+### **8.8.1.2** *Valuation Methodologies*:
+
+## **Marking to Market**
+
+(i) Marking-to-market is at least the daily valuation of positions at readily available close out prices in orderly transactions that are sourced independently. Examples of readily available close out prices include exchange prices, screen prices, or quotes from several independent reputable brokers.
+
+(ii) Banks must mark-to-market as much as possible. The more prudent side of bid/offer should be used unless the institution is a significant market maker in a particular position type and it can close out at mid-market. Banks should maximise the use of relevant observable inputs and minimise the use of unobservable inputs when estimating fair value using a valuation technique. However, observable inputs or transactions may not be relevant, such as in a forced liquidation or distressed sale, or transactions may not be observable, such as when markets are inactive. In such cases, the observable data should be considered, but may not be determinative.
+
+## **Marking to Model**
+
+(iii) Marking-to model is defined as any valuation which has to be benchmarked, extrapolated or otherwise calculated from a market input. Where marking-to-market is not possible, banks should follow the guidelines on valuation of investments contained in [Master Direction -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) [Classification, Valuation and Operation of Investment Portfolio of Commercial Banks \(Directions\),](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) For investment and derivative positions other than those covered in the Master Direction, the valuation model used by banks must be demonstrated to be prudent. When marking to valuation model other than that prescribed in RBI / FIMMDA guidelines, an extra degree of conservatism is appropriate. RBI will consider the following in assessing whether a mark-to-model val

@@ -1,0 +1,10 @@
+| S.<br>No. | Circular No.                            | Date                | Subject                                                                                  |
+|-----------|-----------------------------------------|---------------------|------------------------------------------------------------------------------------------|
+| 1         | DOS.No.BC.2/<br>16.13.100/95            | March 22, 1995      | Meeting<br>of<br>Compliance<br>Officers                                                  |
+| 2         | DOS.No.BC.24/<br>08.91.021/96           | December 30, 1996   | Internal<br>Organisation<br>and<br>Control System                                        |
+| 3         | DOS.No.CO.PP.BC.2/<br>11.01.016/97-98   | July 24, 1997       | Compliance Officers of Banks                                                             |
+| 4         | DBS.No.PP.BC.17/<br>11.01.005/1999-2000 | October 27,<br>1999 | Checklist<br>for<br>Evaluation<br>of<br>Internal Inspection/ Audit                       |
+| 5         | DBS.CO.PP.BC.36/<br>11.01.005/1999-2000 | June 5, 2000        | Compliance Officers of banks                                                             |
+| 6         | UBD.No.POT.3/09.06-<br>00/2000-2001     | July 12, 2001       | Overseeing the internal audit<br>function in Banks -<br>Setting up<br>of Audit Committee |
+| 7         | DBS.CO.PP.BC.17/<br>11.01.005/2004-05   | February 1, 2005    | Implementation of Risk-based<br>internal audit (RBIA) in banks                           |
+| 8         | DBS.PP.BC1/11/<br>01.005/2006-07        | November 16, 2006   | Compliance function in banks                                                             |

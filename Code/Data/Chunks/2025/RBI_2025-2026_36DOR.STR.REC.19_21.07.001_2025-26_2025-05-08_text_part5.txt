@@ -1,0 +1,37 @@
+t consent of the borrower having audit trail. In any case, RE shall also ensure that DLA of RE/LSP desist from accessing mobile phone resources like file and media, contact list, call logs, telephony functions, etc. A one-time access can be taken for camera, microphone, location or any other facility necessary for the purpose of on-boarding/ KYC requirements only, with the explicit consent of the borrower.
+
+<span id="page-10-3"></span><span id="page-10-2"></span><sup>9</sup> <https://cms.rbi.org.in/>10 Issued *vide* [Notification CEPD. PRD. No.S873/13.01.001/2021-22 dated November 12, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12192&Mode=0)
+
+- ii. The borrower shall be provided with an option to give or deny consent for use of specific data, restrict disclosure to third parties, data retention, revoke consent already granted to collect personal data and if required, make the RE/LSP delete/ forget the data.
+- iii. The purpose of obtaining borrowers' consent needs to be disclosed at each stage of interface with the borrowers.
+- iv. Explicit consent of the borrower shall be taken before sharing personal information with any third party, except for cases where such sharing is required as per statutory or regulatory requirement.
+
+# <span id="page-11-0"></span>13.**Storage of data**
+
+- i. RE shall ensure that LSP engaged by them do not store personal information of borrower except some basic minimal data (viz., name, address, contact details of the customer, etc.) that may be required to carry out their operations or service within the scope of the RE-LSP agreement. Responsibility regarding data privacy and security of the customer's personal information on an ongoing basis shall be that of the RE.
+- ii. RE shall ensure that clear policy guidelines regarding the storage of customer data including the type of data that can be stored, the length of time for which data can be stored, restrictions on the use of data, data destruction protocol, standards for handling security breach, etc., are put in place and also disclosed by the RE and the LSP engaged by the RE prominently on their website and DLA at all times.
+- iii. RE shall ensure that no biometric data is stored/ collected by the RE and LSP, unless allowed under extant statutory guidelines.
+- iv. RE shall ensure that all data is stored only in servers located within India, while ensuring compliance with statutory obligations/ regulatory instructions. Further, in case the data is processed outside India, the same shall be deleted from servers outside India and brought back to India within 24 hours of processing.
+
+#### <span id="page-12-0"></span>14.**Comprehensive privacy policy**
+
+- i. RE and LSPs engaged by RE shall have a comprehensive privacy policy compliant with applicable laws, associated regulations and RBI guidelines which shall be made available publicly on the website of RE and LSP, as the case may be.
+- ii. Details of third parties (where applicable) allowed to collect personal information through the DLA shall also be disclosed in the privacy policy.
+
+#### <span id="page-12-1"></span>15.**Technology standards**
+
+i. RE shall ensure that they and the LSPs engaged by them comply with various technology standards/ requirements on cybersecurity stipulated by RBI and other relevant agencies, or as may be specified from time to time, for undertaking digital lending.
+
+#### **Chapter V: Reporting of Credit Information and DLAs**
+
+# <span id="page-12-3"></span><span id="page-12-2"></span>16.**Reporting to Credit Information Companies (CICs)**
+
+- i. As per the provisions of the Credit Information Companies (CIC) (Regulation) Act, 2005; CIC Rules, 2006; CIC Regulations, 2006 and related guidelines issued by RBI from time to time, RE shall ensure that any lending done through their DLAs and/ or DLAs of LSPs is reported by them to CICs irrespective of its nature/ tenor.
+- ii. Extension of structured digital lending products by RE and/or LSPs engaged by RE over a merchant platform involving short term, unsecured/ secured credits or deferred payments, need to be reported to CICs by the RE. RE shall ensure that LSPs, if any, associated with such deferred payment credit products shall abide by the extant outsourcing guidelines issued by the Reserve Bank and be guided by these Directions.
+
+#### <span id="page-12-4"></span>17.**Reporting of DLAs to RBI**
+
+i. RE shall report all DLAs deployed/ joined by them, whether their own or those of the LSPs, either exclusively or as a platform participant, on the Centralised Information Management System (CIMS) portal of RBI in the requisite format as given in the [Annex-I](#page-20-0) to these Directions.
+
+- ii. RE shall update the aforesaid list as and when additional DLA (s) are deployed or the engagement with the existing DLA (s) ceases to exist by filing the updated data in the CIMS portal.
+- iii. The Chief Compliance Officer of the RE or any other official designated by the Board of the RE for the purpose

@@ -1,0 +1,38 @@
+sing the delta-plus method will be required to calculate the gamma and Vega for each option position (including hedge positions) separately. The capital charges should be calculated in the following way:
+
+(i) for *each individual option* a "gamma impact" should be calculated according to a Taylor series expansion as:
+
+Gamma impact = ½ x Gamma x VU²
+
+where VU = Variation of the underlying of the option.
+
+<span id="page-238-1"></span><span id="page-238-0"></span> <sup>218</sup> Two-months call option on a bond future, where delivery of the bond takes place in September, would be considered in April as being long the bond and short a five-month deposit, both positions being delta-weighted. <sup>219</sup> The rules applying to closely-matched positions set out in paragraph 2 (a) of this Annex shall also apply in this respect.
+
+- (ii) VU will be calculated as follows:
+	- for interest rate options if the underlying is a bond, the price sensitivity should be worked out as explained. An equivalent calculation should be carried out where the underlying is an interest rate.
+	- for options on equities and equity indices; which are not permitted at present, the market value of the underlying should be multiplied by 9 per cent[220](#page-239-0);
+	- for foreign exchange and gold options: the market value of the underlying should be multiplied by 9 per cent;
+- (iii) For the purpose of this calculation the following positions should be treated as *the same underlyin***g**:
+	- for interest rates[221](#page-239-1), each time-band as set out in Table 15 of this Master Circular[222;](#page-239-2)
+	- for equities and stock indices, each national market;
+	- for foreign currencies and gold, each currency pair and gold;
+- (iv) Each option on the same underlying will have a gamma impact that is either positive or negative. These individual gamma impacts will be summed, resulting in a net gamma impact for each underlying that is either positive or negative. Only those net gamma impacts that are negative will be included in the capital calculation.
+- (v) The total gamma capital charge will be the sum of the absolute value of the net negative gamma impacts as calculated above.
+- (vi) For *volatility risk*, banks will be required to calculate the capital charges by multiplying the sum of the Vegas for all options on the same underlying, as defined above, by a proportional shift in volatility of ± 25 per cent.
+- (vii) The *total capital charge* for Vega risk will be the sum of the absolute value of the individual capital charges that have been calculated for Vega risk.
+
+## **(b) Scenario Approach**
+
+8. More sophisticated banks will also have the right to base the market risk capital charge for options portfolios and associated hedging positions on *scenario matrix analysis*. This will be accomplished by specifying a fixed range of changes in the option portfolio's risk factors and calculating changes in the value of the option portfolio at various points along this "grid". For the purpose of calculating the capital charge, the bank will revalue the option portfolio using matrices for simultaneous changes in the option's underlying rate or price and in the volatility of that rate
+
+<span id="page-239-0"></span> <sup>220</sup> The basic rules set out here for interest rate and equity options do not attempt to capture specific risk when calculating gamma capital charges. However, Reserve Bank may require specific banks to do so.
+
+<span id="page-239-1"></span><sup>221</sup> Positions have to be slotted into separate maturity ladders by currency.
+
+<span id="page-239-2"></span><sup>222</sup> Banks using the duration method should use the time-bands as set out in Table 16 of this Master Circular.
+
+or price. A different matrix will be set up for each individual underlying as defined in paragraph 7 above. As an alternative, at the discretion of each national authority, banks which are significant traders in options for interest rate options will be permitted to base the calculation on a minimum of six sets of time-bands. When using this method, not more than three of the time-bands as defined in paragraph 8.3 of this Master Circular should be combined into any one set.
+
+9. The options and related hedging positions will be evaluated over a specified range above and below the current value of the underlying. The range for interest rates is consistent with the assumed changes in yield in Table-15 of paragraph 8.3 of this Master Circular. Those banks using the alternative method for interest rate options set out in paragraph 8 above should use, for each set of time-bands, the highest of the assumed changes in yield applicable to the group to which the time-bands belong [223](#page-240-0). The other ranges are ±9 per cent for equities and ±9 per cent for foreign exchange and gold. For all risk categories, at least seven observations (including the current observation) should be used to divide the range into equally spaced intervals.
+
+10. The second di

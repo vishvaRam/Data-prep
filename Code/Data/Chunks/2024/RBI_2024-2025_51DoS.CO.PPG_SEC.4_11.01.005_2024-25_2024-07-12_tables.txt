@@ -1,0 +1,37 @@
+| S.  | Circular                                   | Date      | Title                                     |
+|-----|--------------------------------------------|-----------|-------------------------------------------|
+| No. |                                            |           |                                           |
+| 1   | DBS.CO.PP.BC.57                            | 24-Jun-99 | Supervisory Rating of Banks               |
+|     | /11.01.005/98-99                           |           |                                           |
+| 2   | DBS.CO.PP.BC.01                            | 24-Aug-02 | Supervisory Rating of Banks               |
+|     | /11.01.005/2002-2003                       |           |                                           |
+| 3   | DBS.CO.PP.BC.13                            | 04-Mar-03 | Supervisory Rating of Banks               |
+|     | /11.01.005/2002-2003                       |           |                                           |
+| 4   | DBS.No.CO.PP.BC.3                          | 23-Jan-07 | Supervisory Rating of Banks               |
+|     | /11.01.005/2006-07                         |           |                                           |
+| 5   | DBS.No.PP.BC.58                            | 24-Jun-99 | Supervisory Rating of Banks               |
+|     | /11.01.005/98-99                           |           |                                           |
+| 6   | DBS.CO.PP.BC.02                            | 24-Aug-02 | Supervisory Rating of Banks               |
+|     | /11.01.005/2002-2003                       |           |                                           |
+| 7   | DBS.CO.PP.BC.14                            | 04-Mar-03 | Supervisory Rating of Banks               |
+|     | /11.01.005/2002-2003                       |           |                                           |
+| 8   | DBS.No.CO.PP.BC.2                          | 23-Jan-07 | Supervisory Rating of Banks               |
+|     | /11.01.005/2006-07                         |           |                                           |
+| 9   | DBS/CO/100                                 | 12-Jul-02 | Compilation of Risk Profile –<br>Risk     |
+|     | /36.01.03/2002-2003                        |           | Profile Templates                         |
+| 10  | DBS.CO.RBSC.BC.12                          | 10-Jun-04 | Updation of Risk Profile Templates        |
+|     | /36.01.17/2003-2004                        |           |                                           |
+| 11  | DBS.CO.PPD.RBS.No.                         | 16-Jun-06 | Revision of Risk Profile Templates        |
+|     | 17888/36.01.18/05-06                       |           |                                           |
+| 12  | DBS.CO.PPD.RBS.No.                         | 16-Jun-06 | Revision of Risk Profile Templates        |
+| 13  | 17906/36.01.18/05-06<br>DBS.CO.PPD.RBS.No. | 27-Jun-06 | Revision of Risk Profile Templates        |
+|     | 18459/36.01.18/05-06                       |           |                                           |
+| 14  | DBS.CO.PP.BC.14                            | 26-Jun-04 | Risk Based Supervision -Follow up of      |
+|     | /11.01.005/2003-04                         |           | Risk Management Systems in Banks          |
+| 15  | DBS.CO.PP.BC.16                            | 19-Jan-05 | Inspection of Banks -<br>Set of Specimen  |
+|     | /11.01.005/2004-05                         |           | Signatures -<br>Safe Custody Certificate  |
+| 16  | DBS.CO.PPD.BC.No. 02                       | 07-Sep-12 | Annual Financial Inspection(AFI) of       |
+|     | /11.01.005/2012-13                         |           | Banks                                     |
+| 17  | DBS.CO.Inspection                          | 06-Sep-12 | Inspection<br>Scrutiny<br>of<br>scheduled |
+|     | (IPC)<br>No<br>2204                        |           | commercial<br>banks specimen signature    |
+|     | /12.21.001/2012-13                         |           |                                           |

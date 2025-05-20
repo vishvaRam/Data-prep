@@ -1,0 +1,45 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2024-25/99 CO.DPSS.RPPD.No.S987/04.03.001/2024-25 December 30, 2024
+
+The Chairman / Managing Director / Chief Executive Officer of Banks participating in RTGS and NEFT systems
+
+Dear Sir / Madam,
+
+**Introduction of beneficiary bank account name look-up facility for Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT) Systems**
+
+Please refer to [Statement on Developmental and Regulatory Policies](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58852) dated October [9, 2024,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58852) proposing the introduction of beneficiary account name look-up facility for Real Time Gross Settlement (RTGS) System and National Electronic Funds Transfer (NEFT) System.
+
+2. Currently, the Unified Payments Interface (UPI) and Immediate Payments Service (IMPS) systems enable a remitter to verify the name of the beneficiary before initiating transfer. It has been decided to put in place a similar facility that would enable a remitter to verify the beneficiary bank account name before initiating a transaction using RTGS or NEFT system. Accordingly, National Payments Corporation of India (NPCI) has been advised to develop the facility and onboard all banks.
+
+3. Banks which are participants of RTGS and NEFT Systems, shall make this facility available to their customers through Internet banking and Mobile banking. The facility shall also be available to remitters visiting branches for making transactions. Detailed requirements for the same are provided in the **[Annex](#page-2-0)**.
+
+4. All banks who are direct members or sub members of RTGS and NEFT are advised to offer this facility no later than April 1, 2025.
+
+5. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(Sudhanshu Prasad) Chief General Manager
+
+## **Annex**
+
+<span id="page-2-0"></span>(CO.DPSS.RPPD.No.S987/04.03.001/2024-25 dated December 30, 2024)
+
+## **Introduction of beneficiary bank account name look-up facility for Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT) Systems**
+
+- 1. To ensure that remitters using RTGS and NEFT systems can verify the name of the bank account to which money is being transferred before initiating the transfer and thereby avoid mistakes and prevent frauds, a solution for fetching the beneficiary's name is being implemented. Based on the account number and IFSC of the beneficiary entered by the remitter, the facility will fetch the beneficiary's account name from the bank's Core Banking Solution (CBS).
+- 2. This facility shall be made available to remitters through Internet banking and Mobile banking. The facility shall also be available to remitters visiting branches for making transactions.
+- 3. To ensure uniform experience for customers, the banks shall adhere to the instructions given below:
+	- i. Provision to verify beneficiary bank account name shall be provided in Internet banking and Mobile banking facilities at the time of registering a beneficiary and at the time of one-time fund transfer where the beneficiary may not be registered.
+	- ii. Provision to re-verify a registered beneficiary at any time shall also be provided.
+	- iii. Beneficiary account name provided by the beneficiary bank shall be displayed to the remitter.
+	- iv. In case the beneficiary name cannot be displayed for any reason, the remitter can proceed with the fund transfer, at her discretion.
+	- v. Specific alert messages as provided in the technical document, issued earlier by NPCI, shall be displayed to the remitter.
+- 4. Both remitting and beneficiary banks shall preserve detailed logs of all queries made, responses received and all other activities as part of beneficiary bank account name lookup facility.
+- 5. NPCI shall not store any data relating to this facility. In case of a dispute, the remitting bank and the beneficiary bank shall resolve the dispute based on the unique lookup reference number and the corresponding logs.
+- 6. While providing the facility, banks shall ensure to comply with legal provisions related to data privacy, if any.
+- 7. Beneficiary account name lookup facility shall be made available to customers without any charge.
+- 8. All banks who are direct members or sub members of RTGS and NEFT are advised to offer this facility no later than April 1, 2025.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*

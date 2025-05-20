@@ -1,0 +1,29 @@
+| Sr. | Districts       | Lead Bank            | District     |
+|-----|-----------------|----------------------|--------------|
+| No. | (Erstwhile)     |                      | Working Code |
+| 1   | Kekri           | Bank<br>of Baroda    | 01Z          |
+| 2   | Shahpura        | Bank of Baroda       | 02M          |
+| 3   | Anupgarh        | Punjab National Bank | 01W          |
+| 4   | Sanchore        | State Bank of India  | 02L          |
+| 5   | Neem ka Thana   | State Bank of India  | 02J          |
+| 6   | Gangapur City   | Bank of Baroda       | 02E          |
+| 7   | Dudu            | UCO Bank             | 02C          |
+| 8   | Jaipur (Rural)  | State Bank of India  | 02D          |
+| 9   | Jodhpur (Rural) | ICICI Bank           | 02G          |
+
+| Sr. | Present District | Lead Bank            | District Working | Remarks  |
+|-----|------------------|----------------------|------------------|----------|
+| No  |                  |                      | Code             |          |
+| 1   | Ajmer            | Bank of Baroda       | 510              | Retained |
+| 2   | Tonk             | Bank of Baroda       | 507              | Retained |
+| 3   | Bhilwara         | Bank of Baroda       | 508              | Retained |
+| 4   | Bikaner          | State Bank of India  | 520              | Retained |
+| 5   | Sri Ganganagar   | Punjab National Bank | 518              | Retained |
+| 6   | Jalore           | State Bank of India  | 525              | Retained |
+| 7   | Jhunjhunu        | Bank of Baroda       | 515              | Retained |
+| 8   | Sikar            | Punjab National Bank | 513              | Retained |
+| 9   | Karauli          | Bank of Baroda       | 519              | Retained |
+| 10  | Sawai Madhopur   | Bank of Baroda       | 506              | Retained |
+| 11  | Jaipur           | State Bank of India  | 500              | Modified |
+| 12  | Jodhpur          | ICICI Bank           | 530              | Modified |
+

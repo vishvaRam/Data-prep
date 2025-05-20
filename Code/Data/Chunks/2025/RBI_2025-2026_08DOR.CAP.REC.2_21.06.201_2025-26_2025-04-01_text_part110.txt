@@ -1,0 +1,65 @@
+uld not exceed the on-going market rate. Interest should be paid at half yearly rests.
+
+(c) *Withholding tax:* Interest payments to the HO will be subject to applicable withholding tax.
+
+(d) *Documentation:* The foreign bank raising Tier 2 debt capital as HO borrowings should obtain a letter from its HO agreeing to give the loan for supplementing the capital base for the Indian operations of the foreign bank. The loan documentation should confirm that the loan given by HO shall be eligible for the same level of seniority of claim as the investors in debt capital instruments issued by Indian banks. The loan agreement will be governed by and construed in accordance with the Indian law.
+
+(e) *Disclosure:* The total eligible amount of HO borrowings shall be disclosed in the balance sheet under the head 'Tier 2 debt capital raised in the form of Head Office borrowings in foreign currency.
+
+(f) *Hedging:* The total eligible amount of HO borrowing should remain fully swapped in Indian Rupees with the bank at all times.
+
+(g) *Reporting and certification:* Details regarding the total amount of Tier 2 debt capital raised as HO borrowings, along with a certification to the effect that the borrowing is in accordance with these guidelines, should be advised to the Chief General Managers-in-Charge of the Department of Regulation, Department of External Investments and Operations and Financial Markets Regulation Department, Reserve Bank of India, Mumbai..
+
+(h) *Features:* The HO borrowings should be fully paid up, i.e. the entire borrowing or each tranche of the borrowing should be available in full to the branch in India. It should be unsecured, subordinated to the claims of other creditors of the foreign bank in India, free of restrictive clauses and should not be redeemable at the instance of the HO.
+
+(i) *Rate of discount:* The HO borrowings will be subjected to progressive discount as they approach maturity at the rates indicated below:
+
+
+## **1.19 Requirements**
+
+The total amount of HO borrowings is to be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR/SLR requirements.
+
+### **1.20 Hedging**
+
+The entire amount of HO borrowing should remain fully swapped with banks at all times. The swap should be in Indian rupees.
+
+## **1.21 Reporting and Certification**
+
+Such borrowings done in compliance with the guidelines set out above would not require prior approval of Reserve Bank of India. However, information regarding the total amount of borrowing raised from Head Office under this Annex, along with a certification to the effect that the borrowing is as per the guidelines, should be advised to the Chief General Managers-in-Charge of the Department of Regulation, Department of External Investments and Operations and Financial Markets Regulation Department, Reserve Bank of India, Mumbai.
+
+#### <span id="page-212-0"></span>**Criteria for Inclusion of Perpetual Cumulative Preference Shares (PCPS)/ Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) as Part of Tier 2 Capital**
+
+### **1 Terms of Issue of Instruments[197](#page-212-1)**
+
+#### **1.1 Paid-in Status**
+
+The instruments should be issued by the bank (i.e., not by any 'SPV' etc. set up by the bank for this purpose) and fully paid-in.
+
+#### **1.2 Amount**
+
+The amount to be raised may be decided by the Board of Directors of banks.
+
+#### **1.3 Maturity Period**
+
+These instruments could be either perpetual (PCPS) or dated (RNCPS and RCPS) instruments with a fixed maturity of minimum five years and there should be no step-ups or other incentives to redeem. The perpetual instruments shall be cumulative. The dated instruments could be cumulative or non-cumulative.
+
+#### **1.4 Amortisation**
+
+The Redeemable Preference Shares (both cumulative and non-cumulative) shall be subjected to a progressive discount for capital adequacy purposes over the last five years of their tenor, as they approach maturity as indicated in the table below for being eligible for inclusion in Tier 2 capital.
+
+
+#### **1.5 Coupon**
+
+The coupon payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate. Banks desirous of offering floating
+
+<span id="page-212-1"></span> <sup>197</sup> The criteria relating to loss absorbency through conversion / write-down / write-off at the point of non-viability are furnished in Annex 16.
+
+reference rate may take prior approval of the RBI (DOR) as regard permissibility of such reference rates.
+
+# **1.6 Optionality**
+
+These instruments shall not be issued with a 'put option'. However, banks may issue the instruments with a call option at a particular date subject to following conditions:
+
+(a) The call option on the instrument is permissible after the instrument has run for at least five years; and
+
+(b) To exercise a call option a bank must receiv

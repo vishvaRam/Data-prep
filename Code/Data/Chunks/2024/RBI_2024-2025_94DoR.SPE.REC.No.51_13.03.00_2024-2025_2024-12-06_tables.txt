@@ -1,0 +1,7 @@
+| Period of Deposit           | Ceiling Rate                                       |
+|-----------------------------|----------------------------------------------------|
+| 1 year to less than 3 years | Overnight Alternative Reference Rate for the       |
+|                             | respective currency/ Swap plus 400<br>basis points |
+| 3 years and above upto and  | Overnight Alternative Reference Rate for the       |
+| including 5 years           | respective currency/ Swap plus 500<br>basis points |
+

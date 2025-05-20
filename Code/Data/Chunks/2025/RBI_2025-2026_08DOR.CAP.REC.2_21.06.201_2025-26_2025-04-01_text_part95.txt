@@ -1,0 +1,49 @@
+onfirming banks.
+
+(vii) Where there is an undertaking to provide a commitment on an OBS item, banks should apply the lower of the two applicable CCFs.
+
+<span id="page-178-0"></span> <sup>166</sup> Please refer to paragraph 5.15.1.
+
+<span id="page-178-1"></span><sup>167</sup> These correspond to the CCFs of the standardised approach for credit risk under paragraph 5.15.2 (including Table 8), subject to a floor of 10%. The floor of 10% will affect commitments that are unconditionally cancellable at any time by the bank without prior notice, or that effectively provide for automatic cancellation due to deterioration in a borrower's creditworthiness. These may receive a 0% CCF under the risk-based capital framework. For any OBS item not specifically mentioned under paragraph 16.4.5.2, the applicable CCF for that item will be as indicated in the paragraph 5.15.2 above.
+
+(viii) All off-balance sheet securitisation exposures will receive a CCF of 100% conversion factor.
+
+## **16.5 Disclosure and Reporting requirements**
+
+16.5.1 Banks are required to publicly disclose their Basel III leverage ratio on a consolidated basis.
+
+16.5.2 To enable market participants to reconcile leverage ratio disclosures with banks' published financial statements from period to period, and to compare the capital adequacy of banks, it is important that banks adopt a consistent and common disclosure of the main components of the leverage ratio, while also reconciling these disclosures with their published financial statements.
+
+16.5.3 To facilitate consistency and ease of use of disclosures relating to the composition of the leverage ratio, and to mitigate the risk of inconsistent formats undermining the objective of enhanced disclosure, banks shall publish their leverage ratio according to a common set of templates.
+
+16.5.4 The public disclosure requirements include:
+
+- a **summary comparison table** that provides a comparison of banks' total accounting assets amounts and leverage ratio exposures;
+- a **common disclosure template** that provides a breakdown of the
+- main leverage ratio regulatory elements;
+- a **reconciliation requirement** that details the source(s) of material differences between banks' total balance sheet assets in their financial statements and on-balance sheet exposures in the common disclosure template; and
+- **other disclosures** as set out below.
+
+16.5.5 Banks should also report their leverage ratio to the RBI (Department of Banking Supervision) along with detailed calculations of capital and exposure measures on a quarterly basis.
+
+# **16.5.6 Implementation date, frequency and location of disclosure**
+
+16.5.6.1 Banks operating in India are required to make disclosure of the leverage ratio and its components from the date of publication of their first set of financial statements / results on or after April 1, 2015. Accordingly, the first such disclosure was to be made for the quarter ending June 30, 2015.
+
+16.5.6.2 With the exception of the mandatory quarterly frequency requirement in paragraph 16.5.6.3 below, detailed disclosures required according to paragraphs 16.6 must be made by banks, irrespective of whether financial statements are audited, at least on a half yearly basis (i.e. as on September 30 and March 31 of a financial year), along with other Pillar 3 disclosures as required in terms of paragraph 14.9.
+
+16.5.6.3 As the leverage ratio is an important supplementary measure to the risk-based capital requirements, the same Pillar 3 disclosure requirement also applies to the leverage ratio. Therefore, banks, at a minimum, must disclose the following three items on a quarterly basis, irrespective of whether financial statements are audited:
+
+- (i) Tier 1 capital (as per paragraph 16.3);
+- (ii) Exposure measure (as per paragraph 16.4); and
+- (iii) Leverage ratio (as per paragraph 16.2).
+
+At a minimum, these disclosures should be made on a quarter-end basis (i.e., as on June 30, September 30, December 31 and March 31 of a financial year), along with the figures of the prior three quarter-ends.
+
+16.5.6.4 The location of leverage ratio disclosures should be as stipulated for Pillar 3 disclosures in terms of paragraphs 14.9.3 and 14.10. However, specific to leverage ratio disclosures, banks have to make available on their websites, an ongoing archive of all reconciliation templates, disclosure templates and explanatory tables relating to prior reporting periods, instead of an archive for at least three years as required in case of Pillar 3 disclosures.
+
+## **16.6 Disclosure templates**
+
+16.6.1 The summary comparison table (Table: DF-17), common disclosure template (Table: DF-18) and explanatory table, qualitative reconciliation and other requirements are set out in the [Annex 17:](#page-271-0) Pillar 3 disclosure requirements. Together, these ensure transparency between the values used for the calculation of the Basel III leverage ratio and the values used in banks' published financial statements.
+
+# **Part F: C

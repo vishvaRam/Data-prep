@@ -1,0 +1,54 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+# भारतीय ररजर्वबकैं **RESERVE BANK OF INDIA**
+
+![](_page_0_Picture_3.jpeg)
+
+RBI/2024-25/63 DoR.FIN.REC.35/03.10.124/2024-25 August 16, 2024
+
+All Non-Banking Financial Company – Peer to Peer Lending Platforms
+
+Dear Sir/ Madam,
+
+## **Review of Master Direction - Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017**
+
+Please refer to the Master Direction - [Non-Banking Financial Company –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137) Peer to Peer [Lending Platform \(Reserve Bank\) Directions, 2017](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137) (the Directions).
+
+2. The Directions envisaged the Non-Banking Financial Company – Peer to Peer Lending Platform (NBFC-P2P Lending Platform) to act as an intermediary providing online marketplace / platform to the participants involved in peer to peer lending. Accordingly, the Directions had laid down clear guidelines regarding various aspects of functioning of NBFC-P2P Lending Platforms. However, it has been observed that some of these platforms have adopted certain practices which are violative of the said Directions. Such practices include, among others, violation of the prescribed funds transfer mechanism, promoting peer to peer lending as an investment product with features like tenure linked assured minimum returns, providing liquidity options and at times acting like deposit takers and lenders instead of being a platform. Such violations, when observed, have been dealt with bilaterally by the Reserve Bank of India for remediation.
+
+3. In view of the above, it has been decided to elaborate and clarify certain provisions with some modifications for proper implementation of the Directions. The amended provisions of the Directions are enclosed in the [Annex](#page-2-0) to this circular.
+
+4. The amended provisions contained in this circular except item I(f)(ii) of the enclosed Annex shall come into effect immediately. Item I(f)(ii) of the Annex shall be effective from ninety days of the date of this circular.
+
+5. The Master Direction – [Non-Banking Financial Company –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137) Peer to Peer Lending [Platform \(Reserve Bank\) Directions, 2017](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137) stands modified accordingly.
+
+Yours faithfully,
+
+(J.P. Sharma) Chief General Manager
+
+## **Annex**
+
+
+## <span id="page-2-0"></span>I**. Amendment to the existing provisions of the Master Direction (MD)**
+
+
+
+
+## Ⅱ**. New provisions added in the MD**
+
+- (i) Para 6(1)(xi) An NBFC-P2P shall not deploy lenders' funds in any manner other than as specified in these Directions.
+- (ii) Para 6(1)(xii) NBFC-P2P shall not utilize funds of a lender for replacement of any other lender(s).
+- (iii) Para 8(4) The pricing policy shall be objective and NBFC-P2P shall disclose the fees liable to be charged, ab initio, i.e., at the time of lending itself. The fees shall be a fixed amount or a fixed proportion of the principal amount involved in the lending transaction. The fees shall not be dependent upon the repayment by the borrower(s).
+- (iv) Para 8(5) The practice of matching/ mapping the participants within a closed user group, whether sourced through an outsourced agency or otherwise, is not permitted. Examples of 'closed user group' include borrowers/lenders sourced through an affiliate/service provider to the NBFC-P2P.
+- (v) Para 11(4) NBFC-P2P shall explicitly and prominently mention its name (as mentioned in the Certificate of Registration) along with its brand name, if any, in all its touch points/ customer interfaces including promotional material and any communication with stakeholders/ participants.
+- (vi) Para 12(6) The platform shall display a caveat prominently on its website, mobile/web applications including any other promotional material used by it that "It is an NBFC-P2P lending platform registered with the Reserve Bank. However, Reserve Bank does not accept any responsibility for the correctness of any of the statements or representations made or opinions expressed by the NBFC-P2P and does not provide any assurance for repayment of the loans lent on it".
+
+#### **Annex - I of MD**
+
+<span id="page-7-0"></span>![](_page_7_Figure_1.jpeg)
+
+**Funds Transfer Mechanism**
+
+'T' is the date on which the funds are received in the respective Escrow Accounts.

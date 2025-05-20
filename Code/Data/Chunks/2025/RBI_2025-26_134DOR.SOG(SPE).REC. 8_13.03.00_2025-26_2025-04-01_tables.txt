@@ -1,0 +1,59 @@
+|                                                              | …………………………………………………………4<br>CHAPTER –<br>I: PRELIMINARY                                                                                |  |  |  |  |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
+| 1.                                                           | Short Title and Commencement<br>………………………………………………….4                                                                                 |  |  |  |  |
+| 2.                                                           | Objective…………………………………………………………………………….4                                                                                              |  |  |  |  |
+| 3.                                                           | Applicability………………………………………………………………………….4                                                                                           |  |  |  |  |
+| 4.                                                           | Definitions<br>…………………………………………………………………………4                                                                                          |  |  |  |  |
+| ……………………………………………8<br>CHAPTER –<br>II: GENERAL GUIDELINES    |                                                                                                                                       |  |  |  |  |
+| 5.                                                           | Interest Rate Framework<br>………………………………………………………….8                                                                                   |  |  |  |  |
+| …………………………………10<br>CHAPTER –<br>III: DOMESTIC RUPEE DEPOSITS |                                                                                                                                       |  |  |  |  |
+| 6.                                                           | Interest Rate on Domestic Current Account<br>……………………………………10                                                                         |  |  |  |  |
+| 7.                                                           | Interest Rate on Domestic Saving Deposits<br>……………………………………10                                                                         |  |  |  |  |
+| 8.                                                           | Interest Rates on Domestic Term Deposits<br>……………………………………10                                                                          |  |  |  |  |
+| 9.                                                           | Payment of Additional Interest on Domestic Deposits<br>………………………11                                                                    |  |  |  |  |
+| 10.                                                          | Interest on Overdue Domestic Deposits<br>………………………………………13                                                                            |  |  |  |  |
+| 11.                                                          | Floating Rate Domestic Term Deposits<br>…………………………………………13                                                                            |  |  |  |  |
+| 12.                                                          | Periodicity of Payment of Interest on Domestic Savings Deposits<br>…………13                                                             |  |  |  |  |
+| 13.                                                          | Interest Payable on the Domestic Deposit Account of Deceased Depositor13                                                              |  |  |  |  |
+| 14.                                                          | Discretion to Pay Interest on the Minimum Credit Balance in the Composite<br>Cash Credit Account of a Farmer<br>……………………………………………….13 |  |  |  |  |
+| 15.                                                          | Penalty on Premature Withdrawal of Domestic Term Deposit<br>……………….14                                                                 |  |  |  |  |
+|                                                              | ………………………15<br>CHAPTER –<br>IV: RUPEE DEPOSITS OF NON-RESIDENTS                                                                       |  |  |  |  |
+| 16.                                                          | Interest Rates on Rupee Deposits<br>-<br>Non-Residents<br>…………………………15                                                                |  |  |  |  |
+| 17.                                                          | Prohibition on marking lien<br>……………………………………………………….16                                                                               |  |  |  |  |
+| 18.                                                          | Penalty on Premature Withdrawal of NRE Deposits<br>…………………………16                                                                       |  |  |  |  |
+| 19.                                                          | Interest Payable on the NRE Term Deposit of Deceased Depositor<br>………17                                                               |  |  |  |  |
+| CHAPTER –<br>V: FOREIGN CURRENCY DEPOSITS<br>……………………………….18 |                                                                                                                                       |  |  |  |  |
+| 20.                                                          | Foreign Currency Non-Resident (Banks)<br>Accounts<br>……………………………18                                                                    |  |  |  |  |
+
+| 21.                                                            | Manner of Calculation of Interest on FCNR(B) Term Deposits<br>………………19                                                                           |  |  |  |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| 22.                                                            | Calculation of Interest on Renewal of FCNR(B) Term Deposits<br>……………19                                                                           |  |  |  |
+| 23.                                                            | Interest Payable on the Term Deposit of a Deceased FCNR(B) Depositor<br>20                                                                       |  |  |  |
+| 24.                                                            | Payment of Interest on FCNR(B) Term Deposits of NRIs on Return to India20                                                                        |  |  |  |
+| 25.                                                            | Conversion of FCNR(B) Accounts of Returning Indians into RFC Accounts/<br>Resident Rupee Accounts<br>-<br>Payment<br>of Interest<br>…………………………21 |  |  |  |
+| 26.                                                            | Premature Withdrawal of Deposits<br>……………………………………………21                                                                                          |  |  |  |
+| 27.                                                            | Penalty on Premature Withdrawal of Deposits<br>…………………………………21                                                                                   |  |  |  |
+| 28.                                                            | Resident Foreign Currency Accounts<br>…………………………………………22                                                                                         |  |  |  |
+| …………………………….23<br>CHAPTER –<br>VI: PROHIBITIONS AND EXEMPTIONS |                                                                                                                                                  |  |  |  |
+| 29.                                                            | Prohibitions<br>………………………………………………………………………23                                                                                                    |  |  |  |
+| 30.                                                            | Exemptions<br>………………………………………………………………………24                                                                                                      |  |  |  |
+|                                                                | SCHEDULE-<br>I<br>……………………………………………………………………26                                                                                                   |  |  |  |
+| CHAPTER –<br>VII: REPEAL AND OTHER PROVISIONS<br>…………………………27  |                                                                                                                                                  |  |  |  |
+| 31.                                                            | List of Circulars/ Directions<br>………………………………………………………….27                                                                                       |  |  |  |
+
+| Period of Deposit           | Ceiling Rate                                       |
+|-----------------------------|----------------------------------------------------|
+| 1 year to less than 3 years | Overnight ARR<br>for the respective currency/ Swap |
+|                             | plus 250 basis points                              |
+| 3 years and above upto and  | Overnight ARR<br>for the respective currency/ Swap |
+| including<br>5 years        | plus 350 basis points                              |
+
+| Sl. No. | Circular/                  | Date       | Subject                                      |
+|---------|----------------------------|------------|----------------------------------------------|
+|         | Master Direction No.       |            |                                              |
+| 1.      | DBR.Dir.No.84/13.03.00/201 | 03.03.2016 | Master Direction - Reserve Bank of India     |
+|         | 5-16                       |            | (Interest Rate on Deposits) Directions, 2016 |
+| 2.      | DCBR.Dir.No.1/13.01.000/2  | 12.05.2016 | Master Direction - Reserve Bank of India     |
+|         | 015-16                     |            | (Co-operative Banks - Interest Rate on       |
+|         |                            |            | Deposits) Directions, 2016                   |
+|         |                            |            |                                              |

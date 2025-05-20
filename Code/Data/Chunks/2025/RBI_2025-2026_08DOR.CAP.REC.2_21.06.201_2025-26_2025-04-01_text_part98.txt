@@ -1,0 +1,53 @@
+discretionary repurchases / buy backs or other means of effectively reducing capital in a discretionary manner that is allowable under relevant law as well as guidelines, if any, issued by RBI in the matter).
+
+5. The bank does nothing to create an expectation at issuance that the instrument will be bought back, redeemed or cancelled nor do the statutory or contractual terms provide any feature which might give rise to such an expectation.
+
+6. Distributions are paid out of distributable items. The level of distributions is not in any way tied or linked to the amount paid up at issuance and is not subject to a contractual cap (except to the extent that a bank is unable to pay distributions that exceed the level of distributable items). As regards 'distributable items', it is clarified that the dividend on common shares will be paid out of current year's profit only.
+
+7. There are no circumstances under which the distributions are obligatory. Non-payment is therefore not an event of default.
+
+8. Distributions are paid only after all legal and contractual obligations have been met and payments on more senior capital instruments have been made. This means that there are no preferential distributions, including in respect of other elements classified as the highest quality issued capital.
+
+9. It is the paid-up capital that takes the first and proportionately greatest share of any losses as they occur[172](#page-185-0). Within the highest quality capital, each instrument absorbs losses on a going concern basis proportionately and *pari passu* with all the others.
+
+10. The paid up amount is classified as equity capital (i.e. not recognised as a liability) for determining balance sheet insolvency.
+
+11. The paid up amount is classified as equity under the relevant accounting standards.
+
+12. It is directly issued and paid up and the bank cannot directly or indirectly have funded the purchase of the instrument[173](#page-185-1). Banks should also not extend loans against their own shares.
+
+13. The paid up amount is neither secured nor covered by a guarantee of the issuer or related entity[174](#page-185-2) nor subject to any other arrangement that legally or economically enhances the seniority of the claim.
+
+14. Paid up capital is only issued with the approval of the owners of the issuing bank, either given directly by the owners or, if permitted by applicable law, given by the Board of Directors or by other persons duly authorised by the owners.
+
+15. Paid up capital is clearly and separately disclosed in the bank's balance sheet.
+
+<span id="page-185-0"></span> <sup>172</sup> In cases where capital instruments have a permanent write-down feature, this criterion is still deemed to be met by common shares.
+
+<span id="page-185-1"></span><sup>173</sup> Banks should not grant advances against its own shares as this would be construed as indirect funding of its own capital.
+
+<span id="page-185-2"></span><sup>174</sup> A related entity can include a parent company, a sister company, a subsidiary or any other affiliate. A holding company is a related entity irrespective of whether it forms part of the consolidated banking group.
+
+#### **Annex 2**
+
+(cf. para 4.2.3.2)
+
+### <span id="page-186-0"></span>**Criteria for Classification as Common Equity for Regulatory Purposes – Foreign Banks**
+
+1. Represents the most subordinated claim in liquidation of the Indian operations of the bank.
+
+2. Entitled to a claim on the residual assets which is proportional to its share of paid up capital, after all senior claims have been repaid in liquidation (i.e. has an unlimited and variable claim, not a fixed or capped claim).
+
+3. Principal is perpetual and never repaid outside of liquidation (except with the approval of RBI).
+
+4. Distributions to the Head Office of the bank are paid out of distributable items. The level of distributions is not in any way tied or linked to the amount paid up at issuance and is not subject to a contractual cap (except to the extent that a bank is unable to pay distributions that exceed the level of distributable items). As regards 'distributable items', it is clarified that: the dividend on common shares/ equity will be paid out of current year's profit only.
+
+5. Distributions to the Head Office of the bank are paid only after all legal and contractual obligations have been met and payments on more senior capital instruments have been made. This means that there are no preferential distributions, including in respect of other elements classified as the highest quality issued capital.
+
+6. This capital takes the first and proportionately greatest share of any losses as they occur[175](#page-186-1).
+
+7. It is clearly and separately disclosed in the bank's balance sheet.
+
+<span id="page-186-1"></span> <sup>175</sup> In cases where capital instruments have a permanent write-down feature, this criterion is still deemed to be met by common shares
+
+# <span id="page-187-0"></span>**Criteria for Inclusion of Perpetual Non-c

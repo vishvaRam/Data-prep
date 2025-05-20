@@ -1,0 +1,26 @@
+ value may be credited to the 'Suspense Account – Positive MTM', not to P&L Account. The subsequent decline in MTM value may be adjusted against the balance in 'Suspense Account – Positive MTM'. If the balance in this account is not sufficient, the remaining amount may be debited to the P&L Account. On payment of the overdues in cash, the balance in the 'Suspense Account-Crystallised Receivables' may be transferred to the 'Profit and Loss Account', to the extent payment is received.
+- f) If the bank has other derivative exposures on the borrower, it follows that the MTMs of other derivative exposures should also be dealt with / accounted for in the manner as described in sub-paragraph (e) above, subsequent to the crystallised/settlement amount in respect of a particular derivative transaction being treated as NPA.
+- g) Similarly, in case a fund-based credit facility extended to a borrower is classified as NPA, the MTMs of all the derivative exposures should be treated in the manner discussed above.
+
+## 4.2.8 Advances under consortium arrangements
+
+Asset classification of accounts under consortium should be based on the record of recovery of the individual member banks and other aspects having a bearing on the recoverability of the advances. Where the remittances by the borrower under consortium lending arrangements are pooled with one bank and/or where the bank receiving remittances is not parting with the share of other member banks, the account will be treated as not serviced in the books of the other member banks and therefore, be treated as NPA. The banks participating in the consortium should, therefore, arrange to get their share of recovery transferred from the lead bank or get an express consent from the lead bank for the transfer of their share of recovery, to ensure proper asset classification in their respective books.
+
+4.2.9 Accounts where there is erosion in the value of security/frauds committed by borrowers
+
+4.2.9.1 In respect of accounts where there are potential threats for recovery on account of erosion in the value of security or non-availability of security and existence of other factors such as frauds committed by borrowers it will not be prudent that such accounts should go through various stages of asset classification. In cases of such serious credit impairment, the asset should be straightaway classified as doubtful or loss asset as appropriate:
+
+- a) Erosion in the value of security can be reckoned as significant when the realisable value of the security is less than 50 per cent of the value assessed by the bank or accepted by RBI at the time of last inspection, as the case may be. Such NPAs may be straightaway classified under doubtful category.
+- b) If the realisable value of the security, as assessed by the bank/ approved valuers/ RBI is less than 10 per cent of the outstanding in the borrowal accounts, the existence of security should be ignored and the asset should be straightaway classified as loss asset.
+
+#### 4.2.9.2 Provisioning norms in respect of all cases of fraud
+
+a) Banks should normally provide for the entire amount due to the bank or for which the bank is liable (including in case of deposit accounts), immediately upon a fraud being detected. While computing the provisioning requirement, banks may adjust financial collateral eligible under Basel III Capital Regulations - Capital Charge for Credit Risk (Standardised Approach), if any, available with them with regard to the accounts declared as fraud account;
+
+- b) However, to smoothen the effect of such provisioning on quarterly profit and loss, banks have the option to make the provisions over a period, not exceeding four quarters, commencing from the quarter in which the fraud has been detected;
+- c) Where the bank chooses to provide for the fraud over two to four quarters and this results in the full provisioning being made in more than one financial year, banks should debit 'other reserves' [i.e., reserves other than the one created in terms of Section 17(2) of the Banking Regulation Act 1949] by the amount remaining un-provided at the end of the financial year by credit to provisions. However, banks should proportionately reverse the debits to 'other reserves' and complete the provisioning by debiting profit and loss account, in the subsequent quarters of the next financial year;
+- d) Banks shall make suitable disclosures with regard to number of frauds reported, amount involved in such frauds, quantum of provision made during the year and quantum of unamortised provision debited from 'other reserves' as at the end of the year.
+
+4.2.10 Advances to Primary Agricultural Credit Societies (PACS)/Farmers' Service Societies (FSS) ceded to Commercial Banks
+
+In respect of agricultural advances as well as advances for other purposes granted by banks to PACS/ FSS under the on-lending system, only that particular credit facility granted to PACS/ FSS which is in default for a period of two crop seasons in case of short dura

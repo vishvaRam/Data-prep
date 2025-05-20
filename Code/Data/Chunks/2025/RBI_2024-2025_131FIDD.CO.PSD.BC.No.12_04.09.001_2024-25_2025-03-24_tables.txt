@@ -1,0 +1,4 @@
+| S.<br>No. | Type of PSLCs | Representing                                           | Counting for                                                                                                                             |
+|-----------|---------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 2.        | PSLC - SF/MF  | All eligible loans to<br>small/<br>marginal<br>farmers | Achievement<br>of<br>SF/MF<br>sub-target,<br>Weaker Sections sub-target, NCF sub<br>target, agriculture target and overall<br>PSL target |
+

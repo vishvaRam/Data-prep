@@ -1,0 +1,44 @@
+unted by other banks and bills discounted by banks which have been accepted by another bank will be treated as a funded claim on a bank.
+
+In all the above cases banks should be fully satisfied that the risk exposure is in fact on the other bank. If they are satisfied that the exposure is on the other bank they shall assign these exposures the risk weight applicable to banks as detailed in paragraph 5.6.
+
+(vi) Issue of Irrevocable Payment Commitment by banks to various Stock Exchanges on behalf of Mutual Funds and FIIs is a financial guarantee with a Credit Conversion Factor (CCF) of 100. However, capital will have to be maintained only on exposure which is reckoned as CME, i.e. 50% of the amount, because the rest of the exposure is deemed to have been covered by cash/securities which are admissible risk mitigants as per capital adequacy
+
+<span id="page-50-0"></span> <sup>58</sup> However, this will be subject to banks demonstrating that they are actually able to cancel any undrawn commitments in case of deterioration in a borrower's credit worthiness failing which the credit conversion factor applicable to such facilities which are not cancellable will apply. Banks' compliance to these guidelines will be assessed under Supervisory Review and Evaluation Process under Pillar 2 of RBI.
+
+<span id="page-50-1"></span><sup>59</sup> Please refer to th[e circular DBR.BP.BC.No.12/21.04.048/2018-19 dated December 5, 2018](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11428&Mode=0) on 'Guidelines on Loan System for Delivery of Bank Credit'.
+
+framework. Thus, capital is to be maintained on the amount taken for CME and the risk weight would be 125% thereon.
+
+(vii) For classification of banks guarantees[60](#page-51-0) viz. direct credit substitutes and transaction-related contingent items etc. (Sr. No. 1 and 2 of Table 8 above), the following principles should be kept in view for the application of CCFs:
+
+(a) Financial guarantees are direct credit substitutes wherein a bank irrevocably undertakes to guarantee the repayment of a contractual financial obligation. Financial guarantees essentially carry the same credit risk as a direct extension of credit i.e., the risk of loss is directly linked to the creditworthiness of the counterparty against whom a potential claim is acquired. An indicative list of financial guarantees, attracting a CCF of 100 per cent is as under:
+
+- Guarantees for credit facilities;
+- Guarantees in lieu of repayment of financial securities;
+- Guarantees in lieu of margin requirements of exchanges;
+- Guarantees for mobilisation advance, advance money before the commencement of a project and for money to be received in various stages of project implementation;
+- Guarantees towards revenue dues, taxes, duties, levies etc. in favour of Tax/ Customs / Port / Excise Authorities and for disputed liabilities for litigation pending at courts;
+- Credit Enhancements;
+- Liquidity facilities for securitisation transactions;
+- Acceptances (including endorsements with the character of acceptance);
+- Deferred payment guarantees.
+
+(b) Performance guarantees are essentially transaction-related contingencies that involve an irrevocable undertaking to pay a third party in the event the counterparty fails to fulfil or perform a contractual non-financial obligation. In such transactions, the risk of loss depends on the event which need not necessarily be related to the creditworthiness of the counterparty involved. An indicative list of performance guarantees, attracting a CCF of 50 per cent is as under:
+
+- Bid bonds;
+- Performance bonds and export performance guarantees;
+- Guarantees in lieu of security deposits / earnest money deposits (EMD) for participating in tenders;
+- Retention money guarantees;
+- Warranties, indemnities and standby letters of credit related to particular transaction.
+
+<span id="page-51-0"></span> <sup>60</sup> Please refer to th[e circular DBOD.No.BP.BC.89 /21.04.009 /2012-13 dated April 02, 2013](https://rbi.org.in/scripts/NotificationUser.aspx?Id=7924&Mode=0) on 'New Capital Adequacy Framework- Non-market related Off Balance Sheet Items- Bank Guarantees'.
+
+### **5.15.3 Treatment of Total Counterparty Credit Risk**
+
+5.15.3.1 The total capital charge for counterparty credit risk will cover the default risk as well as credit migration risk of the counterparty reflected in mark-to-market losses on the expected counterparty risk (such losses being known as credit value adjustments, CVA). Counterparty risk may arise in the context of OTC derivatives and Securities Financing Transactions. Such instruments generally exhibit the following abstract characteristics:
+
+- The transactions generate a current exposure or market value.
+- The transactions have an associated random future market value based on market variables.
+- The transactions generate an exchange of payments or an exchange of a financial instrument against payment.
+- Collateral may be used to mitigate risk exposure and is inherent in

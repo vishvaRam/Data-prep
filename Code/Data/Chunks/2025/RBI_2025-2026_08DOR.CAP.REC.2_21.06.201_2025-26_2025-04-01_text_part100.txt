@@ -1,0 +1,33 @@
+uity Tier 1 of 8% of RWAs (including capital conservation buffer of 2.5% of RWAs) and Total Capital of 11.5% of RWAs including any additional capital requirement identified under Pillar 2.
+
+supervisory approval will be given (this repurchase / buy-back /redemption of the principal is in a situation other than in the event of exercise of call option by the bank. One of the major differences is that in the case of the former, the option to offer the instrument for repayment on announcement of the decision to repurchase / buy-back /redeem the instrument, would lie with the investors whereas, in case of the latter, it lies with the bank).
+
+- (ii) Banks may repurchase / buy-back / redeem the instruments only if:
+	- (a) They replace such instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank; or
+	- (b) The bank demonstrates that its capital position is well above the minimum capital requirements after the repurchase / buy-back / redemption.
+
+### **1.8 Dividend Discretion**
+
+- (i) The bank must have full discretion at all times to cancel distributions/payments[179](#page-189-0);
+- (ii) Cancellation of discretionary payments must not be an event of default;
+
+(iii) Banks must have full access to cancelled payments to meet obligations as they fall due;
+
+(iv) Cancellation of distributions/payments must not impose restrictions on the bank except in relation to distributions to common stakeholders; and
+
+(v) Dividends must be paid out of distributable items only. As regards 'distributable items', it is clarified that the dividend on perpetual non-cumulative preference shares (PNCPS) will be paid out of current year's profit only.
+
+*Note: As provided in clause 13(d) of Master Direction - [Classification, Valuation and](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Operation of Investment Portfolio of Commercial Banks \(Directions\), 2023 dated September](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [12, 2023,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) the unrealised gains transferred to AFS-Reserve shall not be available for any distribution such as dividend and coupon on Additional Tier 1. Further, clause 28 and 41 of the Directions ibid provide that banks shall not pay dividends out of net unrealised gains recognised in the Profit and Loss Account arising on fair valuation of Level 3 financial instruments on their Balance Sheet.*
+
+(vi) The dividend shall not be cumulative. i.e., dividend missed in a year will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory
+
+<span id="page-189-0"></span> <sup>179</sup> Consequence of full discretion at all times to cancel distributions / payments is that "dividend pushers" are prohibited. An instrument with a dividend pusher obliges the issuing bank to make a dividend/coupon payment on the instrument if it has made a payment on another (typically more junior) capital instrument or share. This obligation is inconsistent with the requirement for full discretion at all times. Furthermore, the term "cancel distributions/payments" means extinguish these payments. It does not permit features that require the bank to make distributions/payments in kind.
+
+minimum. When dividend is paid at a rate lesser than the prescribed rate, the unpaid amount will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+
+(vii) The instrument cannot not have a credit sensitive coupon feature, i.e., a dividend that is reset periodically based in whole or in part on the banks' credit standing. For this purpose, any reference rate including a broad index which is sensitive to changes to the bank's own creditworthiness and / or to changes in the credit worthiness of the wider banking sector will be treated as a credit sensitive reference rate. Banks desirous of offering floating reference rate may take prior approval of the RBI (DOR) as regard permissibility of such reference rates.
+
+(viii) In general, it may be in order for banks to have dividend stopper arrangement that stop dividend payments on common shares in the event the holders of AT1 instruments are not paid dividend/coupon. However, dividend stoppers must not impede the full discretion that bank must have at all times to cancel distributions/payments on the Additional Tier 1 instrument, nor must they act in a way that could hinder the re-capitalisation of the bank. For example, it would not be permitted for a stopper on an Additional Tier 1 instrument to:
+
+- attempt to stop payment on another instrument where the payments on this other instrument were not also fully discretionary;
+- prevent distributions to shareholders for a period that extends beyond the point in time that dividends/coupons on the Additional Tier 1 instrument are resumed;

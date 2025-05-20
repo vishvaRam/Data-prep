@@ -1,0 +1,55 @@
+bject to the conditions prescribed in the [circular no. DOR.CRE.REC.47/21.01.003/2021-22 dated September](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12160&Mode=0)  [09, 2021](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12160&Mode=0) on 'Large Exposures Framework – Credit Risk Mitigation (CRM) for offsetting – non-centrally cleared derivative transactions of foreign bank branches in India with their Head Office'[88](#page-81-0).
+
+### 7.3.6 **Calculation of capital requirement**
+
+For a collateralised transaction, the exposure amount after risk mitigation is calculated as follows:
+
+<span id="page-81-0"></span> <sup>88</sup> As mentioned in the referenced circular, the amount so held shall not be included in regulatory capital. (i.e., no double counting of the fund placed under Section 11(2) as both capital and CRM). Accordingly, while assessing the capital adequacy of a bank, the amount will form part of regulatory adjustments made to Common Equity Tier 1 Capital.
+
+$$\mathsf{E}^\* = \mathsf{max} \left\{ \mathsf{0}, \left[ \mathsf{E} \ge (\mathsf{1} + \mathsf{H}\_{\mathsf{e}}) \cdot \mathsf{C} \ge (\mathsf{1} - \mathsf{H}\_{\mathsf{e}} \cdot \mathsf{H}\_{\mathsf{f}}) \right] \right\}$$
+
+where:
+
+E\* = the exposure value after risk mitigation
+
+E = current value of the exposure for which the collateral qualifies as a risk mitigant
+
+He = haircut appropriate to the exposure
+
+C = the current value of the collateral received
+
+Hc = haircut appropriate to the collateral
+
+Hfx = haircut appropriate for currency mismatch between the collateral and exposure
+
+The exposure amount after risk mitigation (i.e., E\*) will be multiplied by the risk weight of the counterparty to obtain the risk-weighted asset amount for the collateralised transaction. Illustrative examples calculating the effect of Credit Risk Mitigation is furnished in **[Annex 8.](#page-228-0)** 
+
+#### 7.3.7 **Haircuts**
+
+- (i) In principle, banks have two ways of calculating the haircuts: (i) standard supervisory haircuts, using parameters set by the Basel Committee, and (ii) own-estimate haircuts, using banks' own internal estimates of market price volatility. Banks in India shall use only the standard supervisory haircuts for both the exposure as well as the collateral.
+- (ii) The Standard Supervisory Haircuts (assuming daily mark-to-market, daily re-margining and a 10 business-day holding period)[89](#page-82-0), expressed as percentages, would be as furnished in Table 12.
+- (iii) The ratings indicated in Table 12 represent the ratings assigned by the domestic rating agencies. In the case of exposures toward debt securities issued by foreign Central Governments and foreign corporates, the haircut may be based on ratings of the international rating agencies, as indicated in Table 13.
+- (iv) Sovereign will include Reserve Bank of India and DICGC which are eligible for zero per cent risk weight. Guarantees issued by CGTMSE, CRGFTLIH and individual schemes under National Credit Guarantee Trustee Company Ltd. (NCGTC) which are backed by explicit Central Government Guarantee shall also be included under Sovereign.
+- (v) Banks may apply a zero haircut for eligible collateral where it is a National Savings Certificate, Kisan Vikas Patras, surrender value of insurance policies and banks' own deposits.
+
+<span id="page-82-0"></span> <sup>89</sup> Holding period will be the time normally required by the bank to realise the value of the collateral.
+
+(vi) The standard supervisory haircut for currency risk where exposure and collateral are denominated in different currencies is eight per cent (also based on a 10-business day holding period and daily mark-to-market).
+
+# **Table 12: Standard Supervisory Haircuts for Sovereign and other securities which constitute Exposure and Collateral**
+
+
+<span id="page-83-0"></span> <sup>90</sup> Including those backed by securities issued by foreign sovereigns and foreign corporates.
+
+
+
+- (vii) For transactions in which banks' exposures are unrated or bank lends non-eligible instruments (i.e. non-investment grade corporate securities), the haircut to be applied on a exposure should be 25 per cent. (Since, at present, the repos are allowed only in the case of Government securities, banks are not likely to have any exposure which will attract the provisions of this clause. However, this would be relevant, if in future, repos/security lending transactions are permitted in the case of unrated corporate securities).
+- (viii) Where the collateral is a basket of assets, the haircut on the basket will be,
+
+$$H = \sum\_{i} aH\_{i}$$
+
+where ai is the weight of the asset (as measured by the amount/value of the asset in units of currency) in the basket and Hi, the haircut applicable to that asset.
+
+(ix) Adjustment for different holding periods:
+
+For some transactions, depending on the nature and frequency of the revaluation and remargining provisions, different holding periods (other than 10 business-days) are appropriate. Th

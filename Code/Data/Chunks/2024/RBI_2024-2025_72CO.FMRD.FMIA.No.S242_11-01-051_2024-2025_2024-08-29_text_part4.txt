@@ -1,0 +1,44 @@
+on a T+0 settlement basis so as to close out any open securities position.
+
+### **C. Settlement process**
+
+# **(i) Transactions between two investors or between an investor and an eligible IBU**
+
+- **I.** Transactions between two investors or between an investor and an eligible IBU shall be settled as per the clearing arrangement approved by the IFSCA, as per the rules and procedures as may be specified by the IFSCA.
+- **II.** Settlement of securities in case of the above transactions shall take place in the books of the authorised depository. The fund leg of such transactions shall be settled in foreign currency.
+- **(ii) Transactions between an eligible IBU and its parent bank / branch or subsidiary in India of its parent bank**
+- **I.** Transactions between an IBU of an Indian bank with its parent bank and between an IBU of a foreign bank with the branch or subsidiary in India of its parent bank shall be settled on bilateral basis.
+- **II.** The transfer of securities in case of the above transactions shall be facilitated by the Clearing Corporation of India Limited (CCIL) from / to the SGL account of parent bank or branch / subsidiary of parent bank in India to / from the CSGL account of the authorised depository.
+- **III.** The fund leg in case of such transactions shall be settled in foreign currency.
+
+# **9. Coupon payment and redemption**
+
+**(a)** All coupon payments and redemption proceeds in respect of the securities held in the CSGL account of the authorised depository shall be credited to the current account of the authorised depository maintained with the Reserve Bank on the due date. The authorised depository, in turn, shall credit the coupon and redemption proceeds to the accounts of the investors on the same day / for the same value date, after deduction of applicable taxes.
+
+**(b)** Under exceptional circumstances, as determined by IFSCA, the authorised depository may credit the coupon and redemption proceeds to the accounts of the investors on the next working day. The credit of the coupon and redemption proceeds to the accounts of the investors on a date later than the due date will be subject to a specific agreement in this regard entered into by the authorised depository with the investors and will be without recourse to the Government of India or the Reserve Bank.
+
+### **10.Other conditions**
+
+**(a)** Investors shall not be permitted to repackage or write any derivative instrument on underlying securities held by them under the Scheme. Investors shall also not be permitted to undertake repo transactions in such securities.
+
+**(b)** Investors which are also eligible to participate in the domestic market shall not be permitted to shift their securities to / from their onshore gilt / demat account from / to their demat / securities account in the IFSC.
+
+# **11.Guidelines for Know Your Customer (KYC) / Anti-Money Laundering (AML)**
+
+The KYC verification / due diligence of investors shall be undertaken as per the rules and procedures prescribed by the IFSCA.
+
+#### **12. Data management**
+
+**(a)** All data relating to activities / transactions under this Scheme shall be maintained by the authorised depository and authorised clearing corporation(s) in easily retrievable media for at least ten years from the date of transaction. Without prejudice to the minimum requirement for storage of data, the data sought for any examination by the Reserve Bank or any other authority as required under Indian laws or regulations shall be maintained for three years from the date of completion of the investigation.
+
+**(b)** The authorised depository and the authorised clearing corporation(s) shall ensure strict confidentiality, privacy and security of all data.
+
+**(c)** The authorised depository and the authorised clearing corporation(s) shall ensure adherence to any other law or regulations regarding preservation and protection of data notified from time to time.
+
+### **13.Reporting requirements**
+
+**(a)** All secondary market transactions between eligible participants in IFSC shall be reported by the authorised depository and / or authorised clearing corporation(s) to CCIL or any other agency as may be specified by the Reserve Bank in the manner and format specified by the Reserve Bank. The authorised depository and/or the authorised clearing corporation(s) shall report such transactions at the earliest and no later than three hours after the close of trading hours for the securities.
+
+**(b)** Transactions between an IBU of an Indian bank with its parent bank and between an IBU of a foreign bank with the branch or subsidiary in India of its parent bank shall be reported by the Indian bank or the branch or subsidiary in India of the foreign bank to CCIL or any other agency as may be specified by the Reserve Bank in the manner and format specified by the Reserve Bank. Such transactions shall be reported at the earliest and no later than three hours after the close of trading hours for the securities.
+
+**(c)**

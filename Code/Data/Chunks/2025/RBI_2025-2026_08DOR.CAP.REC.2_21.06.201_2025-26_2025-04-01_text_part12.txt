@@ -1,0 +1,44 @@
+ corresponding deduction approach i.e., all deductions will be made from the Common Equity Tier 1 capital even though, the investments of such entities are in the Additional Tier 1 / Tier 2 capital of the investing banks.
+
+(iii) Application of these rules at consolidated level would mean deduction of subsidiaries' investments in their own shares (direct or indirect) in addition to bank's direct or indirect investments in its own shares while computing consolidated Common Equity Tier 1.
+
+# **4.4.9 Investments in the Capital of Banking, Financial and Insurance Entities[19](#page-25-1)**
+
+# **4.4.9.1 Limits on a Bank's Investments in the Capital of Banking, Financial and Insurance Entities**
+
+(i) A bank's investment in the capital instruments issued by banking, financial and insurance entities is subject to the following limits:
+
+(a) A bank's investments in the **capital instruments** issued by banking, financial and insurance entities should not exceed 10% of its **capital funds**, but after all deductions mentioned in paragraph 4 (upto paragraph 4.4.8).
+
+(b) A bank's acquisition of share capital or voting rights in a banking company shall be guided by the [Master Direction and Guidelines on Acquisition and Holding of Shares or Voting rights](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12439)  [in Banking Companies dated January 16, 2023,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12439) as amended from time to time.
+
+(c) Prudential Regulations for Banks' Investments shall be as prescribed in [Master Direction-](https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10425)[Reserve Bank of India \(Financial Services provided by Banks\) Directions, 2016](https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10425) dated May 16, 2016, as amended from time to time.
+
+(ii) An indicative list of institutions which may be deemed to be financial institutions other than banks and insurance companies for capital adequacy purposes is as under:
+
+- Asset Management Companies of Mutual Funds / Venture Capital Funds / Private Equity Funds etc;
+- Non-Banking Finance Companies;
+- Housing Finance Companies;
+- Primary Dealers;
+- Merchant Banking Companies;
+
+<span id="page-25-0"></span> <sup>18</sup> In terms of Securities and Exchange Board of India (Mutual Funds) Regulations 1996, no mutual fund under all its schemes should own more than ten per cent of any company's paid up capital carrying voting rights.
+
+<span id="page-25-1"></span><sup>19</sup> These rules will be applicable to a bank's equity investments in other banks and financial entities, even if such investments are exempted from 'capital market exposure' limit.
+
+- Entities engaged in activities which are ancillary to the business of banking under the B.R. Act, 1949; and
+- Central Counterparties (CCPs).
+
+(iii) Investments made by a banking subsidiary/ associate in the equity or non- equity regulatory capital instruments issued by its parent bank should be deducted from such subsidiary's regulatory capital following corresponding deduction approach, in its capital adequacy assessment on a solo basis. The regulatory treatment of investment by the non-banking financial subsidiaries / associates in the parent bank's regulatory capital would, however, be governed by the applicable regulatory capital norms of the respective regulators of such subsidiaries / associates.
+
+# **4.4.9.2 Treatment of a Bank's Investments in the Capital Instruments Issued by Banking, Financial and Insurance Entities within Limits**
+
+The investment of banks in the regulatory capital instruments of other financial entities contributes to the inter-connectedness amongst the financial institutions. In addition, these investments also amount to double counting of capital in the financial system. Therefore, these investments have been subjected to stringent treatment in terms of deduction from respective tiers of regulatory capital. A schematic representation of treatment of banks' investments in capital instruments of financial entities is shown in **Figure 1** below. Accordingly, all investments[20](#page-26-0) in the capital instruments issued by banking, financial and insurance entities within the limits mentioned in **paragraph 4.4.9.1** will be subject to the following rules:
+
+<span id="page-26-0"></span> <sup>20</sup> For this purpose, investments may be reckoned at values according to their classification in terms of [Master](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  Direction - [Classification, Valuation and Operation of Investment Portfolio of Commercial Banks \(Directions\), 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)
+
+![](_page_27_Figure_0.jpeg)
+
+#### **(A) Reciprocal Cross- Holdings in the Capital of Banking, Financial and Insurance Entities**
+
+Reciprocal cross holdings of capital might result in artificia

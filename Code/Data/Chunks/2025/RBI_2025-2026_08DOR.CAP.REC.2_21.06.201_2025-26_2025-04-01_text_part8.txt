@@ -1,0 +1,41 @@
+ loss absorbency as indicated in **[Annex 5,](#page-205-0) [6](#page-212-0) and [15](#page-259-0)**. Criteria for inclusion of Debt Capital Instruments as Tier 2 capital are furnished in **[Annex 5](#page-205-0)**. Criteria for inclusion of Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) as part of Tier 2 capital are furnished in **[Annex 6.](#page-212-0) [Annex 15](#page-259-0)** contains criteria for loss absorption through conversion / writeoff of all non-common equity regulatory capital instruments at the point of non-viability.
+
+# **4.2.5.2 Tier 2 Capital – Foreign Banks' Branches**
+
+# *A. Elements of Tier 2 Capital*
+
+Elements of Tier 2 capital in case of foreign banks' branches will be as under:
+
+(i) General Provisions and Loss Reserves (as detailed in paragraph 4.2.5.1.A.(i) above);
+
+(ii) Head Office (HO) borrowings in foreign currency received as part of Tier 2 debt capital; and
+
+(iii) Less: Regulatory adjustments / deductions applied in the calculation of Tier 2 capital [i.e., to be deducted from the sum of items (i) and (iii)].
+
+# *B. Criteria for Classification as Tier 2 Capital for Regulatory Purposes*
+
+Criteria for inclusion of Head Office (HO) borrowings in foreign currency received as part of Tier 2 debt Capital for foreign banks are furnished in **[Annex 5](#page-205-0) and [Annex 15](#page-259-0)**.
+
+# **4.3 Recognition of Minority Interest (i.e., Non-Controlling Interest) and Other Capital Issued out of Consolidated Subsidiaries that is Held by Third Parties**
+
+4.3.1 Under Basel III, the minority interest is recognised only in cases where there is considerable explicit or implicit assurance that the minority interest which is supporting the risks of the subsidiary would be available to absorb the losses at the consolidated level. Accordingly, the portion of minority interest which supports risks in a subsidiary that is a bank will be included in group's Common Equity Tier 1. Consequently, minority interest in the subsidiaries which are not banks will not be included in the regulatory capital of the group. In other words, the proportion of surplus capital which is attributable to the minority shareholders would be excluded from the group's Common Equity Tier 1 capital. Further, under Basel III, the minority interest in relation to other components of regulatory capital will also be recognised.
+
+# 4.3.2 **Treatment of Minority Interest Corresponding to Common Shares Issued by Consolidated Subsidiaries**
+
+Minority interest arising from the issue of common shares by a fully consolidated subsidiary of the bank may receive recognition in Common Equity Tier 1 capital only if: (a) the instrument giving rise to the minority interest would, if issued by the bank, meet all of the criteria for classification as common shares for regulatory capital purposes as stipulated in **[Annex 1](#page-184-0)**; and (b) the subsidiary that issued the instrument is itself a bank[15](#page-19-0). The amount of minority interest meeting the criteria above that will be recognised in consolidated Common Equity Tier 1 capital will be calculated as follows:
+
+(i) Total minority interest meeting the two criteria above minus the amount of the surplus Common Equity Tier 1 capital of the subsidiary attributable to the minority shareholders.
+
+(ii) Surplus Common Equity Tier 1 capital of the subsidiary is calculated as the Common Equity Tier 1 of the subsidiary minus the lower of: (a) the minimum Common Equity Tier 1 capital requirement of the subsidiary plus the capital conservation buffer (i.e. 8.0% of risk weighted assets) and (b) the portion of the consolidated minimum Common Equity Tier 1 capital requirement plus the capital conservation buffer (i.e. 8.0% of consolidated risk weighted assets) that relates to the subsidiary.
+
+(iii) The amount of the surplus Common Equity Tier 1 capital that is attributable to the minority shareholders is calculated by multiplying the surplus Common Equity Tier 1 by the percentage of Common Equity Tier 1 that is held by minority shareholders.
+
+# 4.3.3 **Treatment of Minority Interest Corresponding to Tier 1 Qualifying Capital Issued by Consolidated Subsidiaries**
+
+Tier 1 capital instruments issued by a fully consolidated subsidiary of the bank to third party investors (including amounts under paragraph 4.3.2) may receive recognition in Tier 1 capital only if the instruments would, if issued by the bank, meet all of the criteria for classification as Tier 1
+
+<span id="page-19-0"></span> <sup>15</sup>For the purposes of this paragraph, All India Financial Institutions, Non-banking Financial Companies regulated by RBI and Primary Dealers will be considered to be a bank
+
+capital. The amount of this capital that will be recognised in Tier 1 capital will be calculated as follows:
+
+(i) Total Tier 1 capital of the subsidiary issued to third parties minus the amount of the surplus Tier 1 capital of t

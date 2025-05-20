@@ -1,0 +1,51 @@
+rigger and of all non-common equity regulatory capital instruments at the point of non-viability.
+
+# **4.2.4.2 Elements and Criteria for Additional Tier 1 Capital – Foreign Banks' Branches**
+
+Various elements and their criteria for inclusion in the Additional Tier 1 capital are as follows:
+
+(i) Head Office borrowings in foreign currency by foreign banks operating in India for inclusion in Additional Tier 1 capital which comply with the regulatory requirements as specified in **[Annex](#page-195-0)  [4](#page-195-0) and [Annex 15](#page-259-0)**;
+
+(ii) Any other item specifically allowed by the Reserve Bank from time to time for inclusion in Additional Tier 1 capital; and
+
+(iii) Less: Regulatory adjustments / deductions applied in the calculation of Additional Tier 1 capital [i.e., to be deducted from the sum of items (i) to (ii)].
+
+### **4.2.5 Elements of Tier 2 Capital**
+
+Under Basel III, there will be a single set of criteria governing all Tier 2 debt capital instruments.
+
+# **4.2.5.1 Tier 2 Capital - Indian Banks**
+
+### *A. Elements of Tier 2 Capital*
+
+#### (i) General Provisions and Loss Reserves
+
+a. Provisions or loan-loss reserves held against future, presently unidentified losses, which are freely available to meet losses which subsequently materialize, will qualify for inclusion within Tier 2 capital. Accordingly, General Provisions on Standard Assets, Floating Provisions[11](#page-17-0), incremental provisions in respect of unhedged foreign currency exposures[12,](#page-17-1) Provisions held for Country Exposures, Investment Reserve Account, excess provisions which arise on account of sale of NPAs and 'countercyclical provisioning buffer' [13](#page-17-2) will qualify for inclusion in Tier 2 capital. However, these items together will be admitted as Tier 2 capital up to a maximum of 1.25% of the total credit risk-weighted assets under the standardized approach. Under Internal Ratings Based (IRB) approach, where the total expected loss amount is less than total eligible provisions, banks may recognise the difference as Tier 2 capital up to a maximum of 0.6% of credit-risk weighted assets calculated under the IRB approach.
+
+b. Investment Fluctuation Reserve shall also qualify for inclusion in Tier 2 capital, without any ceiling[14](#page-17-3).
+
+c. Provisions ascribed to identified deterioration of particular assets or loan liabilities, whether individual or grouped should be excluded. Accordingly, for instance, specific provisions on NPAs, both at individual account or at portfolio level, provisions in lieu of diminution in the fair value of assets in the case of restructured advances, provisions against depreciation in the value of investments will be excluded.
+
+(ii) Debt Capital Instruments issued by the banks;
+
+(iii) Preference Share Capital Instruments [Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS)] issued by the banks;
+
+(iv) Stock surplus (share premium) resulting from the issue of instruments included in Tier 2 capital;
+
+<span id="page-17-0"></span> <sup>11</sup> Banks will continue to have the option to net off such provisions from Gross NPAs to arrive at Net NPA or reckoning it as part of their Tier 2 capital as pe[r circular DBOD.NO.BP.BC 33/21.04.048/2009-10 dated August 27, 2009.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5234&Mode=0)
+
+<span id="page-17-1"></span><sup>12</sup> Please refer to Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022 issued vide [DOR.MRG.REC.76/00-00-007/2022-23 dated October 11, 2022.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12402&Mode=0)
+
+<span id="page-17-2"></span><sup>13</sup> Please refer t[o circular DBOD.No.BP.BC.87/21.04.048/2010-11 dated April 21, 2011](https://rbi.org.in/scripts/NotificationUser.aspx?Id=6357&Mode=0) on provisioning coverage ratio (PCR) for advances.
+
+<span id="page-17-3"></span><sup>14</sup> Please refer to clause 37 of the [Master Direction DOR.MRG.36/21.04.141/2023-24 dated September 12, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534) titled 'Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023'.
+
+(v) While calculating capital adequacy at the consolidated level, Tier 2 capital instruments issued by consolidated subsidiaries of the bank and held by third parties which meet the criteria for inclusion in Tier 2 capital (refer to paragraph 4.3.4);
+
+(vi) Any other type of instrument generally notified by the Reserve Bank from time to time for inclusion in Tier 2 capital; and
+
+(vii) Less: Regulatory adjustments / deductions applied in the calculation of Tier 2 capital [i.e., to be deducted from the sum of items (i) to (vi)].
+
+# *B. Criteria for Classification as Tier 2 Capital for Regulatory Purposes*
+
+Under Basel III, the criteria for instruments to be included in Tier 2 capital have been modified to improve their

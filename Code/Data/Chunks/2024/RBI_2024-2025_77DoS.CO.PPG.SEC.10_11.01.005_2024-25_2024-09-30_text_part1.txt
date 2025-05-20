@@ -1,0 +1,52 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2024-25/77 DoS.CO.PPG.SEC.10/11.01.005/2024-25 September 30, 2024
+
+All Commercial Banks (including Small Finance Banks but excluding Regional Rural Banks and Payments Banks) All Primary (Urban) Co-operative Banks All Non-Banking Financial Companies
+
+Madam / Dear Sir,
+
+## **Gold loans - Irregular practices observed in grant of loans against pledge of gold ornaments and jewellery**
+
+A reference is invited to the circulars[1](#page-0-0) issued by the Reserve Bank containing various prudential guidelines related to loans against pledge of gold ornaments and jewellery for different categories of Supervised Entities (SEs).
+
+2. Reserve Bank has recently carried out a review of the adherence to prudential guidelines as well as practices being followed by SEs with regard to loans against pledge of gold ornaments and jewellery. The review, as well as the findings of the onsite examination of select SEs by the Reserve Bank, indicate several irregular practices in this activity. The major deficiencies include (i) shortcomings in use of third parties for sourcing and appraisal of loans; (ii) valuation of gold without the presence of the customer; (iii) inadequate due diligence and lack of end use monitoring of gold loans; (iv) lack of transparency during auction of gold ornaments and jewellery on default by the customer; (v) weaknesses in monitoring of LTV; and (vi) incorrect application of risk-weights, etc. The enclosed [Annex](#page-2-0) incorporates further details in this regard.
+
+पयर्वेक्षण �वभाग, के न्द्र�य कायार्लय, मेकर टावर - एफ़, कफ परेड, कोलाबा, मुंबई - 400 005
+
+टेल�फोन: 022-6997 3798 ई-मेल : [ppgdos@rbi.org.in](mailto:ppgdos@rbi.org.in)
+
+Department of Supervision, Central Office, Maker Tower - F, Cuffe Parade, Colaba, Mumbai - 400 005 Tel: 022-6997 3798 E-mail [: ppgdos@rbi.org.in](mailto:ppgdos@rbi.org.in)
+
+�हंदी आसान है इसका �योग बढ़ाइए
+
+<span id="page-0-0"></span> <sup>1</sup> Master Circular [on Basel III Regulations dated May 12, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12504) (applicable at the time of the review); Master Circular [on Loans and Advances dated July 1, 2015;](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9902) [Master Direction – Reserve Bank of India](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  [\(Non-Banking Financial Company – Scale Based Regulation\) Directions, 2023 dated October 19, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) (updated from time to time); [Master Circular – Management of Advances – UCBs dated July 25, 2023;](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12525) and [Master Circular – Prudential Norms on Capital Adequacy for Primary UCBs dated April 20, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12490)
+
+![](_page_1_Picture_0.jpeg)
+
+3. All SEs are, therefore, advised to comprehensively review their policies, processes and practices on gold loans to identify gaps, including those highlighted in this advice, and initiate appropriate remedial measures in a timebound manner. Further, the gold loan portfolio should be closely monitored, especially in the light of significant growth in the portfolio in certain SEs. It should also be ensured that adequate controls are in place over outsourced activities and third-party service providers.
+
+4. Action taken with regard to the above may be informed to the Senior Supervisory Manager (SSM) of Reserve Bank within three months of the date of this circular. Noncompliance with regulatory guidelines in this regard will be viewed seriously and will attract, among other things, supervisory action by RBI.
+
+5. This circular takes immediate effect.
+
+Yours faithfully,
+
+(Tarun Singh) Chief General Manager
+
+Encl.: As above
+
+![](_page_2_Picture_0.jpeg)
+
+## **Annex**
+
+## <span id="page-2-0"></span>**Illustrative list of deficiencies observed during review of gold loans in select SEs**
+
+- i. In loans granted through partnership with Fintech entities/ business correspondents (BC), practices such as valuation of gold being carried out in the absence of customer, credit appraisal and valuation done by the BC itself, gold stored in the custody of BC, delayed and insecure mode of transportation of gold to the branch, KYC compliance being done through Fintechs, use of internal accounts for disbursement as well as repayment of loans were observed.
+- ii. Lack of a robust system for periodical LTV monitoring with instances of breach of regulatory LTV ceilings observed in some SEs. System generated alerts, where available, were not pursued actively to address the breach in LTV ceiling.
+- iii. Application of risk weights were at variance with the prudential regulations.
+- iv. End use of funds was usually not verified for non-agriculture loans. Lack of proof or proper documentation obtained and retained in respect of agri

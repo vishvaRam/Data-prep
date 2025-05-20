@@ -1,0 +1,55 @@
+appraisal in all cases and must not depend on credit appraisal reports prepared by outside consultants, especially the in-house consultants of the borrowing entity.
+
+31.3 Banks/lenders should carry out sensitivity tests/scenario analysis, especially for infrastructure projects, which should inter alia include project delays and cost overruns. This will aid in taking a view on viability of the project at the time of deciding on deferment of DCCO/restructuring.
+
+31.4 Lenders should ascertain the source and quality of equity capital brought in by the promoters /shareholders. Multiple leveraging, especially, in infrastructure projects, is a matter of concern as it effectively camouflages the financial ratios such as Debt/Equity ratio, leading to adverse selection of the borrowers. Therefore, lenders should ensure at the time of credit appraisal that debt of the parent company is not infused as equity capital of the subsidiary/SPV.
+
+31.5 Banks shall review their extant sectoral exposure limits for consumer credit and put in place, if not already there, Board approved limits in respect of various sub-segments under consumer credit as may be considered necessary by the Boards as part of prudent risk management. In particular, limits shall be prescribed for all unsecured consumer credit exposures. The limits so fixed shall be strictly adhered to and monitored on an ongoing basis by the Risk Management Committee. 25
+
+#### 32. Registration of Transactions with CERSAI
+
+Banks shall register the transactions relating to Securitisation, Asset Reconstruction and Security Interest as per the provisions of SARFAESI Act and SARFAESI (CERSAI) Rules, as amended time to time.
+
+## 33. Board Oversight
+
+33.1 The Board of Directors of banks should take all necessary steps to arrest the deteriorating asset quality in their books and should focus on improving the credit risk management system. Early recognition of problems in asset quality and resolution envisaged in these guidelines requires the lenders to be proactive and make use of CRILC.
+
+## 34. Specification of due date/repayment date
+
+The exact due dates for repayment of a loan, frequency of repayment, breakup between principal and interest, examples of SMA/NPA classification dates, etc. shall be clearly specified in the loan agreement and the borrower shall be apprised of the same at the time of loan sanction and also at the time of subsequent changes, if any, to the sanction terms/loan agreement till full repayment of the loan. In cases of loan facilities with moratorium on payment of principal and/or interest, the exact date of commencement of repayment shall also be specified in the loan agreements. These instructions shall
+
+ <sup>25</sup> Please refer to Para 2.C.(a) of [Regulatory measures towards consumer credit and bank credit to NBFCs dated November](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12567&Mode=0)  [16, 2023.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12567&Mode=0)
+
+be complied with at the earliest, but not later than December 31, 2021, in respect of fresh loans. In case of existing loans, however, compliance to these instructions shall necessarily be ensured as and when such loans become due for renewal/review.
+
+#### 35. Consumer Education
+
+With a view to increasing awareness among the borrowers, banks shall place consumer education literature on their websites, explaining with examples, the concepts of date of overdue, SMA and NPA classification and upgradation, with specific reference to day-end process. Banks may also consider displaying such consumer education literature in their branches by means of posters and/or other appropriate media. Further, it shall also be ensured that their front-line officers educate borrowers about all these concepts, with respect to loans availed by them, at the time of sanction/disbursal/renewal of loans.
+
+## **PART D - ANNEXES**
+
+#### **Annex-1**
+
+<span id="page-61-0"></span>Details of Gross Advances, Gross NPAs, Net Advances and Net NPAs
+
+
+#### **Part A**
+
+## **Part B**
+
+## **Supplementary Details**
+
+
+Activities eligible for crop season linked asset classification norms
+
+## *Farm Credit*
+
+A. Loans to individual farmers [including Self Help Groups (SHGs) or Joint Liability Groups (JLGs), i.e. groups of individual farmers, provided banks maintain disaggregated data of such loans], directly engaged in Agriculture only. This will include:
+
+(i) Crop loans to farmers, which will include traditional / non-traditional plantations, and horticulture.
+
+(ii) Medium and long-term loans to farmers for agriculture (e.g. purchase of agricultural implements and machinery and other developmental activities undertaken in the farm.)
+
+(iii) Loans to farmers for pre and post-harvest activities, viz., spraying, harvesting, grading and transporting of their own farm produce.
+
+(iv) Loans to farmers up to ₹60 lakh against pledge / hypothecation of agricultural produce (including warehouse receipts) for a period not excee

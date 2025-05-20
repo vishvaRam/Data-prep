@@ -1,0 +1,38 @@
+irements as specified in [Annex](#page-19-0) 3.
+
+b) Lower Tier II instruments - Long Term Subordinated Bonds (LTSB) which comply with the regulatory requirements as specified in [Annex 4.](#page-25-0)
+
+*Note: Outstanding Long Term (Subordinated) Deposits (LTD) which were issued in terms of Annex-II to the [circular UBD.PCB.Cir.No.4 /09.18.201/08-09 dated July](https://rbi.org.in/scripts/NotificationUser.aspx?Id=4370&Mode=0)  [15, 2008,](https://rbi.org.in/scripts/NotificationUser.aspx?Id=4370&Mode=0) and subsequent amendments thereto, shall also be eligible to be reckoned as Tier II capital subject to the ceilings prescribed in [Annex 4](#page-25-0) to this Master Circular. It may be noted that the circular dated July 15, 2008 has since been repealed vide [circular No. DOR.CAP.REC.92/09.18.201/2021-22 dated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0)  [March 08, 2022.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0)*
+
+### <span id="page-7-0"></span>**5. Capital for Market Risk**
+
+5.1 Market risk is defined as the risk of losses in on-balance sheet and offbalance sheet positions arising from movements in market prices. The market risk positions, which are subject to capital charge are as under:
+
+- The risks pertaining to interest rate related instruments and equities in the trading book; and
+- Foreign exchange risk (including open position in precious metals) throughout the bank (both banking and trading books).
+
+5.2 As an initial step towards prescribing capital requirement for market risks, UCBs were advised to assign an additional risk weight of 2.5 per cent on investments. These additional risk weights are clubbed with the risk weights prescribed for credit risk in respect of investment portfolio of UCBs as per [Annex](#page-12-0) 2, and banks are not required to provide for the same separately. Further, UCBs are advised to assign a risk weight of 100% on the open position limits on foreign exchange and gold, and to build up investment fluctuation reserve as per extant instructions.
+
+5.3 UCBs having AD Category I licence are required to provide capital for market risk in terms of [circular UBD.BPD\(PCB\)Cir.No.42/09.11.600/2009-10 dated](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5495&Mode=0) [February](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5495&Mode=0) 8, 2010.
+
+#### <span id="page-7-1"></span>**6. Share linking to Borrowings**
+
+Borrowings from UCBs (except in the case of advances against fixed deposits) shall be linked to shareholdings of the borrowing members as below:
+
+- (i) 5 per cent of the borrowings, if the borrowings are on unsecured basis.
+- (ii) 2.5 per cent of the borrowings, in case of secured borrowings.
+- (iii) In case of secured borrowings by Micro and Small Enterprises (MSEs), 2.5 per cent of the borrowings, of which 1 per cent is to be collected initially and the balance of 1.5 per cent is to be collected in the course of next 2 years.
+
+The above share linking norms may be applicable for member's shareholdings up to
+
+the limit of 5 per cent of the total paid up share capital of the bank. Where a member is already holding 5 per cent of the total paid up share capital of a UCB, it would not be necessary for him / her to subscribe to any additional share capital on account of the application of extant share linking norms. In other words, a borrowing member may be required to hold shares for an amount that may be computed as per the extant share linking norms or for an amount that is 5 per cent of the total paid up share capital of the bank, whichever is lower.
+
+Share-linking to borrowing norms shall be discretionary for UCBs which meet the minimum regulatory CRAR applicable and a Tier 1 CRAR of 5.5 per cent as per the latest audited financial statements and the last CRAR as assessed by RBI during statutory inspection. Such UCBs shall have a Board-approved policy on sharelinking to borrowing norms which shall be implemented in a transparent, consistent and non-discriminatory manner. The policy may be reviewed by the Board at the beginning of the accounting year. UCBs, which do not maintain the minimum CRAR applicable and Tier I CRAR of 5.5 per cent, shall continue to be guided by the norms on share-linking to borrowing as specified above.
+
+Perpetual Non-Cumulative Preference Shares (PNCPS) held by members / subscribers, may be treated as shares for the purpose of compliance with the extant share linking to borrowing norms.
+
+## <span id="page-8-0"></span>**7. Refund of share capital**
+
+In terms of Section 12 (2) (ii) read with Section 56 of the BR Act, a co-operative bank shall not withdraw or reduce its share capital, except to the extent and subject to such conditions as the Reserve Bank may specify in this behalf. Accordingly, it has been decided to permit UCBs to refund the share capital to their members, or nominees / heirs of deceased members, on demand[4](#page-8-2), subject to the following conditions:
+
+a) The bank compl

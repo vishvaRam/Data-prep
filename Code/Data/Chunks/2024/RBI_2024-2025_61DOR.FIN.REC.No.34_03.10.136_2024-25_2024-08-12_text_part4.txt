@@ -1,0 +1,44 @@
+g.in/Scripts/BS_ViewMasDirections.aspx?id=12030)
+
+<sup>(</sup>i) a non-banking financial company having the certificate of registration issued under section 45-IA of the RBI Act and otherwise entitled to accept public deposits as per paragraph 12 of these Directions, shall open its branch or appoint agents if its
+
+
+*Explanation:* A non-banking financial company with asset size greater than ₹50 crore and credit rating below AA, shall not be eligible to open branches anywhere in the country and can open branches only within the state where its registered office is situated.
+
+<span id="page-5-0"></span><sup>2</sup> **30. Branches and appointment of agents to collect deposits**
+
+<sup>(1)</sup> No non-banking financial company shall open its branch or appoint agents to collect deposits except as provided hereunder:
+
+<sup>(2) (</sup>i) for the purpose of opening a branch, a non-banking financial company shall notify to the Bank of its intention to open the proposed branch;
+
+<sup>(</sup>ii) on receipt of such advice, the Bank may, on being satisfied that in the public interest or in the interest of the concerned non-banking financial company or for any other relevant reasons to be recorded, reject the proposal and communicate the same to the non-banking financial company;
+
+<sup>(</sup>iii) if no advice of rejection of the proposal under (ii) above is communicated by the Bank within 30 days from the receipt of such advice, the non-banking financial company may proceed with its proposal.
+
+[Housing Finance Company \(Reserve Bank\) Directions, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030) It is advised that henceforth, deposit taking HFCs shall fix Board-approved internal limits separately within the limit of direct investment, for investments in unquoted shares of another company which is not a subsidiary company or a company in the same group of the HFC. Such Board-approved internal limit shall form part of overall limits and sub-limits for exposure to capital market for deposit taking HFCs.
+
+*Explanation* – While calculating the ceiling on investment in unquoted shares, investments in such shares of all companies shall be aggregated.
+
+*Provided* that the ceiling on the investment in unquoted shares shall not be applicable to an HFC in respect of investment in the equity capital of an insurance company upto the extent specifically permitted, in writing, by the Reserve Bank.
+
+# **Section II: Other instructions**  *(applicable to HFCs)*
+
+10. It has been decided that, like NBFCs, HFCs shall be allowed to hedge the risks arising out of their operations and to issue co-branded credit cards. Further, based on stakeholders' feedback, a review of certain existing HFC regulations has also been undertaken. Relevant regulations for HFCs are given in the following paragraphs.
+
+# **Participation in exchange traded currency derivatives[3](#page-6-0)**
+
+11. In order to hedge their underlying exposures, HFCs are allowed to participate in the following SEBI recognized exchanges, as clients, subject to adherence to relevant instructions as issued by the Reserve Bank:
+
+11.1. Participation in Currency Futures – All HFCs can participate in currency futures exchanges, subject to the guidelines issued in the matter by Foreign Exchange Department of the Reserve Bank and necessary disclosures in balance sheet in accordance with guidelines issued by SEBI.
+
+11.2. Participation in Currency Options – Non-deposit taking HFCs with asset size of ₹1000 crore and above can participate in currency options exchanges subject to the guidelines issued in the matter by Foreign Exchange Department of the Reserve Bank
+
+<span id="page-6-0"></span><sup>3</sup> HFCs may continue to participate in permitted currency derivatives in OTC market, as hitherto, for hedging their underlying exposures, subject to adherence to relevant instructions as issued by the Reserve Bank.
+
+and necessary disclosures in balance sheet in accordance with guidelines issued by SEBI.
+
+### **Participation in Interest Rate Futures[4](#page-7-0)**
+
+12.1. All HFCs can participate in the designated Interest rate Futures (IRF) exchanges recognized by SEBI, as clients, subject to adherence to instructions contained in [Rupee Interest Rate Derivatives \(Reserve Bank\) Directions, 2019 dated June 26,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11602&Mode=0)  [2019,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11602&Mode=0) as amended from time to time, for the purpose of hedging their underlying exposures.
+
+12.2. Non-deposit taking HFCs with asset size of ₹1,000 crore and above (as per audited balance sheet of immediately preceding financial year) are permitted to participate in the interest rate futures market on recognized stock exchanges, as trading members, subject to adherence to instructions contained in [Rupee Interest](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11602&Mode=0)  [Rate Derivatives \(Reserve Bank\) Directions, 

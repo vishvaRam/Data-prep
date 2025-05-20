@@ -1,0 +1,44 @@
+d ease of use of disclosures relating to the composition of capital and to mitigate the risk of inconsistent reporting format undermining the objective of enhanced disclosures, banks across Basel member jurisdictions are required to publish their capital positions according to common templates. The disclosure requirements are set out in the form of following templates:
+
+# **(i) Disclosure Template**
+
+A common template which will be used by banks to report the details of their regulatory capital. It is designed to meet the Basel III requirement to disclose all regulatory adjustments. The template enhances consistency and comparability in the disclosure of the elements of capital between banks and across jurisdictions.
+
+# **(ii) Reconciliation Requirements**
+
+In order to meet the reconciliation requirements as envisaged under Basel III, a three-step approach has been devised. This step-by-step approach to reconciliation ensures that the Basel III requirement to provide a full reconciliation of all regulatory capital elements back to the published financial statements is met in a consistent manner.
+
+# **(iii) Main Features Template**
+
+A common template has been designed to capture the main features of all regulatory capital instruments issued by a bank at one place. This disclosure requirement is intended to meet the Basel III requirement to provide a description of the main features of capital instruments.
+
+# **(iv) Other Disclosure Requirements**
+
+<span id="page-157-0"></span> <sup>118</sup> Pillar 3 requirements as introduced vid[e circular DBOD.No.BP.BC.98/21.06.201/2012-13 dated May 28, 2013](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8005&Mode=0) on Guidelines on Composition of Capital Disclosure Requirements. These guidelines became effective from July 1, 2013. The new disclosure requirements are in addition to the Pillar 3 guidance contained in NCAF.
+
+This disclosure enables banks in meeting the Basel III requirement to provide the full terms and conditions of capital instruments on their websites.
+
+**(v)** Pillar 3 disclosure requirements also include certain aspects that are not specifically required to compute capital requirements under Pillar 1[119](#page-158-0). It may be noted that beyond disclosure requirements as set forth in these guidelines, banks are responsible for conveying their actual risk profile to market participants. The information banks disclose must be adequate to fulfill this objective. In addition to the specific disclosure requirements as set out in the guidelines, banks operating in India should also make additional disclosures in the following areas:
+
+- (i) Securitisation exposures in the trading book;
+- (ii) Sponsorship of off-balance sheet vehicles;
+- (iii) Valuation with regard to securitisation exposures; and
+- (iv) Pipeline and warehousing risks with regard to securitisation exposures.
+
+# **14.12 Disclosure Template**
+
+14.12.1 The common template which banks should use is set out in **Table DF-11** of **[Annex 17](#page-271-0)**, along with explanations.
+
+14.12.2 It may be noted that banks should not add or delete any rows / columns from the common reporting template. This is essential to ensure that there is no divergence in reporting templates across banks and across jurisdictions which could undermine the objectives of consistency and comparability of a bank's regulatory capital. The template will retain the same row numbering used in its first column such that market participants can easily map the Indian version of templates to the common version designed by the Basel Committee.
+
+14.12.3 The Basel Committee has suggested that in cases where the national implementation of Basel III rules[120](#page-158-1) applies a more conservative definition of an element (e.g., components and criteria of regulatory capital, regulatory adjustments etc.), national authorities may choose between one of two approaches listed below for the purpose of disclosure:
+
+*Approach 1:* In the national version of the template, banks are required to maintain the same definitions[121](#page-158-2) of all rows. Further, banks will have to report the impact of the more conservative national definition in the rows exclusively designated for national specific adjustments.
+
+ <sup>119</sup> [Master Circular DBOD.No.BP.BC.73/21.06.001/2009-10 dated Feb 8, 2010.](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=5494)
+
+<span id="page-158-1"></span><span id="page-158-0"></span><sup>120</sup> As defined in th[e DBOD.No.BP.BC.98/21.06.201/2011-12 dated May 2, 2012](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0) on Guidelines on Implementation of Basel III Capital Regulations in India.
+
+<span id="page-158-2"></span><sup>121</sup> Basel III: A global regulatory framework for more resilient banks and banking systems, December 2010 (rev June 2011).
+
+*Approach 2:* In the national version of the template, banks are required to use the definitions of elements as impleme

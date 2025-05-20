@@ -1,0 +1,9 @@
+| Sr.<br>No | District                                     | District<br>Working<br>Code | State          | Erstwhile<br>Lead<br>Bank | Lead Bank<br>Responsibility<br>assigned to |
+|-----------|----------------------------------------------|-----------------------------|----------------|---------------------------|--------------------------------------------|
+| 1         | Ernakulum                                    | 970                         | Kerala         | Union Bank of India       | State Bank of India                        |
+| 2         | Idukki                                       | 976                         |                | Union Bank of India       | State Bank of India                        |
+| 3         | Seoni                                        | 713                         | Madhya Pradesh | Central Bank of India     | State Bank of India                        |
+| 4         | Mumbai City<br>(earlier name<br>–<br>Mumbai) | 600                         | Maharashtra    | Bank of India             | Bank of Baroda                             |
+| 5         | Mumbai<br>Suburban                           | 291                         |                | Bank of India             | Bank of Baroda                             |
+| 6         | Salem                                        | 913                         | Tamil Nadu     | Indian Bank               | State Bank of India                        |
+

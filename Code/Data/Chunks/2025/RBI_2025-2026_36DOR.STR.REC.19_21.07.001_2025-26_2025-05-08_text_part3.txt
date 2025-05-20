@@ -1,0 +1,35 @@
+mount and tenor of loan, APR, monthly repayment obligation and penal charges (if applicable), in a way which enables the borrower to make a fair comparison between various offers. A link to the KFS shall also be provided in respect of each of the RE.
+- iv. The content displayed by the LSP shall be unbiased, objective and shall not directly/ indirectly promote or push a product of a particular RE, including the use of dark patterns/deceptive patterns[4](#page-6-2) designed to mislead borrowers into choosing a particular loan offer. However, ranking of loan offers based on a publicly predisclosed metric for such ranking shall not be construed as promoting a particular product.
+
+# **Chapter III: Conduct and Customer Protection Requirements**
+
+#### <span id="page-6-1"></span><span id="page-6-0"></span>7. **Assessing the borrower's creditworthiness**
+
+- i. RE shall obtain the necessary information relating to economic profile of the borrower with a view to assessing the borrower's creditworthiness before extending any loan, including, at a minimum, age, occupation and income details. The same shall be kept on record for audit purposes.
+- ii. RE shall ensure that there is no automatic increase in credit limit unless an explicit request is received, evaluated and kept on record from the borrower for such increase.
+
+<span id="page-6-2"></span><sup>4</sup> As defined under section 2(e) of the 'Guidelines for Prevention and Regulation of Dark Patterns, 2023' dated November 30, 2023, issued by Central Consumer Protection Authority, as amended from time to time.
+
+#### <span id="page-7-0"></span>8. **Disclosures to borrowers**
+
+- i. RE shall provide a Key Fact Statement (KFS), as per instructions contained in [circular no. DOR.STR.REC.13/13.03.00/2024-25 on 'Key Facts Statement \(KFS\)](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0)  [for Loans & Advances' dated April 15, 2024,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0) as amended from time to time.
+- ii. As regards penal charges, RE shall be guided by [circular no.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12527&Mode=0)  [DoR.MCS.REC.28/01.01.001/2023-24 on 'Fair Lending Practice - Penal Charges](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12527&Mode=0)  [in Loan Accounts' dated August 18, 2023,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12527&Mode=0) as amended from time to time.
+- iii. RE shall ensure that digitally signed documents[5](#page-7-1) (on the letter head of the RE) *viz*., KFS, summary of loan product, sanction letter, terms and conditions, account statements, privacy policies of the RE / LSP with respect to storage and usage of borrowers' data, etc. shall automatically flow to the borrower on the registered and verified email/ SMS upon execution of the loan contract/ transactions.
+- iv. RE shall maintain a website of their own in public domain, which shall be kept up to date, *inter-alia*, with the following details at a prominent single place on the website for ease of accessibility:
+	- a. Details of all of its digital lending products and its DLAs;
+	- b. Details of LSPs and the DLAs of the LSPs along with the details of the activities for which they have been engaged for;
+	- c. Particulars of RE's customer care and internal grievance redressal mechanism;
+	- d. Link to RBI's Complaint Management System (CMS) and Sachet Portal;
+	- e. Privacy policies and other details as required under extant guidelines of the Reserve Bank.
+
+RE shall ensure that DLAs / LSPs have links to the above website of the RE.
+
+<span id="page-7-1"></span> <sup>5</sup> As per the provisions of the Information Technology Act, 2000, as amended from time to time.
+
+v. In case of a loan default, when a recovery agent is assigned for recovery or there is a change in the recovery agent already assigned, the particulars of such recovery agent authorised to approach the borrower for recovery shall be communicated to the borrower through email/ SMS before the recovery agent contacts the borrower for recovery.
+
+#### <span id="page-8-0"></span>9. **Loan disbursal, servicing and repayment**
+
+- i. Disbursement of loan by the RE shall always be made into the bank account of the borrower except for disbursals covered exclusively under statutory or regulatory mandate (of RBI or of any other regulator), flow of money between REs for colending transactions[6](#page-8-1) and disbursals for specific end use, provided the loan is disbursed directly into the bank account of the end-beneficiary[7.](#page-8-2) RE shall ensure that in no case, disbursal is made to a third-party account, including the accounts of LSP, except as provided for in these Directions.
+- ii. RE shall ensure that all loan servicing, repayment, etc. is executed by the borrower directly in the RE's bank account without any pass-through account/ pool account of any third party, including the accounts of LSP.
+- iii. The flow of funds between the bank accounts of the b

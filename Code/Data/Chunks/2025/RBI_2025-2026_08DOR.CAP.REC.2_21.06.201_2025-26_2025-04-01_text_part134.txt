@@ -1,0 +1,43 @@
+ about to become non-viable. These criteria would be evaluated together and not in isolation.
+
+3.12 Once the PONV is confirmed, the next step would be to decide whether rescue of the bank would be through write-off/conversion alone or write-off/conversion in conjunction with a public sector injection of funds.
+
+3.13 The trigger at PONV will be evaluated both at consolidated and solo level and breach at either level will trigger conversion / write-off.
+
+3.14 As the capital adequacy is applicable both at solo and consolidated levels, the **minority interests** in respect of capital instruments issued by subsidiaries of banks including overseas subsidiaries can be included in the consolidated capital of the banking group only if these instruments have pre-specified triggers (in case of AT1 capital instruments) / loss absorbency at the PONV[241](#page-266-0) (for all non-common equity capital instruments). In addition, where a bank wishes the instrument issued by its subsidiary to be included in the consolidated group's capital in addition
+
+<span id="page-266-0"></span> <sup>241</sup> The cost to the parent of its investment in each subsidiary and the parent's portion of equity of each subsidiary, at the date on which investment in each subsidiary is made, is eliminated as per AS-21. So, in case of wholly-owned subsidiaries, it would not matter whether or not it has same characteristics as the bank's capital. However, in the case of less than wholly owned subsidiaries (or in the case of non-equity regulatory capital of the wholly owned subsidiaries, if issued to the third parties), minority interests constitute additional capital for the banking group over and above what is counted at solo level; therefore, it should be admitted only when it (and consequently the entire capital in that category) has the same characteristics as the bank's capital.
+
+to its solo capital, the terms and conditions of that instrument must specify an additional trigger event.
+
+## *This additional trigger event is the earlier of:*
+
+- (1) a decision that a conversion or write-off, without which the bank or the subsidiary would become non-viable, is necessary, as determined by the Reserve Bank of India; and
+- (2) the decision to make a public sector injection of capital, or equivalent support, without which the bank or the subsidiary would have become non-viable, as determined by the Reserve Bank of India. Such a decision would invariably imply that the write-off or issuance of any new shares as a result of conversion consequent upon the trigger event shall occur prior to any public sector injection of capital so that the capital provided by the public sector is not diluted.
+
+3.15 In such cases, the subsidiary should obtain its regulator's approval/no-objection for allowing the capital instrument to be converted/written-off at the additional trigger point referred to in paragraph 3.14 above.
+
+3.16 Any common shares paid as compensation to the holders of the instrument must be common shares of either the issuing subsidiary or the parent bank (including any successor in resolution).
+
+### **Calculation of Minority Interest - Illustrative Example**
+
+<span id="page-268-0"></span>This Annex illustrates the treatment of minority interest and other capital issued out of subsidiaries to third parties, which is set out in paragraph 4.3 of this Master Circular.
+
+A banking group for this purpose consists of two legal entities that are both banks. Bank P is the parent and Bank S is the subsidiary and their unconsolidated balance sheets are set out below:
+
+
+The balance sheet of Bank P shows that in addition to its loans to customers, it owns 70% of the common shares of Bank S, 80% of the Additional Tier 1 of Bank S and 25% of the Tier 2 capital of Bank S.
+
+The ownership of the capital of Bank S is therefore as follows:
+
+
+
+For illustrative purposes Bank S is assumed to have risk weighted assets of 100 against the actual value of assets of 150. In this example, the minimum capital requirements of Bank S and the subsidiary's contribution to the consolidated requirements are the same. This means that it is subject to the following minimum plus capital conservation buffer requirements and has the following surplus capital:
+
+
+The following table illustrates how to calculate the amount of capital issued by Bank S to include in consolidated capital, following the calculation procedure set out in paragraph 4.3.4 of this Master Circular:
+
+<span id="page-269-0"></span> <sup>242</sup> Illustration is based on Basel III minima as indicated in the BCBS document 'Basel III: A global regulatory framework for more resilient banks and banking systems issued in December 2010 (rev June 2011)' The Common Equity Tier 1 in the example should be read to include issued common shares plus retained earnings and reserves in Bank S.
+
+
+The following table summarises the components of capital for the consolidated group based on the amounts calculated in the table above. Additional 

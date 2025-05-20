@@ -1,0 +1,59 @@
+he only credits.
+
+## 2.3 'Overdue' status
+
+2.3.1 Any amount due to the bank under any credit facility is 'overdue' if it is not paid on the due date fixed by the bank. The borrower accounts shall be flagged as overdue by the banks as part of their day-end processes for the due date, irrespective of the time of running such processes.
+
+# 3. INCOME RECOGNITION
+
+<sup>1</sup> 'Previous 90 days period' shall be inclusive of the day for which the day-end process is being run.
+
+#### 3.1 Income Recognition Policy
+
+3.1.1 The policy of income recognition has to be objective and based on the record of recovery. Therefore, the banks should not charge and take to income account interest on any NPA. **This will apply to Government guaranteed accounts also.**
+
+3.1.2 However, interest on advances against Term Deposits, National Savings Certificates (NSCs), Kisan Vikas Patras (KVPs) and life insurance policies may be taken to income account on the due date, provided adequate margin is available in the accounts.
+
+3.1.3 Fees and commissions earned by the banks as a result of renegotiations or rescheduling of outstanding debts should be recognised on an accrual basis over the period of time covered by the renegotiated or rescheduled extension of credit.
+
+3.1.4 In cases of loans where moratorium has been granted for repayment of interest, income may be recognised on accrual basis for accounts which continue to be classified as 'standard'. This shall be evaluated against the definition of 'restructuring' provided in paragraph 16 of this Master Circular.
+
+3.1.5 Income recognition norms for loans towards projects under implementation involving deferment of DCCO shall be subject to the instructions contained in paragraph 4.2.15 of this Master Circular and that for loans against gold ornaments and jewellery for non-agricultural purposes shall be subject to the instructions contained in [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9124&Mode=0)  [DBOD.No.BP.BC.27/21.04.048/2014-15 dated July 22, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9124&Mode=0) on the subject, as updated from time to time.
+
+#### 3.2 Reversal of income
+
+3.2.1 If any advance, including bills purchased and discounted, becomes NPA, the entire interest accrued and credited to income account in the past periods, should be reversed if the same is not realised. This will apply to Government guaranteed accounts also.
+
+3.2.2 If loans with moratorium on payment of interest (permitted at the time of sanction of the loan) become NPA after the moratorium period is over, the capitalized interest, if any, corresponding to the interest accrued during such moratorium period need not be reversed.
+
+3.2.3 In respect of NPAs, fees, commission and similar income that have accrued should cease to accrue in the current period and should be reversed with respect to past periods, if uncollected.
+
+3.2.4 Leased Assets - The *finance charge* component of finance income [as defined in 'AS 19 Leases')] on the leased asset which has accrued and was credited to income account before the asset became non-performing, and remaining unrealised, should be reversed or provided for in the current accounting period.
+
+## 3.3 Appropriation of recovery in NPAs
+
+3.3.1 Interest realised on NPAs may be taken to income account provided the credits in the accounts towards interest are not out of fresh/ additional credit facilities sanctioned to the borrower concerned.
+
+3.3.2 In the absence of a clear agreement between the bank and the borrower for the purpose of appropriation of recoveries in NPAs (i.e. towards principal or interest due), banks should adopt an accounting principle and exercise the right of appropriation of recoveries in a uniform and consistent manner.
+
+## 3.4 Interest Application
+
+On an account turning NPA, banks should reverse the interest already charged and not collected by debiting Profit and Loss account and stop further application of interest. However, banks may continue to record such accrued interest in a Memorandum account in their books. For the purpose of computing Gross Advances, interest recorded in the Memorandum account should not be taken into account.
+
+## 3.5 Computation of NPA levels
+
+Banks are advised to compute their Gross Advances, Net Advances, Gross NPAs and Net NPAs, as per the format in [Annex-1.](#page-61-0)
+
+## 4. ASSET CLASSIFICATION
+
+## 4.1 Categories of NPAs
+
+Banks are required to classify non-performing assets further into the following three categories based on the period for which the asset has remained non-performing and the realisability of the dues:
+
+- **(i) Substandard Assets**
+- **(ii) Doubtful Assets**
+- **(iii) Loss Assets**
+
+## 4.1.1 Substandard Assets
+
+A substandard asset would be one, which has remained NPA for a period less than or equal to 12 months. Such an asset will have well defined credit weaknesses that jeopardise the liquidation of the debt and are characterised by the distinct possibility that the ba

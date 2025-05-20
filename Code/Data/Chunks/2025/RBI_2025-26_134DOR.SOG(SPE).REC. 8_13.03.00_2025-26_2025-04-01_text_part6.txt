@@ -1,0 +1,66 @@
+or more of the following reasons:
+
+#### 20.2.1 Tenor of deposits
+
+The maturity period for term deposits under the FCNR(B) scheme shall be as under:
+
+- (i) One year and above but less than two years;
+- (ii) Two years and above but less than three years;
+- (iii) Three years and above but less than four years;
+- (iv) Four years and above but less than five years; and
+- (v) Five years only.
+
+**Provided** that, no bank shall accept or renew FCNR(B) deposits over five years and no recurring deposits shall be accepted under the FCNR(B) Scheme.
+
+#### 20.2.2 Size of deposits
+
+Banks shall, at their discretion, decide the currency-wise minimum quantum on which differential rates of interest may be offered.
+
+20.3 The interest rates on all deposits, including where differential rates of interest are offered, shall be subject to the overall ceiling prescribed at paragraph 20.7 below.
+
+20.4 Interest on floating rate deposits shall be paid within the ceiling of swap rates for the respective currency/ maturity and in case of fixed rate deposits, interest shall be paid within the ceiling of Overnight Alternative Reference Rate (ARR) for the respective currency/ maturity.
+
+20.5 The interest reset period shall be six months for all floating rate deposits.
+
+20.6 The Overnight ARR for the respective currency/ SWAP rates as on the last working day of the preceding month shall form the base for fixing ceiling rates for the interest rates offered effective in the following month.
+
+20.7 The interest rates ceiling on FCNR (B) deposits shall be as under:
+
+
+20.8 The Overnight ARR for the respective currency/ Swap rates quoted/ displayed by Financial Benchmarks India Pvt. Ltd. (FBIL) shall be used as the reference for arriving at the interest rates on FCNR(B) deposits.
+
+# <span id="page-18-0"></span>**21. Manner of Calculation of Interest on FCNR(B) Deposits**
+
+21.1 Interest on the deposits accepted under the scheme shall be calculated on the basis of 360 days to a year.
+
+21.2 The interest on FCNR (B) deposits shall be calculated and paid at intervals of 180 days each and thereafter for the remaining actual number of days.
+
+**Provided** that the option to receive the interest on maturity with compounding effect shall vest with the depositor.
+
+# <span id="page-18-1"></span>**22. Calculation of Interest on Renewal of FCNR(B) Deposits**
+
+Interest calculation on renewal of FCNR(B) deposits shall be as under:
+
+22.1 If the period from the date of maturity till the date of renewal (both days inclusive) does not exceed 14 days, the rate of interest payable on the amount of the deposit so renewed shall be the appropriate rate of interest for the period of renewal as prevailing on the date of maturity or on the date when the depositor seeks renewal, whichever is lower.
+
+22.2 In all other cases of renewal, interest rates for the overdue period on the renewed amount shall be determined by treating it as a fresh term deposit.
+
+22.3 If, after renewal, the deposit is withdrawn before completion of the minimum stipulated period under the scheme, banks may, at their discretion, recover the interest paid for the overdue period i.e., period beyond the original date of maturity.
+
+## <span id="page-19-0"></span>**23. Interest Payable on the Deposit of a Deceased FCNR(B) Depositor**
+
+Banks shall pay interest on the term deposits standing in the name(s) of a deceased FCNR(B) individual depositor or two or more joint depositors, where one of the depositors has died, as under:
+
+23.1 If paid on the maturity of the deposit, interest shall be paid at the contracted rate.
+
+23.2 If the deposit is claimed before the maturity date, interest shall be paid not at the contracted rate but at the rate applicable to the period for which the deposit remained with the bank and without charging penalty for pre-payment.
+
+23.3 In case the depositor dies before the date of maturity of the deposit, but the amount of the deposit is claimed after the date of maturity, interest shall be paid at the contracted rate till the date of maturity and simple interest at the applicable rate operative on the date of maturity for the period for which the deposit remained with the bank beyond the date of maturity.
+
+23.4 In case of death of the depositor after the date of maturity of the deposit, the interest rate operative on the date of maturity in respect of savings deposit held under RFC Account Scheme shall be paid from the date of maturity till the date of payment.
+
+23.5 In case the claimants are residents, the maturity proceeds shall be converted into Indian Rupees on the date of maturity and interest shall be paid for the subsequent period at the rate applicable to a domestic term deposit of similar maturity.
+
+# <span id="page-19-1"></span>**24. Payment of Interest on FCNR(B) Deposits of NRIs on Return to India**
+
+Banks may, at their discretion, on receipt of the request from the depositor, allow FCNR(B) deposits of persons of Indian nationality/ origin who return to India for permanent s

@@ -1,0 +1,31 @@
+e its exposure as if the SFT had been treated as a financing transaction under the operative accounting framework (i.e., the bank must include the sum of amounts in sub-paragraphs (A) and (B) of paragraph 16.4.4.2 for such an SFT) for the purposes of determining its exposure measure.
+
+16.4.4.4 *Bank acting as agent*: a bank acting as agent in an SFT generally provides an indemnity or guarantee to only one of the two parties involved, and only for the difference between the value of the security or cash its customer has lent and the value of collateral the borrower has provided. In this situation, the bank is exposed to the counterparty of its customer for the difference in values rather than to the full exposure to the underlying security or cash of the transaction (as is the case where the bank is one of the principals in the transaction). Where the bank does not own/control the underlying cash or security resource, that resource cannot be leveraged by the bank.
+
+16.4.4.5 Where a bank acting as agent in an SFT provides an indemnity or guarantee to a customer or counterparty for any difference between the value of the security or cash the customer has lent and the value of collateral the borrower has provided, then the bank will be required to calculate its exposure measure by applying only subparagraph (B) of paragraph 16.4.4.2[164.](#page-177-0)
+
+16.4.4.6 A bank acting as agent in an SFT and providing an indemnity or guarantee to a customer or counterparty will be considered eligible for the exceptional treatment set out in paragraph 16.4.4.5 only if the bank's exposure to the transaction is limited to the guaranteed difference between the value of the security or cash its customer has lent and the value of the collateral the borrower has provided. In situations where the bank is further economically exposed (i.e., beyond the guarantee for the difference) to the underlying security or cash in the transaction[165,](#page-177-1) a further exposure equal to the full amount of the security or cash must be included in the exposure measure.
+
+16.4.4.7 An illustrative example of exposure measure for SFT transactions are furnished in **[Annex](#page-249-0)  [13](#page-249-0)**.
+
+### **16.4.5 Off-balance sheet items**
+
+<span id="page-177-0"></span> <sup>164</sup> Where, in addition to the conditions in paragraphs 16.4.4.4 to 16.4.4.6, a bank acting as an agent in an SFT does not provide an indemnity or guarantee to any of the involved parties, the bank is not exposed to the SFT and therefore need not recognise those SFTs in its exposure measure.
+
+<span id="page-177-1"></span><sup>165</sup> For example, due to the bank managing collateral received in the bank's name or on its own account rather than on the customer's or borrower's account (e.g., by on-lending or managing unsegregated collateral, cash or securities).
+
+16.4.5.1 This paragraph explains the treatment of off-balance sheet (OBS) items into the leverage ratio exposure measure. OBS items include commitments (including liquidity facilities), whether or not unconditionally cancellable, direct credit substitutes, acceptances, standby letters of credit, trade letters of credit, etc.
+
+16.4.5.2 In the risk-based capital framework, OBS items are converted under the standardised approach into credit exposure equivalents through the use of credit conversion factors (CCFs)[166.](#page-178-0) For the purpose of determining the exposure amount of OBS items for the leverage ratio, the CCFs set out in the following paragraphs must be applied to the notional amount[167.](#page-178-1)
+
+(i) Commitments other than securitisation liquidity facilities with an original maturity up to one year and commitments with an original maturity over one year shall receive a CCF of 20% and 50%, respectively. However, any commitments that are unconditionally cancellable at any time by the bank without prior notice, or that effectively provide for automatic cancellation due to deterioration in a borrower's creditworthiness, will receive a 10% CCF.
+
+(ii) Direct credit substitutes, e.g., general guarantees of indebtedness (including standby letters of credit serving as financial guarantees for loans and securities) and acceptances (including endorsements with the character of acceptances) will receive a CCF of 100%.
+
+(iii) Forward asset purchases, forward forward deposits and partly paid shares and securities, which represent commitments with certain drawdown, will receive a CCF of 100%.
+
+(iv) Certain transaction-related contingent items (e.g., performance bonds, bid bonds, warranties and standby letters of credit related to particular transactions) will receive a CCF of 50%.
+
+(v) Note issuance facilities (NIFs) and revolving underwriting facilities (RUFs) will receive a CCF of 50%.
+
+(vi) For short-term self-liquidating trade letters of credit arising from the movement of goods (e.g. documentary credits collateralised by the underlying shipment), a 20% CCF will be applied to both issuing and c

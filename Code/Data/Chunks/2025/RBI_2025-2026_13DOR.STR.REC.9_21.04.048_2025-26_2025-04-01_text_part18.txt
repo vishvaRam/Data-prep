@@ -1,0 +1,33 @@
+nce remaining continuously in excess of the sanctioned limit or drawing power, whichever is lower, for more than 30 days.
+
+*shall be March 31, 2022. If it continues to remain overdue, then this account shall get tagged as SMA-1 upon running day-end process on April 30, 2022 i.e. upon completion of 30 days of being continuously overdue. Accordingly, the date of SMA-1 classification for that account shall be April 30, 2022.*
+
+*Similarly, if the account continues to remain overdue, it shall get tagged as SMA-2 upon running day-end process on May 30, 2022 and if continues to remain overdue further, it shall get classified as NPA upon running day-end process on June 29, 2022.*
+
+8.5 As provided in terms of the circular [DBS.Dir.OSMOS.No.3327/33.01.001/2013-14 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8405&Mode=0)  [September 11, 2013](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8405&Mode=0) and subsequent instructions related thereto, scheduled commercial banks shall report credit information, including classification of an account as SMA to Central Repository of Information on Large Credits (CRILC), on all borrowers having aggregate exposure<sup>7</sup> of ₹5 crore and above with them. The CRILC-Main Report shall be submitted on a monthly basis. In addition, the lenders shall submit a weekly report of instances of default by all borrowers (with aggregate exposure of ₹5 crore and above) by close of business on every Friday, or the preceding working day if Friday happens to be a holiday.
+
+#### 9. Implementation of Resolution Plan
+
+9.1 All lenders must put in place Board-approved policies for resolution of stressed assets, including the timelines for resolution. Since default with any lender is a lagging indicator of financial stress faced by the borrower, it is expected that the lenders initiate the process of implementing a resolution plan (RP) even before a default. In **any case, once a borrower is reported to be in default by any of the lenders, lenders shall undertake a prima facie review of the borrower** account within thirty days from such default ("**Review Period**"). During this Review Period of thirty days, lenders may decide on the resolution strategy, including the nature of the RP, the approach for implementation of the RP, etc. The lenders may also choose to initiate legal proceedings for insolvency or recovery.
+
+9.2 In cases where RP is to be implemented, all lenders shall enter into an inter-creditor agreement (ICA), during the above-said Review Period, to provide for ground rules for finalisation and implementation of the RP in respect of borrowers with credit facilities from more than one lender.<sup>8</sup> The ICA shall provide that any decision agreed by lenders representing 75 per cent by value of total outstanding credit facilities (fund based as well non-fund based) and 60 per cent of
+
+<sup>7</sup> Aggregate exposure under the guidelines would include all fund based and non-fund based exposure, including investment exposure with the lenders.
+
+<sup>8</sup> In cases where asset reconstruction companies (ARCs) have exposure to the borrower concerned, they shall also sign the ICA and adhere to all its provisions.
+
+lenders by number shall be binding upon all the lenders. Additionally, the ICA may, *inter alia*, provide for rights and duties of majority lenders, duties and protection of rights of dissenting lenders, treatment of lenders with priority in cash flows/differential security interest, etc. In particular, the RPs shall provide for payment not less than the liquidation value<sup>9</sup> due to the dissenting lenders.
+
+9.3 In respect of accounts with aggregate exposure above a threshold with the lenders, as indicated below, on or after the 'reference date', RP shall be implemented within 180 days from the end of Review Period. The Review Period shall commence not later than:
+
+- a. The reference date, if in default as on the reference date; or
+- b. The date of first default after the reference date.
+
+
+9.4 The reference dates for the above purpose shall be as under:
+
+9.5 The RP may involve any action / plan / reorganization including, but not limited to, regularisation of the account by payment of all over dues by the borrower entity, sale of the exposures to other entities / investors, change in ownership and restructuring<sup>10</sup>. The RP shall be clearly documented by the lenders concerned (even if there is no change in any terms and conditions).
+
+## 10. Implementation Conditions for RP
+
+10.1 RPs involving restructuring / change in ownership in respect of accounts where the aggregate exposure of lenders is ₹100 crore and above, shall require independent credit evaluation (ICE) of the residual debt<sup>11</sup> by credit rating agencies (CRAs) specifically authorised by the Reserve Bank for this purpose. While accounts with aggregate exposure of ₹500 crore and above shall require two such ICEs, others shall require one ICE. Only such RPs which receiv

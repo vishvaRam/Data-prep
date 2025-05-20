@@ -1,0 +1,26 @@
+ks in favour of Government Departments in the name of the President of India, any correspondence thereon should be exchanged with the concerned ministries/ departments and not with the President of India.
+
+#### **2.2.8 Guarantees on behalf of Share and Stock Brokers/ Commodity Brokers**
+
+Banks may issue guarantees on behalf of share and stock brokers in favour of stock exchanges in lieu of security deposit to the extent it is acceptable in the form of bank guarantee as laid down by stock exchanges. Banks may also issue guarantees in lieu of margin requirements as per stock exchange regulations. Banks have been advised that they should obtain a minimum margin of 50 percent while issuing such guarantees. A minimum cash margin of 25 per cent (within the above margin of 50 per cent) should be maintained in respect of such guarantees issued by banks. The above minimum margin of 50 percent and minimum cash margin requirement of 25 percent (within the margin of 50 percent) will also apply to guarantees issued by banks on behalf of commodity brokers in favour of the commodity exchanges, registered with Securities and Exchange Board of India (SEBI), in lieu of margin requirements as per the commodity exchange regulations. Banks should assess the requirement of each applicant and observe usual and necessary safeguards including the exposure ceilings.
+
+## **2.2.8.1 Irrevocable Payment Commitments – Financial Guarantees**
+
+Banks issuing Irrevocable Payment Commitment (IPCs) to various Stock Exchanges on behalf of Mutual Funds and FPIs are advised to adopt the following risk mitigation measures:
+
+<span id="page-7-0"></span><sup>6</sup> <sup>2</sup> The previous stipulations under paragraph 2.2.7.2 related to bank guarantees issued in favour of Directorate General of Supplies and Disposal (DGS&D) have been repealed as DGS&D has been wound up and ceased operations
+
+- (i) Only those custodian banks would be permitted to issue IPCs who have a clause in the Agreement with their clients which gives them an inalienable right over the securities to be received as payout in any settlement. However, in cases where transactions are pre-funded i.e. there are clear INR funds in the customer's account and, in case of FX deals, the bank's nostro account has been credited before the issuance of the IPC by custodian banks, the requirement of the clause of inalienable right over the security to be received as payout in the agreement with the clients will not be insisted upon.
+- (ii) As regards calculation of Capital Market Exposure (CME), the relevant instructions are contained in para 2.3.5 of our [Master Circular on 'Exposure](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9875)  [Norms' dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9875) as amended from time to time.
+
+### **2.2.9 Guidelines relating to obtaining of personal guarantees of promoters, directors, other managerial personnel, and shareholders of borrowing concerns**
+
+Banks should take personal guarantees of promoters, directors, other managerial personnel or major shareholders for the credit facilities granted to corporates, public or private, only when absolutely warranted after a careful examination of the circumstances of the case and not as a matter of course. In order to identify the circumstances under which the guarantee may or may not be considered necessary, banks should be guided by the following broad considerations:
+
+#### **A. Where guarantees need not be considered necessary**
+
+(i) Ordinarily, in the case of public limited companies, when the lending institutions are satisfied about the management, its stake in the concern, economic viability of the proposal and the financial position and capacity for cash generation, no personal guarantee need be insisted upon. In fact, in the case of widely owned public limited companies, which may be rated as first class and satisfying the above conditions, guarantees may not be necessary even if the advances are unsecured. Also, in the case of companies, whether private or public, which are under professional management, guarantees may not be insisted upon from persons who are connected with the management solely by virtue of their professional/technical qualifications and not consequent upon any significant shareholding in the company concerned.
+
+(ii) Where the lending institutions are not so convinced about the aspects of loan proposals mentioned above, they should seek to stipulate conditions to make the proposals acceptable without such guarantees. In some cases, more stringent forms of financial discipline like restrictions on distribution of dividends, further expansion, aggregate borrowings, creation of further charge on assets and stipulation of maintenance of minimum net working capital may be necessary. Also, the parity between owned funds and capital investment and the overall debt-equity ratio may have to be taken into account.
+
+#### **B. Where guarantees 

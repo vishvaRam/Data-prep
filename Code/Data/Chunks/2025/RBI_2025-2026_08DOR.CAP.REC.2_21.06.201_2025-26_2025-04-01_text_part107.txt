@@ -1,0 +1,69 @@
+ating rate instruments, banks should not use its Fixed Deposit rate as benchmark.
+
+(b) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks of the instrument may be incorporated in the common application form of the proposed debt issue.
+
+# *"By making this application, I / We acknowledge that I/We have understood the terms and conditions of the Issue of [insert the name of the instruments being issued ] of [Name of The Bank ] as disclosed in the Draft Shelf Prospectus, Shelf Prospectus and Tranche Document ".*
+
+(c) All the publicity material, application form and other communication with the investor should clearly state in bold letters (**with font size 14**) how a Perpetual Debt Instrument is different from fixed deposit particularly that it is not covered by deposit insurance. In addition, the loss absorbency features of the instrument should be clearly explained and the investor's sign-off for having understood these features and other terms and conditions of the instrument should be obtained.
+
+<span id="page-203-0"></span> <sup>189</sup> Please refer t[o circular DBOD.BP.BC.38/21.06.201/2014-15 dated September 1, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9202&Mode=0) on Implementation of Basel III Capital Regulations in India – Amendments.
+
+### **Annex 4A**
+
+#### **Illustration on the "eligible amount" that can be raised as per paragraph 1.16 (ii) of [Annex 4](#page-195-0)**
+
+<span id="page-204-0"></span>We consider the RWAs of the bank as on March 31 of previous financial year as ₹ 1000 crore.
+
+
+*Note*: The amount of AT1 capital recognised for inclusion in Tier 1 capital will be subject to the limits mentioned in para 4.2.2 and para 1.3 of [Annex 4](#page-195-0) of the Master Circular.
+
+#### **Annex 5** (cf. para 4.2.5)
+
+#### **Criteria for Inclusion of Debt Capital Instruments as Tier 2 Capital**
+
+<span id="page-205-0"></span>The Tier 2 debt capital instruments that may be issued as bonds / debentures by Indian banks should meet the following terms and conditions to qualify for inclusion as Tier 2 Capital for capital adequacy purposes[190](#page-205-1):
+
+#### **1. Terms of Issue of Instruments Denominated in Indian Rupees**
+
+#### **1.1 Paid-in Status**
+
+The instruments should be issued by the bank (i.e., not by any 'SPV' etc. set up by the bank for this purpose) and fully paid-in.
+
+#### **1.2 Amount**
+
+The amount of these debt instruments to be raised may be decided by the Board of Directors of banks.
+
+#### **1.3 Maturity Period**
+
+The debt instruments should have a minimum maturity of five years and there are no step-ups or other incentives to redeem.
+
+#### **1.4 Discount**
+
+The debt instruments shall be subjected to a progressive discount for capital adequacy purposes. As they approach maturity these instruments should be subjected to progressive discount as indicated in the table below for being eligible for inclusion in Tier 2 capital.
+
+
+### **1.5 Rate of Interest**
+
+(i) The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+
+(ii) The instrument cannot have a credit sensitive coupon feature, i.e., a coupon that is reset periodically based in whole or in part on the banks' credit standing. Banks desirous of offering
+
+<span id="page-205-1"></span> <sup>190</sup> The criteria relating to loss absorbency through conversion / write-down / write-off at the point of non-viability are furnished in Annex 16.
+
+floating reference rate may take prior approval of the RBI (DOR) as regard permissibility of such reference rates.
+
+# **1.6 Optionality**
+
+The debt instruments shall not have any 'put option'. However, it may be callable at the initiative of the issuer only after a minimum of five years:
+
+(a) To exercise a call option a bank must receive prior approval of RBI (Department of Regulation); and
+
+(b) A bank must not do anything which creates an expectation that the call will be exercised. For example, to preclude such expectation of the instrument being called, the dividend / coupon reset date need not be co-terminus with the call date. Banks may, at their discretion, consider having an appropriate gap between dividend / coupon reset date and call date; and
+
+(c) Banks must not exercise a call unless:
+
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank[191](#page-206-0); or
+
+(ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised[192.](#page-206-1)
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points (a) to (c) of criterion 1.6. RBI will permit the bank to exercise the call only if t

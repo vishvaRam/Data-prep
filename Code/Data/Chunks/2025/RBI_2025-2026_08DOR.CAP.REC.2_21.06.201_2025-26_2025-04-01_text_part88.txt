@@ -1,0 +1,57 @@
+tal (i.e., either deduction from Common Equity Tier 1 capital or deduction from Additional Tier 1 capital following corresponding deduction approach) as set out in paragraph 4.4
+
+<span id="page-167-0"></span> <sup>131</sup> Please refer to [circular no. DBR.BP.BC.No.49/21.06.201/2018-19 dated June 28, 2019](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11606&Mode=0) on Basel III Capital Regulations- Implementation of Leverage Ratio.
+
+<span id="page-167-1"></span><sup>132</sup> Please refer to paragraph 3: Scope of Application of Capital Adequacy Framework. Please also refer to circulars [DBOD.No.BP.BC.72/21.04.018/2001-02 dated February 25, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1071&Mode=0) an[d DBOD.No.FSD.BC.46/24.01.028/2006-07 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3206&Mode=0)  [December 12, 2006.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3206&Mode=0)
+
+- Regulatory Adjustments / Deductions[133](#page-168-0) of this Master Circular may be excluded from the leverage ratio exposure measure.
+
+# **16.3 Capital Measure**
+
+The capital measure for the leverage ratio is the Tier 1 capital of the risk-based capital framework[134,](#page-168-1) taking into account various regulatory adjustments / deductions and the transitional arrangements. In other words, the capital measure used for the leverage ratio at any particular point in time is the Tier 1 capital measure applying at that time under the risk-based framework.
+
+# **16.4 Exposure Measure**
+
+# **16.4.1 General Measurement Principles**
+
+(i) The exposure measure for the leverage ratio should generally follow the accounting value, subject to the following:
+
+- on-balance sheet, non-derivative exposures are included in the exposure measure net of specific provisions or accounting valuation adjustments (e.g. accounting credit valuation adjustments, prudent valuation adjustments);
+- netting of loans and deposits is not allowed.
+
+(ii) Unless specified differently below, banks must not take account of physical or financial collateral, guarantees or other credit risk mitigation techniques to reduce the exposure measure.
+
+(iii) A bank's total exposure measure is the sum of the following exposures:
+
+- (a) on-balance sheet exposures;
+- (b) derivative exposures;
+- (c) securities financing transaction (SFT) exposures; and
+- (d) off- balance sheet (OBS) items.
+
+The specific treatments for these four main exposure types are defined in paragraphs 16.4.2 to 16.4.5 below.
+
+# **16.4.2 On-balance sheet exposures**
+
+<span id="page-168-0"></span> <sup>133</sup> Regulatory adjustments / deductions as indicated in paragraph 4.4.
+
+<span id="page-168-1"></span><sup>134</sup> Tier 1 capital as defined in paragraph 4: Composition of regulatory capital.
+
+16.4.2.1 Banks must include all balance sheet assets in their exposure measure, including onbalance sheet derivatives collateral and collateral for SFTs, with the exception of on-balance sheet derivative and SFT assets that are covered in paragraph 16.4.3 and 16.4.4 below[135](#page-169-0).
+
+16.4.2.2 However, to ensure consistency, balance sheet assets deducted from Tier 1 capital as set out in paragraph 4.4 - Regulatory Adjustments / Deductions may be deducted from the exposure measure. Following are the two examples:
+
+- Where a banking, financial or insurance entity is not included in the regulatory scope of consolidation (as set out in paragraph 16.2.3), the amount of any investment in the capital of that entity that is totally or partially deducted from CET1 capital or from Additional Tier 1 capital of the bank (in terms of paragraphs 3.4.2 and 4.4.9.2(C)) may also be deducted from the exposure measure.
+- For banks using the internal ratings-based (IRB) approach to determining capital requirements for credit risk, paragraph 4.4.4 requires any shortfall in the stock of eligible provisions relative to expected losses to be deducted from CET1 capital. The same amount may be deducted from the exposure measure.
+
+16.4.2.3 Liability items must not be deducted from the exposure measure. For example, gains/losses on fair valued liabilities or accounting value adjustments on derivative liabilities due to changes in the bank's own credit risk as described in paragraph 4.4.6 must not be deducted from the exposure measure.
+
+### **16.4.3 Derivative exposures**
+
+16.4.3.1 **Treatment of derivatives**: Derivatives create two types of exposure:
+
+- (a) an exposure arising from the underlying of the derivative contract; and
+- (b) a counterparty credit risk (CCR) exposure.
+
+The leverage ratio framework uses the method set out below to capture both of these exposure types.
+
+<span id="page-169-0"></span> <sup>135</sup> Where a bank according to its operative accounting framework recognises fiduciary assets on the balance sheet, these assets can be excluded from the leverage ratio exposure measure provided that the assets meet the IAS 39 criteria for derecognition and, where applicable

@@ -1,0 +1,39 @@
+ fully derecognised as eligible capital instrument.
+
+4.5.3 Capital instruments, which do not meet the criteria for inclusion in Common Equity Tier 1, were excluded from Common Equity Tier 1 as on April 1, 2013.
+
+<span id="page-32-0"></span> <sup>27</sup> Please refer to clause 28 and 41 of Master Direction - [Classification, Valuation and Operation of Investment](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)  [Portfolio of Commercial Banks \(Directions\), 2023 dated September 12, 2023.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12534)
+
+# <span id="page-33-0"></span>**5. Capital Charge for Credit Risk**
+
+### **5.1 General**
+
+Under the Standardised Approach, the rating assigned by the eligible external credit rating agencies will largely support the measure of credit risk. The Reserve Bank has identified the external credit rating agencies that meet the eligibility criteria specified under the revised Framework. Banks shall rely upon the ratings assigned by the external credit rating agencies chosen by the Reserve Bank for assigning risk weights for capital adequacy purposes as per the mapping furnished in these guidelines.
+
+### **5.2 Claims on Domestic Sovereigns**
+
+5.2.1 Both fund based and non-fund based claims on the central government will attract a zero risk weight. Central Government guaranteed claims will attract a zero risk weight.
+
+5.2.2 The Direct loan / credit / overdraft exposure, if any, of banks to the State Governments and the investment in State Government securities will attract zero risk weight. State Government guaranteed claims will attract 20 per cent risk weight.
+
+5.2.3 The risk weight applicable to claims on central government exposures will also apply to the claims on the Reserve Bank of India, DICGC, Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) and Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and individual schemes under National Credit Guarantee Trustee Company Ltd. (NCGTC) which are backed by explicit Central Government Guarantee. The claims on ECGC will attract a risk weight of 20 per cent.
+
+5.2.4 The risk weight of zero percent as mentioned in para 5.2.3 above shall be applicable in respect of exposures guaranteed under any existing or future schemes launched by CGTMSE, CRGFTLIH and NCGTC satisfying the following conditions[28:](#page-33-1)
+
+i. **Prudential Aspects**: The guarantees provided under the respective schemes should comply with the requirements for credit risk mitigation in terms of paragraph 7.5 of this Master Circular which *inter alia* requires such guarantees to be direct, explicit, irrevocable and unconditional.
+
+ii. **Restrictions on permissible claims**: Where the terms of the guarantee schemes restrict the maximum permissible claims through features like specified extent of guarantee coverage, clause on first loss absorption by member lending institutions (MLI), payout cap, etc., the zero percent risk weight shall be restricted to the maximum permissible claim and the residual exposure shall be subjected to risk weight as applicable to the counterparty in terms of extant regulations.
+
+iii. In case of a portfolio-level guarantee, effective from April 1, 2023, the extent of exposure subjected to first loss absorption by the MLI, if any, shall be subjected to full capital deduction and
+
+<span id="page-33-1"></span> <sup>28</sup> Please refer to th[e circular DOR.STR.REC.67/21.06.201/2022-23 dated September 7, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12384&Mode=0) on Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS).
+
+the residual exposure shall be subjected to risk weight as applicable to the counterparty in terms of extant regulations, on a *pro rata* basis. The maximum capital charge shall be capped at a notional level arrived at by treating the entire exposure as unguaranteed.
+
+Subject to the aforementioned prescriptions, any scheme launched after September 7, 2022 under any of the aforementioned Trust Funds, in order to be eligible for zero percent risk weight, shall provide for settlement of the eligible guaranteed claims within thirty days from the date of lodgement, and the lodgement shall be permitted within sixty days from the date of default. Some illustrative examples of risk weights applicable on claims guaranteed under specific existing schemes are given in the **[Annex](#page-314-0) 24**.
+
+The above regulatory stipulation shall be applicable to all the banks to the extent they are recognised as eligible MLIs under the respective schemes.
+
+5.2.5 The above risk weights for both direct claims and guarantee claims will be applicable as long as they are classified as 'standard' / performing assets. Where these sovereign exposures are classified as non-performing, they would attract risk weights as applicable to NPAs, which are detailed in paragraph 5.12.
+
+5.2.6 The above risk weights will be applied i

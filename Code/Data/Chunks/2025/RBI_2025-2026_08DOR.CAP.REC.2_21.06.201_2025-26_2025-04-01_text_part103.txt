@@ -1,0 +1,46 @@
+r at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+
+# **1.6 Optionality**
+
+PDIs shall not have any 'put option'. However, banks may issue the instruments with a call option at a particular date subject to following conditions:
+
+a. The call option on the instrument is permissible after the instrument has run for at least five years;
+
+- b. To exercise a call option a bank must receive prior approval of RBI (Department of Regulation);
+- c. A bank must not do anything which creates an expectation that the call will be exercised. For example, to preclude such expectation of the instrument being called, the dividend / coupon reset date need not be co-terminus with the call date. Banks may, at their discretion, consider having an appropriate gap between dividend / coupon reset date and call date; and
+- d. Banks must not exercise a call unless:
+
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank[181](#page-196-0); or
+
+(ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised[182.](#page-196-1)
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points (b) to (d) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of PDIs.
+
+To illustrate, if there is a change in tax treatment which makes the capital instrument with tax deductible coupons into an instrument with non-tax deductible coupons, then the bank would have the option (not obligation) to repurchase the instrument. In such a situation, a bank may be allowed to replace the capital instrument with another capital instrument that perhaps does have tax deductible coupons. Similarly, if there is a downgrade of the instrument in regulatory classification (e.g., if it is decided by the RBI to exclude an instrument from regulatory capital) the bank has the option to call the instrument and replace it with an instrument with a better regulatory classification, or a lower coupon with the same regulatory classification with prior approval of RBI. However, banks may not create an expectation / signal an early redemption / maturity of the regulatory capital instrument.
+
+# **1.7 Repurchase / Buy-back / Redemption**
+
+(i) Principal of the instruments may be repaid (e.g., through repurchase or redemption) only with prior approval of RBI and banks should not assume or create market expectations that supervisory approval will be given (this repurchase / buy-back /redemption of the principal is in a situation other than in the event of exercise of call option by the bank. One of the major differences
+
+<span id="page-196-0"></span> <sup>181</sup> Replacement issues can be concurrent with but not after the instrument is called.
+
+<span id="page-196-1"></span><sup>182</sup> Minimum refers to Common Equity Tier 1 of 8% of RWAs (including capital conservation buffer of 2.5% of RWAs) and Total capital of 11.5% of RWAs including additional capital requirements identified under Pillar 2.
+
+is that in the case of the former, the option to offer the instrument for repayment on announcement of the decision to repurchase / buy-back /redeem the instrument, would lie with the investors whereas, in case of the latter, it lies with the bank).
+
+(ii) Banks may repurchase / buy-back / redemption only if:
+
+(a) They replace such instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank; or
+
+(b) The bank demonstrates that its capital position is well above the minimum capital requirements after the repurchase / buy-back / redemption.
+
+## **1.8 Coupon Discretion**
+
+- (a) The bank must have full discretion at all times to cancel distributions/payments[183](#page-197-0)
+- (b) Cancellation of discretionary payments must not be an event of default
+- (c) Banks must have full access to cancelled payments to meet obligations as they fall due
+- (d) Cancellation of distributions/payments must not impose restrictions on the bank except in relation to distributions to common stakeholders.
+- (e) Coupons must be paid out of 'distributable items'[184](#page-197-1). In this context, coupon may be paid out of current year profits. However, if current year profits are not sufficient, coupon may be paid subject to availability of:
+	- (i) Profits brought forward from previous years, and/or
+
+(ii) Reserves representing appropriation of net profits, including statutory reserves, and excluding share premium, revaluation reserve, foreign currency translation reserve, investment reserve, unrealised gains tran

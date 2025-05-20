@@ -1,0 +1,62 @@
+ing Book (IRRBB)**
+
+#### **Qualitative Disclosures**
+
+(a) The general qualitative disclosure requirement including the nature of IRRBB and key assumptions, including assumptions regarding loan prepayments and behaviour of nonmaturity deposits, and frequency of IRRBB measurement.
+
+#### **Quantitative Disclosures**
+
+(b) The increase (decline) in earnings and economic value (or relevant measure used by management) for upward and downward rate shocks according to management's method for measuring IRRBB, broken down by currency (where the turnover is more than 5% of the total turnover).
+
+
+#### **Table DF-10: General Disclosure for Exposures Related to Counterparty Credit Risk**
+
+<span id="page-278-0"></span> <sup>252</sup> Net credit exposure is the credit exposure on derivatives transactions after considering both the benefits from legally enforceable netting agreements and collateral arrangements. The notional amount of credit derivative hedges alerts market participants to an additional source of credit risk mitigation.
+
+
+### **3 Composition of Capital Disclosure Templates**
+
+### **3.1 Disclosure Template**
+
+(i) The template is designed to capture the capital positions of banks. Certain rows are in *italics*. These rows will be deleted after all the ineligible capital instruments have been fully phased out (i.e., from April 1, 2022 onwards).
+
+(ii) The reconciliation requirement in terms of paragraph 14.13 of this Master Circular results in the decomposition of certain regulatory adjustments. For example, the disclosure template below includes the adjustment of 'Goodwill net of related tax liability'. The requirements will lead to the disclosure of both the goodwill component and the related tax liability component of this regulatory adjustment.
+
+(iii) Certain rows of the template are shaded as explained below:
+
+- a. each dark grey row introduces a new section detailing a certain component of regulatory capital.
+- b. the light grey rows with no thick border represent the sum cells in the relevant section.
+- c. the light grey rows with a thick border show the main components of regulatory capital and the capital ratios.
+
+(iv) Also provided along with the Table, an explanation of each line of the template, with references to the appropriate paragraphs of this Master Circular.
+
+ <sup>253</sup> For example, interest rate contracts, FX contracts, credit derivatives, and other contracts.
+
+<span id="page-279-1"></span><span id="page-279-0"></span><sup>254</sup> For example, credit default swaps.
+
+#### **Table DF-11: Composition of Capital**
+
+(Rs. in million)
+
+
+<span id="page-280-0"></span> <sup>255</sup> Not Applicable to commercial banks in India.
+
+<span id="page-280-1"></span><sup>256</sup> In terms of Basel III rules text issued by the Basel Committee (December 2010), DTAs that rely on future profitability of the bank to be realized are to be deducted. DTAs which relate to temporary differences are to be treated under the "threshold deductions" as set out in paragraph 87.
+
+<span id="page-280-2"></span><sup>257</sup> Only significant investments other than in the insurance and non-financial subsidiaries should be reported here. The insurance and non-financial subsidiaries are not consolidated for the purpose of capital adequacy. The equity and other regulatory capital investments in insurance subsidiaries are fully deducted from consolidated regulatory
+
+
+capital of the banking group. However, in terms of Basel III rules text of the Basel Committee, insurance subsidiaries are included under significant investments and thus, deducted based on 10% threshold rule instead of full deduction. <sup>258</sup> Not applicable in Indian context.
+
+<span id="page-281-1"></span><span id="page-281-0"></span><sup>259</sup> Please refer to Footnote 246 above.
+
+<span id="page-281-2"></span><sup>260</sup> Adjustments which are not specific to the Basel III regulatory adjustments (as prescribed by the Basel Committee) will be reported under this row. However, regulatory adjustments which are linked to Basel III i.e., where there is a change in the definition of the Basel III regulatory adjustments, the impact of these changes will be explained in the Notes of this disclosure template.
+
+<span id="page-281-3"></span><sup>261</sup> Non-financial subsidiaries are not consolidated for the purpose of capital adequacy. The equity and other regulatory capital investments in the non-financial subsidiaries are deducted from consolidated regulatory capital of the group. These investments are not required to be deducted fully from capital under Basel III rules text of the Basel Committee.
+
+<span id="page-281-4"></span><sup>262</sup> Please refer to paragraph 3.4.5 of this Master Circular. Please also refer to the Paragraph 34 of the Basel II Framework issued by the Basel Committee (June 2006). Though this is not national specific adjustment, it is reported here.
+
+
+<span id="page-282-0"></span> <sup>263</sup> Please refer to Footnote 247 above.
+
+<s

@@ -1,0 +1,31 @@
+ed having regard to the internal rating of the borrower. Further, in considering the question of risk, the presence or absence of security and the value thereof should be taken into account.
+- (iii) The total cost to the borrower, including interest and all other charges levied on a loan, should be justifiable having regard to the total cost incurred by the UCB in extending the loan, which is sought to be defrayed and the extent of return that could be reasonably expected from the transaction.
+- (iv) UCBs should ensure that the total interest debited to an account should not exceed the principal amount in respect of short term advances granted to small and marginal farmers. The small and marginal farmers for the purpose shall include those with land holding of 5 acres and less.
+- (v) An appropriate ceiling may be fixed on the interest, including processing and other charges that could be levied on such loans, which may be suitably publicised.
+- (vi) Foreclosure Charges / Prepayment Penalty UCBs are not permitted to charge foreclosure charges / prepayment penalties on all floating rate term loans sanctioned to individual borrowers.
+- (vii) UCBs shall comply with the instructions contained in the [circular on 'Key Facts Statement](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0)
+
+[\(KFS\) for Loans & Advances' dated April 15, 2024](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12663&Mode=0) (format of KFS as given in the circular is incorporated in [Annex-1\)](#page-20-0).
+
+4.1.2 Reset of floating interest rate on Equated Monthly Instalment (EMI) based personal loans
+
+At the time of sanction of EMI based floating rate personal loans, UCBs are required to take into account the repayment capacity of borrowers to ensure that adequate headroom/margin is available for elongation of tenor and/or increase in EMI, in the scenario of possible increase in the benchmark rate during the tenor of the loan. Further, UCBs are advised to put in place an appropriate policy framework for reset of floating interest rates on EMI based personal loans, complying with the requirements contained in the [circular DOR.MCS.REC.32/01.01.003/2023-24](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12529&Mode=0)  [dated August 18, 2023.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12529&Mode=0) A set of [frequently asked questions \(FAQs\)](https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=170) providing clarifications related to implementation of the circular has been uploaded in the FAQs section of the RBI website.
+
+## 4.2 No Objection Certificate
+
+UCBs should not finance a borrower already availing credit facility from another bank without obtaining a 'No Objection Certificate' from the existing financing bank.
+
+#### 4.3 Opening of Current Accounts
+
+4.3.1 Keeping in view the importance of credit discipline, at the time of opening of current accounts, UCBs should:
+
+- (i) insist on a declaration from the account holder to the effect that he is not enjoying any credit facility with any other commercial bank or obtain a declaration giving particulars of credit facilities enjoyed by him with any other commercial bank/s.
+- (ii) ascertain whether he / she is a member of any other co-operative society / bank; if so, the full details thereof such as name of the society / bank, number of shares held, details of credit facilities, such as nature, quantum, outstanding, due dates etc. should be obtained.
+
+4.3.2 In case the borrower is already enjoying any credit facility from any other commercial / cooperative bank, the UCB opening a current account should duly inform the lending bank(s) concerned and also specifically insist on obtaining a "No Objection Certificate" from them. In case of a prospective customer who is a corporate or large borrower enjoying credit facilities from more than one bank, the banks may inform the consortium leader, if under consortium, and the banks concerned, if under multiple banking arrangement. In case a facility has been availed from a cooperative bank / society, it is essential for the UCB to comply with the requirements of the Cooperative Societies Act / Rules of the state concerned in regard to membership and borrowings.
+
+4.3.3 UCBs may open current accounts of prospective customers in case no response is received from the existing bankers after a minimum waiting period of a fortnight. If a response is received within a fortnight, UCBs should assess the situation with reference to information provided on the prospective customer by the bank concerned and are not required to solicit a formal no objection, consistent with true freedom to the customer of banks as well as needed due diligence on the customer by the bank.
+
+4.4 Certification of Accounts of Non-Corporate Borrowers by Chartered Accountants
+
+As per the Income Tax Act, 1961, filing of audited balance sheet and Profit & Loss Account is mandatory for certain types of non-corporate entities. Therefore, the UCBs must insist on

@@ -1,0 +1,70 @@
+rising from discounted bills drawn under LCs issued by a UCB under AID shall be fully provided within five years at the rate of 20% annually. Further, the interest receivable on the deposits shall not be recognised as income by the UCBs.
+- b) If the UCBs choose to convert such deposits into long term perpetual debt instruments (e.g. Innovative Perpetual Debt Instrument - IPDI) which may be recognised as capital instrument under a scheme of restructuring/ revival of a UCB under AID, provision on the portion of deposits converted into such instruments shall not be required.
+
+### **6. Transfer of Loan Exposures**
+
+The asset classification and provisioning requirements in respect of transactions involving transfer of loans shall be as per the [Reserve Bank of India \(Transfer of Loan Exposures\) Directions, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166)
+
+## **7. Government Debt Relief Schemes (DRS)**
+
+Banks participating as lenders under Debt Relief Schemes (DRS) announced by State Governments shall comply with the guidelines contained in Annex-1 of th[e circular on Government Debt Relief Schemes \(DRS\)](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12760&Mode=0)  [dated December 31, 2024,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12760&Mode=0)
+
+8. Clarification on certain frequently asked questions is given at [Annex 4.](#page-27-0)
+
+## **Direct Finance to Agriculture**
+
+## <span id="page-22-0"></span>**1.1 Finance to Individual Farmers for Agriculture and Allied Activities (Dairy, Fishery, Piggery, Poultry, Bee-keeping, etc.)**
+
+Loans to individual farmers [including Self Help Groups (SHGs) or Joint Liability Groups (JLGs), i.e. groups of individual farmers, provided banks maintain disaggregated data on such loans] engaged in Agriculture and Allied Activities, viz., dairy, fishery, animal husbandry, poultry, bee-keeping and sericulture (up to cocoon stage).
+
+#### **1.2 Loans to others [such as corporates, partnership firms and institutions] for Agriculture and Allied Activities (dairy, fishery, piggery, poultry, bee-keeping, etc.) up to an aggregate limit of 4 crore per borrower for the following purposes:**
+
+(i) Short-term loans for raising crops, i.e. for crop loans. This will include traditional/non-traditional plantations, horticulture and allied activities.
+
+(ii) Medium & long-term loans for agriculture and allied activities (e.g. purchase of agricultural implements, technological solutions, machinery and developmental activities undertaken in the farm and development loans for allied activities).
+
+(iii) Loans for pre-harvest and post-harvest activities viz. spraying, harvesting, grading and transporting of their own farm produce.
+
+(iv) Loans to farmers up to ₹2.5 crore against pledge / hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months, irrespective of whether the farmers were given crop loans for raising the produce or not.
+
+(v) Loans to small and marginal farmers (SMFs) for purchase of land for agricultural purposes.
+
+(vi) Loans to distressed farmers indebted to non-institutional lenders, against appropriate collateral.
+
+(vii) Export credit for exporting their own farm produce.
+
+#### <span id="page-23-0"></span>**Proforma**
+
+Name of the Bank
+
+Category Tier 1 / Tier 2/Tier 3/Tier 4
+
+
+
+### **Position of Net Advances / Net NPAs**
+
+
+CERTIFIED that the non-performing assets have been worked out as per RBI instructions and provisions made accordingly.
+
+Chief Executive Officer
+
+Statutory Auditors
+
+<span id="page-24-0"></span><sup>8</sup> Refer to para 3 c) ii of th[e circular DOR.CAP.REC.No.27/09.18.201/2024-25 dated August 02, 2024](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12716&Mode=0)
+
+### <span id="page-25-0"></span>**Illustrative Accounting Entries to be passed in respect of Accrued Interest on both the Performing and Non-performing Advances**
+
+# **I. Accrued Interest on Performing Advances**
+
+i) It has been clarified in paragraph 4.5.2 and 4.5.3 (ii) of the Master Circular that accrued interest in respect of performing advances may be charged to borrowal accounts and taken to income account. Illustratively, if the accrued interest is ₹10,000/- in respect of performing advances of a borrower 'X' (cash credit, overdraft, loan account, etc.) the following entries can be passed in the Books of Account.
+
+
+ii) In case the accrued interest of ₹10,000/- in respect of the borrowal account is not actually realised and the account has become NPA, interest accrued and credited to income account should be reversed or provided for if the same is not realised by passing the following entries :
+
+
+iii) In case accrued interest is realised subsequently, the following entries may be passed:
+
+
+## **II. Accrued Interest on Non-Performing Advances**
+
+i) Accrued interest in respect of non-performing advances may be debited to 'Interest Receivable Account' and corresponding amount credited to 'Overdue Int

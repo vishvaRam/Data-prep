@@ -1,0 +1,4 @@
+| Sr<br>No | Newly Created<br>District | Lead Bank<br>Responsibility assigned<br>to | District Working Code<br>allotted to new district                    |
+|----------|---------------------------|--------------------------------------------|----------------------------------------------------------------------|
+| 1        | Hojai                     | State Bank of India                        | 409<br>(to be read as 'numeral four,<br>numeral zero, numeral nine') |
+

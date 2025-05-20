@@ -1,0 +1,73 @@
+d so determined not being less than one day. For borrowers continuing with the loan even after look-up period, pre-payment shall continue to be allowed as per extant RBI guidelines."*
+
+charges which are levied by the RE. Illustrative examples of calculation of APR and disclosure of repayment schedule for a hypothetical loan are given in **[Annex B](#page-6-0) and [C](#page-6-1) respectively**.
+
+7. Charges recovered from the borrowers by the REs on behalf of third-party service providers on actual basis, such as insurance charges, legal charges etc., shall also form part of the APR and shall be disclosed separately. In all cases wherever the RE is involved in recovering such charges, the receipts and related documents shall be provided to the borrower for each payment, within a reasonable time.
+
+8. Any fees, charges, etc. which are not mentioned in the KFS, cannot be charged by the REs to the borrower at any stage during the term of the loan, without explicit consent of the borrower.
+
+9. The KFS shall also be included as a summary box to be exhibited as part of the loan agreement.
+
+# **Exemptions**
+
+10. Credit card receivables are exempted from the provisions contained under this circular.
+
+# **Applicability and Commencement**
+
+11. REs shall put in place the necessary systems and processes to implement the above guidelines at the earliest. In any case, all new retail and MSME term loans sanctioned on or after October 1, 2024, including fresh loans to existing customers, shall comply with the above guidelines in letter and spirit without any exception. During the interregnum, the relevant provisions on 'KFS/Factsheet' under the extant guidelines shall continue to remain applicable, including the ['Guidelines on Digital](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12382&Mode=0)  [Lending',](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12382&Mode=0) the [Master Direction on 'Regulatory Framework for Microfinance Loans',](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12256) and the [circular on 'Display of Information by Banks'.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9508&Mode=0)
+
+## **Legal Provisions**
+
+12. The above instructions are issued under sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, and sections 30A and 32 of the National Housing Bank Act, 1987.
+
+# **Repeal**
+
+13. With the issue of these guidelines, the instructions/guidelines contained in the following circulars, issued by the Reserve Bank stand repealed.
+
+
+All the repealed circulars/provisions shall be deemed to have been in force during the relevant periods, prior to the coming into effect of these directions.
+
+Yours faithfully,
+
+Vaibhav Chaturvedi (Chief General Manager)
+
+### **Key Facts Statement**
+
+#### **Part 1 (Interest rate and fees/charges)**
+
+<span id="page-4-0"></span>
+
+
+#### <span id="page-4-1"></span>**Part 2 (Other qualitative information)**
+
+<span id="page-4-2"></span>
+
+
+<sup>2</sup> Fixed reset, other than on account of changes in credit profile
+
+<span id="page-4-3"></span><sup>3</sup> Please refer [circular 'Reset of Floating Interest Rate on Equated Monthly Instalments \(EMI\) based Personal](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12529&Mode=0) 
+
+[Loans' dated August 18, 2023.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12529&Mode=0) 4 REs may disclose the amount net of any taxes such as GST
+
+<span id="page-4-5"></span><span id="page-4-4"></span><sup>5</sup> Mention frequency, where recurring
+
+<span id="page-4-6"></span><sup>6</sup> Please refer to the illustration in Annex B
+
+
+<span id="page-5-0"></span> <sup>7</sup> RE may furnish generic email id, provided a response is made within 1 working day
+
+<span id="page-6-0"></span>
+
+
+# **Illustration for computation of APR for Retail and MSME loans**
+
+**Annex C**
+
+<span id="page-6-1"></span> <sup>8</sup> Where such charges cannot be determined prior to sanction, REs may indicate an upper ceiling
+
+<span id="page-6-3"></span><span id="page-6-2"></span><sup>9</sup> The difference in repayment amount calculated from the total of instalments given under the detailed repayment schedule i.e., ₹23,280 (=970\*24) vis-à-vis the amount of ₹23,274 (₹20,000 (loan amount) + ₹3,274 (Interest charges) mentioned under (8) is due to rounding off the instalment amount of ₹969.73 to ₹970 under the detailed repayment schedule
+
+<span id="page-6-4"></span><sup>10</sup> Computed on net disbursed amount using IRR approach and reducing balance method
+
+
+## **Illustrative Repayment Schedule under Equated Periodic Instalment for the hypothetical loan illustrated in Annex B**

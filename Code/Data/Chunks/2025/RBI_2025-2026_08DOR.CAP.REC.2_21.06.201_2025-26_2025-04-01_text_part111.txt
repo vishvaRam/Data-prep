@@ -1,0 +1,59 @@
+e prior approval of RBI (Department of Regulation); and
+
+(c) A bank must not do anything which creates an expectation that the call will be exercised. For example, to preclude such expectation of the instrument being called, the dividend / coupon reset date need not be co-terminus with the call date. Banks may, at their discretion, consider having an appropriate gap between dividend / coupon reset date and call date; and
+
+(d) Banks must not exercise a call unless:
+
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank[198](#page-213-0); or
+
+(ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised[199.](#page-213-1)
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points (b) to (d) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of these instruments as explained in case of Additional Tier 1 instruments.
+
+# **1.7 Treatment in Bankruptcy / Liquidation**
+
+The investor must have no rights to accelerate the repayment of future scheduled payments (coupon or principal) except in bankruptcy and liquidation.
+
+# **1.8 Prohibition on Purchase / Funding**
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase these instruments, nor can
+
+<span id="page-213-0"></span> <sup>198</sup> Replacement issues can be concurrent with but not after the instrument is called.
+
+<span id="page-213-1"></span><sup>199</sup> Minimum refers to Common Equity Tier 1 of 8% of RWAs (including capital conservation buffer of 2.5% of RWAs) and Total Capital of 11.5% of RWAs including and additional capital identifies under Pillar 2.
+
+the bank directly or indirectly should fund the purchase of the instrument. Banks should also not grant advances against the security of these instruments issued by them.
+
+# **1.9 Reporting of Non-payment of Coupon and Non-exercise of Call Option**
+
+All instances of non-payment of coupon and non-exercise of call option should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision of the Reserve Bank of India, Mumbai.
+
+## **1.10 Seniority of Claim**
+
+The claims of the investors in instruments shall be:
+
+- (i) senior to the claims of investors in instruments eligible for inclusion in Tier 1 capital;
+- (ii) subordinate to the claims of all depositors and general creditors of the bank; and
+- (iii) is neither secured nor covered by a guarantee of the issuer or related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+
+## **1.11 Investment in Instruments Raised in Indian Rupees by Foreign Entities/NRIs**
+
+(i) Investment by FIIs and NRIs shall be within an overall limit of 49% and 24% of the issue respectively, subject to the investment by each FII not exceeding 10% of the issue and investment by each NRI not exceeding 5% of the issue. Investment by FIIs in these instruments shall be outside the ECB limit for rupee denominated corporate debt as fixed by Government of India from time to time. However, investment by FIIs in these instruments will be subject to separate ceiling of USD 500 million. The overall non-resident holding of Preference Shares and equity shares in public sector banks will be subject to the statutory / regulatory limit.
+
+(ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+
+# **1.12 Compliance with Reserve Requirements**
+
+(a) The funds collected by various branches of the bank or other banks for the issue and held pending finalization of allotment of these instruments will have to be taken into account for the purpose of calculating reserve requirements.
+
+(b) The total amount raised by a bank through the issue of these instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR / SLR requirements.
+
+### **1.13 Reporting of Issuances**
+
+Banks issuing these instruments shall submit a report to the Chief General Manager-in-charge, Department of Regulation, Reserve Bank of India, Mumbai giving details of the instrument as per
+
+the format prescribed in **[Annex 22](#page-309-0)** duly certified by the compliance officer of the bank, soon after the issue is completed.
+
+# **1.14 Investment in these Instruments Issued by other Banks/ FIs**
+
+(i) A bank's investment in these instruments issued by 

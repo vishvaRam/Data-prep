@@ -1,0 +1,49 @@
+ CDS and the appreciation / depreciation in the underlying bond at all times. This paragraph will apply only when two legs consist of completely identical CDS instruments.
+
+<span id="page-222-1"></span><sup>206</sup> For example, if specific risk charge on long position (corporate bond) comes to Rs.1000 and that on the short position (credit protection bought through CDS) comes to Rs.700, there will be no capital change on the short position and the long position will attract specific risk capital charge of Rs.200 (1000-80% of 1000). Banks will not be allowed to offset specific risk charges between two opposite CDS positions which are not completely identical.
+
+In cases not captured in paragraph 6.2.1, a specific risk capital charge will be assessed against both sides of the positions.
+
+# **7 Capital Charge for Counterparty Credit Risk**
+
+The credit exposure for the purpose of counterparty credit risk on account of CDS transactions in the Trading Book will be calculated according to the Current Exposure Method[207](#page-223-0) under Basel framework.
+
+## **7.1 Protection Seller**
+
+A protection seller will have exposure to the protection buyer only if the fee / premia are outstanding. In such cases, the counterparty credit risk charge for all single name long CDS positions in the Trading Book will be calculated as the sum of the current marked-to-market value, if positive (zero, if marked-to-market value is negative) and the potential future exposure add-on factors based on Table 3 given below. However, for protection seller where the CDS positions are outside netting and margin agreements, the add-on will be capped to the amount of unpaid premia. Banks have the option to remove such CDS positions from their legal netting sets and treat them as individual unmargined transactions in order to apply the cap.
+
+### **Table 3: Add-on factors for Protection sellers**
+
+
+### **7.2 Protection Buyer**
+
+A CDS contract creates a counterparty exposure on the protection seller on account of the credit event payment. The counterparty credit risk charge for all short CDS positions in the Trading Book will be calculated as the sum of the current marked-to-market value, if positive (zero, if marked-
+
+<span id="page-223-0"></span> <sup>207</sup> A CDS contract, which is required to be marked-to-market, creates bilateral exposure for the parties to the contract. The mark-to-market value of a CDS contract is the difference between the default-adjusted present value of protection payment (called "protection leg" / "credit leg") and the present value of premium payable called ("premium leg"). If the value of credit leg is less than the value of the premium leg, then the marked-to-market value for the protection seller in positive. Therefore, the protection seller will have exposure to the counterparty (protection buyer) if the value of premium leg is more than the value of credit leg. In case, no premium is outstanding, the value of premium leg will be zero and the mark-to-market value of the CDS contract will always be negative for the protection seller and therefore, protection seller will not have any exposure to the protection buyer. In no case, the protection seller's exposure on protection buyer can exceed the amount of the premium unpaid. For the purpose of capital adequacy as well as exposure norms, the measure of counterparty exposures in case of CDS transaction held in Trading Book is the Potential Future Exposure (PFE) which is measured and recognised as per Current Exposure Method.
+
+<span id="page-223-1"></span><sup>208</sup> The add-on factors will be the same regardless of maturity of the reference obligations or CDS contract.
+
+to-market value is negative) and the potential future exposure add-on factors based on Table 4 given below:
+
+
+## **Table 4: Add-on factors for Protection Buyers**
+
+# **7.3 Capital Charge for Counterparty risk for Collateralised Transactions in CDS**
+
+The counterparty exposure for CDS traded in the OTC market will be calculated as per the Current Exposure Method. Under this method, the calculation of the counterparty credit risk charge for an individual contract, taking into account the collateral, will be as follows:
+
+Counterparty risk capital charge = [(RC + add-on) – CA] x r x 9%
+
+where:
+
+RC = the replacement cost,
+
+add-on = the amount for potential future exposure calculated according to paragraph 7 above.
+
+CA = the volatility adjusted amount of eligible collateral under the comprehensive approach prescribed in paragraphs 7.3 "Credit Risk Mitigation Techniques- Collateralised Transactions" of these guidelines, or zero if no eligible collateral is applied to the transaction, and
+
+r = the risk weight of the counterparty.
+
+# **8. Treatment of Exposures Below Materiality Thresholds**
+
+Materiality thresholds on payments below which no payment is made in the event of loss are equivalent to retained first loss positions and should be assigned risk weight of 1250% for capital adequacy purpose by the

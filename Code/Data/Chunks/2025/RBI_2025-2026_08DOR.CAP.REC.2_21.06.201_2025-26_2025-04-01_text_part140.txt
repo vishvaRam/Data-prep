@@ -1,0 +1,52 @@
+ value of any collateral) terminated and closed out under it so that a single net amount is owed by one party to the other;
+- c) allow for the prompt liquidation or setoff of collateral upon the event of default; and
+- d) be, together with the rights arising from the provisions required in (a) to (c) above, legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of the counterparty's insolvency or bankruptcy.
+- e) Netting across positions in the banking and trading book will only be recognised when the netted transactions fulfil the following conditions:
+	- (i) All transactions are marked to market daily[269;](#page-304-1) and
+
+(ii) The collateral instruments used in the transactions are recognised as eligible financial collateral in the banking book.
+
+### **B. For Derivatives transactions**
+
+(a) Banks may net transactions subject to novation under which any obligation between a bank and its counterparty to deliver a given currency on a given value date is automatically amalgamated with all other obligations for the same currency and value date, legally substituting one single amount for the previous gross obligations.
+
+(b) Banks may also net transactions subject to any legally valid form of bilateral netting not covered in (a), including other forms of novation.
+
+<span id="page-304-1"></span> <sup>269</sup> The holding period for the haircuts will depend as in other repo-style transactions on the frequency of margining.
+
+- (c) In both cases (a) and (b), a bank will need to satisfy that it has:
+	- (i) A netting contract or agreement[270](#page-305-0) with the counterparty which creates a single legal obligation, covering all included transactions, such that the bank would have either a claim to receive or obligation to pay only the net sum of the positive and negative mark-to-market values of included individual transactions in the event a counterparty fails to perform due to any of the following: default, bankruptcy, liquidation or similar circumstances;
+	- (ii) Written and reasoned legal opinions that, in the event of a legal challenge, the relevant courts and administrative authorities would find the bank's exposure to be such a net amount under:
+		- The law of the jurisdiction in which the counterparty is chartered and, if the foreign branch of a counterparty is involved, then also under the law of the jurisdiction in which the branch is located;
+		- The law that governs the individual transactions; and
+		- The law that governs any contract or agreement necessary to effect the netting.
+	- (iii) Procedures in place to ensure that the legal characteristics of netting arrangements are kept under review in the light of possible changes in relevant law.
+
+(d) Contracts containing walkaway clauses will not be eligible for netting for the purpose of calculating capital requirements under these guidelines. A walkaway clause is a provision which permits a non-defaulting counterparty to make only limited payments or no payment at all, to the estate of a defaulter, even if the defaulter is a net creditor.
+
+<span id="page-305-0"></span> <sup>270</sup> It is clarified that the membership agreement together with relevant netting provisions contained in QCCP's bye laws, rules and regulations are a type of netting agreement.
+
+# **Annex 19**
+
+(cf para 3.4.7)
+
+#### <span id="page-306-0"></span>**Guidelines on General permission for infusion of capital in overseas banking centres[271](#page-306-1) and retention/ repatriation/ transfer of profits in these centres by banks incorporated in India**
+
+Banks which meet the regulatory capital requirements (including capital buffers[272](#page-306-2)) may, with the approval of their boards:
+
+- a) infuse capital in their overseas branches and banking subsidiaries; and
+- b) retain profits in, and transfer or repatriate profits from these overseas centres.
+
+2. Banks shall, while considering such proposals, analyse all relevant aspects including inter alia the business plans, home and host country regulatory requirements and performance parameters of their overseas centres. Banks shall also ensure compliance with all applicable home and host country laws and regulations.
+
+3. Banks which do not meet the minimum regulatory capital requirements as laid down in para 1 above, shall be required to seek prior approval of RBI.
+
+## **Reporting**
+
+4. Banks shall report all such instances of infusion of capital and/ or retention[273](#page-306-3)/transfer/ repatriation of profits in overseas branches and banking subsidiaries within 30 days of such action, to the Chief General Manager-in-Charge, Department of Regulation, Central Office, Mumbai with a copy to Chief General Manager-in-Charge, Department of Supervision, Central Office, Mumbai.
+
+# **Applicability**
+
+5. The guidelines in this Annex are not applicable to foreign banks, Small Finance Banks, Payments Banks and Regional Rural Banks.
+
+<span id="page-306-1"></span> <sup>271</sup> Overseas b

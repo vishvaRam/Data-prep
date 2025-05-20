@@ -1,0 +1,54 @@
+hosen Domestic Rating Agencies**
+
+\$ The risk weight is 150% in the following two cases:
+
+• if the aggregate exposure from banking system is more than INR 200 crore
+
+• if the aggregate exposure from banking system is more than INR 100 crore for exposures which were rated earlier and subsequently have become unrated.
+
+6.4.2 Where "+" or "-" notation is attached to the rating, the corresponding main rating category risk weight should be used. For example, A+ or A- would be considered to be in the A rating category and assigned 50 per cent risk weight.
+
+6.4.3 If an issuer has a long-term exposure with an external long term rating that warrants a risk weight of 150 per cent, all unrated claims on the same counter-party, whether short-term or longterm, should also receive a 150 per cent risk weight, unless the bank uses recognised credit risk mitigation techniques for such claims.
+
+# **6.5 Short Term Ratings**
+
+6.5.1 For risk-weighting purposes, short-term ratings are deemed to be issue-specific. They can only be used to derive risk weights for claims arising from the rated facility. They cannot be generalised to other short-term claims. In no event can a short-term rating be used to support a
+
+<span id="page-72-0"></span> <sup>82</sup> Please refer t[o circular DOR.STR.REC.26/21.06.008/2024-25 dated July 10, 2024.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12700&Mode=0)
+
+risk weight for an unrated long-term claim. Short-term assessments may only be used for shortterm claims against banks and corporates.
+
+6.5.2 Notwithstanding the above restriction on using an issue specific short term rating for other short term exposures, the following broad principles will apply. The unrated short term claim on counterparty will attract a risk weight of at least one level higher than the risk weight applicable to the rated short term claim on that counter-party. If a short-term rated facility to counterparty attracts a 20 per cent or a 50 per cent risk-weight, unrated short-term claims to the same counterparty cannot attract a risk weight lower than 30 per cent or 100 per cent respectively.
+
+6.5.3 Similarly, if an issuer has a short-term exposure with an external short term rating that warrants a risk weight of 150 per cent, all unrated claims on the same counter-party, whether long-term or short-term, should also receive a 150 per cent risk weight, unless the bank uses recognised credit risk mitigation techniques for such claims.
+
+6.5.4 In respect of the issue specific short term ratings the following risk weight mapping shall be adopted by banks:
+
+
+**Table 11: Risk Weight Mapping of Short Term Ratings of Domestic Rating Agencies**
+
+\$ The risk weight is 150% in the following two cases:
+
+• if the aggregate exposure from banking system is more than INR 200 crore
+
+• if the aggregate exposure from banking system is more than INR 100 crore for exposures which were rated earlier and subsequently have become unrated.
+
+6.5.5 Where "+" or "-" notation is attached to the rating, the corresponding main rating category risk weight should be used for A2 and below, unless specified otherwise. For example, A2+ or A2- would be considered to be in the A2 rating category and assigned 50 per cent risk weight.
+
+<span id="page-73-0"></span> <sup>83</sup> Please refer t[o circular DOR.STR.REC.26/21.06.008/2024-25 dated July 10, 2024.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12700&Mode=0)
+
+6.5.6 The above risk weight mapping of both long term and short term ratings of the chosen domestic rating agencies would be reviewed annually by the Reserve Bank.
+
+# **6.6 Use of Unsolicited Ratings**
+
+A rating would be treated as solicited only if the issuer of the instrument has requested the credit rating agency for the rating and has accepted the rating assigned by the agency. As a general rule, banks should use only **solicited rating from the chosen credit rating agencies.** No ratings issued by the credit rating agencies on an unsolicited basis should be considered for risk weight calculation as per the Standardised Approach.
+
+# **6.7 Use of Multiple Rating Assessments**
+
+Banks shall be guided by the following in respect of exposures / obligors having multiple ratings from the chosen credit rating agencies chosen by the bank for the purpose of risk weight calculation:
+
+- (i) If there is only one rating by a chosen credit rating agency for a particular claim, that rating would be used to determine the risk weight of the claim.
+- (ii) If there are two ratings accorded by chosen credit rating agencies that map into different risk weights, the higher risk weight should be applied.
+- (iii) If there are three or more ratings accorded by chosen credit rating agencies with different risk weights, the ratings corresponding to the two lowest risk weights should be referred to and the higher of those two risk weights should be applied. i.e., the second lowest risk weight.
+
+# **6.8 Applicability of 'Issue Rating' to issuer/ other claim

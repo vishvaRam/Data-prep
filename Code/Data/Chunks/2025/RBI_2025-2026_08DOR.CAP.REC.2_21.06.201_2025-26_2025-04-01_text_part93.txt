@@ -1,0 +1,29 @@
+an id="page-175-1"></span><sup>157</sup> SFTs are transactions such as repurchase agreements, reverse repurchase agreements, security lending and borrowing, and margin lending transactions, where the value of the transactions depends on market valuations and the transactions are often subject to margin agreements.
+
+<span id="page-175-2"></span><sup>158</sup> For SFT assets subject to novation and cleared through QCCPs, "gross SFT assets recognised for accounting purposes" are replaced by the final contractual exposure, given that pre-existing contracts have been replaced by new legal obligations through the novation process.
+
+<span id="page-175-3"></span><sup>159</sup> Gross SFT assets recognised for accounting purposes must not recognise any accounting netting of cash payables against cash receivables (e.g., as currently permitted under the IFRS and US GAAP accounting frameworks). This regulatory treatment has the benefit of avoiding inconsistencies from netting which may arise across different accounting regimes.
+
+<span id="page-175-4"></span><sup>160</sup> This may apply, for example, under US GAAP where securities received under an SFT may be recognised as assets if the recipient has the right to rehypothecate but has not done so.
+
+(b) The right to set off the amount owed to the counterparty with the amount owed by the counterparty is legally enforceable both currently in the normal course of business and in the event of: (i) default; (ii) insolvency; and (iii) bankruptcy; and
+
+(c) The counterparties intend to settle net, settle simultaneously, or the transactions are subject to a settlement mechanism that results in the functional equivalent of net settlement, that is, the cash flows of the transactions are equivalent, in effect, to a single net amount on the settlement date. To achieve such equivalence, both transactions are settled through the same settlement system and the settlement arrangements are supported by cash and/or intraday credit facilities intended to ensure that settlement of both transactions will occur by the end of the business day and the linkages to collateral flows do not result in the unwinding of net cash settlement[161](#page-176-0),[162](#page-176-1).
+
+(B) A measure of CCR calculated as the current exposure without an add-on for PFE, calculated as follows:
+
+(i) Where a qualifying MNA[163](#page-176-2) is in place, the current exposure (E\*) is the greater of zero and the total fair value of securities and cash lent to a counterparty for all transactions included in the qualifying MNA (∑Ei), less the total fair value of cash and securities received from the counterparty for those transactions (∑Ci). This is illustrated in the following formula:
+
+E\* = max {0, [∑Ei – ∑Ci]}
+
+(ii) Where no qualifying MNA is in place, the current exposure for transactions with a counterparty must be calculated on a transaction by transaction basis: that is, each transaction is treated as its own netting set, as shown in the following formula:
+
+Ei\* = max {0, [Ei – Ci]}
+
+<span id="page-176-0"></span> <sup>161</sup> This latter condition ensures that any issues arising from the securities leg of the SFTs do not interfere with the completion of the net settlement of the cash receivables and payables.
+
+<span id="page-176-1"></span><sup>162</sup> To achieve functional equivalence, all transactions must be settled through the same settlement mechanism. The failure of any single securities transaction in the settlement mechanism should delay settlement of only the matching cash leg or create an obligation to the settlement mechanism, supported by an associated credit facility. Further, if there is a failure of the securities leg of a transaction in such a mechanism at the end of the window for settlement in the settlement mechanism, then this transaction and its matching cash leg must be split out from the netting set and treated gross for the purposes of the Basel III leverage ratio exposure measure. Specifically, the criteria in this paragraph are not intended to preclude a Delivery-versus-Payment (DVP) settlement mechanism or other type of settlement mechanism, provided that the settlement mechanism meets the functional requirements set out in this paragraph. For example, a settlement mechanism may meet these functional requirements if any failed transaction (that is, the securities that failed to transfer and the related cash receivable or payable) can be re-entered in the settlement mechanism until they are settled.
+
+<span id="page-176-2"></span><sup>163</sup> A "qualifying" MNA is one that meets the requirements under Annex 20 - Part A.
+
+16.4.4.3 *Sale accounting transactions*: leverage may remain with the lender of the security in an SFT whether or not sale accounting is achieved under the operative accounting framework. As such, where sale accounting is achieved for an SFT under the bank's operative accounting framework, the bank must reverse all sales-related accounting entries, and then calculat

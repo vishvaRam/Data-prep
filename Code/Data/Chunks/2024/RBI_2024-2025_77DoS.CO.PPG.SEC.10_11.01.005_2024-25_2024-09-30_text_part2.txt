@@ -1,0 +1,11 @@
+culture gold loans.
+- v. Lack of a specific identifier for top up gold loans in the Core Banking System / Loan Processing System with the SEs mostly to facilitate evergreening of loans. Also, no fresh appraisal was done at the time of sanctioning these top up loans.
+- vi. Many loan accounts were closed within a short time from sanction, i.e. within a few days raising doubts over the economic rationale for such action.
+- vii. Average realisation from auction of gold on default by the customer was low in certain SEs than the estimated value of gold, reflecting among other things, gaps in valuation process.
+- viii. Share of gold loans disbursed in cash to total gold loans disbursed was high in some entities and the statutory limit specified under the Income Tax Act, 1961 on cash mode of disbursal was not adhered to in many cases.
+
+![](_page_3_Picture_0.jpeg)
+
+- ix. Weak governance and transaction monitoring as instances of unusually high number of gold loans being granted to the same individual with the same PAN during a financial year.
+- x. Practice of rolling over loans at the end of tenor, with only part payment.
+- xi. Non-categorisation of gold loans as NPA in the system, evergreening by renewing overdue loans/issuing a fresh loan, inadequate monitoring by Senior Management/ Board and inadequate or absence of controls over third-party entities.

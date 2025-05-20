@@ -1,0 +1,35 @@
+te shall be governed by the provisions of the extant directions as applicable for public deposits;
+
+*Provided* that in cases of critical illness, hundred per cent of the amount of the principal sum of deposit, may be prematurely paid to individual depositors, at the request of the depositors, before the expiry of three months from the date of acceptance of such deposits, without interest.
+
+#### *Explanation:*
+
+a. For this purpose, expenses of an emergent nature include medical emergency or expenses due to natural calamities/ disaster as notified by the concerned Government/ authority.
+
+b. For the definition of 'Critical illness', NBFCs shall be guided by the IRDAI (Health Insurance) Regulations, 2016 and the guidelines issued thereunder, as amended from time to time.
+
+c. The amount as per these provisions shall also apply to the existing deposit contracts wherein the individual depositor does not have a right to premature withdrawal of the deposit before the expiry of three months.
+
+#### **Intimation of maturity of deposits to depositors**
+
+21. As per para 17 of Master Direction – [Non-Banking Financial Companies](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563)  [Acceptance of Public Deposits \(Reserve Bank\) Directions, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563) NBFCs need to intimate the details of maturity of the deposit to the depositor at least two months before the date of maturity of the deposit. It has been decided to reduce the period from two months to 14 days. Accordingly, it shall be the obligation of NBFC to intimate the details of maturity of the deposit to the depositor at least 14 days before the date
+
+<span id="page-11-0"></span><sup>7</sup> 'Tiny deposit' means the aggregate amount of public deposits not exceeding ₹10,000/- standing in the name of the sole or the first named depositor in the same capacity in all the branches of the non-banking financial company.
+
+of maturity of the deposit.
+
+### **Register of deposits**
+
+22. Attention is invited to Para 29 of Master Direction – [Non-Banking Financial](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563)  [Companies Acceptance of Public Deposits \(Reserve Bank\) Directions, 2016.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563) It is advised that NBFCs may maintain the particulars/ details of the deposits, as required under the above-mentioned para, on centralized computer database; provided the authenticated particulars of public deposits are sent to the respective branches, updating the information on quarterly basis i.e. as on March 31, June 30, September 30 and December 31, every year irrespective of the fact that the branch does not open deposit accounts. The information pertaining to a quarter should reach the branch concerned before the 10th day of the next quarter.
+
+### **Safe Custody of Liquid Assets**
+
+23. Deposit taking NBFCs are required to maintain liquid assets under Section 45-IB of the RBI Act and such liquid assets shall be entrusted for safe custody with specified entities as stated in para 33 of Master Direction – NBFC- [Acceptance of Public](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563)  [Deposits Directions, 2016.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10563) Since approved securities are now being maintained only in dematerialized form, the provisions of para 33(5) of these directions are withdrawn.
+
+# **Section IV: Other instructions**  *(applicable to NBFCs)*
+
+### **Periodicity of IS Audit**
+
+24. Attention is invited to para 94.1.2 of Master Direction – [Reserve Bank of India](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  (Non-Banking Financial Company– [Scale Based Regulation\) Directions, 2023](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) wherein periodicity of IS Audit is prescribed. It is now advised that the Audit Committee of applicable NBFCs must ensure that an Information System Audit is conducted as per the periodicity prescribed in [Master Direction on Information Technology Governance,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12562)  [Risk, Controls and Assurance Practices](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12562) dated November 07, 2023, as amended from time to time.
+
+**\*\*\*\*\***

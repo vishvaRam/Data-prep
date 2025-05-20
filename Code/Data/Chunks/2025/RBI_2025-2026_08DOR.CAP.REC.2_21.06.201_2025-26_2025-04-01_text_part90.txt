@@ -1,0 +1,35 @@
+ the economic resources at the disposal of the bank, as the bank can use the collateral to leverage itself.
+
+16.4.3.6 Collateral received in connection with derivative contracts does not necessarily reduce the leverage inherent in a bank's derivatives position, which is generally the case if the settlement exposure arising from the underlying derivative contract is not reduced. As a general rule, collateral received may not be netted against derivative exposures whether or not netting is permitted under the bank's operative accounting or risk-based framework. Therefore, it is advised that when calculating the exposure amount by applying paragraphs 16.4.3.2 to 16.4.3.4 above, a bank must not reduce the exposure amount by any collateral received from the counterparty.
+
+16.4.3.7 Similarly, with regard to collateral provided, banks must gross up their exposure measure by the amount of any derivatives collateral provided where the effect of providing collateral has reduced the value of their balance sheet assets under their operative accounting framework.
+
+<span id="page-171-0"></span> <sup>139</sup> Banks must calculate NGR on a counterparty by counterparty basis for all transactions that are subject to legally enforceable netting agreements.
+
+16.4.3.8 *Treatment of cash variation margin*: in the treatment of derivative exposures for the purpose of the leverage ratio, the cash portion of variation margin exchanged between counterparties may be viewed as a form of pre-settlement payment, if the following conditions are met:
+
+(i) For trades not cleared through a qualifying central counterparty (QCCP)[140,](#page-172-0) the cash received by the recipient counterparty is not segregated[141](#page-172-1).
+
+(ii) Variation margin is calculated and exchanged on a daily basis based on mark-to-market valuation of derivatives positions[142.](#page-172-2)
+
+(iii) The cash variation margin is received in the same currency as the currency of settlement of the derivative contract[143](#page-172-3).
+
+(iv) Variation margin exchanged is the full amount that would be necessary to fully extinguish the mark-to-market exposure of the derivative subject to the threshold and minimum transfer amounts applicable to the counterparty[144.](#page-172-4)
+
+(v) Derivatives transactions and variation margins are covered by a single master netting agreement (MNA)[145](#page-172-5),[146](#page-172-6) between the legal entities that are the counterparties in the derivatives transaction. The MNA must explicitly stipulate that the counterparties agree to settle net any payment obligations covered by such a netting agreement, taking into account any variation margin received or provided if a credit event occurs involving either counterparty. The MNA must be legally enforceable and effective[147](#page-172-7) in all relevant jurisdictions, including in the event of default and bankruptcy or insolvency.
+
+ <sup>140</sup> <sup>A</sup> QCCP is as defined in the paragraph 5.15.3.2.
+
+<span id="page-172-1"></span><span id="page-172-0"></span><sup>141</sup> Cash variation margin would satisfy the non-segregation criterion if the recipient counterparty has no restrictions on the ability to use the cash received (i.e., the cash variation margin received is used as its own cash). Further, this criterion would be met if the cash received by the recipient counterparty is not required to be segregated by law, regulation, or any agreement with the counterparty.
+
+<span id="page-172-2"></span><sup>142</sup> To meet this criterion, derivative positions must be valued daily and cash variation margin must be transferred daily to the counterparty or to the counterparty's account, as appropriate.
+
+<span id="page-172-3"></span><sup>143</sup> For this paragraph, currency of settlement means any currency of settlement specified in the derivative contract, governing qualifying master netting agreement (MNA), or the credit support annex (CSA) to the qualifying MNA. The Basel Committee will review the issue further for an appropriate treatment in this regard.
+
+<span id="page-172-4"></span><sup>144</sup> Cash variation margin exchanged on the morning of the subsequent trading day based on the previous, end-ofday market values would meet this criterion, provided that the variation margin exchanged is the full amount that would be necessary to fully extinguish the mark-to-market exposure of the derivative subject to applicable threshold and minimum transfer amounts.
+
+<span id="page-172-5"></span><sup>145</sup> A Master MNA may be deemed to be a single MNA for this purpose.
+
+<span id="page-172-6"></span><sup>146</sup> To the extent that the criteria in this paragraph include the term "master netting agreement", this term should be read as including any "netting agreement" that provides legally enforceable rights of offsets. This is to take account of the fact that no standardisation has currently emerged for netting agreements employed by CCPs
+
+<span id="page-172-7"></span><sup>147<

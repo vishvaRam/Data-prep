@@ -1,0 +1,37 @@
+Accordingly, a bank shall calculate the specific risk capital requirement applicable to each securitisation exposure in trading book by dividing the risk weight calculated as if it were held in the banking book by 11.11, subject to a cap on specific risk capital requirement of 100 per cent.
+
+For transactions undertaken before issuance of the aforementioned Directions, i.e., prior to September 24, 2021, the treatment of securitisation exposures for capital adequacy would be as per Table 14 – Part E provided below.
+
+
+**Table 14 – Part E(i): Specific Risk Capital Charge for transactions in Securitisation Exposures prior to September 24, 2021**
+
+\* These ratings indicate the ratings assigned by Indian rating agencies/ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed with the main rating category.
+
+
+**Table 14 – Part E (ii): Specific Risk Capital Charge for transactions in Re-securitisation Exposures[95](#page-99-0)**
+
+<span id="page-99-0"></span> <sup>95</sup> Re-securitisation Exposures are not allowed in terms of [circular DBOD.No.BP.BC-103/21.04.177/2011-12 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7184&Mode=0)  [May 07, 2012](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7184&Mode=0) (instructions since consolidated in Master Direction – [Reserve Bank of India \(Securitisation of Standard](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [Assets\) Directions, 2021 dated September 24, 2021\)](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165).
+
+
+\* These ratings indicate the ratings assigned by Indian rating agencies/ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed with the main rating category.
+
+
+
+8.3.5 Banks shall, in addition to computing the counterparty credit risk (CCR) charge for OTC derivatives, as part of capital for credit risk as per the Standardised Approach covered in **paragraph 5** above, also compute the specific risk charge for OTC derivatives in the trading book as required in terms of **[Annex 9](#page-233-0)**.
+
+#### **B. General Market Risk**
+
+8.3.6 The capital requirements for general market risk are designed to capture the risk of loss arising from changes in market interest rates. The capital charge is the sum of four components:
+
+- (i) the net short (short position is not allowed in India except in derivatives and Central Government Securities) or long position in the whole trading book;
+- (ii) a small proportion of the matched positions in each time-band (the "vertical disallowance");
+- (iii) a larger proportion of the matched positions across different time-bands (the "horizontal disallowance"), and
+- (iv) a net charge for positions in options, where appropriate.
+
+8.3.7 Separate maturity ladders should be used for each currency and capital charges should be calculated for each currency separately and then summed with no offsetting between positions of opposite sign. In the case of those currencies in which business is insignificant (where the turnover in the respective currency is less than 5 per cent of overall foreign exchange turnover), separate calculations for each currency are not required. The bank may, instead, slot within each appropriate time-band, the net long or short position for each currency. However, these individual net positions are to be summed within each time-band, irrespective of whether they are long or short positions, to produce a gross position figure. The gross positions in each time-band will be subject to the assumed change in yield set out in Table-16 with no further offsets.
+
+8.3.8 The Basel Committee has suggested two broad methodologies for computation of capital charge for market risks. One is the standardised method and the other is the banks' internal risk management models method. As banks in India are still in a nascent stage of developing internal risk management models, it has been decided that, to start with, banks may adopt the standardised method. Under the standardised method there are two principal methods of measuring market risk, a "maturity" method and a "duration" method. As "duration" method is a more accurate method of measuring interest rate risk, it has been decided to adopt standardised duration method to arrive at the capital charge. Accordingly, banks are required to measure the general market risk charge by calculating the price sensitivity (modified duration) of each position separately. Under this method, the mechanics are as follows:
+
+- i. first calculate the price sensitivity (modified duration) of each instrument;
+- ii. next apply the assumed change in yield to the modified duration of each instrument between 0.6 and 1.0 percentage points depending on the maturity of the instrument (see **Table 15**);
+- iii. slot the resulting 

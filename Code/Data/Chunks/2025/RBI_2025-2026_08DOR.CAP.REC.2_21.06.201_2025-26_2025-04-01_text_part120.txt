@@ -1,0 +1,34 @@
+ct relates must be for identical products and mature within seven days of each other;
+- for Swaps and FRAs: the reference rate (for floating rate positions) must be identical and the coupon closely matched (i.e. within 15 basis points); and
+- for Swaps, FRAs and Forwards: the next interest fixing date or, for fixed coupon positions or forwards, the residual maturity must correspond within the following limits:
+	- o less than one month hence: same day;
+	- o between one month and one year hence: within seven days;
+	- o over one year hence: within thirty days.
+
+Banks with large swap books may use alternative formulae for these swaps to calculate the positions to be included in the duration ladder. The method would be to calculate the sensitivity of the net present value implied by the change in yield used in the duration method and allocate these sensitivities into the time-bands set out in Table 15 in paragraph 8.3.8 of this Master Circular.
+
+# **(b) Specific Risk**
+
+Interest rate and currency swaps, FRAs, forward foreign exchange contracts and interest rate futures will not be subject to a specific risk charge. This exemption also applies to futures on an interest rate index (e.g., LIBOR). However, in the case of futures contracts where the underlying is a debt security, or an index representing a basket of debt securities, a specific risk charge will apply according to the credit risk of the issuer as set out in paragraphs above.
+
+# **(c) General Market Risk**
+
+General market risk applies to positions in all derivative products in the same manner as for cash positions, subject only to an exemption for fully or very closely matched positions in identical instruments as defined in paragraphs above. The various categories of instruments should be slotted into the maturity ladder and treated according to the rules identified earlier.
+
+
+**Table A - Summary of Treatment of Interest Rate Derivatives**
+
+# **B. Treatment of Options**
+
+1. In recognition of the wide diversity of banks' activities in options and the difficulties of measuring price risk for options, alternative approaches are permissible as under:
+
+- those banks which solely use purchased options[212](#page-236-0) shall be free to use the simplified approach described in Section I below;
+- those banks which also write options shall be expected to use one of the intermediate approaches as set out in Section II below.
+
+2. In the *simplified approach*, the positions for the options and the associated underlying, cash or forward, are not subject to the standardised methodology but rather are "carved-out" and subject to separately calculated capital charges that incorporate both general market risk and specific risk. The risk numbers thus generated are then added to the capital charges for the relevant category, i.e., interest rate related instruments, equities, and foreign exchange as described in paragraph 8.3 to 8.5 of this Master Circular. The delta-plus method uses the sensitivity parameters or "Greek letters" associated with options to measure their market risk and capital requirements. Under this method, the delta-equivalent position of each option becomes part of the standardised methodology set out in paragraph 8.3 to 8.5 of this Master Circular with the delta-equivalent amount subject to the applicable general market risk charges. Separate capital charges are then applied to the gamma and Vega risks of the option positions. The *scenario approach* uses simulation techniques to calculate changes in the value of an options portfolio for changes in the level and volatility of its associated underlyings. Under this approach, the general market risk charge is determined by the scenario "grid" (i.e., the specified combination of underlying and volatility changes) that produces the largest loss. For the delta-plus method and the scenario approach the specific risk capital charges are determined separately by multiplying the delta-equivalent of each option by the specific risk weights set out in paragraph 8.3 to 8.4 of this Master Circular.
+
+### **I. Simplified Approach**
+
+3. Banks which handle a limited range of purchased options only will be free to use the simplified approach set out in Table B below, for particular trades. As an example of how the calculation would work, if a holder of 100 shares currently valued at Rs.10 each holds an equivalent put option with a strike price of Rs.11, the capital charge would be: Rs.1,000 x 18 per cent (i.e., 9 per cent specific plus 9 per cent general market risk) = Rs.180, less the amount the option is in the money (Rs.11 – Rs.10) x 100 = Rs.100, i.e., the capital charge would be Rs.80. A similar methodology applies for options whose underlying is a foreign currency or an interest rate related instrument.
+
+<span id="page-236-0"></span> <sup>212</sup> Unless all their written option positions are hedged by perfectly matched long positions in exactly the same options, in which case no capital charge for market risk i

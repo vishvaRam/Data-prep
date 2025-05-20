@@ -1,0 +1,65 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2024-25/117 FMRD.DIRD.16/14.03.042/2024-25
+
+February 21, 2025
+
+To All Eligible Market Participants
+
+Madam/Sir,
+
+#### **Reserve Bank of India (Forward Contracts in Government Securities) Directions, 2025**
+
+Please refer to [press release dated December 28, 2023,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57007) regarding issuance of draft Directions on Bond Forwards for public feedback.
+
+2. Based on the feedback received from the market participants, the draft Directions have been finalised and the Reserve Bank of India (Forward Contracts in Government Securities) Directions, 2025, are being issued herewith. Necessary amendments to the Gazette Notification (S.O. 2192 (E) dated 8th January 2010) have been notified in the Official Gazette *vide* Gazette Id no. CG-MH-E-13022025-260991 dated February 13, 2025, a copy of which is [annexed](https://rbidocs.rbi.org.in/rdocs/content/pdfs/GazetteNotification21022025.pdf) to this circular.
+
+3. Further, the following Directions have been updated, as attached, to enable transactions in forward contracts in government securities:
+
+- a. [Master Direction Reserve Bank of India \(Market-makers in OTC Derivatives\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12163)  [Directions, 2021;](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12163) and
+- b. [Master Direction Reserve Bank of India \(Margining for Non-Centrally Cleared](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12682)  [OTC Derivatives\) Directions, 2024.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12682)
+
+4. These [Directions](#page-1-0) have been issued in exercise of the powers conferred under section 45W of the Reserve Bank of India Act, 1934 read with section 45U of the Act and of all the powers enabling it in this behalf.
+
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+�वत्तीय बाज़ार �व�नयमन �वभाग, केंद्र�य कायार्लय, 9वी मंिजल, के न्द्र�य कायार्लय भवन, शह�द भगत �स ंह मागर्, फोटर्, मुंबई – 400 001 फोन: (91-22) 2260 1000, फै क्स: (91-22) 22702290, ई-मेल: cgmfmrd@rbi.org.in
+
+Financial Markets Regulation Department, Central Office, 9th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001 Tel: (91-22) 2260 1000, Fax: (91-22) 22702290, E-mail: cgmfmrd@rbi.org.in
+
+![](_page_0_Picture_18.jpeg)
+
+<span id="page-1-0"></span>![](_page_1_Picture_0.jpeg)
+
+# **RESERVE BANK OF INDIA FINANCIAL MARKETS REGULATION DEPARTMENT 9TH FLOOR, CENTRAL OFFICE, FORT MUMBAI 400 001**
+
+# **Notification No. FMRD.DIRD.17/14.03.042/2024-25 dated February 21, 2025 Reserve Bank of India (Forward Contracts in Government Securities) Directions, 2025**
+
+In exercise of the powers conferred under section 45W of the Reserve Bank of India Act, 1934, (hereinafter called the Act) read with section 45U of the Act, the Reserve Bank of India (hereinafter called the Reserve Bank) hereby issues the following Directions. A reference is also invited to the Foreign Exchange Management Act, 1999 (42 of 1999) and Foreign Exchange Management (Debt Instruments) Regulations, 2019 [\(Notification No. FEMA. 396/2019-RB dated October 17, 2019\)](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12099&Mode=0).
+
+## **1. Short title, commencement and applicability of Directions:**
+
+(i) These Directions shall be called the Reserve Bank of India (Forward Contracts in Government Securities) Directions, 2025.
+
+(ii) These Directions shall apply to forward contracts in government securities (hereinafter referred to as bond forwards) undertaken in the Over-the-Counter (OTC) market in India.
+
+(iii) These Directions shall come into force with effect from May 02, 2025*.*
+
+## **2. Definitions**
+
+(i) For the purpose of these Directions, unless the context otherwise requires:
+
+- (a) **Bond forward** means a rupee interest rate derivative contract in which one counterparty (buyer) agrees to buy a specific government security from another counterparty (seller) on a specified future date and at a price determined at the time of the contract.
+- (b) **Cash settlement** of a bond forward means a settlement process in which the cash settlement value of the forward contract as on the maturity/ termination date is exchanged between the counterparties under the terms of the contract.
+
+![](_page_2_Picture_0.jpeg)
+
+- (c) **Covered Short** means a position in bond forwards in which the seller of the forward contract holds an equivalent amount of the government security underlying the position.
+- (d) **Electronic Trading Platform (ETP)** shall have the same meaning as defined in para 2(1) (iii) of [the Electronic Trading Platforms \(Reserve Bank\)](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11385&Mode=0)  [Directions, 2018 dated October 05, 2018,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11385&Mode=0) or as modified from time to time.
+- (e) **Exchange** me

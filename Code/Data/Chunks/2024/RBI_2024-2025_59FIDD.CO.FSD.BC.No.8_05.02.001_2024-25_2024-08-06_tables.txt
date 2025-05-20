@@ -1,0 +1,4 @@
+| Financial Year | Lending rate to farmers | Rate of Interest<br>Subvention<br>to Lending<br>Institutions |
+|----------------|-------------------------|--------------------------------------------------------------|
+| 2024-25        | 7%                      | 1.50%                                                        |
+

@@ -1,0 +1,5 @@
+| Sr | Newly Created District | Lead Bank Responsibility | District Working Code                                             |
+|----|------------------------|--------------------------|-------------------------------------------------------------------|
+| No |                        | assigned to              | allotted to new district                                          |
+| 1  | Tamulpur               | State Bank of India      | 02Q<br>(to be read as 'numeral zero,<br>numeral two, alphabet Q') |
+

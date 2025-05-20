@@ -1,0 +1,35 @@
+ CET1 capital up to 10% of a bank's CET1 capital, at the discretion of banks [after the application of all regulatory adjustments mentioned from paragraphs 4.4.1 to 4.4.9.2(C)(ii)].
+
+<span id="page-21-0"></span> <sup>16</sup> Please refer to paragraph 2.3 o[f circular no. DBR.No.BP.BC.83/21.06.201/2015-16 dated March 1, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=10294) on Master Circular – Basel III Capital Regulations – Revision.
+
+(iii) Further, the limited recognition of DTAs as at (ii) above along with limited recognition of significant investments in the common shares of unconsolidated financial (i.e. banking, financial and insurance) entities in terms of paragraph 4.4.9.2(C) (iii) taken together must not exceed 15% of the CET1 capital, calculated after all regulatory adjustments set out from paragraphs 4.4.1 to 4.4.9. Please refer to **[Annex 20](#page-307-0)** clarifying this applicable limited recognition. However, banks shall ensure that the CET1 capital arrived at after application of 15% limit should in no case result in recognising any item more than the 10% limit applicable individually.
+
+(iv) The amount of DTAs which are to be deducted from CET1 capital may be netted with associated deferred tax liabilities (DTLs) provided that:
+
+(a) both the DTAs and DTLs relate to taxes levied by the same taxation authority and offsetting is permitted by the relevant taxation authority;
+
+(b) the DTLs permitted to be netted against DTAs must exclude amounts that have been netted against the deduction of goodwill, intangibles and defined benefit pension assets; and
+
+(c) the DTLs must be allocated on a *pro rata* basis between DTAs subject to deduction from CET1 capital as at (i) and (ii) above.
+
+(v) The amount of DTAs which is not deducted from CET1 capital (in terms of para (ii) above) will be risk weighted at 250% as in the case of significant investments in common shares not deducted from bank's CET1 capital as indicated in paragraph 4.4.9 (C)(iii).
+
+## **4.4.3 Cash Flow Hedge Reserve**
+
+(i) The amount of the cash flow hedge reserve which relates to the hedging of items that are not fair valued on the balance sheet (including projected cash flows) should be derecognised in the calculation of Common Equity Tier 1. This means that positive amounts should be deducted and negative amounts should be added back. This treatment specifically identifies the element of the cash flow hedge reserve that is to be derecognised for prudential purposes. It removes the element that gives rise to artificial volatility in Common Equity, as in this case the reserve only reflects one half of the picture (the fair value of the derivative, but not the changes in fair value of the hedged future cash flow).
+
+(ii) Application of these rules at consolidated level would mean derecognition of cash flow hedge reserve from the consolidated Common Equity which is attributed to the subsidiaries, in addition to derecognition of cash flow hedge reserve pertaining to the solo bank.
+
+### **4.4.4 Shortfall of the Stock of Provisions to Expected Losses**
+
+The deduction from capital in respect of a shortfall of the stock of provisions to expected losses under the Internal Ratings Based (IRB) approach should be made in the calculation of Common Equity Tier 1. The full amount is to be deducted and should not be reduced by any tax effects that could be expected to occur if provisions were to rise to the level of expected losses.
+
+# **4.4.5 Gain-on-Sale Related to Securitisation Transactions, Unrealised Profits Arising because of Transfer of Loans, and Security Receipts (SRs) guaranteed by the Government of India**
+
+(i) Banks shall be guided by the [Master Direction no. DOR.STR.REC.53/21.04.177/2021-22](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [dated September 24, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165) titled Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021, as amended from time to time, in this regard. Application of these rules at consolidated level would mean deduction of gain-on-sale from the consolidated Common Equity which is recognized by the subsidiaries in their P&L and / or equity, in addition to deduction of any gain-on-sale recognised by the bank at the solo level.
+
+(ii) Banks shall be guided by the Master Direction [no. DOR.STR.REC.51/21.04.048/2021-22](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166) [dated September 24, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166) titled Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021, as amended from time to time, for the prudential treatment of unrealised profits arising because of transfer of loans and SRs guaranteed by the Government of India.
+
+# **4.4.6 Cumulative Gains and Losses due to Changes in Own Credit Risk on Fair Valued Financial Liabilities**
+
+(i) Banks are required to derecognise in the calculation of Common E

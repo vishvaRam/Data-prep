@@ -1,0 +1,45 @@
+mension of the matrix entails a change in the volatility of the underlying rate or price. A single change in the volatility of the underlying rate or price equal to a shift in volatility of + 25 per cent and - 25 per cent is expected to be sufficient in most cases. As circumstances warrant, however, the Reserve Bank may choose to require that a different change in volatility be used and / or that intermediate points on the grid be calculated.
+
+11. After calculating the matrix, each cell contains the net profit or loss of the option and the underlying hedge instrument. The capital charge for each underlying will then be calculated as the largest loss contained in the matrix.
+
+12. In drawing up these intermediate approaches it has been sought to cover the major risks associated with options. In doing so, it is conscious that so far as specific risk is concerned, only the delta-related elements are captured; to capture other risks would necessitate a much more complex regime. On the other hand, in other areas the simplifying assumptions used have resulted in a relatively conservative treatment of certain options positions.
+
+13. Besides the options risks mentioned above, the RBI is conscious of the other risks also associated with options, e.g., rho (rate of change of the value of the option with respect to the interest rate) and theta (rate of change of the value of the option with respect to time). While not proposing a measurement system for those risks at present, it expects banks undertaking significant options business at the very least to monitor such risks closely. Additionally, banks will be permitted to incorporate rho into their capital calculations for interest rate risk, if they wish to do so.
+
+<span id="page-240-0"></span> <sup>223</sup> If, for example, the time-bands 3 to 4 years, 4 to 5 years and 5 to 7 years are combined, the highest assumed change in yield of these three bands would be 0.75.
+
+#### (cf. para 13.5)
+
+#### **An Illustrative Approach for Measurement of Interest Rate Risk in the Banking Book (IRRBB) under Pillar 2**
+
+<span id="page-241-0"></span>The Basel-II Framework[224](#page-241-1) (Paragraphs 739 and 762 to 764) require the banks to measure the interest rate risk in the banking book (IRRBB) and hold capital commensurate with it. If supervisors determine that banks are not holding capital commensurate with the level of interest rate risk, they must require the bank to reduce its risk, to hold a specific additional amount of capital or some combination of the two. To comply with the requirements of Pillar 2 relating to IRRBB, the guidelines on Pillar 2 issued by many regulators contain definite provisions indicating the approach adopted by the supervisors to assess the level of interest rate risk in the banking book and the action to be taken in case the level of interest rate risk found is significant.
+
+In terms of para 764 of the Basel II framework, the banks can follow the indicative methodology prescribed in the supporting document "Principles for the Management and Supervision of Interest Rate Risk" issued by BCBS for assessment of sufficiency of capital for IRRBB.
+
+# **2. The approach prescribed in the BCBS Paper on "Principles for the Management and Supervision of Interest Rate Risk"**
+
+The main components of the approach prescribed in the above mentioned supporting document are as under:
+
+- a) The assessment should take into account both the earnings perspective and economic value perspective of interest rate risk.
+- b) The impact on income or the economic value of equity should be calculated by applying a notional interest rate shock of 200 basis points.
+- c) The usual methods followed in measuring the interest rate risk are:
+
+### *a) Earnings perspective*
+
+Gap Analysis, simulation techniques and Internal Models based on VaR
+
+### *b) Economic perspective*
+
+Gap analysis combined with duration gap analysis, simulation techniques and Internal Models based on VaR
+
+### **3. Methods for measurement of the IRRBB**
+
+3.1 Impact on Earnings
+
+<span id="page-241-1"></span> <sup>224</sup> International Convergence of Capital Measurement and Capital Standards (June 2006) released by the Basel Committee on Banking Supervision.
+
+The major methods used for computing the impact on earnings are the gap Analysis, Simulations and VaR based Techniques. Banks in India have been using the Gap Reports to assess the impact of adverse movements in the interest rate on income through gap method. The banks may continue with the same. However, the banks may use the simulations also. The banks may calculate the impact on the earnings by gap analysis or any other method with the assumed change in yield on 200 bps over one year. However, no capital needs to be allocated for the impact on the earnings.
+
+## 3.2 Impact of IRRBB on the Market Value of Equity (MVE)
+
+The banks may use the Method indicated in the Basel Committee on Banking Supervision (BCBS) Paper "Principles for the Management and Supervisio

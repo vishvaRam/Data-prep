@@ -1,0 +1,44 @@
+vation as per the procedure mentioned in paragraph 6 of these guidelines. Further, banks may also consider imposing a cooling-off period on reactivation, with restrictions on the number and amount of transactions, as may be applicable for newly opened accounts with the bank.
+
+10.2 The banks shall ensure that there is no unauthorised access to customer data pertaining to the inoperative accounts. The banks shall also ensure that adequate steps are taken to prevent data theft and related misuse for fraudulent purposes.
+
+#### **11. Customer Awareness**
+
+11.1 The banks shall provide on their website as well as at their branches, the information on the process for activation of the inoperative account/ unclaimed deposits and claiming the balances therein. Necessary claim forms and documents may be made available for the benefit of customers.
+
+11.2 The banks shall conduct public awareness and financial literacy campaigns regularly to educate the members of public about the activation of inoperative accounts/unclaimed deposits and the prescribed procedure to claim amounts lying therein by a depositor or his/her nominee/ legal heir in case of deceased depositor.
+
+#### **PART III- REPEAL PROVISIONS**
+
+12. With the issue of these instructions, the instructions/guidelines contained in the circulars mentioned in **[Annex II](#page-9-0)**, issued by the Reserve Bank stand repealed.
+
+## **Annex I**
+
+## <span id="page-8-0"></span>**1. Financial Transactions**
+
+- a) ATM/ Cash withdrawal/deposit
+- b) RTGS / NEFT/ IMPS /UPI/ AePS/ ABPS Transactions
+- c) Internet Banking Transactions
+- d) Debit Card Transactions
+- e) Transfer of funds from / to the linked CBDC(e-Rupee) account
+- f) Cheque Clearing
+- g) Remittance of funds by way of demand drafts
+- h) Cash withdrawal by third party through cheque
+- i) Standing Instructions issued by the customer
+- j) NACH Debit / Credits
+- k) Term Deposit Interest / proceeds
+- l) Dividend on shares/Interest on Debentures or any other investment proceeds
+- m) Direct Benefit Transfer (DBT) credits
+- n) Refunds like refunds related to e-commerce payments, Income Tax Returns, etc.
+- o) National Electronic Toll Collection (NETC) debits
+
+# **2. Bank Induced Transactions**
+
+- a) All types of charges levied by banks including taxes deducted
+- b) Savings Bank account interests
+
+## **List of Circulars repealed**
+
+<span id="page-9-0"></span>
+
+

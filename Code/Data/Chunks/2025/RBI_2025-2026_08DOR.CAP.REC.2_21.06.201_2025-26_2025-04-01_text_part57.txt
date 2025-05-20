@@ -1,0 +1,43 @@
+ banks would have formulated the policy and also undertaken the capital adequacy assessment accordingly.
+
+10.2 The Capital Adequacy Framework rests on three components or three Pillars. Pillar 1 is the Minimum Capital Ratio while Pillar 2 and Pillar 3 are the Supervisory Review Process (SRP) and Market Discipline, respectively. The guidelines in regard to the SRP and the ICAAP are furnished in this Section. An illustrative outline of the format of the ICAAP document, to be submitted to the RBI, by banks, is furnished at **[Annex 14](#page-250-0)**.
+
+10.3 The objective of the SRP is to ensure that banks have adequate capital to support all the risks in their business as also to encourage them to develop and use better risk management techniques for monitoring and managing their risks. This in turn would require a well-defined internal assessment process within banks through which they assure the RBI that adequate capital is indeed held towards the various risks to which they are exposed. The process of assurance could also involve an active dialogue between the bank and the RBI so that, when warranted, appropriate intervention could be made to either reduce the risk exposure of the bank or augment / restore its capital. Thus, ICAAP is an important component of the SRP.
+
+10.4 The main aspects to be addressed under the SRP, and therefore, under the ICAAP, would include:
+
+- (a) the risks that are not fully captured by the minimum capital ratio prescribed under Pillar 1;
+- (b) the risks that are not at all taken into account by the Pillar 1; and
+- (c) the factors external to the bank.
+
+Since the capital adequacy ratio prescribed by the RBI under the Pillar 1 of the Framework is only the regulatory **minimum** level, addressing only the three specified risks (viz., credit, market and operational risks), holding additional capital might be necessary for banks, on account of both –
+
+the possibility of some under-estimation of risks under the Pillar 1 and the actual risk exposure of a bank vis-à-vis the quality of its risk management architecture. **Illustratively**, some of the risks that the banks are generally exposed to but which are not captured or not fully captured in the regulatory CRAR would include:
+
+- (a) Interest rate risk in the banking book;
+- (b) Credit concentration risk;
+- (c) Liquidity risk;
+- (d) Settlement risk;
+- (e) Reputational risk;
+- (f) Strategic risk;
+- (g) Risk of under-estimation of credit risk under the Standardised approach;
+- (h) Model risk i.e., the risk of under-estimation of credit risk under the IRB approaches;
+- (i) Risk of weakness in the credit-risk mitigants;
+- (j) Residual risk of securitisation;
+- (k) Cyber security/IT infrastructure risk;
+- (l) Human capital risk;
+- (m) Group risk;
+- (n) Outsourcing / vendor management risk;
+- (o) Collateral risk
+
+The quantification of currency induced credit risk will form a part of banks' Internal Capital Adequacy Assessment Programme (ICAAP) and banks are expected to address this risk in a comprehensive manner. The ICAAP should measure the extent of currency induced credit risk[102](#page-117-0) the bank is exposed to and also concentration of such exposures. Banks may also like to perform stress tests under various extreme but plausible exchange rate scenarios under ICAAP. Outcome of ICAAP may lead a bank to take appropriate risk management actions like risk reduction, maintenance of more capital or provision, etc.
+
+It is, therefore, only appropriate that the banks make their own assessment of their various risk exposures, through a well-defined internal process, and maintain an adequate capital cushion for such risks.
+
+10.5 It is recognised that there is no one single approach for conducting the ICAAP and the market consensus in regard to the best practice for undertaking ICAAP is yet to emerge. The methodologies and techniques are still evolving particularly in regard to measurement of nonquantifiable risks, such as reputational and strategic risks. These guidelines, therefore, seek to provide only broad principles to be followed by banks in developing their ICAAP.
+
+<span id="page-117-0"></span> <sup>102</sup> Please refer to [circular DBOD.No.BP.BC.85/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8694&Mode=0) and [DBOD.No.BP.BC.116/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0) dated January 15, 2014 and June 3, 2014, respectively.
+
+10.6 Banks were advised to develop and put in place, with the approval of their Boards, an ICAAP commensurate with their size, level of complexity, risk profile and scope of operations. The ICAAP would be in addition to a bank's calculation of regulatory capital requirements under Pillar 1.
+
+10.7 The ICAAP document should, *inter alia*, include the capital adequacy assessment and projections of capital requirement for the ensuing year, along with the plans and strategies for meeting the capital requirement. An illustrative outline of a format o

@@ -1,0 +1,28 @@
+e same day. For example, if a bank in Tokyo transfers Yen on day X (Japan Standard Time) and receives corresponding US Dollar via CHIPS on day X (US Eastern Standard Time), the settlement is deemed to take place on the same value date. Banks shall compute the capital requirement using the counterparty risk weights prescribed in these guidelines. However, if five business days after the second contractual payment / delivery date the second leg has not yet effectively taken place, the bank that has made the first payment leg will receive a risk weight of 1250% on the full amount of the value transferred plus replacement cost, if any. This treatment will apply until the second payment / delivery leg is effectively made.
+
+## **5.16 Securitisation Exposures**
+
+5.16.1 The treatment of securitisation exposures for capital adequacy has been specified in the Master Direction– [Reserve Bank of India \(Securitisation of Standard Assets\) Directions, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)[76.](#page-67-0) As specified under clause 4 of Master Direction *ibid*, these directions, including those under chapter VI *ibid*, will be applicable to securitisation transactions undertaken subsequent to the issue of these directions.
+
+5.16.2 For transactions undertaken before issuance of the afore mentioned directions, i.e., prior to September 24, 2021, the treatment of securitisation exposures for capital adequacy would be as per the guidelines issued vide [circular no. DBOD.NO.BP.BC.60 / 21.04.048/2005-06 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2723&Mode=0) [February](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2723&Mode=0) 1, 2006, as amended from time to time, and as consolidated in para 5.16 of [Master](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859)  Circular no. [DBR.No.BP.BC.1/21.06.201/2015-16 on Basel III Capital Regulations dated July 1,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859)  [2015.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859)
+
+# **5.17 Capital Adequacy Requirement for Credit Default Swap (CDS) Positions in the Banking Book**
+
+## **5.17.1 Recognition of External / Third-party CDS Hedges**
+
+5.17.1.1 In case of Banking Book positions hedged by bought CDS positions, no exposure will be reckoned against the reference entity / underlying asset in respect of the hedged exposure, and exposure will be deemed to have been substituted by the protection seller, if the following conditions are satisfied:
+
+(a) Operational requirements mentioned in paragraph 4 of [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6852&Mode=0)  [DBOD.BP.BC.No.61/21.06.203/2011-12 dated November 30, 2011](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6852&Mode=0) on Prudential
+
+<span id="page-67-0"></span> <sup>76</sup> [Master Direction no. DOR.STR.REC.53/21.04.177/2021-22 dated September 24, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+
+Guidelines on Credit Default Swaps (CDS) are met (refer to **[Annex 7](#page-216-0)** of these guidelines);
+
+- (b) The risk weight applicable to the protection seller under the Standardised Approach for credit risk is lower than that of the underlying asset; and
+- (c) There is no maturity mismatch between the underlying asset and the reference / deliverable obligation. If this condition is not satisfied, then the amount of credit protection to be recognised should be computed as indicated in paragraph 5.17.1.3 (ii) below.
+
+5.17.1.2 If the conditions 5.17.1.1 (a) and (b) above are not satisfied or the bank breaches any of these conditions subsequently, the bank shall reckon the exposure on the underlying asset; and the CDS position will be transferred to Trading Book where it will be subject to specific risk, counterparty credit risk and general market risk (wherever applicable) capital requirements as applicable to Trading Book.
+
+5.17.1.3 The unprotected portion of the underlying exposure should be risk-weighted as applicable under the Standardised Approach for credit risk. The amount of credit protection shall be adjusted if there are any mismatches between the underlying asset/ obligation and the reference / deliverable asset / obligation with regard to asset or maturity. These are dealt with in detail in the following paragraphs.
+
+(i) *Asset Mismatches:* Asset mismatch will arise if the underlying asset is different from the reference asset or deliverable obligation. Protection will be reckoned as available by the protection buyer only if the mismatched assets meet the requirements that (1) the reference obligation or deliverable obligation ranks pari passu with or is junior to the underlying obligation, and (2) the underlying obligation and reference obligation or deliverable obligation share the same obligor (i.e., the same legal entity) and legally enforceable cross-default or cross-acceleration clauses are 

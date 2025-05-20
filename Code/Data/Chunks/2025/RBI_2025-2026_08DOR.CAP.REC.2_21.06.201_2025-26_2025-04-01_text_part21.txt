@@ -1,0 +1,44 @@
+io is currently above the ceiling prescribed for any reasons, efforts shall be made to bring it within limits.
+
+3 - Banks' exposures to third dwelling unit onwards to an individual will also be treated as CRE exposures, as indicated in paragraph 2 in Appendix 2 of [Circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0)  [DBOD.BP.BC.No.42/08.12.015/2009-10 dated September 9, 2009](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0) on 'Guidelines on Classification of Exposures as Commercial Real Estate (CRE) Exposures'.
+
+5.10.2 All other claims secured by residential property would attract the higher of the risk weight applicable to the counterparty or to the purpose for which the bank has extended finance.
+
+5.10.3 Loans / exposures to intermediaries for on-lending will not be eligible for inclusion under claims secured by residential property but will be treated as claims on corporates or claims included in the regulatory retail portfolio as the case may be.
+
+5.10.4 Investments in mortgage backed securities (MBS) backed by exposures as at paragraph 5.10.1 above will be governed by the guidelines pertaining to securitisation exposures[45.](#page-43-1)
+
+# **5.11 Claims Classified as Commercial Real Estate Exposure**
+
+5.11.1 Commercial Real Estate exposure is defined as per the guidelines issued vide [circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0)  [DBOD.No.BP.BC.42/08.12.015/2009-10 dated September 9, 2009.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0)
+
+5.11.2 Claims mentioned above will attract a risk weight of 100 per cent.
+
+<span id="page-43-0"></span> <sup>44</sup> Please refer to [circulars no. DOR.No.BP.BC.24/08.12.015/2020-21 dated October 16, 2020](https://rbi.org.in/scripts/NotificationUser.aspx?Id=11984&Mode=0) and [DOR.CRE.REC.13/08.12.015/2022-23 dated April 8, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12286&Mode=0) on Individual Housing Loans – Rationalisation of Risk Weights
+
+<span id="page-43-1"></span><sup>45</sup> Please refer to Master Direction – [Reserve Bank of India \(Securitisation of Standard Assets\) Directions, 2021 dated](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [September 24, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+
+5.11.3 Investments in mortgage backed securities (MBS) backed by exposures as at paragraph 5.11.1 above will be governed by the guidelines pertaining to securitisation exposures[46.](#page-44-0)
+
+# **5.12 Non-Performing Assets (NPAs)**
+
+5.12.1 The unsecured portion of NPA (other than a qualifying residential mortgage loan which is addressed in paragraph 5.12.6), net of specific provisions (including partial write-offs), will be riskweighted as follows:
+
+- (i) 150 per cent risk weight when specific provisions are less than 20 per cent of the outstanding amount of the NPA;
+- (ii) 100 per cent risk weight when specific provisions are at least 20 per cent of the outstanding amount of the NPA;
+- (iii) 50 per cent risk weight when specific provisions are at least 50 per cent of the outstanding amount of the NPA
+
+5.12.2 For the purpose of computing the level of specific provisions in NPAs for deciding the riskweighting, all funded NPA exposures of a single counterparty (without netting the value of the eligible collateral) should be reckoned in the denominator.
+
+5.12.3 For the purpose of defining the secured portion of the NPA, eligible collateral will be the same as recognised for credit risk mitigation purposes (paragraph 7.3.5). Hence, other forms of collateral like land, buildings, plant, machinery, current assets, etc. will not be reckoned while computing the secured portion of NPAs for capital adequacy purposes.
+
+5.12.4 In addition to the above, where a NPA is fully secured by the following forms of collateral that are not recognised for credit risk mitigation purposes, either independently or along with other eligible collateral a 100 per cent risk weight may apply, net of specific provisions, when provisions reach 15 per cent of the outstanding amount:
+
+- (i) Land and building which are valued by an expert valuer and where the valuation is not more than three years old, and
+- (ii) Plant and machinery in good working condition at a value not higher than the depreciated value as reflected in the audited balance sheet of the borrower, which is not older than eighteen months.
+
+5.12.5 The above collaterals (mentioned in paragraph 5.12.4) will be recognized only where the bank is having clear title to realize the sale proceeds thereof and can appropriate the same
+
+<span id="page-44-0"></span> <sup>46</sup> Please refer to Master Direction – [Reserve Bank of India \(Securitisation of Standard Assets\) Directions, 2021 dated](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [September 24, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+
+towards the amounts due to the bank. The bank's title

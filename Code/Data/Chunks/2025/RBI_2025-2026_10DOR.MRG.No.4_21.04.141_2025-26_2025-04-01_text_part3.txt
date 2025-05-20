@@ -1,0 +1,10 @@
+vised and the previous carrying value shall be adjusted in AFS-Reserve.
+- b. In view of the response to Q.No. 7 above, in modification to the above clause, it is now advised that the difference between the revised and the previous carrying
+
+value shall be adjusted in Revenue/General Reserve rather than AFS-Reserve. However, in the case of equity instruments designated under AFS difference between the revised and the previous carrying value shall be adjusted in AFS-Reserve.
+
+# **Q.No.9: At what value will special securities received from Government of India towards a bank's recapitalisation requirement be recognised and how should they be fair valued for disclosure purpose?**
+
+#### *[Refer Clause 7 of Directions]*
+
+Ans: Special securities received from the Government of India towards recapitalisation of banks shall be initially recognised at their fair value based on the prices/YTM put out by FBIL or as determined under the clause 26.1(c) of these Directions, as the case may be. Any difference between the acquisition cost and fair value so arrived shall be immediately recognized in the Profit and Loss Account. Further, subsequent valuation of such special securities, for disclosure purpose, shall be based on the clause 26.1(c) of these Directions.

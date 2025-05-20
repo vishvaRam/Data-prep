@@ -1,0 +1,45 @@
+ans a recognised stock exchange as defined under section 2(f) of the Securities Contracts (Regulation) Act, 1956.
+- (f) **Government Security** shall have the same meaning as defined in Section 2(f) of the Government Securities Act, 2006, and for the purpose of these Directions shall exclude treasury bills.
+- (g) **Government Securities Lending (GSL) transaction** shall have the same meaning as defined in para 2(1)(f) of the [Reserve Bank of India](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12580&Mode=0)  [\(Government Securities Lending\) Directions, 2023 dated December 27,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12580&Mode=0)  [2023,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12580&Mode=0) or as modified from time to time.
+- (h) **Market-maker** means an entity which provides prices to users and other market-makers.
+- (i) **Non-resident** is a person resident outside India as defined in section 2 (w) of Foreign Exchange Management Act, 1999 (42 of 1999).
+- (j) **Over-the-Counter (OTC)** market refers to a market where bond forward transactions are undertaken in any manner other than on exchanges and shall include those undertaken on electronic trading platforms (ETPs).
+- (k) **Physical settlement** of a bond forward means a settlement process in which the seller transfers the underlying government security to the buyer, against the receipt of the contracted price from the buyer, under the terms of the contract.
+- (l) **Repo** shall have the same meaning as defined in Section 45U (c) of the RBI Act, 1934.
+- (m) **Uncovered Short** means a short position in a bond forward other than a covered short position.
+- (n) **User** means a person that undertakes transactions in bond forwards other than as a market-maker.
+
+![](_page_3_Picture_0.jpeg)
+
+(ii) Words and expressions used, but not defined in these Directions, shall have the same meaning as assigned to them in the Act or in the Government Securities Act, 2006.
+
+# **3. Eligible Market Participants**
+
+The following persons shall be eligible to undertake bond forward transactions to the extent permitted under these Directions:
+
+- (a) A resident; and
+- (b) A non-resident who is eligible to invest in Government Securities under the [Foreign Exchange Management \(Debt Instruments\) Regulations, 2019 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12099&Mode=0)  [October 17, 2019,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12099&Mode=0) as amended from time to time.
+
+### **4. Market-makers and Users**
+
+### **4.1 Market-makers**
+
+(i) The following entities shall be eligible to undertake transactions in bond forwards as market-makers:
+
+- (a) A Scheduled Commercial Bank (except a Small Finance Bank, a Payment Bank, a Local Area Bank and a Regional Rural Bank); and
+- (b) A Standalone Primary Dealer (SPD).
+- (ii) A market-maker may undertake long positions without any limit and covered short positions in bond forwards.
+- (iii) A market-maker, permitted to undertake short sales, in terms of the [Short Sale](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11346&Mode=0#NT)  [\(Reserve Bank\) Directions, 2018, dated July 25, 2018,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11346&Mode=0#NT) as amended from time to time, shall also be eligible to undertake uncovered short positions subject to the underlying government security being eligible for short sale. Such uncovered short positions shall be reckoned in the security level limits on short sales and cannot remain uncovered for a period exceeding the maximum period specified for covering a short position in the [Short Sale \(Reserve Bank\) Directions, 2018, dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11346&Mode=0#NT)  [July 25,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11346&Mode=0#NT) 2018, as amended from time to time.
+- (iv) At least one of the parties to a bond forward transaction shall be a market-maker or a central counter party authorised by the Reserve Bank for the purpose.
+
+![](_page_4_Picture_0.jpeg)
+
+## **4.2 Users**
+
+Any entity, eligible to be classified as a non-retail user in terms of the [Rupee Interest](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11602&Mode=0)  [Rate Derivatives \(Reserve Bank\) Directions, 2019, dated June 26, 2019,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11602&Mode=0) as amended from time to time, shall be eligible to undertake transactions in bond forwards as a user.
+
+## **4.2.1 Directions for Users**
+
+- (i) An eligible resident user may undertake long positions in bond forwards without any limit.
+- (ii) An eligible user (resident and non-resident) may undertake covered short positions in bond forwards only for the purpose of hedging.
+- (iii) To ensure that short positions undertaken by a user is covered, market-makers may call for any relevant information/documents from the user, who, in turn, shall be obliged to provide such infor

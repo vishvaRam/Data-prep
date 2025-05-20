@@ -1,0 +1,37 @@
+capital instruments is intended to provide an overview of the capital structure of a bank. Many times, it may not be possible for the users to extract key features of capital instruments with ease from the full disclosure of terms and conditions of capital instruments made by banks.
+
+14.13.7.2 This template represents the minimum level of summary disclosure which banks are required to report in respect of **each** regulatory capital instrument issued. The main feature disclosure template is set out in **Table DF-13 of [Annex 17](#page-271-0)** along with a description of each of the items to be reported. Some of the key aspects of the 'Main Features Template' are as under:
+
+- (i) it is designed to be completed by banks from when the Basel III capital regulations come into effect i.e., as on April 1, 2013. Therefore, it includes disclosure relating to instruments which are subject to the transitional arrangements.
+- (ii) banks are required to report each capital instrument (including common shares) in a separate column of the template, such that the completed template would provide a 'main features report' that summarises all of the regulatory capital instruments of the banking group.
+
+14.13.7.3 Banks are required to keep the completed main features report up-to-date. Banks should ensure that the report is updated and made publicly available, whenever a bank issues or repays a capital instrument and whenever there is redemption, conversion / write-down or other material change in the nature of an existing capital instrument.
+
+## 14.13.8 **Other Disclosure Requirements**
+
+In addition to the disclosure requirements set out in above paragraphs, banks are required to make the following disclosure in respect of the composition of capital:
+
+- (i) Full Terms and Conditions: banks are required to make available on their websites[125](#page-163-1) the full terms and conditions of all instruments included in regulatory capital. The requirement for banks to make available the full terms and conditions of instruments on their websites will allow supervisors and market participants to investigate the specific features of individual capital instruments.
+- (ii) Banks are required to keep the terms and conditions of all capital instruments up-todate **(Table DF-14 of [Annex 17\)](#page-271-0)**. Whenever there is a change in the terms and conditions of a capital instrument, banks should update them promptly and make publicly available such updated disclosure.
+
+## **14.14 Format of Disclosure Template**
+
+All Pillar 3 disclosure templates as set out in these guidelines are furnished in tabular form in **[Annex 17](#page-271-0)**. Additional relevant definitions and explanations are also provided for the Pillar 3 disclosures.
+
+# **Part D: Capital Conservation Buffer Framework[126](#page-163-2)**
+
+### <span id="page-163-0"></span>**15. Capital Conservation Buffer**
+
+### **15.1 Objective**
+
+15.1.1 The capital conservation buffer (CCB) is designed to ensure that banks build up capital buffers during normal times (i.e., outside periods of stress) which can be drawn down as losses are incurred during a stressed period. The requirement is based on simple capital conservation rules designed to avoid breaches of minimum capital requirements.
+
+15.1.2 Outside the period of stress, banks should hold buffers of capital above the regulatory minimum. When buffers have been drawn down, one way banks should look to rebuild them is through reducing discretionary distributions of earnings. This could include reducing dividend payments, share buybacks and staff bonus payments. Banks may also choose to raise new
+
+<span id="page-163-1"></span> <sup>125</sup> Please refer to paragraph 14.10 of this Master Circular.
+
+<span id="page-163-2"></span><sup>126</sup> Annex 4 of Guidelines on Implementation of Basel III Capital Regulations in India issued vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)  [DBOD.No.BP.BC.98/21.06.201/2011-12 dated May 2, 2012.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)
+
+capital from the market as an alternative to conserving internally generated capital. However, if a bank decides to make payments in excess of the constraints imposed as explained above, the bank, with the prior approval of RBI, would have to use the option of raising capital from the market equal to the amount above the constraint which it wishes to distribute.
+
+15.1.3 In the absence of raising capital from the market, the share of earnings retained by banks for the purpose of rebuilding their capital buffers should increase the nearer their actual capital levels are to the minimum capital requirement. It will not be appropriate for banks which have depleted their capital buffers to use future predictions of recovery as justification for maintaining generous distributions to shareholders, other capital providers and employees. It is also not acceptable for banks which have depleted their capital b

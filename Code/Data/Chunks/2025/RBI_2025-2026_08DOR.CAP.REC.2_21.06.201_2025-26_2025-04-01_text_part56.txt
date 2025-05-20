@@ -1,0 +1,45 @@
+g sophistication and risk sensitivity: (i) the Basic Indicator Approach (BIA); (ii) the Standardised Approach (TSA); and (iii) Advanced Measurement Approaches (AMA).
+
+9.2.2 Banks in India shall compute the capital requirements for operational risk under the Basic Indicator Approach. Reserve Bank will review the capital requirement produced by the Basic Indicator Approach for general credibility, especially in relation to a bank's peers and in the event that credibility is lacking, appropriate supervisory action under Pillar 2 will be considered.
+
+# **9.3 The Basic Indicator Approach**
+
+9.3.1 Under the Basic Indicator Approach, banks shall hold capital for operational risk equal to the average over the previous three years of a fixed percentage (denoted as alpha) of positive annual gross income. Figures for any year in which annual gross income is negative or zero should be excluded from both the numerator and denominator when calculating the average. If negative gross income distorts a bank's Pillar 1 capital charge, Reserve Bank will consider appropriate supervisory action under Pillar 2. The charge may be expressed as follows:
+
+$$\mathsf{KBSIF} = \mathsf{I} \sum \mathsf{(Gyl\_{1...n} \times \mathsf{a})} \mathsf{j} / \mathsf{n}$$
+
+Where:
+
+KBIA =the capital charge under the Basic Indicator Approach
+
+GI = annual gross income, where positive, over the previous three years
+
+- n = number of the previous three years for which gross income is positive
+- α = 15 per cent, which is set by the BCBS, relating the industry wide level of required capital to the industry wide level of the indicator.
+
+9.3.2. Gross income is defined as "Net interest income" plus "net non-interest income". It is intended that this measure should:
+
+- (i) be gross of any provisions (e.g., for unpaid interest) and write-offs made during the year;
+- (ii) be gross of operating expenses, including fees paid to outsourcing service providers, *in addition to fees paid for services that are outsourced, fees received by banks that provide outsourcing services shall be included in the definition of gross income;*
+- (iii) exclude reversal during the year in respect of provisions and write-offs made during the previous year(s);
+- (iv) exclude income recognised from the disposal of items of movable and immovable property;
+- (v) exclude realised profits/losses from the sale of securities in the *"banking book"*;
+- (vi) exclude income from legal settlements in favour of the bank;
+- (vii) exclude other extraordinary or irregular items of income and expenditure; and
+- (viii) exclude income derived from insurance activities (i.e., income derived by writing insurance policies) and insurance claims in favour of the bank.
+
+9.3.3 Banks are advised to compute capital charge for operational risk under the Basic Indicator Approach as follows:
+
+- (a) Average of [Gross Income \* alpha(α)] for each of the last three financial years, excluding years of negative or zero gross income as mentioned in *paragraph 9.3.1*.
+- (b) Gross income = *Net profit (+) Provisions & contingencies (+) operating expenses (Schedule 16) (–) items (iii) to (viii) of paragraph 9.3.2*.
+- (c) Alpha (α) = 15 per cent
+
+9.3.4 As a point of entry for capital calculation, no specific criteria for use of the Basic Indicator Approach are set out in these guidelines. Nevertheless, banks using this approach are encouraged to comply with the 'Guidance Note on Operational Risk Management and Operational Resilience' issued by the Reserve Bank of India on April 30, 2024, and '*Revisions to the Principles for the Sound Management of Operational Risk*' and '*Principles for Operational Resilience*' issued by the Basel Committee on Banking Supervision in March 2021. Further, banks are also
+
+encouraged to be in readiness for migrating to the new Standardised Approach prescribed in ['Master Direction on Minimum Capital Requirements for Operational](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12520) Risk' dated June 26, 2023. 9.3.5 Once the bank has calculated the capital charge for operational risk under the Basic Indicator Approach, it has to multiply this with 12.5 and arrive at the notional risk weighted asset (RWA) for operational risk.
+
+## **Part B: Supervisory Review and Evaluation Process (SREP)**
+
+## <span id="page-116-0"></span>**10. Introduction to the SREP under Pillar 2**
+
+10.1 The New Capital Adequacy Framework (NCAF), based on the Basel II Framework evolved by the Basel Committee on Banking Supervision, was adapted for India vide [Circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3464&Mode=0)  [DBOD.No.BP.BC.90/20.06.001/ 2006-07 dated April 27, 2007.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3464&Mode=0) In terms of paragraph 2.4 (iii)(c) of the Annex to the aforesaid circular banks were required to have a Board-approved policy on Internal Capital Adequacy Assessment Process (ICAAP) and to assess the capital requirement as per ICAAP. It is presumed that

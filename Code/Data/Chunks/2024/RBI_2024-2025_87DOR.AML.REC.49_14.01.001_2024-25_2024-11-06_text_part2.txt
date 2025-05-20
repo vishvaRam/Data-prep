@@ -1,0 +1,12 @@
+ unless–
+
+- (i) there is a change in the information of the customer as existing in the records of CKYCR; or
+- (ii) the KYC record or information retrieved is incomplete or is not as per the current applicable KYC norms; or
+- (iii) the validity period of downloaded documents has lapsed; or
+- (iv) the RE considers it necessary in order to verify the identity or address (including current address) of the customer, or to perform enhanced due diligence or to build an appropriate risk profile of the customer.
+
+## **V. Annex II of the MD on KYC**
+
+Based on the [corrigendum dated April 22, 2024](https://rbidocs.rbi.org.in/rdocs/content/pdfs/FLAGEDCNMHA06112024_AN.pdf) issued by the Government of India to the Order dated February 2, 2021 regarding the *'Procedure for implementation of Section 51A of the Unlawful Activities (Prevention) Act, 1967',* the designation of Central Nodal Officer for the UAPA has been changed from "Additional Secretary" to "Joint Secretary".
+
+**VI.** The provisions of Master Direction may henceforth be read as 'paragraph' instead of 'section'. All internal cross-references to 'section' in the Master Direction on KYC have been replaced to be read as 'paragraph'.

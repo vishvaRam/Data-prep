@@ -1,0 +1,38 @@
+determination of financial difficultly, a non-exhaustive indicative list of signs of financial difficulty are provided as under<sup>16</sup>:
+
+- a) A default, as per the definition provided in the framework, shall be treated as an indicator for financial difficulty, irrespective of reasons for the default.
+- b) A borrower not in default, but it is probable that the borrower will default on any of its exposures in the foreseeable future without the concession, for instance, when there has been a pattern of delinquency in payments on its exposures.
+- c) A borrower's outstanding securities have been delisted, are in the process of being delisted, or are under threat of being delisted from an exchange due to noncompliance with the listing requirements or for financial reasons.
+- d) On the basis of actual performance, estimates and projections that encompass the borrower's current level of operations, the borrower's cash flows are assessed to be insufficient to service all of its loans or debt securities (both interest and principal) in accordance with the contractual terms of the existing agreement for the foreseeable future.
+- e) A borrower's credit facilities are in non-performing status or would be categorised as nonperforming without the concessions.
+
+<sup>15</sup> Please refer to the [Framework for Compromise Settlements and Technical Write-offs dated June 8, 2023](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0) and [FAQs](https://www.rbi.org.in/Scripts/FAQDisplay.aspx?Id=160) on the same issued on June 20, 2023.
+
+<sup>16</sup> Based on the Basel Committee Guidelines on "Prudential treatment of problem assets – definitions of non-performing exposures and forbearance".
+
+- f) A borrower's existing exposures are categorised as exposures that have already evidenced difficulty in the borrower's ability to repay in accordance with the bank's internal credit rating system.
+- g) The above list provides examples of possible indicators of financial difficulty, but is not intended to constitute an exhaustive enumeration of financial difficulty indicators with respect to restructuring. Lenders shall need to complement the above with key financial ratios and operational parameters which may include quantitative and qualitative aspects. In particular, financial difficulty can be identified even in the absence of arrears on an exposure. The robustness of the board approved policy and the outcomes would be examined as part of the supervisory oversight of the Reserve Bank.
+
+## 17. Prudential Norms<sup>17</sup>
+
+## 17.1 Asset Classification
+
+In case of restructuring, the accounts classified as 'standard' shall be immediately downgraded as non-performing assets (NPAs), i.e., 'sub-standard' to begin with. The NPAs, upon restructuring, would continue to have the same asset classification as prior to restructuring. In both cases, the asset classification shall continue to be governed by the ageing criteria as laid out in Part A of this Master Circular.
+
+#### 17.2 Conditions for Upgrade
+
+# **17.2.1 For MSME accounts where aggregate exposure of the lenders is less than ₹25 crores:**
+
+An account may be considered for upgradation to 'standard' only if it demonstrates satisfactory performance during the specified period. 'Specified Period' means a period of one year from the commencement of the first payment of interest or principal, whichever is later, on the credit facility with longest period of moratorium under the terms of restructuring package. 'Satisfactory Performance' means no payment (interest and/or principal) shall remain overdue for a period of more than 30 days. In case of cash credit / overdraft account, satisfactory performance means that the outstanding in the account shall not be more than the sanctioned limit or drawing power, whichever is lower, for a period of more than 30 days.
+
+## 17.2.2 **For all other accounts not included in sub-paragraph 17.2.1**
+
+17.2.2.1 Standard accounts classified as NPA and NPA accounts retained in the same category on restructuring by the lenders may be upgraded only when all the outstanding loan
+
+<sup>17</sup> Applicable to all resolution plans, including those undertaken under IBC.
+
+/ facilities in the account demonstrate 'satisfactory performance'<sup>18</sup> during the period from the date of implementation of RP up to the date by which at least 10 per cent of the sum of outstanding principal debt<sup>19</sup> as per the RP and interest capitalisation sanctioned as part of the restructuring, if any, is repaid (**'monitoring period'**).
+
+*Provided that* the account cannot be upgraded before one year from the commencement of the first payment of interest or principal (whichever is later) on the credit facility with longest period of moratorium under the terms of RP.
+
+*17.2.2.2* Additionally, for accounts where the aggregate exposure of lenders is ₹100 crores and above at the time of implementation of RP, to qualify for an upgrade, in addition to demonstration

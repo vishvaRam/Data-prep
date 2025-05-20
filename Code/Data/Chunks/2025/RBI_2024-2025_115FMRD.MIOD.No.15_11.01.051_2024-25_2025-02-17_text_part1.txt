@@ -1,0 +1,36 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2024-25/115 FMRD.MIOD.No.15/11.01.051/2024-25 February 17, 2025
+
+To All participants in Government Securities market
+
+Madam/Sir,
+
+## **Government securities transactions between a Primary Member (PM) of NDS-OM and its own Gilt Account Holder (GAH) or between two GAHs of the same PM**
+
+Transactions in Government securities in the Over the Counter (OTC) market are currently undertaken either on Negotiated Dealing System - Order Matching (NDS-OM) platform or are bilaterally negotiated outside the system and subsequently reported on NDS-OM. All transactions matched on NDS-OM platform are cleared and settled through the Clearing Corporation of India Limited (CCIL), which acts as a Central Counter Party (CCP) for transactions in Government securities.
+
+2. At present, transactions between a Primary Member (PM) and its own Gilt Account Holder (GAH) and between two GAHs of the same PM are not permitted to be matched on NDS-OM and are also not cleared and settled through CCIL. On a review and based on the feedback received, it has been decided to:
+
+- a. Permit matching of transactions between a PM and its own GAH or between two GAHs of the same PM on both the anonymous Order Matching segment and the Request for Quote (RFQ) segment of NDS-OM. Transactions matched on NDS-OM shall be cleared and settled through CCIL.
+- b. Extend the facility of clearing and settlement through CCIL to transactions between a PM and its own GAH or between two GAHs of the same PM which are bilaterally negotiated and reported to NDS-OM, on an optional basis.
+
+�वत्तीय बाज़ार �व�नयमन �वभाग,केंद्र�य कायार्लय भवन, नौवीं मंिजल, शह�द भगत �स ंह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000, ई-मेल: [cgmfmrd@rbi.org.in](mailto:cgmfmrd@rbi.org.in)
+
+�हन्द� आसान है, इसका प्रयोग बढ़ाइए
+
+![](_page_1_Picture_0.jpeg)
+
+3. Any failure in the settlement of these transactions shall be treated as an instance of 'SGL bouncing' in terms of [RBI circular "Government securities Act, 2006, Section 27 and](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5876&Mode=0)  30 – [Imposition of penalty for bouncing of SGL forms" dated July 14, 2010,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5876&Mode=0) as amended from time to time, and will be subjected to the applicable penal provisions, as specified therein.
+
+4. Detailed operational guidelines in this regard will be issued by CCIL.
+
+5. The Directions contained in this circular have been issued under Section 45W of Chapter IIID of the Reserve Bank of India Act, 1934 and are without prejudice to permissions/ approvals, if any, required under any other law.
+
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager

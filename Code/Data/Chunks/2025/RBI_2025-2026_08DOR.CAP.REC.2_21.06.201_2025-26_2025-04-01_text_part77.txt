@@ -1,0 +1,32 @@
+the accounting guidance provided to determine the relevant market information and other factors likely to have a material effect on an instrument's fair value when selecting the appropriate inputs to use in the valuation process. Where values are determined to be in an active market, a bank should maximise the use of relevant observable inputs and minimise the use of unobservable inputs when estimating fair value using a valuation technique. However, where a market is deemed inactive, observable inputs or transactions may not be relevant, such as in a forced liquidation or distress sale, or transactions may not be observable, such as when markets are inactive. In such cases, accounting fair value guidance provides assistance on what should be considered, but may not be determinative. In assessing whether a source is reliable and relevant, a bank should consider, among other things:
+
+- the frequency and availability of the prices/quotes;
+- whether those prices represent actual regularly occurring transactions on an arm's length basis;
+- the breadth of the distribution of the data and whether it is generally available to the relevant participants in the market;
+- the timeliness of the information relative to the frequency of valuations;
+- the number of independent sources that produce the quotes/prices;
+- whether the quotes/prices are supported by actual transactions;
+- the maturity of the market; and
+- the similarity between the financial instrument sold in a transaction and the instrument held by the institution.
+
+A bank's external reporting should provide timely, relevant, reliable and decision useful information that promotes transparency. Senior management should consider whether disclosures around valuation uncertainty can be made more meaningful. For instance, the bank may describe the modelling techniques and the instruments to which they are applied; the sensitivity of fair values to modelling inputs and assumptions; and the impact of stress scenarios on valuations. A bank should regularly review its disclosure policies to ensure that the information disclosed continues to be relevant to its business model and products and to current market conditions.
+
+### **13.12 Sound Stress Testing Practices**
+
+Stress testing is an important tool that is used by banks as part of their internal risk management that alerts bank management to adverse unexpected outcomes related to a broad variety of risks, and provides an indication to banks of how much capital might be needed to absorb losses should large shocks occur. Moreover, stress testing supplements other risk management approaches and measures. It plays a particularly important role in:
+
+- providing forward looking assessments of risk,
+- overcoming limitations of models and historical data,
+- supporting internal and external communication,
+- feeding into capital and liquidity planning procedures,
+- informing the setting of a banks' risk tolerance,
+- addressing existing or potential, firm-wide risk concentrations, and
+- facilitating the development of risk mitigation or contingency plans across a range of stressed conditions.
+
+Stress testing is especially important after long periods of benign risk, when the fading memory of negative economic conditions can lead to complacency and the underpricing of risk, and when innovation leads to the rapid growth of new products for which there is limited or no loss data.
+
+It should be recognised that improvements in stress testing alone cannot address all risk management weaknesses, but as part of a comprehensive approach, stress testing has a leading role to play in strengthening bank corporate governance and the resilience of individual banks and the financial system.
+
+Stress testing should form an integral part of the overall governance and risk management culture of the bank. Board and senior management involvement in setting stress testing objectives, defining scenarios, discussing the results of stress tests, assessing potential actions and decision making is critical in ensuring the appropriate use of stress testing in banks' risk governance and capital planning. Senior management should take an active interest in the development in, and operation of, stress testing. The results of stress tests should contribute to strategic decision making and foster internal debate regarding assumptions, such as the cost, risk and speed with which new capital could be raised or that positions could be hedged or sold. Board and senior management involvement in the stress testing program is essential for its effective operation.
+
+A bank's capital planning process should incorporate rigorous; forward looking stress testing that identifies possible events or changes in market conditions that could adversely impact the bank. Banks, under their ICAAPs should examine future capital resources and capital requirements under adverse scenarios. In particular, the results of forward-looking stress testing should be considered when evaluati

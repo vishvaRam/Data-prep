@@ -1,0 +1,29 @@
+losures should be consistent with how senior management and the Board of Directors assess and manage the risks of the bank. Under Pillar 1, banks use specified approaches / methodologies for measuring the various risks they face and the resulting capital requirements. It is believed that providing disclosures that are based on a common framework is an effective means of informing the market about a bank's exposure to those risks and provides a consistent and comprehensive disclosure framework that enhances comparability.
+
+## **14.2 Achieving Appropriate Disclosure**
+
+14.2.1 Market discipline can contribute to a safe and sound banking environment. Hence, noncompliance with the prescribed disclosure requirements would attract a penalty, including financial penalty. However, it is not intended that direct additional capital requirements would be a response to non-disclosure, except as indicated below.
+
+14.2.2 In addition to the general intervention measures, the Basel Capital Adequacy Framework also anticipates a role for specific measures. Where disclosure is a qualifying criterion under Pillar 1 to obtain lower risk weightings and/or to apply specific methodologies, there would be a direct sanction (not being allowed to apply the lower risk weighting or the specific methodology).
+
+## **14.3 Interaction with Accounting Disclosures**
+
+It is recognised that the Pillar 3 disclosure framework does not conflict with requirements under accounting standards, which are broader in scope. The BCBS has taken considerable efforts to see that the narrower focus of Pillar 3, which is aimed at disclosure of bank capital adequacy, does not conflict with the broader accounting requirements. The Reserve Bank will consider future modifications to the Market Discipline disclosures as necessary in light of its ongoing monitoring of this area and industry developments.
+
+## **14.4 Validation**
+
+The disclosures in this manner should be subjected to adequate validation. For example, since information in the annual financial statements would generally be audited, the additional material published with such statements must be consistent with the audited statements. In addition, supplementary material (such as Management's Discussion and Analysis) that is published should also be subjected to sufficient scrutiny (e.g., internal control assessments, etc.) to satisfy the validation issue. If material is not published under a validation regime, for instance in a standalone report or as a section on a website, then management should ensure that appropriate verification of the information takes place, in accordance with the general disclosure principle set out below. In the light of the above, Pillar 3 disclosures will not be required to be audited by an external auditor, unless specified.
+
+### **14.5 Materiality**
+
+A bank should decide which disclosures are relevant for it based on the materiality concept. Information would be regarded as material if its omission or misstatement could change or influence the assessment or decision of a user relying on that information for the purpose of making economic decisions. This definition is consistent with International Accounting Standards
+
+and with the national accounting framework. The Reserve Bank recognises the need for a qualitative judgment of whether, in light of the particular circumstances, a user of financial information would consider the item to be material (user test). The Reserve Bank does not consider it necessary to set specific thresholds for disclosure as the user test is a useful benchmark for achieving sufficient disclosure. However, with a view to facilitate smooth transition to greater disclosures as well as to promote greater comparability among the banks' Pillar 3 disclosures, the materiality thresholds have been prescribed for certain limited disclosures. Notwithstanding the above, banks are encouraged to apply the user test to these specific disclosures and where considered necessary make disclosures below the specified thresholds also.
+
+### **14.6 Proprietary and Confidential Information**
+
+Proprietary information encompasses information (for example on products or systems), that if shared with competitors would render a bank's investment in these products/systems less valuable, and hence would undermine its competitive position. Information about customers is often confidential, in that it is provided under the terms of a legal agreement or counterparty relationship. This has an impact on what banks should reveal in terms of information about their customer base, as well as details on their internal arrangements, for instance methodologies used, parameter estimates, data etc. The Reserve Bank believes that the requirements set out below strike an appropriate balance between the need for meaningful disclosure and the protection of proprietary and confidential information.
+
+### **14.7 General Disclosure Principle**
+
+Banks should have a formal disclosure policy approved by 

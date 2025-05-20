@@ -1,0 +1,31 @@
+llected from regular members having voting rights.
+- (ii) Contributions received from associate / nominal members where the byelaws permit allotment of shares to them and provided there are restrictions on withdrawal of such shares, as applicable to regular members.
+- (iii) Contribution / non-refundable admission fees collected from the nominal and associate members which is held separately as 'reserves' under an appropriate head since these are not refundable.
+- (iv) Perpetual Non-Cumulative Preference Shares (PNCPS) which comply with the regulatory requirements as specified in [Annex](#page-19-0) 3.
+- (v) Free Reserves as per the audited accounts. Reserves, if any, created to meet outside liabilities should not be included in the Tier I Capital. Free reserves shall exclude all reserves / provisions which are created to meet anticipated loan losses, losses on account of fraud etc., depreciation in investments and other assets and other outside liabilities. For example, the amount held under the head "Building Fund" will be treated as part of free reserve[3](#page-3-1). Similarly, "Bad and Doubtful Debt Reserve" complying with all the terms and instructions issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12716&Mode=0)
+
+<span id="page-3-0"></span> <sup>2</sup> UCBs are permitted to raise share capital, as hitherto, by way of (i) issue of shares to persons within their area of operation, in accordance with the provisions of their bye-laws, and (ii) issue of additional shares to the existing members.
+
+<span id="page-3-1"></span><sup>3</sup> In terms of [circular DOR.CAP.REC.No.30/09.18.201/2024-25 dated July 30, 2024,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12714&Mode=0) as a one-time measure, balances in Dividend Equalisation Fund (DEF) could be transferred to general reserves/free reserves and treated as Tier I Capital.
+
+[DOR.CAP.REC.No.27/09.18.201/2024-25 dated August 02, 2024,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12716&Mode=0) shall also be treated as free reserves.
+
+- (vi) Capital Reserves representing surplus arising out of sale proceeds of assets.
+- (vii) Perpetual Debt Instruments (PDIs) which comply with the regulatory requirements as specified in [Annex 4.](#page-25-0)
+- (viii) Any surplus (net) in Profit and Loss Account i.e., balance after appropriation towards dividend payable, education fund, other funds whose utilisation is defined, asset loss, if any, etc.
+- (ix) Outstanding amount in Special Reserve created under Section 36(1) (viii) of the Income Tax Act, 1961.
+- (x) Revaluation reserves, arising out of change in the carrying amount of a bank's property consequent upon its revaluation, may be reckoned as Tier I capital at a discount of 55 per cent, subject to meeting the following conditions:
+	- the bank is able to sell the property readily at its own will and there is no legal impediment in selling the property;
+	- the revaluation reserves are presented/disclosed separately under "Reserve Fund and Other Reserves" in the Balance Sheet;
+	- revaluations are realistic, in accordance with applicable accounting standards;
+	- valuations are obtained, from two independent valuers, at least once in every three years;
+	- where the value of the property has been substantially impaired by any event, these are to be immediately revalued and appropriately factored into capital adequacy computations;
+	- the external auditor(s) of the bank have not expressed a qualified opinion on the revaluation of the property;
+	- the instructions on valuation of properties and other specific requirements as mentioned in Annex 1 (Guidelines on Valuation of Properties – Empanelment of Valuers) to the [Master Circular](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12525)  [DOR.CRE.REC.No.27/07.10.002/2023-24 dated July 25, 2023](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12525) on Management of Advances – UCBs, as amended from time to time, are strictly adhered to.
+
+Revaluation reserves which do not qualify as Tier I capital shall also not qualify as Tier II capital. The bank may choose to reckon revaluation reserves in Tier I capital or Tier II capital at its discretion, subject to fulfilment of all the conditions specified above.
+
+#### *Note :*
+
+- *(i) Amount of intangible assets, losses in current year and those brought forward from previous periods, deficit in NPA provisions, income wrongly recognized on non-performing assets, provision required for liability devolved on bank, etc. will be deducted from Tier I Capital.*
+- *(ii) For a Fund to be included in the Tier I Capital, the Fund should satisfy two criteria viz., the Fund should be created as an appropriation of net profit and should be a free reserve and not a specific reserve. However, if the same has been created not by appropriation of profit but by a charge on the profit then this Fund is in effect a provision and hence will be eligible for being reckoned only

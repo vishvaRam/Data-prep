@@ -1,0 +1,36 @@
+cro-economic factors.
+
+Thus, banks shall have an explicit, Board-approved capital plan which should spell out the institution's objectives in regard to level of capital, the time horizon for achieving those objectives, and in broad terms, the capital planning process and the allocated responsibilities for that process.
+
+#### **12.9 ICAAP to be a Risk-based Process**
+
+The adequacy of a bank's capital is a function of its risk profile. Banks shall, therefore, set their capital targets which are consistent with their risk profile and operating environment. As a minimum, a bank shall have in place a sound ICAAP, which shall include all **material** risk exposures incurred by the bank. There are some types of risks (such as reputation risk and
+
+strategic risk) which are less readily quantifiable; for such risks, the focus of the ICAAP should be more on qualitative assessment, risk management and mitigation than on quantification of such risks. Banks' ICAAP document shall clearly indicate for which risks a quantitative measure is considered warranted, and for which risks a qualitative measure is considered to be the correct approach.
+
+## **12.10 ICAAP to Include Stress Tests and Scenario Analyses**
+
+As part of the ICAAP, the management of a bank shall, as a minimum, conduct relevant stress tests periodically, particularly in respect of the bank's material risk exposures, in order to evaluate the potential vulnerability of the bank to some unlikely but plausible events or movements in the market conditions that could have an adverse impact on the bank. The use of stress testing framework can provide a bank's management a better understanding of the bank's likely exposure in extreme circumstances. In this context, the attention is also invited to the [RBI circulars](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3605&Mode=0) [DBOD.No.BP.BC.101/21.04.103/2006-07](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3605&Mode=0) and [DBOD.BP.BC.No.75/21.04.103/2013-14](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8605&Mode=0) dated June 26, 2007 and December 2, 2013, respectively on stress testing. The banks are urged to take necessary measures for implementing an appropriate formal stress testing framework by the date specified which would also meet the stress testing requirements under the ICAAP of the banks.
+
+## **12.11 Use of Capital Models for ICAAP**
+
+While the RBI does not expect the banks to use complex and sophisticated econometric models for internal assessment of their capital requirements, and there is no RBI-mandated requirement for adopting such models, the banks, with international presence, were required[109](#page-132-0) to develop suitable methodologies, by March 31, 2001, for estimating and maintaining economic capital. However, some of the banks, which have relatively complex operations and are adequately equipped in this regard, may like to place reliance on such models as part of their ICAAP. While there is no single prescribed approach as to how a bank should develop its capital model, a bank adopting a model-based approach to its ICAAP shall be able to, *inter alia*, demonstrate:
+
+- (a) Well documented model specifications, including the methodology / mechanics and the assumptions underpinning the working of the model;
+- (b) The extent of reliance on the historical data in the model and the system of back testing to be carried out to assess the validity of the outputs of the model vis-à-vis the actual outcomes;
+- (c) A robust system for independent validation of the model inputs and outputs;
+- (d) A system of stress testing the model to establish that the model remains valid even under extreme conditions / assumptions;
+
+<span id="page-132-0"></span> <sup>109</sup> In terms of paragraph 17 of our Circular DBOD.No.BP(SC).BC. 98 / 21.04.103 / 99 dated October 7, 1999
+
+- (e) The level of confidence assigned to the model outputs and its linkage to the bank's business strategy;
+- (f) The adequacy of the requisite skills and resources within the banks to operate, maintain and develop the model.
+
+## <span id="page-133-0"></span>**13. Select Operational Aspects of the ICAAP**
+
+This Section outlines in somewhat greater detail the scope of the risk universe expected to be normally captured by the banks in their ICAAP.
+
+## **13.1 Identifying and Measuring Material Risks in ICAAP**
+
+- (i) The first objective of an ICAAP is to identify all material risks. Risks that can be reliably measured and quantified should be treated as rigorously as data and methods allow. The appropriate means and methods to measure and quantify those material risks are likely to vary across banks.
+- (ii) Some of the risks to which banks are exposed include credit risk, market risk, operational risk, interest rate risk in the banking book, credit concentration risk and liquidity risk (as briefly outlined below). The RBI has issued guidelines to the banks on asset liability management, management of country ris

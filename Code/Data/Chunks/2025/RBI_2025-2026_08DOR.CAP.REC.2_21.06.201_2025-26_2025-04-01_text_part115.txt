@@ -1,0 +1,35 @@
+S creates a notional long / short position for specific risk in the reference asset / obligation for protection seller / protection buyer. For calculating specific risk capital charge, the notional amount of the CDS and its maturity should be used. The specific risk capital charge for CDS positions will be as per Table-1 and Table-2 below.
+
+**Table-1: Specific risk capital charges for bought and sold CDS positions in the Trading Book: Exposures to entities other than Commercial Real Estate Companies/ NBFC-ND-SI**
+
+
+<span id="page-220-0"></span> <sup>203</sup> Under Basel II, the specific risk capital charge for risk exposures to corporate bonds, CDS contracts, etc., held in Trading Book have been calibrated, keeping in view the generally short time horizon of the Trading Book. In case such positions remain in the Trading Book for longer time horizons, these are exposed to higher credit risk. In such
+
+
+\* These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed within the main category.
+
+
+
+# The above table will be applicable for exposures upto 90 days. Capital charge for exposures to Commercial Real Estate Companies / NBFC-ND-SI beyond 90 days shall be taken at 9.0%, regardless of rating of the reference /deliverable obligation.
+
+\* These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed within the main category.
+
+### **6.2.1 Specific Risk Capital Charges for Positions Hedged by CDS[204](#page-221-0)**
+
+cases, the normal specific risk capital charge will be inadequate. Hence, the specific risk capital charges on exposures remaining in Trading Book beyond 90 days have been suitably increased.
+
+<span id="page-221-0"></span><sup>204</sup> This paragraph will be applicable only in those cases where a CDS position is explicitly meant for hedging a Trading Book exposure. In other words, a bank cannot treat a CDS position as a hedge against any other Trading Book exposure if it was not intended to be as such *ab initio*.
+
+(i) Banks may fully offset the specific risk capital charges when the values of two legs (i.e. long and short in CDS positions) always move in the opposite direction and broadly to the same extent. This would be the case when the two legs consist of **completely identical CDS**. In these cases, no specific risk capital requirement applies to both sides of the CDS positions.
+
+(ii) Banks may offset 80 per cent of the specific risk capital charges when the value of two legs (i.e., long and short) always moves in the opposite direction but not broadly to the same extent[205](#page-222-0). This would be the case when a long cash position is hedged by a credit default swap and there is an exact match in terms of the reference / deliverable obligation, and the maturity of both the reference / deliverable obligation and the CDS. In addition, key features of the CDS (e.g., credit event definitions, settlement mechanisms) should not cause the price movement of the CDS to materially deviate from the price movements of the cash position. To the extent that the transaction transfers risk, an 80% specific risk offset will be applied to the side of the transaction with the higher capital charge, while the specific risk requirement on the other side will be zero[206.](#page-222-1)
+
+(iii) Banks may offset partially the specific risk capital charges when the value of the two legs (i.e., long and short) usually moves in the opposite direction. This would be the case in the following situations:
+
+- (a) The position is captured in paragraph 6.2.1 (ii) but there is an asset mismatch between the cash position and the CDS. However, the underlying asset is included in the (reference / deliverable) obligations in the CDS documentation and meets the requirements of paragraph 4 (k).
+- (b) The position is captured in paragraph 6.2.1 (ii) but there is maturity mismatch between credit protection and the underlying asset. However, the underlying asset is included in the (reference / deliverable) obligations in the CDS documentation.
+- (c) In each of the cases in paragraph (a) and (b) above, rather than applying specific risk capital requirements on each side of the transaction (i.e., the credit protection and the underlying asset), only higher of the two capital requirements will apply.
+
+# **6.2.2 Specific Risk Charge in CDS Positions which are not meant for Hedging**
+
+<span id="page-222-0"></span> <sup>205</sup> A cash position in corporate bond in Trading Book hedged by a CDS position, even where the reference obligation and the underlying bonds are the same, will not qualify for 100% offset because a CDS cannot guarantee a 100% match between the market value of

@@ -1,0 +1,47 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2024-25/64 CO.DPSS.POLC.No.S528/02-14-003/2024-25 August 22, 2024
+
+The Chairman / Managing Director / Chief Executive Officer All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks / Payments Banks / Small Finance Banks / Local Area Banks / Non-bank Prepaid Payment Instrument issuers / Authorised Card Payment Networks / National Payments Corporation of India
+
+Madam / Dear Sir,
+
+## **Processing of e-mandates for recurring transactions**
+
+A reference is invited to our [circulars DPSS.CO.PD.No.447/02.14.003/2019-20 dated August 21,](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=11668&fn=9&Mode=0) 
+
+[2019,](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=11668&fn=9&Mode=0) and other related circulars[1](#page-0-0) (collectively referred to as "e-mandate framework"). The emandate framework prescribed, *inter alia*, that the issuer shall send a pre-debit notification to the customer at least 24 hours prior to the actual charge / debit to the account.
+
+2. Reference is also drawn to the [Statement on Developmental and Regulatory Policies](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58051) 
+
+[dated June 07, 2024,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58051) wherein it was announced that auto-replenishment of balances in FASTag
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai -
+
+![](_page_0_Figure_20.jpeg)
+
+<span id="page-0-0"></span><sup>1</sup> RBI circulars:
+
+a. [DPSS.CO.PD No.1324/02.23.001/2019-20 dated January 10, 2020,](https://rbi.org.in/scripts/FS_Notification.aspx?Id=11784&fn=9&Mode=0)
+
+b. [DPSS.CO.PD No.754/02.14.003/2020-21 dated December 04, 2020,](https://rbi.org.in/scripts/FS_Notification.aspx?Id=12002&fn=9&Mode=0)
+
+c. [CO.DPSS.POLC.No.S34/02-14-003/2020-2021 dated March 31, 2021,](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12051&fn=9&Mode=0)
+
+d. [CO.DPSS.POLC.No.S-518/02.14.003/2022-23 dated June 16, 2022,](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12341&fn=9&Mode=0) and
+
+e. [CO.DPSS.POLC.No.S-882/02.14.003/2023-24 dated December 12, 2023](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=12570&fn=9&Mode=0)
+
+भुगतान और िनपटान प्रणाली िवभाग, कें द्रीय कायार्लय, 14वीमंिजल, कें द्रीयकायार्लयभवन,शहीदभगतिसंहमागर्, फोटर्, मु�ई - 400001 फोनTel: (91-22) 2264 4995; फै क् सFax: (91-22) 22691557; ई-मेलe-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+and National Common Mobility Card (NCMC), which are recurring in nature but without any fixed periodicity, would be facilitated under the e-mandate framework.
+
+3. It has been decided to include auto-replenishment of FASTag and NCMC, as and when the balance falls below a threshold set by the customer, under the e-mandate framework. Payments for auto-replenishment, since they are recurring in nature but without any fixed periodicity, will be exempt from the requirement of pre-debit notification.
+
+4. All other instructions provided under the e-mandate framework shall continue to remain applicable.
+
+5. This circular is issued under Section 18 read with Section 10 (2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and shall come into effect immediately.
+
+Yours faithfully,
+
+(Gunveer Singh) Chief General Manager-in-Charge

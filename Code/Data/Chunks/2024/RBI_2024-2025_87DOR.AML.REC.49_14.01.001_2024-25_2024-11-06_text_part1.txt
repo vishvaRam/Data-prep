@@ -1,0 +1,47 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2024-2025/87 DOR.AML.REC.49/14.01.001/2024-25 November 06, 2024
+
+All the Regulated Entities
+
+Dear Sir/Madam,
+
+**Amendment to the Master Direction - Know Your Customer (KYC) Direction, 2016** Please refer to the Master Direction [- Know Your Customer](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) (KYC) Direction, 2016 dated [February 25, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) as amended from time to time, in terms of which Regulated Entities (REs) have to undertake Customer Due Diligence (CDD), as per the process laid out therein, for their customers.
+
+2. On a review, the Master Direction on KYC has been amended to (a) align the instructions with the recent amendments carried out in the Prevention of Money Laundering (Maintenance of Records) Rules, 2005 vide Gazette Notification dated July 19, 2024, (b) incorporate instructions in terms of the corrigendum dated April 22, 2024 issued by the Government of India to the Order dated February 2, 2021 on the *'Procedure for implementation of Section 51A of the Unlawful Activities (Prevention) Act, 1967'*, and (c) revise certain existing instructions. The changes carried out in the Master Direction are provided in [Annex](#page-1-0). The amended provisions in the Master Direction shall come into force with immediate effect.
+
+Yours faithfully,
+
+(Veena Srivastava) Chief General Manager
+
+िविनयमन िवभाग, क��ीय कायार्लय, क��ीय कायार्लय भवन, 12व�/ 13व� मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई- 400001 टेलीफोन/ Tel No: 22661602, 22601000 फैक्स/ Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001
+
+"Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<span id="page-1-0"></span>*Annex to the circular no.* DOR.AML.REC.49/14.01.001/2024-25 *dated November 06, 2024 on amendment to the Master Direction on Know Your Customer (KYC)*
+
+### **Annex**
+
+#### **I. Paragraph 10 – Customer Acceptance Policy**
+
+Paragraph 10(f) of the Master Direction is amended to read as follows: REs shall apply the CDD procedure at the UCIC level. Thus, if an existing KYC compliant customer of a RE desires to open another account or avail any other product or service from the same RE, there shall be no need for a fresh CDD exercise as far as identification of the customer is concerned.
+
+#### **II. Paragraph 37**
+
+The 'Explanation' that "*High risk accounts have to be subjected to more intensified monitoring*" is applicable to sub-paragraphs (a) and (b) of paragraph 37 and accordingly, the 'Explanation' has been shifted.
+
+#### **III. Paragraph 38 - Updation/ Periodic Updation of KYC**
+
+To provide better clarity, the phrase 'updation' has been inserted with the phrase 'periodic updation' in the clauses (ii) and (iv) of sub-paragraph (a); and clauses (iii) and (iv) of sub-paragraph (c) of paragraph 38.
+
+# **IV. Paragraph 56 - CDD Procedure and sharing KYC information with Central KYC Records Registry (CKYCR)**
+
+Paragraph 56(h) of the Master Direction is amended to read as follows**:**
+
+In order to ensure that all KYC records are incrementally uploaded on to CKYCR, REs shall upload/update the KYC data pertaining to accounts of individual customers and LEs opened prior to the above-mentioned dates as per clauses (e) and (f), respectively, at the time of periodic updation as specified in paragraph 38 of this Master Direction, or earlier, when the updated KYC information is obtained/received from the customer. Also, whenever the RE obtains additional or updated information from any customer as per clause (j) below in this paragraph or Rule 9(1C) of the PML Rules, the RE shall within seven days or within such period as may be notified by the Central Government, furnish the updated information to CKYCR, which shall update the KYC records of the existing customer in CKYCR. CKYCR shall thereafter inform electronically all the reporting entities who have dealt with the concerned customer regarding updation of KYC record of the said customer. Once CKYCR informs an RE regarding an update in the KYC record of
+
+an existing customer, the RE shall retrieve the updated KYC records from CKYCR and update the KYC record maintained by the RE.
+
+Paragraph 56(j) of the Master Direction is amended to read as follows**:**
+
+For the purpose of establishing an account-based relationship, updation/ periodic updation or for verification of identity of a customer, the RE shall seek the KYC Identifier from the customer or retrieve the KYC Identifier, if available, from the CKYCR and proceed to obtain KYC records online by using such KYC Identifier and shall not require a customer to submit the same KYC records or information or any other additional identification documents or details,

@@ -1,0 +1,45 @@
+party risk losses (CVA capital charge)**
+
+(i) In addition to the default risk capital requirement for counterparty credit risk, banks are also required to compute an additional capital charge to cover the risk of mark-to-market losses on the expected counterparty risk (such losses being known as credit value adjustments, CVA) to OTC derivatives. The CVA capital charge will be calculated in the manner indicated below in para (ii). Banks are not required to include in this capital charge
+
+<span id="page-57-0"></span> <sup>66</sup> Banks must calculate NGR on a counterparty by counterparty basis for all transactions that are subject to legally enforceable netting agreements.
+
+(a) transactions with a central counterparty (CCP); and (b) securities financing transactions (SFTs).
+
+(ii) Banks should use the following formula to calculate a portfolio capital charge for CVA risk for their counterparties:
+
+$$\mathcal{K} = 2,33 \cdot \sqrt{h} \cdot \sqrt{\left(\sum\_{i} \mathbf{O}\_{i} \mathbf{S} \cdot \mathbf{w}\_{i} \cdot \left(\mathbf{M}\_{i} \cdot \mathbf{E} \mathbf{A} \mathbf{D}\_{i}^{\text{axial}} - \mathbf{M}\_{i}^{\text{steady}} \mathbf{B}\_{i}\right) - \sum\_{i \neq i} \mathbf{w}\_{iai} \cdot \mathbf{M}\_{iai} \cdot \mathbf{B}\_{iai}\right)^{2} \\ + \sum\_{i} \mathbf{O}\_{i} \nabla \cdot \mathbf{w}\_{i}^{2} \cdot \left(\mathbf{M}\_{i} \cdot \mathbf{E} \mathbf{A} \mathbf{D}\_{i}^{\text{axial}} - \mathbf{M}\_{i}^{\text{steady}} \mathbf{B}\_{i}\right)^{2} - \sum\_{i} \mathbf{M}\_{i}^{\text{cross}} \mathbf{M}\_{i} \cdot \mathbf{M}\_{i} \cdot \left(\mathbf{M}\_{i} \cdot \mathbf{E} \mathbf{A} \mathbf{D}\_{i}^{\text{axial}} - \mathbf{M}\_{i}^{\text{steady}} \mathbf{B}\_{i}\right)^{2}$$
+
+Where;
+
+- **h** is the one-year risk horizon (in units of a year), h = 1.
+- **wi** is the weight applicable to counterparty 'i'. Counterparty 'i' should be mapped to one of the seven weights **wi** based on its external rating, as shown in the **Table** below in the last bullet point.
+- **EAD**<sup>i</sup> total is the exposure at default of counterparty 'i' (summed across its netting sets) including the effect of collateral as per the existing Current Exposure Method (CEM) as applicable to the calculation of counterparty risk capital charges for such counterparty by the bank. The exposure should be discounted by applying the factor (1-exp(-0.05\*Mi))/(0.05\*Mi).
+- **Bi** is the notional of purchased single name CDS hedges (summed if more than one position) referencing counterparty 'i', and used to hedge CVA risk. This notional amount should be discounted by applying the factor (1-exp(-0.05\*Mi hedge))/(0.05\* Mi hedge).
+- **Bind** is the full notional of one or more index CDS of purchased protection, used to hedge CVA risk. This notional amount should be discounted by applying the factor (1 exp(-0.05\*Mind))/(0.05\* Mind).
+- **wind** is the weight applicable to index hedges. The bank must map indices to one of the seven weights wi based on the average spread of index 'ind'.
+- **Mi** is the effective maturity of the transactions with counterparty 'i'. **Mi** is the notional weighted average maturity of all the contracts with counterparty 'i'.
+- **Mi hedge** is the maturity of the hedge instrument with notional Bi (the quantities Mi hedge. Bi are to be summed if these are several positions).
+- **Mind** is the maturity of the index hedge 'ind'. In case of more than one index hedge position, it is the notional weighted average maturity.
+- For any counterparty that is also a constituent of an index on which a CDS is used for hedging counterparty credit risk, the notional amount attributable to that single name (as per its reference entity weight) may be subtracted from the index CDS notional amount and treated as a single name hedge (Bi) of the individual counterparty with maturity based on the maturity of the index.
+- The weights are given in the Table below, which are based on the external rating of the counterparty:
+
+
+### **Weights (wi)**
+
+• In cases where the unrated counterparty is a scheduled commercial bank, banks shall use the following Table to arrive at the implied ratings of the counterparty-bank and consequently, the Wi.
+
+
+• Banks will have to continuously monitor the capital adequacy position of their counterparty banks so that the effect of any change in the implied ratings is adequately reflected in CVA capital charge calculations.
+
+An illustration of CVA risk capital charge has been furnished in **[Annex 12](#page-247-0)**.
+
+### 5.15.3.6 **Calculation of the Aggregate CCR and CVA Risk Capital Charges**
+
+<span id="page-59-0"></span> <sup>67</sup> Please refer to the revised version of Basel III capital rules (bcbs189.doc) issued by the BCBS vide press release on June 1, 2011.
+
+The total CCR capital charge for the bank is determined as the sum of the following two components:
+
+i. The sum over all counterparties of the CEM based capital charge determined as per **paragraph 5.15.3.4**; and
+
+ii. The standardised CVA risk capita

@@ -1,0 +1,49 @@
+lar and other extant regulations to the Profit and Loss Account, banks may make any appropriations of net profits below the line to BDDR, if required as per the applicable statutes or otherwise.
+
+5.1.2 Taking into account the time lag between an account becoming doubtful of recovery, its recognition as such, the realisation of the security and the erosion over time in the value of security charged to the bank, the banks should make provision against loss assets, doubtful assets and sub-standard assets as below:
+
+## **(i) Loss Assets**
+
+The entire assets should be written off after obtaining necessary approval from the competent authority and as per the provisions of the Co-operative Societies Act / Rules. If the assets are permitted to remain in the books for any reason, 100 per cent of the outstanding should be provided for.
+
+## **(ii) Doubtful Assets**
+
+(a) Provision should be 100 per cent of the extent to which the advance is not covered by the realisable value of the security to which the bank has a valid recourse. The realisable value should be estimated on a realistic basis.
+
+(b) In regard to the **secured portion**, provision may be made on the following basis, at the rates ranging from 20 per cent to 100 per cent of the secured portion depending upon the period for which the asset has remained doubtful:
+
+
+### **(iii) Sub-standard Assets**
+
+A general provision of 10 per cent on total outstanding should be made without making any allowance for ECGC guarantee cover and securities available.
+
+### **(iv) Provision on Standard Assets**
+
+(a) The standard asset provisioning norms applicable to Tier I, Tier 2, Tier 3 and Tier 4 UCBs as categorized under the revised regulatory framewor[k5](#page-17-0), shall be as under:
+
+- i. Direct advances to agriculture and SME sectors which are standard, shall attract a uniform provisioning requirement of 0.25 percent of the funded outstanding on a portfolio basis.
+- ii. Advances to commercial real estate (CRE) sector which are standard shall attract a uniform provisioning requirement of 1.00 percent of the funded outstanding on a portfolio basis.
+- iii. Advances to commercial real estate residential housing (CRE-RH)[6](#page-17-1) sector which are standard, provision requirement shall be 0.75 percent.
+
+<span id="page-17-0"></span><sup>5</sup> As pe[r circular DOR.REG.No.84/07.01.000/2022-23 dated December 01, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12416&Mode=0)
+
+<span id="page-17-1"></span><sup>6</sup> CRE-RH would consist of loans to builders/developers for residential housing projects (except for captive consumption) under CRE segment. Such projects should ordinarily not include non-residential commercial real estate. However, integrated housing projects comprising some commercial space (e.g. shopping complex, school, etc.) can also be classified under CRE-RH, provided that the commercial area in the residential housing project does not exceed 10% of the total Floor Space Index (FSI) of the project. In case the FSI of the commercial area in the predominantly residential housing complex exceeds the ceiling of 10%, the project loans should be classified as CRE and not CRE-RH.
+
+iv. For all other advances, banks shall maintain a uniform general standard asset provision of a minimum of 0.40 per cent of the funded outstanding on a portfolio basis.
+
+
+(b) The standard asset provisioning requirements for all UCBs are summarized as under:
+
+(c) The erstwhile Tier I UCBs, which are currently maintaining standard asset provision of 0.25% on 'all other loans and advances not included above' are permitted to achieve the provisioning requirement of 0.40% on such advances in a staggered manner by March 31, 2025. Thus, provision on all such standard loans and advances outstanding as on March 31, 2023 shall be increased to 0.30% by March 31, 2024, to 0.35% by September 30, 2024 and to 0.40% by March 31, 2025.
+
+(d) The provisions towards "standard assets" need not be netted from gross advances but shown separately as "Contingent Provision against Standard Assets" under "Other Funds and Reserves" {item.2 (viii) of Capital and Liabilities} in the Balance Sheet.
+
+(e) In case banks are already maintaining excess provision than what is required / prescribed by Statutory Auditor / RBI Inspection for impaired credits under Bad and Doubtful Debt Reserve\* or any other head of account\* / provisions for NPA[7,](#page-18-0) additional provision required for Standard Assets may be segregated and the same may be parked under the head "Contingent Provisions against Standard Assets" with the approval of their Board of Directors. Shortfall if any, on this account may be made good in the normal course.
+
+\* Provisions created above the line i.e. by charging as an expense to the Profit and Loss account.
+
+(f) The above contingent provision will be eligible for inclusion in Tier II capital.
+
+# **(v) Higher Provisions**
+
+There is no objection if the banks create bad and doubtful debts 

@@ -1,0 +1,37 @@
+ating the market risk of the portfolio.
+
+#### **Investing and Funding costs**
+
+<span id="page-112-0"></span> <sup>101</sup> Provisions against incurred CVA losses are akin to specific provisions required on impaired assets and depreciation in case of investments held in the trading book. These provisions will be in addition to the general provisions @ 0.4% required on the positive MTM values. The provisions against incurred CVA losses may be netted off from the exposure value while calculating capital charge for default risk under the Current Exposure Method as required in terms of paragraph 5.15.3.4 (ii).
+
+The "investing and funding costs adjustment" relating to the cost of funding and investing cash flow mismatches at rates different from the rate which models typically assume.
+
+## **Administrative costs adjustment**
+
+Administrative costs adjustment relates to the costs that will be incurred to administer the portfolio.
+
+# 8.8.2 **Adjustment to the current valuation of less liquid positions for regulatory capital purposes:**
+
+8.8.2.1 Banks must establish and maintain procedures for judging the necessity of and calculating an adjustment to the current valuation of less liquid positions for regulatory capital purposes. This adjustment may be in addition to any changes to the value of the position required for financial reporting purposes and should be designed to reflect the illiquidity of the position. An adjustment to a position's valuation to reflect current illiquidity should be considered whether the position is marked to market using market prices or observable inputs, third-party valuations or marked to model.
+
+8.8.2.2 Bearing in mind that the assumptions made about liquidity in the market risk capital charge may not be consistent with the bank's ability to sell or hedge out less liquid positions where appropriate, banks must take an adjustment to the current valuation of these positions, and review their continued appropriateness on an on-going basis. Reduced liquidity may have arisen from market events. Additionally, close-out prices for concentrated positions and/or stale positions should be considered in establishing the adjustment. RBI has not prescribed any particularly methodology for calculating the amount of valuation adjustment on account of illiquid positions. Banks must consider all relevant factors when determining the appropriateness of the adjustment for less liquid positions. These factors may include, but are not limited to, the amount of time it would take to hedge out the position/risks within the position, the average volatility of bid/offer spreads, the availability of independent market quotes (number and identity of market makers), the average and volatility of trading volumes (including trading volumes during periods of market stress), market concentrations, the aging of positions, the extent to which valuation relies on marking-to-model, and the impact of other model risks not included in paragraph 8.8.2.2. The valuation adjustment on account of illiquidity should be considered irrespective of whether the guidelines issued by FIMMDA have taken into account the illiquidity premium or not, while fixing YTM/spreads for the purpose of valuation.
+
+8.8.2.3 For complex products including, but not limited to, securitisation exposures, banks must explicitly assess the need for valuation adjustments to reflect two forms of model risk:
+
+(i) the model risk associated with using a possibly incorrect valuation methodology; and
+
+(ii) the risk associated with using unobservable (and possibly incorrect) calibration parameters in the valuation model.
+
+8.8.2.4 The adjustment to the current valuation of less liquid positions made under paragraph 8.8.2.2 will not be debited to P&L Account, but will be deducted from Common Equity Tier 1 capital while computing CRAR of the bank. The adjustment may exceed those valuation adjustments made under financial reporting/accounting standards and paragraphs 8.8.1.2 (vi) and (vii).
+
+8.8.2.5 In calculating the eligible capital for market risk, it will be necessary first to calculate the banks' minimum capital requirement for credit and operational risk and only afterwards its market risk requirement to establish how much components of capital are available to support market risk.
+
+# <span id="page-114-0"></span>**9. Capital Charge for Operational Risk**
+
+# **9.1 Definition of Operational Risk**
+
+Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk, but excludes strategic and reputational risk. Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements.
+
+# **9.2 The Measurement Methodologies**
+
+9.2.1 The New Capital Adequacy Framework outlines three methods for calculating operational risk capital charges in a continuum of increasin

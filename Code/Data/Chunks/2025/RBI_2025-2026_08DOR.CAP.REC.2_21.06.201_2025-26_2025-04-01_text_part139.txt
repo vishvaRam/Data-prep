@@ -1,0 +1,46 @@
+</span><sup>267</sup> Unrealised gains (losses) not recognised either in the balance sheet or through the profit and loss account.
+
+(ii) The templates set out below are designed to be flexible enough to be used under any accounting standard, and are consistent yet proportionate, varying with the complexity of the balance sheet of the reporting bank[268](#page-300-0).
+
+## **4.1 Summary comparison table**
+
+4.1.1 Applying values at the end of period (e.g., quarter-end), banks must report a reconciliation of their balance sheet assets from their published financial statements with the leverage ratio exposure measure as shown in Table DF-17 below. Specifically:
+
+- line 1 should show the bank's total consolidated assets as per published financial statements;
+- line 2 should show adjustments related to investments in banking, financial, insurance or commercial entities that are consolidated for accounting purposes, but outside the scope of regulatory consolidation as set out in paragraphs 16.2.4 and 16.4.2.2;
+- line 3 should show adjustments related to any fiduciary assets recognised on the balance sheet pursuant to the bank's operative accounting framework but excluded from the leverage ratio exposure measure, as described in footnote 147 of the Master Circular;
+- lines 4 and 5 should show adjustments related to derivative financial instruments and securities financing transactions (i.e., repos and other similar secured lending), respectively;
+- line 6 should show the credit equivalent amount of OBS items, as determined under paragraph 16.4.5.2;
+- line 7 should show any other adjustments; and
+- line 8 should show the leverage ratio exposure, which should be the sum of the previous items. This should also be consistent with line 22 of Table DF-18 below.
+
+
+<span id="page-300-0"></span> <sup>268</sup> Specifically, a common template is set out. However, with respect to reconciliation, banks are to qualitatively reconcile any material difference between total balance sheet assets in their reported financial statements and onbalance sheet exposures as prescribed in the leverage ratio.
+
+
+# **4.2 Common disclosure template and explanatory table, reconciliation and other requirements**
+
+4.2.1 Banks must report, in accordance with Table DF-18 below, and applying values at the end of period (e.g., quarter-end), a breakdown of the following exposures under the leverage ratio framework: (i) on-balance sheet exposures; (ii) derivative exposures; (iii) SFT exposures; and (iv) OBS items. Banks must also report their Tier 1 capital, total exposures and the leverage ratio.
+
+4.2.2 The Basel III leverage ratio for the quarter, expressed as a percentage and calculated according to paragraph 16.2, is to be reported in line 22.
+
+4.2.3 *Reconciliation with public financial statements:* banks are required to disclose and detail the source of material differences between their total balance sheet assets (net of on-balance sheet derivative and SFT assets) as reported in their financial statements and their on-balance sheet exposures in line 1 of the common disclosure template.
+
+4.2.4 *Material periodic changes in the leverage ratio:* banks are required to explain the key drivers of material changes in their Basel III leverage ratio observed from the end of the previous reporting period to the end of the current reporting period (whether these changes stem from changes in the numerator and/or from changes in the denominator).
+
+
+
+4.2.5 The following table sets out explanations for each row of the disclosure template referencing the relevant paragraphs of the Basel III leverage ratio framework detailed in this document.
+
+
+
+4.2.6 To ensure that the summary comparison table, common disclosure template and explanatory table remain comparable across jurisdictions, there should be no adjustments made by banks to disclose their leverage ratio. Banks are not permitted to add, delete or change the definitions of any rows from the summary comparison table and common disclosure template implemented in their jurisdiction. This will prevent a divergence of tables and templates that could undermine the objectives of consistency and comparability.
+
+# **Requirements for Recognition of Net Replacement Cost in Close-out Netting Sets**
+
+### <span id="page-304-0"></span>**A. For repo-style transactions**
+
+The effects of bilateral netting agreements covering repo-style transactions will be recognised on a counterparty-by-counterparty basis if the agreements are legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of whether the counterparty is insolvent or bankrupt. In addition, netting agreements must:
+
+- a) provide the non-defaulting party the right to terminate and close-out in a timely manner all transactions under the agreement upon an event of default, including in the event of insolvency or bankruptcy of the counterparty;
+- b) provide for the netting of gains and losses on transactions (including the

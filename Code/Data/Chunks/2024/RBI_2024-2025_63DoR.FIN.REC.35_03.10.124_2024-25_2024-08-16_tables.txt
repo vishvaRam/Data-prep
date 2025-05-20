@@ -1,0 +1,141 @@
+| S.No. | Para of MD | Existing Provision                               | Amended Provision                                            |
+|-------|------------|--------------------------------------------------|--------------------------------------------------------------|
+| a.    | 6(1)(iv)   | An NBFC-P2P shall not provide or arrange         | An NBFC-P2P shall not provide or arrange any                 |
+|       |            | any<br>credit<br>enhancement<br>or<br>credit     | credit enhancement or credit guarantee.<br>NBFC              |
+|       |            | guarantee.                                       | P2P shall not assume any credit risk, either                 |
+|       |            |                                                  | directly or indirectly, arising out of transactions          |
+|       |            |                                                  | carried out on its platform. In other words, entire          |
+|       |            |                                                  | loss of principal or interest or both, if any, in            |
+|       |            |                                                  | respect of funds lent by lenders to borrowers on             |
+|       |            |                                                  | the platform shall be borne by the lenders and               |
+|       |            |                                                  | adequate disclosures to this effect shall be                 |
+|       |            |                                                  | made to lenders as part of fair practices code               |
+|       |            |                                                  | specified in para 12 of the MD.                              |
+| b.    | 6(1)(vii)  | An NBFC-P2P shall not cross sell any             | An NBFC-P2P shall not cross sell any product                 |
+|       |            | product except for loan specific insurance       | except for loan specific insurance products. It              |
+|       |            | products.                                        | may be<br>noted<br>that NBFC-P2P shall not cross             |
+|       |            |                                                  | sell any insurance product also which is in the              |
+|       |            |                                                  | nature<br>of<br>credit<br>enhancement<br>or<br>credit        |
+|       |            |                                                  | guarantee.                                                   |
+| c.    | 7(2)       | The aggregate exposure of a lender to all        | The aggregate exposure of a lender to all                    |
+|       |            | borrowers at any point of time, across all       | borrowers at any point of time, across all P2P               |
+|       |            | P2P platforms, shall be subject to a cap of      | platforms,<br>shall<br>be<br>subject<br>to<br>a<br>cap<br>of |
+|       |            | Rs.50,00,000/-<br>provided<br>that<br>such       | Rs.50,00,000 provided that the amount lent by                |
+|       |            | investments<br>of<br>the<br>lenders<br>on<br>P2P | the lenders on P2P platforms is consistent with              |
+|       |            | platforms are consistent with their net          | their net-worth. In case, the amount lent by a               |
+|       |            | worth.<br>The lender investing more than         | lender is more than Rs.10,00,000 across P2P                  |
+|       |            | Rs.10,00,000 across P2P platforms shall          | platforms, the lender shall produce a certificate            |
+|       |            | produce a certificate to P2P platforms from      | to P2P platforms from a practicing Chartered                 |
+|       |            | a<br>practicing<br>Chartered<br>Accountant       | Accountant certifying minimum net-worth of                   |
+|       |            | certifying<br>minimum<br>net-worth<br>of         | Rs.50,00,000.                                                |
+|       |            | Rs.50,00,000.                                    |                                                              |
+| d.    | 8(1)(iii)  | NBFC-P2P shall have a Board approved             | NBFC-P2P shall have a Board approved policy                  |
+|       |            | policy in place -<br>Setting out the rules for   | in place -<br>Setting out the rules for matching/            |
+
+| S.No. | Para of MD | Existing Provision                                  | Amended Provision                                    |
+|-------|------------|-----------------------------------------------------|------------------------------------------------------|
+|       |            | matching lenders with borrowers in an               | mapping lenders with borrowers in an equitable       |
+|       |            | equitable and non-discriminatory manner.            | and non-discriminatory manner.                       |
+| e.    | 8(3)       | No loan shall be disbursed unless the               | No loan shall be disbursed unless the lenders        |
+|       |            | individual lender/s have approved the               | and<br>the<br>borrowers have been matched/ mapped    |
+|       |            | individual recipient/s of the loan and all          | as per the board approved policy framed in           |
+|       |            | concerned participants have signed the              | terms of paragraph 8(1)(iii), the individual         |
+|       |            | loan contract.                                      | lender(s)<br>have<br>approved<br>the<br>individual   |
+|       |            |                                                     | recipient(s)<br>of the loan<br>and<br>all concerned  |
+|       |            |                                                     | participants have signed the loan contract.          |
+| f.    | 9          | Fund transfer between the participants on           | (i)<br>Fund transfer between the participants on the |
+|       |            | the Peer to Peer Lending Platform shall be          | Peer to Peer Lending Platform shall be               |
+|       |            | through<br>escrow<br>account<br>mechanisms          | through escrow account mechanisms which              |
+|       |            | which will be operated by a bank promoted           | will be operated by a bank promoted trustee.         |
+|       |            | trustee. At least two escrow accounts, one          | At least two escrow accounts, one for funds          |
+|       |            | for<br>funds<br>received<br>from<br>lenders<br>and  | received from lenders and pending disbursal          |
+|       |            | pending<br>disbursal,<br>and<br>the<br>other<br>for | (i.e., Lenders' escrow Account), and the other       |
+|       |            | collections<br>from<br>borrowers,<br>shall<br>be    | for<br>collections<br>from<br>borrowers<br>(i.e.,    |
+|       |            | maintained. All fund transfers shall be             | Borrowers'<br>escrow<br>Account),<br>shall<br>be     |
+|       |            | through and from bank accounts and cash             | maintained.<br>Under this<br>prescribed<br>funds     |
+|       |            | transaction<br>is<br>strictly<br>prohibited.<br>The | transfer mechanism,<br>funds from the lenders'       |
+|       |            | mechanism as described in the Annex-I               | bank accounts shall only be transferred to the       |
+|       |            | may be adopted by the NBFC-P2P.                     | Lenders'<br>Escrow Account and shall only be         |
+|       |            |                                                     | disbursed to the specific borrower's bank            |
+|       |            |                                                     | account after ensuring compliance to the             |
+|       |            |                                                     | paragraph 8(3) of these Directions. The              |
+|       |            |                                                     | borrower shall transfer the amount towards           |
+|       |            |                                                     | repayment of loan from his bank account to           |
+|       |            |                                                     | the Borrowers'<br>Escrow Account, from where         |
+|       |            |                                                     | the funds shall only be transferred to the           |
+|       |            |                                                     | respective lender's bank account.<br>Funds from      |
+|       |            |                                                     | 'Lenders' Escrow Account' shall not be used          |
+|       |            |                                                     | for repayment of loans and funds from                |
+|       |            |                                                     | 'Borrowers' Escrow Account' shall not be             |
+
+| S.No. | Para of MD    | Existing Provision                                              | Amended Provision                                                  |
+|-------|---------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
+|       |               |                                                                 | used for disbursement of loans.<br>All fund                        |
+|       |               |                                                                 | transfers shall be through and from bank                           |
+|       |               |                                                                 | accounts and cash transaction is strictly                          |
+|       |               |                                                                 | prohibited. The pictorial depiction of the                         |
+|       |               |                                                                 | Funds Transfer<br>Mechanism as described in                        |
+|       |               |                                                                 | the Annex-I<br>shall<br>be adopted by the NBFC                     |
+|       |               |                                                                 | P2P.                                                               |
+|       |               |                                                                 | (ii)<br>The funds transferred into the Lenders'                    |
+|       |               |                                                                 | Escrow Account and Borrowers' Escrow                               |
+|       |               |                                                                 | Account shall not remain in these Escrow                           |
+|       |               |                                                                 | Accounts for a period exceeding 'T+1' day,                         |
+|       |               |                                                                 | where 'T' is the date on which the funds are                       |
+|       |               |                                                                 | received in<br>these Escrow Accounts.                              |
+| g.    | 11(1)(i)(a)   | An<br>NBFC-P2P<br>shall<br>be<br>required<br>to<br>disclose     | An<br>NBFC-P2P<br>shall<br>be<br>required<br>to<br>disclose<br>the |
+|       |               | the<br>following:                                               | following:                                                         |
+|       |               | (i)<br>to<br>the<br>lender                                      | (i)<br>to<br>the<br>lender                                         |
+|       |               | (a)<br>details<br>about<br>the<br>borrower/s<br>including       | (a) details about the borrower(s) including                        |
+|       |               | personal<br>identity,<br>required<br>amount,<br>interest        | personal identity with his/ her consent (which                     |
+|       |               | rate<br>sought<br>and<br>credit<br>score<br>as<br>arrived<br>by | should be kept on record), required amount,                        |
+|       |               | the<br>NBFC-P2P.                                                | interest rate sought and credit score as arrived                   |
+|       |               |                                                                 | by the NBFC-P2P.                                                   |
+| h.    | 11(1)(iii)(d) | An NBFC-P2P shall be required to disclose                       | An<br>NBFC-P2P shall be required to disclose the                   |
+|       |               | the following:                                                  | following:                                                         |
+|       |               | (iii) publicly disclose on its website:                         | (iii) publicly disclose on its website:                            |
+|       |               | (d) portfolio performance including share of                    | (d) portfolio performance including share of                       |
+|       |               | non-performing assets on a monthly basis                        | non-performing assets (NPAs) on a monthly                          |
+|       |               | and segregation by age; and                                     | basis and segregation by age.<br>It may be noted                   |
+|       |               |                                                                 | that such disclosures shall also include all                       |
+|       |               |                                                                 | losses borne by the lenders on principal or                        |
+|       |               |                                                                 | interest or both;<br>and                                           |
+| i.    | 12(2)         | NBFC-P2P shall be required to obtain                            | NBFC-P2P shall be required to obtain explicit                      |
+|       |               | explicit declaration from the lender stating                    | declaration from the lender stating that he/she                    |
+|       |               | that he/she has understood all the risks                        | has understood all the risks associated with the                   |
+
+| S.No. | Para of MD | Existing Provision                                 | Amended Provision                                           |
+|-------|------------|----------------------------------------------------|-------------------------------------------------------------|
+|       |            | associated with the lending transactions           | lending transactions and that P2P platform does             |
+|       |            | and that P2P platform does not assure              | not<br>assure<br>return<br>of<br>principal/payment<br>of    |
+|       |            | return of principal/payment of interest. The       | interest. The declaration shall also state that             |
+|       |            | declaration shall also state that there exists     | there exists a likelihood of loss of entire principal       |
+|       |            | a likelihood of loss of entire principal in        | in case of default by a borrower. The P2P                   |
+|       |            | case of default by a borrower. The platform        | platform shall not provide any assurance<br>or              |
+|       |            | shall not provide any assurance for the            | guarantee<br>for the recovery of loans.<br>Further, the     |
+|       |            | recovery of loans. Further, the platform           | P2P platform shall not promote peer to peer                 |
+|       |            | shall display a caveat that "Reserve Bank          | lending as an investment product with features              |
+|       |            | of India does not accept any responsibility        | like tenure linked assured minimum returns,                 |
+|       |            | for the correctness of any of the statements       | liquidity options,<br>etc.                                  |
+|       |            | or<br>representations<br>made<br>or<br>opinions    |                                                             |
+|       |            | expressed by the NBFC-P2P,<br>and does not         |                                                             |
+|       |            | provide<br>any assurance for repayment of          |                                                             |
+|       |            | the loans lent on it".                             |                                                             |
+| j.    | Annex VI - | NBFCs<br>which<br>choose<br>to<br>outsource        | NBFC-P2Ps<br>which choose to outsource any of               |
+|       | 2          | financial<br>services<br>shall,<br>however,<br>not | their functions<br>shall, however, not outsource            |
+|       |            | outsource<br>core<br>management<br>functions       | core management functions including Internal                |
+|       |            | including Internal Audit, Strategic and            | Audit, Strategic and Compliance functions,                  |
+|       |            | Compliance<br>functions<br>and<br>decision         | pricing of services/ fees to be charged to                  |
+|       |            | making functions such as determining               | borrowers/<br>lenders<br>and<br>decision-making             |
+|       |            | compliance with KYC norms for opening              | functions such as determining compliance with               |
+|       |            | deposit accounts, according sanction for           | KYC norms.<br>However, for NBFC-P2Ps in a                   |
+|       |            | loans<br>(including<br>retail<br>loans)<br>and     | group/conglomerate, these functions may be                  |
+|       |            | management<br>of<br>investment<br>portfolio.       | outsourced<br>within<br>the<br>group<br>subject<br>to       |
+|       |            | However,<br>for<br>NBFCs<br>in<br>a                | compliance with instructions in Para 6. Further,            |
+|       |            | group/conglomerate, these functions may            | while<br>internal<br>audit<br>function<br>itself<br>is<br>a |
+|       |            | be outsourced within the group subject to          | management process, the internal auditors can               |
+|       |            | compliance with instructions in Para 6.            | be on contract.                                             |
+|       |            | Further, while internal audit function itself      |                                                             |
+|       |            | is a management process, the internal              |                                                             |
+|       |            | auditors can be on contract.                       |                                                             |
+

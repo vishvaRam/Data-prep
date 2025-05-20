@@ -1,0 +1,55 @@
+he RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of these instruments as explained in case of Additional Tier 1 instruments.
+
+# **1.7 Treatment in Bankruptcy / Liquidation**
+
+The investor must have no rights to accelerate the repayment of future scheduled payments (coupon or principal) except in bankruptcy and liquidation.
+
+# **1.8 Prohibition on Purchase / Funding of Instruments**
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase the instrument, nor can the bank directly or indirectly should fund the purchase of the instrument. Banks should also not grant advances against the security of the debt instruments issued by them.
+
+<span id="page-206-0"></span> <sup>191</sup> Replacement issues can be concurrent with but not after the instrument is called.
+
+<span id="page-206-1"></span><sup>192</sup> Minimum refers to Common Equity ratio of 8% of RWAs (including capital conservation buffer of 2.5% of RWAs) and Total capital ratio of 11.5% of RWAs including any additional capital requirement identified under Pillar 2.
+
+## **1.9 Reporting of Non-payment of Coupons and Non-exercise of Call Option**
+
+All instances of non-payment of coupon and non-exercise of call option should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision of the Reserve Bank of India, Mumbai.
+
+### **1.10 Seniority of Claim**
+
+The claims of the investors in instruments shall be
+
+- (i) senior to the claims of investors in instruments eligible for inclusion in Tier 1 capital;
+- (ii) subordinate to the claims of all depositors and general creditors of the bank; and
+- (iii) is neither secured nor covered by a guarantee of the issuer or related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+
+# **1.11 Investment in Instruments Raised in Indian Rupees by Foreign Entities/NRIs**
+
+(i) Investment by FIIs in Tier 2 instruments raised in Indian Rupees shall be outside the limit for investment in corporate debt instruments, as fixed by the Govt. of India from time to time. However, investment by FIIs in these instruments will be subject to a separate ceiling of USD 500 million. In addition, NRIs shall also be eligible to invest in these instruments as per existing policy.
+
+(ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+
+# **1.11A Issuance of rupee denominated bonds overseas by Indian banks**
+
+Banks are permitted to raise funds through issuance of rupee denominated bonds overseas for qualification as debt capital instruments eligible for inclusion as Tier 2 capital, subject to compliance with all the terms and conditions applicable to instruments issued in Indian Rupees and FEMA guidelines, as applicable.
+
+# **1.12 Terms of Issue of Tier 2 Debt Capital Instruments in Foreign Currency**
+
+Banks may issue Tier 2 Debt Instruments in Foreign Currency without seeking the prior approval of the Reserve Bank of India, subject to compliance with the requirements mentioned below:
+
+(i) Tier 2 Instruments issued in foreign currency should comply with all terms and conditions applicable to instruments issued in Indian Rupees.
+
+(ii) The total outstanding amount of Tier 2 Instruments in foreign currency shall not exceed 25% of the unimpaired Tier 1 capital[193.](#page-207-0) This eligible amount will be computed with reference to the amount of Tier 1 capital as on March 31 of the previous financial year, after deduction of
+
+<span id="page-207-0"></span> <sup>193</sup> Not applicable to foreign banks' branches.
+
+goodwill and other intangible assets but before the deduction of investments, as per paragraph 4.4.9 of this Master Circular.
+
+(iii) This will be in addition to the existing limit for foreign currency borrowings by Authorised Dealers stipulated in terms of Master Direction - [Risk Management and Inter-Bank Dealings dated](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10485)  [July 5, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10485) as updated from time to time.
+
+(iv) Banks, other than foreign bank branches, raising Tier 2 bonds overseas[194](#page-208-0) should obtain and keep on record a legal opinion from an advocate/ attorney practising in the relevant legal jurisdiction, that the terms and conditions of issue of the instrument are in conformity with this Master Circular, as amended from to time, can be enforced in the concerned legal jurisdiction and the applicable laws there do not stand in the way of enforcement of those conditions.
+
+# **1.13 Compliance with Reserve Requirements**
+
+(i) The funds collected by various branches of the bank or other banks for the issue and held pending finalisation of allo

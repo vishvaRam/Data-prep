@@ -1,0 +1,96 @@
+ the Issued Common Share Capital of the Entity**
+
+
+
+#### **PART D: Regulatory Adjustments on Account of Significant Investments in the Capital of Banking, Financial and Insurance Entities which are outside the Scope of Regulatory Consolidation**
+
+
+
+## **PART E: Total Regulatory Capital of the Bank after Regulatory Adjustments**
+
+
+#### **Annex 12**
+
+(cf para 5.15.3.5)
+
+<span id="page-247-0"></span>
+
+
+#### **CALCULATION OF CVA RISK CAPITAL CHARGE**
+
+Formula to be used for calculation of capital charge for CVA risk:
+
+$$\mathcal{K} = 2.33 \cdot \sqrt{h} \cdot \sqrt{\left(\sum\_{i} \mathsf{O}.5 \cdot \mathsf{w}\_{i} \cdot \left(\mathsf{M}\_{i} \cdot \mathsf{F} \mathsf{AD}\_{i}^{\mathrm{stat}} - \mathsf{M}\_{i}^{\mathrm{stat}} \mathsf{B}\_{i}\right) - \sum\_{i \neq i} \mathsf{w}\_{i \bullet i} \cdot \mathsf{M}\_{i \bullet i} \cdot \mathsf{B}\_{i \bullet i}\right)^{2} + \sum\_{i} \mathsf{O}.75 \cdot \mathsf{w}\_{i}^{2} \cdot \left(\mathsf{M}\_{i} \cdot \mathsf{F} \mathsf{AD}\_{i}^{\mathrm{stat}} - \mathsf{M}\_{i}^{\mathrm{stat}} \mathsf{B}\_{i}\right)^{2}}$$
+
+- Bi is the notional of purchased single name CDS hedges nil
+- Bind is the full notional of one or more index CDS of purchased protection, used to hedge CVA risk. - nil
+- wind is the weight applicable to index hedges nil
+- Mihedge is the maturity of the hedge instrument with notional Bi
+- Mi is the effective maturity of the transactions with counterparty 'i'
+- EADi total is the exposure at default of counterparty 'i' (summed across its netting sets). For non-IMM banks the exposure should be discounted by applying the factor: (1 exp(-0.05\*Mi))/(0.05\*Mi).
+- h = 1 year
+
+#### **Assumptions:**
+
+- Applicable coupon rate on both legs of swap with exchange of coupon at yearly intervals for swap with counterparty A = 6% p.a.
+- Applicable coupon rate on both legs of swap with exchange of coupon at yearly intervals for swap with counterparty =7% p.a.
+
+#### **Calculation:**
+
+Discount factor to be applied to counterparty A: (1-exp (-0.05\*MA))/(0.05\*MA) = 0.95551
+
+Discounted EADA = 4.5\*0.95551=4.2981
+
+Discount factor to be applied to counterparty B: (1-exp (-0.05\*MB))/(0.05\*MB) =0.8846
+
+Discounted EADB = 52.8\*0.8846=46.7061
+
+*K= 2.33\*1\*[{(0.5\*.008\*(1.85\*4.2981-0) + (0.5\*0.007\*(5.01\*46.7061-0))-0}2+* 
+
+*(0.75\*0.0082\*(1.85\*4.2981-0)2 + (0.75\*0.0072\*(5.01\*46.7061-0)2] 1/2*
+
+= 2.33\*1.66 = 3.86
+
+Therefore, total capital charge for CVA risk on portfolio basis = Rs. 3.86 crore
+
+(cf para 16.4.4)
+
+#### <span id="page-249-0"></span>**Calculation of SFT Exposure for the Purpose of Leverage Ratio**
+
+
+
+
+
+\* Max ((SFT receivable -SFT payable), 0)
+
+# CCR exposure = Max ((total cash / securities receivable - total cash / securities payable), 0)
+
+#### **An illustrative outline of the ICAAP Document**
+
+### <span id="page-250-0"></span>**1. What is an ICAAP document?**
+
+The ICAAP Document would be a comprehensive Paper furnishing detailed information on the ongoing assessment of the bank's entire spectrum of risks, how the bank intends to mitigate those risks and how much current and future capital is necessary for the bank, reckoning other mitigating factors. The purpose of the ICAAP document is to apprise the Board of the bank on these aspects as also to explain to the RBI the bank's internal capital adequacy assessment process and the banks' approach to capital management. The ICAAP could also be based on the existing internal documentation of the bank.
+
+The ICAAP document submitted to the RBI should be formally approved by the bank's Board. It is expected that the document would be prepared in a format that would be easily understood at the senior levels of management and would contain all the relevant information necessary for the bank and the RBI to make an informed judgment as to the appropriate capital level of the bank and its risk management approach. Where appropriate, technical information on risk measurement methodologies, capital models, if any, used and all other work carried out to validate the approach (e.g., board papers and minutes, internal or external reviews) could be furnished to the RBI as appendices to the ICAAP Document.
+
+#### **2. Contents**
+
+The ICAAP Document should contain the following sections:
+
+- I. Executive Summary
+- II. Background
+- III. Summary of current and projected financial and capital positions
+- IV. Capital Adequacy
+- V. Key sensitivities and future scenarios
+- VI. Aggregation and diversification
+- VII. Testing and adoption of the ICAAP
+- VIII. Use of the ICAAP within the bank
+
+### **I. Executive Summary**
+
+The purpose of the Executive Summary is to present an overview of the ICAAP methodology and results. This overview would typically include:
+
+- a) the purpose of the report and the regulated entities within a banking group that are covered by the ICAAP;
+- b) the main findings of the ICAAP analysis:
+
+i how much and what composition of internal capital the bank considers it should hold as compared with the minimum CRAR requir

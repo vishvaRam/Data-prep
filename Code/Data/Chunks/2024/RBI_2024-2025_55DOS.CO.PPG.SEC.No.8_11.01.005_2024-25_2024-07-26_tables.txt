@@ -1,0 +1,35 @@
+| PCA matrix –<br>Parameters, Indicators and Risk Thresholds |                                                                      |                                                                                 |                                                                                                                     |                                                                                        |  |
+|------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--|
+| Parameter                                                  | Indicator                                                            | Risk<br>Threshold 1                                                             | Risk<br>Threshold 2                                                                                                 | Risk<br>Threshold 3                                                                    |  |
+| (1)                                                        | (2)                                                                  | (3)                                                                             | (4)                                                                                                                 | (5)                                                                                    |  |
+| Capital<br>(Breach<br>of<br>CRAR)2                         | CRAR –<br>Minimum<br>Regulatory<br>Requirement,<br>as<br>applicable* | Up<br>to 250 bps<br>below<br>the<br>Indicator<br>prescribed<br>at<br>column (2) | More than 250<br>bps<br>but<br>not<br>exceeding 400<br>bps below the<br>Indicator<br>prescribed<br>at<br>column (2) | In excess of<br>400<br>bps<br>below<br>the<br>Indicator<br>prescribed at<br>column (2) |  |
+| Asset Quality                                              | Net<br>Non<br>Performing<br>Advances (NNPA)<br>Ratio                 | >=6.0%<br>but<br><9.0%                                                          | >=9.0% but <<br>12.0%                                                                                               | >=12.0%                                                                                |  |
+| Profitability                                              | Net profit                                                           | Incurred losses<br>during<br>two<br>consecutive<br>years                        | --                                                                                                                  | --                                                                                     |  |
+
+| Mandatory and discretionary actions |      |                                   |              |     |                       |            |               |                     |
+|-------------------------------------|------|-----------------------------------|--------------|-----|-----------------------|------------|---------------|---------------------|
+| Specifications                      |      | Mandatory actions                 |              |     | Discretionary actions |            |               |                     |
+| Risk Threshold 1                    | i.   | Bank to raise capital either from |              |     |                       |            | Common menu - | Actions             |
+|                                     |      | existing                          | members      | or  | by                    | pertaining | to:           |                     |
+|                                     |      | issuance of equity and other      |              |     |                       | i.         |               | Special Supervisory |
+|                                     |      | permissible capital instruments   |              |     | Actions               |            |               |                     |
+|                                     | ii.  | Restriction                       |              |     | on                    | ii.        |               | Strategy related    |
+|                                     |      | declaration/payment               |              |     | of                    | iii.       |               | Governance related  |
+|                                     |      | dividend/donation                 |              | iv. | Capital related       |            |               |                     |
+|                                     | iii. | Appropriate                       | restrictions |     | on                    | v.         |               | Credit risk related |
+|                                     |      | capital expenditure, other than   |              |     |                       | vi.        |               | Market risk related |
+|                                     |      | for technological upgradation     |              |     |                       | vii.       | HR related    |                     |
+
+| Mandatory and discretionary actions |                                       |                       |                         |  |  |  |  |
+|-------------------------------------|---------------------------------------|-----------------------|-------------------------|--|--|--|--|
+| Specifications                      | Mandatory actions                     | Discretionary actions |                         |  |  |  |  |
+| Risk Threshold 2                    | In addition to mandatory actions of   | viii.                 | Profitability related   |  |  |  |  |
+|                                     | Threshold 1,                          |                       | Operations/Business     |  |  |  |  |
+|                                     | i.<br>Restriction on branch expansion |                       | related                 |  |  |  |  |
+|                                     |                                       | x.                    | Imposition<br>of<br>All |  |  |  |  |
+| Risk Threshold 3                    | In addition to mandatory actions of   |                       | Inclusive Directions/   |  |  |  |  |
+|                                     | Thresholds<br>1 & 2,                  |                       | Cancellation<br>of      |  |  |  |  |
+|                                     | i.<br>Appropriate<br>restrictions/    |                       | Banking License         |  |  |  |  |
+|                                     | prohibition<br>on expansion of total  | xi.                   | Any other               |  |  |  |  |
+|                                     | size of the deposits                  |                       |                         |  |  |  |  |
+

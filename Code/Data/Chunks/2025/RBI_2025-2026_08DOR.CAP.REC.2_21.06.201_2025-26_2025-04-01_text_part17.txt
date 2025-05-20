@@ -1,0 +1,68 @@
+f such exposures are denominated in Indian Rupees and also funded in Indian Rupees.
+
+## **5.3 Claims on Foreign Sovereigns and Foreign Central Banks[29](#page-34-0)**
+
+5.3.1 Subject to paragraph 5.3.2 below, claims on foreign sovereigns and their central banks will attract risk weights as per the rating assigned[30](#page-34-1) to those sovereigns and central banks/ sovereign and central bank claims, by international rating agencies as follows:
+
+
+**Table 1: Claims on Foreign Sovereigns / Central Banks – Risk Weights**
+
+**\*** Standard & Poor's
+
+5.3.2 Claims on the foreign sovereign or foreign central bank in their jurisdiction, denominated in the domestic currency of that jurisdiction, met out of resources of the same currency[31](#page-34-2) will
+
+<span id="page-34-0"></span> <sup>29</sup> Please refer to th[e circular DBR.BP.BC.No.43/21.06.001/2015-16 dated October 8, 2015](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10065&Mode=0) on Risk Weights for Claims on Foreign Central Banks
+
+<span id="page-34-1"></span><sup>30</sup> For example: The risk weight assigned to an investment in US Treasury Bills by any overseas branch of an Indian Bank in Paris, irrespective of the currency of funding, will be determined by the rating assigned to the Treasury Bills, as indicated in Table 1.
+
+<span id="page-34-2"></span><sup>31</sup> For example: The risk weight assigned to an investment in US Treasury Bills by overseas branch of any Indian bank in New York will attract a zero per cent risk weight, irrespective of the rating of the claim, if the investment is funded from out of the USD denominated resources of that overseas branch of the Indian bank in New York. In case the
+
+attract a risk weight of zero percent. However, in case a Host Supervisor requires a more conservative treatment to such claims in the books of the foreign branches of the Indian Banks, they should adopt the requirements prescribed by the Host Country supervisors for computing capital adequacy.
+
+# **5.4 Claims on Public Sector Entities (PSEs)**
+
+5.4.1 Claims on domestic public sector entities will be risk weighted in a manner similar to claims on Corporates.
+
+5.4.2 Claims on foreign PSEs will be risk weighted as per the rating assigned by the international rating agencies as under:
+
+
+**Table 2: Claims on Foreign PSEs – Risk Weights**
+
+## **5.5 Claims on MDBs, BIS and IMF**
+
+Claims on the Bank for International Settlements (BIS), the International Monetary Fund (IMF) and the following eligible Multilateral Development Banks (MDBs) evaluated by the BCBS will be treated similar to claims on scheduled banks meeting the minimum capital adequacy requirements and assigned a uniform twenty per cent risk weight:
+
+- (a) World Bank Group: IBRD and IFC,
+- (b) Asian Development Bank,
+- (c) African Development Bank,
+- (d) European Bank for Reconstruction and Development,
+- (e) Inter-American Development Bank,
+- (f) European Investment Bank,
+- (g) European Investment Fund,
+- (h) Nordic Investment Bank,
+
+- (i) Caribbean Development Bank,
+- (j) Islamic Development Bank and
+- (k) Council of Europe Development Bank
+- (l) International Finance Facility for Immunization (IFFIm)
+- (m) Asian Infrastructure Investment Bank (AIIB)
+
+# **5.6 Claims on Banks (Exposure to capital instruments)**
+
+overseas branch of the Indian bank in New York, did not have any USD denominated resources, the risk weight will be determined by the rating assigned to the Treasury Bills, as indicated in Table 1 above.
+
+5.6.1 In case of a banks' investment in capital instruments of other banks, the following such **investments** would not be deducted, but would attract appropriate risk weights (refer to the paragraph 4.4.9 above):
+
+- (i) Investments in **capital instruments** of banks where the investing bank holds not more than 10% of the issued common shares of the investee banks, subject to the following conditions:
+	- Aggregate of these investments, together with investments in the capital instruments in insurance and other financial entities, do not exceed 10% of Common Equity of the investing bank; and
+	- The equity investment in the investee entities is outside the scope of regulatory consolidation.
+- (ii) **Equity investments** in other banks where the investing bank holds more than 10% of the issued common shares of the investee banks, subject to the following conditions:
+	- Aggregate of these investments, together with such investments in insurance and other financial entities, do not exceed 10% of Common Equity of the investing bank.
+	- The equity investment in the investee entities is outside the scope of regulatory consolidation.
+
+Accordingly, the claims on banks incorporated in India and the branches of foreign banks in India, other than those deducted in terms of paragraph 4.4.9 above, will be risk weighted as under:
+
+
+**Table 3: Claims on Banks[32](#page-36-0) Incorporated in India and Foreign Bank Branches in India**
+
+<span id="page-36-0"></span> <sup>32</sup> For claims held 

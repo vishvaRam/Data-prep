@@ -1,0 +1,63 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2024-25/128 DOR.CAP.REC.No.68/21.01.002/2024-25 March 21, 2025
+
+Dear Sir/Madam,
+
+## **Treatment of Right-of-Use (ROU) Asset for Regulatory Capital Purposes**
+
+Please refer to:
+
+- a) Paragraphs 5.1.25 and 107.2 of the [Master Direction Reserve Bank of India](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  [\(Non-Banking Financial Company \(NBFC\) – Scale Based Regulation\) Directions,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  [2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) - (*definition of Owned Fund and Common Equity Tier 1 (CET 1) capital)*
+- b) Paragraph 4.1.28 of the [Master Direction Non-Banking Financial Company](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)  Housing Finance Company (HFC) [\(Reserve Bank\) Directions, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030) – (*definition of Owned Fund*)
+- c) Paragraph 3.(1)(xxii) of the [Core Investment Companies \(Reserve Bank\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10564)  [Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10564) – (*definition of Owned Fund*)
+- d) Paragraph 3(a)(xxv) of the [Mortgage Guarantee Companies \(Reserve Bank\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10690)  [Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10690) – (*definition of Owned Fund*)
+- e) Paragraph 3.1(xi) of the [Master Direction Reserve Bank of India \(Asset](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12669)  [Reconstruction Companies\) Directions, 2024](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12669) – (*definition of Owned Fund*)
+- f) Paragraph 3(iv) of the [Master Direction Standalone Primary Dealers \(Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10567)  [Bank\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10567) – (*definition of Tier 1 capital*)
+
+The instructions cited above require deducting the book value of intangible assets while calculating Owned Fund/ CET 1 capital/ Tier 1 capital.
+
+2. In terms of Indian Accounting Standard (Ind AS) 116 - Leases, most leases will be reflected on a lessee's balance sheet as an obligation to make lease payments (a liability) and a related ROU asset (an asset). We have received references from various NBFCs (in their capacity as lessees) on the treatment of ROU assets for calculation of regulatory capital/ Owned Fund.
+
+�व�नयमन �वभाग,केंद्र�य कायार्लय, 12 वीं और 13 वींमंिजल, केंद्र�य कायार्लय भवन, शह�द भगत �स ंह मागर्,फोटर्,मुंबई-400001 दरभाष ू : 022-22601000 फै क्स: 022-22705691 ई-मेल: cgmicdor@rbi.org.in
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Department of Regulation, Central Office, 12th and 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in
+
+�हंद� आसान हैइसका प्रयोग बढ़ाइए
+
+3. In this regard, it is clarified that regulated entities shall not be required to deduct an ROU asset (created in terms of Ind AS 116-Leases) from Owned Fund/ CET 1 capital/ Tier 1 capital (as the case may be), provided the underlying asset being taken on lease is a tangible asset. The ROU asset shall be risk-weighted at 100 per cent, consistent with the risk weight applied historically to the owned tangible assets.
+
+4. The above revisions/changes have been incorporated in the respective Master Directions, as [detailed](#page-2-0) in Annexure 1 to Annexure to 6 below.
+
+### **Applicability**
+
+5. This circular is applicable, with immediate effect, to all NBFCs (including HFCs) and Asset Reconstruction Companies implementing Companies (Indian Accounting Standards) Rules, 2015.
+
+Yours faithfully,
+
+(Usha Janakiraman) Chief General Manager-in-Charge
+
+## <span id="page-2-0"></span>**[Master Direction - Reserve Bank of India \(Non-Banking Financial Company \(NBFC\) –](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  [Scale Based Regulation\) Directions, 2023](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)**
+
+
+
+## **[Master Direction - Non-Banking Financial Company - Housing Finance Company](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)  [\(Reserve Bank\) Directions, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)**
+
+
+#### **[Master Direction - Core Investment Companies \(Reserve Bank\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10564)**
+
+
+#### **[Master Directions - Mortgage Guarantee Companies \(Reserve Bank\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10690)**
+
+
+# **[Master Direction – Reserve Bank of India \(Asset Reconstruction Companies\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12669)**
+
+#### **[Directions, 2024](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12669)**
+
+
+#### **[Master Direction - Standalone Primary Dealers \(Reserve Bank\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10567)**
+

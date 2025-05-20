@@ -1,0 +1,188 @@
+|  |  | Master Circular on Exposure Norms and Statutory / Other Restrictions-UCBs |  |  |
+|--|--|---------------------------------------------------------------------------|--|--|
+|  |  |                                                                           |  |  |
+
+| Contents   |                                                                       |  |  |  |  |  |
+|------------|-----------------------------------------------------------------------|--|--|--|--|--|
+| Sr.<br>No. | Particulars                                                           |  |  |  |  |  |
+| 1.         | General                                                               |  |  |  |  |  |
+| 2.         | Definitions                                                           |  |  |  |  |  |
+| 3.         | Exposure Norms                                                        |  |  |  |  |  |
+| 3.1        | Exposure Ceiling to Individual / Group Borrowers                      |  |  |  |  |  |
+| 3.2        | Computation of exposure ceiling for individual / group borrowers      |  |  |  |  |  |
+| 3.3        | Thresholds for value of loans                                         |  |  |  |  |  |
+| 3.4        | Exposure to Housing, Real Estate and Commercial Real Estate           |  |  |  |  |  |
+| 3.5        | Inter-bank Exposure Limit                                             |  |  |  |  |  |
+| 3.6        | Placement / acceptance of Deposits                                    |  |  |  |  |  |
+| 4.         | Ceiling on Unsecured Advances                                         |  |  |  |  |  |
+| 4.1        | Limits on unsecured advances                                          |  |  |  |  |  |
+| 4.2        | Aggregate Ceiling on Unsecured Advance                                |  |  |  |  |  |
+| 4.3        | Credit Card Limits                                                    |  |  |  |  |  |
+| 5.         | Statutory Restrictions                                                |  |  |  |  |  |
+| 6.         | Regulatory Restriction                                                |  |  |  |  |  |
+| 6.1        | Granting Loans and Advances to Directors and their Relatives          |  |  |  |  |  |
+| 6.2        | Maximum Ceiling on Advances to Nominal Members                        |  |  |  |  |  |
+| 6.3        | Advances against Fixed Deposit Receipts issued by Other Banks         |  |  |  |  |  |
+| 6.4        | Advances by Salary Earners' Primary (Urban) Co-operative Banks (SEBs) |  |  |  |  |  |
+|            | against Term Deposits of Non-members                                  |  |  |  |  |  |
+| 6.5        | Bridge Loans/Interim Finance                                          |  |  |  |  |  |
+| 6.6        | Loans and Advances against Shares, Debentures and Bonds               |  |  |  |  |  |
+| 6.7        | Bank Finance against Preference Shares and Long Term (Subordinated)   |  |  |  |  |  |
+|            | Deposits                                                              |  |  |  |  |  |
+| 6.8        | Bank Finance to Non-Banking Financial Companies                       |  |  |  |  |  |
+| 6.9        | Financing Equipment Leasing and Hire Purchase Financing               |  |  |  |  |  |
+| 6.10       | Financing for Agricultural Activities                                 |  |  |  |  |  |
+| 6.11       | Loans to Self Help Groups (SHGs) / Joint Liability Groups (JLGs)      |  |  |  |  |  |
+| 6.12       | Restriction on Advances to Defaulters of Statutory Dues               |  |  |  |  |  |
+| Annex 1    |                                                                       |  |  |  |  |  |
+| Annex 2    |                                                                       |  |  |  |  |  |
+|            | Appendix                                                              |  |  |  |  |  |
+|            |                                                                       |  |  |  |  |  |
+
+| Limits for Individual Borrower and Group Borrower |                                     |                                                                                                                             |            |                                      |  |  |  |
+|---------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------|--|--|--|
+| Criteria                                          | UCBs with<br>DTL up to<br>₹10 Crore | UCBs with<br>UCBs with<br>DTL above<br>DTL above<br>₹10 crore &<br>₹50 Crore &<br>up to ₹50<br>up to ₹100<br>Crore<br>Crore |            | UCBs with<br>DTL above<br>₹100 Crore |  |  |  |
+| UCBs having CRAR<br>equal to or more than<br>9%   | ₹1.00 lakh                          | ₹2.00 lakh                                                                                                                  | ₹3.00 lakh | ₹5.00 lakh                           |  |  |  |
+| UCBs having CRAR<br>less than 9%                  | ₹0.25 lakh                          | ₹0.50 lakh                                                                                                                  | ₹1.00 lakh | ₹2.00 lakh                           |  |  |  |
+
+| UCBs |                               | Ceiling of Loan Amount      |  |  |  |
+|------|-------------------------------|-----------------------------|--|--|--|
+| (i)  | with deposits upto ₹50 crore  | ₹50,000/-<br>per borrower   |  |  |  |
+| (ii) | with deposits above ₹50 crore | ₹1,00,000/-<br>per borrower |  |  |  |
+
+|      | Type of NBFC                                                                                                                                                                                                                                    | Maximum Limit<br>on Bank Finance                       |  |  |  |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--|--|--|
+| (i)  | NBFC-ICC<br>having not less than 75<br>per<br>cent of their assets in equipment<br>leasing and hire purchase, and 75<br>per<br>cent of their gross income from<br>these two types of activities as per<br>the last audited balance sheet of the | 3 times of the Net Owned<br>Funds (NOF) of the<br>NBFC |  |  |  |
+|      | companies.                                                                                                                                                                                                                                      |                                                        |  |  |  |
+| (ii) | NBFC-ICC carrying out equipment<br>leasing and hire purchase<br>other than<br>(i) above                                                                                                                                                         | 2 times of the Net Owned<br>Funds (NOF) of the<br>NBFC |  |  |  |
+
+| Sr.<br>No. | Name of<br>the<br>Borrowe<br>rs | Related to<br>which<br>Director and<br>nature of<br>relationship | (₹<br>Limits<br>Sanctioned<br>in<br>lakhs) |                     |                   |       |         |                             |                            |
+|------------|---------------------------------|------------------------------------------------------------------|--------------------------------------------|---------------------|-------------------|-------|---------|-----------------------------|----------------------------|
+|            |                                 |                                                                  | Date of<br>Sanction                        | Type of<br>Facility |                   | Secur | Unsecur | Nature<br>and               | Due<br>Date /              |
+|            |                                 |                                                                  | /<br>Renewal                               | Funde<br>d          | Non<br>funde<br>d | ed    | ed      | Value<br>of<br>Securi<br>ty | Date<br>of<br>Maturi<br>ty |
+| 1          | 2                               | 3                                                                | 4                                          | 5                   | 6                 | 7     | 8       | 9                           | 10                         |
+|            |                                 |                                                                  |                                            |                     |                   |       |         |                             |                            |
+|            |                                 |                                                                  |                                            |                     |                   |       |         |                             |                            |
+
+| Amount Outstanding (₹<br>in Lakhs)                                                                                          |           |                                                                |                                                                         |                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------|
+| Secured                                                                                                                     | Unsecured | Total (100% of<br>Funded and 100<br>% of Non-funded<br>Limits) | Whether in Excess<br>of Exposure<br>Norms / Limits<br>stipulated by RBI | Action initiated<br>in case of<br>Overdue /<br>NPA Accounts |
+| 11                                                                                                                          | 12        | 13                                                             | 14                                                                      | 15                                                          |
+|                                                                                                                             |           |                                                                |                                                                         |                                                             |
+|                                                                                                                             |           |                                                                |                                                                         |                                                             |
+| Different type of facilities sanctioned to a borrower should be indicated<br>Note:<br>separately against column 5<br>and 6. |           |                                                                |                                                                         |                                                             |
+
+|            |                            |                                                | Name of the bank _____________________________________                               |                                                                                            |                                              |                                                                                                                    |
+|------------|----------------------------|------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Sr.<br>No. | Name of<br>the<br>Borrower | Nature of<br>Limit and<br>Amount<br>Sanctioned | Outstanding<br>Balance as<br>at the end<br>of<br>Reporting<br>Quarter<br>(₹ in lakh) | Market<br>Value<br>of<br>Shares,<br>Debentures,<br>etc. held as<br>Security<br>(₹ in lakh) | Due<br>Date<br>of<br>Repayment<br>of Advance | Action<br>Taken to<br>comply<br>with RBI<br>instructions<br>contained<br>in circular<br>dated April<br>19,<br>2001 |
+| 1          | 2                          | 3                                              | 4                                                                                    | 5                                                                                          | 6                                            | 7                                                                                                                  |
+|            |                            |                                                |                                                                                      |                                                                                            |                                              |                                                                                                                    |
+|            |                            |                                                |                                                                                      |                                                                                            |                                              |                                                                                                                    |
+|            |                            |                                                |                                                                                      |                                                                                            |                                              |                                                                                                                    |
+|            |                            |                                                |                                                                                      |                                                                                            |                                              |                                                                                                                    |
+
+| No  | Circular No.                                     | Date       | Subject                                                                                                                                                            |
+|-----|--------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | DOR.CRE.REC.92/07.10.002/2022-23                 | 30.12.2022 | Individual Housing loans –<br>Revised limits under four<br>tiered regulatory framework                                                                             |
+| 2.  | DOR.REG.No.84/07.01.000/2022-23                  | 01.12.2022 | Revised<br>Regulatory<br>Framework - Categorization<br>of<br>Urban<br>Co-operative<br>Banks<br>(UCBs)<br>for<br>Regulatory Purposes                                |
+| 3.  | DOR.CRE.REC.42/09.22.010/2022-23                 | 08.06.2022 | Individual Housing loans –<br>Enhancement in limits                                                                                                                |
+| 4.  | DOR.CAP.REC.92/09.18.201/2021-22                 | 08.03.2022 | Issue<br>and<br>regulation<br>of<br>share capital and securities -<br>Primary<br>(Urban)<br>Co<br>operative Banks                                                  |
+| 5.  | DOR.CRG.CRS.Cir.No.5/13.05.000/2020-21           | 05.02.2021 | Loans<br>and<br>advances<br>to<br>directors, their relatives, and<br>firms / concerns in which<br>they are interested                                              |
+| 6.  | DOR (PCB).BPD.Cir No.10/13.05.000/2019-<br>20    | 13.03.2020 | Limits on exposure to single<br>and group borrowers/parties<br>and large exposures and<br>Revision in the target for<br>priority<br>sector<br>lending<br>–<br>UCBs |
+| 7.  | DCBR.BPD (PCB).BC.No.3/12.05.001/2016-<br>17     | 01.09.2016 | Advances<br>against<br>Term<br>Deposits of Non-members                                                                                                             |
+| 8.  | DCBR.CO.BPD. (PCB).<br>No.15/13.05.000/2015-16   | 21.04.2016 | Unsecured Exposure Norms<br>for UCBs – Relaxation                                                                                                                  |
+| 9.  | DCBR.CO.BPD. (SCB). No.1/13.05.000/<br>2014-15   | 30.04.2015 | First Bi-monthly<br>Monetary Policy<br>Statement 2015-16 –<br>Issue of Credit Cards by<br>Scheduled Urban<br>Cooperative Banks                                     |
+| 10. | UBD.BPD.(PCB). Cir. No. 53/13.05.000/<br>2013-14 | 28.03.2014 | Guidelines on Sale of<br>Financial Assets to                                                                                                                       |
+
+|     |                                                    |            | Securitisation<br>Company/<br>Reconstruction<br>Company<br>(SC/RC)<br>by<br>Multi<br>State<br>Urban Cooperative Banks                                                      |
+|-----|----------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11. | UBD CO BPD (PCB) Cir No.<br>29/13.05.000/2013-14   | 10.10.2013 | Unsecured Exposure Norms<br>for UCBs                                                                                                                                       |
+| 12. | UBD CO BPD (PBC) Cir No. 13 /09.22.010/<br>2013-14 | 10.09.2013 | Finance for Housing<br>Schemes – Primary<br>(Urban) Co-operative Banks<br>–<br>Loans<br>for<br>repairs<br>/<br>additions<br>/<br>alterations<br>–<br>enhancement of limits |
+| 13. | UBD BPD (PCB) Cir. No.45/13.05.000/2012-<br>13     | 03.04.2013 | Unsecured credit<br>exposure norms for<br>UCBs                                                                                                                             |
+| 14. | UBD.BPD.(PCB).Cir.No.31/13.05.000/2011-<br>12      | 26.04.2012 | Monetary Policy<br>Statement 2012-13<br>Exposure to Housing, Real<br>Estate<br>and<br>Commercial<br>Real Estate - Primary<br>(Urban) Co-operative<br>Banks                 |
+| 15. | UBD.BPD.(PCB).Cir.No.47/13.05.000/2010-<br>11      | 11.05.2011 | Monetary Policy<br>Statement 2011-12<br>Exposure to Housing, Real<br>Estate and Commercial<br>Real Estate - Primary<br>(Urban) Co-operative<br>Banks                       |
+| 16. | UBD.BPD.(PCB).Cir.No.23/13.05.000/2010-<br>11      | 15.11.2010 | Exposure to Housing, Real<br>Estate<br>Sector<br>and<br>Commercial Real Estate -<br>Urban Co-operative<br>Banks                                                            |
+| 17. | UBD.BPD.(PCB).Cir.No.21/13.05.000/2010-<br>11      | 15.11.2010 | Maximum Limit on<br>Unsecured<br>Loans<br>and<br>Advances                                                                                                                  |
+| 18. | UBD.(PCB)<br>BPD.Cir.No.69/09.22.010/2009-10       | 09.06.2010 | Exposure to Real Estate and<br>CRE                                                                                                                                         |
+| 19. | UBD.BPD.PCB.Cir.No.63/16.20.000/2009-10            | 04.05.2010 | Investment in unlisted non<br>SLR securities                                                                                                                               |
+
+| 20. | UBD.BPD.PCB.Cir.No.62/16.20.000/2009-10 | 30.04.2010 | Classification of investments<br>in bonds of infrastructure<br>companies                                                                    |
+|-----|-----------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 21. | UBD.PCB.Cir.No.7/13.05.000/07-08        | 13.07.2007 | Bank Finance against<br>Shares and Debentures                                                                                               |
+| 22. | UBD.PCB.Cir.No.32/13.05.000/06-07       | 12.03.2007 | Loans<br>and<br>advances<br>to<br>directors, relatives and firms<br>/ concerns in which they are<br>interested                              |
+| 23. | UBD.PCB.Cir.No.29/13.05.000/05-06       | 30.01.2006 | Maximum Limit on advances<br>- Limit on credit exposure to<br>individual<br>/<br>group<br>of<br>borrowers                                   |
+| 24. | UBD.PCB.Cir.No.22/13.05.000/05-06       | 05.12.2005 | Maximum Limit on advances<br>-<br>Limit<br>on<br>Unsecured<br>advances to single party /<br>connected group                                 |
+| 25. | UBD.PCB.Cir.No.14/13.05.000/05-06       | 06.10.2005 | Loans<br>and<br>advances<br>to<br>directors, relatives and firms<br>/ concerns in which they are<br>interested.                             |
+| 26. | UBD.DS.cir.No.44/13.05.00/04-05         | 15.04.2005 | Maximum<br>Limit<br>on<br>advances - Limit on credit<br>exposure<br>to<br>individual<br>/<br>group of borrowers                             |
+| 27. | BPD.BPD(PCB)Cir.No.34/13.05.00/2003-04  | 11.02.2004 | Maximum Limit on advances<br>- Limit on credit exposure to<br>individual<br>/<br>group<br>of<br>borrowers - computation of<br>capital funds |
+| 28. | BPD.DS(PCB)Cir.No.29/13.05.00/2003-04   | 05.01.2004 | Finance against shares &<br>debentures by UCBs                                                                                              |
+| 29. | UBD.BPD.Cir.No.50/13.05.00/2002-03      | 29.04.2003 | Loans<br>&<br>Advances<br>to<br>directors, relatives and firms<br>/ concerns in which they are<br>interested                                |
+| 30. | UBD.DS.PCB.Cir.No.37/13.05.00/2001-02   | 01.04.2002 | Limit on Credit Exposure<br>to<br>individual<br>/<br>group<br>of<br>borrowers                                                               |
+
+| 31. | UBD.No.DS.PCB.C1R.41/13.05.00/2000-01   | 19.04.2001 | Bank<br>Finance<br>against<br>Shares and Debentures                                                                                              |
+|-----|-----------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 32. | UBD.No.DS.PCB.CIR.35/13.05.00/1999-2000 | 13.03.2001 | Maximum Limit on<br>Advances - Unsecured<br>Advances by Salary<br>Earners' Banks - Revision of<br>Limit                                          |
+| 33. | UBD.No.PCB.Cir.25/13.05.00/2000-2001    | 18.01.2001 | Maximum Limit on<br>Advances - Limits on<br>Credit Exposure to<br>Individual<br>/<br>Group<br>of<br>Borrowers - Computation<br>of Capital Funds  |
+| 34. | UBD.No.DS.PCB.24/13.05.00/2000-2001     | 16.01.2001 | Credit Extended to<br>Diamond<br>Exporters<br>-<br>Embargo on Import of<br>Conflict Diamonds                                                     |
+| 35. | UBD.No.DS.4/13.05.00/2000               | 25.08.2000 | Maximum Limit on<br>Advances - Limits on<br>Credit Exposure to<br>Individuals<br>/<br>Group<br>of<br>Borrowers - Computation<br>of Capital Funds |
+| 36. | UBD.No.DS.PCB.1/13.05.00/2000-2001      | 28.07.2000 | Credit Extended to<br>Diamond<br>Exporters<br>-<br>Embargo on Import of<br>Conflict Diamonds                                                     |
+| 37. | UBD.No.DS.CIR.31/13.05.00/1999-2000     | 01.04.2000 | Maximum Limit on<br>Advances - Limits on<br>Credit Exposure                                                                                      |
+| 38. | UBD.No.DS.PCB.CIR.41/13.05.00/97-98     | 12.02.1998 | Advances<br>granted<br>to<br>Directors and their relatives                                                                                       |
+| 39. | UBD.No.DS/PCB/CIR.38/13.05.00/96-97     | 04.02.1997 | Limits on Credit<br>Exposure to Individual /<br>Group<br>of<br>borrowers<br>-<br>Advances against security of<br>term deposits                   |
+| 40. | UBD.No.Plan.PCB.33/09.09.01/96-97       | 13.12.1996 | Financing<br>Agricultural<br>Activities by PCBs                                                                                                  |
+| 41. | UBD.No.DS.PCB.CIR.27/13.05.00/96-97     | 11.11.1996 | Maximum Limit on<br>Advances<br>-<br>Limits<br>on<br>Unsecured<br>Advances<br>to                                                                 |
+
+|     |                                      |            | single<br>party<br>/<br>connected<br>Group                                                                                |  |
+|-----|--------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------|--|
+| 42. | UBD.No.DS.PCB.DIR.16/13.05.00/96-97  | 11.11.1996 | Maximum<br>Limit<br>on<br>Advances                                                                                        |  |
+| 43. | UBD.No.DS.PCB.CIR.25/13.05.00/96-97  | 30.10.1996 | Advances<br>granted<br>to<br>directors and their relatives<br>by<br>Primary<br>(Urban)<br>Co<br>operative<br>Banks        |  |
+| 44. | UBD.No.Plan.PCB.20/09.63.00/96-97    | 16.10.1996 | Policy<br>and<br>practice<br>regarding Nominal<br>Membership                                                              |  |
+| 45. | UBD.No.DS.PCB.Cir.65/13.01.00/95-96  | 31.05.1996 | Advances<br>against<br>Fixed<br>Deposit<br>Receipts<br>(FDRs)<br>issued by other banks                                    |  |
+| 46. | UBD.No.DS.PCB.Cir.63/13.05.00/95-96  | 24.05.1996 | Lending<br>to<br>non-banking<br>financial companies                                                                       |  |
+| 47. | UBD.No.DS.PCB.CIR.53/13.05.00/95-96  | 22.03.1996 | Maximum Limit on<br>Advances - Limits on<br>Credit Exposure to<br>Individuals / Group of<br>Borrowers                     |  |
+| 48. | UBD.No.DS.PCB.CIR.39/13.05.00/95-96  | 16.01.1996 | Maximum<br>Limit<br>on<br>Advances - Limits on credit<br>exposure<br>to<br>individuals<br>/<br>group of borrowers         |  |
+| 49. | UBD.No.DS.PCB.DIR.18/13.05.00/95-96  | 16.01.1996 | Maximum<br>Limit<br>on<br>Advances                                                                                        |  |
+| 50. | UBD.No.DS.PCB.CIR.60/13.05.00/94-95  | 30.05.1995 | Lending<br>to<br>Non-Banking<br>Financial Companies                                                                       |  |
+| 51. | UBD.No.DS.(PCB)CIR.58/13.05.00/94-95 | 17.05.1995 | Bridge<br>Loans<br>/<br>Interim<br>Finance                                                                                |  |
+| 52. | UBD.No.DS(PCB)Dir.16/13.05.00/94-95  | 29.04.1995 | Maximum limit on advances                                                                                                 |  |
+| 53. | UBD.No.DS(PCB)Cir.54/13.05.00/94-95  | 29.04.1995 | Maximum limit on advances                                                                                                 |  |
+| 54. | UBD.No.DS.CIR.25/13.05.00/94-95      | 21.10.1994 | Lending<br>to<br>non-Banking<br>financial companies                                                                       |  |
+| 55. | UBD.I&L.Cir.RCS.1/12.05.00/94-95     | 15.07.1994 | Granting<br>of<br>loans<br>and<br>advances<br>to<br>persons<br>engaged<br>in<br>business<br>competing with or conflicting |  |
+
+|     |                                     |            | with the business of primary<br>cooperative banks                                                                                                                                  |
+|-----|-------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 56. | UBD.No.DS.CIR.PCB.4/13.05.00/94-95  | 12.07.1994 | Maximum limit on advances<br>- Advances to Directors and<br>their<br>relatives<br>and<br>to<br>concerns in which Directors<br>or<br>their<br>relatives<br>are<br>interested        |
+| 57. | UBD.No.(PCB)DIR.5/13-05.00/93-94    | 26.05.1994 | Maximum<br>Limit<br>on<br>Advances                                                                                                                                                 |
+| 58. | UBD.No.DS(PCB)Cir.76/13.05.00/93-94 | 26.05.1994 | Maximum limit on advances<br>- Advances to Directors and<br>their<br>relatives<br>and<br>to<br>concerns in which Directors<br>or<br>their<br>relatives<br>are<br>interested        |
+| 59. | UBD.No.40/09.63.00/93-94            | 16.12.1993 | Policy<br>and<br>practice<br>regarding Nominal<br>Membership                                                                                                                       |
+| 60. | UBD.No.(PCB)29/DC.(R.1)-92/93       | 26.12.1992 | Bridge<br>Loans<br>/<br>Interim<br>Finance                                                                                                                                         |
+| 61. | UBD.No.Plan.8/UB.8/91/92            | 05.02.1992 | Policy<br>and<br>Practice<br>regarding Nominal<br>Membership                                                                                                                       |
+| 62. | UBD(PCB)55/DC.R.1-90/91             | 25.02.1991 | Maximum Limit on<br>Advances<br>-<br>Advances<br>Against Cheques Sent for<br>Collection                                                                                            |
+| 63. | UBD.PCB.2/DC.(R-1)-90/91            | 20.07.1990 | Financing of Leasing / Hire<br>Purchase<br>Companies                                                                                                                               |
+| 64. | UBD.No.DC.99/R.1-87/88              | 08.02.1988 | Maximum Limit on<br>Advances<br>-<br>advances<br>to<br>Salaried Borrowers                                                                                                          |
+| 65. | UBD.No.P&O.100/UB.8-86/87           | 25.06.1987 | Policy<br>and<br>Practice<br>regarding Nominal<br>Membership                                                                                                                       |
+| 66. | ACD.Plan.(IFS)1295/PR.36-78/9       | 17.10.1978 | Sanction of Credit Facilities<br>to<br>Borrowers<br>who<br>are<br>defaulting<br>in<br>payment<br>of<br>Statutory<br>Dues<br>such<br>as<br>Provident<br>Fund,<br>etc.<br>by<br>PCBs |
+
+| No | Circular No.                                    | Date       | Subject                                                                                                                                                       |
+|----|-------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | UBD.BPD.(PCB).Cir.No.7/09.22.010/2011-12        | 31.10.2011 | Revision in Limits of<br>Housing Loans and<br>Repayment Period –<br>Second Quarter<br>Review of Monetary<br>Policy 2011-12                                    |
+| 2  | UBD.BPD.(PCB)CIR.No.50/13.05.000(B)/2010-<br>11 | 02.06.2011 | Financing<br>of<br>Self<br>Help<br>Groups<br>(SHGs)<br>and<br>Joint<br>Liability Groups<br>(JLGs) by Primary<br>(Urban)<br>Co<br>operative<br>Banks<br>(UCBs) |
+| 3  | UBD.No.DS.PCB.7/13.04.00/2000-2001              | 10.10.2000 | Monetary and Credit<br>Policy<br>Measures<br>-<br>Mid-Term<br>Review<br>for the Year 2000-<br>2001                                                            |
+| 4  | UBD.No.DS.SUB.2/13.05.00/2000-2001              | 25.08.2000 | Rediscounting<br>of<br>Bills by Banks                                                                                                                         |
+| 5  | UBD.No.Plan.SPCB.01/09.09.01/2000-2001          | 01.07.2000 | Priority<br>Sector<br>Lending - Lending to<br>NBFCs<br>for<br>Onlending<br>to<br>Agriculture                                                                  |
+| 6  | UBD.No.DS.SUB.3/13.05.00/1999-2000              | 21.09.1999 | Rediscounting<br>of<br>Bills by Banks                                                                                                                         |
+| 7  | UBD.Plan.No.SPCB.1/09.09.01/99-2000             | 27.08.1999 | Priority<br>Sector<br>lending - Flow of<br>credit to food and<br>agro-based<br>processing, forestry<br>and<br>tiny<br>sector<br>enterprises                   |
+| 8  | UBD.No.DS.PCB.Cir.10/13.05.00/98-99             | 27.11.1998 | Bank<br>Finance<br>against Shares and<br>Debentures                                                                                                           |
+
+| 9  | UBD.Plan.Gr.SUB/5/09.09.01/98-99       | 18.11.1998 | Bank Credit to Non<br>Banking<br>Financial<br>Companies<br>(NBFCs)<br>against<br>financing of trucks<br>Classification under<br>Priority Sector |
+|----|----------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10 | UBD.No.DS.PCB.CIR.55/13.05.00/97-98    | 29.04.1998 | Advances<br>against<br>Shares<br>and<br>Debentures                                                                                              |
+| 11 | UBD.No.DS.PCB.CIR.46/13.05.00/96-97    | 23.04.1997 | Lending<br>under<br>consortium<br>arrangement                                                                                                   |
+| 12 | UBD.No.DS.PCB.Cir.40/13.05.00/96-97    | 13.02.1997 | Lending for working<br>capital<br>purposes<br>Sanction of ad-hoc<br>limits                                                                      |
+| 13 | UBD.No.Plan.PCB.60/09.78.00/95-96      | 08.04.1996 | Equipment<br>leasing<br>and hire purchase<br>financing activities                                                                               |
+| 14 | UBD.NO.DS.PCB.CIR.35/13.05.00/95-96    | 05.01.1996 | Grant<br>of<br>financial<br>Assistance<br>against<br>Share / Debenture<br>of<br>joint<br>stock<br>companies                                     |
+| 15 | UBD.No.Plan./CIR(RCS).9/09.22.01/95-96 | 01.09.1995 | Finance for Housing<br>Schemes -<br>Primary<br>(urban)<br>Co<br>operative Banks                                                                 |
+| 16 | UBD.No.DC.7/13.05.00/95-96             | 09.08.1995 | Grant of financial<br>Assistance against<br>Shares<br>/<br>Debentures of joint<br>stock companies                                               |
+| 17 | UBD.No.(PCB)50/13.05.00-93/94          | 14.01.1994 | Restrictions<br>on<br>credit<br>to<br>certain<br>sectors -<br>Real<br>Estate Loans                                                              |
+| 18 | UBD.No.(PCB)54/DC(R.1)-92/93           | 07.04.1993 | Restriction on Credit<br>to Certain Sectors                                                                                                     |
+| 19 | UBD(PCB)38/DC.(R.1)-91/92              | 13.11.1991 | Restriction on Credit<br>to Certain Sectors                                                                                                     |

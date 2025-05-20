@@ -1,0 +1,31 @@
+ Some of the important regulatory requirements are given below.
+
+# **(A) Registration on DLT Platform**
+
+## **(a) Registration of Senders**
+
+(1) All Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) shall get themselves registered with any of the Telecom Service Providers (TSPs) (referred to as 'Access Providers' in TRAI Regulations) on DLT platform under TCCCPR-2018 regulations before sending any commercial communications through voice calls or messages using telecommunication services.
+
+(2) No business or legal entity, which is not registered on DLT platform under TCCCPR-2018, shall send any commercial communication or cause such communications through voice calls or messages using telecommunication services.
+
+#### **(b) Use of '140/ 160' numbering series for making commercial voice calls**
+
+(1) Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) shall use only '140/ 160' numbering series (or any other Numbering Series allocated/ assigned by DoT/ TRAI in future for the purpose) for making commercial voice calls.
+
+(2) At present, '140' Numbering Series is operational and is allocated only for making promotional voice calls. Therefore, Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) shall use only '140' numbering series for making promotional voice calls to their customers or prospective customers.
+
+(3) The assignment and operations of 140 series are being migrated to DLT platform. Existing telemarketers/entities using '140' series shall be required to register their details on their respective Access Provider's portal once intimated by the Access Provider.
+
+(4) '160' series shall be assigned to the Senders exclusively for making transactional and service calls to their existing customers. It shall be assigned through the DLT platform of the Access Providers and implementation of the same is under progress. Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing customers) shall use only '160' numbering series for making transactional and service calls to their customers. Senders shall contact their Access Providers for allocation of the '160' number series to them. There shall be no mixing of promotional/upsell/cross-sell/offer-related communication on such transactional or service calls.
+
+(5) Use of 160 series for promotional purposes may lead to disconnection of telecom resources to the Senders, in addition to any other action as stipulated in the regulations.
+
+(6) Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers etc., and other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) shall ensure that they register their Voice Headers ( i.e. indicators in 140 and 160 series) with any of the Telecom Service Providers (TSPs) and send the commercial communications through voice to the customers using such registered Voice Headers only.
+
+(7) Senders shall not use any other 10-digit fixed line/ mobile number for making promotional/Service/transactional voice calls to their customers, either directly or through their employees or channel partners, DSAs, BPO partner, in-house or outsources Call Center etc.
+
+### **(c) Registration of Headers for sending SMS messages**
+
+(1) Any commercial communication can only take place using registered Headers assigned to the PEs (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) for the purpose of commercial communications.
+
+(2) Senders (such as Banks, Mutual Funds, Insurance Companies, Mutual funds, Stockbrokers, other Financial Institutions, Corporates, Enterprises, SMEs, big and small businesses, and any entity who wishes to send commercial communication to its existing or prospective customers) shall ensure that they register their SMS Headers with any of the Telecom Service Providers (TSPs) and send the commercial communications through SMS to the 

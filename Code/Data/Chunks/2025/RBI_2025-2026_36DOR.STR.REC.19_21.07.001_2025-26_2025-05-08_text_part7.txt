@@ -1,0 +1,44 @@
+ [Master Direction - Non-Banking](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137)  [Financial Company – Peer to Peer Lending Platform \(Reserve Bank\) Directions,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137)  [2017 dated October 04, 2017,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137) as amended from time to time.
+
+## <span id="page-15-1"></span>21.**Structure of DLG arrangements**
+
+- i. DLG arrangements shall be backed by an explicit and legally enforceable contract between the RE and the DLG provider. Such contract, among other things, shall contain the following details:
+	- a. Extent of DLG cover;
+	- b. Form in which DLG cover is to be maintained with the RE;
+- c. Timeline for DLG invocation;
+- d. Disclosure requirements as under para 27 of these Directions.
+
+# <span id="page-16-0"></span>22.**Forms of DLG**
+
+- i. RE shall accept DLG only in one or more of the following forms:
+	- a. Cash deposited with the RE;
+	- b. Fixed Deposit maintained with a Scheduled Commercial Bank with a lien marked in favour of the RE;
+	- c. Bank Guarantee in favour of the RE.
+
+# <span id="page-16-1"></span>23.**Cap on DLG**
+
+- i. RE shall ensure that the total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed five per cent of the total amount disbursed out of that loan portfolio at any given time. In case of implicit guarantee arrangements, the DLG Provider shall not bear performance risk of more than the equivalent amount of five per cent of the underlying loan portfolio.
+- ii. The portfolio over which DLG can be offered shall consist of identifiable and measurable loan assets which have been sanctioned (the 'DLG set'). This portfolio shall remain fixed for the purpose of DLG cover and is not meant to be dynamic. *Refer to Illustrations given in [Annex – II.](#page-21-0)*
+
+# <span id="page-16-2"></span>24.**Recognition of NPA**
+
+- i. Recognition of individual loan assets in the portfolio as Non-Performing Asset (NPA) and consequent provisioning shall be the responsibility of the RE as per the extant asset classification and provisioning norms irrespective of any DLG cover available at the portfolio level.
+- ii. The amount of DLG invoked shall not be set off against the underlying individual loans, i.e. the liability of the borrowers in respect of the underlying loan shall remain unaffected.
+- iii. Recovery by the RE, if any, from the loans on which DLG has been invoked and realised, can be shared with the DLG provider in terms of the contractual arrangement.
+- iv. DLG amount once invoked by the RE shall not be reinstated, including through loan recovery.
+
+#### <span id="page-17-0"></span>25.**Treatment of DLG for regulatory capital**
+
+- i. Capital computation, i.e., computation of exposure and application of Credit Risk Mitigation benefits on individual loan assets in the portfolio shall continue to be governed by the extant norms[11](#page-17-3).
+- ii. In case, DLG provider is an RE, it shall deduct full amount of the DLG which is outstanding from its capital.
+
+#### <span id="page-17-1"></span>26.**Invocation and tenor of DLG**
+
+- i. RE shall invoke DLG within a maximum overdue period of 120 days, unless the loan dues are made good by the borrower before that.
+- ii. The period for which the DLG agreement remains in force shall not be less than the longest tenor of the loan in the underlying loan portfolio.
+
+#### <span id="page-17-2"></span>27.**Disclosure requirements**
+
+i. RE shall put in place a mechanism to ensure that LSPs with whom they have a DLG arrangement shall publish on their website the total number of portfolios and the respective amount of each portfolio on which DLG has been offered. The name of the RE may or may not be disclosed as part of disclosure under this provision.
+
+<span id="page-17-3"></span> <sup>11</sup> Para 7 of th[e 'Master Circular on Basel III Capital Regulations' dated April 01, 2025,](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12815) as amended from time to time, [Master Direction – Reserve Bank of India \(Non-Banking Financial Company – Scale Based Regulation\) Directions,](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550)  2023 [dated October 19, 2023](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12550) (as updated from time to time)[, Master Circular on 'Prudential Norms on Capital Adequacy](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12816)  [- Primary \(Urban\) Co-operative Banks \(UCBs\)' dated April 01, 2025](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12816) as amended from time to time, Circular on ['Operating Guidelines for Small Finance Banks' dated October 06, 2016](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10636&Mode=0) and [Master Direction - Reserve Bank of India](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12538)  [\(Prudential Regulations on Basel III Capital Framework, Exposure Norms, 

@@ -1,0 +1,47 @@
+n of Interest rate Risk" (July 2004) for computing the impact of the interest rate shock on the MVE.
+
+3.2.1 *Method indicated in the BCBS Paper on "Principles for the Management and Supervision of Interest Rate Risk"* 
+
+The following steps are involved in this approach:
+
+- a) The variables such as maturity/re-pricing date, coupon rate, frequency, principal amount for each item of asset/liability (for each category of asset / liability) are generated.
+- b) The longs and shorts in each time band are offset.
+- c) The resulting short and long positions are weighted by a factor that is designed to reflect the sensitivity of the positions in the different time bands to an assumed change in interest rates. These factors are based on an assumed parallel shift of 200 basis points throughout the time spectrum, and on a proxy of modified duration of positions situated at the middle of each time band and yielding 5 per cent.
+- d) The resulting weighted positions are summed up, offsetting longs and shorts, leading to the net short- or long-weighted position.
+- e) The weighted position is seen in relation to capital.
+
+For details banks may refer to the **[Annex 3](#page-187-0) and [4](#page-195-0)** of captioned paper issued by the BCBS[225.](#page-242-0)
+
+### 3.2.2 Other techniques for Interest rate risk measurement
+
+The banks can also follow different versions / variations of the above techniques or entirely different techniques to measure the IRRBB if they find them conceptually sound. In this context, **[Annex 1](#page-184-0) and [2](#page-186-0)** of the BCBS paper referred to above provide broad details of interest rate risk measurement techniques and overview of some of the factors which the supervisory authorities
+
+<span id="page-242-0"></span> <sup>225</sup> Principles for the Management and Supervision of Interest Rate Risk (July 2004).
+
+might consider in obtaining and analysing the information on individual bank's exposures to interest rate risk.
+
+# **4. Suggested approach for measuring the impact of IRRBB on capital**
+
+**4.1** As per Basel II Framework, if the supervisor feels that the bank is not holding capital commensurate with the level of IRRBB, it may either require the bank to reduce the risk or allocate additional capital or a combination of the two.
+
+**4.2** The banks can decide, with the approval of the Board, on the appropriate level of interest rate risk in the banking book which they would like to carry keeping in view their capital level, interest rate management skills and the ability to re-balance the banking book portfolios quickly in case of adverse movement in the interest rates. In any case, a level of interest rate risk which generates a drop in the MVE of more than 20 per cent with an interest rate shock of 200 basis points, will be treated as excessive and such banks would normally be required by the RBI to hold additional capital against IRRBB as determined during the SREP. The banks which have IRRBB exposure equivalent to less than 20 per cent drop in the MVE may also be required to hold additional capital if the level of interest rate risk is considered, by the RBI, to be high in relation to their capital level or the quality of interest rate risk management framework obtaining in the bank. While the banks may on their own decide to hold additional capital towards IRRBB keeping in view the potential drop in their MVE, the IRR management skills and the ability to re-balance the portfolios quickly in case of adverse movement in the interest rates, the amount of exact capital add-on, if considered necessary, will be decided by the RBI as part of the SREP, in consultation with the bank.
+
+# **5. Limit setting**
+
+The banks would be well advised to consider setting the internal limits for controlling their IRRBB. The following are some of the indicative ways for setting the limits:
+
+- a) Internal limits could be fixed in terms of the maximum decline in earnings (as a percentage of the base-scenario income) or decline in capital (as a percentage of the base-scenario capital position) as a result of 200 or 300 basis point interest-rate shock.
+- b) The limits could also be placed in terms of PV01 value (present value of a basis point) of the net position of the bank as a percentage of net worth/capital of the bank.
+
+(cf para 4.4.9.2)
+
+# <span id="page-244-0"></span>**Investments in the Capital of Banking, Financial and Insurance Entities which are Outside the Scope of Regulatory Consolidation**
+
+# (Rs. crore) Paid-up equity capital 300 Eligible Reserve and Surplus 100 **Total common equity 400** Eligible Additional Tier 1 capital 15 **Total Tier 1 capital 415** Eligible Tier 2 capital 135 **Total Eligible capital 550**
+
+### **PART A: Details of Regulatory Capital Structure of a Bank**
+
+# **PART B: Details of Capital Structure and Bank's Investments in Unconsolidated Entities**
+
+
+#### **PART C: Regulatory Adjustments on Account of Investments in Entities where Bank Does not own more than 10% of

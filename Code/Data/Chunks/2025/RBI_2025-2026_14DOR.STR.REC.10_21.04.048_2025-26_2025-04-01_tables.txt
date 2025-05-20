@@ -1,0 +1,422 @@
+| Contents |                                                                                      |          |
+|----------|--------------------------------------------------------------------------------------|----------|
+| Sl       | Particulars                                                                          | Page No  |
+| No       |                                                                                      |          |
+| 1.       | GENERAL                                                                              | 3        |
+| 2.       | NON-PERFORMING ASSETS (NPA)                                                          | 3        |
+|          | 2.1 Classification of assets as Non-Performing                                       | 3        |
+|          | 2.2 Treatment of Accounts as NPAs                                                    | 6        |
+|          | 2.2.1 Record of Recovery                                                             | 6        |
+|          | 2.2.2 Treatment of NPAs – Borrower – wise and not Facility-wise                      | 7        |
+|          | 2.2.3 Agricultural Advances – default in repayment due to natural calamities         | 7        |
+|          | 2.2.4 Housing Loans to staff                                                         | 7        |
+|          | 2.2.5 Credit Facilities guaranteed by Central/ State Government                      | 7        |
+|          | 2.2.6 Project Financing                                                              | 8        |
+|          | 2.2.7 Prudential Guidelines on Restructuring of Advances                             | 8        |
+|          | 2.2.8 Other Advances                                                                 | 13       |
+|          | 2.2.9 Recognition of Income on Investment treated as NPA                             | 13       |
+|          | 2.2.10 NPA Reporting to Reserve Bank                                                 | 13       |
+|          | 2.2.11 Consumer Education                                                            | 13       |
+| 3.       | ASSET CLASSIFICATION                                                                 | 14       |
+|          | 3.1 Classification                                                                   | 14       |
+|          | 3.2 Definitions                                                                      | 14       |
+|          | 3.3 Guidelines for Classification of Assets                                          | 14       |
+|          | 3.3.1 Basic Considerations                                                           | 14       |
+|          | 3.3.2 Advances Granted under Rehabilitation Packages Approved by Term Lending        | 15       |
+|          | Institutions                                                                         |          |
+| 4.       | 3.3.3 Internal System for Classification of Assets as NPAs<br>INCOME RECOGNITION     | 15<br>15 |
+|          | 4.1 Income Recognition – Policy                                                      | 15       |
+|          | 4.2 Reversal of Income on Accounts Becoming NPAs                                     | 16       |
+|          | 4.3 Booking of Income on Investments in Shares & Bonds                               | 16       |
+|          | 4.4 Partial Recovery of NPAs                                                         | 16       |
+|          | 4.5 Interest Application                                                             | 17       |
+| 5.       | PROVISIONING NORMS                                                                   | 17       |
+|          | 5.1 Norms for provisioning on Loans & Advances                                       | 17       |
+|          | 5.2 Provisioning for retirement benefits                                             | 19       |
+|          | 5.3 Provisioning pertaining to Fraud Accounts                                        | 19       |
+|          | 5.4 Guidelines for provisions in specific cases                                      | 20       |
+| 6.       | Transfer of Loan Exposures                                                           | 21       |
+| 7.       | Frequently Asked Questions                                                           | 21       |
+|          | Annex I: Direct Finance to Farmers for Agricultural Purposes                         | 22       |
+|          | Annex 2: Proforma                                                                    | 23       |
+|          | Annex 3: Illustrative Accounting Entries to be passed in respect of Accrued Interest | 25       |
+|          | on both the Performing and NPAs                                                      |          |
+|          | Annex 4: Clarification on certain frequently asked questions                         | 27       |
+|          | Annex 5: Prudential Guidelines on Restructuring - key concepts                       | 30       |
+|          | Annex 6: Prudential Guidelines on Restructuring - report format                      | 32       |
+|          | Annex 7: Prudential Guidelines on Restructuring - illustrations                      | 33       |
+|          | Annex 8: Guidelines on asset classification of projects under implementation         | 35       |
+|          | Annex 9: List of Circulars consolidated                                              | 38       |
+
+| SMA Sub    | Basis for classification                          |
+|------------|---------------------------------------------------|
+| categories | Principal or interest payment or any other amount |
+|            | wholly or partially overdue for                   |
+| SMA-0      | Up to 30 days                                     |
+| SMA-1      | More than 30 days and up to 60 days               |
+| SMA-2      | More than 60 days and up to 90 days               |
+
+| SMA Sub<br>categories | Basis for classification<br>Outstanding balance remains continuously in excess<br>of the sanctioned limit or drawing power, whichever<br>is lower, for a period of |  |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| SMA-1                 | More than 30 days and up to 60 days                                                                                                                                |  |
+| SMA-2                 | More than 60 days and up to 90 days                                                                                                                                |  |
+
+| All UCBs                                                                                 |                          |  |  |  |
+|------------------------------------------------------------------------------------------|--------------------------|--|--|--|
+| Period for which the advance has remained<br>in 'doubtful' category                      | Provision<br>Requirement |  |  |  |
+| Up to one year                                                                           | 20 per cent              |  |  |  |
+| One to three years                                                                       | 30 per cent              |  |  |  |
+| Advances classified as 'doubtful for more than<br>three years' on or after April 1, 2010 | 100 percent              |  |  |  |
+
+| Category of Standard Asset                                                   | Rate of Provisioning |
+|------------------------------------------------------------------------------|----------------------|
+| Direct advances to Agriculture<br>and SME sectors                            | 0.25%                |
+| Commercial Real Estate (CRE)<br>sector                                       | 1.00%                |
+| Commercial<br>Real<br>Estate<br>Residential<br>Housing<br>Sector<br>(CRE-RH) | 0.75%                |
+| All other loans and advances not<br>included above                           | 0.40%                |
+
+| Example                         |                   |  |  |  |
+|---------------------------------|-------------------|--|--|--|
+| Outstanding Balance             | ₹4 lakhs          |  |  |  |
+| ECGC Cover                      | 50 per cent       |  |  |  |
+| Period for which the advance    | More than 3 years |  |  |  |
+| has remained doubtful           |                   |  |  |  |
+| Value<br>of<br>security<br>held | ₹1.50 lakhs       |  |  |  |
+| (excludes worth of borrower /   |                   |  |  |  |
+| guarantor)                      |                   |  |  |  |
+
+| Provision required to be made    |                                 |  |  |  |  |  |  |
+|----------------------------------|---------------------------------|--|--|--|--|--|--|
+| Outstanding balance              | ₹4.00 lakhs                     |  |  |  |  |  |  |
+| Less : Value of security held    | ₹1.50 lakhs                     |  |  |  |  |  |  |
+| Unrealised balance               | ₹2.50 lakhs                     |  |  |  |  |  |  |
+| Less : ECGC Cover (50% of        | ₹1.25 lakhs                     |  |  |  |  |  |  |
+| unrealisable balance)            |                                 |  |  |  |  |  |  |
+| Net unsecured balance            | ₹1.25 lakhs                     |  |  |  |  |  |  |
+| Provision for unsecured portion  | ₹1.25 lakhs (@ 100 per cent of  |  |  |  |  |  |  |
+| of advance                       | unsecured portion)              |  |  |  |  |  |  |
+| Provision for secured portion of | ₹0.90 lakhs (@ 60 per cent of   |  |  |  |  |  |  |
+| advance (as on March 31 2005)    | secured portion of ₹1.50 lakh). |  |  |  |  |  |  |
+| Total provision required to be   | ₹2.15 lakhs (as on March 31,    |  |  |  |  |  |  |
+| made                             | 2005).                          |  |  |  |  |  |  |
+
+| Classification<br>of<br>Assets<br>against Non-Performing Assets as on March 31, _______ |                      |                    |                       |                                   | and                                                               | Provisioning |                                                         |                                                                            | made                                                                  |                                                                         |                 |   |             |
+|-----------------------------------------------------------------------------------------|----------------------|--------------------|-----------------------|-----------------------------------|-------------------------------------------------------------------|--------------|---------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------|---|-------------|
+|                                                                                         |                      |                    |                       |                                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   | (₹ in lakh) |
+| Classification of<br>Assets                                                             |                      |                    | No.<br>of<br>A/C<br>s | Amou<br>nt<br>Outst<br>a<br>nding | Percenta<br>ge of<br>Col.3 to<br>total<br>loan<br>outsta<br>nding |              | Provisi<br>on<br>require<br>d to be<br>made %<br>Amount | Existin<br>g<br>provisi<br>on at<br>the<br>begin<br>ning of<br>the<br>year | Provisio<br>n<br>ing<br>made<br>during<br>the year<br>under<br>report | Total<br>provi<br>s<br>ions<br>as at<br>the<br>end<br>of<br>the<br>year | Re<br>mark<br>s |   |             |
+|                                                                                         |                      |                    | 1                     |                                   | 2                                                                 | 3            | 4                                                       | 5                                                                          | 6                                                                     | 7                                                                       | 8               | 9 | 10          |
+| Total                                                                                   |                      |                    | loans                 | and                               |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         | advances<br>Of which |                    |                       |                                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+| A.                                                                                      |                      |                    |                       | Standard Assets                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+| B.                                                                                      |                      |                    |                       | Non-performing                    |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      | Assets             |                       |                                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         | 1.                   |                    |                       | Sub-standard                      |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         | 2.                   | Doubtful           |                       |                                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      | i)                 | a)                    | Upto 1 year<br>Secured            |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    | b)                    | Unsecure                          |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | d                                 |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      | ii)                |                       | Above 1 year                      |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    | &                     | upto<br>3                         |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | years                             |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    | a)<br>b)              | Secured<br>Unsecure               |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | d                                 |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      | iii)<br>Above<br>3 |                       |                                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | years                             |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | Secured                           |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    | a)                    | Outstandi<br>ng<br>stock          |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | of<br>NPAs                        |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | as<br>on                          |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | March 31,<br>….                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    | b)                    | Advance                           |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | s                                 |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | classified                        |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | as<br>'doubtful                   |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+|                                                                                         |                      |                    |                       | more                              |                                                                   |              |                                                         |                                                                            |                                                                       |                                                                         |                 |   |             |
+
+|                                                                                                       |                                        |        |    | than<br>3<br>years' on<br>or<br>after<br>April<br>1, |  |  |  |  |  |  |  |  |
+|-------------------------------------------------------------------------------------------------------|----------------------------------------|--------|----|------------------------------------------------------|--|--|--|--|--|--|--|--|
+|                                                                                                       |                                        |        |    | _______                                              |  |  |  |  |  |  |  |  |
+|                                                                                                       |                                        |        | b) | Unsecure<br>d                                        |  |  |  |  |  |  |  |  |
+|                                                                                                       | Total<br>doubtful<br>assets (i+ii+iii) |        |    |                                                      |  |  |  |  |  |  |  |  |
+|                                                                                                       |                                        | a<br>) |    | Secured                                              |  |  |  |  |  |  |  |  |
+|                                                                                                       |                                        | b<br>) |    | Unsecured                                            |  |  |  |  |  |  |  |  |
+|                                                                                                       | 3.                                     |        |    | Loss Assets                                          |  |  |  |  |  |  |  |  |
+| Gross NPAs (B1 + B2 +                                                                                 |                                        |        |    |                                                      |  |  |  |  |  |  |  |  |
+|                                                                                                       | B3)                                    |        |    |                                                      |  |  |  |  |  |  |  |  |
+| Note : Please indicate the manner in which the provision (item 8) has been made / proposed to be made |                                        |        |    |                                                      |  |  |  |  |  |  |  |  |
+|                                                                                                       | out of the profit of the current year. |        |    |                                                      |  |  |  |  |  |  |  |  |
+
+|     |                                                                                         |      | (₹ in lakh) |  |  |  |  |  |
+|-----|-----------------------------------------------------------------------------------------|------|-------------|--|--|--|--|--|
+| Sr. | Particulars<br>Current                                                                  |      |             |  |  |  |  |  |
+| No. |                                                                                         | Year | Year        |  |  |  |  |  |
+| 1.  | Gross Advances                                                                          |      |             |  |  |  |  |  |
+| 2.  | Gross NPAs                                                                              |      |             |  |  |  |  |  |
+| 3.  | Gross NPAs as percentage to Gross Advances                                              |      |             |  |  |  |  |  |
+| 4.  | Deductions                                                                              |      |             |  |  |  |  |  |
+|     | -<br>Balance in interest suspense account / OIR*                                        |      |             |  |  |  |  |  |
+|     | -<br>DICGC / ECGC claims received and held pending adjustment                           |      |             |  |  |  |  |  |
+|     | -<br>Part payment of NPA accounts received and kept in suspense                         |      |             |  |  |  |  |  |
+|     | account                                                                                 |      |             |  |  |  |  |  |
+|     | Total Deductions                                                                        |      |             |  |  |  |  |  |
+| 5.  | Total NPA provisions held (BDDR*<br>or any other head of account* /                     |      |             |  |  |  |  |  |
+|     | provisions for NPA8)                                                                    |      |             |  |  |  |  |  |
+|     |                                                                                         |      |             |  |  |  |  |  |
+|     | * Provisions created above the line i.e. by charging as an expense to the Profit and    |      |             |  |  |  |  |  |
+|     | Loss account.                                                                           |      |             |  |  |  |  |  |
+| 6.  | Net Advances (1-4-5)                                                                    |      |             |  |  |  |  |  |
+| 7.  | Net NPAs (2-4-5)                                                                        |      |             |  |  |  |  |  |
+| 8.  | Net NPAs as percentage of Net Advances                                                  |      |             |  |  |  |  |  |
+|     | * i.e. accrued interest on NPA accounts if included (capitalised) in loans and advances |      |             |  |  |  |  |  |
+
+| (Dr)<br>Borrower's<br>account<br>(CC, OD loan) | ₹10,000.00 |
+|------------------------------------------------|------------|
+| (Cr) Interest account                          | ₹10,000.00 |
+
+|      | (Dr) P&La/c)    | ₹10,000.00 |
+|------|-----------------|------------|
+| (Cr) | Overdue         | ₹10,000.00 |
+|      | Reserve Account |            |
+
+| (Dr) Cash / Bank account      | ₹10,000.00 |  |  |  |
+|-------------------------------|------------|--|--|--|
+| (Cr)<br>Borrower's<br>Account | ₹10,000.00 |  |  |  |
+| (CC, OD, Loan)                |            |  |  |  |
+| (Dr)<br>Overdue<br>Interest   | ₹10,000.00 |  |  |  |
+| Reserve Account               |            |  |  |  |
+| (Cr) Interest account         | ₹10,000.00 |  |  |  |
+
+| (Dr)    | Interest        | Receivable | ₹20,000.00 |
+|---------|-----------------|------------|------------|
+| Account |                 |            |            |
+| (Cr)    | Overdue         | Interest   | ₹20,000.00 |
+|         | Reserve Account |            |            |
+
+| (Dr) Cash / Bank Account |                 |          | ₹20,000.00 |
+|--------------------------|-----------------|----------|------------|
+| (Cr) Interest account    |                 |          | ₹20,000.00 |
+| (Dr)                     | Overdue         | Interest | ₹20,000.00 |
+|                          | Reserve Account |          |            |
+
+|         | (Cr) Interest Receivable | ₹20,000.00 |
+|---------|--------------------------|------------|
+| Account |                          |            |
+
+| Particulars of Accounts Restructured |                    |                  |                           |             |  |
+|--------------------------------------|--------------------|------------------|---------------------------|-------------|--|
+|                                      |                    |                  |                           | (₹ in lakh) |  |
+|                                      |                    | Housing<br>Loans | SME Debt<br>Restructuring | Others      |  |
+| Standard                             | No. of Borrowers   |                  |                           |             |  |
+| advances                             | Amount             |                  |                           |             |  |
+| restructured                         | outstanding        |                  |                           |             |  |
+|                                      | Sacrifice          |                  |                           |             |  |
+|                                      | (diminution in the |                  |                           |             |  |
+|                                      | fair value)        |                  |                           |             |  |
+| Sub<br>standard                      | No. of Borrowers   |                  |                           |             |  |
+| advances                             | Amount             |                  |                           |             |  |
+| restructured                         | outstanding        |                  |                           |             |  |
+|                                      | Sacrifice          |                  |                           |             |  |
+|                                      | (diminution in the |                  |                           |             |  |
+|                                      | fair value)        |                  |                           |             |  |
+| Doubtful                             | No. of Borrowers   |                  |                           |             |  |
+| advances                             | Amount             |                  |                           |             |  |
+| restructured                         | outstanding        |                  |                           |             |  |
+|                                      | Sacrifice          |                  |                           |             |  |
+|                                      | (diminution in the |                  |                           |             |  |
+|                                      | fair value)        |                  |                           |             |  |
+| Total                                | No. of Borrowers   |                  |                           |             |  |
+|                                      | Amount             |                  |                           |             |  |
+|                                      | outstanding        |                  |                           |             |  |
+|                                      | Sacrifice          |                  |                           |             |  |
+|                                      | (diminution in the |                  |                           |             |  |
+|                                      | fair value)        |                  |                           |             |  |
+| Application<br>for                   | No. of borrowers   |                  |                           |             |  |
+| restructuring                        | Amount             |                  |                           |             |  |
+| which are under                      | outstanding        |                  |                           |             |  |
+| process, package                     |                    |                  |                           |             |  |
+| not approved                         |                    |                  |                           |             |  |
+
+|             | Asset Classification of Restructured Accounts under the Guidelines |             |                                                               |                        |                                 |                     |                                |
+|-------------|--------------------------------------------------------------------|-------------|---------------------------------------------------------------|------------------------|---------------------------------|---------------------|--------------------------------|
+| Particulars |                                                                    |             |                                                               | Case 1                 | Case 2                          | Case 3              | Case 4                         |
+| I.          | Assumed due date of payment                                        |             | 31.01.2007                                                    | 31.01.2007             |                                 |                     |                                |
+|             | Assumed date of restructuring                                      |             | 31.03.2007                                                    | 31.03.2007             | 31.03.2007                      | 31.03.2007          |                                |
+|             | Period of delinquency as on the                                    |             | 2 months                                                      | 2 months               | 18 months                       | 18 months           |                                |
+|             | date of restructuring                                              |             |                                                               |                        |                                 |                     |                                |
+|             | Asset Classification (AC) before                                   |             | 'Standard'                                                    | 'Standard'             | 'Doubtful -                     | 'Doubtful<br>-      |                                |
+|             | restructuring                                                      |             |                                                               |                        | less<br>than                    | less<br>than        |                                |
+|             |                                                                    |             |                                                               |                        |                                 | one year'           | one year'                      |
+|             |                                                                    | Date of NPA |                                                               | NA                     | NA                              | 31.12.05            | 31.12.05                       |
+|             |                                                                    |             |                                                               |                        |                                 | (Assumed)           | (Assumed)                      |
+| II.         |                                                                    |             | Asset Classification (AC) on Restructuring                    |                        |                                 |                     |                                |
+|             | Assumed status of the borrower                                     |             | Eligible<br>for                                               | Not eligible for       | Eligible for                    | Not<br>eligible     |                                |
+|             |                                                                    |             | special                                                       | special                | special                         | for<br>special      |                                |
+|             |                                                                    |             |                                                               | regulatory             | regulatory                      | regulatory          | regulatory                     |
+|             |                                                                    |             |                                                               | treatment              | treatment                       | treatment           | treatment                      |
+|             |                                                                    |             | AC after restructuring                                        | 'Standard'             | Downgraded                      | 'Doubtful -         | 'Doubtful<br>-                 |
+|             |                                                                    |             |                                                               |                        | to                              | less<br>than        | less<br>than                   |
+|             |                                                                    |             |                                                               |                        | 'Substandard'                   | one year'           | one year'                      |
+|             |                                                                    |             |                                                               |                        | w.e.f 31.03.07                  |                     |                                |
+|             |                                                                    |             |                                                               |                        | (i.e.,<br>on<br>the             |                     |                                |
+|             |                                                                    |             |                                                               |                        | date<br>of                      |                     |                                |
+|             |                                                                    |             |                                                               |                        | restructuring)                  |                     |                                |
+|             |                                                                    | Assumed     | first<br>payment<br>due                                       | 31.12.07               | 31.12.07                        | 31.12.07            | 31.12.07                       |
+|             |                                                                    |             | under the revised terms                                       |                        |                                 |                     |                                |
+| III.        |                                                                    |             | Asset Classification after Restructuring                      |                        |                                 |                     |                                |
+|             | A.                                                                 |             | The account performs satisfactorily as per restructured terms |                        |                                 |                     |                                |
+|             |                                                                    | (a)         | AC<br>during<br>the<br>specified<br>one<br>year               | No<br>change<br>(i.e., | 'Doubtful<br>-<br>less than one | No change<br>(i.e., | 'Doubtful<br>-<br>one to three |
+|             |                                                                    |             | period<br>(i.e.,<br>from                                      | remains                | year'<br>w.e.f.                 | remains             | years' w.e.f.                  |
+|             |                                                                    |             | 31.12.07 to 31.12.08)                                         | 'Standard')            | 31.03.08 (i.e.                  | 'Doubtful -         | 31.12.07                       |
+|             |                                                                    |             |                                                               |                        | one year after                  | less<br>than        | (i.e.,<br>one                  |
+|             |                                                                    |             |                                                               |                        | classification                  | one year')          | year<br>after                  |
+|             |                                                                    |             |                                                               |                        | as                              |                     | classification                 |
+|             |                                                                    |             |                                                               | 'Substandard')         |                                 | as 'Doubtful        |                                |
+|             |                                                                    |             |                                                               |                        |                                 | less<br>than        |                                |
+|             |                                                                    |             |                                                               |                        |                                 | one year')          |                                |
+|             |                                                                    | (b)         | AC after the specified                                        | Continues in           | Upgraded<br>to                  | Upgraded            | Upgraded to                    |
+|             |                                                                    |             | one year period                                               | 'Standard'             | 'Standard'                      | to                  | 'Standard'                     |
+|             |                                                                    |             |                                                               | category               | category                        | 'Standard'          | category                       |
+|             |                                                                    |             |                                                               |                        | category                        |                     |                                |
+|             | B.                                                                 |             | If performance not satisfactory vis-a-vis restructured terms  |                        |                                 |                     |                                |
+|             | (a)<br>AC<br>during<br>the                                         |             | Treated<br>as                                                 | 'Doubtful<br>-         | 'Doubtful                       | 'Doubtful<br>-      |                                |
+|             |                                                                    |             | specified<br>one<br>year                                      | substandard            | less than one                   | one<br>to           | one to three                   |
+|             |                                                                    |             | period (in case the                                           | w.e.f                  | year'<br>w.e.f.                 | three               | years' w.e.f.                  |
+|             |                                                                    |             | unsatisfactory                                                | 30.4.2007              | 31.03.08 (i.e.                  | years'              | 31.12.07                       |
+|             |                                                                    |             | performance<br>is                                             | and                    | one year after                  | w.e.f.              | (i.e.,<br>one                  |
+|             |                                                                    |             | established<br>before                                         | downgraded             | classification                  | 31.12.07            | year<br>after                  |
+|             |                                                                    |             | completion of one year                                        | to 'Doubtful           |                                 |                     | classification                 |
+|             |                                                                    |             | period)                                                       | less<br>than           |                                 |                     | as 'Doubtful                   |
+
+|     |                                                                                                 | one<br>year'<br>with<br>effect<br>from<br>30.04.08.                                                                                                      |                                                                                                                                                          |                                                                                         | less<br>than<br>one year' (on<br>31.12.06)                                                       |
+|-----|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| (b) | AC after the specified<br>one year period, if the<br>unsatisfactory<br>performance<br>continues | Will migrate<br>to 'Doubtful -<br>one to three<br>years' w.e.f.<br>30.04.09<br>and<br>'Doubtful<br>more<br>than<br>three years'<br>w.e.f.<br>30.04.2011. | Will migrate to<br>'Doubtful - one<br>to three years'<br>w.e.f.<br>31.03.09 and<br>'Doubtful<br>more<br>than<br>three<br>years'<br>w.e.f.<br>31.03.2011. | Will<br>migrate to<br>'Doubtful -<br>more than<br>three<br>years'<br>w.e.f.<br>31.12.09 | Will migrate<br>further<br>to<br>'Doubtful<br>more<br>than<br>three years'<br>w.e.f.<br>31.12.09 |
+
+| Until two years from the original | 0.40% |  |  |
+|-----------------------------------|-------|--|--|
+| DCCO                              |       |  |  |
+| During the third and the fourth   | 1.00% |  |  |
+| years after the original DCCO.    |       |  |  |
+
+| Until the first six months from the | 0.40% |
+|-------------------------------------|-------|
+| original DCCO                       |       |
+| During the next six months          | 1.00% |
+
+| Sr.       | Circular No.                                             | Date       | Subject                                                                                                                                                   |
+|-----------|----------------------------------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| No.<br>1. | DOR.STR.REC.12/21.04.048/2023-24                         | 24-04-2023 | Provisioining for Standard Assets by primary<br>(Urban) Co-operative banks- revised norms<br>under four-tiered regulatory framework                       |
+| 2.        | DOR.STR.REC.67/21.06.201/2022-23                         | 07.09.2022 | Review of Prudential Norms – Risk Weights<br>for<br>Exposures<br>guaranteed<br>by<br>Credit<br>Guarantee Schemes (CGS)                                    |
+| 3.        | DOR.STR.REC.85/21.04.048/2021-22                         | 15.02.2022 | Prudential norms on Income Recognition,<br>Asset<br>Classification<br>and<br>Provisioning<br>pertaining to Advances – Clarifications                      |
+| 4.        | DOR.STR.REC.68/21.04.048/2021-22                         | 12.11.2021 | Prudential norms on Income Recognition,<br>Asset<br>Classification<br>and<br>Provisioning<br>pertaining to Advances - Clarifications                      |
+| 5.        | DOR.(PCB).BPD.Cir.No.11/16.20.000/<br>2019-20            | 20.08.2020 | Provisioning<br>on<br>interbank<br>exposure<br>of<br>Primary (Urban) Co-operative Banks (UCBs)<br>under All Inclusive Directions                          |
+| 6.        | DoR (PCB). BPD. Cir.<br>No.1/13.05.001/2020-21           | 12.08.2020 | System-based asset classification - UCBs                                                                                                                  |
+| 7.        | DOR<br>(PCB).BPD.Cir.No.7/13.05.000/2019-<br>20          | 27.12.2019 | Reporting of Large Exposures to Central<br>Repository of Information on Large Credits<br>(CRILC) - UCBs                                                   |
+| 8.        | DBR.No.BP.BC.30/21.04.048/2015-16                        | 16.07.2015 | Prudential Norms on Income Recognition,<br>Asset<br>Classification<br>and<br>Provisioning<br>pertaining<br>to<br>Advances<br>–<br>Credit Card<br>Accounts |
+| 9.        | DCBR.BPD.(PCB/RCB).Cir.No.35/12.0<br>5.001/2014-15       | 14.05.2015 | Provisioning pertaining to Fraud Accounts                                                                                                                 |
+| 10.       | UBD BPD(PCB) Cir No. 45/13.05.000/<br>2013-14            | 28.01.2014 | Housing Sector: New Sub-Sector CRE<br>Residential Housing (CRE-RH) Segment<br>within CRE Sector & Rationalisation of<br>Provisioning and Risk Weight      |
+| 11.       | UBD.<br>BPD<br>PCB<br>Cir<br>No.<br>37/09.22.010/2013-14 | 14.11.2013 | Advances<br>guaranteed<br>by<br>Credit<br>Risk<br>Guarantee Fund Trust for Low Income<br>Housing (CRGFTLIH) – Risk Weights and<br>Provisioning            |
+| 12.       | UBD.BPD.(PCB).CIR.No.49/09.14.000<br>/2010-11            | 24.05.2011 | Enhancement in Gratuity Limits - Prudential<br>Regulatory Treatment                                                                                       |
+| 13.       | UBD.BPD.Cir.No.59/09.14.000/2009-<br>10                  | 23.04.2010 | IRAC<br>norms<br>for<br>Projects<br>under<br>implementation                                                                                               |
+| 14.       | UBD.BPD.Cir.No.29/09.11.600/2009-<br>10                  | 08.12.2009 | Review of Monetary Policy - Provisioning<br>requirement                                                                                                   |
+| 15.       | UBD.CO.LS.Cir.No.66/07.01.000/2008<br>-09                | 06.05.2009 | Annual<br>Policy<br>Statement<br>for<br>2009-10-<br>Extension<br>of<br>area<br>of<br>operation<br>-<br>Liberalisation                                     |
+| 16.       | UBD.PCB.BPD.53/13.05.000/2008-09                         | 06.03.2009 | Prudential Guidelines on Restructuring of<br>Advances                                                                                                     |
+| 17.       | UBD.PCB.Cir.No.29/09.11.600/2008-<br>09                  | 01.12.2008 | Provisioning for Standard Assets and Risk<br>Weights for exposures                                                                                        |
+| 18.       | UBD.PCB.Cir.No.47/09.11.600/07-08                        | 26.05.2008 | Provisioning<br>Requirement<br>for<br>Standard<br>Assets                                                                                                  |
+
+| 19. | UBD.PCB.Cir.No.38/09.14.000/2007-         | 02.04.2008 | Income Recognition, Asset Classification &                                                   |
+|-----|-------------------------------------------|------------|----------------------------------------------------------------------------------------------|
+| 20. | 08<br>UBD.(PCB).Cir.No.35/09.20.001/07-08 | 07.03.2008 | Provisioning Norms<br>Classification<br>of<br>UCBs<br>for<br>Regulatory                      |
+|     |                                           |            | Purposes                                                                                     |
+| 21. | UBD.PCB.Cir.No.38/9.14.000/06-07          | 30.04.2007 | Annual Policy Statement for the year 2007-                                                   |
+|     |                                           |            | 08-Income recognition, asset classification                                                  |
+|     |                                           |            | and provisioning norms                                                                       |
+| 22. | UBD.PCB.Cir.No.30/9.11.600/06-07          | 19.02.2007 | 3rdQuarter Review of Annual Statement on                                                     |
+|     |                                           |            | Monetary Policy for 2006-07-Provisioning for<br>Standard Assets                              |
+| 23. | UBD.PCB.Cir.57/09.11.600/05-06            | 15.06.2006 | Annual Policy Statement for the Year 2006-                                                   |
+|     |                                           |            | 07-additional provisioning requirements for                                                  |
+|     |                                           |            | standard assets.                                                                             |
+| 24. | UBD.PCB.Cir.20/09.11.600/05-06            | 24.11.2005 | Mid<br>Term<br>Review<br>of<br>Annual<br>Policy                                              |
+|     |                                           |            | Statement for the year 2005-06-additional                                                    |
+|     |                                           |            | provisioning for standard assets                                                             |
+| 25. | UBD.PCB.Cir.1/09.140.00/05-06             | 04.07.2005 | Income recognition and asset classification<br>norms                                         |
+| 26. | UBD.PCB.Cir.42/09.140.00/04-05            | 30.03.2005 | Prudential Norm- IRAC and other related                                                      |
+|     |                                           |            | matters-procedure for accounting of accrued                                                  |
+|     |                                           |            | interest                                                                                     |
+| 27. | UBD.PCB.Cir.26/09.140.00/04-05            | 01.11.2004 | Prudential Norms-State Govt Guaranteed                                                       |
+|     |                                           |            | Exposures.                                                                                   |
+| 28. | UBD.PCB.Cir.21/12.05.05/04-05             | 27.09.2004 | Annual Policy Statement for the Year 2004-<br>05 additional provisioning requirements for    |
+|     |                                           |            | NPAs.                                                                                        |
+| 29. | UBD.PCB.cir.22/12.05.05/04-05             | 27.09.2004 | Income<br>recognition,<br>asset<br>classification,                                           |
+|     |                                           |            | provisioning-26adoption of 90 days norms                                                     |
+| 30. | UBD.PCB.Cir.17/13.04.00/04-05             | 04.09.2004 | Income<br>recognition,<br>asset<br>classification,                                           |
+|     |                                           |            | provisioning-adoption of 90 days norms                                                       |
+| 31. | UBD.PCB.Cir.9/13.04.00/04-05              | 04.08.2004 | Income<br>recognition,<br>asset<br>classification,<br>provisioning-adoption of 90 days norms |
+| 32. | UBD.PCB.Cir.No.55/12.05.05/               | 30.06.2004 | Annual Policy Statement for the year 2004-                                                   |
+|     |                                           |            | 05. Additional Provisioning requirement for                                                  |
+|     |                                           |            | NPAs.                                                                                        |
+| 33. | UBD.PCB.Cir.No.53/13.05.03/               | 30.06.2004 | Annual Policy Statement for the year 2004-                                                   |
+|     |                                           |            | 05.<br>Prudential<br>Norms<br>for<br>Agricultural<br>Advances                                |
+| 34. | UBD.PCB.No.49/12.05.03/2003-04            | 01.06.2004 | Income<br>recognition,<br>asset<br>classification,                                           |
+|     |                                           |            | provisioning norms                                                                           |
+| 35. | UBD.CIR.48/13.04.00/2002-03               | 22.05.2003 | IRAC - 90 days norm for recognition of loan                                                  |
+|     |                                           |            | impairment - exemptions                                                                      |
+| 36. | UBD.BSD-I.No.15/12.05.05/2002-03          | 11.09.2002 | Income<br>recognition,<br>asset<br>classification,                                           |
+|     |                                           |            | provisioning and other related matters                                                       |
+| 37. | UBD.BSD.I.15/12.05.05/2002-03             | 11.09.2002 | Income<br>recognition,<br>asset<br>classification,<br>provisioning - 12 months norms         |
+| 38. | UBD.BSD.I.PCB.No.44/12.05.05/             | 21.05.2002 | Classification of Agricultural Advances                                                      |
+| 39. | UBD.BSD.I.PCB.22/12.05.05/2001-02         | 12.11.2001 | Treatment of restructured accounts                                                           |
+| 40. | UBD.No.BSD.I.PCB13/12.05.05/2001-         | 06.10.2001 | Divergence<br>in<br>asset<br>classification<br>and                                           |
+|     | 02                                        |            | provisioning                                                                                 |
+| 41. | UBD.No.BSD.I.PCB.12/12.05.05/01-02        | .5.10.2001 | Income Recognition and asset classification                                                  |
+|     |                                           |            | - Adoption of 90 days norm                                                                   |
+| 42. | UBD.No.BSD.I.16/12.05.05/2000-2001        | 8.12.2000  | Income Recognition and asset classification,<br>provisioning and related matters - "Past     |
+|     |                                           |            | Due" concept.                                                                                |
+
+| 43. | UBD.No.BSD.I.PCB/14/12.05.05/      | 20.11.2000 | Income recognition, Asset Classification and<br>Provisioning                           |
+|-----|------------------------------------|------------|----------------------------------------------------------------------------------------|
+| 44. | UBD.CO.BSD-I.PCB.34/12.05.05/99-   | 24.05.2000 | Income Recognition, Asset Classification,                                              |
+|     | 2000                               |            | Provisioning and Valuation of Investments                                              |
+| 45. | UBD.No.BSD.PCB./25/12.05.05/99-00  | 28.02.2000 | Income Recognition, Asset Classification,                                              |
+|     |                                    |            | Provisioning and other related matters                                                 |
+| 46. | UBD.No.BSD.I/22/12.05.00/99-2000   | 08.02.2000 | IRAC - Agricultural loans affected by natural                                          |
+|     |                                    |            | calamities                                                                             |
+| 47. | UBD.No.BSD.I/11/12.05.00/1999-2000 | 12.10.1999 | Clarification on classification of gold loans                                          |
+|     |                                    |            | into Non-performing Assets                                                             |
+| 48. | UBD.No.BSD.I/2/12.05.05/1999-2000  | 28.07.1999 | Income Recognition, 45Asset Classification                                             |
+|     |                                    |            | and<br>Provisioning<br>-<br>Concept<br>of                                              |
+|     |                                    |            | Commencement of Commercial Production                                                  |
+| 49. | UBD.No.BSD-I.29/12.05.05/98-99     | 23.04.1999 | Income recognition asset classification and                                            |
+|     |                                    |            | other related matters                                                                  |
+| 50. | UBD.No.BSD-I.2/12.05.01/98-99      | 17.07.1998 | Prudential norms for Income Recognition,                                               |
+|     |                                    |            | Asset<br>classification<br>and<br>provisioning<br>-                                    |
+|     |                                    |            | Agricultural Advances                                                                  |
+| 51. | UBD.No.I&L.(PCBs)42/12.05.00/      | 20.03.1997 | Prudential norms -<br>Income Recognition,                                              |
+|     |                                    |            | Asset Classification, Provisioning and other                                           |
+|     |                                    |            | related matters.                                                                       |
+| 52. | UBD.No.I&L.(PCBs)68/12.05.00/      | 10.06.1996 | Income Recognition, assets classification,                                             |
+|     |                                    |            | provisioning<br>and<br>other<br>related<br>matters                                     |
+|     |                                    |            | Clarifications                                                                         |
+| 53. | UBD.No.I&L.(PCB)61/12.05.00/94-95  | 06.06.1995 | Income<br>recognition,<br>asset<br>classification,                                     |
+|     |                                    |            | provisioning<br>and<br>other<br>related<br>matters                                     |
+|     |                                    |            | Valuation of investment and others                                                     |
+| 54. | UBD.No.I&L(PCB)46/12.05.00/94-95   | 28.02.1995 | IRAC and other related matters - Procedure                                             |
+|     |                                    |            | for accounting accrued interest                                                        |
+| 55. | UBD.I&L(PCB)37/12.05.00/94-95      | 09.01.1995 | Income recognition, assets classification,                                             |
+|     |                                    |            | provisioning and other related matters                                                 |
+| 56. | UBD.No.I&L.86/12.05.00/93-94       | 28.06.1994 | IRAC, provisioning and other related matters                                           |
+| 57. | UBD.No.I&L.63/12.05.00/93-94       | 01.03.1994 | Income recognition, assets classification,                                             |
+| 58. | UBD.No.48/12.05.00/93-94           | 14.01.1994 | provisioning and other related matters<br>IRAC, provisioning and other related matters |
+| 59. | UBD.No.45/12.05.00/93-94           | 24.12.1993 | IRAC and other related matters clarification                                           |
+|     |                                    |            | regarding<br>credit<br>facilities<br>backed<br>by                                      |
+|     |                                    |            | Government Guarantees                                                                  |
+| 60. | UBD.I&L.71/J.1/92-93               | 17.06.1993 | IRAC, Povisioning and other related matters                                            |
+|     |                                    |            | - clarification                                                                        |
+| 61. | UBD.No.I&L.63J-I/92-93             | 16.04.1993 | IRAC, provisioning and other related matters                                           |
+| 62. | UBD.No.I&L.38/J.1-92/93            | 09.02.1993 | IRAC, provisioning and other related matters                                           |
+| 63. | UBD.No.I&L 51/J.1-90/91            | 23.02.1991 | Classification of Non-Performing Loans                                                 |
+
+| No. | Circular No.                               | Date       | Subject                                    |
+|-----|--------------------------------------------|------------|--------------------------------------------|
+| 1.  | UBD.No.DS.PCB.Cir.3/13.04.00/2002-03       | 20.07.2002 | Charging of interest at monthly rests      |
+| 2.  | UBD.No.POT.PCB.CIR.No.45/09.116.00/2000-01 | 25.04.2001 | Application of CRAR Norms to PCBs          |
+| 3.  | UBD.No.DS.PCB.20/13.04.00/97-98            | 10.11.1997 | Compounding of Interest on Agri<br>Advance |

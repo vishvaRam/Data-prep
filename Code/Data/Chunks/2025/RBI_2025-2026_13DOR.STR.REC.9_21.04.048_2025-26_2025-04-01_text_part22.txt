@@ -1,0 +1,25 @@
+ of satisfactory performance, the credit facilities of the borrower shall also be rated as investment grade<sup>20</sup> (BBB- or better), at the time of upgrade, by CRAs accredited by the Reserve Bank for the purpose of bank loan ratings. While accounts with aggregate exposure of ₹500 crores and above shall require two ratings, those below ₹500 crores shall require one rating. If the ratings are obtained from more than the required number of CRAs, all such ratings shall be investment grade for the account to qualify for an upgrade.
+
+17.2.2.3 If the borrower fails to demonstrate satisfactory performance during the monitoring period, asset classification upgrade shall be subject to implementation of a fresh restructuring/ change in ownership under Parts B1 and B2 of this Master Circular or under IBC. Lenders shall make an additional provision of 15% for such accounts at the end of the Review Period. This additional provision, along with other additional provisions, may be reversed as per the norms laid down at Paragraph 11.5.
+
+17.2.2.4 Provisions held on restructured assets may be reversed when the accounts are upgraded to standard category.
+
+17.2.2.5 Any default by the borrower in any of the credit facilities with any of the lenders (including any lender where the borrower is not in **"specified period"**) subsequent to upgrade in asset classification as above but before the end of the specified period, will require a fresh RP to be implemented within the above timelines as any default would entail. However, lenders shall make an additional provision of 15% for such accounts at the end of the Review Period.
+
+<sup>18</sup> Satisfactory performance means that the borrower entity is not in default at any point of time during the period concerned. <sup>19</sup> Outstanding principal debt shall include all credit facilities, including debt/debt like instruments (viz., non-convertible debentures, optionally convertible debentures, optionally convertible preference shares, non-convertible preference shares etc.) that exist post implementation of the RP. Only equity and instruments compulsorily convertible into equity (without any embedded optionality) shall be exempt from determining outstanding principal debt.
+
+<sup>20</sup> These ratings shall be the normal ratings provided by the CRAs and not ICEs referred to in paragraph 10.1 of this Master Circular.
+
+This additional provision, along with other additional provisions, may be reversed as per the norms laid down at Paragraph 11.5 of this Master Circular.
+
+*"Specified period" means the period from the date of implementation of RP<sup>21</sup> up to the date by which at least 20 per cent of the sum of outstanding principal debt as per the RP and interest capitalisation sanctioned as part of the restructuring, if any, is repaid.*
+
+## 18. Provisioning Norms<sup>22</sup>
+
+18.1 Accounts restructured under the revised framework shall attract provisioning as per the asset classification category as laid out in part A of this Master Circular.
+
+18.2 In respect of accounts of debtors where a final RP, as approved by the Committee of Creditors, has been submitted by the Resolution Professional for approval of the Adjudicating Authority (in terms of section 30(6) of the IBC), lenders may keep the provisions held as on the date of such submission of RP frozen for a period of six months from the date of submission of the plan or up to 90 days from the date of approval of the resolution plan by the Adjudicating Authority in terms of section 31 (1) of the IBC, whichever is earlier.
+
+18.3 The above facility of freezing the quantum of the provision shall be available only in cases where the provisioning held by the lenders as on the date of submission of the plan for approval of the Adjudicating Authority is more than the expected provisioning required to be held in the normal course upon implementation of the approved resolution plan, taking into account the contours of the resolution plan approved by Committee of Creditors/ Adjudicating Authority, as the case may be, and extant prudential norms. However, lenders shall not reverse the excess provisions held as on the date of submission of the resolution plan for approval of the Adjudicating Authority at this stage. In cases where the provisioning held is lower than the expected required provisioning, lenders shall make additional provisioning to the extent of the shortfall. Subsequent to the lapse of above mentioned period, provisioning shall be as per the norms laid out in Part A of this Master Circular. The facility of freezing of provisions shall also lapse immediately if the Adjudicating Authority rejects the resolution plan thus submitted. Asset classification in respect of such borrower shall continue be governed by the extant asset classification norms.
+
+18.4 MSME accounts restructured under the [circulars DBR.No.BP.BC.18/21.04.048/2018-19 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0)  [Januar

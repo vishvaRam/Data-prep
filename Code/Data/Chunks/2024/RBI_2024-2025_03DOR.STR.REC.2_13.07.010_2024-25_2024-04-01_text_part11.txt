@@ -1,0 +1,46 @@
+ co-acceptance of bills are not recorded in the bank's books, with the result that the same cannot be verified during inspections, and the Head Office becomes aware of the co-acceptance only when a claim is received from the discounting bank.
+
+### **2.6.2 Safeguards**
+
+In the light of the above, banks should keep in view the following safeguards:
+
+ (i) While sanctioning co-acceptance limits to their customers, the need therefore should be ascertained, and such limits should be extended only to those customers who enjoy other limits with the bank.
+
+ (ii) Only genuine trade bills should be co-accepted and the banks should ensure that the goods covered by bills co-accepted are actually received in the stock accounts of the borrowers.
+
+ (iii) The valuation of the goods as mentioned in the accompanying invoice should be verified to see that there is no over-valuation of stocks.
+
+DOR– MC on Guarantees & Co-acceptances 2024
+
+ (iv) The banks should not extend their co-acceptance to house bills/ accommodation bills drawn by group concerns on one another.
+
+ (v) The banks discounting such bills, co-accepted by other banks, should also ensure that the bills are not accommodation bills and that the co-accepting bank has the capacity to redeem the obligation in case of need.
+
+ (vi) Bank-wise limits should be fixed, taking into consideration the size of each bank for discounting bills co-accepted by other banks, and the relative powers of the officials of the other banks should be got registered with the discounting banks.
+
+ (vii) Care should be taken to see that the co-acceptance liability of any bank is not disproportionate to its known resources position.
+
+ (viii) A system of obtaining periodical confirmation of the liability of co-accepting banks in regard to the outstanding bills should be introduced.
+
+ (ix) Proper records of the bills co-accepted for each customer should be maintained, so that the commitments for each customer and the total commitments at a branch can be readily ascertained, and these should be scrutinised by Internal Inspectors and commented upon in their reports.
+
+ (x) It is also desirable for the discounting bank to advise the Head Office/ Controlling Office of the bank, which has co-accepted the bills, whenever such transactions appear to be disproportionate or large.
+
+(xi) Proper periodical returns may be prescribed so that the Branch Managers report such co-acceptance commitments entered into by them to the Controlling Offices.
+
+(xii) Such returns should also reveal the position of bills that have become overdue, and which the bank had to meet under the co-acceptance obligation. This will enable the Controlling Offices to monitor such co-acceptances furnished by the branches and take suitable action in time, in difficult cases.
+
+(xiii) Co-acceptances in respect of bills for Rs.10,000/- and above should be signed by two officials jointly, deviation being allowed only in exceptional cases, e.g. nonavailability of two officials at a branch.
+
+(xiv) Before discounting/ purchasing bills co-accepted by other banks for Rs. 2 lakh and above from a single party, the bank should obtain written confirmation of the concerned Controlling (Regional/ Divisional/ Zonal) Office of the accepting bank and a record of the same should be kept.
+
+(xv) When the value of the total bills discounted/ purchased (which have been coaccepted by other banks) exceeds Rs. 20 lakh for a single borrower/ group of borrowers, prior approval of the Head Office of the co-accepting bank must be obtained by the discounting bank in writing.
+
+**2.6.2.1** In addition to the above safeguards to be observed by banks in co-accepting the bills, it must be noted that the banks are precluded from co-accepting bills drawn under
+
+18
+
+Buyers Line of Credit Schemes introduced by IDBI Bank Ltd. and all India financial institutions like SIDBI, Power Finance Corporation Ltd. (PFC), etc. Similarly, banks should not co-accept bills drawn by NBFCs. In addition, banks are advised not to extend co-acceptance on behalf of their buyers/constituents under the SIDBI Scheme.
+
+- **2.6.2.2** However, banks may co-accept bills drawn under the Sellers Line of Credit Schemes (since renamed as Direct Discounting Scheme) operated by IDBI Bank Ltd.[4](#page-20-0) and all India financial institutions for Bill Discounting operated by IDBI Bank Ltd.[5](#page-20-1) and all India financial institutions like SIDBI, PFC, etc. without any limit, subject to the buyer's capability to pay, and compliance with the exposure norms prescribed by the bank for individual/ group borrowers.
+- **2.6.2.3** There have been instances where branches of banks open L/Cs on behalf of their constituents and also co-accept the bills drawn under such L/Cs. Legally, if a bank coaccepts a bill drawn under its own L/C, the bill so co-accepted becomes an independent document. The special rules applicable to commercial credits do not apply to such a bill and the bill is exclusively governed by the law r

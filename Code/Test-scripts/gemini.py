@@ -6,9 +6,8 @@ from typing import Optional
 
 from pydantic import BaseModel, Field
 
-# Load environment variables
-load_dotenv()
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")  # Should be in your .env file
+
+GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")  # Should be in your .env file
 
 # Define your data structure
 class Dog(BaseModel):

@@ -1,0 +1,30 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2025-26/27 DOR.LRG.REC.18/03.10.001/2025-26 April 21, 2025
+
+Madam / Dear Sir,
+
+**Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR) – Review of haircuts on High Quality Liquid Assets (HQLA) and review of composition and runoff rates on certain categories of deposits**
+
+Please refer to [circular DBOD.BP.BC.No.120/21.04.098/2013-14 dated June 09, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8934&Mode=0) on 'Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards' and associated guidelines. Reference is also invited to the draft circular on the subject issued on [July 25, 2024,](https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4471) inviting feedback from all stakeholders.
+
+2. The feedback received has been carefully analysed and it has been decided to issue final guidelines as under:
+
+- i. A bank shall assign an additional 2.5 per cent run-off factor for retail deposits which are enabled with internet and mobile banking facilities (IMB)[1](#page-0-0) i.e., stable retail deposits enabled with IMB shall have 7.5 per cent run-off factor and less stable deposits enabled with IMB shall have 12.5 per cent run-off factor (as against 5 and 10 per cent respectively, prescribed currently).
+- ii. Unsecured wholesale funding provided by non-financial small business customers (SBCs) shall be treated in accordance with the treatment of retail deposits as at (i) above.
+- iii. Level 1 HQLA in the form of Government securities shall be valued at an amount not greater than their current market value, adjusted for applicable haircuts in line with the margin requirements under the Liquidity Adjustment Facility (LAF) and Marginal Standing Facility (MSF) as described in [RBI circular FMOD.MAOG](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11291&Mode=0)  [No.125/01.01.001/2017-18 dated June 06, 2018,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11291&Mode=0) as amended from time to time.
+- iv. In case a deposit, hitherto excluded from LCR computation (for instance, a non-callable fixed deposit), is contractually pledged as collateral to secure a credit facility or loan, such deposit shall be treated as callable for LCR purposes and provisions of Sl. No. 9 of annexure to the [circular DBR.BP.BC.No.86/21.04.098/2015-16 dated March 23,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10309&Mode=0)  [2016,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10309&Mode=0) shall apply.
+
+3. Reference is also invited to Sl. No. 10 of annexure to [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10309&Mode=0)  [DBR.BP.BC.No.86/21.04.098/2015-16 on 'Liquidity Risk Management & Basel III Framework](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10309&Mode=0) 
+
+<span id="page-0-0"></span><sup>1</sup> Internet and Mobile Banking facilities (IMB) includes all facilities such as but not limited to internet banking, mobile banking and Unified Payments Interface (UPI) which enables a customer to digitally transfer funds from their account/s.
+
+![](_page_1_Picture_0.jpeg)
+
+on Liquidity Standards – [Liquidity Coverage Ratio \(LCR\), Liquidity Risk Monitoring Tools and](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10309&Mode=0)  [LCR Disclosure Standards' dated March 23, 2016](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10309&Mode=0) which provides that deposits from entities such as Hindu Undivided Families (HUFs), partnerships, Association of Persons (AoPs), trusts etc., shall be treated as deposit from 'other legal entities (OLEs)' under unsecured wholesale funding category and shall attract run-off rate of 100 per cent, provided they are not treated as SBC for LCR purpose.
+
+4. Based on a review, it has now been decided that OLE category shall consist of all deposits and other funding from banks/insurance companies & financial institutions[2](#page-1-0) and entities in the 'business of financial services' [3.](#page-1-1) Thus, funding from non-financial entities such as trusts (educational/religious/charitable), Association of Persons (AoPs), partnerships, proprietorships, Limited Liability Partnerships and other incorporated entities etc., shall be categorised as funding from 'non-financial corporates' and attract a run-off rate of 40 per cent (as against 100 per cent currently prescribed[4](#page-1-2)), unless the above entities are treated as SBCs under LCR framework.
+
+5. These amendments would help improve the liquidity resilience of banks in India and would further align the guidelines with global standards while ensuring that such an enhancement is done in a non-disruptive manner.
+
+6. Accordingly, the amendments to extant instructions in the [circular dated June 09, 2014,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8934&Mode=0) *ibid* and [circular DBR.BP.BC.No.86/21.04.098/2015-16 on 'Li

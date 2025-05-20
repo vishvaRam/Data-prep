@@ -1,0 +1,27 @@
+ to the collateral should be well documented. These forms of collaterals are not recognised anywhere else under the standardised approach.
+
+5.12.6 Claims secured by residential property, as defined in paragraph 5.10.1, which are NPA will be risk weighted at 100 per cent net of specific provisions. If the specific provisions in such loans are at least 20 per cent but less than 50 per cent of the outstanding amount, the risk weight applicable to the loan net of specific provisions will be 75 per cent. If the specific provisions are 50 per cent or more the applicable risk weight will be 50 per cent.
+
+# **5.13 Specified Categories**
+
+5.13.1 Fund based and non-fund based claims on Venture Capital Funds, which are considered as high risk exposures, will attract a higher risk weight of 150 per cent.
+
+5.13.2 Reserve Bank may, in due course, decide to apply a 150 per cent or higher risk weight reflecting the higher risks associated with any other claim that may be identified as a high risk exposure.
+
+5.13.3 Consumer credit exposure (outstanding as well as new), including personal loans, but excluding housing loans, education loans, vehicle loans and loans secured by gold and gold jewellery, will attract a risk weight of 125 per cent[47](#page-45-0). Microfinance loans that are in the nature of consumer credit and are not eligible for classification under regulatory retail under paragraph 5.9 shall be risk weighted at 100 per cent.[48](#page-45-1) Credit card receivables will attract a higher risk weight of 150 per cent or higher, if warranted by the external rating (or, the lack of it) of the counterparty. As gold and gold jewellery are eligible financial collateral, the counterparty exposure in respect of personal loans secured by gold and gold jewellery will be worked out under the comprehensive approach as per paragraph 7.3.4. The 'exposure value after risk mitigation' shall attract the risk weight of 125 per cent. All other consumer credit exposures shall attract a risk weight of 100%, unless specified otherwise.
+
+5.13.4 Advances classified as 'Capital market exposures' will attract a 125 per cent risk weight or risk weight warranted by external rating (or lack of it) of the counterparty, whichever is higher. These risk weights will also be applicable to all banking book exposures, which are exempted from capital market exposure ceilings for direct investments / total capital market exposures[49.](#page-45-2)
+
+5.13.5 The exposure to **capital instruments** issued by NBFCs which are not deducted and are required to be risk weighted in terms of paragraph 4.4.9.2(B) would be risk weighted at 125% or
+
+<span id="page-45-0"></span> <sup>47</sup> Please refer to circular - [DOR.STR.REC.57/21.06.001/2023-24 dated November 16, 2023](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12567&Mode=0) on Regulatory measures towards consumer credit and bank credit to NBFCs.
+
+<span id="page-45-1"></span><sup>48</sup> Please refer to circular - [DOR.CRE.REC.63/21.06.001/2024-25 dated February 25, 2025](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12786&Mode=0) on Review of Risk Weights on Microfinance Loans.
+
+<span id="page-45-2"></span><sup>49</sup> The applicable risk weight for banking book exposure / capital charge for market risk exposure for a bank's equity investments in other banks/financial institutions etc. are covered under paragraphs 5 and 8 respectively. These risk weights / capital charge will also apply to exposures which are exempt from 'capital market exposure' limit.
+
+as per the external ratings, whichever is higher. The exposure to **equity instruments** issued by NBFCs which are not deducted and are required to be risk weighted in terms of paragraph 4.4.9.2(C) would be risk weighted at 250%. The claims (other than in the form of capital instruments of investee companies) on all NBFCs excluding Core Investment Companies (CIC) shall be risk weighted as per the ratings assigned by the rating agencies registered with SEBI and accredited by the Reserve Bank of India, in a manner similar to that of corporates. The claims on CICs, rated and unrated, shall be risk-weighted at 100%.
+
+5.13.6 All investments in the paid-up equity of non-financial entities (other than subsidiaries) which exceed 10% of the issued common share capital of the issuing entity or where the entity is an unconsolidated affiliate as defined in paragraph 4.4.9.2(C)(i) will receive a risk weight of 1250%[50.](#page-46-0) Equity investments equal to or below 10% paid-up equity of such investee companies shall be assigned a 125% risk weight or the risk weight as warranted by rating or lack of it, whichever higher.
+
+5.13.7 The exposure to capital instruments issued by financial entities (other than banks and NBFCs) which are not deducted and are required to be risk weighted in terms of paragraph 4.4.9.2(B) would be risk weighted at 125% or as per the external ratings whichever is higher. The exposure to equity instruments issued by fin
