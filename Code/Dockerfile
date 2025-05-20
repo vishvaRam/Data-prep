@@ -20,6 +20,8 @@ RUN wget --no-check-certificate https://dl.google.com/linux/direct/google-chrome
     apt install ./google-chrome-stable_current_amd64.deb -y --no-install-recommends && \
     rm ./google-chrome-stable_current_amd64.deb
 
+RUN python -m pip install --upgrade pip
+    
 # Copy requirements first to leverage caching
 COPY requirements.txt .
 
@@ -30,6 +32,10 @@ RUN pip install -r requirements.txt
 COPY . .
 
 ENV GEMINI_API_KEY=AIzaSyDbLuV1V0QyI1qI-OviHaaA3LuqdjcSGzY
+ENV LANGSMITH_TRACING=true
+ENV LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
+ENV LANGSMITH_API_KEY="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"
+ENV LANGSMITH_PROJECT="data-prep"
 
 # Expose the port FastAPI will run on
 EXPOSE 8888
