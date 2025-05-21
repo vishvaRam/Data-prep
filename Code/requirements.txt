@@ -1,3 +1,4 @@
+marker-pdf
 python-dotenv
 google-generativeai
 langchain-google-genai
@@ -8,7 +9,6 @@ rich
 opencv-python==4.8.0.74
 pandas
 webdriver_manager
-marker-pdf
 torchvision
 torchaudio
 langsmith
