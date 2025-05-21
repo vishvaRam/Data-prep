@@ -3,3 +3,17 @@ Code/Data/Raw-pdfs/
 .devcontainer
 
 Code/.env
+
+# Python virtual environments
+Code/.venv/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+
+# Byte-code files
+__pycache__/

@@ -20,7 +20,7 @@ RUN wget --no-check-certificate https://dl.google.com/linux/direct/google-chrome
     apt install ./google-chrome-stable_current_amd64.deb -y --no-install-recommends && \
     rm ./google-chrome-stable_current_amd64.deb
 
-# RUN python3 -m pip install --upgrade pip
+RUN curl -LsSf https://astral.sh/uv/install.sh | sh
     
 # Copy requirements first to leverage caching
 COPY requirements.txt .
