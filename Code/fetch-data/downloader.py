@@ -54,7 +54,7 @@ class RbiCircularScraper:
             self.driver.get(self.base_url)
             print("⏳ Waiting for JavaScript to load...")
             time.sleep(1.5)
-            print(f"🖱️ Simulating JavaScript click for year {self.year}")
+            print(f"🖱️ Simulating click for year {self.year}")
             self.driver.execute_script(f"GetYearMonth('{self.year}','0');")
             time.sleep(1.5)  # Wait for data to load
             return self.driver.page_source
