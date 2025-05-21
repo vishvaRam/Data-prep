@@ -1,0 +1,360 @@
+{
+    "RBI_2023-2024_52DOR.RET.REC.29_12.01.001_2023-24_2023-08-10": {
+        "filename": "RBI_2023-2024_52DOR.RET.REC.29_12.01.001_2023-24_2023-08-10_text_part1.txt",
+        "metadata": {
+            "document_type": "Regulatory Circular",
+            "regulation_area": "Monetary Policy",
+            "applicable_to": "Scheduled Commercial Banks / Regional Rural Banks / all Scheduled Primary (Urban) Co-operative Banks / all Scheduled State Co-operative Banks",
+            "issued_on": "2023-08-10",
+            "key_topics": [
+                "Cash Reserve Ratio (CRR)",
+                "Incremental CRR (I-CRR)",
+                "Reserve Bank of India Act, 1934",
+                "Liquidity conditions",
+                "NDTL"
+            ]
+        },
+        "chunks_text": "![](_page_0_Picture_0.jpeg)\n\n![](_page_0_Picture_1.jpeg)\n\n![](_page_0_Picture_2.jpeg)\n\n## [www.rbi.org.in](https://www.rbi.org.in/)\n\nRBI/2023-24/52 DOR.RET.REC.29/12.01.001/2023-24 August 10, 2023\n\nThe Chairperson / CEOs of all Scheduled Commercial Banks / Regional Rural Banks / All Scheduled Primary (Urban) Co-operative Banks / All Scheduled State Co-operative Banks\n\nMadam / Dear Sir,\n\n## **Reserve Bank of India Act, 1934 - Section 42(1A) - Requirement for maintaining additional CRR**\n\nUnder Section 42(1) of the Reserve Bank of India Act, 1934, all Scheduled Banks are required to maintain with Reserve Bank of India a Cash Reserve Ratio (CRR) of 4.50 per cent of Net Demand and Time Liabilities (NDTL).\n\n2. On a review of the current liquidity conditions, it has been decided to issue a directive under Section 42(1A) of the Reserve Bank of India Act, 1934 requiring all Scheduled Commercial Banks / Regional Rural Banks / all Scheduled Primary (Urban) Co-operative Banks / all Scheduled State Co-operative Banks to maintain with the Reserve Bank of India, effective from the fortnight beginning August 12, 2023, an incremental CRR (I-CRR) of 10 per cent on the increase in NDTL between May 19, 2023 and July 28, 2023. The I-CRR will be reviewed on September 8, 2023 or earlier.\n\n3. A copy of the relative notification DOR.RET.REC.30/12.01.001/2023-24 dated August 10, 2023 is [enclosed.](#page-1-0)\n\nYours faithfully,\n\n (Brij Raj) Chief General Manager\n\n> \u093f\u0935\u093f\u0928\u092f\u092e\u0928 \u093f\u0935\u092d\u093e\u0917, \u0915\ufffd \u0926\u094d\u0930\u0940\u092f \u0915\u093e\u092f\u093e\ufffd\u0932\u092f, 12\u0935\u0940\u0902 \u0914\u0930 13\u0935\u0940\u0902 \u092e\u0902\u093f\u091c\u093c\u0932, \u0915\ufffd \u0926\u094d\u0930\u0940\u092f \u0915\u093e\u092f\u093e\ufffd\u0932\u092f \u092d\u0935\u0928, \u0936\u0939\u0940\u0926 \u092d\u0917\u0924 \u093f\u0938\u0902\u0939 \u092e\u093e\u0917\ufffd, \u092e\u0941\u0902\u092c\u0908 400001 \u091f\u0947\u0932\u0940\u092b\u094b\u0928 /Tel No: 22601000 \u092b\u0948 \ufffd/ Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shaheed Bhagat Singh Marg, Mumbai \u2013 400001 Tel No: 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 \u092c\ufffd\u0915 \u093f\u0939\u0902\u0926\u0940 \u092e\ufffd \u092a\u0924\u094d\u0930\u093e\u091a\u093e\u0930 \u0915\u093e \ufffd\u093e\u0917\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or\n\n> > offers funds to anyone. Please do not respond in any manner to such offers.\n\n![](_page_1_Picture_0.jpeg)\n\n## <span id=\"page-1-0\"></span>DOR.RET.REC.30/12.01.001/2023-24 August 10, 2023\n\n## **NOTIFICATION**\n\nIn exercise of the powers conferred by sub-section (1A) of Section 42 of the Reserve Bank of India Act, 1934, the Reserve Bank of India hereby directs that all Scheduled Commercial Banks / Regional Rural Banks / all Scheduled Primary (Urban) Co-operative Banks / all Scheduled State Co-operative Banks, shall maintain with the Reserve Bank of India, with effect from the fortnight beginning August 12, 2023:\n\n- (i) an additional average daily balance over and above the average daily balance required to be maintained under sub-section (1) of Section 42; and\n- (ii) that the amount of such additional average daily balance shall not be less than 10 per cent of the increase in net demand and time liabilities between May 19, 2023 and July 28, 2023.\n\n(Jayant Kumar Dash) Executive Director",
+        "is_table": false,
+        "qa_pairs": [
+            {
+                "question": "What are the key details of the incremental Cash Reserve Ratio (I-CRR) requirement?",
+                "answer": "Effective from the fortnight starting August 12, 2023, all specified banks must maintain an incremental CRR (I-CRR) of 10% on the increase in Net Demand and Time Liabilities (NDTL) between May 19, 2023, and July 28, 2023. This I-CRR is subject to review on or before September 8, 2023.",
+                "evaluation_criteria": "The answer should accurately state the effective date of the I-CRR, the percentage of the I-CRR, the period for which the NDTL increase is considered, and the date by which the I-CRR will be reviewed.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What is the required Cash Reserve Ratio (CRR) for scheduled banks according to the Reserve Bank of India Act, 1934?",
+                "answer": "Scheduled banks are required to maintain a Cash Reserve Ratio (CRR) of 4.50 percent of Net Demand and Time Liabilities (NDTL) as per Section 42(1) of the Reserve Bank of India Act, 1934.",
+                "evaluation_criteria": "The answer should accurately state the CRR percentage and the relevant section of the Reserve Bank of India Act, 1934.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What are the key details of the notification issued by the Reserve Bank of India on August 10, 2023, regarding additional CRR requirements?",
+                "answer": "The Reserve Bank of India issued a notification on August 10, 2023, under Section 42(1A) of the Reserve Bank of India Act, 1934. This notification directs all Scheduled Commercial Banks, Regional Rural Banks, all Scheduled Primary (Urban) Co-operative Banks, and all Scheduled State Co-operative Banks to maintain an additional average daily balance with the Reserve Bank of India, effective from the fortnight beginning August 12, 2023. This additional balance must be at least 10 percent of the increase in net demand and time liabilities between May 19, 2023, and July 28, 2023.",
+                "evaluation_criteria": "The answer should accurately state the date of the notification, the section of the Reserve Bank of India Act under which it was issued, the types of banks affected, the effective date, and the specific requirement regarding the additional balance.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "Under what legal authority was the incremental CRR (I-CRR) implemented, and what are its key parameters?",
+                "answer": "The Reserve Bank of India Act, 1934, Section 42(1A), empowers the Reserve Bank of India to mandate that all Scheduled Commercial Banks, Regional Rural Banks, Scheduled Primary (Urban) Co-operative Banks, and Scheduled State Co-operative Banks maintain an incremental Cash Reserve Ratio (I-CRR). This I-CRR is calculated as 10 percent of the increase in Net Demand and Time Liabilities (NDTL) between May 19, 2023, and July 28, 2023. This requirement became effective from the fortnight beginning August 12, 2023.",
+                "evaluation_criteria": "The answer must accurately state the legal basis (Section 42(1A) of the Reserve Bank of India Act, 1934), the types of banks affected, the definition of I-CRR, and the relevant dates.",
+                "category": "fact-based",
+                "estimated_difficulty": 6
+            },
+            {
+                "question": "What are the key details of the directive issued by the Reserve Bank of India regarding the I-CRR?",
+                "answer": "The Reserve Bank of India issued a directive on August 10, 2023, requiring specified banks to maintain an incremental CRR (I-CRR) of 10% on the increase in Net Demand and Time Liabilities (NDTL) between May 19, 2023, and July 28, 2023. This I-CRR will be reviewed on September 8, 2023, or earlier.",
+                "evaluation_criteria": "The answer should accurately state the date of the directive, the type of CRR, the percentage, the period for NDTL increase, and the review date.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What are the key requirements outlined in the notification issued by the Reserve Bank of India on August 10, 2023?",
+                "answer": "The Reserve Bank of India issued a notification on August 10, 2023, directing Scheduled Commercial Banks, Regional Rural Banks, Scheduled Primary (Urban) Co-operative Banks, and Scheduled State Co-operative Banks to maintain an additional average daily balance with the Reserve Bank of India, effective from the fortnight beginning August 12, 2023. This balance must be at least 10 percent of the increase in net demand and time liabilities between May 19, 2023, and July 28, 2023.",
+                "evaluation_criteria": "The answer should accurately state the date of the notification, the types of banks affected, the effective date of the directive, and the key parameter (10 percent of the increase in NDTL).",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What legal provision empowers the Reserve Bank of India to mandate an additional Cash Reserve Ratio (CRR) for banks, and what is the purpose of this provision?",
+                "answer": "The Reserve Bank of India Act, 1934, Section 42(1A) grants the Reserve Bank of India the power to direct banks to maintain an additional Cash Reserve Ratio (CRR). This allows the RBI to manage liquidity conditions within the banking system.",
+                "evaluation_criteria": "The answer should accurately state the section of the Reserve Bank of India Act, 1934 that grants the RBI the power to direct banks to maintain an additional CRR, and what that power allows the RBI to do.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What legal provision was used to mandate the incremental CRR (I-CRR), and to which financial institutions does it apply?",
+                "answer": "The Reserve Bank of India Act, 1934, Section 42(1A) was used to issue a directive requiring banks to maintain an incremental CRR (I-CRR). This I-CRR applies to Scheduled Commercial Banks, Regional Rural Banks, all Scheduled Primary (Urban) Co-operative Banks, and all Scheduled State Co-operative Banks.",
+                "evaluation_criteria": "The answer should accurately state the legal basis for the directive (Section 42(1A) of the Reserve Bank of India Act, 1934) and list the types of banks to which it applies.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "Which section of the Reserve Bank of India Act, 1934, grants the power to mandate additional CRR requirements, and what prompted this action?",
+                "answer": "The Reserve Bank of India Act, 1934, Section 42(1A) empowers the Reserve Bank of India to mandate additional CRR requirements. This was implemented due to a review of current liquidity conditions.",
+                "evaluation_criteria": "The answer should accurately state the section of the Reserve Bank of India Act, 1934, that grants the power to mandate additional CRR, and it should briefly mention the reason for the implementation.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What percentage of Net Demand and Time Liabilities (NDTL) must Scheduled Banks maintain as Cash Reserve Ratio (CRR)?",
+                "answer": "The Reserve Bank of India Act, 1934, mandates that all Scheduled Banks maintain a Cash Reserve Ratio (CRR) of 4.50% of their Net Demand and Time Liabilities (NDTL).",
+                "evaluation_criteria": "The answer should accurately state the CRR percentage and the type of liabilities it applies to.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            }
+        ]
+    },
+    "RBI_2023-2024_53DoR.MCS.REC.28_01.01.001_2023-24_2023-08-18": {
+        "filename": "RBI_2023-2024_53DoR.MCS.REC.28_01.01.001_2023-24_2023-08-18_text_part1.txt",
+        "metadata": {
+            "document_type": "Regulatory Circular",
+            "regulation_area": "Fair Lending Practices",
+            "applicable_to": "All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks, excluding Payments Banks) All Primary (Urban) Co-operative Banks All NBFCs (including HFCs) and All India Financial Institutions (EXIM Bank, NABARD, NHB, SIDBI and NaBFID)",
+            "issued_on": "2023-08-18",
+            "key_topics": [
+                "Penal Charges in Loan Accounts",
+                "Fair Lending Practices",
+                "Transparency in Disclosure",
+                "Board Approved Policy",
+                "Implementation Timeline"
+            ]
+        },
+        "chunks_text": "![](_page_0_Picture_0.jpeg)\n\n![](_page_0_Picture_1.jpeg)\n\nRESERVE BANK OF INDIA\n\n![](_page_0_Picture_3.jpeg)\n\nRBI/2023-24/53 DoR.MCS.REC.28/01.01.001/2023-24 August 18, 2023\n\nAll Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks, excluding Payments Banks) All Primary (Urban) Co-operative Banks All NBFCs (including HFCs) and All India Financial Institutions (EXIM Bank, NABARD, NHB, SIDBI and NaBFID)\n\nMadam / Dear Sir,\n\n## **Fair Lending Practice - Penal Charges in Loan Accounts**\n\nReserve Bank has issued various guidelines to the Regulated Entities (REs) to ensure reasonableness and transparency in disclosure of penal interest. Under the extant guidelines, lending institutions have the operational autonomy to formulate Board approved policy for levy of penal rates of interest. It has been observed that many REs use penal rates of interest, over and above the applicable interest rates, in case of defaults / non-compliance by the borrower with the terms on which credit facilities were sanctioned.\n\n2. The intent of levying penal interest/charges is essentially to inculcate a sense of credit discipline and such charges are not meant to be used as a revenue enhancement tool over and above the contracted rate of interest. However, supervisory reviews have indicated divergent practices amongst the REs with regard to levy of penal interest/charges leading to customer grievances and disputes.\n\n3. On a review of the practices followed by REs for charging penal interest/charges on loans, the following instructions are issued for adoption.\n\n(i) Penalty, if charged, for non-compliance of material terms and conditions of loan contract by the borrower shall be treated as 'penal charges' and shall not be levied in the form of 'penal interest' that is added to the rate of interest charged on the advances. There shall be no capitalisation of penal charges i.e., no further interest computed on such charges. However, this will not affect the normal procedures for compounding of interest in the loan account.\n\n(ii) The REs shall not introduce any additional component to the rate of interest and ensure compliance to these guidelines in both letter and spirit.\n\n(iii) The REs shall formulate a Board approved policy on penal charges or similar charges on loans, by whatever name called.\n\n(iv) The quantum of penal charges shall be reasonable and commensurate with the noncompliance of material terms and conditions of loan contract without being discriminatory within a particular loan / product category.\n\n(v) The penal charges in case of loans sanctioned to 'individual borrowers, for purposes other than business', shall not be higher than the penal charges applicable to nonindividual borrowers for similar non-compliance of material terms and conditions.\n\n(vi) The quantum and reason for penal charges shall be clearly disclosed by REs to the customers in the loan agreement and most important terms & conditions / Key Fact Statement (KFS) as applicable, in addition to being displayed on REs website under Interest rates and Service Charges.\n\n(vii) Whenever reminders for non-compliance of material terms and conditions of loan are sent to borrowers, the applicable penal charges shall be communicated. Further, any instance of levy of penal charges and the reason therefor shall also be communicated.\n\n(viii) These instructions shall come into effect from January 1, 2024. REs may carry out appropriate revisions in their policy framework and ensure implementation of the instructions in respect of all the fresh loans availed/ renewed from the effective date. In the case of existing loans, the switchover to new penal charges regime shall be ensured on next review or renewal date or six months from the effective date of this circular, whichever is earlier.\n\n4. The above instructions are issued under sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, and section 30A of the National Housing Bank Act, 1987 and shall be updated in the relevant Master Directions / Master Circulars of the applicable REs. The list of amendments to the Master Directions / Master Circulars has been provided in the [Annex.](#page-3-0)\n\n5. These instructions shall, however, not apply to Credit Cards, External Commercial Borrowings, Trade Credits and Structured Obligations which are covered under product specific directions.\n\nYours faithfully,\n\n(Santosh Kumar Panigrahy) Chief General Manager\n\nEncl: As above\n\n<span id=\"page-3-0\"></span>\n\n\n\n\nC. Master Direction - [Non-Banking Financial Company -Systemically Important Non-](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)[Deposit taking Company and Deposit taking Company \\(Reserve Bank\\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)  [dated September 1, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) \n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "is_table": false,
+        "qa_pairs": [
+            {
+                "question": "How should penal charges be levied in loan accounts, and what is the exception to this rule?",
+                "answer": "Penal charges for non-compliance of loan terms should not be levied as 'penal interest' and should not be added to the rate of interest. There should be no further interest calculated on these charges. However, the normal procedures for compounding interest in the loan account will remain unaffected.",
+                "evaluation_criteria": "The answer should accurately define how penal charges should be levied, mentioning that they shouldn't be in the form of penal interest and not be compounded. It should also mention the exception regarding compounding of interest.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What are the key requirements for Regulated Entities (REs) regarding the policy on penal charges for loans?",
+                "answer": "Regulated Entities (REs) must formulate a Board-approved policy on penal charges for loans, detailing the quantum and reasons for such charges. This information must be clearly disclosed to customers in the loan agreement, Key Fact Statement (KFS), and on the RE's website under Interest rates and Service Charges. Additionally, any instance of penal charges and the reason for them must be communicated to the borrower.",
+                "evaluation_criteria": "The answer should mention the key requirements for REs regarding penal charges policy, including the need for a Board-approved policy, disclosure of charges in loan agreements and KFS, website display, and communication to borrowers.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "To which financial institutions and bank types do the fair lending practice guidelines apply?",
+                "answer": "The guidelines apply to all Commercial Banks (excluding Payments Banks), Primary (Urban) Co-operative Banks, all NBFCs (including HFCs), and all India Financial Institutions such as EXIM Bank, NABARD, NHB, SIDBI, and NaBFID.",
+                "evaluation_criteria": "The answer should accurately list all the financial institutions and bank types the guidelines are applicable to, including specific exclusions.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            },
+            {
+                "question": "How are penalties for non-compliance of loan terms to be treated, according to the guidelines?",
+                "answer": "The guidelines mandate that any penalty for non-compliance of loan terms should be termed 'penal charges' and not 'penal interest.' These charges cannot be added to the interest rate or have further interest calculated on them. However, the normal procedures for compounding interest in the loan account remain unaffected.",
+                "evaluation_criteria": "The answer must accurately define 'penal charges' and differentiate them from 'penal interest.' It should specify what is forbidden and what is permitted regarding interest calculations.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What are the key stipulations regarding the quantum of penal charges that regulated entities must adhere to?",
+                "answer": "The guidelines mandate that the quantum of penal charges should be reasonable and proportionate to the non-compliance of loan terms. These charges must not be discriminatory within a specific loan or product category. Additionally, for loans to individual borrowers for non-business purposes, the penal charges cannot exceed those applied to non-individual borrowers for similar non-compliance.",
+                "evaluation_criteria": "The answer should accurately state the requirements for the quantum of penal charges, including the criteria for reasonableness, non-discrimination, and the specific limitations for individual borrowers.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What disclosures are required regarding penal charges, and where should these disclosures be made?",
+                "answer": "The guidelines mandate that the quantum and reason for penal charges must be clearly disclosed to customers in the loan agreement, the most important terms & conditions / Key Fact Statement (KFS), and on the REs' website under Interest rates and Service Charges. Additionally, any instance of levy of penal charges and the reason for it must be communicated to the borrower when reminders for non-compliance of loan terms are sent.",
+                "evaluation_criteria": "The answer should accurately state the required disclosures regarding penal charges, including where they should be disclosed (loan agreement, KFS, website) and what should be communicated to the borrower.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "When do the new instructions regarding penal charges in loan accounts become effective, and what are the implementation timelines for both new and existing loans?",
+                "answer": "The guidelines stipulate that the new instructions on penal charges will take effect from January 1, 2024. Regulated Entities (REs) must revise their policy frameworks and implement these instructions for all new or renewed loans from this date. For existing loans, the switch to the new penal charges regime should occur at the next review or renewal date, or within six months of the effective date, whichever comes first.",
+                "evaluation_criteria": "The answer should accurately state the effective date of the new instructions. It should include the implementation timelines for both new and existing loans, mentioning the key dates or events that trigger the changes.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "When and why did the Reserve Bank of India issue the guidelines, and to which financial institutions do these guidelines apply?",
+                "answer": "The Reserve Bank of India issued guidelines on August 18, 2023, concerning fair lending practices, specifically addressing penal charges in loan accounts. These guidelines apply to all commercial banks (excluding Payments Banks), all primary (urban) co-operative banks, all NBFCs (including HFCs), and all India Financial Institutions (EXIM Bank, NABARD, NHB, SIDBI, and NaBFID).",
+                "evaluation_criteria": "The answer should accurately state the date the guidelines were issued, the subject of the guidelines, and the financial institutions to which they apply. It should correctly list the types of banks and financial institutions covered, and specify any exclusions.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            },
+            {
+                "question": "To what financial instruments and obligations do the instructions regarding penal charges not apply?",
+                "answer": "The instructions do not apply to Credit Cards, External Commercial Borrowings, Trade Credits, and Structured Obligations. These are covered under product-specific directions.",
+                "evaluation_criteria": "The answer must accurately identify the financial instruments and obligations to which the instructions do not apply. It should include all the listed exceptions.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            },
+            {
+                "question": "Under which legal provisions were the instructions on penal charges issued, and what is the implication for existing regulatory documents?",
+                "answer": "The Reserve Bank of India issued these instructions under sections 21, 35A and 56 of the Banking Regulation Act, 1949; sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934; and section 30A of the National Housing Bank Act, 1987. These instructions will be incorporated into the relevant Master Directions / Master Circulars of the applicable Regulated Entities (REs).",
+                "evaluation_criteria": "The answer must accurately identify the legal basis for the instructions, including the specific sections of the Banking Regulation Act, the Reserve Bank of India Act, and the National Housing Bank Act. It should also mention the impact on Master Directions/Circulars.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            }
+        ]
+    },
+    "RBI_2023-2024_54DoR.SIG.FIN.REC.31_03.10.001_2023-24_2023-08-18": {
+        "filename": "RBI_2023-2024_54DoR.SIG.FIN.REC.31_03.10.001_2023-24_2023-08-18_text_part1.txt",
+        "metadata": {
+            "document_type": "Regulatory Framework for IDF-NBFCs",
+            "regulation_area": "Infrastructure Financing",
+            "applicable_to": "IDF-NBFCs",
+            "issued_on": "2023-08-18",
+            "key_topics": [
+                "Net owned funds (NOF) and regulatory capital",
+                "Raising of funds",
+                "Exposure limits"
+            ]
+        },
+        "chunks_text": "![](_page_0_Picture_0.jpeg)\n\n![](_page_0_Picture_1.jpeg)\n\n![](_page_0_Picture_3.jpeg)\n\n#### RBI/2023-24/54 DoR.SIG.FIN.REC.31/03.10.001/2023-24 August 18, 2023\n\nAll Infrastructure Debt Fund-NBFCs (IDF-NBFCs)\n\nDear Sir/ Madam,\n\n# **Review of Regulatory Framework for IDF-NBFCs**\n\nIn order to enable IDF-NBFCs to play a greater role in the financing of the infrastructure sector and to harmonise the regulations governing financing of infrastructure sector by the NBFCs, a review of the guidelines applicable to IDF-NBFCs has been undertaken, in consultation with the Government of India.\n\n2. The revised regulatory framework for IDF-NBFCs is provided in the **[Annex.](#page-1-0)** These guidelines shall come into effect from the date of this circular.\n\nYours faithfully,\n\n(J.P. Sharma) Chief General Manager\n\n#### **Annex**\n\n<span id=\"page-1-0\"></span>An IDF is set up either as a trust or as a company. A trust based IDF is registered as an IDF-Mutual Fund (IDF-MF) and is regulated by the Securities and Exchange Board of India (SEBI) whereas a company based IDF is registered as an IDF-NBFC and is regulated by the Reserve Bank of India (RBI).\n\n#### **2. Definition**\n\nAn IDF-NBFC means a non-deposit taking NBFC which is permitted to \u2013 (i) refinance post commencement operations date (COD) infrastructure projects that have completed at least one year of satisfactory commercial operations; and (ii) finance toll operate transfer (TOT) projects as the direct lender.\n\n#### **3. Net owned funds (NOF) and regulatory capital**\n\nAn IDF-NBFC shall be required to have an NOF of at least \u20b9300 crore and capital-to-risk weighted assets ratio (CRAR) of minimum 15 per cent (with minimum Tier 1 capital of 10 per cent).\n\n## **4. Raising of funds**\n\n- (i) IDF-NBFC shall raise funds through issue of either rupee or dollar denominated bonds of minimum five-year maturity. With a view to facilitate better asset-liability management (ALM), IDF-NBFCs can raise funds through shorter tenor bonds and commercial papers (CPs) from the domestic market to the extent of up to 10 per cent of their total outstanding borrowings.\n- (ii) In addition to the bond route, IDF-NBFCs can also raise funds through loan route under external commercial borrowings (ECBs). However, such borrowings shall be subject to minimum tenor of five years and the ECB loans should not be sourced from foreign branches of Indian banks.\n- (iii) Regarding ECBs, IDF-NBFCs shall also be required to adhere to the guidelines issued by the Foreign Exchange Department of the RBI.\n\n# **5. Exposure limits**\n\nThe exposure limits for IDF-NBFCs shall be 30% of their Tier 1 capital for single borrower/ party and 50% of their Tier 1 capital for single group of borrowers/ parties.\n\n### **6. Risk weights**\n\nFor computing CRAR of the IDF-NBFCs, their assets shall be risk-weighted as per riskweights applicable to NBFC-Investment and Credit Companies (NBFC-ICCs).\n\n# **7. Requirements of a sponsor and tripartite agreement**\n\n7.1 Under the earlier guidelines, an IDF-NBFC was required to be sponsored by a bank or an NBFC-Infrastructure Finance Company (NBFC-IFC). The requirement of a sponsor for an IDF-NBFC has now been withdrawn and shareholders of IDF-NBFCs shall be subjected to scrutiny as applicable to other NBFCs, including NBFC-IFCs.\n\n7.2 Earlier, IDF-NBFCs were required to enter into a tripartite agreement with the concessionaire and the project authority for investments in the Public Private Partnership (PPP) infrastructure projects having a project authority. The requirement of the tripartite agreement has now been made optional.\n\n#### **8. Other regulatory norms**\n\nAll other regulatory norms including income recognition, asset classification and provisioning norms as applicable to NBFC-ICCs shall be applicable to IDF-NBFCs.\n\n# **9. Guidelines governing sponsorship of IDF-MFs by NBFCs**\n\n9.1 All NBFCs shall be eligible to sponsor (sponsorship as defined by SEBI Regulations for Mutual Funds) IDF-MFs with prior approval of the RBI subject to the following conditions (based on the audited financial statements), in addition to those prescribed by SEBI:\n\n- (i) The NBFC shall have a minimum NOF of \u20b9300 crore and CRAR of 15 percent;\n- (ii) Its net NPAs shall be less than 3 per cent of the net advances;\n- (iii) It shall have been in existence for at least 5 years;\n- (iv)It shall be earning profits for the last three years and its performance shall be satisfactory;\n- (v) The CRAR of the NBFC post investment in the IDF-MF shall not be less than the regulatory minimum prescribed for it;\n- (vi)The NBFC shall continue to maintain the required level of NOF after accounting for investment in the proposed IDF-MF;\n- (vii) There shall be no supervisory concerns with respect to the NBFC.\n\n9.2 NBFCs that fulfil the eligibility criteria as above shall approach the Department of Regulation of the RBI, for prior approval to sponsor IDF-MFs.",
+        "is_table": false,
+        "qa_pairs": [
+            {
+                "question": "What are the minimum Net Owned Funds (NOF) and capital requirements for Infrastructure Debt Fund-NBFCs (IDF-NBFCs)?",
+                "answer": "IDF-NBFCs must maintain a minimum Net Owned Funds (NOF) of \u20b9300 crore and a capital-to-risk weighted assets ratio (CRAR) of at least 15%, with a minimum Tier 1 capital of 10%.",
+                "evaluation_criteria": "The answer must accurately state the minimum NOF and CRAR percentages, including the minimum Tier 1 capital percentage.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            },
+            {
+                "question": "What are the exposure limits for Infrastructure Debt Fund-NBFCs (IDF-NBFCs)?",
+                "answer": "IDF-NBFCs must adhere to exposure limits. These limits are set at 30% of their Tier 1 capital for a single borrower or party and 50% of their Tier 1 capital for a single group of borrowers or parties.",
+                "evaluation_criteria": "The answer should accurately state the exposure limits for IDF-NBFCs, including both single borrower/party and single group of borrowers/parties limits, and refer to Tier 1 capital.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What are the permissible methods for Infrastructure Debt Fund-NBFCs (IDF-NBFCs) to raise funds?",
+                "answer": "IDF-NBFCs can raise funds through the issuance of rupee or dollar-denominated bonds with a minimum maturity of five years. They can also raise funds through shorter-term bonds and commercial papers (CPs) from the domestic market, up to 10 percent of their total outstanding borrowings. Additionally, they can raise funds through external commercial borrowings (ECBs), subject to a minimum tenor of five years, with the restriction that ECB loans should not be sourced from foreign branches of Indian banks. Regarding ECBs, IDF-NBFCs must also adhere to the guidelines issued by the Foreign Exchange Department of the RBI.",
+                "evaluation_criteria": "The answer should accurately describe the various methods IDF-NBFCs can use to raise funds, including bonds, commercial papers, and external commercial borrowings. It should specify the minimum maturity period for bonds and ECBs and the limit on shorter-term bonds and CPs. The answer should also mention the restrictions on ECB sourcing.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What defines an Infrastructure Debt Fund-NBFC (IDF-NBFC)?",
+                "answer": "An Infrastructure Debt Fund-NBFC (IDF-NBFC) is a non-deposit taking NBFC that can refinance post-commencement operations date (COD) infrastructure projects after one year of satisfactory commercial operations and finance toll operate transfer (TOT) projects directly.",
+                "evaluation_criteria": "The answer should accurately define IDF-NBFC, including its non-deposit taking status, and the types of projects it can finance (refinancing post-COD projects and financing TOT projects).",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "How are the assets of Infrastructure Debt Fund-NBFCs (IDF-NBFCs) risk-weighted for the purpose of calculating CRAR?",
+                "answer": "IDF-NBFCs must adhere to the risk weights applicable to NBFC-Investment and Credit Companies (NBFC-ICCs) when computing their Capital to Risk-weighted Assets Ratio (CRAR).",
+                "evaluation_criteria": "The answer should accurately state the risk weighting approach for IDF-NBFCs, including the specific type of NBFC whose risk weights are to be followed. It should mention both IDF-NBFCs and NBFC-ICCs.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What are the fund-raising options available to Infrastructure Debt Fund-NBFCs (IDF-NBFCs)?",
+                "answer": "IDF-NBFCs can raise funds through the issuance of rupee or dollar-denominated bonds with a minimum maturity of five years. They can also raise funds through shorter-term bonds and commercial papers (CPs) from the domestic market, up to 10% of their total outstanding borrowings. Additionally, they can utilize the loan route via external commercial borrowings (ECBs), which must have a minimum tenor of five years and cannot be sourced from foreign branches of Indian banks. These entities must also adhere to the guidelines issued by the Foreign Exchange Department of the RBI regarding ECBs.",
+                "evaluation_criteria": "The answer should accurately detail the three fund-raising methods available to IDF-NBFCs, including the specific requirements for each method (bond maturity, CP limits, ECB tenor, and ECB sourcing restrictions). The answer should include the terms: bonds, commercial papers, external commercial borrowings.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What are the various methods by which an IDF-NBFC can raise funds?",
+                "answer": "An IDF-NBFC can raise funds through the issuance of rupee or dollar-denominated bonds with a minimum maturity of five years. They can also raise funds through shorter-term bonds and commercial papers (CPs) from the domestic market, up to 10% of their total outstanding borrowings, and through external commercial borrowings (ECBs), which must have a minimum tenor of five years and cannot be sourced from foreign branches of Indian banks. Regarding ECBs, IDF-NBFCs must adhere to guidelines from the Foreign Exchange Department of the RBI.",
+                "evaluation_criteria": "The answer must accurately list the fund-raising methods available to IDF-NBFCs. It should specify the types of bonds, the maturity period, and any limitations on the use of shorter-term bonds/CPs and ECBs, including the sourcing restrictions for ECBs.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What are the minimum NOF and CRAR requirements for an IDF-NBFC?",
+                "answer": "An Infrastructure Debt Fund-NBFC (IDF-NBFC) is required to have a minimum Net Owned Funds (NOF) of \u20b9300 crore and a capital-to-risk weighted assets ratio (CRAR) of at least 15 percent, with a minimum Tier 1 capital of 10 percent.",
+                "evaluation_criteria": "The answer must accurately state the minimum NOF and CRAR percentages, including the minimum Tier 1 capital percentage.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            },
+            {
+                "question": "What are the fund-raising options available to IDF-NBFCs?",
+                "answer": "IDF-NBFCs can raise funds through the issuance of rupee or dollar-denominated bonds with a minimum maturity of five years. They can also raise funds through shorter-term bonds and commercial papers (CPs) from the domestic market, up to 10% of their total outstanding borrowings. Additionally, they can utilize the loan route through external commercial borrowings (ECBs), which must have a minimum tenor of five years and cannot be sourced from foreign branches of Indian banks.  ECBs are subject to guidelines from the Foreign Exchange Department of the RBI.",
+                "evaluation_criteria": "The answer should accurately list all three fund-raising methods. It should specify the minimum maturity for bonds and ECBs. The answer should state the limit for shorter-term bonds/CPs and the restriction on ECB sourcing.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What are the minimum NOF and regulatory capital requirements for an IDF-NBFC?",
+                "answer": "An Infrastructure Debt Fund-NBFC (IDF-NBFC) must have a minimum Net Owned Funds (NOF) of \u20b9300 crore and a capital-to-risk weighted assets ratio (CRAR) of at least 15 percent, with a minimum Tier 1 capital of 10 percent.",
+                "evaluation_criteria": "The answer must accurately state the minimum NOF and CRAR percentages. It should also specify the minimum Tier 1 capital percentage. The currency symbol must be included.",
+                "category": "fact-based",
+                "estimated_difficulty": 3
+            }
+        ]
+    },
+    "RBI_2023-2024_55DOR.MCS.REC.32_01.01.003_2023-24_2023-08-18": {
+        "filename": "RBI_2023-2024_55DOR.MCS.REC.32_01.01.003_2023-24_2023-08-18_text_part2.txt",
+        "metadata": {
+            "document_type": "Regulatory Circular",
+            "regulation_area": "Fair Practices Code for Lenders, Interest Rate Reset",
+            "applicable_to": "All Scheduled Commercial Banks, Regional Rural Banks, Primary (Urban) Co-operative Banks, State Co-operative Banks and District Central Co-operative Banks, Non-Banking Financial Companies (including Housing Finance Companies)",
+            "issued_on": "2023-08-18",
+            "key_topics": [
+                "Reset of Floating Interest Rate on EMI based Personal Loans",
+                "Communication to Borrowers Regarding Interest Rate Changes",
+                "Borrower Options for Interest Rate Changes",
+                "Transparency in Charges",
+                "Negative Amortization Prevention"
+            ]
+        },
+        "chunks_text": " Rate (APR) for the entire tenor of the loan. The REs shall ensure that the statements are simple and easily understood by the borrower.\n\n3. Apart from the equated monthly instalment loans, these instructions would also apply, *mutatis mutandis*, to all equated instalment based loans of different periodicities. In case of loans linked to an external benchmark under the External Benchmark Lending Rate (EBLR) regime, the banks should follow extant instructions and also put in place adequate information systems to monitor transmission of changes in the benchmark rate to the lending rate.\n\n4. REs shall ensure that the above instructions are extended to the existing as well as new loans suitably by December 31, 2023. All existing borrowers shall be sent a communication, through appropriate channels, intimating the options available to them.\n\n5. The above instructions are issued under sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, and sections 30A and 32 of the National Housing Bank Act, 1987.\n\nYours faithfully\n\nSantosh Kumar Panigrahy (Chief General Manager)",
+        "is_table": false,
+        "qa_pairs": [
+            {
+                "question": "What is the scope and deadline for implementing the provided instructions regarding loans?",
+                "answer": "These instructions apply to both new and existing equated installment-based loans, including those with different periodicities, and must be implemented by December 31, 2023. Existing borrowers must be informed of their available options via appropriate communication channels.",
+                "evaluation_criteria": "The answer should accurately state the scope of the instructions, specifying that they apply to both new and existing loans, and include the implementation deadline and the requirement for borrower communication.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "To what types of loans do these instructions apply?",
+                "answer": "The instructions apply to all equated installment-based loans, regardless of their periodicity, and also to loans linked to an external benchmark under the External Benchmark Lending Rate (EBLR) regime. Banks must monitor the transmission of benchmark rate changes to the lending rate in the latter case.",
+                "evaluation_criteria": "The answer should accurately identify the types of loans the instructions apply to, including both EMI-based and those linked to an external benchmark. It should also mention the requirement for banks to monitor the transmission of benchmark rate changes.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "Under which acts and sections are these instructions issued?",
+                "answer": "The instructions are issued under specific sections of the Banking Regulation Act of 1949, the Reserve Bank of India Act of 1934, and the National Housing Bank Act of 1987. These sections are 21, 35A, and 56 of the Banking Regulation Act; 45JA, 45L, and 45M of the Reserve Bank of India Act; and 30A and 32 of the National Housing Bank Act.",
+                "evaluation_criteria": "The answer must accurately list all three acts and their corresponding sections as mentioned in the document.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "By what date must financial institutions implement the provided instructions, and what actions are required regarding existing borrowers?",
+                "answer": "By December 31, 2023, financial institutions must implement these instructions for both existing and new loans. Existing borrowers will be informed of their available options through appropriate communication channels.",
+                "evaluation_criteria": "The answer should accurately state the deadline for implementation and specify that both existing and new loans are included. It should also mention the method of communication for existing borrowers.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "What is required regarding the clarity of statements about the Annual Percentage Rate (APR) for loans?",
+                "answer": "Financial institutions must ensure that statements regarding the Annual Percentage Rate (APR) are straightforward and easily understandable for borrowers throughout the loan's duration.",
+                "evaluation_criteria": "The answer should accurately state the requirement for clear and understandable statements about the APR, and specify that this applies for the entire loan tenor.",
+                "category": "fact-based",
+                "estimated_difficulty": 4
+            },
+            {
+                "question": "To what types of loans do these instructions apply, and are there any specific considerations for certain loan types?",
+                "answer": "These instructions apply to equated monthly installment loans and, with necessary changes, to all equated installment-based loans of different periodicities. For loans linked to an external benchmark, banks must follow existing guidelines and monitor the transmission of benchmark rate changes to lending rates.",
+                "evaluation_criteria": "The answer must accurately identify the types of loans the instructions cover, including both EMI-based and those linked to external benchmarks, and specify the additional requirements for the latter.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "What measures should banks take concerning loans tied to an external benchmark?",
+                "answer": "Banks should monitor the transmission of changes in the benchmark rate to the lending rate, particularly for loans linked to an external benchmark under the External Benchmark Lending Rate (EBLR) regime. They should also ensure they have adequate information systems in place to facilitate this monitoring.",
+                "evaluation_criteria": "The answer should accurately identify the type of loans and the specific actions banks must take regarding benchmark rate changes. The answer should mention 'External Benchmark Lending Rate (EBLR)' and 'transmission of changes'.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "To what types of loans do these instructions apply, and what considerations are there for loans linked to an external benchmark?",
+                "answer": "The instructions apply to equated monthly installment loans and, with necessary changes, to all equated installment-based loans of different periodicities. For loans linked to an external benchmark under the External Benchmark Lending Rate (EBLR) regime, banks must follow existing instructions and have systems to monitor the transmission of benchmark rate changes to the lending rate.",
+                "evaluation_criteria": "The answer must accurately identify the types of loans the instructions apply to, including both EMI-based loans and those linked to external benchmarks, and describe the requirements for each.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "To what loan types do these instructions apply, and what specific considerations are there for loans linked to an external benchmark?",
+                "answer": "These instructions apply to equated monthly installment loans and, with necessary changes, to all equated installment-based loans of different periodicities. For loans linked to an external benchmark under the External Benchmark Lending Rate (EBLR) regime, banks must follow existing guidelines and have information systems to monitor benchmark rate transmission.",
+                "evaluation_criteria": "The answer should accurately identify the types of loans covered by the instructions, including both EMI-based loans and those linked to external benchmarks. It should specify the need to follow existing instructions for EBLR-linked loans and the requirement for monitoring systems.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            },
+            {
+                "question": "To what types of loans do these instructions apply, and what specific considerations are there for loans linked to an external benchmark?",
+                "answer": "The instructions apply to all equated installment based loans of different periodicities, in addition to equated monthly installment loans. For loans linked to an external benchmark, banks must adhere to existing guidelines and monitor the transmission of benchmark rate changes to the lending rate.",
+                "evaluation_criteria": "The answer should accurately identify the types of loans covered by the instructions, including both the primary and secondary loan types. It should also mention the specific requirement for loans linked to an external benchmark.",
+                "category": "fact-based",
+                "estimated_difficulty": 5
+            }
+        ]
+    }
+}
