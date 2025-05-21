@@ -1,106 +1,111 @@
 import os
 
 
-def is_table_line(line):
-    """Check if the line contains a table marker."""
-    return '|' in line
-
-
-def split_markdown_file(input_file, output_folder, chunk_size=5000, min_chunk_size=500,
-                        skip_tables=False, skip_text=False):
+class MarkdownProcessor:
     """
-    Process a single Markdown file:
-    - Extract tables to a .txt file (if any)
-    - Chunk non-table content into parts of `chunk_size` characters
-      and merge last chunk if smaller than `min_chunk_size`
-
-    Args:
-        input_file (str): Path to the input markdown file
-        output_folder (str): Folder to write output files
-        chunk_size (int): Max number of characters per text chunk
-        min_chunk_size (int): Minimum acceptable character count for final chunk
-        skip_tables (bool): Skip extracting tables
-        skip_text (bool): Skip chunking and writing text content
+    Class responsible for processing a single markdown file,
+    splitting text into chunks and extracting tables.
     """
-    base_name = os.path.splitext(os.path.basename(input_file))[0]
 
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+    def __init__(self, input_file, output_folder, chunk_size=5000, min_chunk_size=500):
+        self.input_file = input_file
+        self.output_folder = output_folder
+        self.chunk_size = chunk_size
+        self.min_chunk_size = min_chunk_size
+        self.base_name = os.path.splitext(os.path.basename(input_file))[0]
 
-    table_content = []
-    text_content = []
-    in_table = False
+    def is_table_line(self, line):
+        """Check if the line contains a table marker."""
+        return '|' in line
 
-    for line in lines:
-        if not skip_tables and is_table_line(line):
-            if not in_table and text_content and text_content[-1] != '\n':
-                text_content.append('\n')
-            table_content.append(line)
-            in_table = True
-        else:
-            if in_table and not skip_tables:
-                if table_content[-1] != '\n':
-                    table_content.append('\n')
-                in_table = False
-            text_content.append(line)
+    def process(self, skip_tables=False, skip_text=False):
+        """Process the markdown file: extract tables and split text content."""
+        with open(self.input_file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
 
-    # Write table content if enabled and present
-    if not skip_tables and table_content:
-        table_output_path = os.path.join(output_folder, f"{base_name}_tables.txt")
-        with open(table_output_path, 'w', encoding='utf-8') as f:
-            f.writelines(table_content)
+        table_content = []
+        text_content = []
+        in_table = False
 
-    # Write text chunks if enabled and content exists
-    if not skip_text:
-        total_text = ''.join(text_content)
-        if total_text.strip():
-            # Generate initial list of chunks
-            chunks = [total_text[i:i + chunk_size] for i in range(0, len(total_text), chunk_size)]
+        for line in lines:
+            if not skip_tables and self.is_table_line(line):
+                if not in_table and text_content and text_content[-1] != '\n':
+                    text_content.append('\n')
+                table_content.append(line)
+                in_table = True
+            else:
+                if in_table and not skip_tables:
+                    if table_content[-1] != '\n':
+                        table_content.append('\n')
+                    in_table = False
+                text_content.append(line)
 
-            # Merge small last chunk with previous one if needed
-            if len(chunks) > 1 and len(chunks[-1]) < min_chunk_size:
-                chunks[-2] += chunks[-1]
-                chunks.pop()
+        # Save extracted tables
+        if not skip_tables and table_content:
+            self._write_table_content(table_content)
 
-            # Write each chunk to file
-            for idx, chunk in enumerate(chunks, start=1):
-                text_output_path = os.path.join(output_folder, f"{base_name}_text_part{idx}.txt")
-                with open(text_output_path, 'w', encoding='utf-8') as f:
-                    f.write(chunk)
+        # Save text chunks
+        if not skip_text:
+            self._write_text_chunks(text_content)
 
-    print(f"✅ Processed: {input_file}")
+        print(f"✅ Processed: {self.input_file}")
+
+    def _write_table_content(self, table_lines):
+        """Write table content to a separate file."""
+        table_path = os.path.join(self.output_folder, f"{self.base_name}_tables.txt")
+        with open(table_path, 'w', encoding='utf-8') as f:
+            f.writelines(table_lines)
+
+    def _write_text_chunks(self, text_lines):
+        """Chunk and write text content."""
+        total_text = ''.join(text_lines)
+        if not total_text.strip():
+            return
+
+        chunks = [total_text[i:i + self.chunk_size] for i in range(0, len(total_text), self.chunk_size)]
+
+        if len(chunks) > 1 and len(chunks[-1]) < self.min_chunk_size:
+            chunks[-2] += chunks[-1]
+            chunks.pop()
+
+        for idx, chunk in enumerate(chunks, start=1):
+            part_path = os.path.join(self.output_folder, f"{self.base_name}_text_part{idx}.txt")
+            with open(part_path, 'w', encoding='utf-8') as f:
+                f.write(chunk)
 
 
-def process_all_markdowns(root_folder, output_base_folder, chunk_size=5000, min_chunk_size=500,
-                          skip_tables=False, skip_text=False):
+class MarkdownSplitter:
     """
-    Recursively process all .md files in root_folder.
-
-    Args:
-        root_folder (str): Root directory containing markdown files
-        output_base_folder (str): Base folder to store output files
-        chunk_size (int): Max number of characters per text chunk
-        min_chunk_size (int): Minimum acceptable character count for final chunk
-        skip_tables (bool): Skip extracting tables
-        skip_text (bool): Skip chunking and writing text content
+    Orchestrates recursive processing of all .md files in a root folder.
     """
-    os.makedirs(output_base_folder, exist_ok=True)
 
-    for dirpath, _, filenames in os.walk(root_folder):
-        for file in filenames:
-            if file.endswith(".md"):
-                input_path = os.path.join(dirpath, file)
-                rel_dir = os.path.relpath(dirpath, root_folder)
-                output_subfolder = os.path.join(output_base_folder, rel_dir)
-                os.makedirs(output_subfolder, exist_ok=True)
-                split_markdown_file(
-                    input_path,
-                    output_subfolder,
-                    chunk_size=chunk_size,
-                    min_chunk_size=min_chunk_size,
-                    skip_tables=skip_tables,
-                    skip_text=skip_text
-                )
+    def __init__(self, root_folder, output_base_folder, chunk_size=5000, min_chunk_size=500):
+        self.root_folder = root_folder
+        self.output_base_folder = output_base_folder
+        self.chunk_size = chunk_size
+        self.min_chunk_size = min_chunk_size
+
+    def process_all(self, skip_tables=False, skip_text=False):
+        """Recursively process all markdown files."""
+        os.makedirs(self.output_base_folder, exist_ok=True)
+
+        for dirpath, _, filenames in os.walk(self.root_folder):
+            for filename in filenames:
+                if filename.endswith(".md"):
+                    input_path = os.path.join(dirpath, filename)
+                    rel_dir = os.path.relpath(dirpath, self.root_folder)
+                    output_subfolder = os.path.join(self.output_base_folder, rel_dir)
+                    os.makedirs(output_subfolder, exist_ok=True)
+
+                    processor = MarkdownProcessor(
+                        input_file=input_path,
+                        output_folder=output_subfolder,
+                        chunk_size=self.chunk_size,
+                        min_chunk_size=self.min_chunk_size
+                    )
+                    processor.process(skip_tables=skip_tables, skip_text=skip_text)
+
+        print("🏁 All files processed successfully.")
 
 
 # -----------------------------
@@ -118,12 +123,10 @@ if __name__ == '__main__':
     skip_text = False    # Set to True to skip text extraction
 
     print("🚀 Starting Markdown Splitter...")
-    process_all_markdowns(
+    splitter = MarkdownSplitter(
         root_folder=root_folder,
         output_base_folder=output_folder,
         chunk_size=default_chunk_size,
-        min_chunk_size=default_min_chunk_size,
-        skip_tables=skip_tables,
-        skip_text=skip_text
+        min_chunk_size=default_min_chunk_size
     )
-    print("🏁 All files processed successfully.")
+    splitter.process_all(skip_tables=skip_tables, skip_text=skip_text)
