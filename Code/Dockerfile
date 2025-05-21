@@ -45,6 +45,9 @@ RUN curl -LsSf https://astral.sh/uv/install.sh  | sh && \
 # Add uv to PATH (optional, but safe)
 ENV PATH="/usr/local/bin:${PATH}"
 
+ENV UV_LINK_MODE=copy
+ENV UV_ENVIRONMENT=default
+
 # Now uv will be found
 RUN uv --version
 
