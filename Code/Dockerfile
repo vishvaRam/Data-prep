@@ -1,4 +1,4 @@
-# Use a PyTorch base image
+
 FROM vishva123/nvdia-cuda-12.6.2-cudnn-ubuntu24.04-py-3.10:latest
 
 # Set the working directory
@@ -37,7 +37,6 @@ RUN wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | apt-key add
 # Install uv globally.
 # uv is installed to /root/.cargo/bin by default when run as root.
 # Install uv and add it to PATH permanently
-# Install uv and add it to PATH
 RUN curl -LsSf https://astral.sh/uv/install.sh  | sh && \
     cp $HOME/.local/bin/uv /usr/local/bin/uv && \
     cp $HOME/.local/bin/uvx /usr/local/bin/uvx
@@ -46,7 +45,6 @@ RUN curl -LsSf https://astral.sh/uv/install.sh  | sh && \
 ENV PATH="/usr/local/bin:${PATH}"
 
 ENV UV_LINK_MODE=copy
-ENV UV_ENVIRONMENT=default
 
 # Now uv will be found
 RUN uv --version
@@ -57,7 +55,7 @@ COPY uv.lock .
 
 # Install Python dependencies using uv.
 # uv sync ensures the environment matches pyproject.toml and uv.lock.
-RUN uv sync
+# RUN uv venv --python /usr/bin/python3 && uv sync
 
 # --- End UV Setup ---
 

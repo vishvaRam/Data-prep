@@ -1,8 +1,16 @@
+
+# Project files
 Code/Data/Raw-pdfs/
-
-.devcontainer
-
 Code/.env
+
+
+# Python-generated files
+Code/__pycache__/
+*.py[oc]
+Code/build/
+Code/dist/
+Code/wheels/
+*.egg-info
 
 # Python virtual environments
 Code/.venv/
@@ -14,6 +22,3 @@ Code/.venv/
 *.sublime-workspace
 *.swp
 .DS_Store
-
-# Byte-code files
-__pycache__/

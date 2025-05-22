@@ -243,9 +243,9 @@ class QAGenerator:
         
 if __name__ == "__main__":
     generator = QAGenerator(
-        model_name="gemini-2.0-flash",
+        model_name="gemini-2.0-flash-lite",
         temperature=0.2,
-        requests_per_minute=15,
+        requests_per_minute=30,
         max_iterations=20
     )
 
