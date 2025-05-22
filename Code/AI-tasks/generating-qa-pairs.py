@@ -163,6 +163,8 @@ class QAGenerator:
                     response.evaluation_criteria == "NO_MORE_QUESTIONS"
                 ):
                     print("[green]No more questions can be generated.[/green]")
+                    # Sleep to avoid hitting Gemini API rate limits
+                    time.sleep(self.minute / self.requests_per_minute)
                     break
 
                 # Skip duplicate questions
@@ -184,13 +186,22 @@ class QAGenerator:
         return QAPairList(items=qa_pairs)
 
     def run(self, chunks_path: str, metadata_path: str, output_file: str = "generated_qa_pairs.json"):
-        """Main function to process files and generate QA pairs."""
+        """Main function to process files and generate QA pairs — appends results to existing JSON."""
         print("\n[blue]Starting QA generation...[/blue]\n")
+
+        # Load existing results if file exists
+        if os.path.exists(output_file):
+            with open(output_file, "r", encoding="utf-8") as f:
+                try:
+                    all_results = json.load(f)
+                except json.JSONDecodeError:
+                    print("[yellow]⚠️ Existing JSON file is empty or corrupted. Starting fresh.[/yellow]")
+                    all_results = {}
+        else:
+            all_results = {}
 
         # Extract metadata and content
         metadata_dict = self.extract_metadata_from_chunks(chunks_path, metadata_path)
-
-        all_results = {}
 
         for filename, data in metadata_dict.items():
             print(f"\n[blue]📄 Processing file: {filename}[/blue]")
@@ -207,34 +218,39 @@ class QAGenerator:
             # Determine if it's a table file
             is_table = '_table' in filename
 
-            # Save results using metadata key as top-level key
-            all_results[clean_key] = {
-                "filename": filename,
-                "metadata": meta,
-                "chunks_text": content,
-                "is_table": is_table,
-                "qa_pairs": [qap.model_dump() for qap in qa_list.items]
+            # Build result for this file
+            file_result = {
+                filename: {
+                    "document": clean_key,
+                    "model_name": self.model.model,
+                    "metadata": meta,
+                    "chunks_text": content,
+                    "is_table": is_table,
+                    "qa_pairs": [qap.model_dump() for qap in qa_list.items]
+                }
             }
+
+            # Update the overall results (this will overwrite if filename already exists)
+            all_results.update(file_result)
 
             print(f"[green]✔ Completed {len(qa_list.items)} QA pairs for {filename}[/green]")
 
-        # Save final output to JSON
+        # Save updated results back to the same JSON file
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(all_results, f, indent=4)
 
-        print(f"\n[green]✅ All QA pairs saved to {output_file}[/green]")
-
-
+        print(f"\n[green]✅ Updated JSON file saved at: {output_file}[/green]")
+        
 if __name__ == "__main__":
     generator = QAGenerator(
-        model_name="gemini-2.0-flash-lite",
-        temperature=0.5,
-        requests_per_minute=30,
-        max_iterations=10
+        model_name="gemini-2.0-flash",
+        temperature=0.2,
+        requests_per_minute=15,
+        max_iterations=20
     )
 
     chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2023"
     metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2023.json"
-    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2023.json"
+    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2023_gemini_2.5-flash.json"
 
     generator.run(chunks_path, metadata_path, output_file)
