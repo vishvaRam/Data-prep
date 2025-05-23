@@ -1,0 +1,10 @@
+| Sr | Newly Created | Lead Bank Responsibility | District Working Code allotted to     |
+|----|---------------|--------------------------|---------------------------------------|
+| No | District      | assigned to              | new district                          |
+| 1  | Pandhurna     | Central Bank of India    | 02O                                   |
+|    |               |                          | (to be read as 'numeral zero, numeral |
+|    |               |                          | two, alphabet O')                     |
+| 2  | Maihar        | Indian Bank              | 02P                                   |
+|    |               |                          | (to be read as 'numeral zero, numeral |
+|    |               |                          | two, alphabet P')                     |
+

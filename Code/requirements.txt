@@ -12,3 +12,5 @@ selenium>=4.32.0
 torchaudio>=2.7.0
 torchvision>=0.22.0
 webdriver-manager>=4.0.2
+cffi
+cryptography

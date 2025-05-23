@@ -34,6 +34,7 @@ class QAGenerator:
         temperature: float = 0.2,
         requests_per_minute: int = 15,
         max_iterations: int = 10,
+        max_consecutive_duplicates: int = 3,  # New parameter
         api_key: Optional[str] = None
     ):
         """
@@ -44,6 +45,7 @@ class QAGenerator:
             temperature: Sampling temperature for response diversity.
             requests_per_minute: Rate limit for API calls.
             max_iterations: Max number of QA pairs per file.
+            max_consecutive_duplicates: Max consecutive duplicates before moving to next file.
             api_key: Google Gemini API key (defaults to GEMINI_API_KEY env var).
         """
         self.api_key = api_key or os.getenv("GEMINI_API_KEY")
@@ -58,6 +60,7 @@ class QAGenerator:
         )
 
         self.max_iterations = max_iterations
+        self.max_consecutive_duplicates = max_consecutive_duplicates
         self.requests_per_minute = requests_per_minute
         self.minute = 60  # seconds
 
@@ -138,6 +141,8 @@ class QAGenerator:
         """Generate multiple QA pairs for a given content and metadata."""
         qa_pairs = []
         history_str = "None"
+        consecutive_duplicates = 0  # Track consecutive duplicates
+        consecutive_errors = 0      # Track consecutive errors
 
         for i in range(self.max_iterations):
             try:
@@ -154,7 +159,7 @@ class QAGenerator:
                     "metadata": json.dumps(metadata),
                     "content": content,
                     "qa_history": history_str
-                })
+                }) # type: ignore
 
                 # Check for end-of-generation signal
                 if (
@@ -162,26 +167,45 @@ class QAGenerator:
                     response.answer == "NO_MORE_QUESTIONS" and
                     response.evaluation_criteria == "NO_MORE_QUESTIONS"
                 ):
-                    print("[green]No more questions can be generated.[/green]")
-                    # Sleep to avoid hitting Gemini API rate limits
-                    time.sleep(self.minute / self.requests_per_minute)
+                    print("[green]Model indicated no more questions can be generated.[/green]")
                     break
 
-                # Skip duplicate questions
+                # Check for duplicate questions
                 if any(pair.question == response.question for pair in qa_pairs):
-                    print("[yellow]Duplicate question detected. Skipping.[/yellow]")
+                    consecutive_duplicates += 1
+                    print(f"[yellow]Duplicate question detected ({consecutive_duplicates}/{self.max_consecutive_duplicates}). Skipping.[/yellow]")
+                    
+                    # If too many consecutive duplicates, break out of the loop
+                    if consecutive_duplicates >= self.max_consecutive_duplicates:
+                        print(f"[yellow]⚠️ Too many consecutive duplicates ({consecutive_duplicates}). Moving to next file.[/yellow]")
+                        break
+                    
+                    # Sleep before retrying
+                    time.sleep(self.minute / self.requests_per_minute)
                     continue
+
+                # Reset consecutive counters on successful generation
+                consecutive_duplicates = 0
+                consecutive_errors = 0
 
                 # Add to list
                 qa_pairs.append(response)
-                print(f"[green]✅ Generated QA pair #{i + 1}[/green]")
+                print(f"[green]✅ Generated QA pair #{len(qa_pairs)} (iteration {i + 1})[/green]")
 
                 # Sleep to avoid hitting Gemini API rate limits
                 time.sleep(self.minute / self.requests_per_minute)
 
             except Exception as e:
-                print(f"[red]Error during iteration {i + 1}: {e}[/red]")
-                break
+                consecutive_errors += 1
+                print(f"[red]Error during iteration {i + 1} (consecutive errors: {consecutive_errors}): {e}[/red]")
+                
+                # If too many consecutive errors, break out
+                if consecutive_errors >= 3:
+                    print(f"[red]⚠️ Too many consecutive errors ({consecutive_errors}). Moving to next file.[/red]")
+                    break
+                
+                # Sleep before retrying
+                time.sleep(self.minute / self.requests_per_minute)
 
         return QAPairList(items=qa_pairs)
 
@@ -194,6 +218,7 @@ class QAGenerator:
             with open(output_file, "r", encoding="utf-8") as f:
                 try:
                     all_results = json.load(f)
+                    print(f"[blue]📁 Loaded existing results with {len(all_results)} files[/blue]")
                 except json.JSONDecodeError:
                     print("[yellow]⚠️ Existing JSON file is empty or corrupted. Starting fresh.[/yellow]")
                     all_results = {}
@@ -202,9 +227,17 @@ class QAGenerator:
 
         # Extract metadata and content
         metadata_dict = self.extract_metadata_from_chunks(chunks_path, metadata_path)
+        
+        print(f"[blue]📊 Found {len(metadata_dict)} files to process[/blue]")
 
-        for filename, data in metadata_dict.items():
-            print(f"\n[blue]📄 Processing file: {filename}[/blue]")
+        for idx, (filename, data) in enumerate(metadata_dict.items(), 1):
+            print(f"\n[blue]📄 Processing file {idx}/{len(metadata_dict)}: {filename}[/blue]")
+            
+            # Skip if already processed (optional - remove if you want to reprocess)
+            if filename in all_results:
+                print(f"[yellow]⚠️ File {filename} already processed. Skipping.[/yellow]")
+                continue
+            
             content = data["content"]
             meta = data["metadata"]
 
@@ -235,22 +268,24 @@ class QAGenerator:
 
             print(f"[green]✔ Completed {len(qa_list.items)} QA pairs for {filename}[/green]")
 
-        # Save updated results back to the same JSON file
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(all_results, f, indent=4)
+            # Save after each file (for safety in case of crashes)
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(all_results, f, indent=4)
 
-        print(f"\n[green]✅ Updated JSON file saved at: {output_file}[/green]")
+        print(f"\n[green]✅ Final JSON file saved at: {output_file}[/green]")
+        print(f"[green]📊 Total files processed: {len(all_results)}[/green]")
         
 if __name__ == "__main__":
     generator = QAGenerator(
-        model_name="gemini-2.0-flash-lite",
+        model_name="gemini-2.0-flash",
         temperature=0.2,
-        requests_per_minute=30,
-        max_iterations=20
+        requests_per_minute=15,
+        max_iterations=20,
+        max_consecutive_duplicates=3
     )
 
-    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2023"
-    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2023.json"
-    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2023_gemini_2.5-flash.json"
+    chunks_path = "/workspaces/Data_prep/Code/Data/Data_to_process_2024"
+    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2024.json"
+    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024_gemini_2.0-flash.json"
 
     generator.run(chunks_path, metadata_path, output_file)

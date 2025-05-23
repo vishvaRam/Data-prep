@@ -1,0 +1,45 @@
+etail users:
+
+(a) all foreign currency interest rate products permitted to be offered to the retail users;
+
+(b) option to undertake / cancel a forward rate agreement / interest rate swap / interest rate option; and
+
+(c) any other foreign currency interest rate derivative contract including derivatives having cash instrument(s) and/or permitted derivative(s) as components, but excluding leveraged derivatives and derivatives containing a derivative instrument as underlying other than those specifically permitted.
+
+(vi) NDDCs involving INR can be offered to residents and non-residents by an Authorised Dealer Category-I bank, provided the Authorised Dealer Category-I bank (or its non-resident parent bank) has an operating International Financial Services Centre (IFSC) Banking Unit (IBU) as specified in [circular no. RBI/2014-](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9636&Mode=0) [15/533.DBR.IBD.BC.14570/23.13.004/2014-15 dated April 1, 2015,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9636&Mode=0) as amended from time to time.
+
+(vii) NDDCs involving INR offered to resident users shall be cash-settled in INR. Such derivatives offered to non-resident users shall be cash-settled in INR or any foreign currency.
+
+(viii) Foreign exchange derivative contracts not involving INR and foreign currency interest rate derivative contracts offered to resident users for purposes other than hedging shall be cash-settled in INR. Such derivatives offered to non-resident users for purposes other than hedging shall be cash-settled in INR or any foreign currency.
+
+## **2.3 Purpose**
+
+(i) Authorised Dealers may offer foreign exchange cash, tom and spot contracts, involving INR or otherwise, to users for permissible current or capital account transactions.
+
+(ii) Authorised Dealers may offer deliverable foreign exchange derivative contracts involving INR to users for the purpose of hedging.
+
+(iii) Authorised Dealer Category-I banks with an operating IFSC Banking Unit may offer NDDCs involving INR to resident users for the purpose of hedging and to non-resident users without any restriction in terms of purpose.
+
+(iv) Authorised Dealers may offer deliverable and non-deliverable foreign exchange derivative contracts not involving INR to users without any restriction in terms of purpose.
+
+(v) Authorised Dealers may offer foreign currency interest rate derivatives to users without any restriction in terms of purpose.
+
+(vi) Authorised Dealers may offer currency swaps to resident users, other than individuals, for the purpose of converting their INR liability into a foreign currency liability. In case of resident retail users, such conversion shall be subject to the existence of a natural hedge.
+
+## **2.4 Other Directions**
+
+(i) While offering a foreign exchange derivative contract involving INR to a user, other than NDDCs involving INR offered to non-resident users, and during the life of such contracts, Authorised Dealers shall ensure that:
+
+(a) The same exposure has not been hedged using any another derivative contract;
+
+(b) The notional amount and tenor of the derivative contract does not exceed the value and tenor of the exposure;
+
+(c) In case the exposure ceases to exist, in full or in part, the user has appropriately adjusted the hedge to ensure adherence to (b) above, unless the original derivative contract is assigned against any other unhedged exposure. No adjustment to the hedge is required to be made if, in the considered opinion of the Authorised Dealer, the change in exposure is not material;
+
+(d) In cases where the value of the exposure falls below the notional of the derivative, the notional should be suitably adjusted unless such divergence has occurred on account of changes in the market value of the exposure, in which case the user may, at his discretion, continue with the derivative contract till its original maturity. No adjustment to the hedge is required to be made if, in the considered opinion of the Authorised Dealer, the change in exposure is not material;
+
+(e) Where the value of the exposure is not ascertainable with certainty, derivative contracts may be booked on the basis of reasonable estimates. Such estimates should be reviewed periodically to ensure compliance with (c) and (d) above.
+
+Provided that Authorised Dealers shall permit users to take position up to USD 100 million equivalent of notional value (outstanding at any point of time), across all Authorised Dealers, for hedging contracted exposure without the requirement to establish the existence of underlying exposure. Authorised Dealers shall inform users that while they are not required to establish the existence of underlying exposure, they must ensure the existence of a valid underlying contracted exposure which has not been hedged using any other derivative contract and should be in a position to establish the same, if required.
+
+(ii) Authorised Dealers shall allow users to freely cancel and rebook derivative contracts. Ho
