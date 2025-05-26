@@ -14,3 +14,4 @@ torchvision>=0.22.0
 webdriver-manager>=4.0.2
 cffi
 cryptography
+langfuse

@@ -10,10 +10,15 @@ from langchain_core.prompts import ChatPromptTemplate
 import time
 from datetime import datetime
 from google.api_core.exceptions import ResourceExhausted, InternalServerError, GoogleAPIError # Import specific exceptions, including a more general GoogleAPIError
-
+from langfuse.callback import CallbackHandler
 
 # Load environment variables
 load_dotenv()
+
+langfuse_handler = CallbackHandler()
+
+# Tests the SDK connection with the server
+langfuse_handler.auth_check()
 
 
 # Model Definitions
@@ -207,7 +212,7 @@ class QAGenerator:
                     "metadata": json.dumps(metadata),
                     "content": content,
                     "qa_history": history_str
-                }) # type: ignore
+                }, config={"callbacks":[langfuse_handler]})
 
                 # Increment successful requests counter
                 self.successful_requests += 1
@@ -436,8 +441,8 @@ if __name__ == "__main__":
         max_consecutive_duplicates=3
     )
 
-    chunks_path = "/workspaces/Data_prep/Code/Data/Data_to_process_2024"
+    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2024"
     metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2024.json"
-    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024_gemini_2.0-flash-test.json" # Changed for testing
+    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024.json"
 
     generator.run(chunks_path, metadata_path, output_file)
