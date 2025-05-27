@@ -436,7 +436,7 @@ if __name__ == "__main__":
     generator = QAGenerator(
         model_name="gemini-2.0-flash",
         temperature=0.2,
-        requests_per_minute=15, # Keep this reasonable to avoid hitting per-minute limits too often
+        requests_per_minute=1800, # Keep this reasonable to avoid hitting per-minute limits too often
         max_iterations=20, # Max Q&A pairs per chunk
         max_consecutive_duplicates=3
     )

@@ -22,9 +22,9 @@ def count_processed_files(json_file_path: str):
             num_files = len(data)
             print(f"\n[green]📊 Successfully processed {num_files} unique files.[/green]")
             print("[blue]Individual file breakdown:[/blue]")
-            for filename, file_data in data.items():
-                qa_count = len(file_data.get("qa_pairs", []))
-                print(f"  - [cyan]{filename}[/cyan]: [yellow]{qa_count}[/yellow] QA pairs generated.")
+            # for filename, file_data in data.items():
+            #     qa_count = len(file_data.get("qa_pairs", []))
+            #     print(f"  - [cyan]{filename}[/cyan]: [yellow]{qa_count}[/yellow] QA pairs generated.")
         else:
             print(f"[red]Error: The JSON file does not contain a top-level dictionary. Expected a dictionary where keys are filenames.[/red]")
 
