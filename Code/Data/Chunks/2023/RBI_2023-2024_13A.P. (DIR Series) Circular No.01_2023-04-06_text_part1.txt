@@ -1,0 +1,46 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2023-24/13 A.P. (DIR Series) Circular No.01 April 06, 2023
+
+To
+
+Full Fledged Money Changers, non-bank Authorised Dealers Category II
+
+Madam/Sir,
+
+**APConnect - Online application for Full Fledged Money Changers and non-bank Authorised Dealers Category-II**
+
+Attention of Full Fledged Money Changers (FFMCs) and non-bank Authorised Dealers (AD) Category-II is invited to [A.P. \(DIR Series\) Circular No. 25 dated March 6, 2006,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2775&Mode=0) containing instructions for AD - Category II licence/reporting, the [Master Direction on Money Changing](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11518)  [Activities dated January 01, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11518) (updated from time to time) containing guidelines on issuance and renewal of FFMC licence and on money changing activities as well as the [Master Direction](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10868)  [on Money Transfer Service Scheme \(MTSS\) dated February 22, 2017](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10868) (updated from time to time) containing guidelines for Indian Agents under MTSS.
+
+2. A software application called 'APConnect' has been developed for processing of application for licencing of FFMC, non-bank AD Cat-II, authorisation as MTSS Agent, renewal of existing licence / authorisation, for seeking approval as per the extant instructions and for submission of various statements/returns by FFMCs and non-bank AD Cat II. The application can be accessed at ['https://apconnect.rbi.org.in/entity'](https://apconnect.rbi.org.in/entity).
+
+3. The APConnect application broadly consists of the following facilities/functionalities:
+
+- i. Registration and licensing of new companies as well as existing Authorised Persons (FFMC / non-bank AD Cat-II / NBFC eligible for AD Cat-II)
+- ii. Registration of new Branches
+- iii. Registration of Temporary Money Changing Facilities
+- iv. Registration of franchisees
+- v. Authorisation as Indian Agents under MTSS
+- vi. Upgradation of FFMC to non-bank AD Cat-II
+- vii. Renewal of Licences
+- viii. Opening of Foreign Currency Accounts
+- ix. Opening of Nostro Accounts for eligible entities
+- x. Voluntary Surrender of Licence
+- xi. Write-off of foreign currency notes
+- xii. Submission of Returns/Statements
+
+4. Existing FFMCs / non-bank AD Category-II shall register themselves on the APConnect application within three months from the date of issue of this circular, through the weblink indicated in para 2. Subsequent to registration on APConnect, requests for various other facilities / approvals listed in Para 3 above and submission of returns by the entities shall be done through the APConnect application. The FFMCs and non-bank AD Cat-II shall adhere to the instructions issued by the Reserve Bank, in this regard, from time to time.
+
+5. On receipt of confirmation from the Regional Office of the Reserve Bank regarding generation of licence through APConnect, the existing FFMCs/non-bank AD Cat-II shall surrender their existing licence to the respective Regional Office of the Reserve Bank.
+
+6. Eligible entities, desirous of applying for fresh FFMC/ non-bank AD Category II / MTSS Agent licence / authorisation shall submit their application only through APConnect.
+
+7. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+
+Yours faithfully,
+
+(Vivek Srivastava) Chief General Manager

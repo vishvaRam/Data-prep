@@ -1,0 +1,59 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2023-24/73 DoR.FIN.REC.49/20.16.003/2023-24 October 26, 2023
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks, and excluding Payments Banks) All Primary (Urban) Co-operative Banks/ State Co-operative Banks/ Central Cooperative Banks All Non-Banking Financial Companies (including Housing Finance Companies) All-India Financial Institutions (Exim Bank, NABARD, NHB, SIDBI and NaBFID) All Asset Reconstructions Companies All Credit Information Companies
+
+Dear Sir/ Madam
+
+# **Strengthening of customer service rendered by Credit Information Companies and Credit Institutions**
+
+Please refer to para 4 of the [Statement on Developmental and Regulatory](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55473)  [Policies](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55473) released with the [Bi-monthly Monetary Policy Statement 2023-24 on April](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55472)  [6, 2023,](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55472) wherein it was announced that a comprehensive framework will be put in place for strengthening and improving the efficacy of the grievance redress mechanism and customer service provided by the Credit Institutions (CIs) and Credit Information Companies (CICs).
+
+2. Accordingly, in exercise of the powers conferred by sub-section (1) of section 11 of the Credit Information Companies (Regulation) Act, 2005 (CICRA, 2005), the Reserve Bank of India directs CICs and CIs to implement the directions as detailed below:
+
+# 2.1. **Intimation of access to Credit Information Report and updation of credit information with Credit Information Companies**
+
+(a) CICs shall send alerts through SMS/ email to customers when their Credit Information Report (CIR) is accessed by the Specified Users (SUs) as defined in sub-section (l) of section 2 of CICRA, 2005, wherever mobile number/ email ID
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+details of the customers are available. The alerts shall be sent by CICs only when the CIR enquiry reflects in the CIR of the customer.
+
+(b) CIs shall send alerts through SMS/ email to customers while submitting information to CICs regarding default/ Days Past Due (DPD) in existing credit facilities, wherever the mobile number/email ID details are available.
+
+(c) To enable sending of alerts through SMS/ email, the Uniform Credit Reporting Format for reporting credit information by CIs to CICs has been modified as detailed in **[Annex](#page-4-0)** (Item 1).
+
+(d) CIs are advised to organise special awareness campaigns to sensitise their customers about benefits of submission of their mobile numbers/ email IDs.
+
+# 2.2. **Setting up of Nodal points/ officials by CIs**
+
+(a) CIs shall have a dedicated nodal point/ official of contact for CICs for redress of customer grievances. Details of the nodal point/ official along with email ID and telephone/ mobile number shall be furnished by CIs to CICs.
+
+(b) CIs shall inform CICs of any changes in the nodal points/ official within five (5) calendar days of such a change.
+
+# 2.3. **Root Cause Analysis of the Complaints by CIs**
+
+(a) CIs shall undertake Root Cause Analysis (RCA) of the customer grievances at least on a half yearly basis. CIs shall also use, among others, information on data rejected by the CICs and Data Quality Index (DQI) provided by CICs as sources of information for carrying out RCA.
+
+(b) Analysis of the RCA shall be reviewed by the Top Management of CIs, at least, on an annual basis.
+
+# 2.4. **Reasons for rejection of requests for data correction by CIs**
+
+(a) CIs shall inform the customers the reasons for the rejection of their request for data correction, if any, to enable such customers to better understand the issues in the CIR.
+
+(b) A list of reasons for rejection of requests shall be circulated by CICs to all CIs. CIs shall use the same while communicating the rejections of the request for data correction made by customers/ CICs during the grievance redress process.
+
+### 2.5. **Periodic review of match logic algorithm by CICs**
+
+(a) CICs shall have a board-approved policy for undertaking periodic review (at least on a half-yearly basis) of the 'Search & Match' logic algorithm implemented by them to provide Credit Information Report (CIR) of a borrower.
+
+(b) Root Cause Analysis (RCA) of the complaints being undertaken by CICs shall be used to identify issues in the existing 'Search & Match' logic algorithm.
+
+(c) Results of the RCA and subsequent changes in the search and match logic shall be placed befo

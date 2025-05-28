@@ -1,0 +1,4 @@
+| Bank Name | Date | Amount of<br>₹2000<br>banknotes<br>Exchanged | Amount of<br>₹2000<br>banknotes<br>Deposited | Total Amount |
+|-----------|------|----------------------------------------------|----------------------------------------------|--------------|
+|           |      |                                              |                                              |              |
+

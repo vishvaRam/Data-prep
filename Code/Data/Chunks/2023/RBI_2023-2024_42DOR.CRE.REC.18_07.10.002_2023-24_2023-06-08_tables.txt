@@ -1,0 +1,5 @@
+| Financial Year ended                                | March 31, 2024                                      | March 31, 2025                                            | March 31, 2026                                         |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------|
+| Overall PSL Target@                                 | 60% of ANBC2 or<br>CEOBSE3,<br>whichever is higher  | 65% of ANBC or<br>CEOBSE,<br>whichever is<br>higher       | 75% of ANBC or<br>CEOBSE,<br>whichever is<br>higher    |
+| Sub-target for<br>advances to weaker<br>sections#,4 | 11.50% of ANBC or<br>CEOBSE,<br>whichever is higher | 11.75% of<br>ANBC or<br>CEOBSE,<br>whichever is<br>higher | 12.00% of ANBC<br>or CEOBSE,<br>whichever is<br>higher |
+

@@ -1,0 +1,5 @@
+| Location            |       |      |        | Presentation Clearing   |  |  |  | Return Clearing         |  |  |  |
+|---------------------|-------|------|--------|-------------------------|--|--|--|-------------------------|--|--|--|
+| CTS                 | Grids | (New | Delhi, | Between 17:00 and 17:30 |  |  |  | Between 19:00 and 19:30 |  |  |  |
+| Chennai and Mumbai) |       |      |        | Hours                   |  |  |  | Hours                   |  |  |  |
+

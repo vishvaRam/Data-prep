@@ -1,0 +1,5 @@
+| S.<br>No. | Tranche            | Date of Subscription            | Date of Issuance                |
+|-----------|--------------------|---------------------------------|---------------------------------|
+| 1.        | 2023-24 Series III | December 18 - December 22, 2023 | December 28, 2023,<br>Thursday  |
+| 2.        | 2023-24 Series IV  | February 12 - February 16, 2024 | February 21, 2024,<br>Wednesday |
+

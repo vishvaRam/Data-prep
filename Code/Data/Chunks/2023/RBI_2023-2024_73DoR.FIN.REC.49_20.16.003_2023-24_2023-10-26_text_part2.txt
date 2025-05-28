@@ -1,0 +1,45 @@
+re the Board of Directors of the CIC for review.
+
+#### 2.6. **Ingestion of credit information data by CICs**
+
+(a) CICs shall ingest credit information data received from the Credit Institutions (CIs) as per its data acceptance rules, into their databases within seven (7) calendar days of its receipt from the CIs.
+
+(b) In case of data rejection, CICs shall communicate to the concerned CI, regarding rejection of the data with reasons, within seven (7) calendar days of receipt of the data.
+
+# 2.7. **Disclosure of complaints on credit information reporting by CICs**
+
+CICs shall disclose on their websites, details of complaints registered against them and CIs as per the format given in **[Annex](#page-4-0)** (Table 1 and 2).
+
+#### 2.8. **Easy access to Free Full Credit Report for the individuals by CICs**
+
+CICs shall provide easy access to Free Full Credit Report[1](#page-2-0) (FFCR) including credit score, once in a year (January- December), to individuals whose credit history is available with the CIC by displaying the link prominently on their website (on the Home page itself) so that individuals are able to access their FFCR conveniently.
+
+<span id="page-2-0"></span> <sup>1</sup> Please refer to [circular DBR.CID.BC.No.11/20.16.042/2016-17 dated September 1, 2016](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10590&Mode=0) on Free Annual Credit Report to Individuals.
+
+3. The directions shall come into effect six (6) months from the date of this circular. CICs and CIs are directed to put in place necessary systems and processes to implement these directions within this period.
+
+4. CICs and CIs which contravene or default in adherence to the above directions shall be liable for penal action as per the provisions of CICRA, 2005.
+
+Yours faithfully,
+
+(R. Lakshmi Kanth Rao) Chief General Manager-in-Charge
+
+Encl. Annex
+
+#### <span id="page-4-0"></span>**Item 1: Modifications in the Uniform Credit Reporting Format**
+
+- (a) The nomenclature of the field 'Fax Number' shall be changed to 'Email ID' in the Commercial Bureau reporting format.
+- (b) The nomenclature of the field 'dummy' shall be changed to 'Email ID' under the MFI Bureau reporting format.
+- (c) The above fields shall continue to be categorised as 'when available'.
+
+# **Table 1: Complaints registered with CICs during the year ended March 31, \_**
+
+
+*N.B. – The instructions shall be applicable prospectively from the date of issue of regulatory instructions. Last financial year's data shall be displayed by the CIC. CICs shall provide a download link/ option to provide vintage data of previous two (2) financial years, prior to the period displayed above.*
+
+#### **Table 2: Complaints registered against the CIs with CICs during the year ended March 31, \_\_\_\_\_**
+
+
+*N.B. – The instructions shall be applicable prospectively from the date of issue of regulatory instructions. Last financial year's data shall be displayed by the CIC. CICs shall provide a download link/ option to provide vintage data pertaining to all CIs for previous two (2) financial years, prior to the period displayed above.*
+
+*CICs shall provide the user an option to choose top ten CIs based on (i) total number of complaints received; (ii) complaints registered as a percentage of total records submitted by the CI; and (iii) unresolved complaints within TAT prescribed as per CICRA, 2005 as a percentage of total number of complaints registered against the concerned CI.*

@@ -1,0 +1,52 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2023-24/80 CO.DPSS.POLC.No.S-786/02-14-008/2023-24 October 31, 2023
+
+All Payment System Providers and Payment System Participants
+
+Madam / Dear Sir,
+
+# **Regulation of Payment Aggregator – Cross Border (PA - Cross Border)**
+
+A reference is invited to the Reserve Bank of India (RBI) circulars on –
+
+- a) '*Guidelines on Regulation of Payment Aggregators and Payment Gateways*' (a) [DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) and (b) [CO.DPSS.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12050&Mode=0) POLC. [No.S33/02-14-008/2020-2021 dated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12050&Mode=0) March 31, 2021,
+- b) '*Processing and Settlement of Export related receipts facilitated by Online Payment Gateways*' - [A.P. \(DIR Series\) Circular No. 17 dated November 16, 2010,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=6107&Mode=0)
+- c) '*Processing and Settlement of Export related receipts facilitated by Online Payment Gateways – Enhancement of the value of transaction*' **-** [A.P. \(DIR](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=8030&Mode=0)  [Series\) Circular No. 109 dated June 11, 2013,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=8030&Mode=0)
+- d) 'Processing and settlement of import and export related payments facilitated by Online Payment Gateway Service Providers' – [A.P. \(DIR Series\) Circular No.16 dated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10037&Mode=0)  [September 24, 2015,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10037&Mode=0) and
+- e) '*Processing and settlement of small value Export and Import related payments facilitated by Online Export-Import Facilitators (OEIF) (erstwhile OPGSP)*' – [draft](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53530)  [circular issued on April 7, 2022](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53530) for seeking feedback from banks and other stakeholders.
+- 2. All Payment Aggregators (PAs) which facilitate processing of domestic transactions in online mode are covered within the scope of the circulars referred to above at paragraph 1(a). Further, instructions for cross-border payment transactions are provided for in the circulars mentioned above at paragraphs 1(c) to 1(e) as well as through specific approval given by the RBI to banks for their collection agent arrangements.
+
+400001
+
+�हंदी आसान है, इसका �योग बढ़ाइए
+
+- 3. Keeping in view the developments that have taken place in the area of cross-border payments, it has been decided to bring all entities facilitating cross-border payment transactions for import and export of goods and services under direct regulation of the RBI. Such entities shall be treated as Payment Aggregator-Cross Border (PA-CB); details thereof are provided in [Annex.](#page-2-0)
+- 4. Entities, including Authorised Dealer (AD) banks, PAs and PAs-CB, involved in processing / settlement of cross-border payment transactions for import and export of goods and services, shall comply with these instructions (as updated from time to time).
+- 5. This directive is issued under Section 10 (2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and, Section 10 (4) and Section 11 (1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999), and is without prejudice to permissions / approvals, if any, required under any other law.
+
+Yours faithfully,
+
+(Gunveer Singh) Chief General Manager-in-Charge
+
+Encl.: As above
+
+## **(RBI circular CO.DPSS.POLC.No.S-786/02-14-008/2023-24 dated October 31, 2023)**
+
+# <span id="page-2-0"></span>**Regulation of PA-CBs**
+
+#### 1. Definition
+
+- 1.1. PAs-CB are entities that facilitate cross-border payment transactions for import and export of permissible goods and services in online mode.
+- 1.2. In the context of PAs, 'escrow account' shall refer to an account wherein PAs pool / aggregate the amount collected on behalf of the merchants on-boarded by them.
+- 2. Requirement of authorisation
+- 2.1. AD Category-I banks do not require separate approval from the RBI for undertaking PA-CB activity.
+- 2.2. Non-banks which provide PA-CB services as on the date of this circular, shall apply to the RBI for authorisation by April 30, 2024 in the format provided in the [circular dated March](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0)  [17, 2020;](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) they shall be allowed to continue such services till they receive communication from the RBI regarding the decision on their application. Authorisation for PA-CB activity may be sought for any one of the following categories:
+	- i. Export only PA-CB (PA-CB-E)
+	- ii. Import only PA-CB (PA-CB-I)
+	- iii. Export and Import PA-CB (PA-CB- E&I)
+- 2.3. The entities, currently carrying out this ac

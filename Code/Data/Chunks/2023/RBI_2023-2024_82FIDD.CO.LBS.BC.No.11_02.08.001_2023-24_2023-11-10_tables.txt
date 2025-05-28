@@ -1,0 +1,25 @@
+| Sr.<br>No. | Newly Created District | Lead Bank Responsibility<br>assigned to | District Working Code<br>allotted to new district |
+|------------|------------------------|-----------------------------------------|---------------------------------------------------|
+| 1          | Anupgarh               | Punjab National Bank                    | 01W                                               |
+| 2          | Balotra                | State Bank of India                     | 01X                                               |
+| 3          | Beawar                 | Bank of Baroda                          | 01Y                                               |
+| 4          | Kekri                  | Bank of Baroda                          | 01Z                                               |
+| 5          | Deeg                   | Punjab National Bank                    | 02A                                               |
+| 6          | Didwana-Kuchaman       | UCO Bank                                | 02B                                               |
+| 7          | Jaipur                 | Punjab National Bank                    | 500                                               |
+| 8          | Dudu                   | UCO Bank                                | 02C                                               |
+| 9          | Jaipur Rural           | State Bank of India                     | 02D                                               |
+| 10         | Gangapur<br>City       | Bank of Baroda                          | 02E                                               |
+| 11         | Jodhpur                | Punjab National Bank                    | 530                                               |
+| 12         | Phalodi                | UCO Bank                                | 02F                                               |
+
+| Sr.<br>No. | Newly Created District | Lead Bank Responsibility<br>assigned to | District Working Code<br>allotted to new district |
+|------------|------------------------|-----------------------------------------|---------------------------------------------------|
+| 13         | Jodhpur Rural          | ICICI Bank                              | 02G                                               |
+| 14         | Khairthal-Tijara       | Punjab National Bank                    | 02H                                               |
+| 15         | Kotputli-Behror        | Punjab National Bank                    | 02I                                               |
+| 16         | Neem Ka Thana          | State Bank of India                     | 02J                                               |
+| 17         | Salumber               | ICICI Bank                              | 02K                                               |
+| 18         | Sanchore               | State Bank of India                     | 02L                                               |
+| 19         | Shahpura               | Bank of Baroda                          | 02M                                               |
+

@@ -1,0 +1,16 @@
+| Date               | Amount to be released               |
+|--------------------|-------------------------------------|
+| September 09, 2023 | 25 per cent of the I-CRR maintained |
+| September 23, 2023 | 25 per cent of the I-CRR maintained |
+| October 07, 2023   | 50 per cent of the I-CRR maintained |
+
+| During the fortnight    | Amount to be maintained                                              |
+|-------------------------|----------------------------------------------------------------------|
+| September 09-22, 2023   | an additional average daily balance which shall not be less than 7.5 |
+|                         | per cent of the increase in net demand and time liabilities between  |
+|                         | May 19, 2023 and July 28, 2023                                       |
+| September 23, 2023<br>- | an additional average daily balance which shall not be less than 5.0 |
+| October 06, 2023        | per cent of the increase in net demand and time liabilities between  |
+|                         | May 19, 2023 and July 28, 2023                                       |
+| From October 07, 2023   | Nil                                                                  |
+

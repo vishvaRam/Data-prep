@@ -1,0 +1,39 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+#### RBI/2023-24/40 DOR.STR.REC.20/21.04.048/2023-24 June 08, 2023
+
+Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) Primary (Urban) Co-operative Banks/State Co-operative Banks/ Central Co-operative Banks All-India Financial Institutions Non-Banking Financial Companies (including Housing Finance Companies)
+
+Madam/Dear Sir,
+
+## **Framework for Compromise Settlements and Technical Write-offs**
+
+The Reserve Bank of India has issued various instructions to regulated entities (REs) regarding compromise settlements in respect of stressed accounts from time to time, including the [Prudential Framework for Resolution of Stressed Assets dated June 7, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11580&Mode=0) ("**Prudential Framework**"), which recognises compromise settlements as a valid resolution plan. With a view to provide further impetus to resolution of stressed assets in the system as well as to rationalise and harmonise the instructions across all REs, as announced in the [Statement on](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55815)  [Developmental and Regulatory Policies released on June 8, 2023,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55815) it has been decided to issue a comprehensive regulatory framework governing compromise settlements and technical write-offs covering all the REs, as detailed in the [Annex.](#page-1-0)
+
+2. The provisions of this framework shall be applicable to all REs to which this circular is addressed and shall be without prejudice to the provisions of the Prudential Framework, or any other guidelines applicable to the REs on resolution of stressed assets.
+
+3. These instructions on operationalising the framework have been issued in exercise of the powers conferred by the Sections 21 and 35A of the Banking Regulation Act, 1949 read with Section 56 of the Banking Regulation Act, 1949; Chapter IIIB of the Reserve Bank of India Act, 1934 and Sections 30A, 32 and 33 of the National Housing Bank Act, 1987. They shall come into force with immediate effect and REs shall take necessary steps to ensure compliance with these instructions.
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+# <span id="page-1-0"></span>**Framework for Compromise Settlements and Technical Write-offs**
+
+#### **Board-approved policy**
+
+1. Regulated Entities (REs) shall put in place Board-approved policies for undertaking compromise settlements with the borrowers as well as for technical write-offs.
+
+> *Compromise settlement* for this purpose shall refer to any negotiated arrangement with the borrower to fully[1](#page-1-1) settle the claims of the RE against the borrower in cash; it may entail some sacrifice of the amount due from the borrower on the part of the REs with corresponding waiver of claims of the RE against the borrower to that extent.
+
+> *Technical write-off* for this purpose shall refer to cases where the nonperforming assets remain outstanding at borrowers' loan account level, but are written-off (fully or partially) by the RE only for accounting purposes, without involving any waiver of claims against the borrower, and without prejudice to the recovery of the same.
+
+- 2. The Board approved policy shall comprehensively lay down the process to be followed for all compromise settlements and technical write-offs, with specific guidance on the necessary conditions precedent such as minimum ageing, deterioration in collateral value etc. The policies shall also put in place a graded framework for examination of staff accountability in such cases with reasonable thresholds and timelines as may be decided by the Board.
+- 3. In respect of compromise settlements, the policy shall *inter alia* contain provisions relating to permissible sacrifice for various categories of exposures while arriving at the settlement amount, after prudently reckoning the current realisable value of security/collateral, where available. The methodology for arriving at the realisable value of the security shall also form part of the policy. The objective shall be to maximise the possible recovery from a distressed borrower at minimum expense, in the best interest of the RE.
+- 4. The compromise settlements and technical write-offs shall be without prejudice to any mutually agreed contractual provisions between the RE and the borrower relating to future contingent realizations or recovery by the RE, subject to such claims not being
+
+<span id="page-1-1"></span> <sup>1</sup> Any arrangement involving part settlement with the borrower shall fall under the definition of restructuring, as defined in the **Prudential Framework** and shall be governed by the provisions applicable thereto.
+
+recognised in any manner on the balance sheet of REs at the time of the settlement or subsequently till actual realization of such receivables. Any such claims recognised on the ba

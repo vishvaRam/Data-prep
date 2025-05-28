@@ -1,0 +1,5 @@
+| Sl.<br>No | Circular Number                                           | Date of<br>Issue | Subject                                                                                                         |
+|-----------|-----------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1         | DBOD.No.BP.BC.81/21.01.040/<br>95 (excluding Paragraph 2) | 28.07.1995       | Compromise<br>or<br>Negotiated<br>Settlements of Non-Performing<br>Assets (NPAs)                                |
+| 2         | DBOD.BP.BC.55/21.04.117/<br>2007-08                       | 30.11.2007       | Guidelines<br>on<br>Settlement<br>of<br>Non-Performing<br>Assets<br>–<br>Obtaining Consent Decree from<br>Court |
+| 3         | DBOD.BP.BC.No.112/<br>21.04.048/2009-10                   | 21.06.2010       | Compromise/Negotiated/One<br>Time<br>settlement<br>of<br>Non<br>Performing Assets                               |

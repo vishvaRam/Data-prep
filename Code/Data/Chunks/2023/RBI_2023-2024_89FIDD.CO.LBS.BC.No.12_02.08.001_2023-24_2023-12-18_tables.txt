@@ -1,0 +1,6 @@
+| Sr No | Newly Created | Lead<br>Bank<br>Responsibility | District Working Code allotted                                            |
+|-------|---------------|--------------------------------|---------------------------------------------------------------------------|
+|       | District      | assigned to                    | to new district                                                           |
+| 1     | Mauganj       | Union Bank of India            | 02N                                                                       |
+|       |               |                                | (to<br>be<br>read<br>as<br>'numeral<br>zero,<br>numeral two, alphabet N') |
+

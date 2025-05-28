@@ -1,0 +1,44 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2022-23/160 A.P. (DIR Series) Circular No. 22 January 04, 2023
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sir
+
+## **Foreign Investment in India - Rationalisation of reporting in Single Master Form (SMF) on FIRMS Portal**
+
+Attention of Authorised Dealer Category-I banks (AD banks) is invited to [A.P. \(DIR](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11297&Mode=0)  [Series\) Circular No. 30](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11297&Mode=0) dated June 07, 2018.
+
+2. It is advised that the following changes are being implemented with respect to the reporting of foreign investment in SMF on FIRMS portal:
+
+- i) The forms submitted on the portal will be auto-acknowledged. The AD banks shall verify the same within five working days based on the uploaded documents, as specified.
+- ii) In cases of delayed reporting, the AD banks shall either advise the Late Submission Fee (LSF) to the applicants, which will be computed by the system or advise for compounding of contravention, as the case may be.
+
+The salient features of the changes made in the system are given in **[Annex](#page-1-0)** for ready reference. For detailed guidelines, the FIRMS manual available at [https://firms.rbi.org.in](https://firms.rbi.org.in/) may be referred to, and the version of manual available at the portal will have the finality in case of any mismatch.
+
+3. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+
+Yours faithfully
+
+(N. Senthil Kumar) General Manager-in-Charge
+
+## <span id="page-1-0"></span>**Auto-acknowledgement of SMF in FIRMS and online calculation of LSF**
+
+The forms submitted in FIRMS will now be processed as detailed below:
+
+All forms submitted with the requisite documents will be auto-acknowledged on the FIRMS portal with a time stamp and an auto-generated e-mail will be sent to the applicant.
+
+- i) The forms submitted within prescribed timelines, will be verified by the AD banks based on the uploaded mandatory documents and ensure that the same are in compliance with the extant guidelines.
+- ii) The system would identify the delay in reporting, if any.
+- iii) For forms filed with a delay less than or equal to three years, the AD banks will approve the same, subject to payment of LSF.
+- iv) The LSF will be computed by the system and an e-mail will be sent to the applicant and the concerned Regional Office (RO) of RBI specifying the amount and the timeline within which it is to be paid to the concerned RO of RBI.
+- v) Once the LSF amount is realised, the concerned RO will update the status in the FIRMS portal and the updated status will be communicated to the applicant through a system generated e-mail, which can also be viewed in the FIRMS portal.
+- vi) The AD bank will approve the forms filed with a delay greater than three years, subject to compounding of contravention. The applicant may thereafter approach RBI with their application for compounding.
+- vii) The remarks of the AD Bank for rejection of forms, if any, will be communicated to the applicant through a system generated e-mail and the same can also be viewed in the FIRMS portal.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*

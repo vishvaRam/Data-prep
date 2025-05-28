@@ -1,0 +1,21 @@
+| Field                                      | Type | Code to be used |
+|--------------------------------------------|------|-----------------|
+| 6305 (in N06 message)                      | NEFT | 41              |
+| PmtTpInf/CtgyPurp/Cd (in Pacs.008 message) | RTGS | FCRA            |
+
+| System | Field /<br>Tag                                                | Code<br>to be<br>used | Transaction without Legal Entity<br>Identifier (LEI) details | Transaction with LEI details                          |
+|--------|---------------------------------------------------------------|-----------------------|--------------------------------------------------------------|-------------------------------------------------------|
+| NEFT   | 6305<br>(in N06<br>message)                                   | 41                    | Field- 7495                                                  | Field- 7495                                           |
+|        |                                                               |                       | line 1: Donor Address                                        | line 1: SL/20-digit sender LEI/                       |
+|        |                                                               |                       | line 2: Donor Address                                        | line 2: BL/20-digit beneficiary LEI/                  |
+|        |                                                               |                       | line 3: Name of the Donor                                    | line 3: Name of the Donor                             |
+|        |                                                               |                       | line 4: Purpose of the Remittance –<br>Alphanumeric          | line 4: Purpose of the Remittance<br>Alphanumeric     |
+|        |                                                               |                       | line 5: Country of the Donor –<br>Alphabet                   | line 5: Country of the Donor<br>Alphabet              |
+|        |                                                               |                       | line 6: Currency and Amount -<br>Alphanumeric                | line 6: Currency and Amount<br>Alphanumeric           |
+|        |                                                               |                       | Tag- RmtInf/Ustrd                                            | Tag- RmtInf/Ustrd                                     |
+| RTGS   | PmtTpInf /<br>CtgyPurp /<br>Cd<br>(in<br>Pacs.008<br>message) | FCRA                  | loop 1: Name of the donor                                    | loop 1: /SL/20-digit sender LEI/                      |
+|        |                                                               |                       | loop 2: Donor Address                                        | loop 2: /BL/20-digit beneficiary LEI/                 |
+|        |                                                               |                       | loop 3: Purpose of the Remittance-                           | loop 3: Purpose of the Remittance –                   |
+|        |                                                               |                       | Alphanumeric                                                 | Alphanumeric                                          |
+|        |                                                               |                       | loop 4: Country of the Donor,<br>currency, and Amount        | loop 4: Country of the Donor,<br>currency, and Amount |
+|        |                                                               |                       | - Alphanumeric                                               | - Alphanumeric                                        |

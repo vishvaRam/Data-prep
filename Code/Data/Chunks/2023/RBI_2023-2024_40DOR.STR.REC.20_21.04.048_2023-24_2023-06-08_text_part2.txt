@@ -1,0 +1,51 @@
+lance sheet of the RE shall render the arrangement to be treated as restructuring in terms of paragraph 7 of this circular.
+
+## **Delegation of Power**
+
+- 5. The aforesaid policy shall also cover the delegation of powers for approval/sanction of compromise settlements and technical write-offs.
+- 6. In respect of compromise settlements, it shall be ensured that:
+	- (i) delegation of power for such approvals rests with an authority (individual or committee, as the case may be) which is at least one level higher in hierarchy than the authority vested with power to sanction the credit / investment exposure.
+
+Provided that any official who was part of sanctioning the loan (as individual or part of a committee) shall not be part of the approving the proposal for compromise settlement of the same loan account, in any capacity.
+
+(ii) proposals for compromise settlements in respect of debtors classified as fraud or wilful defaulter, as permitted in terms of clause 13 of this Annex, shall require approval of the Board in all cases.
+
+## **Prudential treatment**
+
+- 7. Compromise settlements where the time for payment of the agreed settlement amount exceeds three months shall be treated as restructuring as defined in terms of the [Prudential framework on Resolution of Stressed Assets dated June 7, 2019.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11580&Mode=0)
+- 8. In case of partial technical write-offs, the prudential requirements in respect of residual exposure, including provisioning and asset classification, shall be with reference to the original exposure,
+
+Provided that the amount of provision including the amount representing partial technical write-off shall meet the extant provisioning requirements, as computed on the gross value of the asset.
+
+## **Reporting Mechanism**
+
+9. There shall be a reporting mechanism to the next higher authority, at least on a quarterly basis, with respect to compromise settlements and technical write offs approved by a particular authority. Compromise settlements and technical write-offs approved by the MD & CEO / Board Level Committee would be reported to the Board.
+
+# **Oversight by the Board**
+
+10. The Board shall mandate a suitable reporting format so as to ensure adequate coverage of the following aspects at the minimum: (i) trend in number of accounts and amounts subjected to compromise settlement and/or technical write-off (q-o-q and yo-y); (ii) out of (i) above, separate breakup of accounts classified as fraud, red-Flagged, wilful default and quick mortality accounts; (iii) amount-wise, sanctioning authoritywise, and business segment / asset-class wise grouping of such accounts; (iv) extent of recovery in technically written-off accounts.
+
+## **Cooling Period**
+
+11. In respect of borrowers subject to compromise settlements, there shall be a cooling period as determined by the respective Board approved policies before the REs can assume fresh exposures to such borrowers.
+
+Provided that:
+
+- (i) The cooling period in respect of exposures other than farm credit exposures shall be subject to a floor of 12 months. REs are free to stipulate higher cooling periods in terms of their Board approved policies.
+- (ii) The cooling period for farm credit exposures shall be determined by the REs as per their respective Board approved policies.
+
+Farm credit for the above purpose shall refer to credit extended to agricultural activities as listed in Annex 2 to the *Master Circular - [Prudential norms on Income Recognition,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12472)  [Asset Classification and Provisioning pertaining to Advances](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12472)* as amended from time to time.
+
+12. The cooling period to be adopted in respect of exposures subjected to technical writeoffs shall be as per the Board approved policies of the REs.
+
+## **Treatment of accounts categorized as fraud and wilful defaulter**
+
+13. REs may undertake compromise settlements or technical write-offs in respect of accounts categorised as *wilful defaulters* or *fraud* without prejudice to the criminal proceeding underway against such debtors.
+
+## **Other legal provisions**
+
+- 14. The compromise settlements with the borrowers under the above framework shall be without prejudice to the provisions of any other statute in force.
+- 15. Further, wherever REs had commenced recovery proceedings under a judicial forum and the same is pending before such judicial forum, any settlement arrived at with the borrower shall be subject to obtaining a consent decree from the concerned judicial authorities.
+
+#### **List of circulars that stand repealed with immediate effect**
+

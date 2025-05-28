@@ -1,0 +1,19 @@
+| Financial<br>Year | Total number<br>of complaints<br>received by<br>the Credit<br>Information<br>Company<br>(CIC)<br>A = B+D | Complaints pertaining to<br>issues at Credit<br>Institutions (CIs) level |                                                            | Complaints pertaining to<br>issues at CIC end       |                                                            |
+|-------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|
+|                   |                                                                                                          | Total<br>Number of<br>complaints<br>received<br>(B)                      | Number of<br>complaints<br>unresolved<br>within TAT<br>(C) | Total<br>Number of<br>complaints<br>received<br>(D) | Number of<br>complaints<br>unresolved<br>within TAT<br>(E) |
+|                   |                                                                                                          |                                                                          |                                                            |                                                     |                                                            |
+
+| Sl. | Name   | Number     | Total number  | Complaints as    | Number of  | Complaints       |
+|-----|--------|------------|---------------|------------------|------------|------------------|
+| No. | of the | of records | of complaints | percentage of    | complaints | unresolved       |
+|     | CI     | submitted  | registered    | total records    | unresolved | within TAT as a  |
+|     |        | by the CI  | against the   | submitted by the | within TAT | percentage of    |
+|     |        | during the | CI during the | CI               | by the CI  | total complaints |
+|     |        | year       | year          |                  | as on      | registered       |
+|     |        |            |               | (D)              | reference  | against the CI   |
+|     | (A)    | (B)        | (C)           | [C as a % of B]  | date       | (F)              |
+|     |        |            |               |                  | (E)        | [E as a % of C]  |
+| 1   | CI - 1 |            |               |                  |            |                  |
+| 2   | CI - 2 |            |               |                  |            |                  |
+| 3   | ……     |            |               |                  |            |                  |
+

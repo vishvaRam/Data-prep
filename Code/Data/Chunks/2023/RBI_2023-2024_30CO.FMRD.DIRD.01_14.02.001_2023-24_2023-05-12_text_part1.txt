@@ -1,0 +1,39 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2023-24/30 CO.FMRD.DIRD.01/14.02.001/2023-24 May 12, 2023
+
+To
+
+The Chief Executive Officer/ Chairman/Managing Director, All Commercial and Co-operative Banks / All India Financial Institutions / Non-Banking Financial Companies including Housing Finance Companies and Standalone Primary Dealers
+
+Madam / Dear Sir
+
+## **LIBOR Transition**
+
+Attention of banks/financial institutions (FIs) is drawn to the Reserve Bank advisory on ["Roadmap for LIBOR Transition"](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12128&Mode=0) dated July 08, 2021 wherein banks/FIs, *inter-alia*, were (i) encouraged to cease, and also encourage their customers to cease, entering into new financial contracts that reference London Interbank Offered Rate (LIBOR) as a benchmark and instead use any widely accepted Alternative Reference Rate (ARR), as soon as practicable and in any case by December 31, 2021 and (ii) urged to incorporate robust fallback clauses in all financial contracts that reference LIBOR and the maturity of which was after the announced cessation date of the LIBOR settings.
+
+2. With the concerted efforts of banks/FIs as well as industry associations like the Indian Banks' Association, a smooth transition with respect to LIBOR settings that have ceased to be published/become non-representative after December 31, 2021 has been achieved. The transition away from LIBOR was also facilitated by the continuing publication of US\$ LIBOR settings in five tenors which provided a longer transition period particularly for the insertion of the fallback clauses in legacy financial contracts that reference LIBOR. New transactions are now predominantly undertaken using ARRs such as the Secured Overnight Financing Rate (SOFR) and the Modified
+
+�वत्तीय बाज़ार �व�नयमन �वभाग, क�द्र�य कायार्लय, पहल� मंिजल, मु ख्य भवन, शह�द भगत �स ंह मागर्, फोटर्, मुंबई – 400 001, भारत Financial Markets Regulation Department, Central Office, 9th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001, India फोन/Tel: (91-22) 2260 3000, फै क्स/Fax: (91-22) 22702290, ई-मेल /E-Mail: cgmfmrd@rbi.org.in
+
+![](_page_0_Picture_13.jpeg)
+
+![](_page_1_Picture_0.jpeg)
+
+Mumbai Interbank Forward Outright Rate (MMIFOR). At the same time, there have been instances of a few US\$ LIBOR linked financial contracts undertaken/facilitated by banks/FIs after January 1, 2022. Also, while banks have reported that substantial progress has been made towards insertion of fallback clauses, the process is yet to be completed for all contracts where such fallbacks are required to be inserted.
+
+3. After June 30, 2023, the publication of the remaining five US\$ LIBOR settings will cease permanently. While certain synthetic LIBOR settings will continue to be published after June 30, 2023, the Financial Conduct Authority (FCA), UK, which regulates the LIBOR, has made it clear that these settings are not meant to be used in new financial contracts. The MIFOR, a domestic interest rate benchmark reliant on US\$ LIBOR, will also cease to be published by Financial Benchmarks India Pvt. Ltd. (FBIL) after June 30, 2023.
+
+4. Banks/FIs are advised to ensure that no new transaction undertaken by them or their customers rely on or are priced using the US\$ LIBOR or the MIFOR. Banks/FIs are also advised to take all necessary steps to ensure insertion of fallbacks in all remaining legacy financial contracts that reference US\$ LIBOR (including transactions that reference MIFOR). Fallbacks in such contracts should be inserted at the earliest so as to ensure that transition of any remaining US\$ LIBOR-linked contracts is completed well before the deadline of end June 2023 and any disruptions due to a last-minute rush to insert fallbacks is avoided. Banks/FIs are advised not to rely on the availability of synthetic LIBOR rates as a substitute for fallbacks in legacy contracts.
+
+5. Banks/FIs are expected to have developed the systems and processes to manage the complete transition away from LIBOR from July 1, 2023. Continued efforts in sensitising customers on the steps to be taken to manage the associated risks will enable a smooth completion of the final leg of the transition.
+
+6. The Reserve Bank will continue to monitor the efforts of banks/FIs for ensuring a smooth transition from LIBOR.
+
+Yours sincerely,
+
+(Dimple Bhandia) Chief General Manager

@@ -1,0 +1,31 @@
+ provided by authorised payment systems in India, except small PPIs.
+
+#### 5. Export only PA-CBs
+
+- 5.1. Export only PA-CB shall maintain Export Collection Account (ECA) *denominated in Indian Rupees (INR) and / or foreign currency (i.e. non-INR)* – with an AD Category-I scheduled commercial bank. An ECA for each non-INR currency shall be maintained separately.
+- 5.2. All export proceeds shall be credited to the relevant currency ECA of the PA-CB.
+- 5.3. In arrangements where PA-CBs facilitate transactions between merchants / e-commerce marketplaces in India and customers / e-commerce marketplaces abroad, it shall be the responsibility of the PA-CBs to ensure that the transactions for export of any restricted / prohibited goods and services (not permissible under prevailing Foreign Trade Policy) shall not be facilitated.
+- 5.4. Customer Due Diligence (as defined in the Master Direction [Know Your Customer](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566)  [Direction, 2016\)](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) of the merchant (i.e. directly onboarded Indian merchants, e-commerce marketplaces or entities providing PA services) shall be undertaken, and proceeds from ECA shall be settled only in the account of such merchant.
+- 5.5. Settlement in Non-INR currencies shall be permitted only for those merchants which have been directly onboarded by the PA-CB.
+
+### 6. Import and Export PA-CBs
+
+6.1. Requirements under paragraphs 4 and 5 above (both) shall be applicable to Import and Export PA-CBs. Separate collection accounts – *ICA and ECA* – shall be maintained for facilitating import and export transactions.
+
+### 7. ICA and ECA
+
+- 7.1. For the purpose of maintenance of the ICA / ECA, operations of the PA-CBs shall be deemed to be "*designated payment systems*" under Section 23A of the Payment and Settlement Systems Act, after authorisation is given by the RBI.
+- 7.2. In case a PA-CB also engages in domestic PA activity, ICA and ECA shall be kept separate from the escrow account(s) opened for such PA activity.
+- 7.3. In addition to provisions of paragraphs 4.2 and 5.2 above, instructions on debits and credits permissible from escrow account(s) of PAs (defined in paragraph 8.9.1.1 and 8.9.1.2 of [circular dated March 17, 2020\)](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) shall apply *mutatis mutandis* to ICA and ECA of PA-CBs.
+
+#### 8. Miscellaneous
+
+- 8.1. Except as otherwise specified in this circular,
+	- i. AD Category-I banks undertaking PA-CB activity shall ensure compliance with the requirements for PA-CBs by April 30, 2024.
+	- ii. In case a non-bank PA-CB also engages in online PA activity for which it is already authorised or its application is pending with the RBI, the instructions on PA-CBs shall become applicable from the date of seeking approval for PA-CB activity.
+	- iii. If a PA-CB changes the activity category as mentioned in paragraph 2.2 above, the requirements for the new activity category shall become applicable from the date of seeking approval from the RBI.
+- 8.2. In respect of import and export transactions processed by PA-CBs, the maximum value per unit of goods / services sold / purchased shall be ₹25,00,000.
+- 8.3. All other instructions issued by the RBI regarding PAs shall apply *mutatis mutandis* to PA-CBs.
+- 8.4. For PA-CB transactions, AD banks maintaining ICA / ECA shall ensure that all requirements under FEMA, including for reporting and reconciliation of entries in EDPMS / IDPMS, are adhered to.
+
+------------------

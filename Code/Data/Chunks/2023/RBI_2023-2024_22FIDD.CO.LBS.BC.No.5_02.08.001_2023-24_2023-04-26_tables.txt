@@ -1,0 +1,9 @@
+| Original Undivided District                | Lead Bank            | District<br>Working Code |
+|--------------------------------------------|----------------------|--------------------------|
+| Sonitpur                                   | UCO Bank             | 006                      |
+| (including merged back Biswanath district) |                      |                          |
+| Nagaon                                     | Punjab National Bank | 014                      |
+| (including merged back Hojai district)     |                      |                          |
+| Barpeta                                    | UCO Bank             | 021                      |
+| (including merged back Bajali district)    |                      |                          |
+

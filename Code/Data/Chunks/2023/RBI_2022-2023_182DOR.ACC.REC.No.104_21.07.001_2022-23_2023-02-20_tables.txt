@@ -1,0 +1,14 @@
+|                                                   | As at the end<br>of Current<br>Year | As at the end<br>of Previous<br>Year |
+|---------------------------------------------------|-------------------------------------|--------------------------------------|
+| Outstanding amount of unrealised management fee   |                                     |                                      |
+| 1. Out of the above, amount outstanding for:      |                                     |                                      |
+| (a) Amounts where the net asset value of the      |                                     |                                      |
+| security receipts has fallen below 50 per cent of |                                     |                                      |
+| the face value                                    |                                     |                                      |
+| (b) Other amounts unrealised for:                 |                                     |                                      |
+| (i)<br>More than 180 days but upto 1 year         |                                     |                                      |
+| (ii) More than 1 year but upto 3 years            |                                     |                                      |
+| (iii) More than 3 years                           |                                     |                                      |
+| Allowances held for unrealised management fee     |                                     |                                      |
+| Net unrealised management fee receivable          |                                     |                                      |
+

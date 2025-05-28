@@ -1,0 +1,8 @@
+| Sl.<br>No. | Category of Standard Asset                                             | Rate of Provisioning |        |
+|------------|------------------------------------------------------------------------|----------------------|--------|
+|            |                                                                        | Tier II              | Tier I |
+| (a)        | Direct advances to Agriculture and SME sectors                         | 0.25%                | 0.25%  |
+| (b)        | Commercial Real Estate (CRE) sector                                    | 1.00%                | 1.00%  |
+| (c)        | Commercial<br>Real<br>Estate-Residential<br>Housing<br>Sector (CRE-RH) | 0.75%                | 0.75%  |
+| (d)        | All other loans and advances not included above                        | 0.40%                | 0.25%  |
+

@@ -1,0 +1,4 @@
+| Sr<br>No | Newly<br>Created<br>District | Erstwhile<br>District | Lead Bank<br>Responsibility<br>assigned to | District Working Code<br>allotted to new district                |
+|----------|------------------------------|-----------------------|--------------------------------------------|------------------------------------------------------------------|
+| 1        | Leparada                     | Lower Siang           | State Bank of India                        | 00R<br>(to be read as numeral<br>zero, numeral zero, alphabet R) |
+

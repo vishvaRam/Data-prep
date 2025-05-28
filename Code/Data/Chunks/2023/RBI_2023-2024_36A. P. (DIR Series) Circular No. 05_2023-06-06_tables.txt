@@ -1,0 +1,79 @@
+| S. no.                                                                                    | Existing directions                       | Revised/Additional directions                  |  |  |
+|-------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|--|--|
+| The existing para 1(xii) of Part-A (Section-I), shall be substituted                      |                                           |                                                |  |  |
+| i.                                                                                        | Non-deliverable<br>derivative             | Non-deliverable<br>derivative<br>contract      |  |  |
+|                                                                                           | contract (NDDC) means a foreign           | (NDDC)'<br>means<br>an<br>OTC<br>foreign       |  |  |
+|                                                                                           | exchange<br>derivative<br>contract        | exchange derivative contract in which          |  |  |
+|                                                                                           | involving the Rupee, entered into         | there is no delivery of the<br>notional        |  |  |
+|                                                                                           | with a person resident outside            | amount of the underlying currencies            |  |  |
+|                                                                                           | India and which is settled without        | of the contract and which is cash              |  |  |
+|                                                                                           | involving delivery of the Rupee.          | settled.                                       |  |  |
+|                                                                                           |                                           |                                                |  |  |
+| The opening sentences of the existing para 2(A)(ii)<br>of Part-A (Section-I),<br>shall be |                                           |                                                |  |  |
+| substituted                                                                               |                                           |                                                |  |  |
+| ii.                                                                                       | Authorised<br>Dealers<br>shall<br>offer   | Authorised<br>Dealers<br>shall<br>offer        |  |  |
+|                                                                                           | derivative contracts to a user as         | derivative contracts to a user as per          |  |  |
+|                                                                                           | per the user's classification in para     | the users'<br>classification in para (i)       |  |  |
+|                                                                                           | (i)<br>above.<br>While<br>offering<br>a   | above. While offering a derivative             |  |  |
+|                                                                                           | derivative contract involving INR,        | contract involving INR<br>to a user,<br>other  |  |  |
+|                                                                                           | other than NDDCs, to a user, and          | than<br>NDDCs<br>offered<br>to<br>persons      |  |  |
+|                                                                                           | during the life of such contracts,        | resident outside India, and during the         |  |  |
+|                                                                                           | Authorised Dealers shall ensure           | life<br>of<br>such<br>contracts,<br>Authorised |  |  |
+|                                                                                           | that:                                     | Dealers shall ensure that:                     |  |  |
+|                                                                                           |                                           |                                                |  |  |
+| The existing para 2(A)(x)<br>of Part-A (Section-I), shall be substituted                  |                                           |                                                |  |  |
+| iii.                                                                                      | Banks<br>in<br>India<br>having<br>an      | Banks in India having an Authorised            |  |  |
+|                                                                                           | Authorised<br>Dealer<br>Category-1        | Dealer<br>Category-I<br>license<br>under       |  |  |
+|                                                                                           | license under FEMA, 1999, and             | FEMA,<br>1999,<br>and<br>operating             |  |  |
+|                                                                                           | operating International Financial         | International<br>Financial<br>Services         |  |  |
+|                                                                                           | Services Centre (IFSC) Banking            | Centre (IFSC) Banking Units (IBUs)             |  |  |
+|                                                                                           | Units<br>(IBUs)<br>(as<br>specified<br>in | (as specified in circular no.<br>RBI/2014-     |  |  |
+|                                                                                           | circular<br>no.<br>RBI/2014-              | 15/533.DBR.IBD.BC.14570/23.13.00               |  |  |
+|                                                                                           | 15/533.DBR.IBD.BC.14570/23.13             | 4/2014-15 dated April 1, 2015, as              |  |  |
+|                                                                                           | .004/2014-15 dated April 1, 2015          | amended from time to time, shall be            |  |  |
+
+|                                                                                       | (as amended from time to time)),                            | eligible to offer NDDCs involving the       |  |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|--|
+|                                                                                       | shall<br>be<br>eligible<br>to<br>offer<br>non               | Rupee<br>or<br>otherwise<br>to<br>persons   |  |
+|                                                                                       | deliverable<br>derivative<br>contracts                      | resident outside<br>India. Banks can        |  |
+|                                                                                       | involving the Rupee, or otherwise,                          | undertake such transactions through         |  |
+|                                                                                       | to persons not resident in India.                           | their IBUs or through their branches in     |  |
+|                                                                                       | Banks<br>can<br>undertake<br>such                           | India<br>or<br>through<br>their<br>foreign  |  |
+|                                                                                       | transactions through their IBUs or                          | branches (in case of foreign banks          |  |
+|                                                                                       | through their branches in India or                          | operating in India, through any branch      |  |
+|                                                                                       | through their foreign branches (in                          | of the parent bank). Such transactions      |  |
+|                                                                                       | case of foreign banks operating in                          | can be cash-settled<br>in INR or any        |  |
+|                                                                                       | India, through any branch of the                            | foreign currency.                           |  |
+|                                                                                       | parent bank).                                               |                                             |  |
+|                                                                                       |                                                             |                                             |  |
+| A new para shall be inserted after<br>the existing para 2(A)(x) of Part-A (Section-I) |                                                             |                                             |  |
+| iv.                                                                                   | -                                                           | xi.<br>Banks<br>in<br>India<br>having<br>an |  |
+|                                                                                       |                                                             | Authorised Dealer Category-I license        |  |
+|                                                                                       |                                                             | under FEMA, 1999, and operating             |  |
+|                                                                                       |                                                             | IBUs<br>shall also be eligible to offer     |  |
+|                                                                                       |                                                             | NDDCs involving INR to resident non         |  |
+|                                                                                       |                                                             | retail users from their branches in         |  |
+|                                                                                       |                                                             | India subject to compliance with the        |  |
+|                                                                                       |                                                             | directions set out in para 2A(ii) above.    |  |
+|                                                                                       |                                                             | Such<br>transactions<br>shall<br>be<br>cash |  |
+|                                                                                       |                                                             | settled in INR.                             |  |
+|                                                                                       | The existing para 3A<br>of Part C,<br>shall be substituted. |                                             |  |
+| v.                                                                                    | Authorised<br>dealers<br>having<br>an                       | Authorised Dealers having an IFSC           |  |
+|                                                                                       | IFSC<br>Banking<br>Unit<br>(IBU)<br>(as                     | Banking Unit (IBU) (as specified in         |  |
+|                                                                                       | specified in circular no.<br>RBI/2014-                      | circular<br>no.<br>RBI/2014-                |  |
+|                                                                                       | 15/533.DBR.IBD.BC.14570/23.13                               | 15/533.DBR.IBD.BC.14570/23.13.00            |  |
+|                                                                                       | .004/2014-15 dated April 1, 2015                            | 4/2014-15 dated April 1, 2015<br>(as        |  |
+|                                                                                       | (as amended from time to time))                             | amended from time<br>to time)) may          |  |
+|                                                                                       | may transact in Non-deliverable                             | transact in NDDCs with other AD             |  |
+|                                                                                       | derivative contracts (NDDCs) with                           | Category-I<br>banks having IBUs and         |  |
+
+| other AD Category 1 banks having         | banks<br>overseas.<br>Banks<br>can         |
+|------------------------------------------|--------------------------------------------|
+| IBUs and banks overseas. Banks           | undertake such transactions through        |
+| can undertake such transactions          | their IBUs or through their branches in    |
+| through their IBUs or through their      | India<br>or<br>through<br>their<br>foreign |
+| branches in India or through their       | branches (in case of foreign banks         |
+| foreign<br>branches<br>(in<br>case<br>of | operating in India, through any branch     |
+| foreign banks operating in India,        | of the parent bank). Such transactions     |
+| through any branch of the parent         | can be cash-settled in INR or any          |
+| bank).                                   | foreign currency.                          |

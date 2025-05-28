@@ -1,0 +1,21 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2022-23/163 IDMD.No.S2800/08.02.032/2022-23 January 11, 2023
+
+All participants in the Government Securities Market
+
+Dear Sir / Madam
+
+## **Operational Risk Management: Price / Yield range setting in e-Kuber**
+
+Please refer to our [circular IDMD/1615/08.02.032/2019-20 dated December 12, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11753&Mode=0) advising the participants in the Government Securities (G-Sec) market about the "Price / Yield range setting" facility provided on the e-Kuber platform as a risk management measure. The facility allows a market participant to define a range i.e., a maximum and a minimum value for bids they intend to submit in an auction. The range can be set in either price or yield terms, for each security in every auction, which can be set before the auction and can also be modified during the auction. Once the limits are set by the participating entity, the bids in the auction are automatically validated against the set limits. This is expected to eliminate instances of Fat-finger / Big-figure error by the bidders in the G-Sec auctions.
+
+2. As there have been a few instances of Fat-finger / Big-figure error by the bidders in the G-Sec auctions conducted by Reserve Bank, it suggests that some of the market participants are yet to put in place the "Price / Yield range setting" facility in their system.
+
+3. All the market participants are, therefore, advised to utilize the "Price / Yield range setting" facility provided on the e-Kuber platform before placing bids in the Primary Market auctions. It may be noted that no request for cancellation of bids will be entertained after the close of auction window.
+
+Yours faithfully
+
+(S Venkataraman) General Manager

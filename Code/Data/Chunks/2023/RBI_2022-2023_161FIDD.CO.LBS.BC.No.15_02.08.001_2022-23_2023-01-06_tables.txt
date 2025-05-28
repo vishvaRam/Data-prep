@@ -1,0 +1,8 @@
+| Sr<br>No | Newly Created District                   | Erstwhile District(s)                                 | Lead Bank<br>Responsibility<br>assigned to | District Working<br>Code allotted to<br>new district |
+|----------|------------------------------------------|-------------------------------------------------------|--------------------------------------------|------------------------------------------------------|
+| 1        | Sarangarh-Bilaigarh                      | (i) Raigarh<br>(ii)<br>Baloda<br>Bazar –<br>Bhatapara | State Bank of<br>India                     | 01R                                                  |
+| 2        | Khairagarh<br>Chhuikhadan-Gandai         | Rajnandgaon                                           | State Bank of<br>India                     | 01P                                                  |
+| 3        | Mohla-Manpur<br>Ambagarh Chouki          |                                                       | Bank of Baroda                             | 01Q                                                  |
+| 4        | Sakti                                    | Janjgir-Champa                                        | State Bank of<br>India                     | 01S                                                  |
+| 5        | Manendragarh-Chirmiri<br>Bharatpur (MCB) | Korea                                                 | Central<br>Bank of<br>India                | 01T                                                  |
+

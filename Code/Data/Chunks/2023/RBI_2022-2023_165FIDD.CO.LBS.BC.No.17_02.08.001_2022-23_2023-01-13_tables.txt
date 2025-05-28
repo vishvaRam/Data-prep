@@ -1,0 +1,4 @@
+| Sr<br>No | Newly Created<br>District | Erstwhile<br>District | Lead Bank<br>Responsibility<br>assigned to | District Working<br>Code allotted to<br>new district |
+|----------|---------------------------|-----------------------|--------------------------------------------|------------------------------------------------------|
+| 1        | Pakyong                   | East Sikkim           | Central Bank of India                      | 01U                                                  |
+
