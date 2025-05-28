@@ -113,8 +113,8 @@ class MarkdownSplitter:
 # -----------------------------
 if __name__ == '__main__':
     # Set your paths here manually
-    root_folder = r"/workspaces/Data_prep/Code/Data/pdf-markdowns/2025"
-    output_folder = r"/workspaces/Data_prep/Code/Data/Chunks/2025"
+    root_folder = r"/workspaces/Data_prep/Code/Data/pdf-markdowns/2023"
+    output_folder = r"/workspaces/Data_prep/Code/Data/Chunks/2023"
 
     # Optional settings
     default_chunk_size = 5000
