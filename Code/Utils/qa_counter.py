@@ -72,7 +72,7 @@ def count_total_qa_pairs_in_json(file_path: str) -> int:
     return total_qa_pairs
 
 if __name__ == "__main__":
-    json_file_path = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2025.json"
+    json_file_path = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024.json"
     
     print(f"[bold magenta]🚀 Starting QA Analysis Tool[/bold magenta]")
     

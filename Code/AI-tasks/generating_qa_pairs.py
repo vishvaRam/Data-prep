@@ -218,7 +218,7 @@ class QAGenerator:
 
             # Proactive check before starting a new request within the file's iterations
             # This is to catch if we are very close to the limit before the next API call
-            if self.total_requests >= 10000: 
+            if self.total_requests >= 15000: 
                 print(f"[red]🛑 STOPPING ITERATIONS for {filename}: Approaching global quota limit ({self.total_requests}/1000).[/red]")
                 self.quota_exceeded_flag = True # Set the global flag
                 break # Stop generating for the current file
@@ -392,7 +392,7 @@ class QAGenerator:
                 continue
             
             # Proactive check before starting a new file in the main loop
-            if self.total_requests >= 10000: # Aggressive stop to ensure we don't hit 1000 within a file
+            if self.total_requests >= 15000: # Aggressive stop to ensure we don't hit 1000 within a file
                 print(f"[red]🛑 STOPPING ENTIRE SESSION: Very close to quota limit ({self.total_requests}/1000 requests used).[/red]")
                 self.quota_exceeded_flag = True # Set the flag
                 break # Exit the main file processing loop
@@ -471,8 +471,8 @@ if __name__ == "__main__":
         max_consecutive_duplicates=3
     )
 
-    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2025"
-    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2025.json"
-    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2025.json"
+    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2024"
+    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2024.json"
+    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024.json"
 
     generator.run(chunks_path, metadata_path, output_file)
