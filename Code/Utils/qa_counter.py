@@ -72,7 +72,7 @@ def count_total_qa_pairs_in_json(file_path: str) -> int:
     return total_qa_pairs
 
 if __name__ == "__main__":
-    json_file_path = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024.json"
+    json_file_path = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2025.json"
     
     print(f"[bold magenta]🚀 Starting QA Analysis Tool[/bold magenta]")
     
@@ -89,3 +89,24 @@ if __name__ == "__main__":
         print("\n[yellow]No QA pairs found or an error occurred during counting.[/yellow]")
 
     print(f"\n[bold magenta]✅ QA Analysis Complete[/bold magenta]")
+    
+    
+# 📊 Successfully processed 148 unique files.
+# Individual file breakdown:
+
+# Counting total QA pairs in: /workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2023.json
+
+# 🎉 Total number of QA pairs generated across all files: 2068
+
+
+# Counting total QA pairs in: /workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024.json
+
+# 🎉 Total number of QA pairs generated across all files: 4008
+
+# Counting total QA pairs in: /workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2025.json
+
+# 🎉 Total number of QA pairs generated across all files: 6622
+
+
+
+
