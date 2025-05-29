@@ -471,8 +471,8 @@ if __name__ == "__main__":
         max_consecutive_duplicates=3
     )
 
-    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2024"
-    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2024.json"
+    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2023"
+    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2023.json"
     output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2024.json"
 
     generator.run(chunks_path, metadata_path, output_file)

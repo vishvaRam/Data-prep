@@ -27,10 +27,10 @@ class RBIMetadata(BaseModel):
 # === 2. Config Class for Global Settings ===
 class AppConfig:
     GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
-    ROOT_DIR = "/workspaces/Data_prep/Code/Data/pdf-markdowns/2025"
-    OUTPUT_FILE = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2025.json"
+    ROOT_DIR = "/workspaces/Data_prep/Code/Data/pdf-markdowns/2023"
+    OUTPUT_FILE = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2023.json"
     MODEL_NAME = "gemini-2.0-flash"
-    REQUESTS_PER_MINUTE = 15
+    REQUESTS_PER_MINUTE = 1800
 
 
 # === 3. Metadata Extractor Class ===
