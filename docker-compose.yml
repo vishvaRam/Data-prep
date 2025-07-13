@@ -1,12 +1,12 @@
 services:
   dataprep:
     build:
-      context: ./Code
+      context: ./
       dockerfile: Dockerfile
     container_name: dataprep
 
     volumes:
-      - ./Code:/workdir
+      - ./:/workdir
     
     ports:
       - "8888:8888"

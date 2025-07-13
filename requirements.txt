@@ -17,3 +17,6 @@ cryptography
 langfuse
 ipykernel
 ipywidgets
+datasets
+matplotlib
+seaborn
