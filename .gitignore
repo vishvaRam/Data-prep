@@ -1,23 +1,23 @@
 
 # Project files
-Code/Data/Raw-pdfs/
-Code/.env
+Data/Raw-pdfs/
+.env
 
 
 # Python-generated files
-Code/__pycache__/
+__pycache__/
 *.py[oc]
-Code/build/
-Code/dist/
-Code/wheels/
+build/
+dist/
+wheels/
 *.egg-info
 
 # Python virtual environments
-Code/.venv/
+.venv/
 
 # IDE and Editor files
 .idea/
-.vscode/
+.vs
 *.sublime-project
 *.sublime-workspace
 *.swp

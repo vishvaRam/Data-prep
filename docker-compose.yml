@@ -25,14 +25,14 @@ services:
       memlock: -1
       stack: 67108864
       
-    networks:
-      - shared_app_network 
+    # networks:
+    #   - shared_app_network 
     dns:
       - 8.8.8.8
       - 8.8.4.4
 
     restart: always
 
-networks:  
-  shared_app_network:
-    external: true
+# networks:  
+#   shared_app_network:
+#     external: true
