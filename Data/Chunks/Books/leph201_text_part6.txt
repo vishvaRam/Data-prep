@@ -1,0 +1,118 @@
+ecial preparation of materials such as quartz. In silica glass fibres, it is possible to transmit more than 95% of the light over a fibre length of 1 km. (Compare with what you expect for a block of ordinary window glass 1 km thick.)
+
+# 9.5 REFRACTION AT SPHERICAL SURFACES AND BY LENSES
+
+We have so far considered refraction at a plane interface. We shall now consider refraction at a spherical interface between two transparent media. An infinitesimal part of a spherical surface can be regarded as planar and the same laws of refraction can be applied at every point on the surface. Just as for reflection by a spherical mirror, the normal at the point of incidence is perpendicular to the tangent plane to the spherical surface at that point and, therefore, passes through its centre of curvature. We first consider refraction by a single spherical surface and follow it by thin lenses. A thin lens is a transparent optical medium bounded by two surfaces; at least one of which should be spherical. Applying the formula for image formation by a single spherical surface successively at the two surfaces of a lens, we shall obtain the lens maker's formula and then the lens formula.
+
+### 9.5.1 Refraction at a spherical surface
+
+Figure 9.15 shows the geometry of formation of image *I* of an object *O* on the principal axis of a spherical surface with centre of curvature C, and radius of curvature *R*. The rays are incident from a medium of refractive index *n*<sup>1</sup> , to another of refractive index *n*<sup>2</sup> . As before, we take the aperture (or the lateral size) of the surface to be small compared to other distances involved, so that small angle approximation can be made. In particular, NM will be taken to be nearly equal to the length of the perpendicular from the point N on the principal axis. We have, for small angles,
+
+$$
+\tan \angle NOM = \frac{MN}{OM}
+$$
+
+### Ray Optics and Optical Instruments
+
+![](_page_2_Figure_1.jpeg)
+
+Now, for DNOC, *i* is the exterior angle. Therefore, *i* = ÐNOM + ÐNCM
+
+$$
+i = \frac{\text{MN}}{\text{OM}} + \frac{\text{MN}}{\text{MC}}
+$$
+(9.13)
+
+Similarly,
+
+*r* = ÐNCM – ÐNIM
+
+i.e., 
+$$
+r = \frac{MN}{MC} - \frac{MN}{MI}
+$$
+ (9.14)
+
+Now, by Snell's law
+
+*n*1 sin *i* = *n*<sup>2</sup> sin *r*
+
+or for small angles
+
+*n*1 *i* = *n*<sup>2</sup> *r*
+
+Substituting *i* and *r* from Eqs. (9.13) and (9.14), we get
+
+1 2 2 1 OM MI MC *n n n n*− + = (9.15)
+
+Here, OM, MI and MC represent magnitudes of distances. Applying the Cartesian sign convention,
+
+OM = –*u*, MI = +*v*, MC = +*R*
+
+Substituting these in Eq. (9.15), we get
+
+$$
+\frac{n_2}{v} - \frac{n_1}{u} = \frac{n_2 - n_1}{R}
+$$
+ (9.16)
+
+Equation (9.16) gives us a relation between object and image distance in terms of refractive index of the medium and the radius of curvature of the curved spherical surface. It holds for any curved spherical surface.
+
+Example 9.5 Light from a point source in air falls on a spherical glass surface (*n* = 1.5 and radius of curvature = 20 cm). The distance of the light source from the glass surface is 100 cm. At what position the image is formed?
+
+#### Solution
+
+We use the relation given by Eq. (9.16). Here *u* = – 100 cm, *v* = ?, *R = +* 20 cm*, n*<sup>1</sup>  *=* 1, and *n*<sup>2</sup> = 1.5. We then have
+
+1.5 1 0.5 *v* 100 20 + =
+
+or *v* = +100 cm The image is formed at a distance of 100 cm from the glass surface, in the direction of incident light.
+
+ EXAMPLE
+
+9.5
+
+![](_page_2_Figure_25.jpeg)
+
+FIGURE 9.15 Refraction at a spherical surface separating two media.
+
+#### 9.5.2 Refraction by a lens
+
+Figure 9.16(a) shows the geometry of image formation by a double convex lens. The image formation can be seen in terms of two steps: (i) The first refracting surface forms the image I<sup>1</sup> of the object O [Fig. 9.16(b)]. The image I<sup>1</sup> acts as a virtual object for the second surface that forms the image at I [Fig. 9.16(c)]. Applying Eq. (9.15) to the first interface ABC, we get
+
+1 2 2 1 OB BI BC <sup>1</sup> <sup>1</sup> *n n n n* (9.17)
+
+![](_page_3_Figure_4.jpeg)
+
+![](_page_3_Figure_5.jpeg)
+
+![](_page_3_Figure_6.jpeg)
+
+(b) Refraction at the first spherical surface and
+
+(c) Refraction at the second spherical surface.
+
+A similar procedure applied to the second interface\* ADC gives,
+
+$$
+-\frac{n_2}{DI_1} + \frac{n_1}{DI} = \frac{n_2 - n_1}{DC_2}
+$$
+ (9.18)
+
+For a thin lens, BI<sup>1</sup> = DI<sup>1</sup> . Adding Eqs. (9.17) and (9.18), we get
+
+$$
+\frac{n_1}{\text{OB}} + \frac{n_1}{\text{DI}} = (n_2 - n_1) \left( \frac{1}{\text{BC}_1} + \frac{1}{\text{DC}_2} \right) \tag{9.19}
+$$
+
+Suppose the object is at infinity, i.e., OB ® ¥ and DI = *f*, Eq. (9.19) gives
+
+$$
+\frac{n_1}{f} = (n_2 - n_1) \left( \frac{1}{BC_1} + \frac{1}{DC_2} \right)
+$$
+(9.20)
+
+The point where image of an object placed at infinity is formed is called the *focus* F, of the lens and the distance *f* gives its *focal length*. A lens has two foci, F and F¢, on either side of it (Fig. 9.17). By the sign convention,
+
+$$
+\mathrm{BC}_1 = + R_1

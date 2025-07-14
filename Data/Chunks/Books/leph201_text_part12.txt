@@ -1,0 +1,83 @@
+ the pole/optic centre of the mirror/lens on the principal axis. The heights measured upwards above *x*-axis and normal to the principal axis of the mirror/ lens are taken as positive. The heights measured downwards are taken as negative.
+- 4. *Mirror equation*:
+
+$$
+\frac{1}{v} + \frac{1}{u} = \frac{1}{f}
+$$
+
+where *u* and *v* are object and image distances, respectively and *f* is the focal length of the mirror. *f* is (approximately) half the radius of curvature *R. f* is negative for concave mirror; *f* is positive for a convex mirror.
+
+5. For a prism of the angle *A,* of refractive index *n*<sup>2</sup> placed in a medium of refractive index *n*<sup>1</sup> *,*
+
+$$
+n_{21} = \frac{n_2}{n_1} = \frac{\sin[(A+D_m)/2]}{\sin(A/2)}
+$$
+
+where *D<sup>m</sup>* is the angle of minimum deviation.
+
+6. *For refraction through a spherical interface* (from medium 1 to 2 of refractive index *n*<sup>1</sup> and *n*<sup>2</sup> , respectively)
+
+$$
+\frac{n_2}{v} - \frac{n_1}{u} = \frac{n_2 - n_1}{R}
+$$
+
+*Thin lens formula*
+
+$$
+\frac{1}{v} - \frac{1}{u} = \frac{1}{f}
+$$
+
+*Lens maker's formula*
+
+$$
+\frac{1}{f} = \frac{(n_2 - n_1)}{n_1} \left( \frac{1}{R_1} - \frac{1}{R_2} \right)
+$$
+
+*R1* and *R<sup>2</sup>* are the radii of curvature of the lens surfaces. *f* is positive for a converging lens; *f* is negative for a diverging lens.The power of a lens *P* = 1/*f*.
+
+The SI unit for power of a lens is dioptre (D): 1 D = 1 m–1 .
+
+If several thin lenses of focal length *f* 1 , *f* 2 , *f* 3 ,.. are in contact, the effective focal length of their combination, is given by
+
+$$
+\frac{1}{f} = \frac{1}{f_1} + \frac{1}{f_2} + \frac{1}{f_3} + \dots
+$$
+
+The total power of a combination of several lenses is
+
+$$
+P = P_1 + P_2 + P_3 + \dots
+$$
+
+7. *Dispersion* is the splitting of light into its constituent colour.
+
+## Physics
+
+8. *Magnifying power m of a simple microscope* is given by *m = 1 + (D/f),* where *D* = 25 cm is the least distance of distinct vision and *f* is the focal length of the convex lens. If the image is at infinity, *m = D/f*. For a compound microscope, the magnifying power is given by *m = m<sup>e</sup> × m*<sup>0</sup> where *m<sup>e</sup>* = 1 + (*D/f e* ), is the magnification due to the eyepiece and *m<sup>o</sup>* is the magnification produced by the objective. *Approximately,*
+
+$$
+m = \frac{L}{f_o} \times \frac{D}{f_e}
+$$
+
+where *f* o and *f e* are the focal lengths of the objective and eyepiece, respectively, and *L* is the distance between their focal points.
+
+9. *Magnifying power m of a telescope* is the ratio of the angle b subtended at the eye by the image to the angle a subtended at the eye by the object.
+
+$$
+m = \frac{\beta}{\alpha} = \frac{f_o}{f_e}
+$$
+
+where *f* 0 and *f e* are the focal lengths of the objective and eyepiece, respectively.
+
+## POINTS TO PONDER
+
+- 1. The laws of reflection and refraction are true for all surfaces and pairs of media at the point of the incidence.
+- 2. The real image of an object placed between *f* and 2*f* from a convex lens can be seen on a screen placed at the image location. If the screen is removed, is the image still there? This question puzzles many, because it is difficult to reconcile ourselves with an image suspended in air without a screen. But the image does exist. Rays from a given point on the object are converging to an image point in space and diverging away. The screen simply diffuses these rays, some of which reach our eye and we see the image. This can be seen by the images formed in air during a laser show.
+- 3. Image formation needs regular reflection/refraction. In principle, all rays from a given point should reach the same image point. This is why you do not see your image by an irregular reflecting object, say the page of a book.
+- 4. Thick lenses give coloured images due to dispersion. The variety in colour of objects we see around us is due to the constituent colours of the light incident on them. A monochromatic light may produce an entirely different perception about the colours on an object as seen in white light.
+- 5. For a simple microscope, the angular size of the object equals the angular size of the image. Yet it offers magnification because we can keep the small object much closer to the eye than 25 cm and hence have it subtend a large angle. The image is at 25 cm which we can see. Without the microscope, you would need to keep the small object at 25 cm which would subtend a very small angle.
+
+## EXERCISES
+
+- 9.1 A small candle, 2.5 cm in size is placed at 27 cm in front of a concave mirror of radius of curvature 36 cm. At what distance from the mirror should a screen be placed in order to obtain a sharp image? Describe the nature and size of the image. If the candle is moved closer to the mirror, how would the screen have to be moved?
+- 9.2 A 4.5 cm needle is placed 12 cm away from a convex mirror of focal length 15 cm. Give the location of the image and the magnification. Describe what happens as the needle is moved farther from the mirror

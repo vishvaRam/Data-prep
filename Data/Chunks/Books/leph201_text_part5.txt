@@ -1,0 +1,55 @@
+dium is less than one then, since the maximum value of sin *r* is unity, there is an upper limit to the value of sin *i* for which the law can be satisfied, that is, *i = i<sup>c</sup>* such that
+
+$$
+\sin i_c = n_{21} \tag{9.12}
+$$
+
+For values of *i* larger than *i c* , Snell's law of refraction cannot be satisfied, and hence no refraction is possible.
+
+The refractive index of denser medium 1 with respect to rarer medium 2 will be *n*12 = 1/sin*i* c . Some typical critical angles are listed in Table 9.1.
+
+
+### TABLE 9.1 CRITICAL ANGLE OF SOME TRANSPARENT MEDIA WITH RESPECT TO AIR
+
+### *A demonstration for total internal reflection*
+
+All optical phenomena can be demonstrated very easily with the use of a laser torch or pointer, which is easily available nowadays. Take a glass beaker with clear water in it. Add a few drops of milk or any other suspension to water and stir so that water becomes a little turbid. Take a laser pointer and shine its beam through the turbid water. You will find that the path of the beam inside the water shines brightly.
+
+# Ray Optics and Optical Instruments
+
+Shine the beam from below the beaker such that it strikes at the upper water surface at the other end. Do you find that it undergoes partial reflection (which is seen as a spot on the table below) and partial refraction [which comes out in the air and is seen as a spot on the roof; Fig. 9.12(a)]? Now direct the laser beam from one side of the beaker such that it strikes the upper surface of water more obliquely [Fig. 9.12(b)]. Adjust the direction of laser beam until you find the angle for which the refraction above the water surface is totally absent and the beam is totally reflected back to water. This is total internal reflection at its simplest.
+
+Pour this water in a long test tube and shine the laser light from top, as shown in Fig. 9.12(c). Adjust the direction of the laser beam such that it is totally internally reflected every time it strikes the walls of the tube. This is similar to what happens in optical fibres.
+
+Take care not to look into the laser beam directly and not to point it at anybody's face.
+
+### 9.4.1 Total internal reflection in nature and its technological applications
+
+- (i) *Prism*: Prisms designed to bend light by 90° or by 180° make use of total internal reflection [Fig. 9.13(a) and (b)]. Such a prism is also used to invert images without changing their size [Fig. 9.13(c)]. In the first two cases, the critical angle *i c* for the material of the prism must be less than 45°. We see from Table 9.1 that this is true for both crown glass and dense flint glass.
+- (ii) *Optical fibres*: Nowadays optical fibres are extensively used for transmitting audio and video signals through long distances. Optical fibres too make use of the phenomenon of total internal reflection. Optical fibres are fabricated with high quality composite glass/quartz
+
+fibres. Each fibre consists of a core and cladding. The refractive index of the material of the core is higher than that of the cladding.
+
+When a signal in the form of light is directed at one end of the fibre at a suitable angle, it undergoes repeated total internal reflections along the length of the fibre and finally comes out at the other end (Fig. 9.14). Since light undergoes total internal reflection at each stage, there is no appreciable loss in the intensity of the light signal. Optical fibres are fabricated such that light reflected at one side of inner surface strikes the other at an angle larger than the critical angle. Even if the fibre is bent, light can easily travel along its length. Thus, an optical fibre can be used to act as an optical pipe.
+
+A bundle of optical fibres can be put to several uses. Optical fibres are extensively used for transmitting and receiving
+
+![](_page_0_Figure_10.jpeg)
+
+FIGURE 9.12
+
+Observing total internal reflection in water with a laser beam (refraction due to glass of beaker neglected being very
+
+thin).
+
+![](_page_0_Figure_15.jpeg)
+
+![](_page_1_Figure_0.jpeg)
+
+FIGURE 9.14 Light undergoes successive total internal reflections as it moves through an optical fibre.
+
+electrical signals which are converted to light by suitable transducers. Obviously, optical fibres can also be used for transmission of optical signals. For example, these are used as a 'light pipe' to facilitate visual examination of internal organs like esophagus, stomach and intestines. You might have seen a commonly available decorative lamp with fine plastic fibres with their free ends forming a fountain like structure. The other end of the fibres is fixed over an electric lamp. When the
+
+lamp is switched on, the light travels from the bottom of each fibre and appears at the tip of its free end as a dot of light. The fibres in such decorative lamps are optical fibres.
+
+The main requirement in fabricating optical fibres is that there should be very little absorption of light as it travels for long distances inside them. This has been achieved by purification and sp

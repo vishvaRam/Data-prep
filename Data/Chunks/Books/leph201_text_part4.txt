@@ -1,0 +1,62 @@
+tion of propagation of an obliquely incident (0°< *i* < 90°) ray of light that enters the other medium, changes at the interface of the two media. This phenomenon is called *refraction of light*. Snell experimentally obtained the following laws of refraction:
+
+![](_page_2_Figure_9.jpeg)
+
+![](_page_2_Figure_10.jpeg)
+
+- (i) The incident ray, the refracted ray and the normal to the interface at the point of incidence, all lie in the same plane.
+- (ii) The ratio of the sine of the angle of incidence to the sine of angle of refraction is constant. Remember that the angles of incidence (*i* ) and refraction (*r* ) are the angles that the incident and its refracted ray make with the normal, respectively. We have
+
+$$
+\frac{\sin i}{\sin r} = n_{21} \tag{9.10}
+$$
+
+where *n*21 is a constant, called the *refractive index* of the second medium with respect to the first medium. Equation (9.10) is the well-known
+
+Snell's law of refraction. We note that *n*21 is a characteristic of the pair of media (and also depends on the wavelength of light), but is independent of the angle of incidence.
+
+From Eq. (9.10), if *n*21 > 1, *r* < *i*, i.e., the refracted ray bends towards the normal. In such a case medium 2 is said to be *optically denser* (or *denser*, in short) than medium 1. On the other hand, if *n*21 <1, *r* > *i*, the
+
+EXAMPLE 9.4
+
+refracted ray bends away from the normal. This is the case when incident ray in a denser medium refracts into a rarer medium.
+
+Note: *Optical density should not be confused with mass density, which is mass per unit volume. It is possible that mass density of an optically denser medium may be less than that of an optically rarer medium (optical density is the ratio of the speed of light in two media). For example, turpentine and water. Mass density of turpentine is less than that of water but its optical density is higher.*
+
+If *n*21 is the refractive index of medium 2 with respect to medium 1 and *n*12 the refractive index of medium 1 with respect to medium 2, then it should be clear that
+
+$$
+n_{12} = \frac{1}{n_{21}} \tag{9.11}
+$$
+
+It also follows that if *n*32 is the refractive index of medium 3 with respect to medium 2 then *n*32 = *n*31 × *n*12, where *n*31 is the refractive index of medium 3 with respect to medium 1.
+
+Some elementary results based on the laws of refraction follow immediately. For a rectangular slab, refraction takes place at two interfaces (airglass and glass-air). It is easily seen from Fig. 9.9 that *r* 2 = *i*<sup>1</sup> , i.e., the emergent ray is parallel to the incident ray—there is no deviation, but it does suffer lateral displacement/shift with respect to the incident ray. Another familiar observation is that the bottom of a tank filled with water appears to be
+
+raised (Fig. 9.10). For viewing near the normal direction, it can be shown that the apparent depth (*h*<sup>1</sup> ) is real depth (*h*<sup>2</sup> ) divided by the refractive index of the medium (water).
+
+# 9.4 TOTAL INTERNAL REFLECTION
+
+When light travels from an optically denser medium to a rarer medium at the interface, it is partly reflected back into the same medium and partly refracted to the second medium. This reflection is called the *internal reflection.*
+
+When a ray of light enters from a denser medium to a rarer medium, it bends away from the normal, for example, the ray AO1 B in Fig. 9.11. The incident ray AO<sup>1</sup> is partially reflected (O1C) and partially transmitted (O1B) or refracted, the angle of refraction (*r* ) being larger than the angle of incidence (*i*). As the angle of incidence increases, so does the angle of
+
+## Ray Optics and Optical Instruments
+
+![](_page_3_Figure_11.jpeg)
+
+![](_page_3_Figure_12.jpeg)
+
+![](_page_3_Figure_13.jpeg)
+
+FIGURE 9.10 Apparent depth for (a) normal, and (b) oblique viewing.
+
+![](_page_4_Figure_0.jpeg)
+
+FIGURE 9.11 Refraction and internal reflection of rays from a point A in the denser medium (water) incident at different angles at the interface with a rarer medium (air).
+
+refraction, till for the ray AO<sup>3</sup> , the angle of refraction is p/2. The refracted ray is bent so much away from the normal that it grazes the surface at the interface between the two media. This is shown by the ray AO3 D in Fig. 9.11. If the angle of incidence is increased still further (e.g., the ray AO<sup>4</sup> ), refraction is not possible, and the incident ray is totally reflected. This is called *total internal reflection*. When light gets reflected by a surface, normally some fraction of it gets transmitted. The reflected ray, therefore, is always less intense than the incident ray, howsoever smooth the reflecting surface may be. In total internal reflection, on the other hand,
+
+no transmission of light takes place.
+
+The angle of incidence corresponding to an angle of refraction 90°, say ÐAO3N, is called the *critical angle* (*i c* ) for the given pair of media. We see from Snell's law [Eq. (9.10)] that if the relative refractive index of the refracting me

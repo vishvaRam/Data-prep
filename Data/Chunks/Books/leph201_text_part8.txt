@@ -1,0 +1,138 @@
+ective lens of power + 2.5 D, the required lens is a convex lens of focal length + 40 cm. A lens of power of – 4.0 D means a concave lens of focal length – 25 cm.
+
+Example 9.7 (i) If *f* = 0.5 m for a glass lens, what is the power of the lens? (ii) The radii of curvature of the faces of a double convex lens are 10 cm and 15 cm. Its focal length is 12 cm. What is the refractive index of glass? (iii) A convex lens has 20 cm focal length in air. What is focal length in water? (Refractive index of air-water = 1.33, refractive index for air-glass = 1.5.)
+
+EXAMPLE 9.6
+
+FIGURE 9.18 Power of a lens.
+
+EXAMPLE 9.7
+
+236
+
+## Ray Optics and Optical Instruments
+
+#### Solution
+
+- (i) Power = +2 dioptre.
+- (ii) Here, we have *f* = +12 cm, *R*<sup>1</sup> = +10 cm, *R<sup>2</sup>* = –15 cm. Refractive index of air is taken as unity. We use the lens formula of Eq. (9.22). The sign convention has to be applied for *f*, *R*<sup>1</sup> and *R*<sup>2</sup> . Substituting the values, we have
+
+$$
+\frac{1}{12} = (n-1)\left(\frac{1}{10} - \frac{1}{-15}\right)
+$$
+  
+This gives  $n = 1.5$ 
+
+This gives *n* = 1.5.
+
+(iii) For a glass lens in air, *n*<sup>2</sup> = 1.5, *n*<sup>1</sup> = 1, *f* = +20 cm. Hence, the lens formula gives
+
+$$
+\frac{1}{20} = 0.5 \left[ \frac{1}{R_1} - \frac{1}{R_2} \right]
+$$
+
+For the same glass lens in water, *n*<sup>2</sup> = 1.5, *n*<sup>1</sup> = 1.33. Therefore,
+
+$$
+\frac{1.33}{f} = (1.5 - 1.33) \left[ \frac{1}{R_1} - \frac{1}{R_2} \right]
+$$
+(9.26)
+
+Combining these two equations, we find *f* = + 78.2 cm.
+
+## 9.5.4 Combination of thin lenses in contact
+
+Consider two lenses A and B of focal length *f* 1 and *f* 2 placed in contact with each other. Let the object be placed at a point O beyond the focus of the first lens A (Fig. 9.19). The first lens produces an image at I<sup>1</sup> . Since image I<sup>1</sup> is real, it serves as a virtual object for the second lens B, producing the final image at I. It must, however, be borne in mind that formation of image by the first lens is presumed only to facilitate determination of the position of the final image. In fact, the direction of rays emerging from the first lens gets modified in accordance with
+
+![](_page_1_Figure_13.jpeg)
+
+FIGURE 9.19 Image formation by a
+
+the angle at which they strike the second lens. Since the lenses are thin, we assume the optical centres of the lenses to be coincident. Let this central point be denoted by P.
+
+For the image formed by the first lens A, we get
+
+$$
+\frac{1}{v_1} - \frac{1}{u} = \frac{1}{f_1}
+$$
+ (9.27)
+
+For the image formed by the second lens B, we get
+
+$$
+\frac{1}{v} - \frac{1}{v_1} = \frac{1}{f_2} \tag{9.28}
+$$
+
+Adding Eqs. (9.27) and (9.28), we get
+
+$$
+\frac{1}{v} - \frac{1}{u} = \frac{1}{f_1} + \frac{1}{f_2} \tag{9.29}
+$$
+
+If the two lens-system is regarded as equivalent to a single lens of focal length *f*, we have
+
+237
+
+# Physics
+
+$$
+\frac{1}{v} - \frac{1}{u} = \frac{1}{f}
+$$
+
+so that we get
+
+$$
+\frac{1}{f} = \frac{1}{f_1} + \frac{1}{f_2} \tag{9.30}
+$$
+
+The derivation is valid for any number of thin lenses in contact. If several thin lenses of focal length *f* 1 , *f* 2 , *f* 3 ,... are in contact, the effective focal length of their combination is given by
+
+$$
+\frac{1}{f} = \frac{1}{f_1} + \frac{1}{f_2} + \frac{1}{f_3} + \dots
+$$
+  
+In terms of power, Eq. (9.31) can be written as  
+
+$$
+P = P_1 + P_2 + P_3 + \dots
+$$
+ (9.32)
+
+where *P* is the net power of the lens combination. Note that the sum in Eq. (9.32) is an algebraic sum of individual powers, so some of the terms on the right side may be positive (for convex lenses) and some negative (for concave lenses). Combination of lenses helps to obtain diverging or converging lenses of desired magnification. It also enhances sharpness of the image. Since the image formed by the first lens becomes the object for the second, Eq. (9.25) implies that the total magnification *m* of the combination is a product of magnification (*m*<sup>1</sup> , *m*<sup>2</sup> , *m*<sup>3</sup> ,...) of individual lenses
+
+$$
+m = m_1 m_2 m_3 \dots \tag{9.33}
+$$
+
+Such a system of combination of lenses is commonly used in designing lenses for cameras, microscopes, telescopes and other optical instruments.
+
+Example 9.8 Find the position of the image formed by the lens combination given in the Fig. 9.20.
+
+![](_page_2_Figure_10.jpeg)
+
+Solution Image formed by the first lens
+
+$$
+\frac{1}{v_1} - \frac{1}{u_1} = \frac{1}{f_1}
+$$
+  
+
+$$
+\frac{1}{v_1} - \frac{1}{-30} = \frac{1}{10}
+$$
+  
+or  $v_1 = 15$  cm
+
+EXAMPLE 9.8
+
+# Ray Optics and Optical Instruments
+
+The image formed by the first lens serves as the object for the second. This is at a distance of (15 – 5) cm = 10 cm to the right of the second lens. Though the image is real, it serves as a virtual object for the second lens, which means that the rays appear to come from it for the second lens.
+
+$$
+\frac{1}{v_2} - \frac{1}{10} = \frac{1}{-10}
+$$
+
+or *v*<sup>2</sup> = ¥
+
+The virtual image is formed at an infinite distance to the left of the s

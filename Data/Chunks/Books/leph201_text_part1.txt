@@ -1,0 +1,41 @@
+![](_page_0_Picture_0.jpeg)
+
+# Chapter Nine RAY OPTICS AND OPTICAL INSTRUMENTS
+
+## 9.1 INTRODUCTION
+
+Nature has endowed the human eye (retina) with the sensitivity to detect electromagnetic waves within a small range of the electromagnetic spectrum. Electromagnetic radiation belonging to this region of the spectrum (wavelength of about 400 nm to 750 nm) is called light. It is mainly through light and the sense of vision that we know and interpret the world around us.
+
+There are two things that we can intuitively mention about light from common experience. First, that it travels with enormous speed and second, that it travels in a straight line. It took some time for people to realise that the speed of light is finite and measurable. Its presently accepted value in vacuum is *c* = 2.99792458 × 10<sup>8</sup> m s–1. For many purposes, it suffices to take *c* = 3 × 10<sup>8</sup> m s–1. The speed of light in vacuum is the highest speed attainable in nature.
+
+The intuitive notion that light travels in a straight line seems to contradict what we have learnt in Chapter 8, that light is an electromagnetic wave of wavelength belonging to the visible part of the spectrum. How to reconcile the two facts? The answer is that the wavelength of light is very small compared to the size of ordinary objects that we encounter commonly (generally of the order of a few cm or larger). In this situation, as you will learn in Chapter 10, a light wave can be considered to travel from one point to another, along a straight line joining them. The path is called a *ray* of light, and a bundle of such rays constitutes a *beam* of light.
+
+In this chapter, we consider the phenomena of reflection, refraction and dispersion of light, using the ray picture of light. Using the basic laws of reflection and refraction, we shall study the image formation by plane and spherical reflecting and refracting surfaces. We then go on to describe the construction and working of some important optical instruments, including the human eye.
+
+### 9.2 REFLECTION OF LIGHT BY SPHERICAL MIRRORS
+
+![](_page_1_Figure_4.jpeg)
+
+FIGURE 9.1 The incident ray, reflected ray and the normal to the reflecting surface lie in the same plane.
+
+We are familiar with the laws of reflection. The angle of reflection (i.e., the angle between reflected ray and the normal to the reflecting surface or the mirror) equals the angle of incidence (angle between incident ray and the normal). Also that the incident ray, reflected ray and the normal to the reflecting surface at the point of incidence lie in the same plane (Fig. 9.1). These laws are valid at each point on any reflecting surface whether plane or curved. However, we shall restrict our discussion to the special case of curved surfaces, that is, spherical surfaces. The normal in this case is to be taken as normal to the tangent to surface at the point of incidence. That is, the normal is
+
+along the radius, the line joining the centre of curvature of the mirror to the point of incidence.
+
+We have already studied that the geometric centre of a spherical mirror is called its pole while that of a spherical lens is called its optical centre. The line joining the pole and the centre of curvature of the spherical mirror is known as the *principal axis*. In the case of spherical lenses, the principal axis is the line joining the optical centre with its principal focus as you will see later.
+
+![](_page_1_Figure_9.jpeg)
+
+To derive the relevant formulae for reflection by spherical mirrors and refraction by spherical lenses, we must first adopt a sign convention for measuring distances. In this book, we shall follow the *Cartesian sign convention*. According to this convention, all distances are measured from the pole of the mirror or the optical centre of the lens. The distances measured in the same direction as the incident light are taken as positive and those measured in the direction
+
+![](_page_1_Figure_11.jpeg)
+
+#### FIGURE 9.2 The Cartesian Sign Convention.
+
+opposite to the direction of incident light are taken as negative (Fig. 9.2). The heights measured upwards with respect to *x*-axis and normal to the principal axis (*x*-axis) of the mirror/lens are taken as positive (Fig. 9.2). The heights measured downwards are taken as negative.
+
+With a common accepted convention, it turns out that a single formula for spherical mirrors and a single formula for spherical lenses can handle all different cases.
+
+#### 9.2.2 Focal length of spherical mirrors
+
+Figure 9.3 shows what happens when a parallel beam of light is incident on (a) a concave mirror, and (b) a convex mirror. We assume that the rays are *paraxial*, i.e., they are incident at points close to the pole P of the mirror and make small angles with the principal axis. The reflected rays converge at a point F on the principal axis of a concave mirror [Fig. 9.3(a)]. For a convex mirror, the reflected rays appear to diverge from a point F on its principal axis [Fig. 9.3(b)]. The point F 

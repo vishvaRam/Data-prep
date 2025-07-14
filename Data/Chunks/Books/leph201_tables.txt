@@ -1,0 +1,12 @@
+| TABLE 9.1 CRITICAL<br>ANGLE OF SOME TRANSPARENT MEDIA WITH RESPECT TO AIR |                  |                |
+|---------------------------------------------------------------------------|------------------|----------------|
+| Substance medium                                                          | Refractive index | Critical angle |
+| Water                                                                     | 1.33             | 48.75          |
+| Crown glass                                                               | 1.52             | 41.14          |
+| Dense flint glass                                                         | 1.62             | 37.31          |
+| Diamond                                                                   | 2.42             | 24.41          |
+
+| 1 | 1      | 1      |        |
+|---|--------|--------|--------|
+| v | −<br>u | =<br>f | (9.23) |
+

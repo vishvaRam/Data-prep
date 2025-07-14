@@ -1,0 +1,119 @@
+econd lens. This acts as an object for the third lens.
+
+$$
+\frac{1}{v_3} - \frac{1}{u_3} = \frac{1}{f_3}
+$$
+  
+or 
+$$
+\frac{1}{1} = \frac{1}{1} + \frac{1}{2}
+$$
+
+or 
+$$
+\frac{1}{v_3} = \frac{1}{\infty} + \frac{1}{30}
+$$
+
+or *v*<sup>3</sup> = 30 cm
+
+The final image is formed 30 cm to the right of the third lens.
+
+## 9.6 REFRACTION THROUGH <sup>A</sup> PRISM
+
+Figure 9.21 shows the passage of light through a triangular prism ABC. The angles of incidence and refraction at the first face AB are *i* and *r* 1 , while the angle of incidence (from glass to air) at the second face AC is *r* 2 and the angle of refraction or emergence *e.* The angle between the emergent ray RS and the direction of the incident ray PQ is called the *angle of deviation*, d.
+
+In the quadrilateral AQNR, two of the angles (at the vertices Q and R) are right angles. Therefore, the sum of the other angles of the quadrilateral is 180°.
+
+Ð*A* + ÐQNR = 180°
+
+From the triangle QNR,
+
+*r 1* + *r* 2  *+* ÐQNR = 180°
+
+Comparing these two equations, we get
+
+*r 1* + *r* 2
+
+The total deviation d is the sum of deviations at the two faces,
+
+<sup>d</sup> = (*i* – *r 1* ) + (*e – r*<sup>2</sup> )
+
+that is,
+
+<sup>d</sup> = *i* + *e* – *A* (9.35)
+
+Thus, the angle of deviation depends on the angle of incidence. A plot between the angle of deviation and angle of incidence is shown in Fig. 9.22. You can see that, in general, any given value of d, except for *i* = *e*, corresponds to two values *i* and hence of *e*. This, in fact, is expected from the symmetry of *i* and *e* in Eq. (9.35), i.e., d remains the same if *i*
+
+![](_page_3_Figure_22.jpeg)
+
+FIGURE 9.21 A ray of light passing through
+
+= *A* (9.34)
+
+![](_page_4_Figure_0.jpeg)
+
+![](_page_4_Figure_1.jpeg)
+
+and *e* are interchanged. Physically, this is related to the fact that the path of ray in Fig. 9.21 can be traced back, resulting in the same angle of deviation. At the minimum deviation *D<sup>m</sup>* , the refracted ray inside the prism becomes parallel to its base. We have
+
+$$
+\delta = D_m, i = e \text{ which implies } r_1 = r_2.
+$$
+  
+Equation (9.34) gives
+
+$$
+2r = A \text{ or } r = \frac{A}{2}
+$$
+ (9.36)
+
+In the same way, Eq. (9.35) gives
+
+$$
+D_{\rm m} = 2i - A, \text{ or } i = (A + D_{\rm m})/2 \tag{9.37}
+$$
+
+The refractive index of the prism is
+
+$$
+n_{21} = \frac{n_2}{n_1} = \frac{\sin[(A+D_m)/2]}{\sin[A/2]}
+$$
+(9.38)
+
+The angles *A* and *D<sup>m</sup>* can be measured experimentally. Equation (9.38) thus provides a method of determining refractive index of the material of the prism.
+
+For a small angle prism, i.e., a thin prism, *D<sup>m</sup>* is also very small, and we get
+
+$$
+n_{21} = \frac{\sin[(A+D_m)/2]}{\sin[A/2]} \approx \frac{(A+D_m)/2}{A/2}
+$$
+
+$$
+D_m = (n_{21}-1)A
+$$
+
+It implies that, thin prisms do not deviate light much.
+
+## 9.7 OPTICAL INSTRUMENTS
+
+A number of optical devices and instruments have been designed utilising reflecting and refracting properties of mirrors, lenses and prisms. Periscope, kaleidoscope, binoculars, telescopes, microscopes are some examples of optical devices and instruments that are in common use. Our eye is, of course, one of the most important optical device the nature has endowed us with. We have already studied about the human eye in Class X. We now go on to describe the principles of working of the microscope and the telescope.
+
+### 9.7.1 The microscope
+
+A simple magnifier or microscope is a converging lens of small focal length (Fig. 9.23). In order to use such a lens as a microscope, the lens is held near the object, one focal length away or less, and the eye is positioned close to the lens on the other side. The idea is to get an erect, magnified and virtual image of the object at a distance so that it can be viewed comfortably, i.e., at 25 cm or more. If the object is at a distance *f*, the image is at infinity. However, if the object is at a distance slightly less
+
+![](_page_0_Figure_1.jpeg)
+
+FIGURE 9.23 A simple microscope; (a) the magnifying lens is located such that the image is at the near point, (b) the angle subtanded by the object, is the same as that at the near point, and (c) the object near the focal point of the lens; the image is far off but closer than infinity.
+
+than the focal length of the lens, the image is virtual and closer than infinity. Although the closest comfortable distance for viewing the image is when it is at the near point (distance *D* @ 25 cm), it causes some strain on the eye. Therefore, the image formed at infinity is often considered most suitable for viewing by the relaxed eye. We show both cases, the first in Fig. 9.23(a), and the second in Fig. 9.23(b) and (c).
+
+The linear magnification *m*, for the image formed at the near point *D*, by a simple microscope can be obtained by using the relation
+
+## Physics
+
+$$
+m = \frac{v}{u} = v \left(\frac{1}{v} - \frac{1}{f}\right) = \left(1 - \frac{v}{f}\right)
+$$
+
+Now according to our sign convention, *v* is negative, and is equal in magnitude to *D.* Thus, the magnification

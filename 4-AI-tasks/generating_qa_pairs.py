@@ -10,15 +10,15 @@ from langchain_core.prompts import ChatPromptTemplate
 import time
 from datetime import datetime
 from google.api_core.exceptions import ResourceExhausted, InternalServerError, GoogleAPIError # Import specific exceptions, including a more general GoogleAPIError
-from langfuse.callback import CallbackHandler
+# from langfuse.callback import CallbackHandler
 
 # Load environment variables
 load_dotenv()
 
-langfuse_handler = CallbackHandler()
+# langfuse_handler = CallbackHandler()
 
 # Tests the SDK connection with the server
-langfuse_handler.auth_check()
+# langfuse_handler.auth_check()
 
 
 # Model Definitions
@@ -33,53 +33,7 @@ class QAPair(BaseModel):
 class QAPairList(BaseModel):
     items: List[QAPair] = Field(..., description="List of Questions and answers")
 
-
-class QAGenerator:
-    def __init__(
-        self,
-        model_name: str = "gemini-2.0-flash",
-        temperature: float = 0.2,
-        requests_per_minute: int = 15,
-        max_iterations: int = 10,
-        max_consecutive_duplicates: int = 3,  # New parameter
-        api_key: Optional[str] = None
-    ):
-        """
-        Initialize the QA Generator with configurable settings.
-
-        Args:
-            model_name: Name of the LLM to use.
-            temperature: Sampling temperature for response diversity.
-            requests_per_minute: Rate limit for API calls.
-            max_iterations: Max number of QA pairs per file.
-            max_consecutive_duplicates: Max consecutive duplicates before moving to next file.
-            api_key: Google Gemini API key (defaults to GEMINI_API_KEY env var).
-        """
-        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
-        if not self.api_key:
-            raise ValueError("Missing GEMINI_API_KEY in .env file.")
-
-        self.model = ChatGoogleGenerativeAI(
-            model=model_name,
-            temperature=temperature,
-            timeout=None,
-            api_key=self.api_key
-        )
-
-        self.max_iterations = max_iterations
-        self.max_consecutive_duplicates = max_consecutive_duplicates
-        self.requests_per_minute = requests_per_minute
-        self.minute = 60  # seconds
-        
-        # API Request Monitoring
-        self.total_requests = 0
-        self.successful_requests = 0
-        self.failed_requests = 0
-        self.session_start_time = datetime.now()
-        self.quota_exceeded_flag = False # New flag to signal global quota exhaustion
-
-        # Prompt Template
-        self.chat_prompt = ChatPromptTemplate.from_messages([
+RBI_QA = ChatPromptTemplate.from_messages([
                 (
                     "system",
                     """
@@ -156,6 +110,131 @@ class QAGenerator:
                     """
                 )
             ])
+
+BOOK_QA = ChatPromptTemplate.from_messages([
+                (
+                    "system",
+                    """
+                    You are an expert in generating high-quality, context-independent question-answer pairs for training purposes, specifically from book content.
+
+                    CRITICAL REQUIREMENTS:
+                    1. Questions must be STANDALONE and CONTEXT-INDEPENDENT - they should NOT reference "the chapter", "the book", "this passage", etc.
+                    2. Questions should focus on SUBSTANTIVE CONTENT, such as plot points, character motivations, scientific concepts, historical events, philosophical ideas, or technical procedures. Avoid asking about book metadata (e.g., page numbers, chapter titles, author's notes).
+                    3. Questions should test KNOWLEDGE and UNDERSTANDING of the actual subject matter presented in the book content.
+                    4. Both questions and answers should read like general knowledge Q&A, not document analysis or reading comprehension exercises.
+
+                    GOOD EXAMPLES:
+                    BAD: "What does the passage say about the main character's childhood?"
+                    GOOD: "What significant event shaped the main character's perspective in their early life?"
+
+                    BAD: "According to this chapter, what is the process described?"
+                    GOOD: "How does photosynthesis convert light energy into chemical energy?"
+
+                    BAD: "What is mentioned about the historical context in this text?"
+                    GOOD: "What were the primary economic factors leading to the Industrial Revolution?"
+                    """
+                ),
+                (
+                    "user",
+                    """
+                    Content Source: {metadata}
+
+                    Content Text:
+                    {content}
+
+                    Previously Generated Questions (avoid similar topics):
+                    {qa_history}
+
+                    INSTRUCTIONS:
+                    Generate ONE high-quality, context-independent question-answer pair following these rules:
+
+                    QUESTION REQUIREMENTS:
+                    - Must be answerable using the provided content
+                    - Should NOT reference the source (no "chapter", "book", "text", "passage", etc.)
+                    - Focus on SUBSTANTIVE CONCEPTS, such as plot details, character traits, scientific principles, historical facts, or literary themes. Avoid metadata (e.g., page numbers, chapter titles).
+                    - Should test understanding of key principles, processes, requirements, or concepts presented in the book chunk.
+                    - Frame as general knowledge questions about the subject domain.
+
+                    ANSWER REQUIREMENTS:
+                    - Comprehensive and self-contained
+                    - No references to source material ("the book states", "according to the text", etc.)
+                    - Should sound like expert knowledge, not document extraction.
+                    - Include relevant details and context needed for complete understanding.
+
+                    EVALUATION_CRITERIA:
+                    - Be specific about what makes a good answer (e.g., accuracy, completeness, relevance to key themes, detail level for concepts, logical explanation).
+                    - Focus on key concepts, accuracy requirements, and completeness.
+                    - Vary the criteria - don't use generic templates.
+
+                    CATEGORIES:
+                    - 'reasoning': Requires analysis, interpretation, or logical thinking (e.g., character motivation, thematic analysis, scientific problem-solving).
+                    - 'fact-based': Direct factual recall or straightforward information (e.g., plot points, definitions, historical dates).
+
+                    DIFFICULTY LEVELS (1-10):
+                    - 1-3: Basic facts and simple recall (e.g., who, what, when, where of simple plot points or definitions).
+                    - 4-6: Moderate understanding and application (e.g., explaining concepts, describing processes, analyzing simple cause-effect).
+                    - 7-10: Complex reasoning and deep expertise (e.g., evaluating arguments, synthesizing multiple concepts, interpreting subtle themes, predicting outcomes).
+
+                    IMPORTANT: If the content is primarily administrative metadata (e.g., copyright pages, table of contents, index entries, acknowledgements) or lacks substantive domain knowledge for a Q&A, respond with:
+                    {{
+                        "question": "NO_MORE_QUESTIONS",
+                        "answer": "NO_MORE_QUESTIONS",
+                        "evaluation_criteria": "NO_MORE_QUESTIONS",
+                        "category": "fact-based",
+                        "estimated_difficulty": 1
+                    }}
+
+                    Output a single JSON object conforming to the QAPair schema.
+                    """
+                )
+            ])
+
+class QAGenerator:
+    def __init__(
+        self,
+        model_name: str = "gemini-2.0-flash",
+        temperature: float = 0.2,
+        requests_per_minute: int = 15,
+        max_iterations: int = 10,
+        max_consecutive_duplicates: int = 3,  # New parameter
+        api_key: Optional[str] = None
+    ):
+        """
+        Initialize the QA Generator with configurable settings.
+
+        Args:
+            model_name: Name of the LLM to use.
+            temperature: Sampling temperature for response diversity.
+            requests_per_minute: Rate limit for API calls.
+            max_iterations: Max number of QA pairs per file.
+            max_consecutive_duplicates: Max consecutive duplicates before moving to next file.
+            api_key: Google Gemini API key (defaults to GEMINI_API_KEY env var).
+        """
+        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
+        if not self.api_key:
+            raise ValueError("Missing GEMINI_API_KEY in .env file.")
+
+        self.model = ChatGoogleGenerativeAI(
+            model=model_name,
+            temperature=temperature,
+            timeout=None,
+            api_key=self.api_key
+        )
+
+        self.max_iterations = max_iterations
+        self.max_consecutive_duplicates = max_consecutive_duplicates
+        self.requests_per_minute = requests_per_minute
+        self.minute = 60  # seconds
+        
+        # API Request Monitoring
+        self.total_requests = 0
+        self.successful_requests = 0
+        self.failed_requests = 0
+        self.session_start_time = datetime.now()
+        self.quota_exceeded_flag = False # New flag to signal global quota exhaustion
+
+        # Prompt Template
+        self.chat_prompt = BOOK_QA 
         self.structure_chain = self.chat_prompt | self.model.with_structured_output(QAPair)
 
     def print_request_stats(self, context: str = ""):
@@ -244,7 +323,9 @@ class QAGenerator:
                     "metadata": json.dumps(metadata),
                     "content": content,
                     "qa_history": history_str
-                }, config={"callbacks":[langfuse_handler]})
+                },
+                # config={"callbacks":[langfuse_handler]}
+                )
 
                 # Increment successful requests counter
                 self.successful_requests += 1
@@ -465,14 +546,14 @@ class QAGenerator:
 if __name__ == "__main__":
     generator = QAGenerator(
         model_name="gemini-2.0-flash",
-        temperature=0.2,
+        temperature=0.6,
         requests_per_minute=1800, # Keep this reasonable to avoid hitting per-minute limits too often
-        max_iterations=20, # Max Q&A pairs per chunk
+        max_iterations=30, # Max Q&A pairs per chunk
         max_consecutive_duplicates=3
     )
 
-    chunks_path = "/workspaces/Data_prep/Code/Data/Chunks/2023"
-    metadata_path = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2023.json"
-    output_file = "/workspaces/Data_prep/Code/Data/QA/generated_qa_pairs_2023.json"
+    chunks_path = "/workspaces/Data_prep/Data/Chunks/Books"
+    metadata_path = "/workspaces/Data_prep/Data/meta-data/books_leph201.json"
+    output_file = "/workspaces/Data_prep/Data/QA/Book_qa_pairs.json"
 
     generator.run(chunks_path, metadata_path, output_file)

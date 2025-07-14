@@ -1,0 +1,45 @@
+ed on the wall of a room is to be obtained on the opposite wall 3m away by means of a large convex lens. What is the maximum possible focal length of the lens required for the purpose?
+- 9.19 A screen is placed 90cm from an object. The image of the object on the screen is formed by a convex lens at two different locations separated by 20cm. Determine the focal length of the lens.
+- 9.20 (a) Determine the 'effective focal length' of the combination of the two lenses in Exercise 9.10, if they are placed 8.0cm apart with their principal axes coincident. Does the answer depend on which side of the combination a beam of parallel light is incident? Is the notion of effective focal length of this system useful at all?
+	- (b) An object 1.5 cm in size is placed on the side of the convex lens in the arrangement (a) above. The distance between the object and the convex lens is 40 cm. Determine the magnification produced by the two-lens system, and the size of the image.
+- 9.21 At what angle should a ray of light be incident on the face of a prism of refracting angle 60° so that it just suffers total internal reflection at the other face? The refractive index of the material of the prism is 1.524.
+- 9.22 A card sheet divided into squares each of size 1 mm<sup>2</sup> is being viewed at a distance of 9 cm through a magnifying glass (a converging lens of focal length 9 cm) held close to the eye.
+	- (a) What is the magnification produced by the lens? How much is the area of each square in the virtual image?
+	- (b) What is the angular magnification (magnifying power) of the lens?
+	- (c) Is the magnification in (a) equal to the magnifying power in (b)? Explain.
+- 9.23 (a) At what distance should the lens be held from the card sheet in Exercise 9.22 in order to view the squares distinctly with the maximum possible magnifying power?
+	- (b) What is the magnification in this case?
+	- (c) Is the magnification equal to the magnifying power in this case? Explain.
+- 9.24 What should be the distance between the object in Exercise 9.23 and the magnifying glass if the virtual image of each square in the figure is to have an area of 6.25 mm<sup>2</sup> . Would you be able to see the squares distinctly with your eyes very close to the magnifier?
+
+[*Note:* Exercises 9.22 to 9.24 will help you clearly understand the difference between magnification in absolute size and the angular magnification (or magnifying power) of an instrument.]
+
+Physics
+
+- 9.25 Answer the following questions:
+	- (a) The angle subtended at the eye by an object is equal to the angle subtended at the eye by the virtual image produced by a magnifying glass. In what sense then does a magnifying glass provide angular magnification?
+	- (b) In viewing through a magnifying glass, one usually positions one's eyes very close to the lens. Does angular magnification change if the eye is moved back?
+	- (c) Magnifying power of a simple microscope is inversely proportional to the focal length of the lens. What then stops us from using a convex lens of smaller and smaller focal length and achieving greater and greater magnifying power?
+	- (d) Why must both the objective and the eyepiece of a compound microscope have short focal lengths?
+	- (e) When viewing through a compound microscope, our eyes should be positioned not on the eyepiece but a short distance away from it for best viewing. Why? How much should be that short distance between the eye and eyepiece?
+- 9.26 An angular magnification (magnifying power) of 30X is desired using an objective of focal length 1.25cm and an eyepiece of focal length 5cm. How will you set up the compound microscope?
+- 9.27 A small telescope has an objective lens of focal length 140cm and an eyepiece of focal length 5.0cm. What is the magnifying power of the telescope for viewing distant objects when
+	- (a) the telescope is in normal adjustment (i.e., when the final image is at infinity)?
+	- (b) the final image is formed at the least distance of distinct vision (25cm)?
+- 9.28 (a) For the telescope described in Exercise 9.27 (a), what is the separation between the objective lens and the eyepiece?
+	- (b) If this telescope is used to view a 100 m tall tower 3 km away, what is the height of the image of the tower formed by the objective lens?
+	- (c) What is the height of the final image of the tower if it is formed at 25cm?
+- 9.29 A Cassegrain telescope uses two mirrors as shown in Fig. 9.26. Such a telescope is built with the mirrors 20mm apart. If the radius of curvature of the large mirror is 220mm and the small mirror is 140mm, where will the final image of an object at infinity be?
+- 9.30 Light incident normally on a plane mirror attached to a galvanometer coil retraces backwards as shown in Fig. 9.29. A current in the coil produces a deflection of 3.5<sup>o</sup> of the mirror. What is the displacement of the reflected spot of light on a screen placed 1.5 m away?
+
+## Ray Optics and Optical Instruments
+
+![](_page_2_Figure_1.jpeg)
+
+9.31 Figure 9.30 shows an equiconvex lens (of refractive index 1.50) in contact with a liquid layer on top of a plane mirror. A small needle with its tip on the principal axis is moved along the axis until its inverted image is found at the position of the needle. The distance of the needle from the lens is measured to be 45.0cm. The liquid is removed and the experiment is repeated. The new distance is measured to be 30.0cm. What is the refractive index of the liquid?
+
+FIGURE 9.29
+
+![](_page_2_Figure_3.jpeg)
+
+![](_page_3_Figure_0.jpeg)

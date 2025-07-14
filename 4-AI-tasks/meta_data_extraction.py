@@ -24,30 +24,25 @@ class RBIMetadata(BaseModel):
     key_topics: List[str] = Field(..., description="3–5 key topics or compliance requirements")
 
 
+class BookMetadata(BaseModel):
+    title: str = Field(..., description="The title of the book.")
+    author: str = Field(..., description="The author(s) of the book.")
+    genre: str = Field(..., description="The primary genre of the book (e.g., 'Science Fiction', 'Mystery', 'Biography').")
+    publication_year: str = Field(default="unknown", description="The year the book was first published in YYYY format or 'unknown'.")
+    key_themes: List[str] = Field(..., description="3–5 key themes or subjects explored in the book.")
+    target_audience: str = Field(..., description="The intended audience for the book (e.g., 'Young Adult', 'Adult', 'Children').")
+
+
+
 # === 2. Config Class for Global Settings ===
 class AppConfig:
     GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
-    ROOT_DIR = "/workspaces/Data_prep/Code/Data/pdf-markdowns/2023"
-    OUTPUT_FILE = "/workspaces/Data_prep/Code/Data/meta-data/metadata_2023.json"
+    ROOT_DIR = "/workspaces/Data_prep/Data/pdf-markdowns/Book"
+    OUTPUT_FILE = "/workspaces/Data_prep/Data/meta-data/books_leph201.json"
     MODEL_NAME = "gemini-2.0-flash"
     REQUESTS_PER_MINUTE = 1800
 
-
-# === 3. Metadata Extractor Class ===
-class RBIMetadataExtractor:
-    def __init__(self):
-        self.llm = self._init_llm()
-        self.chain = self._build_chain()
-
-    def _init_llm(self) -> ChatGoogleGenerativeAI:
-        return ChatGoogleGenerativeAI(
-            model=AppConfig.MODEL_NAME,
-            temperature=0.4,
-            api_key=AppConfig.GOOGLE_API_KEY
-        )
-
-    def _build_prompt(self) -> ChatPromptTemplate:
-        return ChatPromptTemplate.from_messages([
+RBI_Prompt = ChatPromptTemplate.from_messages([
             ("system", """
                 You are an AI assistant tasked with extracting structured metadata from an RBI regulatory circular.
                 The extracted fields will be used to guide synthetic question-answer pair generation.
@@ -68,9 +63,48 @@ class RBIMetadataExtractor:
             ("human", "Tip: Make sure to answer in the correct format"),
         ])
 
+Book_Prompt = ChatPromptTemplate.from_messages([
+            ("system", """
+                You are an AI assistant tasked with extracting structured metadata from a book description.
+                The extracted fields will be used to categorize and recommend books.
+
+                Instructions:
+                1. Identify and extract the following fields based on the input:
+                - title: The title of the book.
+                - author: The author(s) of the book.
+                - genre: The primary genre of the book (e.g., "Science Fiction", "Mystery", "Biography").
+                - publication_year: The year the book was first published (if not present, respond with "unknown").
+                - key_themes: 3–5 key themes or subjects explored in the book.
+                - target_audience: The intended audience for the book (e.g., "Young Adult", "Adult", "Children").
+
+                2. Output only the JSON object with no additional explanation.
+                3. Do not include any markdown formatting.
+                4. If a field cannot be determined, mark it as "unknown"
+                """),
+            ("human", "Use the given format to extract information from the following input: {input}"),
+            ("human", "Tip: Make sure to answer in the correct format"),
+        ])
+
+# === 3. Metadata Extractor Class ===
+class RBIMetadataExtractor:
+    def __init__(self):
+        self.llm = self._init_llm()
+        self.chain = self._build_chain()
+
+    def _init_llm(self) -> ChatGoogleGenerativeAI:
+        return ChatGoogleGenerativeAI(
+            model=AppConfig.MODEL_NAME,
+            temperature=0.4,
+            api_key=AppConfig.GOOGLE_API_KEY
+        )
+
+
+    def _build_prompt(self) -> ChatPromptTemplate:
+        return Book_Prompt
+
     def _build_chain(self) -> RunnableSequence:
         prompt = self._build_prompt()
-        return prompt | self.llm.with_structured_output(RBIMetadata)
+        return prompt | self.llm.with_structured_output(BookMetadata)
 
     def extract(self, content: str) -> Optional[BaseModel]:
         try:

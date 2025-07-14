@@ -1,0 +1,138 @@
+ object (*h*):
+
+$$
+m = \frac{h'}{h} \tag{9.8}
+$$
+
+*h* and *h*¢ will be taken positive or negative in accordance with the accepted sign convention. In triangles A¢B¢P and ABP, we have,
+
+$$
+\frac{B'A'}{BA} = \frac{B'P}{BP}
+$$
+
+With the sign convention, this becomes
+
+![](_page_0_Picture_0.jpeg)
+
+so that
+
+Physics
+
+$$
+m = \frac{h'}{h} = -\frac{v}{u} \tag{9.9}
+$$
+
+We have derived here the mirror equation, Eq. (9.7), and the magnification formula, Eq. (9.9), for the case of real, inverted image formed by a concave mirror. With the proper use of sign convention, these are, in fact, valid for all the cases of reflection by a spherical mirror (concave or convex) whether the image formed is real or virtual. Figure 9.6 shows the ray diagrams for virtual image formed by a concave and convex mirror. You should verify that Eqs. (9.7) and (9.9) are valid for these cases as well.
+
+![](_page_0_Figure_4.jpeg)
+
+FIGURE 9.6 Image formation by (a) a concave mirror with object between P and F, and (b) a convex mirror.
+
+Example 9.1 Suppose that the lower half of the concave mirror's reflecting surface in Fig. 9.6 is covered with an opaque (non-reflective) material. What effect will this have on the image of an object placed in front of the mirror?
+
+Solution You may think that the image will now show only half of the object, but taking the laws of reflection to be true for all points of the remaining part of the mirror, the image will be that of the whole object. However, as the area of the reflecting surface has been reduced, the intensity of the image will be low (in this case, half).
+
+Example 9.2 A mobile phone lies along the principal axis of a concave mirror, as shown in Fig. 9.7. Show by suitable diagram, the formation of its image. Explain why the magnification is not uniform. Will the distortion of image depend on the location of the phone with respect to the mirror?
+
+![](_page_0_Figure_9.jpeg)
+
+EXAMPLE 9.1
+
+E
+
+XAMPLE 9.2
+
+# Ray Optics and Optical Instruments
+
+EXAMPLE 9.2
+
+#### Solution
+
+The ray diagram for the formation of the image of the phone is shown in Fig. 9.7. The image of the part which is on the plane perpendicular to principal axis will be on the same plane. It will be of the same size, i.e., B¢C = BC. You can yourself realise why the image is distorted.
+
+Example 9.3 An object is placed at (i) 10 cm, (ii) 5 cm in front of a concave mirror of radius of curvature 15 cm. Find the position, nature, and magnification of the image in each case.
+
+### Solution
+
+The focal length *f* = –15/2 cm = –7.5 cm
+
+(i)The object distance *u* = –10 cm. Then Eq. (9.7) gives
+
+$$
+\frac{1}{v} + \frac{1}{-10} = \frac{1}{-7.5}
+$$
+
+or 
+$$
+v = \frac{10 \times 7.5}{-2.5} = -30
+$$
+ cm
+
+The image is 30 cm from the mirror on the same side as the object.
+
+Also, magnification *m =*  ( 30) – – – 3 ( 10) *v u* − = = −
+
+The image is magnified, real and inverted.
+
+(ii) The object distance *u* = –5 cm. Then from Eq. (9.7),
+
+$$
+\frac{1}{v} + \frac{1}{-5} = \frac{1}{-7.5}
+$$
+  
+or  $v = \frac{5 \times 7.5}{(7.5 - 5)} = 15$  cm
+
+This image is formed at 15 cm behind the mirror. It is a virtual image.
+
+Magnification 
+$$
+m = -\frac{v}{u} = -\frac{15}{(-5)} = 3
+$$
+
+The image is magnified, virtual and erect.
+
+Example 9.4 Suppose while sitting in a parked car, you notice a jogger approaching towards you in the side view mirror of *R* = 2 m. If the jogger is running at a speed of 5 m s–1, how fast the image of the jogger appear to move when the jogger is (a) 39 m, (b) 29 m, (c) 19 m, and (d) 9 m away.
+
+### Solution
+
+From the mirror equation, Eq. (9.7), we get
+
+$$
+v = \frac{fu}{u - f}
+$$
+
+For convex mirror, since *R* = 2 m, *f* = 1 m. Then
+
+for 
+$$
+u = -39
+$$
+ m,  $v = \frac{(-39) \times 1}{-39 - 1} = \frac{39}{40}$  m
+
+Since the jogger moves at a constant speed of 5 m s–1, after 1 s the position of the image *v* (for *u* = –39 + 5 = –34) is (34/35 )m.
+
+EXAMPLE 9.3 EXAMPLE 9.4
+
+# Physics
+
+The shift in the position of image in 1 s is
+
+$$
+\frac{39}{40} - \frac{34}{35} = \frac{1365 - 1360}{1400} = \frac{5}{1400} = \frac{1}{280}
+$$
+ m
+
+Therefore, the average speed of the image when the jogger is between 39 m and 34 m from the mirror, is (1/280) m s–1
+
+Similarly, it can be seen that for *u* = –29 m, –19 m and –9 m, the speed with which the image appears to move is
+
+$$
+\frac{1}{150}
+$$
+ m s<sup>-1</sup>,  $\frac{1}{60}$  m s<sup>-1</sup> and  $\frac{1}{10}$  m s<sup>-1</sup>, respectively.
+
+Although the jogger has been moving with a constant speed, the speed of his/her image appears to increase substantially as he/she moves closer to the mirror. This phenomenon can be noticed by any person sitting in a stationary car or a bus. In case of moving vehicles, a similar phenomenon could be observed if the vehicle in the rear is moving closer with a constant speed.
+
+### 9.3 REFRACTION
+
+When a beam of light encounters another transparent medium, a part of light gets reflected back into the first medium while the rest enters the other. A ray of light represents a beam. The direc

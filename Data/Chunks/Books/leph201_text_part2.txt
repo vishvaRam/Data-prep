@@ -1,0 +1,109 @@
+is called the *principal focus* of the mirror. If the parallel paraxial beam of light were incident, making some angle with the principal axis, the reflected rays would converge (or appear to diverge) from a point in a plane through F normal to the principal axis. This is called the *focal plane* of the mirror [Fig. 9.3(c)].
+
+![](_page_2_Figure_5.jpeg)
+
+The distance between the focus F and the pole P of the mirror is called the *focal length* of the mirror, denoted by *f*. We now show that *f* = *R*/2, where *R* is the radius of curvature of the mirror. The geometry of reflection of an incident ray is shown in Fig. 9.4.
+
+Let C be the centre of curvature of the mirror. Consider a ray parallel to the principal axis striking the mirror at M. Then CM will be perpendicular to the mirror at M. Let q be the angle of incidence, and MD
+
+![](_page_3_Figure_0.jpeg)
+
+Physics
+
+![](_page_3_Figure_1.jpeg)
+
+FIGURE 9.4 Geometry of reflection of an incident ray on (a) concave spherical mirror, and (b) convex spherical mirror.
+
+![](_page_3_Figure_3.jpeg)
+
+![](_page_3_Figure_4.jpeg)
+
+be the perpendicular from M on the principal axis. Then, ÐMCP = q and ÐMFP = 2q
+
+Now,
+
+$$
+\tan \theta = \frac{\text{MD}}{\text{CD}} \text{ and } \tan 2\theta = \frac{\text{MD}}{\text{FD}}
+$$
+ (9.1)
+
+For small q, which is true for paraxial rays, tanq » q, tan 2q » 2q. Therefore, Eq. (9.1) gives
+
+$$
+\frac{MD}{FD} = 2 \frac{MD}{CD}
+$$
+  
+or, FD =  $\frac{CD}{2}$  (9.2)
+
+Now, for small q, the point D is very close to the point P. Therefore, FD = *f* and CD = *R.* Equation (9.2) then gives *f = R/*2 (9.3)
+
+#### 9.2.3 The mirror equation
+
+If rays emanating from a point actually meet at another point after reflection and/or refraction, that point is called the *image* of the first point. The image is *real* if the rays actually converge to the point; it is *virtual* if the rays do not actually meet but
+
+> appear to diverge from the point when produced backwards. An image is thus a point-to-point correspondence with the object established through reflection and/or refraction.
+
+> In principle, we can take any two rays emanating from a point on an object, trace their paths, find their point of intersection and thus, obtain the image of the point due to reflection at a spherical mirror. In practice, however, it is convenient to choose any two of the following rays:
+
+- (i) The ray from the point which is parallel to the principal axis. The reflected ray goes through the focus of the mirror.
+- (ii) The ray passing through the centre of curvature of a concave mirror or appearing to pass through it for a convex mirror. The reflected ray simply retraces the path.
+- (iii) The ray passing through (or directed towards) the focus of the concave mirror or appearing to pass through (or directed towards) the focus of a convex mirror. The reflected ray is parallel to the principal axis.
+- (iv) The ray incident at any angle at the pole. The reflected ray follows laws of reflection.
+
+Figure 9.5 shows the ray diagram considering three rays. It shows the image A¢B¢ (in this case, real) of an object AB formed by a concave mirror. It does not mean that only three rays emanate from the point A. An infinite number of rays emanate from any source, in all directions. Thus, point A¢ is image point of A if every ray originating at point A and falling on the concave mirror after reflection passes through the point A¢.
+
+We now derive the mirror equation or the relation between the object distance (*u*), image distance (*v*) and the focal length (*f* ).
+
+From Fig. 9.5, the two right-angled triangles A¢B¢F and MPF are similar. (For paraxial rays, MP can be considered to be a straight line perpendicular to CP.) Therefore,
+
+$$
+\frac{B'A'}{PM} = \frac{B'F}{FP}
+$$
+  
+or 
+$$
+\frac{B'A'}{BA} = \frac{B'F}{FP} \quad (\because PM = AB)
+$$
+ (9.4)
+
+Since Ð APB = Ð A¢PB¢, the right angled triangles A¢B¢P and ABP are also similar. Therefore,
+
+$$
+\frac{B'A'}{BA} = \frac{B'P}{BP}
+$$
+ (9.5)
+
+Comparing Eqs. (9.4) and (9.5), we get
+
+$$
+\frac{B'F}{FP} = \frac{B'P - FP}{FP} = \frac{B'P}{BP}
+$$
+\n(9.6)
+
+Equation (9.6) is a relation involving magnitude of distances. We now apply the sign convention. We note that light travels from the object to the mirror MPN. Hence this is taken as the positive direction. To reach the object AB, image A¢B¢ as well as the focus F from the pole P, we have to travel opposite to the direction of incident light. Hence, all the three will have negative signs. Thus,
+
+B¢ P = –*v*, FP = –*f*, BP = –*u* Using these in Eq. (9.6), we get
+
+$$
+\frac{-v+f}{-f} = \frac{-v}{-u}
+$$
+  
+or 
+$$
+\frac{v-f}{f} = \frac{v}{u}
+$$
+
+$$
+\frac{v}{f} = 1 + \frac{v}{u}
+$$
+
+Dividing it by *v*, we get
+
+$$
+\frac{1}{v} + \frac{1}{u} = \frac{1}{f}
+$$
+ (9.7)
+
+This relation is known as the *mirror equation*.
+
+The size of the image relative to the size of the object is another important quantity to consider. We define linear *magnification* (*m*) as the ratio of the height of the image (*h*¢) to the height of the

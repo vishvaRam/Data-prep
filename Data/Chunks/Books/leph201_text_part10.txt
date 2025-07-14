@@ -1,0 +1,93 @@
+ is
+
+$$
+m = \left(1 + \frac{D}{f}\right) \tag{9.39}
+$$
+
+Since *D* is about 25 cm, to have a magnification of six, one needs a convex lens of focal length, *f* = 5 cm.
+
+Note that *m* = *h*¢/*h* where *h* is the size of the object and *h*¢ the size of the image. This is also the ratio of the angle subtended by the image to that subtended by the object, if placed at *D* for comfortable viewing. (Note that this is not the angle actually subtended by the object at the eye, which is *h/u.*) What a single-lens simple magnifier achieves is that it allows the object to be brought closer to the eye than *D*.
+
+We will now find the magnification when the image is at infinity. In this case we will have to obtained the *angular* magnification. Suppose the object has a height *h*. The maximum angle it can subtend, and be clearly visible (without a lens), is when it is at the near point, i.e., a distance *D.* The angle subtended is then given by
+
+$$
+\tan \theta_o = \left(\frac{h}{D}\right) \approx \theta_o \tag{9.40}
+$$
+
+We now find the angle subtended at the eye by the image when the object is at *u*. From the relations
+
+$$
+\frac{h'}{h} = m = \frac{v}{u}
+$$
+
+we have the angle subtended by the image
+
+ tan *<sup>i</sup> h h v h v v u u* θ ′ = = ⋅ = − − − »q . The angle subtended by the object, when it is at *u = –f*.
+
+$$
+\theta_i = \left(\frac{h}{f}\right) \tag{9.41}
+$$
+
+as is clear from Fig. 9.23(c). The angular magnification is, therefore
+
+$$
+m = \left(\frac{\theta_i}{\theta_o}\right) = \frac{D}{f}
+$$
+\n(9.42)
+
+This is one less than the magnification when the image is at the near point, Eq. (9.39), but the viewing is more comfortable and the difference in magnification is usually small. In subsequent discussions of optical instruments (microscope and telescope) we shall assume the image to be at infinity.
+
+![](_page_2_Figure_1.jpeg)
+
+FIGURE 9.24 Ray diagram for the formation of image by a compound microscope.
+
+A simple microscope has a limited maximum magnification (£ 9) for realistic focal lengths. For much larger magnifications, one uses two lenses, one compounding the effect of the other. This is known as a *compound microscope*. A schematic diagram of a compound microscope is shown in Fig. 9.24. The lens nearest the object, called the *objective*, forms a real, inverted, magnified image of the object. This serves as the object for the second lens, the *eyepiece*, which functions essentially like a simple microscope or magnifier, produces the final image, which is enlarged and virtual. The first inverted image is thus near (at or within) the focal plane of the eyepiece, at a distance appropriate for final image formation at infinity, or a little closer for image formation at the near point. Clearly, the final image is inverted with respect to the original object.
+
+We now obtain the magnification due to a compound microscope. The ray diagram of Fig. 9.24 shows that the (linear) magnification due to the objective, namely *h*¢/*h*, equals
+
+$$
+m_o = \frac{h'}{h} = \frac{L}{f_o} \tag{9.43}
+$$
+
+where we have used the result
+
+$$
+\tan \beta = \left(\frac{h}{f_o}\right) = \left(\frac{h'}{L}\right)
+$$
+
+Here *h*¢ is the size of the first image, the object size being *h* and *f o* being the focal length of the objective. The first image is formed near the focal point of the eyepiece. The distance *L,* i.e., the distance between the second focal point of the objective and the first focal point of the eyepiece (focal length *f e* ) is called the tube length of the compound microscope.
+
+## Physics
+
+As the first inverted image is near the focal point of the eyepiece, we use the result from the discussion above for the simple microscope to obtain the (angular) magnification *m<sup>e</sup>* due to it [Eq. (9.39)], when the final image is formed at the near point, is
+
+$$
+m_e = \left(1 + \frac{D}{f_e}\right) \tag{9.44(a)}
+$$
+
+When the final image is formed at infinity, the angular magnification due to the eyepiece [Eq. (9.42)] is
+
+$$
+m_e = (D/f_e) \tag{9.44(b)}
+$$
+
+Thus, the total magnification [(according to Eq. (9.33)], when the image is formed at infinity, is
+
+$$
+m = m_o m_e = \left(\frac{L}{f_o}\right)\left(\frac{D}{f_e}\right)
+$$
+\n(9.45)
+
+Clearly, to achieve a large magnification of a *small* object (hence the name microscope), the objective and eyepiece should have small focal lengths. In practice, it is difficult to make the focal length much smaller than 1 cm. Also large lenses are required to make L large.
+
+For example, with an objective with *f o =* 1.0 cm, and an eyepiece with focal length *f e =* 2.0 cm, and a tube length of 20 cm, the magnification is
+
+$$
+m = m_o m_e = \left(\frac{L}{f_o}\right)\left(\frac{D}{f_e}\right)
+$$
+
+$$
+= \frac{20}{1} \times \frac{25}{2} = 250
+$$
+
+Various other factors such as illumination of the object, contribute to the quality and visibility of the image. In modern microscopes, multicomponent lenses are used for both the objective and the eyepiece to improve image quality by minimising various opt

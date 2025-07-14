@@ -1,0 +1,94 @@
+
+$$
+
+$$
+DC_2 = -R_2
+$$
+
+So Eq. (9.20) can be written as
+
+,
+
+$$
+\frac{1}{f} = (n_{21} - 1) \left[ \frac{1}{R_1} - \frac{1}{R_2} \right] \quad \left[ \because n_{21} = \frac{n_2}{n_1} \right] \tag{9.21}
+$$
+
+Equation (9.21) is known as the *lens maker's formula*. It is useful to design lenses of desired focal length using surfaces of suitable radii of curvature. Note that the formula is true for a concave lens also. In that case *R*<sup>1</sup> is negative, *R*<sup>2</sup> positive and therefore, *f* is negative.
+
+<sup>\*</sup> Note that now the refractive index of the medium on the right side of ADC is *n*<sup>1</sup> while on its left it is *n*<sup>2</sup> . Further DI<sup>1</sup> is negative as the distance is measured against the direction of incident light.
+
+From Eqs. (9.19) and (9.20), we get
+
+$$
+\frac{n_1}{OB} + \frac{n_1}{DI} = \frac{n_1}{f}
+$$
+ (9.22)
+
+Again, in the thin lens approximation, B and D are both close to the optical centre of the lens. Applying the sign convention,
+
+BO = – *u*, DI = +*v*, we get
+
+
+Equation (9.23) is the familiar *thin lens formula*. Though we derived it for a real image formed by a convex lens, the formula is valid for both convex as well as concave lenses and for both real and virtual images.
+
+It is worth mentioning that the two foci, F and F¢, of a double convex or concave lens are equidistant from the optical centre. The focus on the side of the (original) source of light is called the *first focal point*, whereas the other is called the *second focal point*.
+
+To find the image of an object by a lens, we can, in principle, take any two rays emanating from a point on an object; trace their paths using the laws of refraction and find the point where the refracted rays meet (or appear to meet). In practice, however, it is convenient to choose any two of the following rays:
+
+- (i) A ray emanating from the object parallel to the principal axis of the lens after refraction passes through the second principal focus F¢ (in a convex lens) or appears to diverge (in a concave lens) from the first principal focus F.
+- (ii) A ray of light, passing through the optical centre of the lens, emerges without any deviation after refraction.
+- (iii) (a) A ray of light passing through the first principal focus of a convex lens [Fig. 9.17(a)] emerges parallel to the principal axis after refraction.
+
+(b) A ray of light incident on a concave lens appearing to meet the principal axis at second focus point emerges parallel to the principal axis after refraction [Fig. 9.17(b)].
+
+Figures 9.17(a) and (b) illustrate these rules for a convex and a concave lens, respectively. You should practice drawing similar ray diagrams for different positions of the object with respect to the lens and also verify that the lens formula, Eq. (9.23), holds good for all cases.
+
+Here again it must be remembered that each point on an object gives out infinite number of rays. All these rays will pass through the same image point after refraction at the lens.
+
+Magnification (*m*) produced by a lens is defined, like that for a mirror, as the ratio of the size of the image to that of the object. Proceeding
+
+![](_page_4_Figure_16.jpeg)
+
+FIGURE 9.17 Tracing rays through (a) convex lens (b) concave lens.
+
+Reprint 2025-26
+
+# Physics
+
+in the same way as for spherical mirrors, it is easily seen that for a lens
+
+$$
+m = \frac{h'}{h} = \frac{v}{u}
+$$
+ (9.24)
+
+When we apply the sign convention, we see that, for erect (and virtual) image formed by a convex or concave lens, *m* is positive, while for an inverted (and real) image, *m* is negative.
+
+Example 9.6 A magician during a show makes a glass lens with *n* = 1.47 disappear in a trough of liquid. What is the refractive index of the liquid? Could the liquid be water?
+
+#### Solution
+
+The refractive index of the liquid must be equal to 1.47 in order to make the lens disappear. This means *n*<sup>1</sup> = *n*<sup>2</sup> . This gives 1/*f* =0 or *f* ® ¥. The lens in the liquid will act like a plane sheet of glass. No, the liquid is not water. It could be glycerine.
+
+### 9.5.3 Power of a lens
+
+Power of a lens is a measure of the convergence or divergence, which a lens introduces in the light falling on it. Clearly, a lens of shorter focal length bends the incident light more, while converging it in case of a convex lens and diverging it in case of a concave lens. The *power P* of a lens is defined as the tangent of the angle by which it converges or diverges a beam of light parallel to the principal axis falling at unit distance from the optical centre (Fig. 9.18).
+
+$$
+\tan \delta = \frac{h}{f}
+$$
+; if  $h = 1$ ,  $\tan \delta = \frac{1}{f}$  or  $\delta = \frac{1}{f}$  for small
+
+value of 
+$$
+\delta
+$$
+. Thus,
+
+$$
+P = \frac{1}{f}
+$$
+
+(9.25)
+
+The SI unit for power of a lens is dioptre (D): 1D = 1m–1. The power of a lens of focal length of 1 metre is one dioptre. Power of a lens is positive for a converging lens and negative for a diverging lens. Thus, when an optician prescribes a corr
