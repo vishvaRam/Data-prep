@@ -1,0 +1,30 @@
+ragraph (B) above but is likely also to involve the use of models, most of which will be integrated into its day-to-day management and operations.
+
+Models of the kind referred to above may be linked so as to generate an overall estimate of the amount of capital that a bank considers appropriate to hold for its business needs. A bank may also link such models to generate information on the economic capital considered desirable for that bank. A model which a bank uses to generate its target amount of economic capital is known as an economic capital model (ECM). Economic capital is the target amount of capital which optimises the return for a bank's stakeholders for a desired level of risk. For example, a bank is likely to use value-at-risk (VaR) models for market risk and advanced modelling approaches for credit risk. A bank might also use economic scenario generators to model stochastically its business forecasts and risks. However, banks shall take prior approval of the RBI for migrating to the advanced approaches.
+
+Such a bank is also likely to be part of a group and to be operating internationally. There is likely to be centralised control over the models used throughout the group, the assumptions made and their overall calibration.
+
+### **12.7 Regular Independent Review and Validation**
+
+The ICAAP should be subject to regular and independent review through an internal or external audit process, separately from the SREP conducted by the RBI, to ensure that the ICAAP is comprehensive and proportionate to the nature, scope, scale and level of complexity of the bank's activities so that it accurately reflects the major sources of risk that the bank is exposed to. A bank shall ensure appropriate and effective internal control structures, particularly in regard to the risk management processes, in order to monitor the bank's continued compliance with internal policies and procedures. As a minimum, a bank shall conduct periodic reviews of its risk management processes, which should ensure:
+
+- (a) the integrity, accuracy, and reasonableness of the processes;
+- (b) the appropriateness of the bank's capital assessment process based on the nature, scope, scale and complexity of the bank's activities;
+- (c) the timely identification of any concentration risk;
+- (d) the accuracy and completeness of any data inputs into the bank's capital assessment process;
+- (e) the reasonableness and validity of any assumptions and scenarios used in the capital assessment process; and
+- (f) that the bank conducts appropriate stress testing;
+
+#### **12.8 ICAAP to be a Forward-looking Process**
+
+The ICAAP should be forward looking in nature, and thus, should take into account the expected / estimated future developments such as strategic plans, macro-economic factors, etc., including the likely future constraints in the availability and use of capital. As a minimum, the management of a bank shall develop and maintain an appropriate strategy that would ensure that the bank maintains adequate capital commensurate with the nature, scope, scale, complexity and risks inherent in the bank's on-balance-sheet and off-balance-sheet activities, and should demonstrate as to how the strategy dovetails with the macro-economic factors.
+
+Thus, banks shall have an explicit, Board-approved capital plan which should spell out the institution's objectives in regard to level of capital, the time horizon for achieving those objectives, and in broad terms, the capital planning process and the allocated responsibilities for that process.
+
+#### **12.9 ICAAP to be a Risk-based Process**
+
+The adequacy of a bank's capital is a function of its risk profile. Banks shall, therefore, set their capital targets which are consistent with their risk profile and operating environment. As a minimum, a bank shall have in place a sound ICAAP, which shall include all **material** risk exposures incurred by the bank. There are some types of risks (such as reputation risk and strategic risk) which are less readily quantifiable; for such risks, the focus of the ICAAP should be more on qualitative assessment, risk management and mitigation than on quantification of such risks. Banks' ICAAP document shall clearly indicate for which risks a quantitative measure is considered warranted, and for which risks a qualitative measure is considered to be the correct approach.
+
+# **12.10 ICAAP to Include Stress Tests and Scenario Analyses**
+
+As part of the ICAAP, the management of a bank shall, as a minimum, conduct relevant stress tests periodically, particularly in respect of the bank's material risk exposures, in order to evaluate the potential vulnerability of the bank to some unlikely but plausible events or movements in the market conditions that could have an adverse impact on the bank. The use of stress testing framework can provide a bank's management a better understanding of the bank's likely exposure in extreme circumstances. In this context, the attention is also invited to 

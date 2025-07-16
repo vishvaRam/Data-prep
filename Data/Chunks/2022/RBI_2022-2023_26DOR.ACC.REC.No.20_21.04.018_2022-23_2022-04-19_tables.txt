@@ -1,0 +1,81 @@
+|                                                                         |         | (Amount in ₹ crore) |
+|-------------------------------------------------------------------------|---------|---------------------|
+| Category                                                                | Current | Previous            |
+|                                                                         | year    | Year                |
+| i) Direct exposure                                                      |         |                     |
+|                                                                         |         |                     |
+| a) Residential Mortgages –                                              |         |                     |
+| Lending fully secured by mortgages on residential property that         |         |                     |
+| is or will be occupied by the borrower or that is rented. Exposure      |         |                     |
+| would also include non-fund based (NFB) limits.                         |         |                     |
+|                                                                         |         |                     |
+| b) Commercial Real Estate –                                             |         |                     |
+| Lending secured by mortgages on commercial real estate (office          |         |                     |
+| buildings, retail space, multipurpose commercial premises,              |         |                     |
+| multifamily residential buildings, multi tenanted commercial            |         |                     |
+| premises,<br>industrial<br>or<br>warehouse<br>space,<br>hotels,<br>land |         |                     |
+| acquisition, development and construction, etc.). Exposure              |         |                     |
+| would also include non-fund based (NFB) limits.                         |         |                     |
+|                                                                         |         |                     |
+| c) Investments in Mortgage-Backed Securities (MBS) and other            |         |                     |
+| securitized exposures –                                                 |         |                     |
+| i. Residential                                                          |         |                     |
+| ii. Commercial Real Estate                                              |         |                     |
+|                                                                         |         |                     |
+| ii) Indirect Exposure                                                   |         |                     |
+| Fund<br>based<br>and<br>non-fund-based<br>exposures<br>on<br>National   |         |                     |
+| Housing Bank and Housing Finance Companies.                             |         |                     |
+|                                                                         |         |                     |
+| Total Exposure to Real Estate Sector                                    |         |                     |
+
+|      | Particulars1                                                                                                                                                                                                                                                                                                                                                                     | Current<br>Year | Previous<br>Year |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
+| i)   | Direct investment in equity shares, convertible<br>bonds, convertible debentures and units of equity<br>oriented mutual funds the corpus of which is not<br>exclusively invested in corporate debt                                                                                                                                                                               |                 |                  |
+| ii)  | Advances against shares / bonds / debentures or<br>other securities or on clean basis to individuals for<br>investment in shares (including IPOs / ESOPs),<br>convertible bonds, convertible debentures, and<br>units of equity oriented mutual funds                                                                                                                            |                 |                  |
+| iii) | Advances for any other purposes where shares or<br>convertible bonds or convertible debentures or<br>units of equity oriented mutual funds are taken as<br>primary security                                                                                                                                                                                                      |                 |                  |
+| iv)  | Advances for any other purposes to the extent<br>secured by the collateral security of shares or<br>convertible bonds or convertible debentures or<br>units of equity oriented mutual funds i.e. where the<br>primary security other than shares / convertible<br>bonds / convertible debentures / units of equity<br>oriented mutual funds does not fully cover the<br>advances |                 |                  |
+| v)   | Secured and unsecured advances to stockbrokers<br>and guarantees issued on behalf of stockbrokers<br>and market makers                                                                                                                                                                                                                                                           |                 |                  |
+
+|       | Particulars1                                                                                                                                                                                                                                                | Current<br>Year | Previous<br>Year |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|
+| vi)   | Loans<br>sanctioned<br>to<br>corporates<br>against<br>the<br>security of shares / bonds / debentures or other<br>securities or on clean basis for meeting promoter's<br>contribution to the equity of new companies in<br>anticipation of raising resources |                 |                  |
+| vii)  | Bridge loans to companies against expected equity<br>flows / issues                                                                                                                                                                                         |                 |                  |
+| viii) | Underwriting commitments taken up by the NBFCs<br>in respect of primary issue of shares or convertible<br>bonds or convertible debentures or units of equity<br>oriented mutual funds                                                                       |                 |                  |
+| ix)   | Financing to stockbrokers for margin trading                                                                                                                                                                                                                |                 |                  |
+| x)    | All exposures to Alternative Investment Funds:<br>(i)<br>Category I<br>(ii)<br>Category II<br>(iii)<br>Category III                                                                                                                                         |                 |                  |
+|       | Total exposure to capital market                                                                                                                                                                                                                            |                 |                  |
+
+|                                         | Current Year                                                                                                   |                               | Previous Year                                                            |                                                                                                                |                               |                                                                          |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------|
+| Sectors                                 | Total<br>Exposure<br>(includes<br>on balance<br>sheet and<br>off-balance<br>sheet<br>exposure)<br>(₹<br>crore) | Gross<br>NPAs<br>(₹<br>crore) | Percentage<br>of Gross<br>NPAs to<br>total<br>exposure in<br>that sector | Total<br>Exposure<br>(includes<br>on balance<br>sheet and<br>off-balance<br>sheet<br>exposure)<br>(₹<br>crore) | Gross<br>NPAs<br>(₹<br>crore) | Percentage<br>of Gross<br>NPAs to<br>total<br>exposure in<br>that sector |
+| 1. Agriculture and<br>Allied Activities |                                                                                                                |                               |                                                                          |                                                                                                                |                               |                                                                          |
+|                                         |                                                                                                                |                               |                                                                          |                                                                                                                |                               |                                                                          |
+
+| Sl.<br>No. | Name of<br>Director | Member of<br>Committee<br>since | Capacity<br>(i.e., Executive/ Non-Executive/<br>Chairman/ Promoter nominee/<br>Independent) | Number of Meetings of<br>the Committee |          | No. of shares       |
+|------------|---------------------|---------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------|----------|---------------------|
+|            |                     |                                 |                                                                                             | Held                                   | Attended | held in the<br>NBFC |
+| 1.         |                     |                                 | Chairperson                                                                                 |                                        |          |                     |
+| 2.         |                     |                                 |                                                                                             |                                        |          |                     |
+
+| Sl. | Type of Meeting (Annual/ Extra | Date and | Special resolutions |
+|-----|--------------------------------|----------|---------------------|
+| No. | Ordinary)                      | Place    | passed              |
+|     |                                |          |                     |
+
+| Sr. | Particulars                                                                            | Amount |
+|-----|----------------------------------------------------------------------------------------|--------|
+| 1.  | Gross NPAs as on March 31, 20XX* as reported by the NBFC                               |        |
+| 2.  | Gross NPAs as on March 31, 20XX as assessed by the Reserve Bank of India/ NHB          |        |
+| 3.  | Divergence in Gross NPAs (2-1)                                                         |        |
+| 4.  | Net NPAs as on March 31, 20XX as reported by the NBFC                                  |        |
+| 5.  | Net NPAs as on March 31, 20XX as assessed by Reserve Bank of India/ NHB                |        |
+| 6.  | Divergence in Net NPAs (5-4)                                                           |        |
+| 7.  | Provisions for NPAs as on March 31, 20XX as reported by the NBFC                       |        |
+| 8.  | Provisions for NPAs as on March 31, 20XX as assessed by Reserve Bank of India/ NHB     |        |
+| 9.  | Divergence in provisioning (8-7)                                                       |        |
+| 10. | Reported Profit before tax and impairment loss on financial instruments for the year   |        |
+|     | ended March 31, 20XX                                                                   |        |
+| 11. | Reported Net Profit after Tax (PAT) for the year ended March 31, 20XX                  |        |
+| 12. | Adjusted (notional) Net Profit after Tax (PAT) for the year ended March 31, 20XX after |        |
+|     | considering the divergence in provisioning                                             |        |
+

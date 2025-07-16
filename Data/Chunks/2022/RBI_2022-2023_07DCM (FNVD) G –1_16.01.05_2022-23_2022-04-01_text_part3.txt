@@ -1,0 +1,43 @@
+r extant instructions and follow-up of cases of Counterfeit Notes with police authorities / designated nodal officer.
+- ii. Sharing of the information thus compiled with bank's CVO and report to him / her all cases of acceptance / issue of Counterfeit Notes over the counters.
+- iii. Conducting periodic surprise checks at currency chests where shortages / defective / Counterfeit Notes etc. are detected.
+- iv. Ensuring operation of Note Sorting Machines of appropriate capacity at all the currency chests / back offices and closely monitoring the detection of Counterfeit Notes and maintaining the record of the same.
+- v. Ensuring that only properly sorted and machine examined banknotes are fed into the ATMs / issued over the counters by putting in place adequate safeguards, including surprise checks, both during the processing and transit of notes.
+
+8.2 FNV Cell shall submit status report on a quarterly basis, by [e-mail,](mailto:dcmfnvd@rbi.org.in) covering the aforesaid aspects to the Chief General Manager, Department of Currency Management, Reserve Bank of India, Central Office, Amar Building, Fourth Floor, Sir P. M. Road, Fort, Mumbai 400 001 and to the Issue office of the Reserve Bank of India under whose jurisdiction the FNV Cell is functioning, within a fortnight from the conclusion of the quarter.
+
+8.3 In order to update the record of the addresses of the FNV Cells, the bank shall furnish by e-mail, in the prescribed format [\(Annex V\)](#page--1-0), the particulars to the Chief General Manager, Department of Currency Management, Reserve Bank of India every year, as on 1st April.
+
+![](_page_1_Picture_0.jpeg)
+
+# **9. Provision of Devices Facilitating Detection of Counterfeit Notes**
+
+9.1 With a view to facilitating the detection of Counterfeit Notes, all bank branches / identified back offices shall be equipped with ultra-violet lamps / other appropriate banknote sorting / detection machines. In addition, all currency chest branches shall be equipped with verification, processing and sorting machines and shall be used to their optimum capacity. Such machines shall conform to the guidelines on ['Note](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=5671&Mode=0)  [Authentication and Fitness Sorting Parameters' prescribed by the Reserve Bank](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=5671&Mode=0) of [India.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=5671&Mode=0)
+
+9.2 The banks shall maintain a daily record of the notes processed through the Note Sorting machines, including the number of counterfeits detected.
+
+9.3 The banks shall also consider providing at least one counting machine (with dual display facility) for public use at the counter.
+
+#### **10. Reporting of Data to RBI / NCRB / FIU-IND**
+
+10.1 By All Bank branches
+
+Data on Counterfeit Notes detected by all the branches of the bank shall be reported in the prescribed format, on a monthly basis. The report [\(Annex VI\)](#page--1-0) showing the details of Counterfeit Notes detected in the bank branches during the month shall be compiled and forwarded to the concerned Issue Office of the Reserve Bank of India so as to reach them by 7th of the next month. A "**Nil**" report shall be sent even in case where no counterfeit note has been detected during the month.
+
+10.2 Under Rule 8 (1) of Prevention of Money Laundering (Maintenance of Records) Amendment Rules, 2013, Principal Officers of banks shall report information on cash transactions where forged notes have been detected to FIU-IND, by the 15th day of the succeeding month, **by uploading the information on the FINnet Portal**. Similarly, data on Counterfeit Note detection shall be uploaded on the web-enabled software of NCRB, New Delhi **at their website**.
+
+#### **11. Preservation of Counterfeit Notes Received from Police Authorities**
+
+11.1 Counterfeit Notes received back from the police authorities / courts shall be carefully preserved in the safe custody of the bank and a record thereof be maintained by the branch concerned. FNV Cell of the bank shall also maintain a branch-wise consolidated record of such Counterfeit Notes.
+
+11.2 These Counterfeit Notes at branches shall be subjected to verification on a halfyearly basis (on 31st March and 30th September) by the Officer-in-Charge of the bank concerned. They shall be preserved for a period of three years from the date of receipt from the police authorities.
+
+![](_page_2_Picture_0.jpeg)
+
+11.3 Counterfeit Notes, which are the subject matter of litigation in the court of law shall be preserved with the branch concerned for three years after conclusion of the court case.
+
+11.4 After the preservation period, such notes shall be sent to the concerned Issue Office of the Reserve Bank of India with full details of the case.
+
+### **12. Detection of Counterfeit Notes - Training of Staff**
+
+12.1 It is necessary to ensure that the cash handling staff in banks are fully conversant with the security features of a banknote.

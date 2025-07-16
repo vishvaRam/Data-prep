@@ -1,0 +1,5 @@
+| Ref. | Threshold linked to:                                | Commercial<br>Banks (%) | UCBs<br>(%) |
+|------|-----------------------------------------------------|-------------------------|-------------|
+| 2(a) | Reported profit before provisions and contingencies | 5                       | 5           |
+| 2(b) | Reported incremental Gross NPA                      | 5                       | 15*         |
+

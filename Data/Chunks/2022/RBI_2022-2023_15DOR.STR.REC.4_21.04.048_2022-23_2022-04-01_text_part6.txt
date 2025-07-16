@@ -1,0 +1,48 @@
+ers for the purposes specified in [Annex - 2,](#page--1-0) banks may decide on their own as a relief measure conversion of the short-term production loan into a term loan or re-schedulement of the repayment period; and the sanctioning of fresh short-term loan, subject to [Master Direction](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11394)
+
+[– Reserve Bank of India \(Relief Measures by Banks in Areas affected by Natural](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11394)  [Calamities\) Directions 2018 – SCBs dated October 17, 2018,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11394) as updated from time to time.
+
+4.2.13.4 In such cases of conversion or re-schedulement, the term loan as well as fresh short-term loan may be treated as current dues and need not be classified as NPA. The asset classification of these loans would thereafter be governed by the revised terms & conditions and would be treated as NPA if interest and/or instalment of principal remains overdue for two crop seasons for short duration crops and for one crop season for long duration crops.
+
+4.2.13.5 While fixing the repayment schedule in case of rural housing advances granted to agriculturists under Indira Awas Yojana / Pradhan Mantri Gram Awas Yojana and Golden Jubilee Rural Housing Finance Scheme, banks should ensure that the interest/instalment payable on such advances are linked to crop cycles.
+
+### 4.2.14 Government guaranteed advances
+
+4.2.14.1 The credit facilities backed by guarantee of the Central Government though overdue may be treated as NPA only when the Government repudiates its guarantee when invoked. This exemption from classification of Government guaranteed advances as NPA is not for the purpose of recognition of income.
+
+4.2.14.2 The requirement of invocation of guarantee has been delinked for deciding the asset classification and provisioning requirements in respect of State Government guaranteed exposures.
+
+4.2.14.3 With effect from the year ending March 31, 2006, State Government guaranteed advances and investments in State Government guaranteed securities would attract asset classification and provisioning norms if interest and/or principal or any other amount due to the bank remains overdue for more than 90 days.
+
+## 4.2.15 Projects under implementation
+
+### *4.2.15.1 'Date of Commencement of Commercial Operations' (DCCO)*
+
+For all projects financed by the FIs/ banks, the DCCO of the project should be clearly spelt out at the time of financial closure of the project and the same should be formally documented. These should also be documented in the appraisal note by the bank during sanction of the loan.
+
+### *4.2.15.2 Deferment of DCCO*
+
+(i) There are occasions when the completion of projects is delayed for legal and other extraneous reasons like delays in Government approvals etc. All these factors, which are beyond the control of the promoters, may lead to delay in project implementation and involve restructuring / reschedulement of loans by banks. Accordingly, the following asset classification norms would apply to the project loans before commencement of commercial operations.
+
+(ii) For this purpose, all project loans have been divided into the following two categories:
+
+- a) Project Loans for infrastructure sector
+- b) Project Loans for non-infrastructure sector
+
+*'Project Loan' would mean any term loan which has been extended for the purpose of setting up of an economic venture. Further, Infrastructure Sector is a sector included in the Harmonised Master List of Infrastructure sub-sectors issued by the Department of Economic Affairs, Ministry of Finance, Government of India, from time to time.*
+
+(iii) Deferment of DCCO and consequential shift in repayment schedule for equal or shorter duration (including the start date and end date of revised repayment schedule) will not be treated as restructuring provided that:
+
+a) The revised DCCO falls within the period of two years and one year from the original DCCO stipulated at the time of financial closure for infrastructure projects and non-infrastructure projects (including commercial real estate projects) respectively; and
+
+b) All other terms and conditions of the loan remain unchanged.
+
+As such project loans will be treated as standard assets in all respects, they will attract standard asset provision of 0.40 per cent.
+
+(iv) Banks may restructure project loans, by way of revision of DCCO beyond the time limits quoted at Paragraph 4.2.15.2(iii)(a) above and retain the 'standard' asset classification, if the fresh DCCO is fixed within the following limits, and the account continues to be serviced as per the restructured terms:
+
+*a) Infrastructure Projects involving court cases*
+
+Up to another two years (beyond the two-year period quoted at Paragraph 4.2.15.2(iii)(a) above, i.e., total extension of four years), in case the reason for extension of DCCO is arbitration proceedings or a court case.
+
+# *b) Infrastructure Pr

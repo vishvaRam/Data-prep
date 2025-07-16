@@ -1,0 +1,80 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+RBI/2021-22/147 IDMD.PDRD.No.S1617/03.64.023/2021-22 January 04, 2022
+
+All Primary Dealers
+
+Dear Sir/Madam
+
+## **Retail Direct Scheme – Market Making**
+
+[RBI Retail Direct Scheme has been launched on November 12, 2021](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=52548) for providing onestop access to facilitate investment in Government Securities by retail investors. In this connection, to provide liquidity in the secondary market, a market making arrangement, wherein the Primary Dealers shall be present on the NDS-OM platform (odd-lot and Request for Quotes segments) throughout market hours and respond to buy/sell requests from Retail Direct Gilt Account Holders (RDGAHs), is enclosed as [Annex](#page--1-0).
+
+Yours faithfully
+
+(Latha Vishwanath) General Manager Encl: as above
+
+### **RBI Retail Direct Scheme – Market Making**
+
+In exercise of the powers conferred under Section 29(2) of the Government Securities Act 2006, the Reserve Bank of India, hereby, issues the following Market Making Scheme:
+
+## **1. Objective of the Scheme**
+
+To promote retail participation in Government Securities by providing prices/quotes to Retail Direct Gilt (RDG) account holders enabling them to buy/sell securities under the RBI Retail Direct Scheme.
+
+#### **2. Definitions**
+
+In this scheme, unless the context otherwise requires:
+
+- a. "Government Securities", for the purpose of this scheme, mean securities issued in form of stock by credit to SGL/CSGL account maintained with RBI as defined under Section 3(iii) of Government Securities Act, 2006;
+- b. "Liquid Securities" means a security identified and published by Fixed Income Money Market and Derivatives Association of India (FIMMDA)/ Financial Benchmarks India Limited (FBIL) as a 'liquid security' for the purpose of short sale transactions.
+- c. "NDS-OM" or Negotiated Dealing Segment Order Matching means RBI's screen based, anonymous electronic order matching system for trading in Government Securities in the secondary market;
+- d. "Odd-lot segment" refers to the odd-lot segment of NDS-OM;
+- e. "Primary Dealers" means entities authorized by RBI to undertake primary dealership activities in Government Securities;
+- f. "Request for Quotes (RFQ) segment" refers to the on-screen negotiation system of RBI's NDS-OM system;
+- g. "Retail Direct Gilt (RDG) Account" means gilt account maintained in the books of RBI under the Retail Direct Scheme;
+- h. "Retail Direct Scheme" refers to the RBI Retail Direct scheme formulated to facilitate investment in Government Securities by individual investors.
+
+## **3. Applicable entities**
+
+All Primary Dealers.
+
+## **4. Obligations of Primary Dealers**:
+
+A. In the Odd Lot segment:
+
+Primary Dealers (PDs) may provide buy and sell quotes on the NDS-OM odd lot segment as below:
+
+- i. All PDs may provide buy/sell quotes for liquid securities throughout market hours. Alternatively, the secondary market trading time may be divided into time slots and it shall be ensured that PDs provide buy/sell quotes during these time slots for the liquid securities that they hold. Primary Dealers Association of India may decide on the allocation of time slots amongst PDs and inform the same to IDMD, RBI.
+- ii. PDs may strive to achieve turnover on the odd-lot segment on a best effort basis.
+- B. In the Request-For-Quotes (RFQ) segment:
+	- i. PDs may be present on the RFQ platform throughout market hours.
+	- ii. Any request for buy/sell from the Retail Direct Gilt Account Holders may be responded to by the PDs with a market-relevant quote.
+- **5. Simplified KYC for transaction with RDG account holders in RFQ segment**  Rule 9 sub-rule 14 clause (i) of The Prevention of Money-Laundering (Maintenance of Records) Rules, 2005, provides for simplified measures to verify the client's identity. Therefore, it is, hereby, prescribed that the PDs shall rely on the Know Your Customer (KYC) verification of the RDG account holders done under the retail direct scheme. No further KYC verification is required for transacting with RDG account holders on the RFQ segment of NDS-OM.
+
+# **6. Facilities/Incentives for fulfilling the obligations**:
+
+A. Switching securities with RBI - A special Switch window will be opened for PDs every month, wherein PDs may switch the illiquid/semi-liquid securities acquired through RFQ segment from RDG account holders with liquid securities from RBI at FBIL/market prices.
+
+B. Inclusion of successful trades in the annual target for PDs for achieving turnover with mid-segment and retail investors - All successful trades under the Retail Direct scheme will be reckoned towards fulfilling the annual target for turnover with mid-segment and retail investors prescribed to each PD respectively.
+
+### **7. Performance Monitoring**:
+
+- i. Primary Dealers may submit a report to IDMD, RBI, on successful trades executed in the RFQ segment, monthly on or before 10th of the following month as per the format given in **[Annex –](#page--1-1) I.**
+- ii. Primary Dealers may submit a report to IDMD, RBI, on total turnover achieved on the secondary market and turnover achieved via the odd lot segment, on an annual basis within 15 days from the close of the FY as per the format given in **[Annex –](#page--1-1) II.**
+- iii. The reports may be sent via an [email](mailto:pdrdidmd@rbi.org.in) to IDMD, RBI.
+- iv. Audit logs of the trades executed by PDs with RDG account holders shall be preserved for verification if necessary.
+
+### **Annex I**
+
+#### **Successful trades on the 'Request for Quotes' platform with RDG account holders during the month……….**
+
+
+**Annex II**
+
+## **Secondary Market turnover achieved for the FY 20XX-XX.**
+

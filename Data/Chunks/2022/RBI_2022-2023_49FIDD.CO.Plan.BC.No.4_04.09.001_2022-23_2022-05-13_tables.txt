@@ -1,0 +1,326 @@
+| Sr.<br>No.                   | Circular Referred                       | Date                  | Subject                                                                                  |  |  |
+|------------------------------|-----------------------------------------|-----------------------|------------------------------------------------------------------------------------------|--|--|
+| Government Sponsored Schemes |                                         |                       |                                                                                          |  |  |
+| 1                            | RPCD.No.SP.BC.37/<br>09.16.01/2000-2001 | November 24,<br>2000  | Swarna Jayanti Shaharl Rozgar<br>Yojana (SJSRY) -<br>Implementation                      |  |  |
+| 2                            | RPCD.No.SP.BC.33/<br>09.16.01/2000-2001 | November 04,<br>2000  | Government Sponsored<br>Programmes - Insistence on<br>Collateral Security by Banks       |  |  |
+| 3                            | RPCD.NO.SP.BC.1/<br>09.01.01/2000-2001  | July 03, 2000         | Swarnjayanti Gram Swarozgar<br>Yojana (SGSY) - Reporting<br>formats                      |  |  |
+| 4                            | RPCD.No.SP.BC.69/<br>09.16.01/99-2000   | March 14, 2000        | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY) -<br>Implementation                      |  |  |
+| 5                            | RPCD.SP.BC.No.58/<br>09.01.01/99-2000   | February 02,<br>2000  | Swarnjayanti Gram Swarozgar<br>Yojana (SGSY)                                             |  |  |
+| 6                            | RPCD.No.SP.BC.51/<br>09.01.01/99-2000   | December 30,<br>1999  | Swarnjayanti Gram Swarozgar<br>Yojana (SGSY)                                             |  |  |
+| 7                            | RPCD.No.SP.BC.23/<br>09.01.01/99-2000   | September 01,<br>1999 | Swarnjayanti Gram Swarozgar<br>Yojana (SGSY)                                             |  |  |
+| 8                            | RPCD.No.SP.BC.100/<br>09.16.01/98-99    | May 29, 1999          | Implementation of SJSRY                                                                  |  |  |
+| 9                            | RPCD.No.SP.BC.54/<br>09.01.01/98-99     | December 31,<br>1998  | IRDP<br>-<br>State-wise Poverty Line<br>for Identification of BPL<br>Population          |  |  |
+| 10                           | RPCD.No.SP.BC.36/<br>09.07.01/98-99     | November 13,<br>1998  | Implementation of Differential<br>Rate of Interest (DRI) Scheme                          |  |  |
+| 11                           | RPCD.No.SP.BC.30/<br>09.11.02/98-99     | October 12,<br>1998   | Implementation of Government<br>Sponsored Programmes and J<br>& K Self-employment Scheme |  |  |
+| 12                           | RPCD.No.SP.BC/23/<br>09.08.01/98-99     | September 07,<br>1998 | New 20 Point Programme -<br>Implementation of                                            |  |  |
+| 13                           | RPCD.No.SP.BC.6/<br>09.16.01/98-99      | July 18, 1998         | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY) - Clarifications                         |  |  |
+| 14                           | RPCD.No.SP.BC.115/<br>09.16.01/97-98    | May 05, 1998          | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY)                                          |  |  |
+| 15                           | RPCD.SP.BC.96/<br>09.16.01/97-98        | March 02, 1998        | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY)                                          |  |  |
+| 16                           | RPCD.No.SP.BC.54/<br>09.16.01/97-98     | November 25,<br>1997  | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY)                                          |  |  |
+| 17                           | RPCD.SP.BC.52/<br>09.16.01/97-98        | November 17,<br>1997  | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY)                                          |  |  |
+
+| 18 | RPCD.No.SP.BC.19/<br>09.11.02/97-98   | August 16, 1997       | Implementation of Government<br>Sponsored Programmes and<br>Jammu & Kashmir Self<br>Employment Scheme                                                                                                            |
+|----|---------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19 | RPCD.No.SP.BC.17/<br>09.07.01/97-98   | August 05, 1997       | Implementation of Differential<br>Rate of Interest (DRI) Scheme                                                                                                                                                  |
+| 20 | RPCD.NO.SP.BC.5/<br>09.04.01/97-98    | July 11, 1997         | Recovery Performance -<br>Government Sponsored<br>Schemes                                                                                                                                                        |
+| 21 | RPCD.No.SP.BC.138/<br>09.14.01/96-97  | May 19, 1997          | Prime Minister's Intergrated<br>Urban Poverty Eradication<br>Programme (PMI UPEP)                                                                                                                                |
+| 22 | RPCD.No.SP.BC.82/<br>09.07.01/95-96   | February 07,<br>1996  | Implementation of Differential<br>Rate of Interest (DRI) Scheme                                                                                                                                                  |
+| 23 | RPCD.No.SP.BC.33/<br>09.04.01/94-95   | September 07,<br>1994 | Govt. of India Sponsored<br>Schemes -<br>Recovery<br>Performances                                                                                                                                                |
+| 24 | RPCD.No.SP.BC.92/<br>C.568(CD)-93/94  | January 31,<br>1994   | Integrated Rural Development<br>Programme (IRDP) -<br>Streamlining the Arrangement<br>for Flow of Credit and Supply of<br>Inputs and Assets to<br>Beneficiaries                                                  |
+| 25 | RPCD.NO.SP.BC.117/<br>C.453(U)-92/93  | May 27, 1993          | Assistance under Government<br>Sponsored Programmes -<br>Differential Rate of Interest<br>Scheme (DRI)                                                                                                           |
+| 26 | RPCD.No.SP.BC.68/<br>C.568A(P)-92/93  | February 03,<br>1993  | Assistance under Subsidy<br>Linked Government Sponsored<br>Programmes                                                                                                                                            |
+| 27 | RPCD.No.SP.BC.9/<br>C.568(CD)-91/92   | July 13, 1991         | IRDP -<br>Streamlining the<br>Arrangement for Flow of Credit<br>and Supply of Input and Assets<br>to Beneficiaries-Extension of the<br>System of Cash Disbursement<br>to more Number of Blocks -<br>Study Report |
+| 28 | RPCD.No.SP.BC.72/<br>C.665(P)90/91    | January 10,<br>1991   | Interest Rates on Loans under<br>various Government of India<br>Sponsored Schemes                                                                                                                                |
+| 29 | RPCD.No.SP.BC/120/<br>SUME-1/90-91    | June 15, 1990         | Scheme of Urban Micro<br>Enterprises (SUME)                                                                                                                                                                      |
+| 30 | RPCD.NO.SP.BC.103/<br>C.568A(P)-89/90 | May 03, 1990          | IRDP -<br>Revision of Quantum of<br>Flow of Physical and Financial<br>Benefits to Scheduled Castes /<br>Scheduled Tribes & Women in<br>VIII Five Year Plan (1990-95)                                             |
+| 31 | RPCD.NO.SP.BC.35/<br>C.453(U)-89/90   | September 26,<br>1989 | DRI Scheme -<br>Change in the<br>reference date                                                                                                                                                                  |
+| 32 | RPCD.No.SP.BC.16/<br>C.453(U)-89/90   | August 07,1989        | DRI Scheme -<br>Removal of<br>Ceiling Restriction on Working<br>Capital                                                                                                                                          |
+
+| 33 | RPCD.No.SP.BC.125/  | June 16, 1989  | DRI Scheme -<br>Financial             |
+|----|---------------------|----------------|---------------------------------------|
+|    | C.453(U)/88-89      |                | assistance to institutions            |
+| 34 | RPCD.No.SP.BC.106/  | May 12, 1988   | IRDP -<br>Provision of                |
+|    | C.568A(P)-87/88     |                | Supplementary Dose of                 |
+|    |                     |                | Assistance during VIIth Five          |
+|    |                     |                | Year Plan - Extension of the          |
+|    |                     |                | Period                                |
+| 35 | RPCD.No.SP.BC.64/   | December 08,   | IRDP -<br>Uniform Application         |
+|    | C.568A(P)-87/88     | 1987           | Form - Issue of                       |
+|    |                     |                | Acknowledgement Slip                  |
+| 36 | RPCD.No.SP.BC.63/   | December 07,   | Self-Employment Programme             |
+|    | SEPUP-1-87/88       | 1987           | for Urban Poor (SEPUP) -              |
+|    |                     |                | Compilation and Reporting of          |
+|    |                     |                | Data                                  |
+| 37 | RPCD.No.SP.BC.61/   | December 07,   | Self-Employment Programme             |
+|    | SEPUP-l-87/88       | 1987           | for Urban Poor (SEPUP) -              |
+|    |                     |                | Compilation and Reporting of          |
+|    |                     |                | Data                                  |
+| 38 | RPCD.No.SP.BC.50/   | October 28,    | Financing for purchase of Solar       |
+|    | C.682:-87/88        | 1987           | Cookers for Domestic Use              |
+| 39 | RPCD.No.SP.2983/    | June 15, 1987  | New 20-Point Programme, 1986          |
+|    | C.682/86-87         |                | - Assistance by Banks                 |
+| 40 | RPCD.No.SP.BC.1989/ | March 18, 1987 | New 20-Point Programme-1986           |
+|    | C.682-86/87         |                | - Assistance by Banks - Returns       |
+| 41 | RPCD.No.SP.BC.32/   | December 16,   | IRDP -<br>Streamlining the            |
+|    | C.568A(P)-86/87     | 1986           | Arrangement for Flow of Credit        |
+|    |                     |                | and Supply of Inputs and Assets       |
+|    |                     |                | to<br>Beneficiaries - Verification of |
+|    |                     |                | Assets                                |
+| 42 | RPCD.No.SP.BC.31/   | December       | New 20-Point Programme-1986           |
+|    | C.682-86            | 15,1986        | - Assistance by Banks                 |
+| 43 | RPCD.No.SP.BC.27/   | November 28,   | IRDP -<br>Streamlining the            |
+|    | C.568A-86/87        | 1986           | Arrangements for Flow of Credit       |
+|    |                     |                | and Supply of Inputs and Assets       |
+|    |                     |                | to Beneficiaries -<br>ISB Sector      |
+| 44 | RPCD.No.SP.BC.19/   | September 25,  | Differential Rate of Interest         |
+|    | C.453(U)-86/87      | 1986           | (DRI) Scheme - Modifications to       |
+|    |                     |                | the Guidelines                        |
+| 45 | RPCD.No.SP.BC.18/   | September 24,  | IRDP-<br>Provision of Second          |
+|    | C.568A(P)-86/87     | 1986           | Dose of Assistance during the         |
+|    |                     |                | Seventh Five Year Plan                |
+| 46 | RPCD.No.SP.BC.79/   | June 11, 1986  | IRDP Supplementary                    |
+|    | C.568AP-85/86       |                | Assistance - Eligibility              |
+| 47 | RPCD.No.SP.BC.19/   | September      | Reasons for High Level of             |
+|    | C.568A-85/86        | 25,1985        | Overdues under IRDP                   |
+| 48 | RPCD.GSSD.BC.No.55/ | January 01,    | Implementation of Swarna              |
+|    | 09.16.01/2012-13    | 2013           | Jayanti Shahari Rozgar Yojana         |
+|    |                     |                | (SJSRY)-Regarding                     |
+| 49 | RPCD.GSSD.BC.No.30/ | December 15,   | Swarnajayanti Gram Swarozgar          |
+|    | 09.01.01/2010-11    | 2010           | Yojana (SGSY) - Group Life            |
+|    |                     |                | Insurance Scheme                      |
+
+| 50 | RPCD.SP.BC.No.30/<br>09.16.01/2009-10   | October 12,<br>2009   | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY) Revised                                                                                                                                                                                          |
+|----|-----------------------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 51 | RPCD.SP.BC.No.12/<br>09.01.01/2009-10   | August 24, 2009       | Guidelines -<br>2009<br>Increase in Exemption of<br>Collateral Security in respect of<br>Individual and Group Loans<br>under SGSY Scheme                                                                                                         |
+| 52 | RPCD.SP.BC.24/<br>CLCC/09.01.01/2006-07 | September 14,<br>2006 | Delegation of Adequate Powers<br>to the Bank Managers for<br>Sanctioning Loans without<br>Referring to Higher Authorities<br>and following of the Procedure<br>for Calculating Interest on Loan<br>Excluding Subsidy Amount<br>under SGSY Scheme |
+| 53 | RPCD.SP.BC.No.369/<br>09.16.01/2004-05  | May 21, 2005          | SJSRY -<br>Administration /<br>Adjustment of Back-End<br>Subsidy & Payment of Interest<br>on Subsidy Portion                                                                                                                                     |
+| 54 | RPCD.SP.BC.No.94/<br>09.01.01/2004-05   | April 13, 2005        | Interest Rates to be Charged on<br>Group Loans under<br>Swarnjayanti Gram Swarozgar<br>Yojana (SGSY)                                                                                                                                             |
+| 55 | RPCD.SP.BC.No.41/<br>09.01.01/2004-05   | October 16,<br>2004   | Submission of Progress Reports<br>under Swarnjayanti Gram<br>Swarozgar Yojana (SGSY) -<br>Certain Modifications                                                                                                                                  |
+| 56 | RPCD.SP.BC.No.18/<br>09.01.01/2004-05   | August 17, 2004       | Submission of Progress Reports<br>and Change in the Periodicity of<br>Returns under Swarnjayanti<br>Gram Swarozgar Yojana<br>(SGSY)                                                                                                              |
+| 57 | RPCD.SP.BC.No.72/<br>09.01.01/2003-04   | March 25, 2004        | Submission of Progress Report<br>under Government Sponsored<br>Schemes - Change in<br>Periodicity of Returns under<br>SGSY, SJSRY and SLRS                                                                                                       |
+| 58 | RPCD.SP.BC.No.5/<br>09.16.01/2003-04    | July 07, 2003         | Exchange of Information -<br>Loan<br>and Subsidy under Urban Self<br>Employment Programme<br>(USEP) Component of Swarna<br>Jayanti Shahari Rozgar Yojana<br>(SJSRY)                                                                              |
+| 59 | RPCD.SP.BC.95/<br>09.01.01/2002-03      | May 12, 2003          | Swarnjayanti Gram Swarozgar<br>Yojana - Amendments in the<br>Guidelines                                                                                                                                                                          |
+| 60 | RPCD.No.SP.BC.86/<br>09.01.01/2002-03   | April 16, 2003        | Swarnjayanti Gram Swarozgar<br>Yoiana (SGSY) - Financing of<br>Groups having Defaulters                                                                                                                                                          |
+| 61 | RPCD.No.SP.BC.50/<br>09.16.01/2002-03   | December 04,<br>2002  | Implementation of SJSRY                                                                                                                                                                                                                          |
+
+| 62 | RPCD.SP.BC.16/<br>09.01.01/2002-03     | September 11,<br>2002 | Swarnjayanti Gram Swarozgar<br>Yojana (SGSY) - Submission of                                                                                                        |
+|----|----------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 63 | RPCD.SP.BC.15/                         | September 11,<br>2002 | Quarterly Review Note<br>Swarnjayanti Gram Swarozgar                                                                                                                |
+|    | 09.01.01/2002-03                       |                       | Yojana (SGSY) - Group Life<br>Insurance Scheme                                                                                                                      |
+| 64 | RPCD.SP.BC.03/                         | August 13, 2002       | Swarnjayanti Gram Swarozgar                                                                                                                                         |
+|    | 09.01.01/2002-03                       |                       | Yojana - Amendments in the<br>Guidelines                                                                                                                            |
+| 65 | RPCD.SP.BC.No.116/<br>09.16.01/2002-03 | July 15, 2002         | Exchange of Information -<br>Loan<br>and Subsidy under Urban Self<br>Employment Programme<br>(USEP) Component of Swarna<br>Jayanti Shahari Rozgar Yojana<br>(SJSRY) |
+| 66 | RPCD.SP.BC.99/<br>09.01.01/2001-02     | June 04, 2002         | Swarnjayanti Gram Swarozgar<br>Yojana (SGSY) - Family and<br>Wilful Defaulter -<br>Clarification                                                                    |
+| 67 | RPCD.SP.BC.No.66/<br>09.16.01/2001-02  | March 07, 2002        | Accounting of Subsidy Amount<br>under SJSRY                                                                                                                         |
+| 68 | RPCD.No.SP.BC.10/<br>09.07.01/2001-02  | July 23, 2001         | Implementation of Differential<br>Rate of Interest (DRI) Scheme                                                                                                     |
+| 69 | RPCD.No.SP.58/<br>0916.01/2000-2001    | February 26,<br>2001  | Swarna Jayanti Shahari Rozgar<br>Yojana (SJSRY) - Prior Training<br>for taking up Self-employment<br>Activities under SJSRY                                         |
+| 70 | RPCD.NO.SP.54/<br>09.16.01/2000-2001   | February 12,<br>2001  | Reporting system on Progress<br>under Swarna Jayanti Sahakari<br>Rozgar Yojana (SJSRY)                                                                              |
+|    |                                        | Farm Sector           |                                                                                                                                                                     |
+| 71 | RPCD.No.PS.BC.6/<br>PS.126-84          | August 02, 1984       | Revised Guidelines fo Relief<br>Measures by Banks in Areas<br>Affected by Natural Calamities                                                                        |
+| 72 | RPCD.No.PLFS.BC.79/<br>PS.161A-87      | April 21, 1987        | Short-Term Loans to Traditional<br>Plantations                                                                                                                      |
+| 73 | RPCD.No.Plan.BC.85/<br>PS.22-87/-88    | March 10, 1988        | Advances to Priority Sector -<br>Direct Agricultural Advances                                                                                                       |
+| 74 | RPCD.No.PLFS.BC.78/<br>PS.165/88-89    | February 28,<br>1989  | Advances to Priority Sector -<br>Direct agricultural advances                                                                                                       |
+| 75 | RPCD.No.PLFS.BC.16/<br>CPFS-178/91-92  | July 30, 1991         | Rural Electrification -<br>(SPA I &<br>II) - Finance to State Electricity<br>Boards -<br>Classification                                                             |
+| 76 | RPCD.No.PLFS.BC.38/<br>PS.126-91/92    | September 21,<br>1991 | Banks' Assistance to Persons<br>Affected by Riots / Communal<br>Disturbances, etc.                                                                                  |
+| 77 | RPCD.No.PLFS.BC.59/<br>05.04.02/92-93  | January 06,<br>1993   | Guidelines for Relief Measures<br>by Banks in Areas Affected by<br>Natural Calamities -<br>(Consumption Loans)                                                      |
+| 78 | RPCD.No.BC.114/<br>05.02.14/95-96      | March 23, 1996        | Scheme of financing<br>commission agents for supply of<br>agricultural inputs to farmers                                                                            |
+
+| 79 | RPCD.No.BC.113/      | March 23, 1996  | Financing of farmers for              |
+|----|----------------------|-----------------|---------------------------------------|
+|    | 05.02.07/95-96       |                 | purchase of generator sets for        |
+|    |                      |                 | irrigation purposes                   |
+| 80 | RPCD.No.PLFS.BC.17/  | August 01, 1996 | Priority Sector Advances -<br>Short   |
+|    | 05.02.04/96-97       |                 | term loans to traditional             |
+|    |                      |                 | plantations                           |
+| 81 | RPCD.No.BC.71/       | December 05,    | Financing of farmers for              |
+|    | 05.02.07/96-97       | 1996            | purchase of generator sets for        |
+|    |                      |                 | irrigation purposes                   |
+| 82 | RPCD.No.PLFS.BC.141/ | May 28, 1997    | Priority sector advances -<br>Loans   |
+|    | 05.05.10/96-97       |                 | to State Electricity Boards for       |
+|    |                      |                 | Systems Improvement Scheme            |
+|    |                      |                 | under Special Project                 |
+|    |                      |                 | Agriculture (SI-SPA)                  |
+| 83 | RPCD.PLAN.BC.125/    | May 27, 1998    | Guidelines on Advances to             |
+|    | 04.09.01/97-98       |                 | Priority Sector Second edition        |
+|    |                      |                 | issued in April 1997 -                |
+|    |                      |                 | Amendment to items 1.10 and           |
+|    |                      |                 | 1.11 under section I -<br>Agriculture |
+| 84 | RPCD.No.PLFS.BC.128/ | June 20, 1998   | Relief Measures to Persons            |
+|    | 05.04.02/97-98       |                 | Affected by Natural Calamities -      |
+|    |                      |                 | Agricultural Advances                 |
+| 85 | RPCD.No.PLFS.BC.53/  | December 29,    | Kisan Credit Cards -<br>Progress      |
+|    | 05.05.09/98-99       | 1998            | made in Implementation of the         |
+|    |                      |                 | Scheme                                |
+| 86 | RPCD.PLFS.BC.No.55/  | January 20,     | Capital Investment Subsidy            |
+|    | 05.02.02/1999-2000   | 2000            | Scheme for Construction/              |
+|    |                      |                 | Expansion/Modernisation of            |
+|    |                      |                 | Cold Storages and Storages for        |
+|    |                      |                 | Horticulture Produce                  |
+| 87 | RPCD.No.Plan.BC.88A/ | April 27, 2000  | Priority Sector Lending -<br>Indirect |
+|    | 04.09.01/99-2000     |                 | Finance to Agriculture -              |
+|    |                      |                 | Distribution of Inputs for            |
+|    |                      |                 | Activities Allied to Agriculture      |
+| 88 | RPCD.PLFS.BC.No./12/ | August 31, 2002 | Priority Sector Lending -             |
+|    | 05.02.02/2002-2003   |                 | Scheme for Financing                  |
+|    |                      |                 | Agriclinics and Agribusiness          |
+|    |                      |                 | Centres                               |
+| 89 | RPCD.PLAN.BC.NO./31/ | October 29,     | Priority Sector Advances -            |
+|    | 04.09.01/2002-03     | 2002            | Finance Extended to Dealers in        |
+|    |                      |                 | Drip Irrigation/Sprinkler Irrigation  |
+|    |                      |                 | Systems/Agricultural Machinery        |
+| 90 | RPCD.PLAN.BC.No./93/ | April 29, 2003  | Priority Sector Advances -            |
+|    | 04.09.01/2002-03     |                 | Finance Extended to Dealers in        |
+|    |                      |                 | Drip Irrigation / Sprinkler           |
+|    |                      |                 | Irrigation Systems / Agricultural     |
+|    |                      |                 | Machinery -<br>Liberalisation of      |
+| 91 | RPCD.Plan.BC.No.86/  | May 18, 2004    | Flow of Credit to Agriculture -       |
+|    | 04.09.01/2003-04     |                 | Investment by Banks in                |
+|    |                      |                 | Securitised Assets                    |
+| 92 | RPCD.Plan.BC.No.85/  | May 18, 2004    | Flow of Credit to Agriculture -       |
+|    | 04.09.01/2003-04     |                 | Loans for Storage Facilities          |
+
+| 93  | RPCD.PLFS.BC.No.48/                     | October 26,                         | Lending to Dealers in                                           |
+|-----|-----------------------------------------|-------------------------------------|-----------------------------------------------------------------|
+|     | 05.02.02/2004-05                        | 2004                                | Agricultural Machinery and                                      |
+|     |                                         |                                     | Distributors of Inputs for Allied                               |
+|     |                                         |                                     | Activities                                                      |
+| 94  | RPCD.PLFS.BC.No.46/                     | October 26,<br>2004                 | Special Agricultural Credit Plans                               |
+|     | 05.05.14/2004-05                        |                                     | (SACP)                                                          |
+| 95  | RPCD.Plan.BC.49/                        | October 26,<br>2004                 | Data on Priority Sector                                         |
+|     | 04.09.01/2004-05                        |                                     | Advances - Agricultural Lending                                 |
+| 96  | RPCD.PLFS.BC.No.58/                     | March 28, 2007                      | Scheme to Cover Term Loans                                      |
+|     | 05.05.09/2006-07                        |                                     | for Agriculture & Allied Activities                             |
+| 97  |                                         | October 13,                         | under KCC                                                       |
+|     | RPCD.CO.Plan.BC.22/<br>04.09.01/2011-12 | 2011                                | Inclusion of Credit under KCC<br>under Direct Financing for     |
+|     |                                         |                                     | Agriculture                                                     |
+| 98  | RPCD.CO.RRB.BC.NO.24                    | October 18,                         | Inclusion of Credit under KCC                                   |
+|     | /03.05.33/2011-12                       | 2011                                | under Direct Financing for                                      |
+|     |                                         |                                     | Agriculture                                                     |
+| 99  | RPCD.CO.Plan.BC.43/                     | December 19,                        | Credit under Dairy Segment of                                   |
+|     | 04.09.01/2011-12                        | 2011                                | Agriculture and Allied Activities -                             |
+|     |                                         |                                     | Treatment under Indirect                                        |
+|     |                                         |                                     | Finance to Agriculture                                          |
+| 100 | FIDD No.FSD.BC.12/                      | August 21, 2015                     | Guidelines for Relief Measures                                  |
+|     | 05.10.001/2015-16                       |                                     | by Banks in Areas Affected by                                   |
+| 101 |                                         | June 30, 2016                       | Natural Calamities                                              |
+|     | FIDD.No.FSD.BC.27/<br>05.10.001/2015-16 |                                     | Guidelines for relief measures<br>by banks in areas affected by |
+|     |                                         |                                     | natural calamities - utilisation of                             |
+|     |                                         |                                     | insurance proceeds                                              |
+| 102 | FIDD.CO.FSD.BC.No.13/                   | August 03, 2017                     | Natural Calamities Portal -                                     |
+|     | 05.10.006/2017-18                       |                                     | Monthly Reporting System                                        |
+|     |                                         | Micro, Small and Medium Enterprises |                                                                 |
+| 103 | RPCD.No.PS.BC.1/                        | September 1,                        | Small Scale Industries -                                        |
+|     | C/464(A)-82                             | 1982                                | Extension of Assistance to                                      |
+|     |                                         |                                     | Small Scale Service                                             |
+|     |                                         |                                     | Establishments                                                  |
+| 104 | RPCD.No.PS.BC.11/                       | November 5,                         | Banks Advances for Purchase                                     |
+|     | C.453-82                                | 1982                                | of Tractors and Trucks                                          |
+| 105 | RPCD.No.PS.BC.32/                       | April 20, 1983                      | Small Scale Industries -                                        |
+|     | C.464(A)-83                             |                                     | Extension of Assistance to                                      |
+|     |                                         |                                     | Small Scale Service                                             |
+|     |                                         |                                     | Establishments                                                  |
+| 106 | RPCD.No.PS.BC.37/                       | June 16, 1983                       | Registration of Small Scale and                                 |
+|     | C.464(A)-83                             |                                     | Ancillary Units Set up by                                       |
+|     |                                         |                                     | Medium and Large Scale<br>Undertakings                          |
+| 107 | RPCD.No.CP.NFS.BC.52/                   | May 7, 1985                         | Recovery of Loans to Small                                      |
+|     | C.464(E)-85                             |                                     | Road Transport Operators                                        |
+
+| 108 | RPCD.No.CP.NFS.BC.67/<br>C-464(F)-85               | July 12, 1985         | Financial Assistance for<br>Implementing the Public Sector<br>Oil<br>Companies Programme for<br>Awarding various Categories of<br>Dealership/Distributorship under<br>'Social Objective Scheme' |
+|-----|----------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 109 | RPCD.No.BC.CP.NFS.12/<br>PS.137-85                 | August 9, 1985        | Credit Assistance to Job<br>Seekers Registered with<br>Employment Exchanges for<br>Setting up Self-employment<br>Ventures                                                                       |
+| 110 | RPCD.No.CP.NFS.BC.20/<br>PS.72-S5/86               | October 8, 1985       | Revision in the Definition of<br>Small Scale Industries<br>Advances by Scheduled<br>Commercial Banks                                                                                            |
+| 111 | RPCD.No.PL.NFS.BC.45/<br>PS.72-86                  | January 20,<br>1986   | Financing of Bought Leaf<br>Factories for Manufacturing Tea                                                                                                                                     |
+| 112 | RPCD.No.PLFS.BC.75/<br>C.453-86                    | May 16, 1986          | Bank Finance for Purchase of<br>Tractors and Trucks                                                                                                                                             |
+| 113 | RPCD.No.PLNFS.BC.40/<br>C.464(E)-86/87             | January 14,<br>1987   | Bank Finance for Purchase of<br>Commercial Vehicles                                                                                                                                             |
+| 114 | RPCD.No.PL.NFS./BC.52/<br>PS.71-86/87              | February 17,<br>1987  | Advances to Indigent Students<br>Prosecuting Higher Studies<br>within India                                                                                                                     |
+| 115 | RPCD.No.PLNFS.BC.90/<br>C.464(A)-Spl.KVIC<br>87/88 | March 29, 1988        | Bank Finance to State Level<br>Corporations for Assisting<br>Artisans, Village and Cottage<br>Industries                                                                                        |
+| 116 | RPCD.No.PLNFS.BC.6/<br>PS.72/88-89                 | July 30, 1988         | Credit Assistance to Small Scale<br>Industries (SSI) Sector                                                                                                                                     |
+| 117 | RPCD.No.PLNFS.BC.47/<br>PS.72/88-89                | November 18,<br>1988  | Excise Duty -<br>Assessment of<br>Working Capital Requirements                                                                                                                                  |
+| 118 | RPCD.No.PLNFS.BC.95/<br>SSI.85/88-89               | March 31, 1989        | Women Entrepreneurs'<br>Enterprise -<br>Definition                                                                                                                                              |
+| 119 | RPCD.No.PLNFS.BC.117/<br>PS.72/88-89               | May 24, 1989          | Advances to SSI Sector -<br>Incidence of Guarantee<br>Premium Payable to DICGC                                                                                                                  |
+| 120 | RPCD.No.PLNFS.BC.130/<br>PS.72/88-89               | June 28, 1989         | Priority Sector Advances -<br>Incidence of Guarantee<br>Premium Payable to DICGC                                                                                                                |
+| 121 | RPCD.No.PL.NFS.BC.1/<br>PS.72-89/90                | July 4, 1989          | Small Scale Units Engaged in<br>Hot Rolling of Semis, Bars,<br>Wire Rods and Structural<br>Sections of Steel -<br>Financial<br>Assistance                                                       |
+| 122 | RPCD.No.PL.NFS.BC.32/<br>C.464(F)-89/90            | September 22,<br>1989 | Financial Assistance for<br>Implementation of Public Sector<br>Oil Companies Programme for<br>Awarding various Categories of<br>Dealership/ Distributorship<br>under Social Objective Scheme    |
+
+| 123 | RPCD.No.PLNFS.BC.33/<br>C.464(F)-89/90 | September 22,<br>1989 | Financial Assistance for<br>Implementation of Public Sector<br>Oil<br>Companies Programme for<br>Awarding various Categories of<br>Dealership/Distributorship under<br>Social Objective Scheme |
+|-----|----------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 124 | RPCD.No.PLNFS.BC.122/<br>PS-72-89/90   | June 21, 1990         | Common Loan Applications                                                                                                                                                                       |
+| 125 | RPCD.No.PLNFS.311/<br>SIU.20A-90/91    | August 31, 1990       | Rehabilitation of Sick Small<br>Scale Industrial Units                                                                                                                                         |
+| 126 | RPCD.No.PLNFS.BC.26/<br>PS.44/90/91    | September 25,<br>1990 | Advances to Goldsmiths to Net<br>up Units under 'Composite Loan<br>Scheme'                                                                                                                     |
+| 127 | RPCD.No.PLNFS.BC.112/<br>NCE.76-90/91  | April 18, 1991        | Special Smokeless Fuel<br>(SSF)/Coal Briquetting Units -<br>Provision of Bank Finance                                                                                                          |
+| 128 | RPCD.No.PLNFS.BC.25/<br>PS.70-91/92    | August 26, 1991       | Computation of Value of<br>Investment in Equipment, Plant<br>and Machinery etc. taken on<br>Hire-purchase/Lease by SSI<br>Units and Other Categories of<br>Priority Sector Borrowers           |
+| 129 | RPCD.No.PLNFS.BC.83/<br>SSI-85-91/92   | February 6,<br>1992   | Women Entrepreneurs<br>Enterprise -<br>Definition                                                                                                                                              |
+| 130 | RPCD.PLNFS.BC.93/<br>PS.72-91/92       | February 26,<br>1992  | Revision in the Definition of<br>Small-Scale<br>Industries                                                                                                                                     |
+| 131 | RPCD.No.PLNFS.BC.94/<br>PS.72-91/92    | February 28,<br>1992  | Tiny Enterprises                                                                                                                                                                               |
+| 132 | RPCD.No.PLNFS.BC.95/<br>PS.72-91/92    | February 28,<br>1992  | Small Tiny and Industry related<br>Service/Business Enterprises -<br>SSSBEs                                                                                                                    |
+| 133 | RPCD.No.PLNFS.BC.126/<br>PS.72-91/92   | May 6, 1992           | Composite Loan to Artisans,<br>Village and Cottage Industries -<br>Revised Definition                                                                                                          |
+| 134 | RPCD.No.PLNFS.BC.7/<br>PS.72-92/93     | July 15, 1992         | Revision in the Definition of<br>Small-scale Industries                                                                                                                                        |
+| 135 | RPCD.No.PLNFS.BC.44/<br>06.03.01/92-93 | December 3,<br>1992   | Promulgation of Ordinance on<br>Interest on Delayed Payment to<br>Small Scale and Ancillary<br>Industrial Undertaking                                                                          |
+| 136 | RPCD.No.PLNFS.BC.65/<br>06.03.01/92-93 | January 21,<br>1993   | Small Scale Service and<br>Business (Industry related)<br>Enterprises (SSSBEs)                                                                                                                 |
+| 137 | PLNFS.BC.33/06.02.31/<br>93-94         | September 6,<br>1993  | Report of the Committee to<br>Examine the Adequacy of<br>Institutional Credit for SSI<br>Sector                                                                                                |
+| 138 | PLNFS.BC.36/<br>06.03.01/93-94         | September 11,<br>1993 | Interest on Delayed Payment to<br>Small Scale and Ancillary<br>Industrial Undertaking                                                                                                          |
+
+| 139 | RPCD.No.PLNFS.BC.63/<br>06.02.31/93-94     | November 6,<br>1993  | Institutional Credit to the SSI<br>Sector -<br>Disposal of Loan<br>Applications                                                                |
+|-----|--------------------------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 140 | RPCD.No.PLNFS.BC.120/<br>06.02.31-93/94    | March 23, 1994       | Simplified Common Loan<br>Application Forms for SSI                                                                                            |
+| 141 | RPCD.No.PLNFS.BC.141/<br>06.01.08/95-96    | May 22, 1996         | Publication or Publishing Units<br>as SSI                                                                                                      |
+| 142 | RPCD.No.PLNFS.BC.39/<br>06.06.12/96-97     | October 01,<br>1996  | Bank Credit to Khadi and Village<br>Industries (KVI) Sector                                                                                    |
+| 143 | RPCD.No.PLNFS.BC.66/<br>06.02.31/97-98     | January 5, 1998      | Priority Sector Advances -<br>Credit Deployment to SSI Sector                                                                                  |
+| 144 | RPCD.No.PLNFS.BC.89/<br>06.02.31-97/98     | February 19,<br>1998 | Priority Sector Advances -<br>Credit Deployment to SSI Sector                                                                                  |
+| 145 | RPCD.PLNFS.No.BC.21/<br>06.02.31/98-99     | August 8, 1998       | Priority Sector Advances -<br>Credit Deployment to SSI Sector                                                                                  |
+| 146 | RPCD.PLNFS.No.BC.108/<br>06.02.31/98-99    | June 14, 1999        | Interest on Delayed Payment to<br>Small Scale and Ancillary<br>Industrial Undertakings<br>Amendment Act, 1998                                  |
+| 147 | RPCD.PLNFS.BC.No.57/<br>06.02.31/99-2000   | February 2,<br>2000  | Priority Sector Advances -<br>Credit Deployment to SSI Sector                                                                                  |
+| 148 | RPCD.PLNFS.BC.No.70/<br>06.02.31/99-2000   | March 22, 2000       | Priority Sector Advances -<br>Credit Deployment to SSI Sector                                                                                  |
+| 149 | RPCD.PLNFS.No.BC.92/<br>06.02.31/99-2000   | May 12, 2000         | Small Scale Industries -<br>Reduction in the Investment<br>Limit -<br>Clarification                                                            |
+| 150 | RPCD.PLNFS/BC.No.22/<br>06.02.31/2000-01   | October 3, 2000      | Credit Linked Capital Subsidy<br>Scheme for Technology<br>Upgradation of the Small Scale<br>Industries                                         |
+| 151 | RPCD/PLNFS/BC.No.21/<br>06.02.31/2000-01   | October 3, 2000      | Priority Sector Advances -<br>Credit Deployment to SSI Sector                                                                                  |
+| 152 | RPCD.PLNFS.BC.8/<br>06.0231/2001-02.       | July 10, 2001        | Recognition of Water Mills<br>(Gharat) as Small Scale Industry                                                                                 |
+| 153 | RPCD/PLNFS/BC.33/<br>06.02.31/2001-02      | October 18,<br>2001  | Recognition of IT related<br>Activities and IT enabled<br>Services as<br>SSI/SSSBE and<br>Manufacturing/Assembling of<br>Three Wheelers as SSI |
+| 154 | RPCD/PLNFS/BC.No.41/<br>06.02.31/2001-02   | November 26,<br>2001 | Enhancement in SSI Investment<br>Limit for specified Hosiery/<br>Handtools Items                                                               |
+| 155 | RPCD.PLNFS.BC.No.77/<br>06.02.31/2001-2002 | April 15, 2002       | Priority Sector Advances -<br>Credit Deployment to SSI Sector<br>-<br>Revised List of SSSBEs                                                   |
+| 156 | RPCD.PLNFS.BC.No.24/<br>06.02.77/2002-03   | October 4, 2002      | Flow of Credit to SSIs -<br>Time<br>Schedule for Disposal of Loan<br>Applications                                                              |
+
+| 157 | RPCD/PLNFS/BC.No.61/<br>06.02.31/2002-03      | January 18,<br>2003  | Credit Linked Capital Subsidy<br>Scheme for Technology<br>Upgradation of Small Scale<br>Industries                                                                            |
+|-----|-----------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 158 | RPCD/PLNFS/BC.No.7/<br>06.02.31/2003-04       | July 14, 2003        | Enhancement in SSI Investment<br>Limit<br>for Specified Items of the<br>Stationery Sector and Drugs<br>and Pharmaceuticals Sector                                             |
+| 159 | RPCD/PLNFS/508/06.02.3<br>1/2003-04           | August 13, 2003      | Credit Flow to SSI Sector -<br>Quarterly Review by the<br>Secretary (SSI & ARI)                                                                                               |
+| 160 | RPCD/PLNFS/BC.No.63/<br>06.02.31/2003-04      | February 9,<br>2004  | Validity of the SSI Registration<br>of Tiny units - Discontinuation -<br>Renewal of Registration of<br>Ancillary SSI Units -<br>Regarding Registration of<br>SSSBEs           |
+| 161 | RPCD/PLNFS/BC.No.74/<br>06.02.31/2003-04      | April 16, 2004       | Product Code for Activities<br>mentioned in the Illustrative List<br>of Small Scale Service &<br>Business (Industry Related)<br>Enterprises (SSSBE) -<br>Intimation Regarding |
+| 162 | RPCD/PLNFS/BC.No.72/<br>06.02.31/2004-05      | January 12,<br>2005  | Enhancement in SSI Investment<br>Limit in respect of Sports Goods                                                                                                             |
+| 163 | RPCD/PLNFS/BC.No.73/<br>06.02.31/2004-05      | January 15,<br>2005  | Notification No.S.O.1169 (E)<br>dated 20.10.2004 Regarding -<br>Changes in the List of Reserved<br>Items for Exclusive Manufacture<br>in the Small Scale Sector               |
+| 164 | RPCD.PLNFS.BC.No.36/<br>06.02.31/2005-06      | August 25, 2005      | Notification No.S.O.420(E)<br>dated March 28, 2005<br>Regarding Changes in the List<br>of Reserved Items for Exclusive<br>Manufacture in the Small Scale<br>Sector            |
+| 165 | RPCD.PLNFS.BC.No.38/<br>06.02.31(iv)/2005-06  | August 26, 2005      | Credit Flow to SME Sector -<br>Reporting Format for Quarterly<br>Review by the Government of<br>India                                                                         |
+| 166 | RPCD.SME&NFS.BC.No.3<br>5/06.02.31(P)/2010-11 | December 6,<br>2010  | Ownership of Units -<br>Two or<br>More undertakings under the<br>same Ownership - Status of the<br>Unit                                                                       |
+| 167 | RPCD.MSME&NFS.BC.No<br>.54/06.02.31/2012-13   | December 31,<br>2012 | Revision in Existing Investment<br>limits in Plant and Machinery /<br>Equipment for Lending to Micro<br>Enterprises in the 40:20<br>Proportion                                |
+
+| Lead Bank Scheme |                                        |                       |                                                                                                                                 |  |  |
+|------------------|----------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|--|--|
+| 168              | RPCD.No.LBS.BC.110/<br>LBC-l/89-90     | May 28, 1990          | Lead Bank Scheme -<br>Implementation of District Credit<br>Plans -<br>Monitoring of<br>performance by the Board of<br>Directors |  |  |
+| 169              | RPCD.No.LBS.BC.19/<br>LBS.40/89-90     | August 16, 1989       | Lead Bank Scheme Information<br>system                                                                                          |  |  |
+| 170              | RPCD.No.LBS(SAA)BC.12<br>3/ 65/88-89   | June 12, 1989         | Service Area Approach -<br>Modified information System<br>(MIS)                                                                 |  |  |
+| 171              | RPCD.No.LBS.BC.114/34/<br>88-89        | May 15, 1989          | Bank Finance for Housing<br>Schemes                                                                                             |  |  |
+| 172              | RPCD.No.LBS(SAA)BC.10<br>7/65/88-89    | April 25, 1989        | Reporting System under Annual<br>Action Plans                                                                                   |  |  |
+| 173              | RPCD.No.LBS.BC.108/<br>40-87/88        | May 16, 1988          | Lead Bank Scheme<br>-<br>Information System                                                                                     |  |  |
+| 174              | RPCD.No.LBS.ROC.24/<br>1-86/87         | April 08, 1987        | Appointment of Separate District<br>Co-ordinators in Non-lead<br>Districts                                                      |  |  |
+| 175              | RPCD.No.LBS.BC.64/<br>LBS.1-86/87      | March 21, 1987        | Credit for Wastelands<br>Development                                                                                            |  |  |
+| 176              | RPCD.No.PG.430/<br>LBS.40-85           | April 29, 1985        | Lead Bank Scheme -<br>Information System                                                                                        |  |  |
+| 177              | RPCD.No.LBS.(SAA).BC.1<br>39/65-90/91  | June 18, 1991         | Service Area Approach -<br>Information and Monitoring<br>System                                                                 |  |  |
+| 178              | RPCD.No.LBS.BC.24/<br>34-91/92         | August 21, 1991       | Lead Bank Scheme -<br>SLBC/DCC Meetings -<br>Monitoring the Progress of<br>Implementation of SUME                               |  |  |
+| 179              | RPCD.NO.LBS.SAA.33.<br>BC.65-91/92     | September 13,<br>1991 | Service Area Approach (SAA) -<br>revised Monitoring and<br>Information System (SAMIS)                                           |  |  |
+| 180              | RPCD.No.LBS.BC.53/<br>34-91/92         | October 11,<br>1991   | Lead Bank Scheme -<br>District<br>level meetings                                                                                |  |  |
+| 181              | RPCD.No.LBS(SAA)BC.72<br>/65-91-92     | December 26,<br>1991  | Service Area Approach -<br>Financing of IRDP beneficiaries<br>of weak Regional Rural Banks                                      |  |  |
+| 182              | RPCD.No.LBS.BC.109/<br>34-91/92        | March 31, 1992        | Lead Bank Scheme -<br>Participation by MPs/MLAs in<br>the<br>District Level Review<br>Committee meetings                        |  |  |
+| 183              | RPCD.No.LBS(SAA)BC.11<br>2/65(4).91/92 | April 07, 1992        | Service Area Monitoring and<br>information System -<br>Clarifications                                                           |  |  |
+| 184              | RPCD.No.BC.LBS(SAA)12<br>4/65(4)-91/92 | April 27, 1992        | Service Area Approach -<br>Inclusion of Lead Banks in State<br>Level Task Force (SLTF)                                          |  |  |
+
+| 185                 | RPCD.NO.LBS.SAA.BC.3/<br>65(4)-92/93       | July 06, 1992        | SAMIS -<br>Common errors<br>observed in Lead Bank Return<br>submitted by bank branches                                            |  |
+|---------------------|--------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------|--|
+| 186                 | RPCD.NO.LBS.(SAA).BC.<br>23/65.(4)-92/93   | October 08,<br>1992  | SAMIS -<br>Forwarding a copy<br>of<br>LBR-3/U-3 to SLBC by the<br>branches of banks                                               |  |
+| 187                 | RPCD.NO.LBS.(SAA).39/<br>BC.65-92/93       | November 19,<br>1992 | Service Area Approach (SAA) -<br>Revised Monitoring and<br>Information System (SAMIS)                                             |  |
+| 188                 | RPCD.CO.LBS.BC.6/<br>02.03.01/2002-03      | August 24, 2002      | Introduction of Mobile Rural<br>Bank System to Provide Bank<br>Credit Facility at the Door-step<br>of Rural Population            |  |
+| Financial Literacy  |                                            |                      |                                                                                                                                   |  |
+| 189                 | FIDD.FLC.BC.No.12/<br>12.01.018/2016-17    | August 25, 2016      | Financial Literacy Centres -<br>Revised Reporting Format                                                                          |  |
+| 190                 | RPCD.FLC.No.218-348/<br>12.01.018/2014-15  | July 07, 2014        | Financial Literacy Activities<br>conducted by Financial Literacy<br>Centres and Rural Branches of<br>Banks -<br>Monitoring System |  |
+| 191                 | RPCD.CO.FID.BC.No.58/<br>12.01.018/2010-11 | March 31, 2011       | Establishment of Financial<br>Literacy and Credit Counselling<br>Centres                                                          |  |
+| Financial Inclusion |                                            |                      |                                                                                                                                   |  |
+| 192                 | RPCD.No.PL.BC.85/<br>04.09.01/99-2000      | April 7, 2000        | Micro Credit                                                                                                                      |  |

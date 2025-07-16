@@ -1,0 +1,109 @@
+| Contents |                                                                                                                                    |
+|----------|------------------------------------------------------------------------------------------------------------------------------------|
+| Sl       | Particulars                                                                                                                        |
+| No       |                                                                                                                                    |
+| 1.<br>2. | GENERAL<br>NON-PERFORMING ASSETS (NPA)                                                                                             |
+|          | 2.1 Classification of assets as Non-Performing                                                                                     |
+|          | 2.2 Treatment of Accounts as NPAs                                                                                                  |
+|          | 2.2.1 Record of Recovery                                                                                                           |
+|          | 2.2.2 Treatment of NPAs – Borrower – wise and not Facility-wise                                                                    |
+|          | 2.2.3 Agricultural Advances – default in repayment due to natural calamities                                                       |
+|          | 2.2.4 Housing Loans to staff                                                                                                       |
+|          | 2.2.5 Credit Facilities guaranteed by Central/ State Government                                                                    |
+|          | 2.2.6 Project Financing                                                                                                            |
+|          | 2.2.7 Prudential Guidelines on Restructuring of Advances                                                                           |
+|          | 2.2.8 Other Advances                                                                                                               |
+|          | 2.2.9 Recognition of Income on Investment treated as NPA                                                                           |
+|          | 2.2.10 NPA Reporting to Reserve Bank                                                                                               |
+|          | 2.2.11 Consumer Education                                                                                                          |
+| 3.       | ASSET CLASSIFICATION                                                                                                               |
+|          | 3.1 Classification                                                                                                                 |
+|          | 3.2 Definitions                                                                                                                    |
+|          | 3.3 Guidelines for Classification of Assets                                                                                        |
+|          | 3.3.1 Basic Considerations                                                                                                         |
+|          | 3.3.2 Advances Granted under Rehabilitation Packages Approved by Term Lending                                                      |
+|          | Institutions                                                                                                                       |
+|          | 3.3.3 Internal System for Classification of Assets as NPAs                                                                         |
+| 4.       | INCOME RECOGNITION                                                                                                                 |
+|          | 4.1 Income Recognition – Policy                                                                                                    |
+|          | 4.2 Reversal of Income on Accounts Becoming NPAs                                                                                   |
+|          | 4.3 Booking of Income on Investments in Shares & Bonds                                                                             |
+|          | 4.4 Partial Recovery of NPAs                                                                                                       |
+|          | 4.5 Interest Application                                                                                                           |
+| 5.       | PROVISIONING NORMS                                                                                                                 |
+|          | 5.1 Norms for provisioning on Loans & Advances                                                                                     |
+|          | 5.2 Provisioning for retirement benefits                                                                                           |
+|          | 5.3 Provisioning pertaining to Fraud Accounts                                                                                      |
+|          | 5.4 Guidelines for provisions in specific cases                                                                                    |
+| 6.       | Transfer of Loan Exposures                                                                                                         |
+| 7.       | Frequently Asked Questions                                                                                                         |
+|          | Annex 1: Direct Finance to Farmers for Agricultural Purposes                                                                       |
+|          | Annex 2: Proforma                                                                                                                  |
+|          | Annex 3: Illustrative Accounting Entries to be passed in respect of Accrued Interest on both                                       |
+|          | the Performing and NPAs                                                                                                            |
+|          | Annex 4: Clarification on certain frequently asked questions                                                                       |
+|          | Annex 5: Prudential Guidelines on Restructuring - key concepts                                                                     |
+|          | Annex 6: Prudential Guidelines on Restructuring - report format<br>Annex 7: Prudential Guidelines on Restructuring - illustrations |
+|          | Annex 8: Guidelines on asset classification of projects under implementation                                                       |
+|          | Annex 9: List of Circulars consolidated                                                                                            |
+|          |                                                                                                                                    |
+
+| SMA Sub<br>categories | Basis for classification<br>Principal or interest payment or any other amount<br>wholly or partially overdue for |
+|-----------------------|------------------------------------------------------------------------------------------------------------------|
+| SMA-0                 | Up to 30 days                                                                                                    |
+| SMA-1                 | More than 30 days and up to 60 days                                                                              |
+| SMA-2                 | More than 60 days and up to 90 days                                                                              |
+
+| SMA Sub<br>categories | Basis for classification<br>Outstanding balance remains continuously in excess<br>of the sanctioned limit or drawing power, whichever<br>is lower, for a period of |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SMA-1                 | More than 30 days and up to 60 days                                                                                                                                |
+| SMA-2                 | More than 60 days and up to 90 days                                                                                                                                |
+
+| Tier I5 and Tier II6 Banks                                                               |             |  |  |
+|------------------------------------------------------------------------------------------|-------------|--|--|
+| Period for which the advance has remained in                                             | Provision   |  |  |
+| 'doubtful' category                                                                      | Requirement |  |  |
+| Up to one year                                                                           | 20 per cent |  |  |
+| One to three years                                                                       | 30 per cent |  |  |
+| Advances classified as 'doubtful for more than<br>three years' on or after April 1, 2010 | 100 percent |  |  |
+
+| (e) The standard asset provisioning requirements for all UCBs are summarized as under: |  |
+|----------------------------------------------------------------------------------------|--|
+|----------------------------------------------------------------------------------------|--|
+
+| Category of Standard Asset                        | Rate of Provisioning |        |
+|---------------------------------------------------|----------------------|--------|
+|                                                   | Tier II              | Tier I |
+| Direct advances to Agriculture<br>and SME sectors | 0.25%                | 0.25%  |
+| Commercial Real Estate (CRE)                      | 1.00%                | 1.00%  |
+| sector                                            |                      |        |
+| Commercial Real Estate                            | 0.75%                | 0.75%  |
+| Residential Housing Sector                        |                      |        |
+| (CRE-RH)                                          |                      |        |
+| All other loans and advances not                  | 0.40%                | 0.25%  |
+| included above                                    |                      |        |
+
+| Example                          |                   |
+|----------------------------------|-------------------|
+| Outstanding Balance              | ₹4 lakhs          |
+| ECGC Cover                       | 50 per cent       |
+| Period for which the advance has | More than 3 years |
+| remained doubtful                |                   |
+| Value of security held (excludes | ₹1.50 lakhs       |
+| worth of borrower / guarantor)   |                   |
+
+| Provision required to be made    |                                 |
+|----------------------------------|---------------------------------|
+| Outstanding balance              | ₹4.00 lakhs                     |
+| Less : Value of security held    | ₹1.50 lakhs                     |
+| Unrealised balance               | ₹2.50 lakhs                     |
+| Less : ECGC Cover (50% of        | ₹1.25 lakhs                     |
+| unrealisable balance)            |                                 |
+| Net unsecured balance            | ₹1.25 lakhs                     |
+| Provision for unsecured portion  | ₹1.25 lakhs (@ 100 per cent of  |
+| of advance                       | unsecured portion)              |
+| Provision for secured portion of | ₹0.90 lakhs (@ 60 per cent of   |
+| advance (as on March 31 2005)    | secured portion of ₹1.50 lakh). |
+| Total provision required to be   | ₹2.15 lakhs (as on March 31,    |
+| made                             | 2005).                          |
+

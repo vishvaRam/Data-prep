@@ -1,0 +1,65 @@
+sets Ratio
+
+# **4.2 Elements of Regulatory Capital and the Criteria for their Inclusion in the Definition of Regulatory Capital**
+
+## **4.2.1 Components of Capital**
+
+Total regulatory capital will consist of the sum of the following categories:
+
+- (i) Tier 1 Capital (going-concern capital) 5
+	- (a) Common Equity Tier 1
+	- (b) Additional Tier 1
+- (ii) Tier 2 Capital (gone-concern capital)
+
+## **4.2.2 Limits and Minima**
+
+(i) As a matter of prudence, it has been decided that scheduled commercial banks operating in India shall maintain a minimum total capital (MTC) of 9% of total risk weighted assets (RWAs) i.e., capital to risk weighted assets (CRAR). This will be further divided into different components as described under paragraphs 4.2.2(ii) to 4.2.2(viii).
+
+(ii) Common Equity Tier 1 (CET1) capital must be at least 5.5% of risk-weighted assets (RWAs) i.e., for credit risk + market risk + operational risk on an ongoing basis.
+
+(iii) Tier 1 capital must be at least 7% of RWAs on an ongoing basis. Thus, within the minimum Tier 1 capital, Additional Tier 1 capital can be admitted maximum at 1.5% of RWAs.
+
+<sup>5</sup> From regulatory capital perspective, going-concern capital is the capital which can absorb losses without triggering bankruptcy of the bank. Gone-concern capital is the capital which will absorb losses only in a situation of liquidation of the bank.
+
+(iv) Total Capital (Tier 1 Capital plus Tier 2 Capital) must be at least 9% of RWAs on an ongoing basis. Thus, within the minimum CRAR of 9%, Tier 2 capital can be admitted maximum up to 2%.
+
+(v) If a bank has complied with the minimum Common Equity Tier 1 and Tier 1 capital ratios, then the excess Additional Tier 1 capital can be admitted for compliance with the minimum CRAR of 9% of RWAs.
+
+(vi) In addition to the minimum Common Equity Tier 1 capital of 5.5% of RWAs, banks are also required to maintain a capital conservation buffer (CCB) of 2.5% of RWAs<sup>6</sup> in the form of Common Equity Tier 1 capital. Details of operational aspects of CCB have been furnished in paragraph 15. The capital requirements are summarised as follows:
+
+
+## **4.2.3 Common Equity Tier 1 Capital**
+
+## **4.2.3.1 Common Equity – Indian Banks**
+
+## *A. Elements of Common Equity Tier 1 Capital*
+
+Elements of Common Equity component of Tier 1 capital will comprise the following:
+
+(i) Common shares (paid-up equity capital) issued by the bank which meet the criteria for classification as common shares for regulatory purposes as given in **[Annex 1](#page--1-0)**;
+
+- (ii) Stock surplus (share premium) resulting from the issue of common shares;
+- (iii) Statutory reserves;
+
+<sup>6</sup> The CCB of 2.5% of RWAs has been fully phased in from October 1, 2021.
+
+(iv) Capital reserves representing surplus arising out of sale proceeds of assets;
+
+(v) Revaluation reserves arising out of change in the carrying amount of a bank's property consequent upon its revaluation may, at the discretion of banks, be reckoned as CET1 capital at a discount of 55%, instead of as Tier 2 capital as mentioned in paragraph 4.2.5.1.A (vi), subject to meeting the following conditions:
+
+- bank is able to sell the property readily at its own will and there is no legal impediment in selling the property;
+- the revaluation reserves are shown under Schedule 2: Reserves & Surplus in the Balance Sheet of the bank;
+- revaluations are realistic, in accordance with Indian Accounting Standards.
+- valuations are obtained, from two independent valuers, at least once in every 3 years; where the value of the property has been substantially impaired by any event, these are to be immediately revalued and appropriately factored into capital adequacy computations;
+- the external auditors of the bank have not expressed a qualified opinion on the revaluation of the property;
+- the instructions on valuation of properties and other specific requirements as mentioned in the [circular DBOD.BP.BC.No.50/21.04.018/2006-07 January 4, 2007](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3231&Mode=0) on 'Valuation of Properties - Empanelment of Valuers' are strictly adhered to.
+
+(vi) Banks may, at their discretion, reckon foreign currency translation reserve arising due to translation of financial statements of their foreign operations in terms of Accounting Standard (AS) 11 as CET1 capital at a discount of 25% subject to meeting the following conditions:
+
+- the FCTR are shown under Schedule 2: Reserves & Surplus in the Balance Sheet of the bank;
+- the external auditors of the bank have not expressed a qualified opinion on the FCTR.
+- (vii) Other disclosed free reserves, if any;
+
+(viii) Balance in Profit & Loss Account at the end of the previous financial year;
+
+(ix) Banks may reckon the profits in current financial year for CRAR calculation on a quarterly basis provided the incremental provisions made for non-performing assets at the end of any of the four quarters of the previous financial year have not deviated more than 25% fro

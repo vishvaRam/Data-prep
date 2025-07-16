@@ -1,0 +1,41 @@
+ UCBs shall adhere to the When Issued Transactions (Reserve Bank) Directions, 2018 issued [FMRD.DIRD.03/14.03.007/2018-19 dated July 24, 2018](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11344&Mode=0) for undertaking "When Issued" (WI) transactions.
+
+11.2 The accounting treatment of transactions undertaken in WI securities would be as follows:
+
+- (a) The 'WI' security should be recorded in books as an off- balance sheet item till issue of the security.
+- (b) The off- balance sheet net position in 'WI' market should be marked to market scrip-wise on a daily basis at the day's closing price of the 'WI' security. In case the price of the 'WI' security is not available, the value of the underlying security be used instead. Depreciation, if any, should be provided for and appreciation, if any, should be ignored.
+- (c) The off-balance sheet (net) position in 'WI' securities, scrip-wise, would attract a risk weight of 2.5 per cent.
+
+(d) On delivery, the underlying security may be classified in any of the three categories, viz; 'Held to Maturity', 'Available for Sale' or 'Held for Trading', depending upon the intent of holding, at the contracted price.
+
+11.3 It is clarified that the securities bought in the 'WI' market would be eligible for SLR purposes, only on delivery.
+
+## **12. NON - SLR INVESTMENTS**
+
+12.1 In order to contain risks arising out of the non-SLR investment portfolio of banks, the banks should adhere to the following guidelines:
+
+#### **12.1.1 Instruments**
+
+UCBs may invest in the following instruments:
+
+- (a) "A" or equivalent *and higher* rated Commercial Papers (CPs), debentures and bonds.
+- (b) Units of Debt Mutual Funds and Money Market Mutual Funds.
+- (c) Equity Shares of Market Infrastructure Companies (MICs).
+- (d) Equity Shares of the Umbrella Organization (UO) for the UCB Sector
+
+## **12.1.2 Prudential Limits**
+
+- (a) The Non-SLR investments shall be limited to 10 per cent of a bank's total deposits as on March 31 of the previous year.
+- (b) Investment in unlisted securities shall be subject to a minimum rating prescribed at 12.1.1 (a) above and shall not exceed 10 per cent of the total non-SLR investments at any time.
+
+Note:
+
+1. UCBs investing in equity shares of Market Infrastructure Companies (MICs), if it becomes necessary to do so for acquiring membership of MICs are allowed to exceed the limit for Investments in Non- SLR / unlisted securities prescribed in paragraph 12.1.2 (a) and 12.1.2 (b) above. The MICs eligible for investments by UCBs are Clearing Corporation of India Ltd., National Payments Corporation of India, and Society for World Wide Inter-Bank Financial Tele-Communication (SWIFT). The list of eligible MICs will be updated from time to time by the Reserve Bank of India.
+
+2. Investment by UCBs in the equity shares of the UO, for acquiring its membership, shall be exempt from the limits for investments in Non- SLR / unlisted securities prescribed in paragraph 12.1.2 (a) and 12.1.2 (b) above.
+
+#### **12.1.3 Restrictions**
+
+- (a) Investment in perpetual debt instruments is not permitted.
+- (b) In terms of [UBD.\(PCB\).BPD.Cir.No.14/16.20.000/2007-08 dated](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0)  [September 18, 2007,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0) where banks have already exceeded the limit for investment in unlisted securities, no further investment in such securities will be permitted. Since there is a time lag between issuance and listing of securities, which are proposed to be listed but not listed at the time of subscription, banks may not be able to participate in primary issues of non-SLR securities. In view of this, investments in non-SLR debt securities (both primary and secondary market) by banks where the security is proposed to be listed in the Exchange(s) may be considered as investment in listed security at the time of making investment. However, if such security is not listed within the period specified, the same will be reckoned for the 10 per cent limit specified for unlisted non-SLR securities. In case such investments included under unlisted non-SLR securities lead to a breach of 10 per cent limit, the bank would not be allowed to make further investments in non-SLR securities (both primary and secondary market) till such time its investment in unlisted securities comes within the limit of 10 per cent.
+- (c) Investment in deep discount / zero coupon bonds should be subject to the minimum rating as stated above and comparable market yields for the residual duration. However, banks are not permitted to invest in Zero Coupon Bonds from February 18, 2011 as advised vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6268&Mode=0)  [No.UCB\(PCB\)BPD.Cir.No.36/16.20.000/2010-11 dated February 18, 2011](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6268&Mode=0) unless the issuer builds up a sinking fund for all accrued interest and keeps it invested in liqu

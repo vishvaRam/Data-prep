@@ -1,0 +1,25 @@
+ncentives amplified the excessive risk-taking that has threatened the global financial system and left firms with fewer resources to absorb losses as risks materialised. The lack of attention to risk also contributed to the large, in some cases extreme absolute level of compensation in the industry. As a result, to improve compensation practices and strengthen supervision in this area, particularly for systemically important firms, the Financial Stability Board (formerly the Financial Stability Forum) published its Principles for Sound Compensation Practices in April 2009.
+
+A bank's board of directors must actively oversee the compensation system's design and operation, which should not be controlled primarily by the chief executive officer and management team. Relevant board members and employees must have independence and expertise in risk management and compensation. In addition, the board of directors must monitor and review the compensation system to ensure the system includes adequate controls and operates as intended. The practical operation of the system should be regularly reviewed to ensure compliance with policies and procedures. Compensation outcomes, risk measurements, and risk outcomes should be regularly reviewed for consistency with intentions.
+
+Staff that are engaged in the financial and risk control areas must be independent, have appropriate authority, and be compensated in a manner that is independent of the business areas they oversee and commensurate with their key role in the firm. Effective independence and appropriate authority of such staff is necessary to preserve the integrity of financial and risk management's influence on incentive compensation.
+
+Compensation must be adjusted for all types of risk so that remuneration is balanced between the profit earned and the degree of risk assumed in generating the profit. In general, both quantitative measures and human judgment should play a role in determining the appropriate risk adjustments, including those that are difficult to measure such as liquidity risk and reputation risk.
+
+Compensation outcomes must be symmetric with risk outcomes and compensation systems should link the size of the bonus pool to the overall performance of the firm. Employees' incentive payments should be linked to the contribution of the individual and business to the firm's overall performance.
+
+Compensation payout schedules must be sensitive to the time horizon of risks. Profits and losses of different activities of a financial firm are realised over different periods of time. Variable compensation payments should be deferred accordingly. Payments should not be finalised over short periods where risks are realised over long periods. Management should question payouts for income that cannot be realised or whose likelihood of realisation remains uncertain at the time of payout.
+
+The mix of cash, equity and other forms of compensation must be consistent with risk alignment. The mix will vary depending on the employee's position and role. The firm should be able to explain the rationale for its mix.
+
+RBI will review compensation practices in a rigorous and sustained manner and deficiencies, if any, will be addressed promptly with the appropriate supervisory action.
+
+**13.14** The risk factors discussed above should not be considered an exhaustive list of those affecting any given bank. All relevant factors that present a material source of risk to capital should be incorporated in a well-developed ICAAP. Furthermore, banks should be mindful of the capital adequacy effects of concentrations that may arise within each risk type.
+
+## **13.15 Quantitative and Qualitative Approaches in ICAAP**
+
+(a) All measurements of risk incorporate both quantitative and qualitative elements, but to the extent possible, a quantitative approach should form the foundation of a bank's measurement framework. In some cases, quantitative tools can include the use of large historical databases; when data are more scarce, a bank may choose to rely more heavily on the use of stress testing and scenario analyses. Banks should understand when measuring risks that measurement error always exists, and in many cases the error is itself difficult to quantify. In general, an increase in uncertainty related to modeling and business complexity should result in a larger capital cushion.
+
+(b) Quantitative approaches that focus on most likely outcomes for budgeting, forecasting, or performance measurement purposes may not be fully applicable for capital adequacy because the ICAAP should also take less likely events into account. Stress testing and scenario analysis can be effective in gauging the consequences of outcomes that are unlikely but would have a considerable impact on safety and soundness.
+
+(c) To the extent that risks cannot be reliably measured with quantitative tools – for example, where measurements of risk are based on scarce data or unproven quantitative methods – qualitative tools, in

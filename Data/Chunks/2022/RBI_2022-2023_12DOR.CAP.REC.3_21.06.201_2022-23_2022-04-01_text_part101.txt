@@ -1,0 +1,39 @@
+ficulties, may no longer remain a going concern on its own in the opinion of the Reserve Bank unless appropriate measures are taken to revive its operations and thus, enable it to continue as a going concern. The difficulties faced by a bank should be such that these are likely to result in financial losses and raising the Common Equity Tier 1 capital of the bank should be considered as the most appropriate way to prevent the bank from turning non-viable. Such measures would include write-off / conversion of non-equity regulatory capital into common shares in combination with or without other measures as considered appropriate by the Reserve Bank<sup>228</sup> .
+
+<sup>227</sup> Compensation in the form of common shares may be viewed as the simultaneous occurrence of (a) permanent write-off of the original instrument; and (b) creation of new common shares issued in lieu of non-equity capital instrument which is written-off, as compensation for its extinguishment. The precise mechanism may vary under the accounting standards. No compensation (i.e., zero common shares) is paid in case of full and permanent write-off. <sup>228</sup> In rare situations, a bank may also become non-viable due to non-financial problems, such as conduct of affairs of the bank in a manner which is detrimental to the interest of depositors, serious corporate governance issues, etc. In such situations raising capital is not considered a part of the solution and therefore, may not attract provisions of this framework.
+
+## *III. Restoring Viability*
+
+3.3 A bank facing financial difficulties and approaching a PONV will be deemed to achieve viability if within a reasonable time in the opinion of Reserve Bank, it will be able to come out of the present difficulties if appropriate measures are taken to revive it. The measures including augmentation of equity capital through write-off/conversion/public sector injection of funds are likely to:
+
+- a. Restore depositors'/investors' confidence;
+- b. Improve rating /creditworthiness of the bank and thereby improve its borrowing capacity and liquidity and reduce cost of funds; and
+- c. Augment the resource base to fund balance sheet growth in the case of fresh injection of funds.
+
+# *IV. Other Requirements to be met by the Non-common Equity Capital Instruments so as to Absorb Losses at the PONV*
+
+- 3.4 Instruments may be issued with either of the following feature:
+	- a. conversion; or
+
+b. permanent write-off
+
+3.5 The amount of non-equity capital to be converted / written-off will be determined by RBI.
+
+3.6 When a bank breaches the PONV trigger and the equity is replenished either through conversion or write-off, such replenished amount of equity will be excluded from the total equity of the bank for the purpose of determining the proportion of earnings to be paid out as dividend in terms of rules laid down for maintaining capital conservation buffer. However, once the bank has attained total Common Equity ratio of 8% without counting the replenished equity capital, that point onwards, the bank may include the replenished equity capital for all purposes<sup>229</sup> .
+
+3.7 The provisions regarding treatment of AT1 instruments in the event of winding-up, amalgamation, acquisition, re-constitution etc. of the bank as given in paragraphs 2.10 to 2.15 will also be applicable to all non-common equity capital instruments (AT1 and Tier 2 capital instruments) when these events take place after conversion/write-off at the PONV.
+
+3.8 The provisions regarding fixation of conversion price, capping of number of shares/voting rights applicable to AT1 instruments in terms of paragraphs 2.16 to 2.19 above will also be applicable for conversion of all non-common equity capital instruments (AT1 and Tier 2 capital instruments) at the PONV.
+
+<sup>229</sup> If the total CET1 ratio of the bank falls again below the total Common Equity ratio of 8%, it would include the replenished capital for the purpose of applying the capital conservation buffer framework.
+
+3.9 The provisions regarding order of conversion/write-down of AT1 instruments as given in paragraph 2.20 above will also be applicable for conversion/ write-off of all non-common equity capital instruments (AT1 and Tier 2 capital instruments) at the PONV.
+
+## *V. Criteria to Determine the PONV*
+
+3.10 The above framework will be invoked when a bank is adjudged by Reserve Bank of India to be approaching the point of non-viability, or has already reached the point of non-viability, but in the views of RBI:
+
+- a) there is a possibility that a timely intervention in form of capital support, with or without other supporting interventions, is likely to rescue the bank; and
+- b) if left unattended, the weaknesses would inflict financial losses on the bank and, thus, cause decline in its common equity level.
+
+3.11 The purpose of write-off and / or conversion of non-equity regulatory capital elements will be to shore up the capital level of the bank. RBI would follow a two-

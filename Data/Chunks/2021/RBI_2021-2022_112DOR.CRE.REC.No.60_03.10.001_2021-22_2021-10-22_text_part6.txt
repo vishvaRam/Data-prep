@@ -1,0 +1,28 @@
+, it will be eligible to move out of the enhanced regulatory framework only if it does not meet the criteria for classification for five consecutive years.
+- **b)** NBFC-UL may however move out of the enhanced regulatory framework before the period of five years if the movement is on account of voluntary strategic move to readjust operations as per a Board approved policy. This stipulation shall not apply if the scaling down of operations is on account of adverse situations specific to the NBFC and its deteriorating financial conditions.
+- **c)** NBFCs which are close to meeting the parameters and benchmarks that would render them eligible for classification as NBFC-UL shall be intimated about the same to enable them to readjust their operations, in case they intend to continue to function as NBFC-ML on a long-term basis and do not want to graduate to NBFC-UL.
+
+**4.3 Review of Assessment Methodology -** The methodology for assessing the NBFC-UL shall be reviewed periodically.
+
+**4.4 Classification of Government owned NBFCs** - As per the Reserve Bank's [circular on](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11283&Mode=0)  ['Withdrawal of Exemptions Granted to Government Owned NBFCs' dated May 31, 2018,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11283&Mode=0) the Government owned NBFCs are still in the transition period to attain the minimum CRAR. It has, therefore, been decided not to subject these NBFCs to the Upper Layer regulatory framework at this juncture. A decision on including eligible Government NBFCs meeting the specified criteria into the Upper Layer will be taken at a later stage and till that time the guidelines as applicable for the NBFC-ML shall apply.
+
+**4.5 Regulation of NBFCs not availing public funds and not having customer interface** - NBFCs not availing public funds and not having customer interface bear a different risk profile and hence deserve a differential regulatory treatment. It has been decided that Reserve Bank will come out with separate regulations for such NBFCs in due course. Till such time, the extant regulations will continue to apply.
+
+\*\*\*
+
+## **Appendix**
+
+## **Scoring Methodology for Identification of NBFC as NBFC-UL**
+
+Upper Layer shall be populated with NBFCs, identified by way of a parametric scoring methodology, comprising of quantitative and qualitative parameters/ supervisory judgment. The quantitative and qualitative parameters shall have weightage of 70% and 30% respectively. Scoring methodology for identification of an NBFC as NBFC-UL shall be based on the set of NBFCs fulfilling the following criteria:
+
+- a. Top 50 NBFCs (excluding top ten NBFCs based on asset size, which automatically fall in the Upper Layer) based on their total exposure including credit equivalent of offbalance sheet exposure.
+- b. NBFCs designated as NBFC-UL in the previous year.
+- c. NBFCs added to the set by supervisors using supervisory judgment.
+
+The computation of scores of all NBFCs in the above set shall be performed annually based on their position as on March 31 each year.
+
+
+
+
+\*\*\*

@@ -1,0 +1,38 @@
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2022-23/34 DOR.CRE.REC.28/21.04.048/2022-23 April 21, 2022
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks), All India Financial Institutions, Small Finance Banks, Local Area Banks, Primary (Urban) Co-operative Banks, and Non-Banking Financial Companies (including Housing Finance Companies)
+
+Madam/Dear Sir,
+
+## **Legal Entity Identifier (LEI) for Borrowers**
+
+Please refer to Para 3 of [DBR.No.BP.BC.92/21.04.048/2017-18 dated November 2, 2017,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11154&Mode=0) on the captioned subject.
+
+2. On a review, it has been decided that the guidelines on LEI stand extended to Primary (Urban) Co-operative Banks (UCBs) and Non-Banking Financial Companies (NBFCs). It is further advised that non-individual borrowers enjoying aggregate exposure of ₹5 crore and above from banks[1](#page-0-0) and financial institutions (FIs[\)2](#page-0-1) shall be required to obtain LEI codes as per the timeline given in the [Annex.](#page-2-0)
+
+"Exposure" for this purpose shall include all fund based and non-fund based (credit as well as investment) exposure of banks/FIs to the borrower. Aggregate sanctioned limit or outstanding balance, whichever is higher, shall be reckoned for the purpose. Lenders may ascertain the position of aggregate exposure based on information available either with them, or CRILC database or declaration obtained from the borrower.
+
+<span id="page-0-0"></span> <sup>1</sup> "Banks" shall mean Scheduled Commercial Banks (excluding Regional Rural Banks), Local Area Banks, Small Finance Banks and Primary (Urban) Co-operative Banks
+
+<span id="page-0-1"></span><sup>2</sup> "Financial Institutions" (FIs) shall mean All India Financial Institutions(Exim Bank, SIDBI, NHB, NABARD and NaBFID) and NBFCs (including HFCs)
+
+c) Borrowers who fail to obtain LEI codes from an authorized Local Operating Unit (LOU) shall not be sanctioned any new exposure nor shall they be granted renewal/enhancement of any existing exposure. However, Departments/Agencies[3](#page-1-0) of Central and State Governments (not Public Sector Undertakings registered under Companies Act or established as Corporation under the relevant statute) shall be exempted from this provision.
+
+3. These directions are issued under sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA and 45L of the Reserve Bank of India Act, 1934, section 30A of the National Housing Bank Act, 1987 and section 6 of the Factoring Regulation Act, 2011.
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+<span id="page-1-0"></span> <sup>3</sup> A government agency is an administrative set up of the government, responsible for certain area/s of activity, e.g., ISRO, BIS, DGCA, etc.
+
+## **Timeline for obtaining LEI by borrowers**
+
+<span id="page-2-0"></span>
+

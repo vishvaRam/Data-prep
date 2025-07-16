@@ -1,0 +1,25 @@
+![](_page_0_Picture_0.jpeg)
+
+भारतीय �रज़वर्ब�क**/RESERVE BANK OF INDIA** 
+
+## मुंबई**/ MUMBAI – 400 001**
+
+RBI/2021-22/56 A. P. (DIR Series) Circular No. 07 June 17, 2021
+
+To All Category - I Authorised Dealer Banks
+
+Madam / Sir,
+
+## **Liberalised Remittance Scheme for Resident Individuals – Reporting**
+
+Attention of all Authorised Dealer Category - I (AD Category - I) banks is invited to [A. P. \(DIR](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7992&Mode=0)  [Series\) Circular No. 106 dated May 23, 2013,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7992&Mode=0) in terms of which, AD Category -I banks were required to upload the data in respect of number of applications received and the total amount remitted under the Liberalised Remittance Scheme (the Scheme) on Online Return Filing System (ORFS).
+
+2. It has now been decided to collect this information through XBRL system instead of the ORFS.
+
+3. Accordingly, AD Category – I banks shall upload the requisite information on XBRL system on or before the fifth of the succeeding month from July 01, 2021 onwards. The XBRL site can be accessed through URL [https://xbrl.rbi.org.in/orfsxbrl.](https://xbrl.rbi.org.in/orfsxbrl) User ids are being issued separately. In case no data is to be furnished, AD banks shall upload 'nil' figures.
+
+4. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+
+Yours faithfully,
+
+(R. S. Amar) Chief General Manager

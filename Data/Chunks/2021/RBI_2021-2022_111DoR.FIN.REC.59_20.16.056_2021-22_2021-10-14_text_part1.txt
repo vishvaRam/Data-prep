@@ -1,0 +1,39 @@
+![](_page_0_Picture_0.jpeg)
+
+## भारतीय �रज़वर्बक�
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2021-22/111 DoR.FIN.REC.59/20.16.056/2021-22 October 14, 2021
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) All Primary (Urban) Co-operative Banks/State Co-operative Banks/ District Central Co-operative Banks All-India Financial Institutions (Exim Bank, NABARD, NHB and SIDBI) All Non-Banking Financial Companies (including Housing Finance Companies) All Credit Information Companies
+
+Madam/Dear Sir,
+
+## **Data Format for Furnishing of Credit Information to Credit Information Companies**
+
+Please refer to our [circular DBOD.No.CID.BC.127/20.16.056/2013-14 dated June](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8968&Mode=0)  [27, 2014,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8968&Mode=0) *inter alia* setting out a Uniform Credit Reporting Format for reporting credit information to the Credit Information Companies (CICs). The Uniform Credit Reporting Format has two Annexes, Annex-I contains two formats for credit reporting, viz., Consumer Bureau and Commercial Bureau, whereas Annex-II contains credit reporting format for Micro Finance Institution (MFI) segment.
+
+2. The Relationship Segment (RS) in the Commercial Bureau format *inter alia* captures information on relationship fields of the corporates, viz., business category and type of relationship (i.e. contains information on directors, shareholders, proprietors, partners, trustees, holding companies, subsidiary companies and associated companies related to the borrower). It is observed that there is a low level of RS details in the databases of CICs.
+
+3. The RS details are very important in establishing cross-linkages across the three modules, viz., Consumer, Commercial and MFI Bureaus, while providing
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+![](_page_0_Picture_12.jpeg)
+
+<sup>ि</sup>विनयमन िवभाग, के �ीय काया�लय, 13वी मंजील, के �ीय काया�लय भवन, श. भगत िसंग माग�, मुंबई - 400 001 Department of Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेिलफोन/Tel. No.:91-22-22601000, टेिलफोन/Tel. No.(D):91-22-22701276, फै �/Fax No. 91-22-22701239, email ID[: cgmicdor@rbi.org.in](mailto:cgmicdor@rbi.org.in)
+
+comprehensive credit information of a borrower to Credit Institutions (CIs) by CICs. Accordingly, it has now been decided that the reporting of RS data by CIs to CICs would henceforth be mandatory. In order to ensure implementation in a nondisruptive manner, the reporting requirement may be staggered in the manner indicated below.
+
+- (i) The reporting would be mandatory in respect of new loan accounts opened after July 1, 2022.
+- (ii) A phased approach shall be followed for reporting of legacy data as detailed below:
+	- a. The accounts opened during the period (July 1, 2021 to June 30, 2022) have to be updated by January 1, 2023.
+	- b. The accounts opened in past three years (July 1, 2018 to June 30, 2021) have to be updated by July 1, 2023.
+	- c. A timeline for reporting of the remainder legacy data would be reviewed by the Technical Working Group and the CIs would be advised in due course.
+
+4. The CIs are advised to commence reporting the aforesaid information as per the prescribed timelines to CICs.
+
+Yours faithfully
+
+(Sunil T S Nair) Chief General Manager

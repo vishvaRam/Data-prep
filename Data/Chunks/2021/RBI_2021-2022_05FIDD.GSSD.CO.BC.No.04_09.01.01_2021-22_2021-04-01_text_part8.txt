@@ -1,0 +1,40 @@
+ of difference between the Weighted Average Interest Charged (WAIC as specified by Department of Financial Services, Ministry of Finance) and 7% subject to the maximum limit of 5.5%. This subvention would be available to all the banks on the condition that they make SHG credit available at 7% p.a. in the 250 districts.
+
+iv. Further, the SHGs would be provided with an additional 3% subvention on the prompt repayment of loans. For the purpose of Interest Subvention of additional 3% on prompt repayment, an SHG account would be considered prompt payee if it satisfies the following criterion.
+
+### a. For Cash Credit Limit:
+
+- i. Outstanding balance shall not have remained in excess of the limit/drawing power continuously for more than 30 days.
+- ii. There should be regular credit and debits in the accounts. In any case there shall be at least one customer induced credit during a month.
+- iii. Customer induced credit should be sufficient to cover the interest debited during the month.
+
+- b. For the Term loans: A term loan account where all of the interest payments and/or instalments of principal were paid within 30 days of the due date during the tenure of the loan, would be considered as an account having prompt payment.
+- v. The banks should credit the amount of 3% interest subvention to the eligible prompt payee SHG loan accounts and seek the reimbursement after the end of reporting quarter.
+
+vi. The funding for the scheme would be met out of Central Allocation under DAY-NRLM
+
+vii. The interest subvention scheme shall be implemented through a Nodal Bank selected by the Ministry of Rural Development (MoRD). The Nodal Bank would operationalize the scheme through a web based platform, as advised by MoRD. The nodal bank would be notified by MoRD.
+
+viii. In order to avail the Interest Subvention on credit extended to the SHGs @ 7% (regular subvention), all Public Sector Banks, Private Sector Banks and Small Finance Banks are required to upload the SHG loan account information on the Nodal Bank's portal as per the required technical specification. The banks should also submit the claims for 3% additional subvention on the same portal.
+
+ix. Public Sector Banks, Private Sector Banks and Small Finance Banks must submit the regular claims (difference between WAIC or lending rate and 7%) and additional claims (@ 3% on prompt repayment) on a quarterly basis as on June 30, September 30, December 31, and March 31 by last week of the subsequent month.
+
+x. The banks are required to submit claim certificate on quarterly basis to the nodal bank. The claims submitted by any bank should be accompanied by claim certificate (in original) certifying the claims for subvention as true and correct [\(Annexure-VI](#page--1-0) & [VII\)](#page--1-0). The claims of any bank for the quarter ending March would be settled by MoRD only on receipt of the Statutory Auditor's certificate for the complete Financial Year from the bank.
+
+xi. Any remaining claim pertaining to the disbursements made during the year and not included during the year, may be consolidated separately and marked as an 'Additional Claim' and submitted to Nodal Bank by banks latest by June every year, duly audited by Statutory Auditor's certifying the correctness. No claims from banks pertaining to interest subvention for Financial Year are admissible after June 30.
+
+xii. Any corrections in claims by banks shall be adjusted from later claims based on auditor's certificate. The corrections must be made on the Nodal Bank's portal accordingly.
+
+## **II. Interest subvention scheme for Category II Districts (Other than 250 districts).**
+
+In the Category II districts, banks may charge the SHGs as per their respective lending norms and the difference between the lending rates and 7% subject to a maximum limit of 5.5% would be subvented directly in the loan accounts of the SHGs by the SRLMs. The funding for this subvention would be provided to the State Rural Livelihoods Missions (SRLMs) from the allocation for DAY- NRLM. In pursuance of the above, the salient features and the operational guidelines in respect of the interest subvention for the category II districts, are as follows:
+
+## (A) Role of the Banks:
+
+All banks are required to furnish the details of the credit disbursement and credit outstanding of the SHGs across all districts in the desired format as suggested by the MoRD, directly from the CBS platform, to the Ministry of Rural Development (through FTP or interface) and to the SRLMs. The information should be provided on a monthly basis to facilitate the calculation and disbursement of the Interest Subvention amount to SHGs.
+
+(B) Role of the State Governments:
+
+i. All women SHGs from rural areas under DAY- NRLM would be eligible for interest subvention on credit upto ₹3 lakh at the rate of 7% per annum on prompt repayment.
+
+ii. This scheme would be implemented by the State Rural Livelihood Missions (SRLMs). SRLMs would provide interest subvention to the eligible SHGs who 

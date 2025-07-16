@@ -1,0 +1,24 @@
+| Remaining Maturity of Instruments             | Rate of Discount (%) |
+|-----------------------------------------------|----------------------|
+| Less than one year                            | 100                  |
+| One year and more but less than two years     | 80                   |
+| Two years and more but less than three years  | 60                   |
+| Three years and more but less than four years | 40                   |
+| Four years and more but less than five years  | 20                   |
+
+| Remaining Maturity of Instruments             | Rate of Discount (%) |
+|-----------------------------------------------|----------------------|
+| Less than one year                            | 100                  |
+| One year and more but less than two years     | 80                   |
+| Two years and more but less than three years  | 60                   |
+| Three years and more but less than four years | 40                   |
+| Four years and more but less than five years  | 20                   |
+
+| Si.<br>No. | Circular Number                         | Date of Circular   | Subject                                                         |
+|------------|-----------------------------------------|--------------------|-----------------------------------------------------------------|
+| 1          | RPCD.RCB.BC.No.33/<br>07.51.012/2014-15 | September 30, 2014 | Instruments for Augmentation<br>of Capital Funds - Modification |
+
+| Si.<br>No. | Circular<br>Number                           | Date of<br>Circular | Subject                                                                                                                            | Remarks                                                                                                                                                                                                                                                  |
+|------------|----------------------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1          | RPCD.RCB.BC.7<br>3/07.51.012<br>/2013-14     | January<br>7, 2014  | Application<br>of<br>Minimum<br>Capital<br>Adequacy<br>Norms to<br>State<br>and<br>Central<br>Cooperative<br>Banks<br>(StCBs/CCBs) | Annex I & II<br>to the circular,<br>which list out the terms of<br>issuance<br>and<br>conditions<br>applicable<br>to<br>Long<br>Term<br>(Subordinated) Deposits and<br>Innovative<br>Perpetual<br>Debt<br>Instruments<br>respectively,<br>stand repealed |
+| 2          | DCBR.BPD.Cir.N<br>o.21/09.18.201/2<br>016-17 | July 07,<br>2016    | Long<br>Term<br>(Subordinated)<br>Deposits (LTDs)<br>–<br>Review<br>of<br>Guidelines                                               | Stands repealed for RCBs                                                                                                                                                                                                                                 |

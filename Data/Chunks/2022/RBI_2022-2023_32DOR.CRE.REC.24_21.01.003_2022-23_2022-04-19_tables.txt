@@ -1,0 +1,41 @@
+|                                         | NBFC-UL (Other than IFC)                                                                                                                | NBFC-UL<br>(IFC)                                      |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Single<br>Counterparty                  | •<br>20%<br>•<br>additional 5% with Board<br>approval<br>•<br>additional 5% if<br>exposure<br>towards Infrastructure<br>loan/investment | •<br>25%<br>•<br>additional 5% with<br>Board approval |
+|                                         | (Single counterparty limit shall<br>not exceed 25% in any case)                                                                         |                                                       |
+| Group of<br>connected<br>Counterparties | •<br>25%<br>•<br>additional 10% if<br>exposure<br>towards Infrastructure<br>loan/investment                                             | •<br>35%                                              |
+
+| Name of the NBFC-UL            |             |
+|--------------------------------|-------------|
+| Return for the Month           |             |
+| Eligible Capital base (Tier I) | (Rs. crore) |
+
+| Sl No. | Name of the<br>Counterparty | Whether<br>Single (S) or<br>Group (G) of<br>connected<br>Counterparties | Exposure<br>Amount | Exposure as<br>% of Tier I<br>Capital |
+|--------|-----------------------------|-------------------------------------------------------------------------|--------------------|---------------------------------------|
+| 1.     |                             |                                                                         |                    |                                       |
+| 2.     |                             |                                                                         |                    |                                       |
+| 3.     |                             |                                                                         |                    |                                       |
+| --     |                             |                                                                         |                    |                                       |
+| --     |                             |                                                                         |                    |                                       |
+| 10.    |                             |                                                                         |                    |                                       |
+
+| Sl No. | Name of the<br>Counterparty | Whether<br>Single (S) or<br>Group (G) of<br>connected<br>Counterparties | Exposure<br>Amount | Exposure as<br>% of Tier I<br>Capital |
+|--------|-----------------------------|-------------------------------------------------------------------------|--------------------|---------------------------------------|
+| 1.     |                             |                                                                         |                    |                                       |
+| 2.     |                             |                                                                         |                    |                                       |
+| --     |                             |                                                                         |                    |                                       |
+| n      |                             |                                                                         |                    |                                       |
+
+| Sl No. | Name of the<br>Counterparty | Whether<br>Single (S) or<br>Group (G) of<br>connected<br>Counterparties | Exposure<br>Amount | Exposure as<br>% of Tier I<br>Capital |
+|--------|-----------------------------|-------------------------------------------------------------------------|--------------------|---------------------------------------|
+| 1.     |                             |                                                                         |                    |                                       |
+| 2.     |                             |                                                                         |                    |                                       |
+| --     |                             |                                                                         |                    |                                       |
+| n.     |                             |                                                                         |                    |                                       |
+
+| D. NBFC-UL's exempted exposures with values equal to or above 10% of Tier<br>I Capital |                             |                                                                         |                    |                                       |
+|----------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------|--------------------|---------------------------------------|
+| Sl No.                                                                                 | Name of the<br>Counterparty | Whether<br>Single (S) or<br>Group (G) of<br>connected<br>Counterparties | Exposure<br>Amount | Exposure as<br>% of Tier I<br>Capital |
+| 1.                                                                                     |                             |                                                                         |                    |                                       |
+| 2.                                                                                     |                             |                                                                         |                    |                                       |
+| --                                                                                     |                             |                                                                         |                    |                                       |
+| n.                                                                                     |                             |                                                                         |                    |                                       |

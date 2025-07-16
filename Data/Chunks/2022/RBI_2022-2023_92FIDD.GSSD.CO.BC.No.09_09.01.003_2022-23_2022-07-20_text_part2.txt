@@ -1,0 +1,44 @@
+2)
+
+### **7. Role of banks:**
+
+**7.1 Opening of Savings/Current Accounts:** The role of banks would commence with opening of accounts for all the SHGs including those having members with disability and for the federations of SHGs.
+
+- (i) The SHGs engaged in promoting of savings habits among their members would be eligible to open savings bank accounts.
+- (ii) For KYC verification pertaining to SHG members, instructions in the [Master Direction](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566)  [on KYC](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) (dated February 25, 2016, as updated from time to time) shall be adhered to.
+- (iii) Business Correspondents deployed by banks may also be authorized to open saving bank accounts of the SHGs, subject to adherence to extant BC guidelines and in accordance with the bank's Board approved policy on Business Correspondents.
+- (iv) Opening of savings account of all members with the bank shall not be made a prerequisite for credit linkage of SHGs. Banks are advised to maintain separate savings and loan accounts for SHGs.
+- (v) Banks are advised to open savings accounts of federations of SHGs at village, gram panchayat, cluster or higher level. These accounts may be categorized as savings account for 'Association of persons'. The 'Know Your Customer' (KYC) norms for the signatories of such accounts as specified from time to time by Reserve Bank of India would be applicable.
+- (vi) Banks are advised to open current accounts for Producer Groups promoted under DAY-NRLM at village, gram panchayat, cluster or higher level. The 'Know Your Customer' (KYC) norms for the signatories of such accounts as specified from time to time by Reserve Bank of India would be applicable.
+
+#### **7.2 Transaction in Savings/Cash Credit account of SHGs and Federation of SHGs**
+
+- (i) SHGs and their federations may be encouraged to transact through their respective savings/cash credit accounts.
+- (ii) Banks are advised to put in place dual-authentication facility in both ON-US and OFF-US[1](#page-3-0) environment to enable SHGs to perform transactions in jointly operated savings/cash credit accounts at retail outlets managed by Business Correspondents. Banks are also advised to extend all such services to SHGs and their federations through Business Correspondents as per their board approved policies.
+
+#### **7.3 Lending to SHGs and their individual members**
+
+### **7.3.1 Eligibility Criteria for SHGs to avail loans:**
+
+- (i) SHGs should be in active existence for at least 6 months as per their books of accounts (and not from the date of opening of S/B account).
+- (ii) SHGs should be practicing '*Panchasutras' i.e.,* regular meetings, regular savings, regular inter-loaning, timely repayment and up-to-date books of accounts.
+- (iii) SHGs should qualify as per grading norms fixed by NABARD. As and when the federations of the SHGs come into existence, the grading exercise may be done by the federations to support the banks.
+
+<span id="page-3-0"></span> <sup>1</sup> Dual authentication: Transaction authenticated by two members of the SHG through their Aadhaar and biometrics. NPCI has enabled dual authentication for both intra-bank (SHG account and BC/terminal belonging to the same bank) and inter-bank (SHG account and BC/terminal belong to the different banks) transactions.
+
+ON-US/ intra bank transactions: Such transactions where the instrument that is used for the transaction is issued by the same bank whose terminal is acquiring the transaction
+
+OFF-US/ inter bank transactions: Such transactions where the instrument that is used for the transaction is issued by a bank which is different from the bank whose terminal is acquiring the transaction.
+
+(iv) The existing defunct SHGs are also eligible for credit if these are revived and continue to be active for a minimum period of three months.
+
+## **7.3.2 Loan Application**:
+
+- (i) All banks may use the Common Loan Application Forms devised by Indian Bank's Association (IBA) for extending credit facility to SHGs.
+- (ii) Banks may encourage SHGs to submit loan applications online through the system developed by DAY-NRLM and the National Portal for Credit Linked Schemes.
+
+## **7.3.3 Loan amount**
+
+- (i) Emphasis is laid on the multiple doses of assistance under DAY-NRLM. This would mean assisting an SHG over a period of time, through repeat doses of credit, to enable the group to access higher amounts of credit for taking up sustainable livelihoods and improving the quality of life.
+- (ii) SHGs may avail either Term Loan (TL) or a Cash Credit Limit (CCL) or both based on their requirement. In case of need, additional loan may be sanctioned even though the previous loan is outstanding, based on the repayment behavior and performance of the SHG.
+- (iii) In case of CCL, banks are advised to sanction a minimum loan of ₹6 lakh to each eligible SHG for a period of 3 years with a yearly drawing power (DP). The drawing power ma

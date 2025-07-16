@@ -1,0 +1,55 @@
+imits on their own or if provided in the respective State Co-operative Societies Acts.
+
+## 5.2 **Provisioning for Retirement Benefits**
+
+Banks may have retirement benefit schemes for their staff, viz. Provident Fund, Gratuity and Pension. It is necessary that such liabilities are estimated on actuarial basis and full provision should be made every year for the purpose in their Profit and Loss Account.
+
+#### 5.3 **Provisioning Pertaining to Fraud Accounts**
+
+With effect from May 14, 2015, provisioning norm in respect of all cases of fraud identified in terms of the Master Circular on Frauds - Classification and Reporting, as updated from time to time, are as under:
+
+5.3.1 The entire amount due to the bank (irrespective of quantum of security held against such assets), or for which the bank is liable (including in case of deposit accounts), is to be provided for over a period not exceeding four quarters commencing with the quarter in which the fraud has been detected;
+
+5.3.2 However, where there has been delay beyond the prescribed period, in reporting the fraud to Reserve Bank, the entire provisioning is required to be made at once. In addition, Reserve Bank of India may also initiate appropriate supervisory action where there has been delay by the bank in reporting a fraud or provisioning there against.
+
+#### 5.4 **Guidelines for Provisions in Specific Cases**
+
+## (i) **State Government guaranteed Advances**
+
+From the year ended March 31, 2006, State Government guaranteed advance and investment in State Government guaranteed securities would attract extant provisioning norms on the basis of classification of assets into prescribed categories as detailed in paragraph 3 above.
+
+#### (ii) **Advances granted under Rehabilitation Packages approved by Term Lending Institutions**
+
+(a) The existing credit facilities sanctioned to a unit under rehabilitation package approved by term lending institutions, should continue to be classified as sub-standard or doubtful asset as the case may be.
+
+(b) However, the additional facilities sanctioned as per package finalised by term lending institutions, the income recognition and asset classification norms will become applicable after a period of one year from the date of disbursement.
+
+(c) In respect of additional credit facilities granted to SSI units which are identified as sick and where rehabilitation packages / nursing programmes have been drawn by the banks themselves or under consortium arrangements, no provision need be made for a period of one year.
+
+(iii) Advances against fixed / term deposit, NSCs eligible for surrender, KVPs, and life policies are exempted from provisioning requirements.
+
+(iv) Advances against gold ornaments, government securities and all other kinds of securities are not exempted from provisioning requirements.
+
+#### (v) **Advances covered by ECGC Guarantee**
+
+(a) In the case of doubtful assets which are guaranteed by ECGC, provision should be made only for the balance in excess of the amount guaranteed by the Corporation. Further, while arriving at the provisioning required, realisable value of the securities should first be deducted from the outstanding balance in respect of the amount guaranteed by the Corporation and then provision made as illustrated hereunder:
+
+
+
+(b) Banks have the option of following more stringent method of provisioning in respect of advances covered by the guarantees of ECGC as compared to the method given above.
+
+#### (vi) **Advances covered by Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH)**
+
+In case the advance covered by CRGFTLIH guarantee becomes non-performing, no provisions need to be made towards the guaranteed portion of the housing loan. The amount outstanding in excess of the guaranteed portion should be provided for as per the extant guidelines on provisioning for non-performing advances.
+
+# (vii) **Interbank exposure of Primary (Urban) Co-operative Banks (UCBs) under All Inclusive Directions**
+
+# a) The interbank exposures arising from deposits placed by UCBs with a UCB under AID and their non-performing exposures arising from discounted bills drawn under LCs issued by a UCB under AID shall be fully provided within five years at the rate of 20% annually. Further, the interest receivable on the deposits shall not be recognised as income by the UCBs.
+
+b) If the UCBs choose to convert such deposits into long term perpetual debt instruments (e.g. Innovative Perpetual Debt Instrument - IPDI) which may be recognised as capital instrument under a scheme of restructuring/ revival of a UCB under AID, provision on the portion of deposits converted into such instruments shall not be required.
+
+## **6. Transfer of Loan Exposures**
+
+The asset classification and provisioning requirements in respect of transactions involving transfer of loans shall be as per the [Reserve Bank of India \(Transfer of Loan Exposures\) Directions, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166)
+
+7

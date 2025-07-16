@@ -1,0 +1,38 @@
+ty investments in non-financial subsidiaries will be deducted from the consolidated / solo bank capital as indicated in paragraphs 3.4.2 / 3.5.1.
+
+exposure to equity instruments issued by financial entities (other than banks and NBFCs) which are not deducted and are required to be risk weighted in terms of paragraph 4.4.9.2(C) would be risk weighted at 250%.
+
+5.13.8 Bank's investments in the non-equity capital eligible instruments of other banks should be risk weighted as prescribed in paragraph 5.6.1.
+
+5.13.9 Unhedged Foreign Currency Exposure<sup>48</sup>
+
+The extent of unhedged foreign currency exposures of entities<sup>49</sup> continues to be significant and this can increase the probability of default in times of high currency volatility. It was, therefore, decided to introduce incremental capital requirements for bank exposures to entities with unhedged foreign currency exposures (i.e. over and above the present capital requirements) as under:
+
+
+5.13.10 Guidelines on Enhancing Credit Supply for Large Borrowers through Market Mechanism
+
+Additional Risk weight of 75 percentage points over and above the applicable risk weight for the exposure to the specified borrower<sup>50</sup> shall apply on the incremental exposure of the banking system to a specified borrower beyond Normally permitted lending limit (NPLL)<sup>51</sup> as per the instructions contained in [circular no. DBR.BP.BC.No.8/21.01.003/2016-17 dated August 25,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10574&Mode=0)  [2016.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10574&Mode=0) The resultant additional risk weighted exposure, in terms of risk weighted assets (RWA), shall be distributed in proportion to each bank's funded exposure to the specified borrower.
+
+<sup>48</sup> Please refer to the [circulars DBOD.No.BP.BC.85/21.06.200/2013-14](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8694&Mode=0) an[d DBOD.No.BP.BC. 116/21.06.200/2013-14](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0) dated January 15, 2014 and June 3, 2014, respectively on "Capital and Provisioning Requirements for Exposures to entities with Unhedged Foreign Currency Exposure".
+
+<sup>49</sup> In this context, 'entities' means those entities which have borrowed from banks including borrowing in INR and other currencies.
+
+<sup>50</sup> 'Specified borrower', means a borrower having an Aggregate Sanctioned Credit Limit (ASCL) of more than Rs.10,000 crore at any time from April 1, 2019 onwards.
+
+<sup>51</sup> **Normally permitted lending limit (NPLL)**, means 50 percent of the incremental funds raised by the specified borrower over and above its Aggregate Sanctioned Credit Limit as on the reference date, in the financial years (FYs) succeeding the FY in which the reference date falls. For this purpose, any funds raised by way of equity shall be deemed to be part of incremental funds raised by the specified borrower (from outside the banking system) in the given year; Provided that where a specified borrower has already raised funds by way of market instruments and the amount outstanding in respect of such instruments as on the reference date is 15 per cent or more of ASCL on that date, the NPLL will mean 60 percent of the incremental funds raised by the specified borrower over and above its ASCL as on the reference date, in the financial years (FYs) succeeding the FY in which the reference date falls.
+
+**Aggregate Sanctioned Credit Limit (ASCL)** means the aggregate of the fund based credit limits sanctioned or outstanding, whichever is higher, to a borrower by the banking system. ASCL would also include unlisted privately placed debt with the banking system.
+
+### **5.14 Other Assets**
+
+5.14.1 Loans and advances to bank's own staff which are fully covered by superannuation benefits and/or mortgage of flat/ house will attract a 20 per cent risk weight. Since flat / house is not an eligible collateral and since banks normally recover the dues by adjusting the superannuation benefits only at the time of cessation from service, the concessional risk weight shall be applied without any adjustment of the outstanding amount. In case a bank is holding eligible collateral in respect of amounts due from a staff member, the outstanding amount in respect of that staff member shall be adjusted to the extent permissible, as indicated in paragraph 7 below.
+
+5.14.2 Other loans and advances to bank's own staff will be eligible for inclusion under regulatory retail portfolio and will therefore attract a 75 per cent risk weight.
+
+5.14.3 All other assets will attract a uniform risk weight of 100 per cent.
+
+## **5.15 Off-Balance Sheet Items**
+
+#### **5.15.1 General**
+
+- (i) The total risk weighted off-balance sheet credit exposure is calculated as the sum of the risk-weighted amount of the market related and non-market related off-balance sheet items. The risk-weighted amount of an off-balance sheet item that gives rise to credit exposure 

@@ -1,0 +1,27 @@
+r any reason in cases where the service provider deals with the customers, the same shall be given due publicity by the PSO informing the customers so as to ensure that they stop dealing with the concerned service provider.
+- 12.5. Certain cases like outsourcing of cash management, may involve reconciliation of transactions between the PSO, the service provider and its sub-contractors, if any. In such cases, PSO shall ensure that this reconciliation process is carried out in a timely manner.
+- 12.6. A robust system of internal audit of all outsourced activities shall be put in place and monitored by the board of the PSO.
+
+## 13. **Outsourcing within a group / conglomerate**
+
+- 13.1. The PSO could have back office and service arrangements / agreements with group entities; for instance, sharing of premises, legal and other professional services, hardware and software applications, centralised back office functions, outsourcing certain payment and settlement services to other group entities, etc. Such arrangements with group entities shall be based on the PSO's board-approved policy and service level arrangements / agreements with its group entities. The agreements shall cover demarcation of shared resources like premises, personnel, etc. Wherever there are multiple group entities involved or any cross-selling is observed, the customers shall be informed about the actual company / entity offering the product / service.
+- 13.2. The PSO shall ensure that such arrangements:
+	- a) are appropriately documented in written agreements with details like scope of services, charges for services and maintaining confidentiality of customer's data;
+	- b) do not cause any confusion among customers as to whose products / services they are availing, by clear physical demarcation of the site of activities of different group entities;
+	- c) do not compromise ability of the PSO to identify and manage risks on a standalone basis; and
+	- d) do not prevent RBI from being able to obtain information required for supervision of the PSO or pertaining to the group as a whole.
+- 13.3. The PSO shall ensure that its ability to carry out operations in a sound fashion is not affected if premises or other services (such as IT systems and support staff) provided by the group entities become unavailable.
+- 13.4. If sharing of premises is done with the group entities for cross-selling, the PSO shall take measures to ensure that the entity's identification is distinctly visible and clear to the customers. Any communication by group entities (marketing brochure, verbal communication by staff / agent, etc.) in the PSO's premises shall mention nature of arrangement of the entities with the PSO, so that customers are clear about the seller of the product.
+- 13.5. The PSO's advertisement or any agreement shall not give any overt or tacit impression that it is in any way responsible for the obligations of its group entities.
+- 13.6. The risk management practices to be adopted by the PSO while outsourcing to a related party (i.e. party within the group / conglomerate) shall be identical to those specified above in this framework for a non-related party.
+
+### 14. **Additional requirements for off-shore outsourcing**
+
+- 14.1. The engagement of a service provider in a foreign country exposes the PSO to country risk. To manage such country risk, the PSO shall closely monitor government policies and, political, social, economic and legal conditions in countries where the service provider is based, both during the risk assessment process and on a continuous basis, and establish sound procedures for dealing with country risk problems. This includes having appropriate contingency and exit strategies. In principle, arrangements shall only be entered into with parties operating in jurisdictions generally upholding confidentiality clauses and agreements. The governing law of the arrangement shall also be clearly specified.
+- 14.2. The activities outsourced outside India shall be conducted in a manner so as not to hinder efforts to supervise or reconstruct the India activities of the PSO in a timely manner.
+- 14.3. As regards off-shore outsourcing of its services relating to Indian operations, the PSO shall ensure the following:
+	- a) The off-shore regulator regulating the off-shore service provider shall neither obstruct the arrangement nor object to RBI's visit(s) for audit / scrutiny / examination / inspection / assessment or visit(s) by PSO's internal and external auditors;
+	- b) The regulatory authority of the off-shore location does not have access to the data relating to Indian operations of the PSO simply on the ground that the processing is being undertaken there (not applicable if off-shore processing is done in the home country of the PSO); and
+	- c) The jurisdiction of the courts in the off-shore location where data is processed, does not extend to the operations of the PSO in India on the strength of the fact that the
+
+data is being processed there even

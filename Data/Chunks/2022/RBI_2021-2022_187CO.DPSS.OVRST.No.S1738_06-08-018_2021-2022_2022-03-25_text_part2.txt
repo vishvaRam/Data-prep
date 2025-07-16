@@ -1,0 +1,72 @@
+and **Payment touch point location details** (terminal address, state, district, revenue centre, population of revenue centre, post office, pin code, geo-co-ordinates (latitude, longitude), population group, tier, etc.).
+
+# **2. Reporting requirements and methodology**
+
+- i. All banks / Non-bank PSOs shall report information on payment touch points to the Reserve Bank through the Centralised Information Management System (CIMS) of RBI.
+- ii. Reporting of information shall be in **.txt / CSV** file format.
+- iii. Banks / Non-bank PSOs shall report two files:
+	- a. File 1 containing details on the merchants acquired / on-boarded by the banks / non-bank PSOs; and
+	- b. File 2 containing details on the payment touch points deployed by the acquired / on-boarded merchants.
+- iv. Banks / Non-bank PSOs deploying payment touch points shall report to RBI:
+	- a. Details of all existing payment touch points deployed (as per timeline indicated by RBI);
+	- b. Details of additional touch points as and when deployed, within seven calendar days from operationalisation / activation of the terminal;
+	- c. Updates and changes pertaining to the existing payment touch points shall be reported within seven calendar days from date of updation / modification.
+
+## **3. Access to information reported**
+
+Banks / Non-bank PSOs shall be provided with a facility to access / download the data relating to information reported by them.
+
+## **4. Reporting template**
+
+Information shall be reported using the enclosed reporting template. [\(Appendix\)](#page--1-0).
+
+# **5. Miscellaneous**
+
+- i. Banks / Non-bank PSOs shall be solely responsible for ensuring data pertaining to payment touch points deployed and the merchants acquired / on-boarded by them is up to date and accurate.
+- ii. Banks / Non-bank PSOs shall put in place necessary measures at their end to ensure timely capture and reporting of required information to the RBI as per the indicated timelines.
+- iii. Banks / Non-bank PSOs shall submit the contact details of the nodal officer for this activity to [osddpssco@rbi.org.in](mailto:osddpssco@rbi.org.in) by **March 31, 2022**. Reserve Bank shall provide login credentials to nodal officers of banks / non-bank PSOs for submitting their information in CIMS. Reserve Bank shall communicate the timeline for commencement of reporting in CIMS in due course.
+
+#### **Appendix**
+
+#### **Format for Reporting Details of Payment Touch Points / Payment Acceptance**
+
+### **Infrastructure**
+
+#### **General : Acquiring bank / non-bank PSO details**
+
+#### **(This information shall be captured during registration of banks / non-bank PSOs in CIMS)**
+
+
+#### **File 1 – Merchant Details: Details of merchant acquired / on-boarded by bank / non-bank PSO**
+
+
+
+
+## **NOTE:**
+
+*(i) @: Merchant / Payment Aggregator refers to Merchant Aggregators, Payment Aggregators, Payment Facilitators and Super Merchants.*
+
+*(ii) In case there are multiple layers of Merchants / Payment Aggregators involved, the details of only the first Merchant / Payment Aggregator on-boarded by the bank / non-bank PSO are to be reported. (iii) #: Information for fields 17 to 21 must be taken from the latest available data of census of India.*
+
+*(iv) \$: Fields 22 and 23 will be derived fields based on field no. 21 (i.e. Population of revenue center).*
+
+## **File 2: Payment touch point details: Payment acceptance infrastructure deployed by the merchant acquired / on-boarded by bank / non-bank PSO**
+
+
+
+## **NOTE:**
+
+*(i) #: Information for fields 16 to 20 must be taken from the latest available data of census of India.*
+
+*(ii) \$: Fields 21 and 22 will be derived fields based on field no. 20 (i.e. Population of revenue center).*
+
+*(iii) Inactive terminal is a terminal not in use for 90 days.*
+
+*(iv) For latitude / longitude, the accurate coordinates are required, as far as possible. In case of remote locations where connectivity is an issue, the closest possible co-ordinates may be reported. The reported co-ordinates should not be beyond 1 km of the actual terminal under any circumstances.*
+
+*(v) Acquiring banks / non-bank PSOs are required to report details of the following terminals deployed by merchants.*
+
+## **Table A**
+
+
+Acquiring banks / non-bank PSOs must ensure that any terminals deployed by sub-merchants shall also be reported under the respective merchant.

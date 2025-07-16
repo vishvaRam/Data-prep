@@ -1,0 +1,43 @@
+![](_page_0_Picture_0.jpeg)
+
+## भारतीय �रजवर् ब�क **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_RESERVE BANK OF INDIA \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**[www.rbi.org.in](https://www.rbi.org.in/)**
+
+RBI/2021-22/97 DOR.CRE.REC.47/21.01.003/2021-22 September 09, 2021
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Dear Sir/Madam,
+
+## **Large Exposures Framework – Credit Risk Mitigation (CRM) for offsetting – non-centrally cleared derivative transactions of foreign bank branches in India with their Head Office**
+
+Please refer to [circular No.DBR.No.BP.BC.43/21.01.003/2018-19 dated June 03, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0) on Large Exposures Framework (LEF).
+
+2. It is advised that the Indian branches of foreign banks shall be permitted to reckon cash/unencumbered approved securities, the source of which is interest-free funds from Head Office or remittable surplus retained in Indian books (reserves), held with RBI under 11(2)(b)(i) of the Banking Regulation Act,1949 ('BR Act') as CRM, for offsetting the gross exposure of the foreign bank branches in India to the Head Office (including overseas branches) for the calculation of LEF limit, subject to the following conditions:
+
+- (i) The amount so held shall be over and above the other regulatory and statutory requirements and shall be certified by the statutory auditors.
+- (ii) The amount so held shall not be included in regulatory capital. (i.e., no double counting of the fund placed under Section 11(2) as both capital and CRM). Accordingly, while assessing the capital adequacy of a bank, the amount will form part of regulatory adjustments made to Common Equity Tier 1 Capital.
+
+िविनयमन िवभाग, क� �ीय कायार्लय, क� �ीय कायार्लय भवन, 12व�/ 13व� मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001 टेलीफोन/ Tel No: 22661602, 22601000 फै क्स/ Fax No: 022-2270 5691
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+�हंदी आसान है, इसका �योग बढ़ाइए
+
+- (iii) The bank shall furnish an undertaking as on March 31 every year to the Department of Supervision (DoS), RBI that the balance reckoned as CRM for the purpose will be maintained on a continuous basis.
+- (iv) The CRM shall be compliant with the principles/conditions prescribed in paragraph 7 in the Master Circular – [Basel III Capital Regulations dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859) as amended from time to time.
+
+3. The amount held under section 11(2)(b)(i) of the BR Act and earmarked as CRM shall be disclosed by way of a note in Schedule 1: Capital to the Balance Sheet as given below:
+
+*"An amount of ₹… (previous year: ₹…. ) out of the amount held as deposit under Section 11(2) of the Banking Regulation Act, 1949 has been designated as credit risk mitigation (CRM) for offsetting of non-centrally cleared derivative exposures to Head Office (including overseas branches), and is not reckoned for regulatory capital and any other statutory requirements."*
+
+4. Excess amount over and above the CRM requirements shall be permitted to be withdrawn subject to certification by the Statutory Auditor and approval of the DoS, RBI. It may be noted that the onus of compliance with the LEF limit at all times shall be on the bank.
+
+5. It has been decided to permit foreign banks to exclude derivative contracts executed prior to April 1, 2019 while computing the derivative exposures on their Head Office (including overseas branches).
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager

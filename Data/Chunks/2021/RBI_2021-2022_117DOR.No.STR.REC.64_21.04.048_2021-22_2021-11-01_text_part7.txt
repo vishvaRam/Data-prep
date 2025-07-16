@@ -1,0 +1,57 @@
+uctured and the amount of diminution in the fair value of the restructured advances in [Annex 6.](#page--1-1)
+
+(h) Illustrations
+
+2.2.7.30 A few illustrations on the asset classification of restructured accounts are given in [Annex 7.](#page--1-2)
+
+2.2.7.31 Resolution of Covid-19 related stress implemented under the following circulars shall be subject to the specific requirements, including the prudential requirements, specified therein:
+
+(i) [DOR.No.BP.BC/3/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11941&Mode=0) on "Resolution Framework for COVID-19 related Stress" read with [DOR.No.BP.BC/13/21.04.048/2020-21 dated September 7, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0) on "Resolution Framework for COVID-19-related Stress – Financial Parameters";
+
+(ii) [DOR.No.BP.BC/4/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11942&Mode=0) on "Micro, Small and Medium Enterprises (MSME) sector – Restructuring of Advances";
+
+(iii) [DOR.STR.REC.11/21.04.048/2021-22 dated May 5, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12085&Mode=0) on "Resolution Framework – 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses" read with [DOR.STR.REC.20/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12104&Mode=0) on "Resolution Framework - 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses – Revision in the threshold for aggregate exposure";
+
+(iv) [DOR.STR.REC.12/21.04.048/2021-22 dated May 5, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12086&Mode=0) on 'Resolution Framework 2.0 – Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs)' read with [DOR.STR.REC.21/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12105&Mode=0) on 'Resolution Framework - 2.0: Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs) – Revision in the threshold for aggregate exposure'
+
+2.2.7.32 MSME accounts restructured under the [circulars DBR.No.BP.BC.18/21.04.048/2018-19 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0)  [January 1, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0) and [DOR.No.BP.BC.34/21.04.048/2019-20 dated February 11, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11808&Mode=0) shall be subject to the prudential requirements specified therein.
+
+## 2.2.8 **Other Advances**
+
+(i) Advances against term deposits, NSCs eligible for surrender, KVPs and Life policies need not be treated as NPAs although interest thereon may not have been paid for more than 90 days, provided adequate margin is available in the accounts.
+
+(ii) Banks should fix monthly / quarterly instalments for repayment of gold loans for non-agricultural purposes taking into account the pattern of income generation and repayment capacity of the borrowers and such gold loan accounts may be treated as NPAs if instalments of principal and / or interest thereon are overdue for more than 90 days.
+
+(iii) As regards gold loans granted for agricultural purposes, interest is required to be charged as per Supreme Court judgment at yearly intervals and payment should coincide with the harvesting of crops. Accordingly, such advances will be treated as NPA only if instalments of principal and / or interest become overdue after due date.
+
+### 2.2.9 **Recognition of Income on Investment Treated as NPAs**
+
+The investments are also subject to the prudential norms on income recognition. Banks should not book income on accrual basis in respect of any security, irrespective of the category in which it is included, where the interest / principal is in arrears for more than 90 days.
+
+# 2.2.10 **NPA Reporting to Reserve Bank**
+
+Banks should report the figures of NPAs to the Regional Office of the Reserve Bank at the end of each year within two months from the close of the year in the prescribed proforma given in the [Annex 2.](#page--1-3)
+
+### **3. Asset Classification**
+
+## 3.1 **Classification**
+
+3.1.1 Banks should classify their assets into the following broad groups, viz. -
+
+(i) Standard Assets
+
+(ii) Sub-standard Assets
+
+#### (iii) Doubtful Assets
+
+(iv) Loss Assets
+
+### 3.2 **Definitions**
+
+### 3.2.1 **Standard Assets**
+
+Standard asset is one which does not disclose any problems and which does not carry more than normal risk attached to the business. Such an asset should not be an NPA.
+
+## 3.2.2 **Sub-standard Assets**
+
+With effect from March 31, 2005 an asset would be classified as sub-standard if it remained NPA for a period less than or equal to 12 months. In such cases, the current net worth of the borrowers / guarantors or the current market value of the security charged is not enough to ensure recovery of the dues to the banks in full. In other words,

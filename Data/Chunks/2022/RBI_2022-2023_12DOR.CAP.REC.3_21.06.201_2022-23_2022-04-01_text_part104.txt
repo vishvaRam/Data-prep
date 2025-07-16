@@ -1,0 +1,75 @@
+racts, credit derivatives, and other contracts.
+
+<sup>243</sup> For example, credit default swaps.
+
+#### **Table DF-11: Composition of Capital**
+
+(Rs. in million)
+
+
+ <sup>244</sup> Not Applicable to commercial banks in India.
+
+<sup>245</sup> In terms of Basel III rules text issued by the Basel Committee (December 2010), DTAs that rely on future profitability of the bank to be realized are to be deducted. DTAs which relate to temporary differences are to be treated under the "threshold deductions" as set out in paragraph 87.
+
+<sup>246</sup> Only significant investments other than in the insurance and non-financial subsidiaries should be reported here. The insurance and non-financial subsidiaries are not consolidated for the purpose of capital adequacy. The equity and other regulatory capital investments in insurance subsidiaries are fully deducted from consolidated regulatory capital of the banking group. However, in terms of Basel III rules text of the Basel Committee, insurance subsidiaries are included under significant investments and thus, deducted based on 10% threshold rule instead of full deduction.
+
+
+<sup>247</sup> Not applicable in Indian context.
+
+<sup>248</sup> Please refer to Footnote 245 above.
+
+<sup>249</sup> Adjustments which are not specific to the Basel III regulatory adjustments (as prescribed by the Basel Committee) will be reported under this row. However, regulatory adjustments which are linked to Basel III i.e., where there is a change in the definition of the Basel III regulatory adjustments, the impact of these changes will be explained in the Notes of this disclosure template.
+
+<sup>250</sup> Non-financial subsidiaries are not consolidated for the purpose of capital adequacy. The equity and other regulatory capital investments in the non-financial subsidiaries are deducted from consolidated regulatory capital of the group. These investments are not required to be deducted fully from capital under Basel III rules text of the Basel Committee.
+
+<sup>251</sup> Please refer to paragraph 3.4.5 of this Master Circular. Please also refer to the Paragraph 34 of the Basel II Framework issued by the Basel Committee (June 2006). Though this is not national specific adjustment, it is reported here.
+
+
+<sup>252</sup> Please refer to Footnote 246 above.
+
+<sup>253</sup> Eligible Provisions and revaluation Reserves in terms of paragraph 4.2.5.1 of this Master Circular, both to be reported and break-up of these two items to be furnished in Notes.
+
+<sup>254</sup> Please refer to Footnote 246 above.
+
+
+
+## **Notes to the Template**
+
+
+
+
+
+
+
+
+
+
+**Step 3:** Under Step 3 banks are required to complete a column added to the Table DF-11 disclosure template to show the source of every input.
+
+(iii) For example, the definition of capital disclosure template includes the line "goodwill net of related deferred tax liability". Next to the disclosure of this item in the disclosure template under Table DF-11, the bank would be required to put 'a – c' to show that row 8 of the template has been calculated as the difference between component 'a' of the balance sheet under the regulatory scope of consolidation, illustrated in step 2, and component 'c'.
+
+
+\*This table is not a separate disclosure requirement. Rather, this extract indicates how step 3 would be reflected in Table DF-11.
+
+## **3.3 Main Features Template**
+
+(i) Template which banks must use to ensure that the key features of regulatory capital instruments are disclosed is set out below. Banks will be required to complete all of the shaded cells for each outstanding regulatory capital instrument (banks should insert "NA" if the question is not applicable).
+
+
+## **Table DF-13: Main Features of Regulatory Capital Instruments**
+
+(ii) Using the reference numbers in the left column of the table above, the following table provides a more detailed explanation of what banks would be required to report in each of the grey cells, including, where relevant, the list of options contained in the spread sheet's drop down menu.
+
+
+
+
+## **3.5 Full Terms and Conditions of Regulatory Capital Instruments**
+
+Under this template, banks are required to disclose the full terms and conditions of all instruments included in the regulatory capital.
+
+## **Table DF-14: Full Terms and Conditions of Regulatory Capital Instruments**
+
+
+## **3.6 Disclosure Requirements for Remuneration**
+
+Please refer to the Guidelines on Compensation of Whole Time Directors/ Chief Executive Officers/ Material Risk Takers and Control Function staff issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11720&Mode=0)  [DOR.Appt.BC.No.23/29.67.001/2019-20](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11720&Mode=0) dated November 4, 2019, as amended from time to time, addressed to all private sector and foreign banks operating in India. Private sector and foreign banks operating in India are required to make disclosure on remuneration on an annual basis at the minimum, in their 

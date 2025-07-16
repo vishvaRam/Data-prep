@@ -1,0 +1,19 @@
+| List of Returns to be converted into Online submission |  |  |  |
+|--------------------------------------------------------|--|--|--|
+|--------------------------------------------------------|--|--|--|
+
+| S. No. | Return Name                   | Return Description                                  |
+|--------|-------------------------------|-----------------------------------------------------|
+| 1      | Collateral Loan               | Collateral free loans up to Rs. 25 lakh and of      |
+|        |                               | those covered under Credit Guarantee Scheme         |
+| 2      | Composite Loans               | Composite Loans outstanding upto Rs 1 Crore         |
+|        |                               | under the scheme of SIDBI and Banks                 |
+| 3      | Priority Sector Advances–     | PSA and sectoral credit - Bank-wise                 |
+|        | Quarterly                     |                                                     |
+| 4      | Priority Sector Advances–     | State-wise data relating to PSA and sectoral        |
+|        | Annual                        | credit                                              |
+|        |                               |                                                     |
+| 5      | Granular data for Priority    | This contains transactional level data for Priority |
+|        | Sector Advances               | Sector Advances data                                |
+| 6      | Natural Calamity Notification | Natural Calamity Notification                       |
+|        |                               |                                                     |

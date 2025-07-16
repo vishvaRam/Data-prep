@@ -1,0 +1,33 @@
+| 1 | Name of the Internal Ombudsman                                                                                                                 |  |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 2 | Details of the last positions held/ organization names                                                                                         |  |
+| 3 | Date of Appointment                                                                                                                            |  |
+| 4 | Term (in years)                                                                                                                                |  |
+| 5 | Brief professional profile, including previous exposure to<br>financial services highlighting those that make them eligible for<br>appointment |  |
+
+| Number of complaints | Number of          | Number of complaints  | Number of complaints   |
+|----------------------|--------------------|-----------------------|------------------------|
+| received by the CIC  | complaints falling | falling under the     | referred by the CIC to |
+| during the quarter   | under the domain   | domain of IO that are | the IO                 |
+|                      | of IO              | rejected (Partly or   |                        |
+|                      |                    | Wholly) by CIC        |                        |
+|                      |                    |                       |                        |
+|                      |                    |                       |                        |
+
+| Number of   | Number of    | Number of   | Number of   | Number of | Number of decisions of the IO yet to be |        |                            |        |
+|-------------|--------------|-------------|-------------|-----------|-----------------------------------------|--------|----------------------------|--------|
+| complaints  | complaints   | complaints  | complaints  | decisions |                                         |        | implemented by the CIC for |        |
+| referred by | closed<br>by | where the   | wherein     | of the IO | 1                                       | 2      | 3                          | More   |
+| the RE to   | the IO       | decision of | the         | implement | month                                   | months | months                     | than 3 |
+| the<br>IO   |              | the RE was  | decision of | ed by the |                                         |        |                            | months |
+| during the  |              | not upheld  | the IO was  | RE        |                                         |        |                            |        |
+| year        |              | by the IO   | rejected*   |           |                                         |        |                            |        |
+|             |              |             |             |           |                                         |        |                            |        |
+|             |              |             |             |           |                                         |        |                            |        |
+
+| Number of complaints referred by | Out of Number of complaints                                                              | Number of complaints where the                                                                           |  |  |
+|----------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--|--|
+| the RE to the IO during the year | under<br>column<br>A,<br>Number<br>of<br>complaints not referred to IO<br>within 21 days | complainants<br>were<br>not<br>responded to within one month<br>of<br>the<br>date<br>of<br>filing<br>the |  |  |
+|                                  |                                                                                          | complaint.                                                                                               |  |  |
+| (A)                              | (B)                                                                                      | (C)                                                                                                      |  |  |
+|                                  |                                                                                          |                                                                                                          |  |  |

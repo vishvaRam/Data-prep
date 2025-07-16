@@ -1,0 +1,38 @@
+ence/s of default.
+	- v) Divergence in asset classification and provisioning above a certain threshold to be decided by the Reserve Bank.
+- **g) Chief Compliance Officer** In order to ensure an effective compliance culture, it is necessary to have an independent compliance function and a strong compliance risk management framework in NBFCs. NBFCs are, therefore, required to appoint a Chief Compliance Officer (CCO), who should be sufficiently senior in the organization hierarchy. NBFCs shall put in place a Board approved policy laying down the role and responsibilities of the CCO with the objective of promoting better compliance culture in the organization.
+- **h) Compensation guidelines** In order to address issues arising out of excessive risk taking caused by misaligned compensation packages, it has been decided that NBFCs shall put in place a Board approved compensation policy. The guidelines shall at the minimum include, a) constitution of a Remuneration Committee, b) principles for fixed/ variable pay
+
+<span id="page-2-0"></span><sup>9</sup> As defined in Section 2 (51) of Companies Act, 2013, as amended from time to time.
+
+structures, and c) malus/ claw back provisions. The Nomination and Remuneration Committee shall ensure that there is no conflict of interest.
+
+- **i) Other Governance matters -** NBFCs shall comply with the following:
+	- i) The Board shall delineate the role of various committees (Audit Committee, Nomination and Remuneration Committee, Risk Management Committee or any other Committee) and lay down a calendar of reviews.
+	- ii) NBFCs shall formulate a whistle blower mechanism for directors and employees to report genuine concerns.
+	- iii) The Board shall ensure good corporate governance practices in the subsidiaries of the NBFC.
+- **j) Core Banking Solution -** NBFCs with 10 and more branches are mandated to adopt Core Banking Solution. A glide path of 3 years with effect from October 01, 2022 is being provided.
+
+Detailed circulars will be issued in due course by the Reserve Bank on guidelines indicated at paras **f**, **g**, **h**, **i** and **j** above.
+
+## Additional regulatory changes under SBR applicable to NBFC-UL
+
+- **k) Qualification of Board Members** Board members shall be competent to manage the affairs of the NBFC. The composition of the Board should ensure mix of educational qualification and experience within the Board. Specific expertise of Board members will be a prerequisite depending on the type of business pursued by the NBFC.
+- **l) Listing & Disclosures** NBFC-UL shall be mandatorily listed within 3 years of identification as NBFC-UL. Disclosure requirements shall be put in place on the same lines as applicable to a listed company even before the actual listing, as per Board approved policy of the NBFC.
+- **m) Removal of Independent Directors** NBFC-UL shall be required to report to the supervisors in case any Independent Director is removed/ resigns before completion of his normal tenure.
+
+**3.3 Regulatory guidelines for NBFCs under Top Layer** – NBFCs falling in the Top Layer of the regulatory structure shall, *inter alia,* be subject to higher capital charge. Such higher requirements shall be specifically communicated to the NBFC at the time of its classification in the Top Layer. There will be enhanced and intensive supervisory engagement with these NBFCs.
+
+# **Section III**
+
+### **4. TRANSITION PATH**
+
+**4.1 Transition Plan -** Once a NBFC is identified for inclusion as NBFC-UL, the NBFC shall be advised about its classification by the Department of Regulation, Reserve Bank and it will be placed under regulation applicable to the Upper Layer. For this purpose, the following timelines shall be adhered to:
+
+- **a)** Within 3 months of being advised by the RBI regarding its inclusion in the NBFC-UL, the NBFC shall put in place a Board approved policy for adoption of the enhanced regulatory framework and chart out an implementation plan for adhering to the new set of regulations.
+- **b)** The Board shall ensure that the stipulations prescribed for the NBFC-UL are adhered to within a maximum time-period of 24 months from the date of advice regarding classification as a NBFC-UL from the Reserve Bank. During the period of transition, calibrated increment to business may be allowed through supervisory engagement. The period of 3 months provided for charting out the plan for implementation shall be subsumed within the 24 months' time-period referred to above.
+- **c)** The roadmap as approved by the Board towards implementation of the enhanced regulatory requirement shall be submitted to the Reserve Bank and shall be subject to supervisory review.
+
+### **4.2 Transition of NBFCs to the Upper Layer**
+
+- **a)** Once an NBFC is categorised as NBFC-UL, it shall be subject to enhanced regulatory requirement, at least for a period of five years from its classification in the layer, even in case it does not meet the parametric criteria in the subsequent year/s. In other words

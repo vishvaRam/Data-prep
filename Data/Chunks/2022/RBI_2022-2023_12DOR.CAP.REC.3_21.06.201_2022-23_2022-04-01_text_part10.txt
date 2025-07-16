@@ -1,0 +1,39 @@
+y.
+
+(iv) The amount of DTAs which are to be deducted from CET1 capital may be netted with associated deferred tax liabilities (DTLs) provided that:
+
+(a) both the DTAs and DTLs relate to taxes levied by the same taxation authority and offsetting is permitted by the relevant taxation authority;
+
+(b) the DTLs permitted to be netted against DTAs must exclude amounts that have been netted against the deduction of goodwill, intangibles and defined benefit pension assets; and
+
+(c) the DTLs must be allocated on a *pro rata* basis between DTAs subject to deduction from CET1 capital as at (i) and (ii) above.
+
+(v) The amount of DTAs which is not deducted from CET1 capital (in terms of para (ii) above) will be risk weighted at 250% as in the case of significant investments in common shares not deducted from bank's CET1 capital as indicated in paragraph 4.4.9 (C)(iii).
+
+#### **4.4.3 Cash Flow Hedge Reserve**
+
+(i) The amount of the cash flow hedge reserve which relates to the hedging of items that are not fair valued on the balance sheet (including projected cash flows) should be derecognised in the calculation of Common Equity Tier 1. This means that positive amounts should be deducted and negative amounts should be added back. This treatment specifically identifies the element of the cash flow hedge reserve that is to be derecognised for prudential purposes. It removes the element that gives rise to artificial volatility in Common Equity, as in this case the reserve only
+
+<sup>14</sup> Please refer to paragraph 2.3 o[f circular no. DBR.No.BP.BC.83/21.06.201/2015-16 dated March 1, 2016](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10294&Mode=0) on Master Circular – Basel III Capital Regulations – Revision.
+
+reflects one half of the picture (the fair value of the derivative, but not the changes in fair value of the hedged future cash flow).
+
+(ii) Application of these rules at consolidated level would mean derecognition of cash flow hedge reserve from the consolidated Common Equity which is attributed to the subsidiaries, in addition to derecognition of cash flow hedge reserve pertaining to the solo bank.
+
+#### **4.4.4 Shortfall of the Stock of Provisions to Expected Losses**
+
+The deduction from capital in respect of a shortfall of the stock of provisions to expected losses under the Internal Ratings Based (IRB) approach should be made in the calculation of Common Equity Tier 1. The full amount is to be deducted and should not be reduced by any tax effects that could be expected to occur if provisions were to rise to the level of expected losses.
+
+### **4.4.5 Gain-on-Sale Related to Securitisation Transactions**
+
+(i) Banks shall be guided by the Master Direction no. DOR.STR.REC.53/21.04.177/2021-22 dated September 24, 2021 titled Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021 in this regard.
+
+(ii) Application of these rules at consolidated level would mean deduction of gain-on-sale from the consolidated Common Equity which is recognized by the subsidiaries in their P&L and / or equity, in addition to deduction of any gain-on-sale recognised by the bank at the solo level.
+
+# **4.4.6 Cumulative Gains and Losses due to Changes in Own Credit Risk on Fair Valued Financial Liabilities**
+
+(i) Banks are required to derecognise in the calculation of Common Equity Tier 1 capital, all unrealised gains and losses which have resulted from changes in the fair value of liabilities that are due to changes in the bank's own credit risk. In addition, with regard to derivative liabilities, derecognise all accounting valuation adjustments arising from the bank's own credit risk. The offsetting between valuation adjustments arising from the bank's own credit risk and those arising from its counterparties' credit risk is not allowed. If a bank values its derivatives and securities financing transactions (SFTs) liabilities taking into account its own creditworthiness in the form of debit valuation adjustments (DVAs), then the bank is required to deduct all DVAs from its Common Equity Tier 1 capital, irrespective of whether the DVAs arises due to changes in its own credit risk or other market factors. Thus, such deduction also includes the deduction of initial DVA at inception of a new trade. In other words, though a bank will have to recognize a loss reflecting the credit risk of the counterparty (i.e., credit valuation adjustments-CVA), the bank will not be allowed to recognize the corresponding gain due to its own credit risk.
+
+(ii) Application of these rules at consolidated level would mean derecognition of unrealised gains and losses which have resulted from changes in the fair value of liabilities that are due to changes in the subsidiaries' credit risk, in the calculation of consolidated Common Equity Tier 1 capital, in addition to derecognition of any such unrealised gains and losses attributed to the bank at the solo level.
+
+## **4.4.7 Defined Benefit Pension Fund<sup>15</sup> Assets and Liabilitie

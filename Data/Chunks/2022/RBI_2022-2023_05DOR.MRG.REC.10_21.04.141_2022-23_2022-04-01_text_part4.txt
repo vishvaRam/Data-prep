@@ -1,0 +1,50 @@
+r holding the securities and such accounts should be maintained in the same bank with whom the cash account is maintained.
+
+4.10 In case Gilt account is opened with any of the eligible non-banking institutions, the particulars of the designated funds account (with a bank) should be intimated to that institution.
+
+4.11 All transactions must be monitored to see that delivery takes place on settlement day. The fund account and investment account should be reconciled on the same day before close of business.
+
+4.12 Officials deciding about purchase and sale transactions should be separated from those responsible for settlement and accounting.
+
+4.13 All investment transactions should be perused by the Board at least once a month.
+
+4.14 When the bank has been specifically permitted to tender physical SGL transfer forms, it should keep a proper record of the SGL forms received / issued to facilitate counter-checking by their internal control systems/Inspecting Officers of Reserve Bank/other auditors.
+
+4.15 All purchase/sale transactions in Government Securities by the banks should necessarily be through SGL/CSGL account (with Reserve Bank) or Gilt account (with a scheduled commercial bank/State co-operative bank/PD/SHCIL) or in a dematerialised account with depositories (NSDL/CDSL).
+
+4.16 No transactions in Government Securities by a UCB should be undertaken in physical form with any broker.
+
+4.17 The entities maintaining the CSGL/designated funds accounts are required to ensure availability of clear funds in the designated funds accounts for purchases and of sufficient securities in the CSGL account for sale transactions.
+
+4.18 The security dealings of banks generally being for large values, it may be necessary to ensure, before concluding the deal, the ability of the counterparty to fulfill the contract, particularly where the counterparty is not a bank.
+
+4.19 While buying securities for SLR purpose, the bank should ensure that the security it intends to purchase has an SLR status. The SLR status of securities issued by the Government of India and the State Governments will be indicated in the Press Release issued by the Reserve Bank at the time of issuance of the securities. An updated and current list of the SLR securities will be posted on the Reserve Bank's website [\(https://dbie.rbi.org.in\)](https://dbie.rbi.org.in/) under the link "Database on Indian Economy-Statistics-Financial Market-Government Securities Market."
+
+4.20 In order to avoid concentration of risk, the banks should have a fairly diversified investment portfolio. Smaller investment portfolios should preferably be restricted to securities with high safety and liquidity such as Government Securities.
+
+4.21 UCBs may seek the guidance of Primary Dealers' Association of India (PDAI)/Fixed Income and Money Market Dealers' Association (FIMMDA) on investment in Government Securities.
+
+## **Negotiated Dealing System – Order Matching**
+
+4.22 All licensed UCBs fulfilling the eligibility criteria contained in [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6823&Mode=0) [IDMD.DOD.No.13/10.25.66/2011-12 dated November 18, 2011](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6823&Mode=0) as amended from time to time, are allowed direct access to Negotiated Dealing System – Order Matching platform. The eligibility criteria are as under:
+
+- (a) Current account with RBI or a funds account with one of the Designated Settlement Banks (DSBs) chosen by Clearing Corporation of India Limited (CCIL) for funds settlement.
+- (b) Subsidiary General Ledger (SGL) Account with RBI.
+- (c) Membership of Negotiated Dealing System (NDS).
+- (d) Indian Financial Network (INFINET) connectivity.
+- (e) Membership of CCIL.
+- (f) Minimum Capital to Risk Weighted Assets Ratio (CRAR) of 9 per cent.
+- (g) Net Non-Performing Assets (NPA) of less than 5 per cent.
+- (h) Minimum net worth of ₹25 crore.
+
+4.23 All eligible UCBs desirous of obtaining NDS-OM membership are required to apply to concerned Regional Office of the Department of Supervision, RBI, for regulatory clearance before applying to Financial Markets Regulation Department (FMRD), RBI for NDS-OM membership.
+
+4.24 Eligible UCBs applying for NDS-OM membership need to have the required infrastructure in place for direct access to NDS-OM and also bear the cost involved in setting up the infrastructure. After opening a SGL account with the RBI (which is one
+
+of the several requirements to be fulfilled by a UCB for obtaining NDS-OM membership), the UCB concerned cannot open / maintain a gilt account with a CSGL account holder. However, such UCBs can continue to bid for Government securities under the scheme of non-competitive bidding in Government securities.
+
+# **5 TRANSACTIONS THROUGH SGL ACCOUNTS**
+
+### 5.1 **SGL Account**
+
+- 5.1.1 Transfers through SGL accounts by UCBs having SGL facility can be made only if they maintain a regular current account with the Reserve Bank. All transactions in Government S

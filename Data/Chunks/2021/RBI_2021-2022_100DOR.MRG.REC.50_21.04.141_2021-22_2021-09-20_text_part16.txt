@@ -1,0 +1,52 @@
+FR to the Profit and Loss Account to meet depreciation requirement on investments would be a 'below the line' extraordinary item.
+
+17.5 Banks should ensure that the unrealised gains on valuation of the investment portfolio are not taken to the Income Account or to the IFR.
+
+17.6 Banks may utilise the amount held in IFR to meet, in future, the depreciation requirement on investment in securities.
+
+17.7 A bank may, at its discretion, draw down the balance available in IFR in excess of 5 per cent of its investment in AFS & HFT for credit to the balance of profit / loss as disclosed in the profit and loss account at the end of any accounting year. In the event the balance in the IFR is less than 5 per cent of its investment in AFS & HFT, a draw down will be permitted subject to the following conditions:
+
+(a) The drawn down amount is used only for meeting the minimum Tier I capital requirements by way of appropriation to free reserves or reducing the balance of loss, and
+
+b) The amount drawn down is not more than the extent to which the MTM provisions made during the aforesaid year exceed the net profit on sale of investments during that year.
+
+## 17.8 **Distinction between IFR and Investment Depreciation Reserve (IDR)**
+
+It may be noted that IFR is created out of appropriation of net profit from the realised gains from the sale of investments held in AFS & HFT, and forms part of the reserves of the bank qualifying under Tier II capital.
+
+IDR is a provision created by charging diminution in investment value to Profit and Loss Account. While the amount held in IFR should be shown in the balance sheet as such, the amount held in IDR should be reported as Contingent provisions against depreciation in investment.
+
+### **Annex I**
+
+# **Certain clarifications on brokers' limits** *[Paragraph 6.3]*
+
+
+
+#### **Definitions of certain terms** *[Paragraph 12.1.3]*
+
+1. With a view to imparting clarity and to ensure that there is no divergence in the implementation of the guidelines, some of the terms used in the guidelines are defined below.
+
+2. A security will be treated as rated if it is subjected to a detailed rating exercise by an external rating agency in India which is registered with SEBI and is carrying a current or valid rating. The rating relied upon will be deemed to be current or valid if:
+
+- (i) the credit rating letter relied upon is not more than one month old on the date of opening of the issue, and
+- (ii) the rating rationale from the rating agency is not more than one year old on the date of opening of the issue, and
+- (iii) the rating letter and the rating rationale is a part of the offer document.
+- (iv) In the case of secondary market acquisition, the credit rating of the issue should be in force and confirmed from the monthly bulletin published by the respective rating agency.
+- (v) Securities which do not have a current or valid rating by an external rating agency would be deemed as unrated securities.
+
+3. A 'listed' debt security is a security which is listed in a stock exchange. If not so, it is an 'unlisted' debt security.
+
+4. A Non Performing Investment (NPI), similar to a Non Performing Advance (NPA), is one where :
+
+- (a) Interest/ instalment (including maturity proceeds) is due and remains unpaid for more than 90 days.
+- (b) if any credit facility availed by the issuer is NPA in the books of the bank, investment in any of the securities issued by the same issuer would also be treated as NPI.
+
+# **Guidelines for accounting of Repo/Reverse Repo transactions** *[Paragraph 9.5]*
+
+**1.** The Reserve Bank of India (Amendment) Act, 2006 (Act No. 26 of 2006) provides a legal definition of 'repo' and 'reverse repo' (vide sub- sections (c) and (d) of section 45 U of Chapter III D of the Act) as an instrument for borrowing (lending) funds by selling (purchasing) securities with an agreement to repurchase (resell) the securities on a mutually agreed future date at an agreed price which includes interest for the funds borrowed (lent). Accordingly, to bring such transactions onto the balance sheet in their true economic sense and enhance transparency, the accounting guidelines have been reviewed and the revised guidelines are given below:
+
+**2. Applicability of the accounting guidelines**: The revised accounting guidelines will apply to market repo transactions in Government Securities and corporate debt securities including the tri-party repo in such securities. These accounting norms will, however, not apply to repo / reverse repo transactions conducted under the Liquidity Adjustment Facility (LAF) with Reserve Bank.
+
+**3.** Market participants may undertake repos from any of the three categories of investments, viz., **Held for Trading**, **Available for Sale** and **Held to Maturity**.
+
+**4.** The economic essence of a repo transaction, viz., borrowing (lending)of funds by selling (purchasing) securities shall be reflected in the books of the repo participants, by accounting the same as collateralised len

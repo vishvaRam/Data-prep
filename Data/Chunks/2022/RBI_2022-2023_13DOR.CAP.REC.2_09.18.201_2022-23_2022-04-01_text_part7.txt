@@ -1,0 +1,56 @@
+ not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+
+2.12.2 However, the amount collected from members / prospective investors and held pending allotment of the PNCPS, shall be reckoned as liability for the purpose of calculating the net demand and time liabilities and shall, accordingly, attract reserve requirements. Such amounts shall not be reckoned for calculation of capital funds.
+
+## **2.13 Reporting Requirements**
+
+UCBs issuing PNCPS shall submit a report to the concerned RO of DoS, RBI, giving details of the capital raised, including the terms and conditions of issue together with a copy of the Prospectus / Offer Document, soon after the issue is completed.
+
+# **2.14 Investments in PNCPS and Advances for Purchase of PNCPS**
+
+UCBs shall not grant any loan or advance to any person for purchasing their own PNCPS or the PNCPS of other banks. Further, UCBs shall not invest in PNCPS of other banks and shall not grant advances against the security of the PNCPS issued by them or other banks.
+
+#### **B. Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) for inclusion in Upper Tier-II capital**
+
+UCBs are permitted to issue Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS), at face value, to their members or any other person residing within their area of operation, with the prior approval of the RBI. The UCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum to the concerned Regional Office (RO) of the RBI. A certificate from a Chartered Accountant to the effect that the terms of the offer document are in compliance with these instructions shall also be submitted along with the application. These three instruments, collectively referred to as Tier-II preference shares, shall comply with the following terms and conditions, to qualify for inclusion as Upper Tier-II capital.
+
+## **2. Terms of issue**
+
+# **2.1 Limits**
+
+The outstanding amount of these instruments along with other components of Tier-II capital shall not exceed 100 per cent of Tier-I capital at any point of time. The above limit shall be based on the amount of Tier-I capital after deduction of goodwill and other intangible assets, but before deduction of equity investment in subsidiaries, if any.
+
+# **2.2 Amount**
+
+The amount to be raised may be decided by the Board of Directors of banks.
+
+# **2.3 Maturity**
+
+The Tier-II preference shares could be either perpetual (PCPS) or dated (RNCPS and RCPS) instruments with a minimum maturity of 10 years.
+
+# **2.4 Options**
+
+- 2.4.1 These instruments shall not be issued with a 'put option' or 'step up option'.
+- 2.4.2 These instruments may be issued with a call option, subject to following conditions:
+	- a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+	- b) Call option shall be exercised only with the prior approval of DoR, RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+#### **2.5 Classification in the Balance Sheet**
+
+These instruments will be classified as 'Borrowings' and shown separately in the Balance sheet.
+
+#### **2.6 Coupon**
+
+The coupon payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate
+
+## **2.7 Payment of Coupon**
+
+2.7.1 The coupon payable on these instruments will be treated as interest and accordingly debited to P& L Account. However, it will be payable only if:
+
+- a) the bank's CRAR is above the minimum regulatory requirement prescribed by RBI
+- b) the impact of such payment does not result in bank's CRAR falling below or remaining below the minimum regulatory requirement.
+- c) the bank should not have a net loss. For this purpose, the net loss is defined as either (i) the accumulated loss at the end of the previous financial year or (ii) the loss incurred during the current financial year.
+
+2.7.2 In the case of PCPS and RCPS, the unpaid / partly unpaid coupon will be treated as a liability. The interest amount due and remaining unpaid may be allowed to be paid in later years subject to the bank complying with the above requirements.
+
+2.7.3 In the case of RNCPS, deferred coupon will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum. The bank can however pay a coupon at a rate lesser than the specified rate, if adequate profit is available and the level of CRAR conforms to the regulat

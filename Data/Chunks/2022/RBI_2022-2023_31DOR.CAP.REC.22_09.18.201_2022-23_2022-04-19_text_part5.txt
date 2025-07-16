@@ -1,0 +1,67 @@
+anding Innovative Perpetual Debt Instruments (IPDI)[3](#page-4-1) shall also be covered in the aforementioned ceiling of 15 per cent and reckoned for capital purposes as hitherto. The eligible amount shall be computed with reference to the amount of Tier-I capital as on March 31 of the previous year, after deduction of goodwill, DTA and other intangible assets, but before deduction of equity investment in subsidiaries, if any. PDI in excess of the above limits shall be eligible for inclusion under Tier-II capital, subject to the limits prescribed for Tier-II capital. However, investors' rights and obligations would remain unchanged.
+
+#### **2.2 Amount**
+
+The amount of PDI to be raised may be decided by the Board of Directors of banks.
+
+## **2.3 Maturity**
+
+These instruments shall be perpetual.
+
+#### **2.4 Options**
+
+2.4.1 The PDI shall not be issued with a 'put option' or 'step-up' option.
+
+2.4.2 However, PDI may be issued with a call option subject to following conditions:
+
+<span id="page-4-0"></span><sup>2</sup> *Reference is invited to para 2.1 of Annex 1 as per which the outstanding amount of PNCPS and Perpetual Debt Instruments (PDI) along with outstanding Innovative Perpetual Debt Instruments (IPDI) shall not exceed 35 per cent of total Tier-I capital at any point of time.* 
+
+<span id="page-4-1"></span><sup>3</sup> *Issued in terms of [circular RPCD.RCB.BC.73/07.51.012/2013-14 dated January 07, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8677&Mode=0) on Application of Minimum Capital Adequacy Norms to State and Central Cooperative Banks (StCBs / CCBs).*
+
+![](_page_0_Picture_0.jpeg)
+
+- a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+- b) Call option shall be exercised only with the prior approval of Department of Regulation (DoR), RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+## **2.5 Classification**
+
+PDI shall be classified as 'Borrowings' and shown separately in the Balance Sheet.
+
+## **2.6 Rate of interest**
+
+The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+
+## **2.7 Lock-in-Clause**
+
+2.7.1 PDI shall be subjected to a lock-in-clause in terms of which the issuing bank shall not be liable to pay interest, if
+
+- i. the bank's CRAR is below the minimum regulatory requirement prescribed by RBI; or
+- ii. the impact of such payment results in bank's CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI.
+
+2.7.2 However, RCBs may pay interest with the prior approval of the DoR, RBI when the impact of such payment may result in net loss or increase the net loss, provided the CRAR meets the regulatory norm. For this purpose, net loss is defined as either (i) the accumulated loss at the end of the previous financial year or (ii) the loss incurred during the current financial year.
+
+2.7.3 The interest shall not be cumulative.
+
+2.7.4 All instances of invocation of the lock-in-clause should be reported by the issuing RCB to the concerned RO of NABARD and DoS, RBI.
+
+# **2.8 Seniority of claim**
+
+The claims of the investors of PDI shall be superior to the claims of investors in equity shares and PNCPS but subordinated to the claims of all other creditors and the depositors. Among investors in PDI and outstanding Innovative Perpetual Debt Instruments (IPDI[4](#page-0-0)), the claims shall rank *pari passu* with each other.
+
+<span id="page-0-0"></span> <sup>4</sup> *IPDI issued in terms of [circular no. RPCD.RCB.BC.73/07.51.012/2013-14 dated January 07, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8677&Mode=0) on Application of Minimum Capital Adequacy Norms to State and Central Cooperative Banks (StCBs / CCBs).*
+
+![](_page_1_Picture_0.jpeg)
+
+## **2.9 Discount**
+
+The PDI shall not be subjected to a progressive discount for capital adequacy purposes since these are perpetual.
+
+## **2.10 Other conditions**
+
+2.10.1 PDI shall be fully paid-up, unsecured and free of any restrictive clauses.
+
+2.10.2 RCBs shall also comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the PDI, provided they are not in conflict with the terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of the DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier-I capital.
+
+### **2.11 Compliance with Reserve Requirements**
+
+The total amount raised by an RCB through the issue of PDI shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.

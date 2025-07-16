@@ -1,0 +1,29 @@
+es can be relied upon as a cushion for unexpected losses depends mainly upon the level of certainty that can be placed on estimates of the market values of the relevant assets, the subsequent deterioration in values under difficult market conditions or in a forced sale, potential for actual liquidation at those values, tax consequences of revaluation, etc. Therefore, it would be prudent to consider revaluation reserves at a discount of 55% while determining their value for inclusion in Tier 2 capital. Such reserves will have to be reflected on the face of the Balance Sheet as revaluation reserves.
+
+# **4.3 Recognition of Minority Interest (i.e., Non-Controlling Interest) and Other Capital Issued out of Consolidated Subsidiaries that is Held by Third Parties**
+
+4.3.1 Under Basel III, the minority interest is recognised only in cases where there is considerable explicit or implicit assurance that the minority interest which is supporting the risks of the subsidiary would be available to absorb the losses at the consolidated level. Accordingly, the portion of minority interest which supports risks in a subsidiary that is a bank will be included in group's Common Equity Tier 1. Consequently, minority interest in the subsidiaries which are not banks will not be included in the regulatory capital of the group. In other words, the proportion of surplus capital which is attributable to the minority shareholders would be excluded from the group's Common Equity Tier 1 capital. Further, under Basel III, the minority interest in relation to other components of regulatory capital will also be recognised.
+
+# 4.3.2 **Treatment of Minority Interest Corresponding to Common Shares Issued by Consolidated Subsidiaries**
+
+Minority interest arising from the issue of common shares by a fully consolidated subsidiary of the bank may receive recognition in Common Equity Tier 1 capital only if: (a) the instrument giving rise to the minority interest would, if issued by the bank, meet all of the criteria for classification as common shares for regulatory capital purposes as stipulated in **[Annex 1](#page--1-0)**; and (b) the subsidiary that issued the instrument is itself a bank<sup>13</sup>. The amount of minority interest meeting the criteria above that will be recognised in consolidated Common Equity Tier 1 capital will be calculated as follows:
+
+(i) Total minority interest meeting the two criteria above minus the amount of the surplus Common Equity Tier 1 capital of the subsidiary attributable to the minority shareholders.
+
+(ii) Surplus Common Equity Tier 1 capital of the subsidiary is calculated as the Common Equity Tier 1 of the subsidiary minus the lower of: (a) the minimum Common Equity Tier 1 capital requirement of the subsidiary plus the capital conservation buffer (i.e. 8.0% of risk weighted assets) and (b) the portion of the consolidated minimum Common Equity Tier 1 capital requirement plus the capital conservation buffer (i.e. 8.0% of consolidated risk weighted assets) that relates to the subsidiary.
+
+(iii) The amount of the surplus Common Equity Tier 1 capital that is attributable to the minority shareholders is calculated by multiplying the surplus Common Equity Tier 1 by the percentage of Common Equity Tier 1 that is held by minority shareholders.
+
+<sup>13</sup>For the purposes of this paragraph, All India Financial Institutions, Non-banking Financial Companies regulated by RBI and Primary Dealers will be considered to be a bank
+
+## 4.3.3 **Treatment of Minority Interest Corresponding to Tier 1 Qualifying Capital Issued by Consolidated Subsidiaries**
+
+Tier 1 capital instruments issued by a fully consolidated subsidiary of the bank to third party investors (including amounts under paragraph 4.3.2) may receive recognition in Tier 1 capital only if the instruments would, if issued by the bank, meet all of the criteria for classification as Tier 1 capital. The amount of this capital that will be recognised in Tier 1 capital will be calculated as follows:
+
+(i) Total Tier 1 capital of the subsidiary issued to third parties minus the amount of the surplus Tier 1 capital of the subsidiary attributable to the third party investors.
+
+(ii) Surplus Tier 1 capital of the subsidiary is calculated as the Tier 1 capital of the subsidiary minus the lower of: (a) the minimum Tier 1 capital requirement of the subsidiary plus the capital conservation buffer (i.e., 9.5% of risk weighted assets) and (b) the portion of the consolidated minimum Tier 1 capital requirement plus the capital conservation buffer (i.e. 9.5% of consolidated risk weighted assets) that relates to the subsidiary.
+
+(iii) The amount of the surplus Tier 1 capital that is attributable to the third party investors is calculated by multiplying the surplus Tier 1 capital by the percentage of Tier 1 capital that is held by third party investors.
+
+The amount of this Tier 1 capital that will be recognised in Additional Tier 1 capital will exclude amounts recognised in Common Eq

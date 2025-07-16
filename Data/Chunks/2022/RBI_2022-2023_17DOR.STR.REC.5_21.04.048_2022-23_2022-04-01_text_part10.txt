@@ -1,0 +1,45 @@
+d should be reversed or provided for.
+
+# 4.3 **Booking of Income on Investments in Shares & Bonds**
+
+4.3.1 As a prudent practice and in order to bring about uniform accounting practice among banks for booking of income on units of UTI and equity of All India Financial Institutions, such income should be booked on cash basis and not on accrual basis.
+
+4.3.2 However, in respect of income from Government securities / bonds of public sector undertakings and All India Financial Institutions, where interest rates on the instruments are predetermined, income may be booked on accrual basis, provided interest is serviced regularly and is not in arrears.
+
+# 4.4 **Partial Recovery of NPAs**
+
+Interest realised on NPAs may be taken to income account, provided the credits in the accounts towards interest are not out of fresh / additional credit facilities sanctioned to the borrower concerned.
+
+#### 4.5 **Interest Application**
+
+4.5.1 In case of NPAs, as a prudential norm, there is no use in debiting the said account by interest accrued in subsequent months and taking this accrued interest amount as income of the bank as the said interest is not being received. It is simultaneously desirable to show such accrued interest separately or park in a separate account so that interest receivable on such NPA account is computed and shown as such, though not accounted as income of the bank for the period.
+
+4.5.2 The interest accrued in respect of performing assets may be taken to income account as the interest is reasonably expected to be received. However, if interest is not actually received for any reason in these cases and the account is to be treated as an NPA, then the amount of interest so taken to income should be reversed or should be provided for in full.
+
+4.5.3 With a view to ensuring uniformity in accounting the accrued interest in respect of both the performing and non-performing assets, the following guidelines may be adopted notwithstanding the existing provisions in the respective State Co-operative Societies Act.
+
+(i) Interest accrued in respect of non-performing advances should not be debited to borrowal accounts but shown separately under 'Interest Receivable Account' on the 'Property and Assets' side of the balance sheet and corresponding amount shown under 'Overdue Interest Reserve Account' on the 'Capital and Liabilities' side of the balance sheet.
+
+(ii) In respect of borrowal accounts, which are treated as performing assets, accrued interest can alternatively be debited to the borrowal account and credited to Interest account and taken to income account. In case the accrued interest in respect of the borrowal account is not actually realised and the account has become NPA, interest accrued and credited to income account should be reversed or provided for.
+
+(iii) The illustrative accounting entries to be passed in respect of accrued interest on both the performing and non-performing advances are indicated in the [Annex 3.](#page--1-0)
+
+4.5.4 In the above context, it may be clarified that overdue interest reserve is not created out of the real or earned income received by the bank and as such, the amounts held in the Overdue Interest Reserve Account cannot be regarded as 'reserve' or a part of the owned funds of the banks. It will also be observed that the Balance Sheet format prescribed under the Third Schedule to the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) specifically requires the banks to show 'Overdue Interest Reserve' as a distinct item on the 'Capital and Liabilities' side vide item 8 thereof.
+
+# **5. Provisioning Norms**
+
+## 5.1 **Norms for Provisioning on Loans & Advances**
+
+5.1.1 In conformity with the prudential norms, provisions should be made on the non-performing assets on the basis of classification of assets into prescribed categories as detailed in paragraph 3 above.
+
+5.1.2 Taking into account the time lag between an account becoming doubtful of recovery, its recognition as such, the realisation of the security and the erosion over time in the value of security charged to the bank, the banks should make provision against loss assets, doubtful assets and sub-standard assets as below:
+
+## (i) **Loss Assets**
+
+The entire assets should be written off after obtaining necessary approval from the competent authority and as per the provisions of the Co-operative Societies Act / Rules. If the assets are permitted to remain in the books for any reason, 100 per cent of the outstanding should be provided for.
+
+# (ii) **Doubtful Assets**
+
+(a) Provision should be 100 per cent of the extent to which the advance is not covered by the realisable value of the security to which the bank has a valid recourse. The realisable value should be estimated on a realistic basis.
+
+(b) In regard to the **secured portion**, provision may be made on the following basis, at the rates ranging from 20 per cent to 100 per cent of the secured portion depending upon the period for which the asset has

@@ -1,0 +1,49 @@
+| Potential<br>Loss / EBID (%)                  | Incremental<br>Provisioning<br>Requirement | Incremental Capital<br>Requirement                      |
+|-----------------------------------------------|--------------------------------------------|---------------------------------------------------------|
+| Upto<br>15 per cent                           | 0                                          | 0                                                       |
+| More than 15 per cent and<br>upto 30 per cent | 20bps                                      | 0                                                       |
+| More than 30 per cent and<br>upto 50 per cent | 40bps                                      | 0                                                       |
+| More than 50 percent and upto<br>75 per cent  | 60bps                                      | 0                                                       |
+| More than 75 per cent                         | 80 bps                                     | centage point6<br>25 per<br>increase in the risk weight |
+
+|   | Circular No.                  | Date     | Subject                                |
+|---|-------------------------------|----------|----------------------------------------|
+| 1 | DBOD.BP.BC.37/21.04.048/2001- | October  | Monetary<br>and<br>Credit<br>Policy    |
+|   | 2002                          | 27, 2001 | Measures - Mid-Term Review for         |
+|   |                               |          | the<br>Year 2001-2002 -<br>Unhedged    |
+|   |                               |          | Foreign<br>Currency<br>Exposures<br>of |
+|   |                               |          | Corporates                             |
+| 2 | DBOD.BP.BC.51/21.04.103/2003- | December | Mid-term Review of Monetary and        |
+|   | 2004                          | 5, 2003  | Credit Policy for the year 2003-04 -   |
+|   |                               |          | Unhedged<br>Foreign<br>Currency        |
+|   |                               |          | Exposures of Corporates                |
+
+| 3 | DBOD.BP.BC.96/21.04.103/2008- | December | Unhedged<br>Foreign<br>Exchange         |
+|---|-------------------------------|----------|-----------------------------------------|
+|   | 09                            | 10, 2008 | Exposure of Clients - Monitoring by     |
+|   |                               |          | Banks                                   |
+| 4 | DBOD.BP.BC.No.76/21.04.103/20 | February | Second<br>Quarter<br>Review<br>of       |
+|   | 11-12                         | 2, 2012  | Monetary<br>Policy<br>2011-12<br>–      |
+|   |                               |          | Unhedged<br>Foreign<br>Currency         |
+|   |                               |          | Exposure of Corporates                  |
+| 5 | DBOD.BP.BC.No.61/21.04.103/20 | November | Second<br>Quarter<br>Review<br>of       |
+|   | 12-13                         | 21, 2012 | Monetary<br>Policy<br>2012-13<br>–      |
+|   |                               |          | Unhedged<br>Foreign<br>Currency         |
+|   |                               |          | Exposure of Corporates                  |
+| 6 | DBOD.No.BP.BC.85/21.06.200/20 | January  | Capital<br>and<br>Provisioning          |
+|   | 13-14                         | 15, 2014 | Requirements<br>for<br>Exposures<br>to  |
+|   |                               |          | entities<br>with<br>Unhedged<br>Foreign |
+|   |                               |          | Currency Exposure                       |
+| 7 | DBOD.No.BP.BC.116/21.06.200/2 | June 3,  | Capital<br>and<br>Provisioning          |
+|   | 013-14                        | 2014     | Requirements<br>for<br>Exposures<br>to  |
+|   |                               |          | entities<br>with<br>Unhedged<br>Foreign |
+|   |                               |          | Currency Exposure-Clarifications        |
+| 8 | Mailbox Clarification         | July 8,  | Capital<br>and<br>Provisioning          |
+|   |                               | 2016     | Requirements<br>for<br>Exposures<br>to  |
+|   |                               |          | Entities<br>with<br>Unhedged<br>Foreign |
+|   |                               |          | Currency Exposure                       |
+| 9 | DOR.No.MRG.BC.41/21.06.200/20 | February | Capital<br>and<br>provisioning          |
+|   | 20-21                         | 17, 2021 | requirements<br>for<br>exposures<br>to  |
+|   |                               |          | entities<br>with<br>Unhedged<br>Foreign |
+|   |                               |          | Currency Exposure                       |
+

@@ -1,0 +1,5 @@
+| Financial Year | Lending rate to farmers | Rate of Interest<br>Subvention<br>to Lending<br>Institutions |
+|----------------|-------------------------|--------------------------------------------------------------|
+| 2022-23        | 7%                      | 1.50%                                                        |
+| 2023-24        | 7%                      | 1.50%                                                        |
+

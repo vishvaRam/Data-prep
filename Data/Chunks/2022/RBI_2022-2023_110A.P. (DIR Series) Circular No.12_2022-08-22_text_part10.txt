@@ -1,0 +1,38 @@
+t by registered trust/society may be made under the approval route in accordance with paragraph 1 of schedule IV of OI Rules.
+
+## **24. Overseas investment in an IFSC in India by a person resident in India**
+
+A person resident in India may make overseas investment in an IFSC in India in accordance with schedule V of OI Rules. The following is further provided:
+
+(1) A person resident in India, being an Indian entity or a resident individual, may make investment (including sponsor contribution) in the units of an investment fund or vehicle set up in an IFSC as OPI. Accordingly, in addition to listed Indian companies and resident individuals, unlisted Indian entities may also make such investment in IFSC.
+
+(2) The restriction of making ODI only in an operating foreign entity or not making ODI in a foreign entity engaged in financial services activity by resident individuals, shall not apply to an investment made in IFSC. Such investment, however, shall not be made in any foreign entity engaged in banking or insurance. Such foreign entity in IFSC may have subsidiary/SDS in IFSC. It may also have subsidiary/SDS outside IFSC where the resident individual does not have control in the foreign entity. Resident individual who has made ODI without control shall not acquire control in a foreign entity that subsequently acquires or sets-up a subsidiary/SDS outside India.
+
+### **25. Acquisition or Transfer of Immovable Property outside India**
+
+Any acquisition or transfer of immovable property outside India shall be governed by the provisions contained in rule 21 of OI Rules. The following is further provided:
+
+(1) An AD bank may allow an Indian entity having an overseas office to acquire immovable property outside India for the business and residential purposes of its staff, provided total remittances do not exceed the following limits as laid down for initial and recurring expenses, respectively:
+
+- a) 15 per cent of the average annual sales/income or turnover of the Indian entity during the last two financial years or up to 25 per cent of the net worth, whichever is higher;
+- b) 10 per cent of the average annual sales/income or turnover during the last two financial years.
+
+# **Part IV - Other Operational Instructions to AD banks**
+
+## **26. Designated banks**
+
+(1) An eligible person resident in India making ODI (or financial commitment) in a foreign entity is required to route all its transactions relating to such investment (or financial commitment) through the AD bank designated by it. In case a foreign entity is being set up by two or more persons resident in India, then all such persons shall route all transactions in respect of that foreign entity only through one designated AD bank. However, different AD banks may be designated, if required, for different foreign entities.
+
+(2) In case such a person resident in India wants to switch over to another AD, it may approach the new AD after obtaining an NOC from the existing AD bank.
+
+(3) All communication from the person resident in India to the Reserve Bank should be routed through the nodal branch of the designated AD bank. For proper follow up, the AD bank shall maintain person-wise record in respect of each foreign entity.
+
+## **27. Overseas investment under OI Rules/Regulations**
+
+(1) AD banks may allow remittance towards overseas investment up to the permissible limits on receipt of application in Form FC together with form A-2, duly filled in, from the person making such investments subject to their complying with the conditions prescribed in the OI Rules/Regulations/Directions. AD banks shall render themselves liable for penal action under section 11 and 13 of FEMA, 1999, if they facilitate remittances towards financial commitment without obtaining the requisite duly completed Form FC.
+
+*Explanation*: AD banks may note that an additional timeline of 15 days is made available to them for reporting of investments/financial commitment by their constituents to RBI in the OID application (other than first remittance, which requires to be reported in OID system before executing the transaction, to generate UIN) and is not to be availed by the Indian entities/resident individuals for submission of forms and documents to the AD bank.
+
+(2) AD banks should allow remittance towards loan to the foreign entity and/or issue bank guarantee to/on behalf of the foreign entity only after ensuring that the Indian entity has made ODI and has control in the foreign entity.
+
+(3) The Reserve Bank will not, generally, specify the documents which should be verified by the AD banks for ensuring the bona fides of the transactions. In this connection, attention of authorised persons is drawn to sub-section (5) of Section 10 of the FEMA, 1999 which provides that an authorised person shall require any person desiring to transact in foreign exchange to make such a declaration and to give such information as will reasonably satisfy him that the transaction will not involve and is not desig

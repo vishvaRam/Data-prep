@@ -1,0 +1,62 @@
+| Sr.                                    | Parameter                                                                                    | Details      |  |  |  |  |
+|----------------------------------------|----------------------------------------------------------------------------------------------|--------------|--|--|--|--|
+| No.                                    |                                                                                              | (given for   |  |  |  |  |
+|                                        |                                                                                              | illustrative |  |  |  |  |
+|                                        |                                                                                              | computation  |  |  |  |  |
+|                                        |                                                                                              | purposes     |  |  |  |  |
+|                                        |                                                                                              | only)        |  |  |  |  |
+| (i)                                    | Loan amount (amount disbursed/to be disbursed to the borrower) (in<br>Rupees)                | 20,000       |  |  |  |  |
+| (ii)                                   | Total interest charge during the entire tenor of the loan (in Rupees)                        | 3,274        |  |  |  |  |
+| (iii)                                  | Other up-front charges, if any (break-up of each component to be given<br>below) (in Rupees) | 400          |  |  |  |  |
+| (a)                                    | Processing fees, if any (in Rupees)                                                          | 160          |  |  |  |  |
+| (b)                                    | Insurance charges, if any (in Rupees)                                                        | 240          |  |  |  |  |
+| (c)                                    | n<br>Others (if any) (in Rupees) (details to be provided)                                    | -            |  |  |  |  |
+| (iv)                                   | Net disbursed amount ((i)-(iii)) (in Rupees)                                                 | 19,600       |  |  |  |  |
+| (v)                                    | w<br>Total amount to be paid by the borrower (sum of (i), (ii) and (iii)) (in Rupees)        | 23,6749      |  |  |  |  |
+| (vi)                                   | a<br>Annual Percentage Rate - Effective annualized interest rate (in percentage)             | 17.07%       |  |  |  |  |
+|                                        | (computed on net disbursed amount using IRR approach and reducing                            |              |  |  |  |  |
+|                                        | balance method)                                                                              |              |  |  |  |  |
+| (vii)                                  | dr<br>Tenor of the Loan (in months/days)                                                     | 24 months    |  |  |  |  |
+| (viii)                                 | h<br>Repayment frequency by the borrower                                                     | Monthly      |  |  |  |  |
+| (ix)                                   | t<br>Number of instalments of repayment                                                      | 24           |  |  |  |  |
+| (x)                                    | Amount of each instalment of repayment (in Rupees)                                           | 970          |  |  |  |  |
+| Wi<br>Details about Contingent Charges |                                                                                              |              |  |  |  |  |
+| (xi)                                   | Rate of annualized penal charges in case of delayed payments (if any)                        |              |  |  |  |  |
+| (xii)                                  | Rate of annualized other penal charges (if any); (details to be provided )                   |              |  |  |  |  |
+|                                        | Other disclosures                                                                            |              |  |  |  |  |
+| (xiii)                                 | Cooling off/look-up period during which borrower shall not be charged any                    |              |  |  |  |  |
+|                                        | penalty on prepayment of loan                                                                |              |  |  |  |  |
+| (xiv)                                  | Details of LSP acting as recovery agent and authorized to approach the                       |              |  |  |  |  |
+|                                        | borrower                                                                                     |              |  |  |  |  |
+| (xv)                                   | Name, designation, address and phone number of nodal grievance                               |              |  |  |  |  |
+|                                        | redressal officer designated specifically to deal with FinTech/ digital                      |              |  |  |  |  |
+|                                        | lending related complaints/ issues                                                           |              |  |  |  |  |
+
+| Instalment<br>No. | Outstanding<br>Principal (in<br>Rupees) | Principal (in<br>Rupees) | Interest (in<br>Rupees) | Instalment (in<br>Rupees) |
+|-------------------|-----------------------------------------|--------------------------|-------------------------|---------------------------|
+| 1                 | 20,000                                  | 720                      | 250                     | 970                       |
+| 2                 | 19,280                                  | 729                      | 241                     | 970                       |
+| 3                 | 18,552                                  | 738                      | 232                     | 970                       |
+| 4                 | 17,814                                  | 747                      | 223                     | 970                       |
+| 5                 | 17,067                                  | 756                      | 213                     | 970                       |
+| 6                 | 16,310                                  | 766                      | 204                     | 970                       |
+| 7                 | 15,544                                  | 775                      | 194                     | 970                       |
+| 8                 | 14,769                                  | 785                      | 185                     | 970                       |
+| 9                 | 13,984                                  | 795                      | 175                     | 970                       |
+| 10                | 13,189                                  | 805                      | 165                     | 970                       |
+| 11                | 12,384                                  | 815                      | 155                     | 970                       |
+| 12                | 11,569                                  | 825                      | 145                     | 970                       |
+| 13                | 10,744                                  | 835                      | n<br>134                | 970                       |
+| 14                | 9,909                                   | 846                      | 124                     | 970                       |
+| 15                | 9,063                                   | 856                      | w<br>113                | 970                       |
+| 16                | 8,206                                   | a<br>867                 | 103                     | 970                       |
+| 17                | 7,339                                   | 878                      | 92                      | 970                       |
+| 18                | 6,461                                   | dr<br>889                | 81                      | 970                       |
+| 19                | 5,572                                   | 900                      | 70                      | 970                       |
+| 20                | 4,672                                   | h<br>911                 | 58                      | 970                       |
+| 21                | 3,761                                   | 923                      | 47                      | 970                       |
+| 22                | 2,838                                   | t<br>934                 | 35                      | 970                       |
+| 23                | 1,904                                   | 946                      | 24                      | 970                       |
+| 24                | 958                                     | 958                      | 12                      | 970                       |
+|                   | Wi                                      |                          |                         |                           |
+

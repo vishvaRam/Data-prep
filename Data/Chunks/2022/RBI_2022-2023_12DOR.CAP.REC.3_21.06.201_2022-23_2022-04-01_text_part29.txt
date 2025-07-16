@@ -1,0 +1,50 @@
+ calculated in the manner indicated below in para (ii). Banks are not required to include in this capital charge (a) transactions with a central counterparty (CCP); and (b) securities financing transactions (SFTs).
+- (ii) Banks should use the following formula to calculate a portfolio capital charge for CVA risk for their counterparties:
+
+$$
+K=2.33\cdot \sqrt{h}\cdot \sqrt{\left(\sum\limits_i 0.5\cdot w_i\cdot \left(M_i\cdot EAD_i^{\text{total}}-M_i^{\text{hedge}}B_i\right)-\sum\limits_{ind}~w_{ind}\cdot M_{ind}\cdot B_{ind}\right)^2+\sum\limits_i 0.75\cdot w_i^2\cdot \left(M_i\cdot EAD_i^{\text{total}}-M_i^{\text{hedge}}B_i\right)^2}
+$$
+
+Where;
+
+- **h** is the one-year risk horizon (in units of a year), h = 1.
+- **wi** is the weight applicable to counterparty 'i'. Counterparty 'i' should be mapped to one of the seven weights **wi** based on its external rating, as shown in the **Table** below in the last bullet point.
+- **EAD**<sup>i</sup> total is the exposure at default of counterparty 'i' (summed across its netting sets) including the effect of collateral as per the existing Current Exposure Method (CEM) as applicable to the calculation of counterparty risk capital charges for such counterparty by the bank. The exposure should be discounted by applying the factor (1-exp(-0.05\*Mi))/(0.05\*Mi).
+- **Bi** is the notional of purchased single name CDS hedges (summed if more than one position) referencing counterparty 'i', and used to hedge CVA risk. This notional amount should be discounted by applying the factor (1-exp(-0.05\*M<sup>i</sup> hedge))/(0.05\* Mi hedge).
+- **Bind** is the full notional of one or more index CDS of purchased protection, used to hedge CVA risk. This notional amount should be discounted by applying the factor (1 exp(-0.05\*Mind))/(0.05\* Mind).
+- **wind** is the weight applicable to index hedges. The bank must map indices to one of the seven weights wi based on the average spread of index 'ind'.
+- **Mi** is the effective maturity of the transactions with counterparty 'i'. **Mi** is the notional weighted average maturity of all the contracts with counterparty 'i'.
+- **M<sup>i</sup> hedge** is the maturity of the hedge instrument with notional Bi (the quantities M<sup>i</sup> hedge . Bi are to be summed if these are several positions).
+- **Mind** is the maturity of the index hedge 'ind'. In case of more than one index hedge position, it is the notional weighted average maturity.
+- For any counterparty that is also a constituent of an index on which a CDS is used for hedging counterparty credit risk, the notional amount attributable to that single name (as per its reference entity weight) may be subtracted from the index CDS notional amount and treated as a single name hedge (Bi) of the individual counterparty with maturity based on the maturity of the index.
+- The weights are given in the Table below, which are based on the external rating of the counterparty:
+
+
+## **Weights (wi)**
+
+ In cases where the unrated counterparty is a scheduled commercial bank, banks shall use the following Table to arrive at the implied ratings of the counterparty-bank and consequently, the Wi.
+
+<sup>62</sup> Please refer to the revised version of Basel III capital rules (bcbs189.doc) issued by the BCBS vide press release on June 1, 2011.
+
+
+ Banks will have to continuously monitor the capital adequacy position of their counterparty banks so that the effect of any change in the implied ratings is adequately reflected in CVA capital charge calculations.
+
+An illustration of CVA risk capital charge has been furnished in **[Annex 13](#page--1-0)**.
+
+# 5.15.3.7 **Calculation of the Aggregate CCR and CVA Risk Capital Charges**
+
+The total CCR capital charge for the bank is determined as the sum of the following two components:
+
+i. The sum over all counterparties of the CEM based capital charge determined as per **paragraph 5.15.3.5**; and
+
+ii. The standardised CVA risk capital charge determined as per **paragraph 5.15.3.6**<sup>63</sup>
+
+# **5.15.3.8 Capital requirement for exposures to Central Counterparties (CCPs)**
+
+#### **Scope of Application**
+
+- i. Exposures to central counterparties arising from OTC derivatives transactions, exchange traded derivatives transactions and securities financing transactions (SFTs) will be subject to the counterparty credit risk treatment as indicated in this paragraph below.
+- ii. Exposures arising from the settlement of cash transactions (equities, fixed income, spot FX, commodity etc.) are not subject to this treatment. The settlement of cash transactions remains subject to the treatment described in paragraph 5.15.4 of this Master Circular.
+- iii. When the clearing member-to-client leg of an exchange traded derivatives transaction is conducted under a bilateral agreement, both the client bank and the clearing member are to capitalise that transaction as an OTC derivative.
+
+<sup>63</sup> Please refer to the [circular DBOD.No.BP.BC.88/21.06.201/2012-13 dated March 28, 2013](http

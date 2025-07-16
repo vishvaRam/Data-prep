@@ -1,0 +1,85 @@
+s, and a brief profile of the Directors on the Board of the ARC with their qualifications and experience;
+
+iii. Summary of financial information of the company for the last five years or since commencement of business of the company, whichever is shorter;
+
+iv. Details of Securitisation / Asset Reconstruction activities handled, if any, in the last eight years or since commencement of business, whichever is shorter. This shall *inter alia* include track record of returns generated for all SR investors on the schemes floated in the last eight years.
+
+v. Track record of recovery rating migration and engagement with credit rating agencies of schemes floated in the last eight years
+
+vi. Whether the scheme envisages the utilization of part of funds raised for restructuring of financial assets acquired out of such funds? If so, the percentage of funds raised which will be utilized for restructuring purposes.
+
+## **B. Terms of Offer**
+
+i. Objects of offer;
+
+ii. Description of the instrument giving particulars relating to its form, denomination, issue price, etc together with an averment that the transferability of SRs is restricted to the QBs;
+
+iii. Arrangements made for management of assets and extent of management fee charged by ARC;
+
+<span id="page-4-0"></span><sup>55</sup> Modified vid[e Circular No. DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12399&Mode=0)
+
+iv. Interest rate/ probable yield;
+
+v. Terms of payment of principal/ interest, date of maturity/ redemption;
+
+vi. Servicing and administration arrangement;
+
+vii. Details of credit rating, if any, and a summary of the rationale for the rating;
+
+viii. Description of assets being securitized including date of acquisition, valuation, and the interest of the ARC in the assets at the time of issue of SR;
+
+ix. Geographical distribution of asset pool;
+
+x. Residual maturity, interest rates, outstanding principal of the asset pool;
+
+xi. Nature and value of underlying security, expected cash flows, their quantum and timing, credit enhancement measures;
+
+xii. Policy for acquisition of assets and valuation methodology adopted;
+
+xiii. Terms of acquisition of assets from banks/ FIs;
+
+xiv. Details of performance record with the Originators;
+
+xv. Terms of replacement of assets, if any, to the asset pool;
+
+xvi. Statement of risk factors, particularly relating to future cash flows and steps taken to mitigate the same;
+
+xvii. Arrangements, if any, for implementing asset reconstruction measures in case of default;
+
+xviii. Duties of the Trustee;
+
+xix. Specific asset reconstruction measures, if any, on which approvals will be sought from investors;
+
+xx. Dispute Redressal Mechanism.
+
+#### **(2) Disclosure on quarterly basis**
+
+i. Defaults, prepayments, losses, if any, during the quarter;
+
+ii. Change in credit rating, if any;
+
+iii. Change in profile of the assets by way of accretion to or realisation of assets from the existing pool;
+
+iv. Collection summary for the current and previous quarter;
+
+v. Any other material information, which has a bearing on the earning prospects affecting the QBs.
+
+# **Guidance Notes for Asset Reconstruction Companies**
+
+The Bank has evolved Guidance Note, gist of which is given below. The words and expressions used in these notes shall have the same meaning as in the Act.
+
+## **(1) Acquisition of Financial Assets**
+
+i) Every ARC is required to evolve Asset Acquisition Policy within 90 days of getting the certificate of registration which shall, inter alia, provide that the transactions will take place in a transparent manner and at a fair price in a well-informed market, and the transactions are executed on arm's length basis by exercise of due diligence.
+
+ii) The share of financial assets to be acquired from the bank / FI should be appropriately and objectively worked out keeping in view the provision in the Act requiring consent of secured creditors holding not less than 60% of the amount outstanding to a borrower for the purpose of enforcement of security interest;
+
+iii) For easy and faster realisability, all the financial assets due from a single debtor to various banks/ FIs may be considered for acquisition. Similarly, financial assets having linkages to the same collateral may be considered for acquisition to ensure relatively faster and easy realisation.
+
+iv) Both fund and non-fund based financial assets may be included in the list of assets for acquisition. Assets classified as [56](#page-2-0)Special Mentioned Account (SMA) in the books of the originator may also be acquired.
+
+v) Acquisition of funded assets should not include takeover of outstanding commitments, if any, of any bank/ FI to lend further. Terms of acquisition of security interest in non-fund transactions, should provide for the relative commitments to continue with bank/ FI, till demand for funding arises.
+
+vi) Loans not backed by proper documentation should be avoided.
+
+vii) As far as possible, the valuat

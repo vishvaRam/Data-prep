@@ -1,0 +1,36 @@
+consolidated for the purpose of capital adequacy. This would ensure assessment of capital adequacy at the group level, taking into account the risk profile of assets and liabilities of the consolidated subsidiaries.
+
+3.4.2 The insurance and non-financial subsidiaries / joint ventures / associates etc. of a bank **should not** be consolidated for the purpose of capital adequacy. The equity and other regulatory capital investments in the insurance and non-financial subsidiaries will be deducted from consolidated regulatory capital of the group. Equity and other regulatory capital investments in the unconsolidated insurance and non-financial entities of banks (which also include joint ventures / associates of the parent bank) will be treated in terms of paragraphs 4.4.9 and 5.13.6 respectively.
+
+3.4.3 All regulatory adjustments indicated in paragraph 4.4 are required to be made to the consolidated capital of the banking group as indicated therein.
+
+3.4.4 Minority interest (i.e., non-controlling interest) and other capital issued out of consolidated subsidiaries as per paragraph 3.4.1 that is held by third parties will be recognized in the consolidated regulatory capital of the group subject to certain conditions as stipulated in paragraph 4.3.
+
+<sup>3</sup> Please refer to the Framework for [setting up of Wholly Owned Subsidiaries by Foreign Banks in India dated](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=29922)  [November 6, 2013.](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=29922)
+
+3.4.5 Banks should ensure that majority owned financial entities that are not consolidated for capital purposes and for which the investment in equity and other instruments eligible for regulatory capital status is deducted, meet their respective regulatory capital requirements. In case of any shortfall in the regulatory capital requirements in the unconsolidated entity, the shortfall shall be fully deducted from the Common Equity Tier 1 capital.
+
+3.4.6 It is clarified that group/ consolidated level capital adequacy would also mean application of consolidated capital adequacy norms to the Non-Operative Financial Holding Company (NOFHC) after consolidating the relevant entities held by it in terms of paragraph 3.1(a) above, in conjunction with the Guidelines for consolidated accounting and other quantitative methods to facilitate consolidated supervision issued vide circular dated [DBOD.No.BP.BC.72](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1071&Mode=0)  [/21.04.018/2001-02 dated February 25, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1071&Mode=0)<sup>4</sup> .
+
+3.4.7 Banks may refer to **[Annex 21](#page--1-0)** for guidelines on general permission for infusion of capital in overseas branches and banking subsidiaries and retention/ repatriation/ transfer of profits in these centres.
+
+## **3.5 Capital Adequacy at Solo Level**
+
+3.5.1 While assessing the capital adequacy of a bank at solo level, all regulatory adjustments indicated in paragraph 4.4 are required to be made. In addition, investments in the capital instruments of the subsidiaries, which are consolidated in the consolidated financial statements of the group, shall be deducted from the corresponding capital instruments issued by the bank.
+
+3.5.2 In case of any shortfall in the regulatory capital requirements in the unconsolidated entity (e.g., insurance subsidiary), the shortfall shall be fully deducted from the Common Equity Tier 1 capital.
+
+### **4. Composition of Regulatory Capital**
+
+## **4.1 General**
+
+Banks shall maintain a minimum Pillar 1 Capital to Risk-weighted Assets Ratio (CRAR) of 9% on an on-going basis (other than capital conservation buffer and countercyclical capital buffer etc.). The Reserve Bank will take into account the relevant risk factors and the internal capital adequacy assessments of each bank to ensure that the capital held by a bank is commensurate with the bank's overall risk profile. This would include, among others, the effectiveness of the bank's risk management systems in identifying, assessing / measuring, monitoring and managing various risks including interest rate risk in the banking book, liquidity risk, concentration risk and residual risk. Accordingly, the Reserve Bank will consider prescribing a higher level of minimum capital ratio for each bank under the Pillar 2 framework on the basis of their respective risk profiles and
+
+<sup>4</sup> Please refer [circular no. DBR.No.BP.BC.57/21.06.201/2015-16 dated November 19, 2015](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10124&Mode=0) on Non-Operative Financial Holding Company (NOFHC) – Application of Capital Adequacy Norms.
+
+their risk management systems. Further, in terms of the Pillar 2 requirements, banks are expected to operate at a level well above the minimum requirement. A bank should compute Basel III capital ratios in the following manner:
+
+
+\*Risk Weight Assets
+
+#Capital to Risk Weighted As

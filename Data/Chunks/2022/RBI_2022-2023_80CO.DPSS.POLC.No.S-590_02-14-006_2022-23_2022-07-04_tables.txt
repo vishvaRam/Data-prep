@@ -1,0 +1,80 @@
+| I   |   | Personal details of director                                                          |  |
+|-----|---|---------------------------------------------------------------------------------------|--|
+|     | A | Full name                                                                             |  |
+|     | B | Date of birth                                                                         |  |
+|     | C | Educational qualifications                                                            |  |
+|     | D | Background and relevant experience                                                    |  |
+|     | E | Permanent address                                                                     |  |
+|     | F | Present address                                                                       |  |
+|     | G | Director Identification Number (mandatory)                                            |  |
+|     | H | E-mail address / telephone number                                                     |  |
+|     | I | Permanent Account Number under the Income Tax Act and                                 |  |
+|     |   | name and address of Income Tax circle                                                 |  |
+|     | J | Any other information relevant to directorship of the company                         |  |
+|     | K | Director in the company since (previous details also in case of                       |  |
+|     |   | broken period)                                                                        |  |
+|     | L | a) Number of shares held in the company                                               |  |
+|     |   | b) Amount involved (face value of shares held in company in ₹)                        |  |
+| II  |   | Relevant relationships of director                                                    |  |
+|     | A | List of relatives if any who are connected with the company (refer                    |  |
+|     |   | Section 2 (77) of the Companies Act, 2013)                                            |  |
+|     | B | List of entities if any, in which she / he is considered as being                     |  |
+|     |   | interested (other directorships)                                                      |  |
+|     | C | List of entities in which she<br>/<br>he is considered as holding                     |  |
+|     |   | substantial interest                                                                  |  |
+|     | D | Cases, if any, where the director or entities listed in II (b) and (c)                |  |
+|     |   | above are in default or have been in default in the last five years                   |  |
+|     |   | in respect of credit facilities obtained from the bank or non-bank.                   |  |
+| III |   | Details of some key professional achievements in the areas of                         |  |
+|     |   | -<br>Technology and payment system / transaction                                      |  |
+|     |   | -<br>Human resources management / legal                                               |  |
+|     |   | -<br>Accounting / Finance                                                             |  |
+| IV  |   | Proceedings, if any, against the director                                             |  |
+|     | A | If the director is a member of a professional association / body,                     |  |
+|     |   | details of disciplinary action, if any, pending or commenced or                       |  |
+|     |   | resulting in conviction in the past against her / him or whether                      |  |
+|     |   | she / he has been banned from entry of at any profession /<br>occupation at any time. |  |
+|     | B | Details of prosecution, if any, pending or commenced or resulting                     |  |
+|     |   | in conviction in the past against her / him and / or against any of                   |  |
+|     |   |                                                                                       |  |
+
+|   |   | the entities listed in II (B) above for violation of economic laws              |             |
+|---|---|---------------------------------------------------------------------------------|-------------|
+|   |   | and regulations and similar statutory provisions of the respective              |             |
+|   |   | country.                                                                        |             |
+|   | C | Details of criminal prosecution, if any, pending or commenced or                |             |
+|   |   | resulting in conviction in the past against her / him.                          |             |
+|   | D | Whether she / he attracts any of the disqualifications envisaged                |             |
+|   |   | under Section 164 of the Companies Act, 2013 and similar                        |             |
+|   |   | statutory provision of the respective country?                                  |             |
+|   | E | Has she / he or any of the entities at II (B) and (C) above been                |             |
+|   |   | subject to any investigation at the instance of government                      |             |
+|   |   | department or agency? If so, give particulars.                                  |             |
+|   | F | Has she / he at any time been found guilty of violation of rules /              |             |
+|   |   | regulations / legislative requirements by customs / excise /                    |             |
+|   |   | income tax / foreign exchange / other revenue authorities? If so,               |             |
+|   |   | give particulars.                                                               |             |
+|   | G | Whether she / he at any time come to the adverse notice of                      |             |
+|   |   | regulators such as SEBI, RBI, IRDA, MCA, etc.                                   |             |
+|   | H | Whether her / his name appears or has at any time in the past                   |             |
+|   |   | appeared in the list of defaulters as published by CRISIL or                    |             |
+|   |   | whether she / he is connected as guarantor/director with entities               |             |
+|   |   | which are at default.                                                           |             |
+| V |   | Any other explanation / information in regard to items I to IV and              |             |
+|   |   | other information considered relevant for judging fit and proper                |             |
+|   |   | status of the director.                                                         |             |
+|   |   |                                                                                 |             |
+|   |   | Undertaking                                                                     |             |
+|   |   | I confirm that the above information is to the best of my knowledge and belief, |             |
+|   |   | true and complete. I undertake to keep the Company duly informed as soon as     |             |
+|   |   | possible, of all events which take place subsequent to my appointment and       |             |
+|   |   | which are relevant to the information provided above.                           |             |
+|   |   | Place:                                                                          |             |
+|   |   | Date:                                                                           | Signature   |
+|   |   |                                                                                 | of Director |
+
+| Sr.<br>No. | Name of<br>Shareholder/s | Shareholding Percentage<br>(5% or above) | Country of Registration /<br>Nationality |
+|------------|--------------------------|------------------------------------------|------------------------------------------|
+|            |                          |                                          |                                          |
+|            |                          |                                          |                                          |
+

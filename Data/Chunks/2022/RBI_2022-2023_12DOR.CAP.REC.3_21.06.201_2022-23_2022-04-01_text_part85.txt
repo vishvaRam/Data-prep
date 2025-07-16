@@ -1,0 +1,42 @@
+n adjusted by the ratio of net current replacement cost to gross current replacement cost (NGR). This is expressed through the following formula:
+
+ANet = 0.4 · AGross + 0.6 · NGR · AGross
+
+where:
+
+NGR = level of net replacement cost / level of gross replacement cost for transactions subject to legally enforceable netting agreements<sup>126</sup>
+
+AGross = sum of individual add-on amounts (calculated by multiplying the notional principal amount by the appropriate add-on factors set out in Table 9 of paragraph 5.15.3.5 and Tables 20 & 21 of paragraph 8.6.3) of all transactions subject to legally enforceable netting agreements with one counterparty.
+
+(b) For the purposes of calculating potential future credit exposure to a netting counterparty for forward foreign exchange contracts and other similar contracts in which the notional principal amount is equivalent to cash flows, the notional principal is defined as the net receipts falling due on each value date in each currency. The reason for this is that offsetting contracts in the same currency maturing on the same date will have lower potential future exposure as well as lower current exposure.
+
+16.4.3.5 *Treatment of related collateral*: collateral received in connection with derivative contracts has two countervailing effects on leverage:
+
+- it reduces counterparty exposure; but
+- it can also increase the economic resources at the disposal of the bank, as the bank can use the collateral to leverage itself.
+
+16.4.3.6 Collateral received in connection with derivative contracts does not necessarily reduce the leverage inherent in a bank's derivatives position, which is generally the case if the settlement exposure arising from the underlying derivative contract is not reduced. As a general rule, collateral received may not be netted against derivative exposures whether or not netting is permitted under the bank's operative accounting or risk-based framework. Therefore, it is advised that when calculating the exposure amount by applying paragraphs 16.4.3.2 to 16.4.3.4 above, a bank must not reduce the exposure amount by any collateral received from the counterparty.
+
+<sup>126</sup> Banks must calculate NGR on a counterparty by counterparty basis for all transactions that are subject to legally enforceable netting agreements.
+
+16.4.3.7 Similarly, with regard to collateral provided, banks must gross up their exposure measure by the amount of any derivatives collateral provided where the effect of providing collateral has reduced the value of their balance sheet assets under their operative accounting framework.
+
+16.4.3.8 *Treatment of cash variation margin*: in the treatment of derivative exposures for the purpose of the leverage ratio, the cash portion of variation margin exchanged between counterparties may be viewed as a form of pre-settlement payment, if the following conditions are met:
+
+(i) For trades not cleared through a qualifying central counterparty (QCCP)<sup>127</sup>, the cash received by the recipient counterparty is not segregated<sup>128</sup> .
+
+(ii) Variation margin is calculated and exchanged on a daily basis based on mark-to-market valuation of derivatives positions<sup>129</sup> .
+
+(iii) The cash variation margin is received in the same currency as the currency of settlement of the derivative contract<sup>130</sup> .
+
+(iv) Variation margin exchanged is the full amount that would be necessary to fully extinguish the mark-to-market exposure of the derivative subject to the threshold and minimum transfer amounts applicable to the counterparty<sup>131</sup> .
+
+(v) Derivatives transactions and variation margins are covered by a single master netting agreement (MNA)132,133 between the legal entities that are the counterparties in the derivatives transaction. The MNA must explicitly stipulate that the counterparties agree to settle net any payment obligations covered by such a netting agreement, taking into account any variation margin received or provided if a credit event occurs involving either counterparty. The MNA must
+
+<sup>127</sup> A QCCP is as defined in the paragraph 5.15.3.3.
+
+<sup>128</sup> Cash variation margin would satisfy the non-segregation criterion if the recipient counterparty has no restrictions on the ability to use the cash received (i.e., the cash variation margin received is used as its own cash). Further, this criterion would be met if the cash received by the recipient counterparty is not required to be segregated by law, regulation, or any agreement with the counterparty.
+
+<sup>129</sup> To meet this criterion, derivative positions must be valued daily and cash variation margin must be transferred daily to the counterparty or to the counterparty's account, as appropriate.
+
+<sup>130</sup> For this paragraph, currency of settlement means any currency of settlement specified in the derivative contract, governing qualifying master netting agreement (MNA), or the credit support annex (CSA) to the qualifying MNA. The Basel Co

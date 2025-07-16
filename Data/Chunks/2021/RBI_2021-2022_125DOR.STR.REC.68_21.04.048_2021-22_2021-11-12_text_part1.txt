@@ -1,0 +1,28 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+### RBI/2021-2022/125 DOR.STR.REC.68/21.04.048/2021-22 November 12, 2021
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) excluding Payments Banks All Primary (Urban) Co-operative Banks/State Co-operative Banks/District Central Cooperative Banks All-India Financial Institutions (Exim Bank, NABARD, NHB and SIDBI) All Non-Banking Financial Companies (including Housing Finance Companies)
+
+Madam/Dear Sir,
+
+# **Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances - Clarifications**
+
+Please refer to the [Master Circular on Prudential norms on Income Recognition, Asset](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171)  [Classification and Provisioning pertaining to Advances \(IRACP norms\) dated October 1,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171)  [2021.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171) With a view to ensuring uniformity in the implementation of IRACP norms across all lending institutions, certain aspects of the extant regulatory guidelines are being clarified and/or harmonized, which will be applicable *mutatis mutandis* to all lending institutions. Wherever references to circulars/instructions applicable to banks have been made, other lending institutions may refer to instructions as applicable to them. All the instructions in this circular, except those at paragraphs 2, 8-9 and 13, shall be effective immediately from the date of this circular.
+
+## **A. Specification of due date/repayment date**
+
+2. The extant instructions on IRACP norms specify that an amount is to be treated as overdue if it is not paid on the due date fixed by the bank. It has been observed that due dates for repayments are sometimes not specifically mentioned in the loan agreements, and instead a description of due dates is mentioned, leaving scope for different interpretations. Henceforth, the exact due dates for repayment of a loan, frequency of repayment, breakup between principal and interest, examples of SMA/NPA classification dates, etc. shall be clearly specified in the loan agreement and the borrower shall be apprised of the same at the time of loan sanction and also at the time of subsequent changes, if any, to the sanction terms/loan agreement till full repayment of the loan. In cases of loan facilities with moratorium on payment of principal and/or interest, the exact date of commencement of repayment shall also be specified in the loan agreements. These instructions shall be complied with at the earliest, but not later than December 31, 2021, in respect of fresh loans. In case of existing loans, however, compliance to these instructions shall necessarily be ensured as and when such loans become due for renewal/review.
+
+## **B. Classification as Special Mention Account (SMA) and Non-Performing Asset (NPA)[1](#page-1-0)**
+
+3. The [circular DBR.No.BP.BC.45/21.04.048/2018-19 dated June 7, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11580&Mode=0) on 'Prudential Framework for Resolution of Stressed Assets' requires the lenders to recognize incipient stress in borrower accounts, immediately on default, by classifying them as special mention accounts (SMA). In order to remove any ambiguity, it is clarified that the intervals are intended to be continuous and accordingly, the basis for classification of SMA categories shall be as follows:
+
+
+<span id="page-1-0"></span> <sup>1</sup> In case of NBFCs, the references to 90 days for SMA-2/NPA classification may be read as per the applicable norms and also subject to the provisions of th[e circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12179&Mode=0) on 'Scale Based Regulation (SBR): A Revised Regulatory Framework for NBFCs'.
+
+4. In the above context, it is further clarified that borrower accounts shall be flagged as overdue by the lending institutions as part of their day-end processes for the due date, irrespective of the time of running such processes. Similarly, classification of borrower accounts as SMA as well as NPA shall be done as part of day-end process for the relevant date and the SMA or NPA classification date shall be the calendar date for which the day end process is run. In other words, the date of SMA/NPA shall reflect the asset classification status of an account at the day-end of that calendar date.
+
+*Example: If due date of a loan account is March 31, 2021, and full dues are not received before the lending institution runs the day-end process for this date, the date of overdue shall be March 31, 2021. If it continues to remain overdue, then this account shall get tagged as SMA-1 upon running day-end process on April 30, 2021 i.e. upon completion of 30 days of being continuously overdue. Accordingly, the date of SMA-1 classification for t

@@ -1,0 +1,41 @@
+ Tier 1 or in Tier 2 capital, in addition to criteria for individual types of non-equity regulatory capital instruments mentioned in **[Annex 3, 4,](#page--1-0) [5](#page--1-1) and [6](#page--1-1)**, it must also meet or exceed minimum requirements set out in the following paragraphs.
+
+# **2. LOSS ABSORPTION OF ADDITIONAL TIER 1 (AT1) INSTRUMENTS AT THE PRE-SPECIFIED TRIGGER**
+
+### *I. Loss Absorption Features*
+
+2.1 One of the criteria for AT1 capital instruments<sup>217</sup> requires that these instruments should have principal loss absorption at an objective pre-specified trigger point through either:
+
+(i) conversion to common shares, or
+
+<sup>216</sup> Please refer to paragraph 2 of the [circular DBOD.No.BP.BC.38/21.06.201/2014-15 dated September 1, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9202&Mode=0) on Implementation of Basel III Capital Regulations in India-Amendments.
+
+<sup>217</sup> Please refer to the Appendices 4 & 5 of the [circular DBOD.No.BP.BC.98 /21.06.201/2011-12 dated May 2, 2012](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0) on 'Guidelines on Implementation of Basel III Capital Regulations in India'.
+
+(ii) a write-down mechanism which allocates losses to the instrument.
+
+The write-down shall have the following effects:
+
+- (a) reduce the claim of the instrument in liquidation;
+- (b) reduce the amount re-paid when a call is exercised; and
+- (c) partially or fully reduce coupon/dividend payments on the instrument.
+
+2.2 Accordingly, banks may issue AT1 instruments with either conversion<sup>218</sup> or write-down (temporary or permanent)<sup>219</sup> mechanism.
+
+## *II. Level of Pre-specified Trigger and Amount of Equity to be Created by Conversion / Write-down*
+
+2.3 The pre-specified trigger for loss absorption through conversion / write-down of Additional Tier 1 instruments (PNCPS and PDI) must be at least Common Equity Tier 1 capital of 6.125% of RWAs. The Write-down of any Common Equity Tier 1 capital shall not be required before a writedown of any Additional Tier 1 capital instrument.
+
+2.4 The conversion / write-down mechanism (temporary or permanent) which allocates losses to the Additional Tier 1 instruments (AT1) instruments must generate Common Equity Tier 1 (CET1) under applicable Indian Accounting Standards. The instrument will receive recognition in AT1 capital only upto the extent of minimum level of CET1 generated (i.e., net of contingent liability recognised under the Indian Accounting Standards, potential tax liabilities, etc., if any) by a full write-down / conversion of the instrument.
+
+2.5 Banks must obtain and keep on their records a certificate from the statutory auditors clearly stating that the conversion / write-down mechanism chosen by the bank for a particular AT1 issuance is able to generate CET1 under the prevailing accounting standards<sup>220</sup>. Further, banks must also obtain and keep on their records an external legal opinion confirming that the conversion or write-down of Additional Tier 1 capital instrument at the pre -specified trigger by the issuing bank is legally enforceable.
+
+<sup>218</sup> Conversion means conversion to common shares.
+
+<sup>219</sup> When a paid-up instrument is fully and permanently written-down, it ceases to exist resulting in extinguishment of a liability of a bank (a non-common equity instrument) and creates CET1. A temporary write-down is different from a conversion and a permanent write-down i.e., the original instrument may not be fully extinguished. Generally, the par value of the instrument is written-down (decrease) on the occurrence of the trigger event and which may be written-up (increase) back to its original value in future depending upon the conditions prescribed in the terms and conditions of the instrument. The amount shown on the balance sheet subsequent to temporary write-down may depend on the precise features of the instrument and the prevailing accounting standards.
+
+<sup>220</sup> Auditors certificate would be required not only at the time of issuance of the instruments, but also whenever there is a change in accounting norms / standards which may affect the ability of the loss absorbency mechanism of the instrument to create CET1
+
+2.6 The aggregate amount to be written-down / converted for all AT1 instruments on breaching the trigger level must be at least the amount needed to immediately return the bank's CET1 ratio to the trigger level or, if this is not possible, the full principal value of the instruments. Further, the issuer should have full discretion to determine the amount of AT1 instruments to be converted / written-down subject to the amount of conversion/write-down not exceeding the amount which would be required to bring the CET1 ratio to 8% of RWAs (minimum CET1 of 5.5% + capital conservation buffer of 2.5%).
+
+2.7 When a bank breaches the pre-specified trigger of loss absorbency of AT1 and the equity is replenished either through conversion or write

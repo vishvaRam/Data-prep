@@ -1,0 +1,40 @@
+ts
+
+With effect from March 31, 2005, a substandard asset would be one, which has remained NPA for a period less than or equal to 12 months. Such an asset will have well defined credit weaknesses that jeopardise the liquidation of the debt and are characterised by the distinct possibility that the banks will sustain some loss, if deficiencies are not corrected.
+
+#### 4.1.2 Doubtful Assets
+
+With effect from March 31, 2005, an asset would be classified as doubtful if it has remained in the substandard category for a period of 12 months. A loan classified as doubtful has all the weaknesses inherent in assets that were classified as substandard, with the added characteristic that the weaknesses make collection or liquidation in full, – on the basis of currently known facts, conditions and values – highly questionable and improbable.
+
+### 4.1.3 Loss Assets
+
+A loss asset is one where loss has been identified by the bank or internal or external auditors or the RBI inspection but the amount has not been written off wholly. In other words, such an asset is considered uncollectible and of such little value that its continuance as a bankable asset is not warranted although there may be some salvage or recovery value.
+
+# 4.2Guidelines for classification of assets 4.2.1 General
+
+Broadly speaking, classification of assets into above categories should be done taking into account the degree of well-defined credit weaknesses.
+
+## 4.2.2 Appropriate internal systems for proper and timely identification of NPAs
+
+Banks should establish appropriate internal systems (including technology enabled processes) for proper and timely identification of NPAs, including putting in the necessary infrastructure to comply with the requirements of the [circular DoS.CO.PPG./SEC.03/11.01.005/2020-21 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11964&Mode=0)  [September 14, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11964&Mode=0) on Automation of Income Recognition, Asset Classification and Provisioning processes in banks (as updated).
+
+### 4.2.3 Availability of security / net worth of borrower/ guarantor
+
+The availability of security or net worth of borrower/ guarantor should not be taken into account for the purpose of treating an advance as NPA or otherwise, except to the extent provided in Paragraph 4.2.9.
+
+### 4.2.4 Accounts with temporary deficiencies
+
+The classification of an asset as NPA should be based on the record of recovery. Bank should not classify an advance account as NPA merely due to the existence of some deficiencies which are temporary in nature such as non-availability of adequate drawing power based on the latest available stock statement, balance outstanding exceeding the limit temporarily, non-submission of stock statements and non-renewal of the limits on the due date, etc. In the matter of classification of accounts with such deficiencies banks may follow the following guidelines:
+
+- a) Banks should ensure that drawings in the working capital accounts are covered by the adequacy of current assets, since current assets are first appropriated in times of distress. Drawing power is required to be arrived at based on the stock statement which is current. However, considering the difficulties of large borrowers, stock statements relied upon by the banks for determining drawing power should not be older than three months. The outstanding in the account based on drawing power calculated from stock statements older than three months, would be deemed as irregular.
+- b) A working capital borrowal account will become NPA if such irregular drawings are permitted in the account for a continuous period of 90 days even though the unit may be working or the borrower's financial position is satisfactory.
+
+c) Regular and *ad hoc* credit limits need to be reviewed/ regularised not later than three months from the due date/date of ad hoc sanction. In case of constraints such as nonavailability of financial statements and other data from the borrowers, the branch should furnish evidence to show that renewal/ review of credit limits is already on and would be completed soon. In any case, delay beyond six months is not considered desirable as a general discipline. Hence, an account where the regular/ ad hoc credit limits have not been reviewed/ renewed within 180 days from the due date/ date of ad hoc sanction will be treated as NPA.
+
+### 4.2.5 Upgradation of loan accounts classified as NPAs
+
+If arrears of interest and principal are paid by the borrower in the case of loan accounts classified as NPAs, the account should no longer be treated as nonperforming and may be classified as 'standard' accounts. With regard to upgradation of accounts classified as NPA due to restructuring, non-achievement of DCCO, etc., the instructions as specified for such cases shall be applicable.
+
+#### 4.2.6 Accounts regularised near about the balance sheet date
+
+The asset classification of borrowal accounts where a solitary or 

@@ -1,0 +1,67 @@
+ the matter.
+
+## 32. Registration of Transactions with CERSAI
+
+In terms of [circular DBOD.Leg.No.BC.86/09.08.011/2010-11 dated April 21, 2011](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=6356&Mode=0) on 'Setting up of Central Electronic Registry under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act 2002', as amended from time to time, banks are required to register, on an ongoing basis, the transactions relating to securitization and reconstruction of financial assets on the CERSAI portal. Banks also need to file, on an ongoing basis, the following types of security interest on the CERSAI portal to secure any loans or advances:
+
+- a) particulars of creation, modification, or satisfaction of security interest in mortgage by deposit of title deeds;
+- b) particulars of creation, modification, or satisfaction of security interest in mortgage other than mortgage by deposit of title deeds;
+- c) particulars of creation, modification, or satisfaction of security interest in hypothecation of plant and machinery, stocks, debts including book debts or receivables, whether existing or future.
+- d) particulars of creation, modification, or satisfaction of security interest in intangible assets, being know how, patent, copyright, trademark, licence, franchise or any other business or commercial right of similar nature.
+- e) particulars of creation, modification, or satisfaction of security interest in any 'under construction' residential or commercial or a part thereof by an agreement or instrument other than mortgage.
+
+# 33. Board Oversight
+
+33.1 The Board of Directors of banks should take all necessary steps to arrest the deteriorating asset quality in their books and should focus on improving the credit risk management system. Early recognition of problems in asset quality and resolution envisaged in these guidelines requires the lenders to be proactive and make use of CRILC.
+
+33.2 The boards of banks should put in place a system for proper and timely classification of borrowers as wilful defaulters or/and non-cooperative borrowers. Further, Boards of banks should periodically review the accounts classified as such, say on a half yearly basis.
+
+## PART D - ANNEXES
+
+Annex - 1
+
+## Details of Gross Advances, Gross NPAs, Net Advances and Net NPAs
+
+
+## **Part B**
+
+### **Supplementary Details**
+
+
+### **Annex – 2**
+
+#### Activities eligible for crop season linked asset classification norms
+
+#### *Farm Credit*
+
+A. Loans to individual farmers [including Self Help Groups (SHGs) or Joint Liability Groups (JLGs), i.e. groups of individual farmers, provided banks maintain disaggregated data of such loans], directly engaged in Agriculture only. This will include:
+
+- (i) Crop loans to farmers, which will include traditional / non-traditional plantations and horticulture.
+- (ii) Medium and long-term loans to farmers for agriculture (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm.)
+- (iii) Loans to farmers for pre and post-harvest activities, viz., spraying, weeding, harvesting, sorting, grading and transporting of their own farm produce.
+- (iv) Loans to farmers up to 50 lakh against pledge / hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months.
+- (v) Loans to distressed farmers indebted to non-institutional lenders.
+- (vi) Loans to farmers under the Kisan Credit Card Scheme.
+- (vii) Loans to small and marginal farmers for purchase of land for agricultural purposes.
+
+B. Loans to corporate farmers, farmers' producer organizations / companies of individual farmers, partnership firms and co-operatives of farmers directly engaged in Agriculture only up to an aggregate limit of 2 crore per borrower. This will include:
+
+- (i) Crop loans to farmers which will include traditional / non-traditional plantations and horticulture.
+- (ii) Medium and long-term loans to farmers for agriculture (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm.)
+- (iii) Loans to farmers for pre and post-harvest activities, viz., spraying, weeding, harvesting, sorting, grading and transporting of their own farm produce.
+
+(iv) Loans up to 50 lakh against pledge / hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months.
+
+C. Bank loans to Primary Agricultural Credit Societies (PACS), Farmers' Service Societies (FSS) and Large-sized Adivasi Multi- Purpose Societies (LAMPS) for on-lending to agriculture.
+
+#### Annex – 3
+
+
+# Format for Computing Countercyclical Provisioning Buffer
+
+Column 3 of Row 4)\*100}
+
+
+## Disclosure of Write-Offs & Technical Write-Offs
+
+Instructions contained in our [circular DBOD.BP.BC.No.79/21.04.018/2009-10 dated March 15,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5533&Mode=0)  [2010](https://www.rbi

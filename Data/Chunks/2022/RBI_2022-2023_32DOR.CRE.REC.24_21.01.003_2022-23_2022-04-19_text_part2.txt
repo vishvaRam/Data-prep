@@ -1,0 +1,41 @@
+ad to another due to a one-way or two-way dependence on the same main funding source.
+
+- In order to avoid cases where a thorough investigation of economic interdependencies will not be proportionate to the size of the exposures, NBFC-UL are expected to identify possible connected counterparties on the basis of economic interdependence in all cases where the sum of all exposures to one individual counterparty exceeds 5% of the eligible capital base, and not in other cases.
+- 2.6 "Large Exposure" ("LE") means the sum of all exposure values of a NBFC-UL measured in terms of paragraph [6](#page--1-2) of these instructions, to a counterparty and/ or a group of connected counterparties, if it is equal to or above 10 percent of the NBFC-UL's eligible capital base.
+
+### **3 Scope of application**
+
+- 3.1 The guidelines shall be applicable to NBFC-UL, both at the solo level and at the consolidated (group) level.
+- 3.2 Exposure shall comprise both on and off-balance sheet exposures by the NBFC-UL.
+
+# **4 Scope of counterparties and exemptions**
+
+- <span id="page-3-0"></span>4.1 NBFC-UL's exposure to all its counterparties and groups of connected counterparties, excluding the exposures listed below, will be considered for exposure limits. The exposures that are exempted from the LEF are listed below:
+	- a) Exposure to the Government of India and State Governments which are eligible for zero percent risk weight under capital regulations applicable to NBFC-UL;
+	- b) Exposure where the principal and interest are fully guaranteed by the Government of India;
+	- c) NBFC-UL's exposure to group entities that is deducted from its Owned Funds to arrive at the NOF.
+	- d) Investment in the equity capital of the insurance company to the extent specifically permitted in writing by the Bank.
+- 4.2 Exposures shall be permitted to be offset with credit risk transfer instruments as per principle indicated at paragraph 6.1 of the Annex and the indicative list of such instruments is provided below:
+	- a) Cash margin/ caution money/ security deposit against which right to set off is available, held as collateral against the advances;
+	- b) Central Government guaranteed claims which attract 0% risk weight for capital computation;
+	- c) State Government guaranteed claims which attract 20% risk weight for capital computation;
+	- d) For corporate bonds held in current category and hedged by Credit Default Swap (CDS), where there is no mismatch between the CDS and the hedged bond, the credit protection has been permitted to be recognised to a maximum of 80% of the exposure hedged. The remaining 20% of the exposure shall be recognised on the original counterparty. For corporate bonds held in permanent category and hedged by CDS where there is no mismatch between the CDS and the hedged bond, the NBFC-UL can recognise full credit protection for the underlying asset. The exposure of the original counterparty shall stand fully substituted by the exposure to the protection seller.
+
+Except for 4.2 (a) and (b) above, in all other cases where exposure to the original counterparty is reduced on account of an eligible credit risk transfer instrument provided by another counterparty for that exposure, it needs to be recognized as an exposure to that extent on the credit risk transfer instrument provider.
+
+4.3 Where two (or more) entities falling outside the scope of the sovereign exemption are controlled by or are economically dependent on an entity that falls within the scope of the sovereign exemption {paragraph [4.1\(](#page-3-0)a)}, and are otherwise not connected, those entities will not be deemed to constitute a group of connected counterparties.
+
+- 4.4 NBFC-UL's exposure to an exempted entity which is hedged by a credit derivative shall be treated as an exposure to the counterparty providing the credit protection notwithstanding the fact that the original exposure is exempted.
+- 4.5 NBFC-UL which is held by an NOFHC shall not
+	- a) have any exposure (credit and investments including investments in the equity/ debt capital instruments) to the Promoters/ Promoter Group entities or individuals associated with the Promoter Group or the NOFHC;
+	- b) Make investment in the equity/ debt capital instruments in any of the financial entities under the NOFHC;
+	- c) Invest in equity instruments of other NOFHCs.
+
+**Explanation:** For the purposes of this paragraph, the expression, "Promoter" and Promoter group" shall have the meaning assigned to those expressions in the "Guidelines for licensing of New Banks in the Private Sector" issued by the Bank.
+
+## **5 The Large Exposure limits**
+
+## 5.1 **Single Counterparty:**
+
+- a) The sum of all the exposure values of an NBFC-UL to a single counterparty must not be higher than 20 percent of the NBFC-UL's available eligible capital base at all times.
+- b) Board of the NBFC-UL may allow additional 5 percent exposure beyond 20 percent but at no time higher than 25% of the NBFC-UL's eligible capital base, subject to the f

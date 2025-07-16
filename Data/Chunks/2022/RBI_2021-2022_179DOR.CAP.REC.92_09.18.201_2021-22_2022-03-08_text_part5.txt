@@ -1,0 +1,56 @@
+r regulatory authorities in regard to issue of the Tier II preference shares, provided they are not in conflict with any terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier II capital.
+
+### **2.13 Compliance with Reserve Requirements**
+
+2.13.1 The total amount raised by a bank through the issue of these instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR / SLR requirements.
+
+2.13.2 The amount collected from members / prospective investors and held pending allotment shall not be reckoned for calculation of capital funds until the allotment process is over.
+
+### **2.14 Reporting Requirements**
+
+UCBs issuing these instruments shall submit a report to the concerned RO of DoS, RBI, giving details of the capital raised, including the terms and conditions of issue together with a copy of the Prospectus / Offer Document soon after the issue is completed.
+
+# **2.15 Investments in Tier-II preference shares and advances for purchase of Tier-II preference shares**
+
+UCBs shall not grant any loan or advance to any person for purchasing their own Tier-II preference shares or Tier-II preference shares of other banks. UCBs shall not invest in Tier-II preference shares issued by other banks and shall not grant advances against the security of Tier-II preference shares issued by them or other banks.
+
+\*\*\*\*
+
+![](_page_0_Picture_0.jpeg)
+
+#### **Annex-II**
+
+#### **Guidelines on issuance of Debt Capital Instruments**
+
+# **A. Perpetual Debt Instrument (PDI) eligible for inclusion in Tier-I Capital**
+
+UCBs may issue Perpetual Debt Instruments (PDI) as bonds or debentures to their members or any other person residing within their area of operation, with the prior approval of RBI. The UCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum to the concerned Regional Office of the RBI. A certificate from a Chartered Accountant to the effect that the terms of the offer document are in compliance with these instructions shall also be submitted along with the application. PDI can also be issued through conversion of a portion of existing deposits of the Institutional Depositors as a part of revival plan / financial reconstruction of the UCB with consent of depositors. The amounts raised through PDI shall comply with the following terms and conditions to qualify for inclusion as Tier I capital.
+
+### **2. Terms of Issue**
+
+## **2.1 Limit**
+
+- i. The amount of PDI reckoned for Tier-I capital shall not exceed 15 per cent of total Tier-I capital[3](#page-0-0). The outstanding Innovative Perpetual Debt Instruments (IPDI)[4](#page-0-1) shall also be covered in the aforementioned ceiling of 15 per cent and reckoned for capital purposes as hitherto. PDI in excess of the above limits shall be eligible for inclusion under Tier-II capital, subject to the limits prescribed for Tier-II capital. However, investors' rights and obligations would remain unchanged.
+- ii. The aforesaid ceiling of 15 per cent for PDI can be exceeded with prior RBI approval, if PDI are issued as part of revival plan / financial reconstruction of UCBs.
+- iii. The eligible amount shall be computed with reference to the amount of Tier-I capital as on March 31 of the previous year, after deduction of goodwill, DTA and other intangible assets, but before deduction of equity investment in subsidiaries, if any.
+
+#### **2.2 Amount**
+
+The amount of PDI to be raised may be decided by the Board of Directors of banks.
+
+<span id="page-0-0"></span> <sup>3</sup> *Reference is invited to para 2.1 of Annex 1 as per which the outstanding amount of PNCPS and Perpetual Debt Instruments (PDI) along with outstanding Innovative Perpetual Debt Instruments (IPDI) shall not exceed 35 per cent of total Tier-I capital at any point of time*
+
+<span id="page-0-1"></span><sup>4</sup> *Issued in terms of circular [UCB.PCB.Cir.No.39/09.16.900/2008-09](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4782&Mode=0) dated January 23, 2009 on Financial Restructuring of UCBs.*
+
+![](_page_1_Picture_0.jpeg)
+
+# **2.3 Maturity**
+
+These instruments shall be perpetual.
+
+# **2.4 Options**
+
+- 2.4.1 The PDI shall not be issued with a 'put option' or 'step-up' option.
+- 2.4.2 However, PDI may be issued with a call option subject to following conditions:
+	- a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+	- b) Call option shall be exercised only with the prior approval of Department of Regulation (DoR), RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and

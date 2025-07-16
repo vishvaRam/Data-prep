@@ -1,0 +1,35 @@
+ng the bonds may identify a nodal office/branch for the purpose. The applications received at the various branches or offices may be forwarded to the nodal branch/office for further processing after preliminary scrutiny. Processing of the requests may be made part of the Citizen's Charter of the ROs and other entities and the time line may be strictly adhered to. Details of the contact persons in these offices/branches may be given due publicity and effective customer grievance redressal mechanisms may be put in place and the same should be communicated to Reserve Bank of India. In addition, the contact details of a senior level functionary, not below the rank of Chief General Manager may also be advised to RBI. The ROs shall also keep us informed of the change in contact details from time to time.
+
+## **2. Application**
+
+(i) ROs are authorized to receive Application forms from eligible investors at the branches either directly or through agents. Applications shall be received at branches during normal banking hours on the weeks of subscription as notified by GOI/RBI from time to time. Subscription of the from shall be made in prescribed application Form A.
+
+(ii) Every application must be accompanied by the 'PAN details' issued by the Income Tax Department to the investor(s). Relevant additional details may be obtained from the applicants, where necessary.
+
+(ii) The Investor ID generated from RBI's E-Kuber is a unique id which is created while applying for SGB or Inflation Indexed National Savings Securities- Cumulative, 2013 (IINSC-C**)**. In case the applicant already has an investor ID issued by RBI's E-Kuber portal for above investment in any of the earlier tranches, the same should invariably be quoted by investor while making any subsequent applications.
+
+(iii) While accepting applications, ROs may ascertain from the applicant the details of existing investor ID if any. In case of failure to quote the same, the E-Kuber portal shall reject the application, while uploading the same.
+
+(iv) All payments for subscription to SGB shall be accepted in Indian Rupees through cash up to a maximum of Rs.20,000/- or cheque/ demand drafts/electronic banking. The cheque/ demand drafts shall be drawn in favour of the RO. The payments for applications received for SGBs to be held in RDG Account shall be made through electronic banking only.
+
+(v) ROs need to ensure that the application is complete in all respects as incomplete applications are liable to be rejected.
+
+(vi) The ROs may make arrangements to enable the investors to apply online, in the interest of better customer service. While providing online services, it is the responsibility of ROs to ensure that all relevant fields for capturing details of applicant, mode of holding and other details as per the terms and conditions specified in Notification are duly provided for. All online applications should be accompanied by email Id of the investor/s which should be uploaded on the Ekuber portal along with the subscription details.
+
+(vii) On receipt of complete application as above, the ROs shall issue an acknowledgement receipt in Form B.
+
+(vii) An incomplete application is liable to be rejected if all the requirements of the application are not fulfilled within the period specified for subscription.
+
+(viii) The cancellation of bonds is permitted till the closure of issue. However, no part cancellation of the application is permitted. No request for cancellation of the bond after closure of the issue shall be entertained under any circumstances.
+
+(ix) The ROs are required to enter the data or carry out bulk upload for the subscriptions received by them in RBI's E-Kuber portal. They shall ensure accuracy of data to prevent occurrence of any inadvertent errors. An immediate confirmation will be provided to them for receipt of application. In addition, a confirmation scroll will be provided for file uploads to enable the ROs to update their database.
+
+(x) The applicants are eligible for payment of interest on the subscription amount at savings bank rate from the date of application/realisation of fund up to the date of allotment i.e. the period for which the investor is out of funds. No interest is payable, in case the application is rejected for any reason attributable to the investor.
+
+(xi) The status of application rejected by RBI's E-Kuber system should be notified by ROs and subscription amount refunded without any delay to the customer.
+
+(xii) Any delay on the part of ROs to refund the amount to any applicant, whose application is rejected will attract penalty @ Repo rate +2% for each day of delay.
+
+# **3. Allotment of Bonds and Generation of "Certificates of Holding (COH)":**
+
+(i) On the date of allotment, the "Certificates of Holding" are generated for all the successful subscriptions by RBI. These are sent to the customers who have provided their e-mail Ids. The ROs can also download the certificates from RBI's E-Kuber portal and are required to provide the

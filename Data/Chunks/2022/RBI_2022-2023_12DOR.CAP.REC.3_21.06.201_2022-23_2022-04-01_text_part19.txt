@@ -1,0 +1,59 @@
+ CRAR prescribed by the concerned bank regulator(s).
+
+5.6.4 However, in case a Host Supervisor requires a more conservative treatment for such claims in the books of the foreign branches of the Indian banks, they should adopt the requirements prescribed by the Host supervisor for computing capital adequacy.
+
+# **5.7 Claims on Primary Dealers**
+
+Claims on Primary Dealers shall be risk weighted in a manner similar to claims on corporates.
+
+# **5.8 Claims on Corporates and NBFCs**
+
+5.8.1 Claims on corporates<sup>36</sup> , and exposures to all NBFCs<sup>37</sup>, excluding Core Investment Companies (CICs), will be risk weighted as per the ratings assigned by the rating agencies
+
+ <sup>34</sup> Please refer to [Circular DOR.No.BP.BC.43/21.01.003/2019-20 dated March 23, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11827&Mode=0) on "Large Exposures Framework"
+
+<sup>35</sup> For example: A Euro denominated claim of SBI branch in Paris on BNP Paribas, Paris which is funded from out of the Euro denominated deposits of SBI, Paris will attract a 20 per cent risk weight irrespective of the rating of the claim, provided BNP Paribas complies with the minimum CRAR stipulated by its regulator/supervisor in France. If BNP Paribas were breaching the minimum CRAR, the risk weight will be as indicated in Table 3 above.
+
+<sup>36</sup> Claims on corporates will include all fund based and non-fund based exposures other than those which qualify for inclusion under 'sovereign', 'bank', 'regulatory retail', 'residential mortgage', 'non performing assets', specified category addressed separately in these guidelines.
+
+<sup>37</sup> Please refer [circular DBR.BP.BC.No.25/21.06.001/2018-19 dated February 22, 2019](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11479&Mode=0) on Risk Weights for exposures to NBFCs
+
+registered with SEBI and accredited by the Reserve Bank of India,. Exposures to CICs, rated as well as unrated, will be risk-weighted at 100%. The following table indicates the risk weight applicable to claims on corporates and exposures to all NBFCs, excluding CICs.
+
+**Table 5: Part A – Long term Claims on Corporates and NBFCs excluding CICs – Risk Weights**
+
+
+**Table 5: Part B – Short term Claims on Corporates and NBFCs excluding CICs – Risk Weights**
+
+
+### **Note:**
+
+- (i) No claim on an unrated corporate may be given a risk weight preferential to that assigned to its sovereign of incorporation.
+- (ii) Claims on corporates and NBFCs, except CICs, having aggregate exposure from banking system of more than ₹100 crore which were rated earlier and subsequently have become unrated will attract a risk weight of 150%.
+- (iii) All unrated claims on corporates and NBFCs, except CICs, having aggregate exposure from banking system of more than ₹200 crore will attract a risk weight of 150%.
+
+5.8.2 The Reserve Bank may increase the standard risk weight for unrated claims where a higher risk weight is warranted by the overall default experience. As part of the supervisory review process, the Reserve Bank would also consider whether the credit quality of unrated corporate claims held by individual banks should warrant a standard risk weight higher than 100 per cent.
+
+<sup>38</sup> Please refer t[o circular DBOD.BP.BC.No.59/21.06.007/2013-14 dated October 17, 2013.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8510&Mode=0)
+
+5.8.3 The claims on non-resident corporates will be risk weighted as under as per the ratings assigned by international rating agencies.
+
+
+#### **Table 6: Claims on Non-Resident Corporates – Risk Weights**
+
+### **Note:**
+
+- (i) Unrated claims having aggregate exposure from banking system of more than ₹200 crore will attract a risk weight of 150%.
+- (ii) Claims with aggregate exposure from banking system of more than ₹100 crore which were rated earlier and subsequently have become unrated will attract a risk weight of 150%.
+
+## **5.9 Claims included in the Regulatory Retail Portfolios**
+
+5.9.1 Claims (including both fund-based and non-fund based) that meet all the four criteria listed below in paragraph 5.9.3 may be considered as retail claims for regulatory capital purposes and included in a regulatory retail portfolio. Claims included in this portfolio shall be assigned a riskweight of 75 per cent, except as provided in paragraph 5.12 below for non-performing assets.
+
+5.9.2 The following claims, both fund based and non-fund based, shall be excluded from the regulatory retail portfolio:
+
+- (a) Exposures by way of investments in securities (such as bonds and equities), whether listed or not;
+- (b) Mortgage Loans to the extent that they qualify for treatment as claims secured by residential property<sup>39</sup> or claims secured by commercial real estate<sup>40</sup>;
+- (c) Loans and Advances to bank's own staff which are fully covered by superannuation benefits and / or mortgage of flat/ house;
+- (d) Consumer Credit, including Personal Loans and credit card receivables;
+- (e) Capital Market Expos

@@ -1,0 +1,16 @@
+| Para No    | Particulars                                                               |
+|------------|---------------------------------------------------------------------------|
+| A          | Purpose                                                                   |
+| B          | Previous Instructions                                                     |
+| C          | Applicability                                                             |
+| D          | Definitions                                                               |
+| 1          | Opening of Current Accounts for borrowers availing Cash Credit/ Overdraft |
+|            | Facilities from the Banking System                                        |
+| 2          | Opening of Current Accounts for borrowers not availing Cash Credit/       |
+|            | Overdraft Facilities from the banking system                              |
+| 3          | Opening of Cash Credit/ Overdraft Facilities                              |
+| 4          | Exemptions Regarding Specific Accounts                                    |
+| 5          | Other Instructions                                                        |
+| Appendix 1 | Flow Chart –<br>Opening of Current Accounts                               |
+| Appendix 2 | Flow Chart –<br>Opening of Cash Credit/<br>Overdraft Accounts             |
+

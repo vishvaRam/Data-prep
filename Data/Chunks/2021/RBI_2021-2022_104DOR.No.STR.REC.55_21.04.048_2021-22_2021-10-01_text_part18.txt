@@ -1,0 +1,53 @@
+between lenders and borrower / creation of security charge / perfection of securities, are completed by the lenders concerned in consonance with the RP being implemented;
+	- ii. the new capital structure and/or changes in the terms of conditions of the existing loans get duly reflected in the books of all the lenders and the borrower; and,
+	- iii. borrower is not in default with any of the lenders.
+
+10.3 A RP which involves lenders exiting the exposure by assigning the exposures to third party or a RP involving recovery action shall be deemed to be implemented only if the exposure to the borrower is fully extinguished.
+
+11.Delayed Implementation of Resolution Plan
+
+11.1 Where a viable RP in respect of a borrower is not implemented within the timelines given below, all lenders shall make additional provisions as under:
+
+
+11.2 The additional provisions shall be made over and above the higher of the following, subject to the total provisions held being capped at 100% of total outstanding:
+
+- a) The provisions already held; or,
+- b) The provisions required to be made as per the asset classification status of the borrower account.
+
+11.3 The additional provisions shall be made by all the lenders with exposure to such borrower.
+
+11.4 The additional provisions shall also be required to be made in cases where the lenders have initiated recovery proceedings, unless the recovery proceedings are fully completed.
+
+11.5 The above additional provisions may be reversed as under:
+
+- a) Where the RP involves only payment of overdues by the borrower the additional provisions may be reversed only if the borrower is not in default for a period of 6 months from the date of clearing of the overdues with all the lenders;
+- b) Where RP involves restructuring/change in ownership outside IBC the additional provisions may be reversed upon implementation of the RP;
+- c) Where resolution is pursued under IBC half of the additional provisions made may be reversed on filing of insolvency application and the remaining additional provisions may be reversed upon admission of the borrower into the insolvency resolution process under IBC; or,
+- d) Where assignment of debt/recovery proceedings are initiated the additional provisions may be reversed upon completion of the assignment of debt/recovery.
+
+## 12.Prudential Norms
+
+The prudential norms applicable to any restructuring/change in ownership, whether under the IBC framework or outside the IBC, are contained in Part B2[12](#page-3-0) of this Master Circular.
+
+13. Supervisory Review
+
+Any action by lenders with an intent to conceal the actual status of accounts or evergreen the stressed accounts, will be subjected to stringent supervisory / enforcement actions as deemed appropriate by the Reserve Bank, including, but not limited to, higher provisioning on such accounts and monetary penalties[13.](#page-3-1)
+
+<span id="page-3-0"></span> <sup>12</sup> During the period when the RP is being finalised and implemented, the usual asset classification norms would continue to apply subject to additional provisioning requirements of this circular. The process of re-classification of an asset should not stop merely because RP is under consideration.
+
+<span id="page-3-1"></span><sup>13</sup> This may be in addition to direction to bank/s to file insolvency application under the IBC.
+
+14.Disclosures
+
+Lenders shall make appropriate disclosures in their financial statements, under 'Notes on Accounts', relating to RPs implemented.
+
+## 15. Exemptions
+
+15.1 Paragraphs 9, 10 and 11 above shall not be applicable to revival and rehabilitation of MSMEs covered by the instructions contained in [Circular No. FIDD.MSME & NFS.BC.No.21/](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10304&Mode=0)  [06.02.31/2015-16 dated March 17, 2016,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10304&Mode=0) as amended from time to time.
+
+15.2 Part B1 of this Master Circular shall not be available for borrower entities in respect of which specific instructions have already been issued or are issued by the Reserve Bank to the banks for initiation of insolvency proceedings under the IBC. Lenders shall pursue such cases as per the specific instructions issued to them.
+
+15.3 Resolution of Covid-19 related stress implemented under the following circulars shall be subject to the specific requirements, including the prudential norms, specified therein:
+
+- (i) [DOR.No.BP.BC/3/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11941&Mode=0) on "Resolution Framework for COVID-19-related Stress" read with [DOR.No.BP.BC/13/21.04.048/2020-21 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0)  [September 7, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0) on "Resolution Framework for COVID-19-related Stress – Financial Parameters";
+- (ii) [DOR.No.BP.BC/4/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/Noti

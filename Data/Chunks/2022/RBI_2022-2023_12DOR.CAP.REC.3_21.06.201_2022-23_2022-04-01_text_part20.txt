@@ -1,0 +1,33 @@
+ures;
+- (f) Venture Capital Funds.
+
+# **5.9.3 Qualifying Criteria**
+
+(i) *Orientation Criterion* - The exposure (both fund-based and non fund-based) is to an individual person or persons or to a small business; Person under this clause would mean any legal person capable of entering into contracts and would include but not be restricted to individual and HUF; small business would include partnership firm, trust, private limited
+
+<sup>39</sup> Mortgage loans qualifying for treatment as 'claims secured by residential property' are defined in paragraph 5.10.
+
+<sup>40</sup> As defined in paragraph 5.11.1.
+
+companies, public limited companies, co-operative societies etc. Small business is one where the total average annual turnover is less than ₹50 crore. The turnover criterion will be linked to the average of the last three years in the case of existing entities; projected turnover in the case of new entities; and both actual and projected turnover for entities which are yet to complete three years.
+
+(ii) *Product Criterion* - The exposure (both fund-based and non-fund-based) takes the form of any of the following: revolving credits and lines of credit (including overdrafts), term loans and leases (e.g., instalment loans and leases, student and educational loans) and small business facilities and commitments.
+
+(iii) *Granularity Criterion* - Banks must ensure that the regulatory retail portfolio is sufficiently diversified to a degree that reduces the risks in the portfolio, warranting the 75 per cent risk weight. One way of achieving this is that no aggregate exposure to one counterpart should exceed 0.2 per cent of the overall regulatory retail portfolio. '*Aggregate exposure*' means gross amount (i.e., not taking any benefit for credit risk mitigation into account) of all forms of debt exposures (e.g., loans or commitments) that individually satisfy the three other criteria. In addition, 'one counterpart' means one or several entities that may be considered as a single beneficiary (e.g., in the case of a small business that is affiliated to another small business, the limit would apply to the bank's aggregated exposure on both businesses). While banks may appropriately use the group exposure concept for computing aggregate exposures, they should evolve adequate systems to ensure strict adherence with this criterion. NPAs under retail loans are to be excluded from the overall regulatory retail portfolio when assessing the granularity criterion for risk-weighting purposes.
+
+(iv) *Low value of individual exposures* - The maximum aggregated retail exposure to one counterpart should not exceed the absolute threshold limit of ₹7.5 crore.
+
+Note: The threshold limit referred above was raised from ₹5 crore to ₹7.5 crore vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11981&Mode=0)  [no. DOR.No.BP.BC.23/21.06.201/2020-21 dated October 12, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11981&Mode=0) on 'Regulatory Retail Portfolio – Revised Limit for Risk Weight'. In terms of the aforesaid circular, the risk weight of 75 per cent will apply to all fresh exposures and also to existing exposures where incremental exposure may be taken by the banks upto the revised limit of ₹7.5 crore. Illustrations are given in **[Annex 23](#page--1-0)**.
+
+5.9.4 For the purpose of ascertaining compliance with the absolute threshold, exposure would mean sanctioned limit or the actual outstanding, whichever is higher, for all fund based and nonfund based facilities, including all forms of off-balance sheet exposures. In the case of term loans and EMI based facilities, where there is no scope for redrawing any portion of the sanctioned amounts, exposure shall mean the actual outstanding.
+
+5.9.5 The RBI would evaluate at periodic intervals the risk weight assigned to the retail portfolio with reference to the default experience for these exposures. As part of the supervisory review process, the RBI would also consider whether the credit quality of regulatory retail claims held by individual banks should warrant a standard risk weight higher than 75 per cent.
+
+### **5.10 Claims secured by Residential Property**
+
+5.10.1 Lending to individuals meant for acquiring residential property which are fully secured by mortgages on the residential property that is or will be occupied by the borrower, or that is rented, shall be risk weighted as indicated as per Table 7 below, based on Board approved valuation policy. LTV ratio should be computed as a percentage with total outstanding in the account (viz. "principal + accrued interest + other charges pertaining to the loan" without any netting) in the numerator and the realisable value of the residential property mortgaged to the bank in the denominator.
+
+
+**Table 7: Claims Secured by Residential Property – Risk Weights<sup>41</sup>**
+
+However, the following LTV ratios and Risk Weights shall apply to individual housing loans sanctioned on or after October 16, 2020 a

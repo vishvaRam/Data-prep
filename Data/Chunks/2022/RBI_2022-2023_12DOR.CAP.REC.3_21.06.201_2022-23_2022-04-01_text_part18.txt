@@ -1,0 +1,48 @@
+an Development Bank,
+- (j) Islamic Development Bank and
+- (k) Council of Europe Development Bank
+- (l) International Finance Facility for Immunization (IFFIm)
+
+<sup>31</sup> For example: The risk weight assigned to an investment in US Treasury Bills by SBI branch in New York will attract a zero per cent risk weight, irrespective of the rating of the claim, if the investment is funded from out of the USD denominated resources of SBI, New York. In case the SBI, New York, did not have any USD denominated resources, the risk weight will be determined by the rating assigned to the Treasury Bills, as indicated in Table 1 above.
+
+(m) Asian Infrastructure Investment Bank (AIIB)
+
+## **5.6 Claims on Banks (Exposure to capital instruments)**
+
+5.6.1 In case of a banks' investment in capital instruments of other banks, the following such **investments** would not be deducted, but would attract appropriate risk weights (refer to the paragraph 4.4.9 above):
+
+- (i) Investments in **capital instruments** of banks where the investing bank holds not more than 10% of the issued common shares of the investee banks, subject to the following conditions:
+	- Aggregate of these investments, together with investments in the capital instruments in insurance and other financial entities, do not exceed 10% of Common Equity of the investing bank; and
+	- The equity investment in the investee entities is outside the scope of regulatory consolidation.
+- (ii) **Equity investments** in other banks where the investing bank holds more than 10% of the issued common shares of the investee banks, subject to the following conditions:
+	- Aggregate of these investments, together with such investments in insurance and other financial entities, do not exceed 10% of Common Equity of the investing bank.
+	- The equity investment in the investee entities is outside the scope of regulatory consolidation.
+
+Accordingly, the claims on banks incorporated in India and the branches of foreign banks in India, other than those deducted in terms of paragraph 4.4.9 above, will be risk weighted as under:
+
+
+**Table 3: Claims on Banks<sup>32</sup> Incorporated in India and Foreign Bank Branches in India**
+
+<sup>32</sup> For claims held in AFS and HFT portfolios, please see the paragraphs 8.3.5 and 8.4.4 under 'capital charge for market risk'
+
+
+\* The deduction should be made from Common Equity Tier 1 Capital.
+
+## **Notes:**
+
+- (i) In the case of banks where no capital adequacy norms have been prescribed by the RBI, the lending / investing bank may calculate the CRAR of the cooperative bank concerned, notionally, by obtaining necessary information from the investee bank, using the capital adequacy norms as applicable to the commercial banks. In case, it is not found feasible to compute CRAR on such notional basis, the risk weight of 350 or 625 per cent, as per the risk perception of the investing bank, should be applied uniformly to the investing bank's entire exposure.
+- (ii) In case of banks where capital adequacy norms are not applicable at present, the matter of investments in their capital-eligible instruments would not arise for now. However, this Table above will become applicable to them, if in future they issue any capital instruments where other banks are eligible to invest.
+- (iii) Till such time the investee banks have not disclosed their Basel III capital ratios publicly, the risk weights / capital charges shall be arrived at based on the applicable tables / paragraph as contained in the [Master Circular](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893)
+
+ <sup>33</sup> For example, as on March 31, 2022, minimum Common Equity Tier 1 of 5.5% and CCB between equal to 75% of 2.50% and less than 2.50%.
+
+[DBOD.No.BP.BC.4/21.06.001/2015-16 dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893) on Prudential Guidelines on Capital Adequacy and Market Discipline - New Capital Adequacy Framework.
+
+5.6.2 The claims on foreign banks will be risk weighted as under as per the ratings assigned by international rating agencies.
+
+
+**Table 4: Claims on Foreign Banks – Risk Weights**
+
+The exposures of the Indian branches of foreign banks, guaranteed / counter-guaranteed by the overseas Head Offices or the bank's branch in another country shall amount to a claim on the parent foreign bank if exposure is reckoned as per prudential norms on the foreign bank's branch / Head office and shall also attract the risk weights as per Table 4 above. If bank reckons the exposure on the original counterparty,it shall attract the risk weight as per Table 5, if the counterparty is a person resident in India, or 150%<sup>34</sup> if the counterparty is a person resident outside India.
+
+5.6.3 However, the claims on a bank which are denominated in 'domestic<sup>35</sup>' foreign currency met out of the resources in the same currency raised in that jurisdiction will be risk weighted at 20 per cent provided the bank complies with the minimum

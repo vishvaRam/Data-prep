@@ -1,0 +1,33 @@
+ the asset classification shall continue to be governed by the ageing criteria as laid out in Part A of this Master Circular.
+
+#### 17.2 Conditions for Upgrade
+
+# **17.2.1 For MSME accounts where aggregate exposure of the lenders is less than ₹25 crores:**
+
+An account may be considered for upgradation to 'standard' only if it demonstrates satisfactory performance during the specified period. 'Specified Period' means a period of one year from the commencement of the first payment of interest or principal, whichever is later, on the credit facility with longest period of moratorium under the terms of restructuring package. 'Satisfactory Performance' means no payment (interest and/or principal) shall remain overdue for a period of more than 30 days. In case of cash credit / overdraft account, satisfactory performance means that the outstanding in the account shall not be more than the sanctioned limit or drawing power, whichever is lower, for a period of more than 30 days.
+
+### 17.2.2 **For all other accounts not included in sub-paragraph 17.2.1**
+
+17.2.2.1 Standard accounts classified as NPA and NPA accounts retained in the same category on restructuring by the lenders may be upgraded only when all the outstanding loan
+
+<span id="page-1-0"></span> <sup>15</sup> Applicable to all resolution plans, including those undertaken under IBC.
+
+/ facilities in the account demonstrate 'satisfactory performance'[16](#page-2-0) during the period from the date of implementation of RP up to the date by which at least 10 per cent of the sum of outstanding principal debt[17](#page-2-1) as per the RP and interest capitalisation sanctioned as part of the restructuring, if any, is repaid (**'monitoring period'**).
+
+*Provided that* the account cannot be upgraded before one year from the commencement of the first payment of interest or principal (whichever is later) on the credit facility with longest period of moratorium under the terms of RP.
+
+*17.2.2.2* Additionally, for accounts where the aggregate exposure of lenders is ₹100 crores and above at the time of implementation of RP, to qualify for an upgrade, in addition to demonstration of satisfactory performance, the credit facilities of the borrower shall also be rated as investment grade[18](#page-2-2) (BBB- or better), at the time of upgrade, by CRAs accredited by the Reserve Bank for the purpose of bank loan ratings. While accounts with aggregate exposure of ₹500 crores and above shall require two ratings, those below ₹500 crores shall require one rating. If the ratings are obtained from more than the required number of CRAs, all such ratings shall be investment grade for the account to qualify for an upgrade.
+
+17.2.2.3 If the borrower fails to demonstrate satisfactory performance during the monitoring period, asset classification upgrade shall be subject to implementation of a fresh restructuring/ change in ownership under Parts B-1 and B-2 of this Master Circular or under IBC. Lenders shall make an additional provision of 15% for such accounts at the end of the Review Period. This additional provision, along with other additional provisions, may be reversed as per the norms laid down at Paragraph 11.5.
+
+17.2.2.4 Provisions held on restructured assets may be reversed when the accounts are upgraded to standard category.
+
+17.2.2.5 Any default by the borrower in any of the credit facilities with any of the lenders (including any lender where the borrower is not in **"specified period"**) subsequent to upgrade in asset classification as above but before the end of the specified period, will require a fresh RP to be implemented within the above timelines as any default would entail. However, lenders shall make an additional provision of 15% for such accounts at the end of the Review Period.
+
+<span id="page-2-1"></span><span id="page-2-0"></span> <sup>16</sup> Satisfactory performance means that the borrower entity is not in default at any point of time during the period concerned. <sup>17</sup> Outstanding principal debt shall include all credit facilities, including debt/debt like instruments (viz., non-convertible debentures, optionally convertible debentures, optionally convertible preference shares, non-convertible preference shares etc.) that exist post implementation of the RP. Only equity and instruments compulsorily convertible into equity (without any embedded optionality) shall be exempt from determining outstanding principal debt.
+
+<span id="page-2-2"></span><sup>18</sup> These ratings shall be the normal ratings provided by the CRAs and not ICEs referred to in paragraph 10.1 of this Master Circular.
+
+This additional provision, along with other additional provisions, may be reversed as per the norms laid down at Paragraph 11.5 of this Master Circular.
+
+*"Specified period" means the period from the date of implementation of RP[19](#page-3-0) up to the date by which at least 20 per cent of the sum of outstanding principal debt as per the RP and interest capitalisation 

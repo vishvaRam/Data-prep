@@ -1,0 +1,48 @@
+r DBOD.No.BP.BC.73/21.06.001/2009-10 dated Feb 8, 2010.](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=5494)
+
+### V.3 Assessment of Reputational Risk and Implicit Support
+
+This section should discuss the possibilities of reputational risk leading to provision of implicit support, which might give rise to credit, market and legal risks. This section should thoroughly discuss potential sources of reputational risk to the bank.
+
+### V. 4 Assessment of valuation and Liquidity Risk
+
+This section would describe the governance structures and control processes for valuing exposures for risk management and financial reporting purposes, with a special focus on valuation of illiquid positions. This section will have relevant details leading to establishment and verification of valuations for instruments and transactions in which it engages.
+
+### V. 5 Stress Testing practices
+
+This section would explain the role of board and senior management in setting stress testing objectives, defining scenarios, discussing the results of stress tests, assessing potential actions and decision making on the basis of results of stress tests. This section would also describe the rigorous and forward-looking stress testing that identifies possible events or changes in market conditions that could adversely the bank. RBI would assess the effectiveness of banks' stress testing programme in identifying relevant vulnerabilities.
+
+#### V. 6 Sound compensation practices
+
+This section should describe the compensation practices followed by the bank and how far the compensation practices are linked to long-term capital preservation and the financial strength of the firm. The calculation of risk-adjusted performance measure for the employees and its link, if any, with the compensation should clearly be disclosed in this section.
+
+#### **VI. Key sensitivities and future scenarios**
+
+This section would explain how a bank would be affected by an economic recession or downswings in the business cycle or markets relevant to its activities. The RBI would like to be apprised as to how a bank would manage its business and capital so as to survive a recession while meeting the minimum regulatory standards. The analysis would include future financial projections for, say, three to five years based on business plans and solvency calculations.
+
+For the purpose of this analysis, the severity of the recession reckoned should typically be one that occurs only once in a 25 year period. The time horizon would be from the day of the ICAAP calculation to at least the deepest part of the recession envisaged.
+
+Typical scenarios would include:
+
+- how an economic downturn would affect:
+	- the bank's capital funds and future earnings; and
+	- the bank's CRAR taking into account future changes in its projected balance sheet.
+
+- In both cases, it would be helpful if these projections show separately the effects of management actions to change the bank's business strategy and the implementation of contingency plans.
+- projections of the future CRAR would include the effect of changes in the credit quality of the bank's credit risk counterparties (including migration in their ratings during a recession) and the bank's capital and its credit risk capital requirement;
+- an assessment by the bank of any other capital planning actions to enable it to continue to meet its regulatory capital requirements throughout a recession such as new capital injections from related companies or new share issues;
+- This section would also explain which key macroeconomic factors are being stressed, and how those have been identified as drivers of the bank's earnings. The bank would also explain how the macroeconomic factors affect the key parameters of the internal model by demonstrating, for instance, how the relationship between the two has been established.
+
+### **Management Actions**
+
+This section would elaborate on the management actions assumed in deriving the ICAAP, in particular:
+
+- the quantitative impact of management actions sensitivity testing of key management actions and revised ICAAP figures with management actions excluded.
+- evidence of management actions implemented in the past during similar periods of economic stress.
+
+#### **VII. Aggregation and Diversification**
+
+This section would describe how the results of the various separate risk assessments are brought together and an overall view taken on capital adequacy. At a technical level, this would, therefore, require some method to be used to combine the various risks using some appropriate quantitative techniques. At the broader level, the overall reasonableness of the detailed quantification approaches might be compared with the results of an analysis of capital planning and a view taken by senior management as to the overall level of capital that is considered appropriate.
+
+- In enumerating the process of technical aggregation, the following aspects could be covered:
+	- i. any allowance made for diversifica

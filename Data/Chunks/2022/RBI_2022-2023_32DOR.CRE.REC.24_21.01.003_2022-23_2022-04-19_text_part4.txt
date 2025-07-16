@@ -1,0 +1,36 @@
+s set out in this framework, as for any other type of counterparty. These exposures shall be added together and be subjected to the LE limit.
+
+#### 6.4 **Breach**
+
+a) Any breach of Large Exposure limits shall be under exceptional conditions beyond the control of NBFC-UL, and it shall be reported to
+
+RBI (Department of Supervision, Central Office) immediately and rapidly rectified.
+
+- b) NBFC-UL cannot undertake any further exposure (at the entity or group level, as the case may be) until it is brought down within the limit.
+- c) Failure to comply with the exposure limit may lead to imposition of penalties on the NBFC-ULs by the supervisor.
+
+## **7 Regulatory reporting**
+
+NBFC-UL shall report its Large Exposures to the Reserve Bank (Department of Supervision, Central Office) as per the reporting template given in [Appendix 1.](#page--1-1) The LEF reporting shall cover the following:
+
+- a) all exposures, meeting the definition of large exposure;
+- b) all other exposures, measured as specified in paragraph 6 of this framework without offsetting exposure value with credit risk transfer instruments, where values stand equal to or above 10 percent of the NBFC-UL's eligible capital base;
+- c) all the exempted exposures with values equal to or above 10 percent of the NBFC-UL's eligible capital base;
+- d) 10 largest exposures included in the scope of application, irrespective of the values of these exposures relative to the NBFC-UL's eligible capital base.
+
+#### **8 Implementation date and transitional arrangements**
+
+These instructions will be applicable from October 1, 2022. Once NBFC-UL is subject to LEF, credit concentration norms in respect of single/ group of borrowers contained in Master Direction - [Non-Banking Financial Company -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) Systemically Important Non-[Deposit taking Company and Deposit taking Company \(Reserve Bank\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) Directions, [2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) shall no longer be applicable to NBFC-UL.
+
+## **Return on Large Exposures**
+
+
+**A. NBFC-UL's 10 Largest Exposures to counterparties (single as well as group of connected counterparties) irrespective of their values relative to NBFC-UL's eligible capital base**
+
+
+**B. NBFC-UL's Large Exposures with values equal to or above 10% of Tier I Capital** 
+
+
+## **C. NBFC-UL's other exposures (measured without offsetting credit transfer instruments) with values equal to or above 10% of Tier I Capital (not including exposures reported in B already)**
+
+

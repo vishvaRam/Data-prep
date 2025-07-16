@@ -1,0 +1,36 @@
+ity is not available, the value of the underlying security be used instead. Depreciation, if any, should be provided for and appreciation, if any, should be ignored.
+- (c) The off-balance sheet (net) position in 'WI' securities, scrip-wise, would attract a risk weight of 2.5 per cent.
+- (d) On delivery, the underlying security may be classified in any of the three categories, viz; 'Held to Maturity', 'Available for Sale' or 'Held for Trading',
+
+depending upon the intent of holding, at the contracted price.
+
+11.3 It is clarified that the securities bought in the 'WI' market would be eligible for SLR purposes, only on delivery.
+
+# **12. NON - SLR INVESTMENTS**
+
+12.1 In order to contain risks arising out of the non-SLR investment portfolio of banks, the banks should adhere to the following guidelines:
+
+#### 12.1.1 **Prudential Limit**
+
+The Non-SLR investments shall be limited to 10 per cent of a bank's total deposits as on March 31 of the previous year.
+
+### 12.1.2 **Instruments**
+
+UCBs may invest in the following instruments:
+
+- (a) "A" or equivalent *and higher* rated Commercial Papers (CPs), debentures and bonds.
+- (b) Units of Debt Mutual Funds and Money Market Mutual Funds.
+- (c) Shares of Market Infrastructure Companies (MICs).
+
+#### 12.1.3 **Restrictions**
+
+- (a) Investment in perpetual debt instruments is not permitted.
+- (b) Investment in unlisted securities shall be subject to a minimum rating prescribed at 12.1.2 (a) above and shall not exceed 10 per cent of the total non-SLR investments at any time. In terms of [UBD.\(PCB\).BPD.Cir.No.14/16.20.000/2007-08 dated September 18, 2007,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0) where banks have already exceeded the said limit, no further investment in such securities will be permitted. Since there is a time lag between issuance and listing of securities, which are proposed to be listed but not listed at the time of subscription, banks may not be able to participate in primary issues of non-SLR securities. In view of this, investments in non-SLR debt securities (both primary and secondary market) by banks where the security is proposed to be listed in the Exchange(s) may be considered as investment in listed security at the time of making investment. However, if such security is not listed within the period specified, the same will be reckoned for the 10 per cent limit specified for unlisted non-SLR securities. In case such investments included under unlisted non-SLR securities lead to a breach of 10 per cent limit, the bank would not be allowed to make further investments in non-SLR securities (both primary and secondary market) till such time its investment in unlisted
+
+securities comes within the limit of 10 per cent.
+
+- (c) Investment in deep discount / zero coupon bonds should be subject to the minimum rating as stated above and comparable market yields for the residual duration. However, banks are not permitted to invest in Zero Coupon Bonds from February 18, 2011 as advised vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6268&Mode=0)  [No.UCB\(PCB\)BPD.Cir.No.36/16.20.000/2010-11 dated February 18, 2011](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6268&Mode=0) unless the issuer builds up a sinking fund for all accrued interest and keeps it invested in liquid investments / securities (Government bonds).
+- (d) Investment in units of Mutual Funds, other than units of Debt Mutual Funds and Money Market Mutual Funds, are not permitted. The existing holding in units of Mutual Funds other than Debt Mutual Funds and Money Market Mutual Funds, including those in UTI should be disinvested. Till such time that they are held in the books of the bank, they will be reckoned as Non-SLR investments for the purpose of the limit at 13.1.1 above. The banks should, however, review their existing risk management policy to ensure that they do not have disproportionate exposure in any one scheme of a Mutual Fund.
+- (e) Non-SLR investment, other than in units of Debt Mutual Funds and Money Market Mutual Funds*,* and CPs, shall be in instruments with an original maturity of over one year.
+- (f) Investments in shares of All India Financial Institutions (AIFIs) are not permitted. In terms of [UBD.\(PCB\).BPD.Cir.No.14/16.20.000/2007-08 dated](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0)  [September 18, 2007,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0) the existing share holding in these institutions may be phased out and till such time they are held in the books of the bank, they will be reckoned as non-SLR investments for the purpose of the limit at 12.1.1 above.
+- (g) All fresh investments under non-SLR category should be classified under Held for Trading (HFT) / Available for Sale (AFS) categories only and marked to market as applicable to these categories of investments. However, investments in the long-term bonds issued by companies engaged in executing infr

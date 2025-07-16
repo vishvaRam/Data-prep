@@ -1,0 +1,53 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+RBI/2022-23/19 DOR.AUT.REC.12/22.01.001/2022-23 April 7, 2022
+
+All Scheduled Commercial Banks (excluding Regional Rural Banks, Local Area Banks & Payments Banks)
+
+Dear Sir / Madam,
+
+# **Establishment of Digital Banking Units (DBUs)**
+
+In recent times, digital banking has emerged as the preferred banking service delivery channel in the country along with 'brick and mortar' banking outlets. Reserve Bank has been taking progressive measures to improve availability of digital infrastructure for banking services. In furtherance of this objective and as a part of efforts to accelerate and widen the reach of digital banking services, the concept of "Digital Banking Units" (DBUs) is being introduced by the Reserve Bank.
+
+2. In pursuance of announcements made in the Union Budget 2022-23, guidelines have been prepared for setting up of Digital Banking Units (DBUs) by commercial banks on the basis of recommendations of a Working Group formed by RBI which included representatives of banks and Indian Banks' Association (IBA).
+
+3. The guidelines for establishment of DBUs are detailed in the [ANNEX.](#page--1-0)
+
+Yours faithfully
+
+(Prakash Baliarsingh) Chief General Manager
+
+Encl: As above
+
+# **Guidelines for Establishment of Digital Banking Units**
+
+**1. Scope of Application:** These guidelines are applicable to all Domestic Scheduled Commercial Banks (excluding Regional Rural Banks, Payments Banks and Local Area Banks).
+
+**2. Date of Application:** These guidelines will come into effect from the date of issue of the Circular.
+
+#### **3. Definitions**
+
+**3.1 Digital Banking**: Digital Banking refers to present and future electronic banking services provided by a licensed bank for the execution of financial, banking and other transactions and/or orders/instruments through electronic devices / equipment over web sites (*i.e* online banking), mobile phones (*i.e* mobile banking) or other digital channels as determined by the bank, which involve significant level of process automation and cross-institutional service capabilities running under enhanced technical architecture and differentiated business model / strategy.
+
+**3.2 Digital Banking Segment:** A Digital Banking Segment, for the purpose of disclosure under Accounting Standard 17 (AS-17), is a sub-segment of the existing 'Retail Banking' Segment which will now be sub-divided in to (i) Digital Banking and (ii) Other Retail Banking. The business involving digital banking products acquired by DBUs or existing digital banking products would qualify to be clubbed under this segment.
+
+**3.3 Digital Banking Products**: Digital banking products and services would generally mean those financial products/services whose designs and fulfilments have nearly endto-end digital life cycle with the initial customer acquisition / product delivery necessarily taking place digitally through self-service or assisted self-service.
+
+**3.4 Digital Banking Unit (DBU**): A specialised fixed point business unit / hub housing certain minimum digital infrastructure for delivering digital banking products & services as well as servicing existing financial products & services digitally, in both self-service and assisted mode, to enable customers to have cost effective/ convenient access and enhanced digital experience to/ of such products and services in an efficient, paperless, secured and connected environment with most services being available in self-service mode at any time, all year round.
+
+## **4. Opening of DBUs – General Permission**
+
+**4.1** Scheduled Commercial Banks (other than RRBs, PBs and LABs) with past digital banking experience are permitted to open DBUs in Tier 1 to Tier 6 centres, unless otherwise specifically restricted, without having the need to take permission from Reserve Bank of India in each case.
+
+**4.2** The DBUs of the banks will be treated as Banking Outlets (BOs) as defined in para 3.1.1 of Annex to [RBI circular DBR.No.BAPD.BC.69/22.01.001/2016-17 dated May 18,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10972&Mode=0)  [2017](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10972&Mode=0) on "Rationalisation of Branch Authorisation Policy- Revision of Guidelines". For the purpose of compliance with regulatory requirements on opening of BOs during a financial year, the DBUs will be treated as opened in a centre from where the significant parts of its new business are proposed to be sourced, regardless of its physical location.
+
+# **5. Infrastructure and Resources**
+
+**5.1** Each DBU shall be housed distinctly, with the separate entry and exit provisions. They will be separate from an existing Banking Outlet with formats and designs most appropriate for digital banking users.
+
+**5.2** For front-end or distribution layer of digital banking, each bank would choose suitable smart equipment, such as Interactive Teller Machines, Interactive Bankers, Service Terminals, 

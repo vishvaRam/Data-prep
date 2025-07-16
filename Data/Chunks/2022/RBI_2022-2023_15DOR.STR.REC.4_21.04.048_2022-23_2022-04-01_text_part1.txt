@@ -1,0 +1,53 @@
+
+
+
+
+
+
+- iv. the instalment of principal or interest thereon remains overdue for two crop seasons for short duration crops,
+- v. the instalment of principal or interest thereon remains overdue for one crop season for long duration crops,
+- vi. the amount of liquidity facility remains outstanding for more than 90 days, in respect of a securitisation transaction undertaken in terms of the [Reserve Bank of India](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [\(Securitisation of Standard Assets\) Directions, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+- vii. in respect of derivative transactions, the overdue receivables representing positive mark-to-market value of a derivative contract, if these remain unpaid for a period of 90 days from the specified due date for payment.
+
+2.1.3 In addition, an account may also be classified as NPA in terms of certain specific provisions of this Master Circular, including inter alia Paragraphs 4.2.4, 4.2.9 and Part B2.
+
+## 2.2 'Out of Order' status
+
+## 2.2.1 A CC/OD account shall be treated as 'out of order' if:
+
+- i) The outstanding balance in the CC/OD account remains continuously in excess of the sanctioned limit/drawing power for 90 days, or
+- ii) The outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but there are no credits continuously for 90 days, or the outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but credits are not enough to cover the interest debited during the previous 90 days period[1](#page-0-0) .
+
+ 2.2.2 The definition of "out of order" as at paragraph 2.2.1 above shall be applicable to all loan products being offered as an overdraft facility, including those not meant for business purpose and/or which entail interest repayments as the only credits.
+
+## 2.3 'Overdue' status
+
+2.3.1 Any amount due to the bank under any credit facility is 'overdue' if it is not paid on the due date fixed by the bank. The borrower accounts shall be flagged as overdue by the banks as part of their day-end processes for the due date, irrespective of the time of running such processes.
+
+# 3. INCOME RECOGNITION
+
+<span id="page-0-0"></span><sup>1</sup> 'Previous 90 days period' shall be inclusive of the day for which the day-end process is being run.
+
+### 3.1 Income Recognition Policy
+
+3.1.1 The policy of income recognition has to be objective and based on the record of recovery. Therefore, the banks should not charge and take to income account interest on any NPA. **This will apply to Government guaranteed accounts also.**
+
+3.1.2 However, interest on advances against Term Deposits, National Savings Certificates (NSCs), Kisan Vikas Patras (KVPs) and life insurance policies may be taken to income account on the due date, provided adequate margin is available in the accounts.
+
+3.1.3 Fees and commissions earned by the banks as a result of renegotiations or rescheduling of outstanding debts should be recognised on an accrual basis over the period of time covered by the renegotiated or rescheduled extension of credit.
+
+3.1.4 In cases of loans where moratorium has been granted for repayment of interest, income may be recognisd on accrual basis for accounts which continue to be classified as 'standard'. This shall be evaluated against the definition of 'restructuring' provided in paragraph 16 of this Master Circular.
+
+3.1.5 Income recognition norms for loans towards projects under implementation involving deferment of DCCO shall be subject to the instructions contained in paragraph 4.2.15 of this Master Circular and that for loans against gold ornaments and jewellery for non-agricultural purposes shall be subject to the instructions contained in [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9124&Mode=0)  [DBOD.No.BP.BC.27/21.04.048/2014-15 dated July 22, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9124&Mode=0) on the subject, as updated from time to time.
+
+#### 3.2 Reversal of income
+
+3.2.1 If any advance, including bills purchased and discounted, becomes NPA, the entire interest accrued and credited to income account in the past periods, should be reversed if the same is not realised. This will apply to Government guaranteed accounts also.
+
+3.2.2 If loans with moratorium on payment of interest (permitted at the time of sanction of the loan) become NPA after the moratorium period is over, the capitalized interest, if any, corresponding to the interest accrued during such moratorium period need not be reversed.
+
+3.2.3 In respect of NPAs, fees, commission and similar income that have accrued should cease to accrue in the current period and should be reversed with respect to past periods, if uncollected.
+
+7
+
+3.2.4 Leased Assets - The *finance charge* component of finance income [as defined in 'AS 19 Leases')] on the leased asset which has accrued and was credited to income account before the asset became non-performing, and r

@@ -1,0 +1,42 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+## RBI/2022-23/113 DOR.STR.REC.67/21.06.201/2022-23 September 07, 2022
+
+All Scheduled Commercial Banks (including Regional Rural Banks) All Primary (Urban) Co-operative Banks All Non-Banking Financial Companies (including Housing Finance Companies) All All-India Financial Institutions
+
+Dear Sir/ Madam,
+
+## **Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS)**
+
+Please refer to paragraph 5.2 of the [Master Circular on Basel III Capital Regulations](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278)  [dated April 1, 2022](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278) in terms of which banks are permitted to apply zero percent risk weights in respect of claims on Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) and individual schemes under National Credit Guarantee Trustee Company Ltd (NCGTC).
+
+2. In order to have a consistent approach with regard to risk weights for exposures guaranteed by such Trust Funds, it is advised that the risk weight of zero percent shall be applicable in respect of exposures guaranteed under any existing or future schemes launched by CGTMSE, CRGFTLIH and NCGTC satisfying the following conditions:
+
+- i. *Prudential Aspects*: The guarantees provided under the respective schemes should comply with the requirements for credit risk mitigation in terms of paragraph 7.5 of the [Master Circular on Basel III Capital Regulations dated April](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278)  [1, 2022](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278) which *inter alia* requires such guarantees to be direct, explicit, irrevocable and unconditional;
+- ii. *Restrictions on permissible claims*: Where the terms of the guarantee schemes restrict the maximum permissible claims through features like
+
+specified extent of guarantee coverage, clause on first loss absorption by member lending institutions (MLI), payout cap, etc., the zero percent risk weight shall be restricted to the maximum permissible claim and the residual exposure shall be subjected to risk weight as applicable to the counterparty in terms of extant regulations.
+
+iii. In case of a portfolio-level guarantee, effective from April 1, 2023, the extent of exposure subjected to first loss absorption by the MLI, if any, shall be subjected to full capital deduction and the residual exposure shall be subjected to risk weight as applicable to the counterparty in terms of extant regulations, on a *pro rata* basis. The maximum capital charge shall be capped at a notional level arrived at by treating the entire exposure as unguaranteed.
+
+3. Further, subject to the aforementioned prescriptions at paragraph 2 above, any future scheme launched under any of the aforementioned Trust Funds, in order to be eligible for zero percent risk weight, shall provide for settlement of the eligible guaranteed claims within thirty days from the date of lodgement, and the lodgement shall be permitted within sixty days from the date of default.
+
+4. Some illustrative examples of risk weights applicable on claims guaranteed under specific existing schemes are given in the [Annex.](#page-2-0)
+
+5. The above regulatory stipulation shall be applicable to all the regulated entities to whom this circular is addressed, to the extent these entities are recognised as eligible MLIs under the respective schemes.
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+## <span id="page-2-0"></span>**Illustrative Examples - Risk Weights (RW) applicable on credit facilities guaranteed under specific existing schemes**
+
+*(Guarantee coverage, first loss percentage and payout cap ratio may be factored in as given below and as amended from time to time in the respective schemes)*
+
+
+
+\*In terms of the payout cap stipulations of CGTMSE, claims of the member lending institutions will be settled to the extent of 2 times of the fee including recovery remitted during the previous financial year. However, since the balance claims will be settled in subsequent year/s as the position is remedied, the entire extent of guaranteed portion may be assigned zero percent risk weight.

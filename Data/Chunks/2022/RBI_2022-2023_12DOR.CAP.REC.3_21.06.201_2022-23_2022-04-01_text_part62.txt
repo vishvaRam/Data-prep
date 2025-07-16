@@ -1,0 +1,31 @@
+the [RBI circulars](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3605&Mode=0) [DBOD.No.BP.BC.101/21.04.103/2006-07](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3605&Mode=0) and [DBOD.BP.BC.No.75/21.04.103/2013-14](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8605&Mode=0) dated June 26, 2007 and December 2, 2013, respectively on stress testing. The banks are urged to take necessary measures for implementing an appropriate formal stress testing framework by the date specified which would also meet the stress testing requirements under the ICAAP of the banks.
+
+# **12.11 Use of Capital Models for ICAAP**
+
+While the RBI does not expect the banks to use complex and sophisticated econometric models for internal assessment of their capital requirements, and there is no RBI-mandated requirement for adopting such models, the banks, with international presence, were required<sup>96</sup> to develop suitable methodologies, by March 31, 2001, for estimating and maintaining economic capital. However, some of the banks, which have relatively complex operations and are adequately equipped in this regard, may like to place reliance on such models as part of their ICAAP. While there is no single prescribed approach as to how a bank should develop its capital model, a bank adopting a model-based approach to its ICAAP shall be able to, *inter alia*, demonstrate:
+
+- (a) Well documented model specifications, including the methodology / mechanics and the assumptions underpinning the working of the model;
+- (b) The extent of reliance on the historical data in the model and the system of back testing to be carried out to assess the validity of the outputs of the model vis-à-vis the actual outcomes;
+- (c) A robust system for independent validation of the model inputs and outputs;
+- (d) A system of stress testing the model to establish that the model remains valid even under extreme conditions / assumptions;
+- (e) The level of confidence assigned to the model outputs and its linkage to the bank's business strategy;
+
+<sup>96</sup> In terms of paragraph 17 of our Circular DBOD.No.BP(SC).BC. 98 / 21.04.103 / 99 dated October 7, 1999
+
+(f) The adequacy of the requisite skills and resources within the banks to operate, maintain and develop the model.
+
+## **13. Select Operational Aspects of the ICAAP**
+
+This Section outlines in somewhat greater detail the scope of the risk universe expected to be normally captured by the banks in their ICAAP.
+
+## **13.1 Identifying and Measuring Material Risks in ICAAP**
+
+- (i) The first objective of an ICAAP is to identify all material risks. Risks that can be reliably measured and quantified should be treated as rigorously as data and methods allow. The appropriate means and methods to measure and quantify those material risks are likely to vary across banks.
+- (ii) Some of the risks to which banks are exposed include credit risk, market risk, operational risk, interest rate risk in the banking book, credit concentration risk and liquidity risk (as briefly outlined below). The RBI has issued guidelines to the banks on asset liability management, management of country risk, credit risk, operational risk, etc., from time to time. A bank's risk management processes, including its ICAAP, should, therefore, be consistent with this existing body of guidance. However, certain other risks, such as reputational risk and business or strategic risk, may be equally important for a bank and, in such cases, should be given same consideration as the more formally defined risk types. For example, a bank may be engaged in businesses for which periodic fluctuations in activity levels, combined with relatively high fixed costs, have the potential to create unanticipated losses that must be supported by adequate capital. Additionally, a bank might be involved in strategic activities (such as expanding business lines or engaging in acquisitions) that introduce significant elements of risk and for which additional capital would be appropriate.
+- (iii) Additionally, if banks employ risk mitigation techniques, they should understand the risk to be mitigated and the potential effects of that mitigation, reckoning its enforceability and effectiveness, on the risk profile of the bank.
+
+## **13.2 Credit Risk<sup>97</sup>**
+
+13.2.1 Banks should have methodologies that enable them to assess the credit risk involved in exposures to individual borrowers or counterparties as well as at the portfolio level. Banks should be particularly attentive to identifying credit risk concentrations and ensuring that their effects are adequately assessed. This should include consideration of various types of dependence among exposures, incorporating the credit risk effects of extreme outcomes, stress events, and shocks to the assumptions made about the portfolio and exposure behaviour. Banks should also carefully assess concentrations in counterparty credit exposures, including counterparty credit risk
+
+ <sup>97</sup>

@@ -1,0 +1,39 @@
+ or non-fund based credit facilities. However, banks maintaining collection accounts are permitted to debit fees/ charges from such accounts before transferring funds to CC/OD account.
+
+1.2.3 Non-lending banks are not permitted to open current/ collection accounts.
+
+# **2. Opening of Current Accounts for borrowers not availing Cash Credit/ Overdraft Facilities from the banking system**
+
+<span id="page-3-0"></span>2.1 In case of borrowers where aggregate exposure of the banking system is ₹50 crore or more:
+
+2.1.1 Banks shall be required to put in place an escrow mechanism. Borrowers shall be free to choose any lending bank as their escrow managing bank. All lending banks should be part of the escrow agreement. The terms and conditions of the agreement may be decided mutually by lending banks and the borrower.
+
+ <sup>3</sup> Banks may compute the aggregate exposure based on the information available from Central Repository of Information on Large Credits (CRILC), Credit Information Companies (CICs), National E-Governance Services Ltd. (NeSL), etc. and by obtaining customers' declaration, if required.
+
+2.1.2 Current accounts of such borrowers can only be opened/ maintained by the escrow managing bank.
+
+<span id="page-4-0"></span>2.1.3 Other lending banks can open 'collection accounts' subject to the condition that funds will be remitted from these accounts to the said escrow account at the frequency agreed between the bank and the borrower. Further, balances in such collection accounts shall not be used for repayment of any credit facilities provided by the bank, or as collateral/ margin for availing any fund or non-fund based credit facilities. While there is no prohibition on amount or number of credits in 'collection accounts', debits in these accounts shall be limited to the purpose of remitting the proceeds to the said escrow account. However, banks maintaining collection accounts are permitted to debit fees/ charges from such accounts before transferring funds to the escrow account.
+
+2.1.4 Non-lending banks shall not open any current account for such borrowers.
+
+<span id="page-4-1"></span>2.2 In case of borrowers where aggregate exposure of the banking system is ₹5 crore or more but less than ₹50 crore, there is no restriction on opening of current accounts by the lending banks. However, non-lending banks may open only collection accounts as detailed at para [2.1.3](#page-4-0) above.
+
+2.3 In case of borrowers where aggregate exposure of the banking system is less than ₹5 crore, banks may open current accounts subject to obtaining an undertaking from them that they (the customers) shall inform the bank(s), if and when the credit facilities availed by them from the banking system becomes ₹5 crore or more. The current account of such customers, as and when the aggregate exposure of the banking system becomes ₹5 crore or more, and ₹50 crore or more, will be governed by the provisions of para [2.2](#page-4-1) and para [2.1](#page-3-0) respectively.
+
+2.4 Banks are free to open current accounts of prospective customers who have not availed any credit facilities from the banking system, subject to necessary due diligence as per their Board approved policies.
+
+2.5 Banks are free to open current accounts, without any of the restrictions placed in this Circular, for borrowers having credit facilities only from NBFCs/ FIs/ co-operative banks/ nonbank institutions, etc. However, if such borrowers avail aggregate credit facilities of ₹5 crore or above from the banks covered under these guidelines, the provisions of the Circular shall be applicable.
+
+5
+
+# <span id="page-0-0"></span>**3. Opening of Cash Credit/ Overdraft Facilities**
+
+3.1 When a borrower approaches a bank for availing CC/OD facility, the bank can provide such facilities without any restrictions placed vide this circular if the aggregate exposure of the banking system to that borrower is less than ₹5 crore. However, the bank must obtain an undertaking from such borrowers that they (the borrowers) shall inform the bank(s), if and when the credit facilities availed by them from the banking system becomes ₹5 crore or more.
+
+3.2 For borrowers, where the aggregate exposure of the banking system is ₹5 crore or more:
+
+3.2.1 Banks having a share of 10 per cent or more in the aggregate exposure of the banking system to such borrower can provide CC/OD facility without any restrictions placed vide this circular.
+
+3.2.2 In case none of the banks has at least 10 per cent exposure, bank having the highest exposure among CC/OD providing banks can provide such facility without any restrictions.
+
+3.2.3 Where a bank's exposure to a borrower is less than 10 per cent of the aggregate exposure of the banking system to that borrower, while credits are freely permitted, debits to the CC/OD account can only be for credit to the CC/OD account of that borrower with a bank that has 10 per cent or more of aggregate exposure of the banking system to that borrower. Funds will be remi

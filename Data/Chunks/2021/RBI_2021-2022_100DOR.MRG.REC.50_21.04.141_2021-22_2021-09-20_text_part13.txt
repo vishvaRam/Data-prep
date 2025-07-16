@@ -1,0 +1,47 @@
+tively.
+
+### 14.4 **Penalties for Violation**
+
+Banks should scrupulously follow the above instructions. Any violation of these instructions will invite penal action against defaulting banks which could include raising of reserve requirements, withdrawal of refinance from the Reserve Bank, denial of access to money markets, denial of new branches/extension counters and advising the President of Clearing House to take appropriate action including suspension of membership of the Clearing House.
+
+## 15. **Categorisation of Investments**
+
+15.1 UCBs are required to classify their entire investment portfolio (including SLR and Non-SLR securities) under three categories, viz.:
+
+- (i) Held to Maturity (HTM)
+- (ii) Available for Sale (AFS)
+- (iii) Held for Trading (HFT)
+
+Banks should decide the category of the investment at the time of acquisition and the decision should be recorded on the investment proposals. Investments in non-SLR securities, since September 18, 2007, should be classified under HFT / AFS categories only and marked to market as applicable to these categories of investments. However, investments in the long-term bonds issued by companies engaged in executing infrastructure projects and having a minimum residual maturity of seven years may be classified under HTM category.
+
+## 15.2 **Held to Maturity**
+
+- 15.2.1 Securities acquired by the banks with the intention to hold them up to maturity will be classified under HTM category.
+- 15.2.2 The investments included under HTM category should not exceed 25 per cent of the bank's total investments. However, banks are permitted to exceed the limit of 25 per cent of their total investments under HTM category provided,
+	- (a) the excess comprises only of SLR securities
+	- (b) the total SLR securities held in the HTM category is not more than 25 per cent of their NDTL as on the last Friday of the second preceding fortnight.
+- 15.2.3 UCBs are not expected to resort to sale of securities held in HTM category. However, if due to liquidity stress, UCBs are required to sell securities from HTM portfolio, they may do so with the permission of their Board of Directors and rationale for such sale may be clearly recorded. Profit on sale of investments from HTM category shall first be taken to the Profit and Loss account and, thereafter, the amount of such profit shall be appropriated to 'Capital Reserve' from the net profit for the year after statutory appropriations. Loss on sale shall be recognized in the Profit and Loss account in the year of sale.
+
+### 15.3 **Held for Trading**
+
+- 15.3.1 Securities acquired by the banks with the intention to trade by taking advantage of the short-term price/interest rate movements will be classified under HFT category.
+- 15.3.2 If banks are not able to sell the security within 90 days due to exceptional circumstances such as tight liquidity conditions, or extreme volatility, or market becoming unidirectional, the security should be shifted to the AFS category, subject to conditions stipulated in paragraphs 15.5.3 and 15.5.4 below.
+
+### 15.4 **Available for Sale**
+
+- 15.4.1 Securities which do not fall within the above two categories will be classified under AFS category.
+- 15.4.2 Banks have the freedom to decide on the extent of holdings under AFS category. This may be decided by them considering various aspects such as basis of intent, trading strategies, risk management capabilities, tax planning, manpower skills, capital position, etc.
+
+(Profit or loss on sale of investments in HFT and AFS categories should be taken to the Profit and Loss Account).
+
+### 15.5 **Shifting of investments**
+
+- 15.5.1 Banks may shift investments to/from HTM category with the approval of the Board of Directors once in a year. Such shifting will normally be allowed at the beginning of the accounting year. No further shifting to/from this category will be allowed during the remaining part of that accounting year.
+- 15.5.2 Banks may shift investments from AFS category to HFT category with the approval of their Board of Directors. In case of exigencies, such shifting may be done with the approval of the Chief Executive of the Bank, but should be ratified by the Board of Directors.
+- 15.5.3 Shifting of investments from HFT category to AFS category is generally not allowed. However, it will be permitted only under exceptional circumstances such as mentioned in paragraph 15.3.2 above, subject to depreciation, if any, applicable on the date of transfer, with the approval of the Board of Directors/Investment Committee.
+- 15.5.4 Transfer of scrips from one category to another, under all circumstances, should be done at the acquisition cost/book value/market value on the date of transfer, whichever is the least, and the depreciation, if any, on such transfer should be fully provided for.
+
+## 15.6 **Classification of Investments in the Balance Sheet**
+
+For the purpose of Balance Sheet, the investments should continue to be classified in the following categories:
+

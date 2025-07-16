@@ -1,0 +1,16 @@
+|         | Scenario                                     | Maximum amount of AT1 bonds<br>that can be raised overseas (in<br>foreign currency and/or in rupee<br>denominated bonds overseas) |
+|---------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Case I  | The bank had AT1 capital of less             | Equals ₹<br>7.35 crore<br>(49% of 1.5% of                                                                                         |
+|         | than or equal to 1.5% of RWAs as             | RWAs).                                                                                                                            |
+|         | on<br>March<br>31<br>of<br>the<br>previous   |                                                                                                                                   |
+|         | financial year.                              |                                                                                                                                   |
+|         | Illustratively, the bank did not have        |                                                                                                                                   |
+|         | any AT1 capital<br>as on March 31 of         |                                                                                                                                   |
+|         | the previous financial year.                 |                                                                                                                                   |
+| Case II | The bank had AT1 capital more than           | Equals 49% of ₹<br>50 crore i.e. ₹<br>24.5                                                                                        |
+|         | 1.5% of RWAs as on March 31 of               | crore<br>(49% of total AT1 capital as it                                                                                          |
+|         | previous financial year.                     | is more than 1.5% of RWAs).                                                                                                       |
+|         | Illustratively,<br>the<br>bank<br>had<br>AT1 |                                                                                                                                   |
+|         | capital of ₹<br>50 crore as on March 31      |                                                                                                                                   |
+|         | of the previous financial year.              |                                                                                                                                   |
+

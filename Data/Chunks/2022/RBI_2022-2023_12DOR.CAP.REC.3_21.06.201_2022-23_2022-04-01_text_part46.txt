@@ -1,0 +1,61 @@
+s for interest rate related instruments in the trading book, equities in the trading book and foreign exchange risk (including gold and other precious metals) in both trading and banking books. Trading book for the purpose of capital adequacy will include:
+
+- (i) Securities included under the Held for Trading category
+- (ii) Securities included under the Available for Sale category
+- (iii) Open gold position limits
+- (iv) Open foreign exchange position limits
+- (v) Trading positions in derivatives, and
+- (vi) Derivatives entered into for hedging trading book exposures.
+
+8.2.2 Banks are required to manage the market risks in their books on an ongoing basis and ensure that the capital requirements for market risks are being maintained on a continuous basis, i.e., at the close of each business day. Banks are also required to maintain strict risk management systems to monitor and control intra-day exposures to market risks.
+
+8.2.3 Capital for market risk would not be relevant for securities, which have already matured and remain unpaid. These securities will attract capital only for credit risk. On completion of 90 days delinquency, these will be treated on par with NPAs for deciding the appropriate risk weights for credit risk.
+
+### **8.3 Measurement of Capital Charge for Interest Rate Risk**
+
+8.3.1 This section describes the framework for measuring the risk of holding or taking positions in debt securities and other interest rate related instruments in the trading book.
+
+8.3.2 The capital charge for interest rate related instruments would apply to current market value of these items in bank's trading book. Since banks are required to maintain capital for market risks on an ongoing basis, they are required to mark to market their trading positions on a daily basis. The current market value will be determined as per extant RBI guidelines on valuation of investments.
+
+8.3.3 The minimum capital requirement is expressed in terms of two separately calculated charges, (i) "**specific risk**" charge for each security, which is designed to protect against an adverse movement in the price of an individual security owing to factors related to the individual issuer, both for short (short position is not allowed in India except in derivatives and Central Government Securities) and long positions, and (ii) "**general market risk**" charge towards interest rate risk in the portfolio, where long and short positions (which is not allowed in India except in derivatives and Central Government Securities) in different securities or instruments can be offset.
+
+8.3.4 For the debt securities held under AFS category, in view of the possible longer holding period and attendant higher specific risk, the banks shall hold total capital charge for market risk equal to greater of (a) or (b) below:
+
+- (a) Specific risk capital charge, computed notionally for the AFS securities treating them as held under HFT category (as computed according to Table 14: Part A / C / E(i) / F / G, as applicable) plus the General Market Risk Capital Charge.
+- (b) Alternative total capital charge for the AFS category computed notionally treating them as held in the banking book (as computed in accordance with Table 14: Part B / D / E(ii) / F / H, as applicable)
+
+## **A. Specific Risk**
+
+8.3.5 The capital charge for specific risk is designed to protect against an adverse movement in the price of an individual security owing to factors related to the individual issuer. The specific risk charges for various kinds of exposures would be applied as detailed below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **Note:**
+
+Till such time the investee banks have not disclosed their Basel III capital ratios publicly, the risk weights / capital charges may be arrived at based on the tables/paragraph as contained in the [Master Circular DBOD.No.BP.BC.4/21.06.001/2015-16 dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9893) on Prudential Guidelines on Capital Adequacy and Market Discipline - New Capital Adequacy Framework**.**
+
+**Table 17 – Part B: Specific risk charge for bank's investments in the equity of financial entities other than banks**
+
+
+
+
+#### **8.5 Measurement of Capital Charge for Foreign Exchange Risk**
+
+The bank's net open position in each currency should be calculated by summing:
+
+- The net spot position (i.e., all asset items less all liability items, including accrued interest, denominated in the currency in question);
+- The net forward position (i.e., all amounts to be received less all amounts to be paid under forward foreign exchange transactions, including currency futures and the principal on currency swaps not included in the spot position);
+- Guarantees (and similar instruments) that are certain to be called and are likely to be irrecoverable;
+- Net future income/expenses not yet accrued but already fully hedged (at the discretion of the reporting bank);
+- Depending on accounting conventions in different countries, any other item representi

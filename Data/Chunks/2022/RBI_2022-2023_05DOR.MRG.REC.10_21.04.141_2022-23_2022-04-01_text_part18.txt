@@ -1,0 +1,43 @@
+ Account.
+
+(ii) In addition to the above, the following 'contra' accounts may also be maintained, viz. i) Securities Sold under Repo Account, (ii) Securities Purchased under Reverse Repo Account, (iii) Securities Receivable under Repo Account and (iv) Securities Deliverable under Reverse Repo Account.
+
+#### **Repo**
+
+(iii) In a repo transaction, the securities should be sold in the first leg at market related prices and re-purchased in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The sale and repurchase should be reflected in the Repo Account.
+
+(iv) Though the securities are not excluded from the repo seller's investment account and not included in the repo buyer's investment account, the transfer of securities shall be reflected by using the necessary contra entries.
+
+# **Reverse Repo**
+
+(v) In a reverse repo transaction, the securities should be purchased in the first leg at prevailing market prices and sold in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The purchase and sale should be reflected in the Reverse Repo Account.
+
+(vi) The balances in the Reverse Repo Account shall not be a part of the Investment Account for balance sheet purposes but can be reckoned for SLR purposes if the securities acquired under reverse repo transactions are approved securities.
+
+# **Other aspects relating to Repo/Reverse Repo**
+
+(vii) In case the interest payment date of the securities sold under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller on the date of receipt as the cash consideration payable by the seller in the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **Appendix B**
+
+## **B. List of Other Circulars from which instructions relating to Investments have also been consolidated in the Master Circular**
+

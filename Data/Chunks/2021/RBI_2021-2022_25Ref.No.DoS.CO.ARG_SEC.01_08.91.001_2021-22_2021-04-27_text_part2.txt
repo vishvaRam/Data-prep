@@ -1,0 +1,44 @@
+)
+
+Considering the above factors and the requirements of the Entity, the actual number of SCAs/SAs to be appointed shall be decided by the respective Boards/LMC, subject to the following limits:
+
+
+The above limits have been prescribed to ensure that the number of SCAs/SAs appointed by the Entities are adequate, commensurate with the asset size and extent of operations of the Entities, with a view to ensure that audits are conducted in a timely and effective manner. This will be subject to review in future based on the experience.
+
+4.3 In terms of RBI guidelines on 'Norms on eligibility, empanelment and selection of Statutory Branch Auditors in Public Sector Banks (PSBs)', PSBs shall allot the Top 20 branches (to be selected strictly in order of the level of outstanding advances) to SCAs in such a manner as to cover a minimum of 15% of total gross advances of the bank by SCAs. For other Entities (excluding Payment Banks and Core Investment Companies), SCAs/SAs shall visit and audit at least the Top 20 branches/Top 20% of the branches of the Entities (in case of Entities having less than 100 branches), to be selected in order of the level of outstanding advances, in such a manner as to cover a minimum of 15% of total gross advances of the Entities. In addition, the banking companies and NBFCs shall ensure adherence to the provisions of Section 143 (8) of the Companies Act, 2013 regarding audit of accounts of all branches.
+
+## **5. Eligibility Criteria of Auditors**
+
+Each Entity is required to appoint audit firm(s) as its SCA(s)/SA(s) fulfilling the eligibility norms as prescribed in **[Annex I](#page--1-0)**.
+
+## **6. Independence of Auditors**
+
+6.1 For Commercial Banks (excluding RRBs) and NBFCs[4](#page-2-0) , the Audit Committee of the Board (ACB)/ LMC shall monitor and assess the independence of the auditors and conflict of interest position in terms of relevant regulatory provisions, standards and best practices. Any concerns
+
+<span id="page-2-0"></span> <sup>4</sup> For the NBFCs which are required to constitute an Audit Committee of the Board (ACB) in terms of Para 70 (1) of Master Direction - Non-Banking Financial Company - [Systemically Important Non-Deposit taking Company and](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)  [Deposit taking Company \(Reserve Bank\) Directions, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) to be read with Section 177 of the Companies Act, 2013.
+
+![](_page_3_Picture_0.jpeg)
+
+in this regard may be flagged by the ACB/LMC to the Board of Directors of the Commercial Bank (excluding RRBs)/NBFC and concerned Senior Supervisory Manager (SSM)/Regional Office (RO) of RBI.
+
+For UCBs/remaining NBFCs, the Board of Directors shall monitor and assess the independence of the auditors. Any concerns in this regard may be flagged by the Board of the UCB/NBFC to the concerned SSM/RO of RBI.
+
+6.2 In case of any concern with the Management of the Entities such as non-availability of information/non-cooperation by the Management, which may hamper the audit process, the SCAs/SAs shall approach the Board[5](#page-3-0) /ACB/LMC of the Entity, under intimation to the concerned SSM/RO of RBI.
+
+6.3 Concurrent auditors of the Entity should not be considered for appointment as SCAs/SAs of the same Entity. The audit of the Entity and any entity with large exposure[6](#page-3-1) to the Entity for the same reference year should also be explicitly factored in while assessing independence of the auditor.
+
+6.4 The time gap between any non-audit works (services mentioned at Section 144 of Companies Act, 2013, Internal assignments, special assignments, etc.) by the SCAs/SAs for the Entities or any audit/non-audit works for its group entities should be at least one year, before or after its appointment as SCAs/SAs. However, during the tenure as SCA/SA, an audit firm may provide such services to the concerned Entities which may not normally result in a conflict of interes[t7](#page-3-2) , and Entities may take their own decision in this regard, in consultation with the Board/ACB/LMC.
+
+6.5 The restrictions as detailed in para 6.3 and 6.4 above, should also apply to an audit firm under the same network[8](#page-3-3) of audit firms or any other audit firm having common partners.
+
+## **7**. **Professional Standards of SCAs/SAs**
+
+7.1 The SCAs/SAs shall be strictly guided by the relevant professional standards in discharge of their audit responsibilities with highest diligence.
+
+ <sup>5</sup> Board shall be directly approached only when ACB is non-existent in the Entity or the auditors notice a matter of
+
+<span id="page-3-1"></span><span id="page-3-0"></span>concern involving any member of the ACB. 6 As defined in RBI instructions on 'Large Exposures Framework'
+
+<span id="page-3-2"></span><sup>7</sup>A conflict would not normally be created in the case of the following special assignments (indicative list):
+
+<sup>(</sup>i) Tax audit, tax representation and advice on 

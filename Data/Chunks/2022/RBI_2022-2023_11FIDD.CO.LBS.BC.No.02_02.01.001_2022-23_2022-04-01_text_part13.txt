@@ -1,0 +1,77 @@
+etter capital formation in agriculture. Towards this, banks should revisit their documentation for crop loans, simplify them where required and ensure speedy sanctioning and disbursal of loans within specified time limits.
+
+iv. The Lead Bank Scheme, which ensures inter-departmental/governmental coordination in the financial sector, should, therefore, be leveraged to further the objective of doubling farmers' income by 2022. Lead Banks are accordingly advised to ensure the following:
+
+- a. Work closely with NABARD in the preparation of Potential Linked Credit Plans (PLPs) & Annual Credit Plans (ACPs) keeping the above strategy in consideration
+- b. Include 'Doubling of Farmers' Income by 2022' as a regular agenda under the Lead Bank Scheme in various fora such as SLBC, DCC, DLRC and BLBC
+- c. For the purpose of monitoring and reviewing the progress, Lead Banks may use the benchmarks as may be provided by NABARD
+- d. Map the overall strategy as given in para 9 (ii) above to the agriculture/agroancillary lending plan of the bank.
+
+## **10. Expanding and Deepening of Digital Payments Ecosystem**
+
+With a view to expanding and deepening the digital payments ecosystem, the SLBCs/UTLBCs were advised to identify one district in their respective States/UTs on a pilot basis in consultation with banks and stakeholders and allocate it to a bank with significant footprint which will endeavour to make the district 100% digitally enabled within one year, in order to enable every individual in the district to make/ receive payments digitally in a safe, secure, quick, affordable and convenient manner. SLBC/ UTLBC Convenor Banks were also advised to devise a time bound roadmap to all branches of member banks (Public Sector Banks, Private Sector Banks, Regional Rural Banks, Small Finance Banks and Payments Banks) located in the identified district(s) for on-boarding merchants/ traders/ businesses/ utility service providers to facilitate fully digital transactions. Further, SLBC/ UTLBC Convenor Banks were advised to constitute a Sub-Committee on Digital Payments at SLBC/ UTLBC level. Subsequently, SLBCs/ UTLBCs were also advised to scale up the captioned programme in one or two other districts under their jurisdiction in consultation with State Governments/ UT Administrations and other stakeholders.
+
+## **Annex I**
+
+## **List of State/ UT-wise SLBC/ UTLBC Convenor Banks and district-wise Lead Banks**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**SLBC/UTLBC Website- Indicative List of contents**
+
+
+
+
+## **Annex II-2**
+
+
+
+## **Annex II-4**
+
+
+**\*** SLBC meetings held after April 2010
+
+
+
+
+
+
+
+
+
+
+
+
+\*Note: FLC Code will be a unique five digit code with the first three digits being the district code (Refer sheet titled District Master) and the last two digits represent the FLC Code to be given by SLBC Convenor banks starting from 01 and running sequentially thereafter for each district (For eg. if there are four FLCs in a district, the FLC code will be in the form xxx01, xxx02, xxx03 and xxx04 where xxx represents the district code as per district master sheet)
+
+
+# **Standard Operating Procedure (SOP) for Data Flow at LBS Fora**
+
+- i. Head Office (HO) of each bank shall generate the report, pertaining to LBS related data and data available on CBS/ MIS, in the prescribed format, which includes columns of District Name, Block name, District code & Block code by 15th of succeeding month following the end of the quarter.
+- ii. HO of each bank shall provide the district & block level report in prescribed format to controlling offices of bank working at state level.
+- iii. Each SLBC shall ensure that their data feeding website/web portal is having a provision for uploading the data by controlling offices of each bank in prescribed format.
+- iv. Each Banks' Controlling Office at state level responsible to feed the data in respective state shall upload the data in SLBC portal by 20th of succeeding month of the end of the quarter.
+- v. Data pertaining to State Government/ Other data (which are not available on CBS or MIS of the bank) would be collated & uploaded by Controlling Office/ Lead District Manager (LDM) as is being done now, in SLBC web portal by 20th of succeeding month of the end of the quarter.
+- vi. SLBC Convenor bank should provide the access to LDMs of respective state on SLBC web portal to download the block wise data of their respective district.
+- vii. SLBC Convenor bank should provide the access to controlling office of respective state on SLBC web portal to download the uploaded data to verify the correctness of data.
+
+#### **Role of Banks' Head Offices**
+
+- Banks' HOs shall generate the district wise and block wise data of each state in the prescribed format.
+- Banks' HOs shall ensure that the mapping of their branches to the block level has been carried out.
+- HO of each bank shall provide the report in prescribed format to controlling office of bank working at state level.
+- The state code, district code & block code should be as per the Governmen

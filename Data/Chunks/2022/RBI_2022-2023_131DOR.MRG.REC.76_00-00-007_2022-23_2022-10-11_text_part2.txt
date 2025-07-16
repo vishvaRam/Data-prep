@@ -1,0 +1,54 @@
+sk arising out of repayment obligations of an external commercial borrowing if both the exposures have cash flows / maturity within the same accounting year.
+
+#### CHAPTER II – GENERAL GUIDELINES
+
+#### 4. Computation of UFCE
+
+(a) Banks shall ascertain the Foreign Currency Exposure (FCE) of all entities[2](#page-3-0) at least on an annual basis. Banks shall compute the FCE following the relevant accounting standard applicable for the entity.
+
+*Explanation: Banks shall consider the items maturing or having cash flows over the period of next five years.*
+
+*Note: For arriving at the foreign currency exposure of entities, their exposure from all sources including foreign currency borrowings and External Commercial Borrowings shall be taken into account.*
+
+(b) Banks shall assess the Unhedged Foreign Currency Exposure (UFCE) of entities with FCE by obtaining information on UFCE from the concerned entity.
+
+**Provided that** the information on UFCE shall be obtained from entities on a quarterly basis based on statutory audit, internal audit or self-declaration by the concerned entity.
+
+**Provided further that** UFCE information shall be audited and certified by the statutory auditors of the entity, at least on an annual basis.
+
+#### 5. Provisioning and Capital Requirements
+
+(a) Banks shall determine the potential loss to an entity from UFCE using the largest annual volatility in the USD-INR exchange rates during the last ten years.[3](#page-3-1)
+
+*Note: The Unhedged Foreign Currency Exposure (UFCE) in currencies other than USD shall be converted into USD using the current market rates for determining the potential loss from UFCE.*
+
+(b) Banks shall determine the susceptibility of the entity to adverse exchange rate movements by computing the ratio of the potential loss to entity from UFCE and the
+
+<span id="page-3-0"></span> <sup>2</sup> The requirement in clause 4(a) would not be applicable for entities which are already submitting the information on UFCE as per clause 4(b).
+
+<span id="page-3-1"></span><sup>3</sup> Banks shall use the data published by FEDAI on largest annual volatility of USD-INR rate over a period of last 10 years and the same shall be used for computation of potential loss by multiplying it with UFCE.
+
+entity's EBID over the last four quarters as per the latest quarterly results certified by the statutory auditors[4](#page-4-0).
+
+*Note: (1) In cases where banks are not in position to obtain information on UFCE or EBID from listed entities for the latest quarter due to restrictions on disclosure of such information prior to finalisation of accounts, banks shall have the option to use data pertaining to the immediately preceding last four quarters for computing capital and provisioning requirements.*
+
+*(2) In case of unlisted entities where the audited results of the last quarter are not available, the latest audited quarterly or annual results available shall be used. The annual EBID figure used shall at least be of the last financial year.* 
+
+(c) Accordingly, banks shall apply incremental capital and provisioning requirements[5](#page-4-1) to all exposures to such entities as under:
+
+
+<span id="page-4-0"></span> <sup>4</sup> For the purpose of this sub-clause, the directions do not differentiate between limited audited results and full audited results.
+
+<span id="page-4-1"></span><sup>5</sup> Incremental capital and provisioning requirements shall be over and above the present requirements i.e., general provision for standard assets and applicable credit risk weights as per Master Circular - [Prudential norms](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12281)  [on Income Recognition, Asset Classification and Provisioning pertaining to Advances](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12281) dated April 1, 2022 and Master Circular – [Basel III Capital Regulations](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278) dated April 1, 2022 respectively.
+
+<span id="page-4-2"></span><sup>6</sup> For example: for an entity which otherwise attracts a risk weight of 50 per cent, the applicable risk weight would become 75 per cent.
+
+*Note: The incremental provisioning for UFCE shall be based on the total exposure amount which is used for computing standard asset provisioning and incremental capital requirements for UFCE shall be based on the total exposure amount which is used for computing credit risk capital requirements*.
+
+(d) Banks shall calculate the incremental provisioning and capital requirements at a minimum on a quarterly basis.
+
+(e) For projects under implementation and the new entities, banks shall calculate the incremental provisioning and capital requirements based on projected average annual EBID for the three years from the date of commencement of commercial operations.
+
+**Provided that** the incremental capital and provisioning requirement shall be subjected to a minimum floor of 20 bps of provisioning requirement.
+
+(f) In ca

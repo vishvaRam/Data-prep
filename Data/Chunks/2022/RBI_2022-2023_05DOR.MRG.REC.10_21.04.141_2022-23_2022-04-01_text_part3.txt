@@ -1,0 +1,26 @@
+ion as deemed necessary.
+
+4.5 Banks successful in the auction of primary issue of Government Securities, may enter into contracts for sale of the allotted securities in accordance with the terms and conditions as indicated below:
+
+- 4.5.1 The contract for sale can be entered into only once by the allottee bank, on the basis of an authenticated allotment advice issued by Reserve Bank. The selling bank should make suitable noting/stamping on the allotment advice indicating the sale contract number etc., the details of which should be intimated to the buying entity. Any sale of securities should be only on a T+0 or T+1 settlement basis.
+- 4.5.2 The contract for sale of allotted securities can be entered into by banks only with entities maintaining SGL Account with Reserve Bank for delivery and settlement on the next working day through the DVP system.
+- 4.5.3 The face value of securities sold should not exceed the face value of securities indicated in the allotment advice.
+- 4.5.4 The sale deal should be entered into directly without the involvement of broker/s.
+- 4.5.5 Separate record of such sale deals should be maintained containing details such as number and date of allotment advice, description and the face value of securities allotted, the purchase consideration, the number, date of delivery and face value of securities sold, sale consideration, the date and details of actual delivery etc. This record should be made available to Reserve Bank for verification. Banks should immediately report any cases of failure to maintain such records.
+- 4.5.6 Such type of sale transactions of Government Securities allotted in the auctions for primary issues on the same day and based on authenticated allotment advice should be subjected to concurrent audit and the relative audit report should be placed before the Board of Directors of the bank once every month. A copy thereof should also be sent to the concerned Regional Office of Department of Supervision, RBI.
+
+4.5.7 Banks will be solely responsible for any failure of the contracts due to the securities not being credited to their SGL account on account of nonpayment etc.
+
+4.6 While undertaking OTC transactions in Government securities, banks should seek a scheduled commercial bank, a Primary Dealer (PD), a financial institution, another UCB, insurance company, mutual fund or provident fund, as a counterparty for their transactions. Preference should be given to direct deals with such counter parties. It will be desirable to check prices from other banks or PDs with whom the UCB may be maintaining Gilt account. The prices of all trades done in Government Securities, including those traded through NDS-OM, are also available at Reserve Bank's website [\(www.rbi.org.in\)](https://www.rbi.org.in/).
+
+4.7 Scheduled UCBs may undertake retailing of Government Securities with nonbank clients, such as provident funds, non-banking financial companies, high net worth individuals etc. subject to the following conditions:
+
+- 4.7.1 Banks may freely buy and sell Government Securities on an outright basis at the prevailing market prices without any restriction on the period between sale and purchase.
+- 4.7.2 Retailing of Government Securities should be on the basis of ongoing market rates/yield curve emerging out of secondary market transactions.
+- 4.7.3 Immediately on sale, the corresponding amount should be deducted by the bank from its investment accounts and also from its SLR assets.
+- 4.7.4 These transactions should be looked into by the concurrent/ statutory auditors of the bank.
+- 4.7.5 Banks should put in place adequate internal control checks/ mechanisms as advised by the Reserve Bank from time to time.
+
+4.8 Banks may take advantage of the non-competitive bidding facility in the auction of Government of India dated securities, provided by the Reserve Bank. Under this scheme, banks may bid upto ₹2 crore (face value) in any auction of Government of India dated securities, either directly, through a bank or through a PD. For availing this facility, no bidding skill is required, as allotment upto ₹2 crore (face value) is made at the weighted average cut-off rate which emerges in the auction. UCBs may also participate directly or through a bank or a PD in the competitive and non-competitive auctions of State Development Loans (SDLs) conducted by the Reserve Bank. Participation in non-competitive auction of SDLs will be as per guidelines prescribed in the Scheme of Non-Competitive Bidding in the Auction of SDLs issued vide [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=5230&Mode=0)  [IDMD.No.954/08.03.001/2009-10 dated August 24,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=5230&Mode=0) 2009, as amended from time to time. An advertisement in leading newspapers is issued 4-5 days in advance of the date of auction. Half yearly auction calendar of Government of India securities is also issued by the Reserve Bank.
+
+4.9 Gilt Accounts, if opened, should be used fo

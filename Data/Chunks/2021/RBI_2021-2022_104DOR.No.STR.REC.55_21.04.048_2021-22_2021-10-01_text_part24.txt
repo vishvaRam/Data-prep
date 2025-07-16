@@ -1,0 +1,41 @@
+edit/Letters of Comfort, etc., such events shall be treated as 'restructuring' if the borrower concerned is under financial difficulty.
+
+## 25. Takeout Finance
+
+Takeout financing transactions that involve prior commitments shall be governed by the circular DBOD.No.BP.BC.144/21.04.048-2000 dated February 29, 2000 on "Income Recognition, Asset Classification, Provisioning and other related matters and Capital Adequacy Standards – Takeout Finance".
+
+## 26. Regulatory Exemptions
+
+26.1 Exemptions from RBI Regulations
+
+26.1.1 Acquisition of non-SLR securities by way of conversion of debt is exempted from the restrictions and the prudential limit on investment in unlisted non-SLR securities prescribed by the RBI.
+
+26.1.2 Acquisition of shares due to conversion of debt to equity during a restructuring process will be exempted from regulatory ceilings/restrictions on Capital Market Exposures, investment in Para-Banking activities and intra-group exposure. However, these will require reporting to RBI (reporting to DoS, CO every month along with the regular DSB Return on Asset Quality) and disclosure by banks in the Notes to Accounts in Annual Financial Statements. Nonetheless, banks will have to comply with the provisions of Section 19(2) of the Banking Regulation Act, 1949.
+
+26.2 Exemptions from Regulations of Securities and Exchange Board of India (SEBI)
+
+26.2.1 SEBI has provided exemptions, under certain conditions, from the requirements of Securities and Exchange Board of India (SEBI) (Issue of Capital and Disclosure Requirements) (ICDR) Regulations, 2018 for restructurings carried out as per the regulations issued by the Reserve Bank.
+
+26.2.2 With reference to the requirements contained in sub-regulations 158 (6) (a) of ICDR Regulations, 2018, the issue price of the equity shall be the lower of (a) or (b) below:
+
+- a) The average of the weekly high and low of the volume weighted average price of the related equity shares quoted on the recognised stock exchange during the twenty six weeks preceding the 'reference date' or the average of the weekly high and low of the volume weighted average prices of the related equity shares quoted on a recognised stock exchange during the two weeks preceding the 'reference date', whichever is lower; and
+- b) Book value: Book value per share to be calculated from the latest audited balance sheet (without considering 'revaluation reserves', if any) adjusted for cash flows and financials post the earlier restructuring, if any. The date as on which the latest balance sheet is drawn up should not precede the date of restructuring by more than 18 months. In case the latest audited balance sheet is not available the shares are to be collectively valued at Re.1 per company.
+
+26.2.3 In the case of conversion of debt into equity, the 'reference date' shall be the date on which the bank approves the restructuring scheme. In the case of conversion of convertible securities into equity, the 'reference date' shall be the date on which the bank approves the conversion of the convertible securities into equities.
+
+#### 27. Restructuring of frauds/willful defaulters
+
+Borrowers who have committed frauds/ malfeasance/ willful default will remain ineligible for restructuring. However, in cases where the existing promoters are replaced by new promoters[22,](#page-0-0) and the borrower company is totally delinked from such erstwhile promoters/management, lenders may take a view on restructuring such accounts based on their viability, without prejudice to the continuance of criminal action against the erstwhile promoters/management.
+
+<span id="page-0-0"></span> <sup>22</sup> New promoters must satisfy the conditions specified at paragraph 22.1 (a), (b) and (c) above.
+
+## PART C – Miscellaneous
+
+# 28. Wilful Defaulters and Non-Cooperative Borrowers
+
+Instructions regarding treatment of Wilful Defaulters are contained in our [Master Circular](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9044)  [DBR.No.CID.BC.57/20.16.003/2014-15 dated July 1, 2014](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9044) (updated upto January 7, 2015) on 'Wilful Defaulters' updated from time to time. Banks are required to strictly adhere to these guidelines. In addition to these instructions and with a view to ensuring better corporate governance structure in companies and ensuring accountability of independent/professional directors, promoters, auditors, etc. henceforth, the following prudential measures will be applicable:
+
+a) The provisioning in respect of existing loans/exposures of banks to companies having director/s (other than nominee directors of government/financial institutions brought on board at the time of distress), whose name/s appear more than once in the list of wilful defaulters, will be 5% in cases of standard accounts; if such account is classified as NPA, it will attract accelerated provisioning as under:
+
+
+b) This is a prudential measure since the expected losses 

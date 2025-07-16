@@ -1,0 +1,27 @@
+ *Bank Loans for Financing Promoters Contribution* as consolidated in our Master Circular DBOD.No.Dir.BC.16/13.03.00/2014-15 dated July 1, 2015 on 'Loans and Advances – Statutory and Other Restrictions', the promoters' contribution towards the equity capital of a company should come from their own resources and banks should not normally grant advances to take up shares of other companies.
+
+30.2 It has been decided that banks can extend finance to 'specialized' entities established for acquisition of troubled companies subject to the general guidelines applicable to advances against shares/debentures/bonds as contained in the above-mentioned Master Circular and other regulatory and statutory exposure limits. The lenders should, however, assess the risks associated with such financing and ensure that these entities are adequately capitalized, and debt equity ratio for such entity is not more than 3:1.
+
+30.3 In this connection, a 'specialized' entity will be a body corporate exclusively set up for the purpose of taking over and turning around troubled companies and promoted by individuals or/and institutional promoters (including Government) having professional expertise in turning around 'troubled companies' and eligible to make investments in the industry/segment to which the target asset belonged.
+
+#### 31. Credit Risk Management
+
+31.1 Banks are advised that they should strictly follow the credit risk management guidelines contained in our circular DBOD.No.BP.(SC).BC.98/21.04.103/99 dated October 7, 1999 on 'Risk Management Systems in Banks' and [DBOD.No.BP.520/21.04.103/2002-03 dated](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=905&Mode=0)  [October 12, 2002](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=905&Mode=0) on 'Guidance Notes on Management of Credit Risk and Market Risk'
+
+31.2 It is reiterated that lenders should carry out their independent and objective credit appraisal in all cases and must not depend on credit appraisal reports prepared by outside consultants, especially the in-house consultants of the borrowing entity.
+
+31.3 Banks/lenders should carry out sensitivity tests/scenario analysis, especially for infrastructure projects, which should inter alia include project delays and cost overruns. This will aid in taking a view on viability of the project at the time of deciding on deferment of DCCO/restructuring.
+
+31.4 Lenders should ascertain the source and quality of equity capital brought in by the promoters /shareholders. Multiple leveraging, especially, in infrastructure projects, is a matter of concern as it effectively camouflages the financial ratios such as Debt/Equity ratio, leading to adverse selection of the borrowers. Therefore, lenders should ensure at the time of credit appraisal that debt of the parent company is not infused as equity capital of the subsidiary/SPV.
+
+31.5 Ministry of Corporate Affairs had introduced the concept of a Director Identification Number (DIN) with the insertion of Sections 266A to 266G of Companies (Amendment) Act, 2006. Further, in terms of Paragraph 5.4 of our Master Circular on Wilful Defaulters dated July 1, 2015, in order to ensure that directors are correctly identified and in no case, persons whose names appear to be similar to the names of directors appearing in the list of wilful defaulters, are wrongfully denied credit facilities on such grounds, banks/FIs have been advised to include the Director Identification Number (DIN) as one of the fields in the data submitted by them to Reserve Bank of India/Credit Information Companies.
+
+31.6 It is reiterated that while carrying out the credit appraisal, banks should verify as to whether the names of any of the directors of the companies appear in the list of defaulters/ wilful defaulters by way of reference to DIN/PAN etc. Further, in case of any doubt arising on account of identical names, banks should use independent sources for confirmation of the identity of directors rather than seeking declaration from the borrowing company.
+
+31.7 Paragraph 2.7 of the Master Circular on Wilful Defaulters states that, "with a view to monitoring the end-use of funds, if the lenders desire a specific certification from the borrowers' auditors regarding diversion / siphoning of funds by the borrower, the lender should award a separate mandate to the auditors for the purpose. To facilitate such certification by the auditors
+
+60
+
+the banks and FIs will also need to ensure that appropriate covenants in the loan agreements are incorporated to enable award of such a mandate by the lenders to the borrowers / auditors".
+
+31.8 In addition to the above, banks are advised that with a view to ensuring proper enduse of funds and preventing diversion/siphoning of funds by the borrowers, lenders could consider engaging their own auditors for such specific certification purpose without relying on certification given by borrower's auditors. However, this cannot substitute bank's basic minimum own diligence in

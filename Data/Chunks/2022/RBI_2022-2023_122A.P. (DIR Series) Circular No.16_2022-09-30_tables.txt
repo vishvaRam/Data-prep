@@ -1,0 +1,11 @@
+| Sr.<br>No. | Type of Reporting delays                                             | LSF Amount<br>(INR) |
+|------------|----------------------------------------------------------------------|---------------------|
+| 1          | Form ODI Part-II/ APR, FCGPR (B), FLA Returns, Form OPI,             |                     |
+|            | evidence of investment<br>or any other return which does not capture | 7500                |
+|            | flows or any other periodical reporting                              |                     |
+| 2          | FC-GPR, FCTRS, Form ESOP, Form LLP(I), Form LLP(II), Form            |                     |
+|            | CN, Form DI, Form InVi, Form ODI-Part I, Form ODI-Part III, Form     | [7500 +             |
+|            | FC, Form ECB, Form ECB-2, Revised Form ECB or any other              | (0.025% × A ×       |
+|            | return which captures flows or returns which capture reporting of    | n)]                 |
+|            | non-fund transactions or any other transactional reporting           |                     |
+

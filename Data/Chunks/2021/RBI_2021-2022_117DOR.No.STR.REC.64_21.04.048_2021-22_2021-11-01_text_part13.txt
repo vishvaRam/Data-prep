@@ -1,0 +1,39 @@
+not parting with the share of other member banks, the account will be treated as not serviced in the books of the other member banks, and therefore, be treated as NPA. The banks participating in the consortium should, therefore, arrange to get their share of recovery transferred from the lead bank or get an express consent from the lead bank for the transfer of their share of recovery, to ensure proper asset classification in their respective books.
+
+# **6. Appropriation of recoveries - What is the practice to be adopted by banks regarding appropriation of recoveries in NPA accounts?**
+
+In the absence of a clear agreement between the bank and the borrower for the purpose of appropriation of recoveries in NPAs (i.e. towards Principal or interest due) banks should adopt an accounting principle and exercise the right of appropriation of recoveries in a uniform and consistent manner.
+
+### **7. Overdues in other credit facilities - There are instances where banks park the dues from a borrower in respect of devolved letters of credit and invoked guarantees in a separate account, irrespective of whether the borrower's credit facilities are regular or not. How to determine when the account in which such dues are parked has become an NPA?**
+
+A number of banks adopt the practice of parking the dues of the borrower in respect of devolved letters of credit and invoked guarantees in a separate account which is not a regular sanctioned facility. As a result these are not reflected in the principal operating account of the borrower. This renders application of the prudential norms for identification of NPAs difficult. It is, therefore, advised that if the debts arising out of devolvement of letters of credit or invoked guarantees are parked in a separate account, the balance outstanding in that account also should be treated as a part of the borrower's principal operating account for the purpose of application of prudential norms on income recognition, asset classification and provisioning.
+
+### **8. Treatment of loss assets - An NPA account will be classified as a loss asset only when there is no security in the account or where there is considerable erosion in the realisable value of the security in the account. What can be termed as a 'considerable' erosion for the account to be classified as a loss asset?**
+
+If the realisable value of the security, as assessed by the bank / approved valuers / RBI is less than 10 per cent of the outstanding in the borrowal accounts, the existence of security should be ignored and the asset should be straightaway classified as loss asset. It may be either written off after obtaining necessary permission from the competent authority as per the Co-operative Societies Act / Rules, or fully provided for by the bank.
+
+### **9. Valuation of Security - A major source of divergence in provisioning requirement was the realisable value of the primary and collateral security. Can uniform guidelines be prescribed for adoption in this area, at least for large value accounts?**
+
+With a view to bringing down divergence arising out of difference in assessment of the value of security it has been decided that in cases of NPAs with balance of ₹10 lakh and above :
+
+a) The current assets and their valuation are looked into at the time of Statutory Audit / Concurrent audit. However, in order to enhance the reliability on stock valuations, stock audit at annual intervals by external agencies could be considered in case of larger advances. The cut off limit and the names of the external agencies may be finalised by the Board.
+
+b) Collaterals such as immovable properties charged in favour of the bank should be got valued once in three years by valuers appointed as per the guidelines approved by the Board of Directors.
+
+**Annex 5**
+
+# **Prudential Guidelines on Restructuring of Advances**
+
+# **Key Concepts**
+
+## **i) Advances**
+
+The term 'Advances' will mean all kinds of credit facilities including cash credit, overdrafts, term loans, bills discounted / purchased, receivables, etc. and investments other than that in the nature of equity.
+
+# **ii) Fully Secured**
+
+When the amounts due to a bank (present value of principal and interest receivable as per restructured loan terms) are fully covered by the value of security, duly charged in its favour in respect of those dues, the bank's dues are considered to be fully secured. While assessing the realisable value of security, primary as well as collateral securities would be reckoned, provided such securities are tangible securities and are not in intangible form like guarantee etc., of the promoter / others. However, for this purpose the bank guarantees, State Government Guarantees and Central Government Guarantees will be treated on par with tangible security.
+
+# **iii) Restructured Accounts**
+
+A restructured account is one where the bank, for economic or legal reasons relating to the borrower's financial difficulty, grants to the borrower concessions that the ban

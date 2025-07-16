@@ -1,0 +1,42 @@
+, banks may note that in the case of main features template (as indicated in paragraph 14.13.7) and provision of the full terms and conditions of capital instruments (as indicated in paragraph 14.13.8), banks are required to update these disclosures concurrently whenever a new capital instrument is issued and included in capital or whenever there is a redemption, conversion / write-down or other material change in the nature of an existing capital instrument.
+
+## **14.10 Regulatory Disclosure Section**
+
+14.10.1 Banks are required to make disclosures in the format as specified in **[Annex 18](#page--1-0)** of this Master Circular. Banks have to maintain a 'Regulatory Disclosures Section' on their websites, where all the information relating to disclosures will be made available to the market participants. The direct link to this page should be prominently provided on the home page of a bank's website and it should be easily accessible. This requirement is essentially to ensure that the relevance / benefit of Pillar 3 disclosures is not diminished by the challenge of finding the disclosure in the first place.
+
+14.10.2 An archive for at least three years of all templates relating to prior reporting periods should be made available by banks on their websites.
+
+## **14.11 Pillar 3 under Basel III Framework<sup>105</sup>**
+
+14.11.1 The Pillar 3 disclosure requirements as introduced under Basel III along with previous disclosure requirements with suitable modifications / enhancements are detailed in the subsequent paragraphs.
+
+14.11.2 In order to ensure comparability of the capital adequacy of banks across jurisdictions, it is important to disclose details of items of regulatory capital and various regulatory adjustments to it. Further, to improve consistency and ease of use of disclosures relating to the composition of capital and to mitigate the risk of inconsistent reporting format undermining the objective of enhanced disclosures, banks across Basel member jurisdictions are required to publish their capital positions according to common templates. The disclosure requirements are set out in the form of following templates:
+
+<sup>104</sup> It may be noted that Pillar 3 disclosures are required to be made by all banks including those which are not listed on stock exchanges and / or not required to publish financial results / statement. Therefore, such banks are also required to make Pillar 3 disclosures at least on their websites within reasonable period.
+
+<sup>105</sup>Pillar 3 requirements as introduced vide [circular DBOD.No.BP.BC.98/21.06.201/2012-13 dated May 28, 2013](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8005&Mode=0) on Guidelines on Composition of Capital Disclosure Requirements. These guidelines became effective from July 1, 2013. The new disclosure requirements are in addition to the Pillar 3 guidance contained in NCAF.
+
+## **(i) Disclosure Template**
+
+A common template which will be used by banks to report the details of their regulatory capital. It is designed to meet the Basel III requirement to disclose all regulatory adjustments. The template enhances consistency and comparability in the disclosure of the elements of capital between banks and across jurisdictions.
+
+# **(ii) Reconciliation Requirements**
+
+In order to meet the reconciliation requirements as envisaged under Basel III, a three-step approach has been devised. This step-by-step approach to reconciliation ensures that the Basel III requirement to provide a full reconciliation of all regulatory capital elements back to the published financial statements is met in a consistent manner.
+
+### **(iii) Main Features Template**
+
+A common template has been designed to capture the main features of all regulatory capital instruments issued by a bank at one place. This disclosure requirement is intended to meet the Basel III requirement to provide a description of the main features of capital instruments.
+
+# **(iv) Other Disclosure Requirements**
+
+This disclosure enables banks in meeting the Basel III requirement to provide the full terms and conditions of capital instruments on their websites.
+
+**(v)** Pillar 3 disclosure requirements also include certain aspects that are not specifically required to compute capital requirements under Pillar 1<sup>106</sup>. It may be noted that beyond disclosure requirements as set forth in these guidelines, banks are responsible for conveying their actual risk profile to market participants. The information banks disclose must be adequate to fulfill this objective. In addition to the specific disclosure requirements as set out in the guidelines, banks operating in India should also make additional disclosures in the following areas:
+
+- (i) Securitisation exposures in the trading book;
+- (ii) Sponsorship of off-balance sheet vehicles;
+- (iii) Valuation with regard to securitisation exposures; and
+- (iv) Pipeline and warehousing risks with regard to securitisation exposures.
+
+### **14.12 Disclosure

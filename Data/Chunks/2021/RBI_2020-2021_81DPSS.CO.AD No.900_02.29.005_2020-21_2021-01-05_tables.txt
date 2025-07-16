@@ -1,0 +1,88 @@
+| acceptance device each under the Scheme.                                                        |                  |
+|-------------------------------------------------------------------------------------------------|------------------|
+| No.<br>The AC shall devise a transparent mechanism for allocation of targets to acquiring       |                  |
+| C.<br>L<br>banks / non-banks in different segments / locations.                                 |                  |
+| O<br>P<br>The tentative distribution of targets across centres will be as follows:              |                  |
+| S.<br>Distribution of Acceptance Devices                                                        | % Share of Total |
+| S<br>P<br>Tier-3 to Tier-4 centres<br>4                                                         | 30               |
+| D<br>2<br>Tier-1 to Tier-4 centres<br>O.<br>3-                                                  |                  |
+| 2<br>C<br>Tier-5 and Tier-6 centres<br>0                                                        | 60               |
+| 5/2<br>by<br>North Eastern States and UTs of J & K and                                          | 10               |
+| 0<br>d<br>Ladakh<br>0                                                                           |                  |
+| de<br>9-<br>e<br>2                                                                              |                  |
+| ers<br>Market Segments and Merchant Categories<br>2-                                            |                  |
+| 0/0<br>Merchants providing essential services (transport, hospitality, etc.), government<br>p   |                  |
+| Su<br>4<br>payments, fuel pumps, PDS shops, healthcare, kirana shops, street vendors, etc., may |                  |
+| 9<br>S<br>be covered, especially in the targeted geographies.                                   |                  |
+
+| Location                  | Physical payment  | Digital payment   |  |  |
+|---------------------------|-------------------|-------------------|--|--|
+|                           | acceptance device | acceptance device |  |  |
+|                           | (% of total cost) | (% of total cost) |  |  |
+| Tier-3 and Tier-4 centres | 30                | 50                |  |  |
+| Tier-5 and Tier-6 centres | 40                | 60                |  |  |
+| North Eastern States      | 50                | 75                |  |  |
+
+| Location                                            | Physical payment<br>acceptance device<br>(% of total cost) | Digital payment<br>acceptance device<br>(% of total cost) |  |  |
+|-----------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|--|--|
+| Tier-1 to Tier-4 centres                            | 60                                                         | 75                                                        |  |  |
+| Tier-5 and Tier-6 centres,                          | 75                                                         | 90                                                        |  |  |
+| North Eastern States and<br>UTs of J & K and Ladakh |                                                            |                                                           |  |  |
+
+| Target Achievement / Utilisation | % of Subsidy Eligible |
+|----------------------------------|-----------------------|
+| Less than 75 percent             | 90                    |
+| 75 percent to 125 percent        | 100                   |
+| Greater than 125 percent         | 110                   |
+
+| Authorised Signatory 1  | Authorised Signatory 2  |
+|-------------------------|-------------------------|
+| Name                    | Name                    |
+| Designation             | Designation             |
+| Address and Contact No. | Address and Contact No. |
+| Encl.: as above         |                         |
+
+| Name/s of District / Block / Village where the deployments are planned.<br>No. |          |              |             |               |               |               |             |     |         |          |        |
+|--------------------------------------------------------------------------------|----------|--------------|-------------|---------------|---------------|---------------|-------------|-----|---------|----------|--------|
+| C.<br>4. Implementation Period                                                 |          |              |             |               |               |               |             |     |         |          |        |
+| L<br>O<br>The overall period to complete the project.<br>P                     |          |              |             |               |               |               |             |     |         |          |        |
+| S.<br>5. Support Sought under PIDF<br>S<br>P                                   |          |              |             |               |               |               |             |     |         |          |        |
+| Sl.                                                                            | Type of  | No. of       | No. of      | No. of        | D<br>No. of   | 2<br>No. of   | 4<br>No. of | Un  | Unit    | Total    | Eligib |
+| N                                                                              | Accepta  | Units        | Units       | Units         | O.<br>Units   | 3-<br>Units   | Units       | it  | Operati | Financia | le     |
+| o.                                                                             | nce      | (PM          | for         | for           | C<br>(PM      | 2<br>0<br>for | for         | Ra  | ng      | l Outlay | Amou   |
+|                                                                                | Device   | SVANIdhi     | Tier 3      | by<br>Tier 5  | 5/2<br>SVANId | North         | UTs         | te  | Cost    | net of   | nt for |
+|                                                                                | (Physica | Scheme       | & 4         | d<br>& 6      | 0<br>hi       | Easte         | of          | (₹) | (₹)     | Input    | Supp   |
+|                                                                                | l /      | beneficiari  | de<br>Centr | Centr         | 0<br>Schem    | rn            | J&K         |     |         | Tax      | ort    |
+|                                                                                | Digital) | es) for      | e<br>es     | 9-<br>2<br>es | e             | State         | and         |     |         | Credit   | (₹)    |
+|                                                                                |          | Tier 1 & 2   | ers         | 2-            | benefici      | s             | Ladak       |     |         | Receive  |        |
+|                                                                                |          | p<br>centres | 0/0         |               | aries)        |               | h           |     |         | d /      |        |
+|                                                                                |          | Su           | 4           |               | for Tier      |               |             |     |         | Receiva  |        |
+|                                                                                |          |              | 9           |               | 3 to 6        |               |             |     |         | ble      |        |
+|                                                                                |          | S            |             |               | centres       |               |             |     |         | (₹)      |        |
+|                                                                                |          |              |             |               |               |               |             |     |         |          |        |
+
+| Madam / Dear Sir,                                                                                                                                                    |            |                 |              |                  |                 |                | No.   |     |         |           |         |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|--------------|------------------|-----------------|----------------|-------|-----|---------|-----------|---------|--|
+| C.<br>Support from PIDF for Deployment of Acceptance Devices – First Reimbursement<br>L                                                                              |            |                 |              |                  |                 |                |       |     |         |           |         |  |
+| O<br>P<br>Please refer to our project proposal no. _____ dated ____. The details of deployment of<br>S.<br>acceptance devices are as below:<br>S<br>P<br>4<br>D<br>2 |            |                 |              |                  |                 |                |       |     |         |           |         |  |
+| Sl.                                                                                                                                                                  | Type of    | No. of          | No.          | No.              | O.<br>No. of    | 3-<br>No.<br>2 | No.   | Uni | Unit    | Total     | 75 %    |  |
+| N                                                                                                                                                                    | Accepta    | Units           | of           | of               | C<br>0<br>Units | of             | of    | t   | Operati | Financia  | of      |  |
+| o.                                                                                                                                                                   | nce        | (PM             | Units        | by<br>Units      | 5/2<br>(PM      | Unit           | Units | Rat | ng      | l Outlay  | Eligibl |  |
+|                                                                                                                                                                      | Device     | SVANIdhi        | for          | d<br>for         | 0<br>SVANIdhi   | s              | for   | e   | Cost    | net of    | e       |  |
+|                                                                                                                                                                      | (Physical  | Scheme          | de<br>Tier   | Tier             | 0<br>Scheme     | for            | UTs   | (₹) | (₹)     | Input tax | Amou    |  |
+|                                                                                                                                                                      | / Digital) | beneficiari     | e<br>3 & 4   | 9-<br>2<br>5 & 6 | beneficiari     | Nort           | of    |     |         | Credit    | nt for  |  |
+|                                                                                                                                                                      |            | es) for         | ers<br>centr | 2-<br>centr      | es) for         | h              | J&K   |     |         | Receive   | Supp    |  |
+|                                                                                                                                                                      |            | p<br>Tier 1 & 2 | 0/0<br>es    | es               | Tier 3 to 6     | Eas            | and   |     |         | d /       | ort     |  |
+|                                                                                                                                                                      |            | Su<br>centres   | 4            |                  | centres         | tern           | Lada  |     |         | Receiva   | (₹)     |  |
+|                                                                                                                                                                      |            | 9<br>S          |              |                  |                 | Stat           | kh    |     |         | ble       |         |  |
+|                                                                                                                                                                      |            |                 |              |                  |                 | es             |       |     |         | (₹)       |         |  |
+|                                                                                                                                                                      |            |                 |              |                  |                 |                |       |     |         |           |         |  |
+
+| Authorised Signatory 1                                                                                                                                 | Authorised Signatory 2               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| Name                                                                                                                                                   | Name                                 |
+| Designation                                                                                                                                            | Designation                          |
+| Address and Contact No.                                                                                                                                | No.<br>Address and Contact No.<br>C. |
+| Encl.: as above<br>P                                                                                                                                   | L<br>O                               |
+| S.<br>S<br>P<br>4<br>D<br>2<br>O.<br>3-<br>2<br>C<br>0<br>5/2<br>by<br>0<br>d<br>0<br>de<br>9-<br>e<br>2<br>ers<br>2-<br>0/0<br>p<br>Su<br>4<br>9<br>S |                                      |
+

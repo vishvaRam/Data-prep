@@ -1,0 +1,26 @@
+. The renewal of deposits with retrospective effect shall not be allowed. Designated banks shall seek the option for renewal from existing customers in the letter which is to be issued as at para 2.4.i.(c) above.
+- i. The excess interest paid in case of premature closure can either be adjusted from the principal amount at the time of repayment or should be recovered separately from the customer by crediting the full principal amount at the time of redemption.
+- j. Designated banks shall pay the amount due at redemption to the depositors on the due date, incur redemption expenses, if applicable and subsequently raise claim to the Government of India through Reserve Bank of India.
+- k. Notwithstanding the procedures and timelines laid down through these guidelines, RBI may issue instructions to banks keeping in mind the practical considerations of banks and the concerns of the depositors.
+
+### **ii. Redemption in Gold**
+
+- a. The quantity of gold shall be payable in multiples of 10 grams and the remaining fraction of gold shall be payable in INR (principal along with interest). With regards to fractional quantity, for example 37.103 grams gold deposit, fractional quantity is 7.103 grams which is less than 10 grams, needs to be paid in INR at the prevailing gold rate on the maturity date. The applicable prevailing rate will be governed by provisions at para 2.1.1 of this Master Direction.
+- b. In case of redemption of deposit in gold, the administrative charge at a rate of 0.5%[1](#page-2-0) of the notional redemption amount as on the maturity date in terms of INR will be collected from the depositor and paid to the designated banks to cover logistical and operational costs involved in redemption. These administrative charges may be adjusted against the payment of fractional quantity in INR. If this amount is not found sufficient, then the administrative charges may be adjusted against the interest payable to the depositor or may be recovered in cash from the depositor.
+- c. If the depositor does not indicate any choice for mode of redemption (gold or INR) to the bank in response to its 120-day prior communication (issued as at para 2.4.i.(c) above), the option indicated at the time of account opening will prevail. Further, in
+
+<span id="page-2-0"></span><sup>1</sup> The administrative charge has been revised from 0.2% to 0.5% vide Circular DoR.AUT.REC.58/23.67.001/2022-23 dated August 04, 2022. However, all deposits prior to this date will continue to be governed by the 0.2% (of the notional redemption amount as on the maturity date in terms of INR) administrative charge in case of redemption in gold.
+
+case the gold is not redeemed by the customer on the maturity date, such stock will continue to be kept in the custody of the bank for a maximum period of 60 days. The depositor can renew the deposit during this 60-day period but would be liable to pay the applicable administrative charge (refer para 2.4.ii.(b) above). If the depositor does not redeem the deposit on the due date or within 60 days from the maturity date and has also not renewed the deposit, the redemption will automatically be made in INR and the money shall be credited in the linked saving/current account of the depositor in the concerned bank. In case of non-availability of an active bank account, the banks will report the same to RBI, on priority.
+
+- d. The payment of interest in case of cumulative deposit shall be calculated with reference to Indian Rupee equivalent of value of gold at the time of deposit.
+- e. Arrangement of gold by the designated bank:
+	- (i) Each bank shall maintain the stock of gold, at least equivalent to the gold redemption due in next 3 months, out of the gold mobilised under MLTGD. Each bank before giving MLTGD gold for auction to MMTC, shall seek prior permission from RBI. RBI, on behalf of Government of India, will give such permission after assessing the redemption requirement of MLTGD for the next three months and the total stock of gold available with all the banks.
+	- (ii) Surplus MLTGD gold with one bank can be transferred to another bank to meet MLTGD redemption. This inter-bank transfer of gold will not be treated as interbank lending by banks. Banks may also be allowed to purchase India Good Delivery Standard (IGDS) gold/LGDS (LBMA's Good Delivery Standard) gold bars from the local refineries empaneled with the banks or MMTC and can get reimbursement from Government of India.
+	- (iii) In case sufficient gold is not available with any bank for redemption, RBI will bring it to the notice of Government of India at least 3 months prior to the date of redemption and an appropriate decision on sourcing of gold shall be taken by the Government.
+
+### **iii. Redemption in INR – Modalities**
+
+In case of redemption in INR, the depositor may furnish the original deposit certificate with his account details in any GMS branch of the bank and his account will be credited accordingly.
+
+#### **iv. Renewal of Deposit – Modal

@@ -1,0 +1,28 @@
+ficationUser.aspx?Id=11942&Mode=0) on "Micro, Small and Medium Enterprises (MSME) sector – Restructuring of Advances";
+- (iii) [DOR.STR.REC.11/21.04.048/2021-22 dated May 5, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12085&Mode=0) on "Resolution Framework – 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses" read with [DOR.STR.REC.20/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12104&Mode=0) on "Resolution Framework - 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses – Revision in the threshold for aggregate exposure";
+- (iv) [DOR.STR.REC.12/21.04.048/2021-22 dated May 5, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12086&Mode=0) on "Resolution Framework 2.0 – Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs)" read with [DOR.STR.REC.21/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12105&Mode=0) on "Resolution Framework - 2.0: Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs) – Revision in the threshold for aggregate exposure".
+
+# Part B2 Prudential Norms Applicable to Restructuring
+
+#### 16.Definition of Restructuring
+
+16.1 Restructuring is an act in which a lender, for economic or legal reasons relating to the borrower's financial difficulty, grants concessions to the borrower. Restructuring may involve modification of terms of the advances / securities, which would generally include, among others, alteration of payment period / payable amount / the amount of instalments / rate of interest; roll over of credit facilities; sanction of additional credit facility/ release of additional funds for an account in default to aid curing of default / enhancement of existing credit limits; compromise settlements where time for payment of settlement amount exceeds three months.
+
+16.2 For this purpose, the board-approved policies of lenders on resolution of stressed assets, required to be in place in terms of these guidelines, shall also have detailed policies on various signs of financial difficulty, providing quantitative as well as qualitative parameters, for determining financial difficulty as expected from a prudent bank. In order to enable lenders to frame respective policies for determination of financial difficultly, a non-exhaustive indicative list of signs of financial difficulty are provided as under[14](#page-0-0):
+
+- a) A default, as per the definition provided in the framework, shall be treated as an indicator for financial difficulty, irrespective of reasons for the default.
+- b) A borrower not in default, but it is probable that the borrower will default on any of its exposures in the foreseeable future without the concession, for instance, when there has been a pattern of delinquency in payments on its exposures.
+- c) A borrower's outstanding securities have been delisted, are in the process of being delisted, or are under threat of being delisted from an exchange due to noncompliance with the listing requirements or for financial reasons.
+- d) On the basis of actual performance, estimates and projections that encompass the borrower's current level of operations, the borrower's cash flows are assessed to be insufficient to service all of its loans or debt securities (both interest and principal) in accordance with the contractual terms of the existing agreement for the foreseeable future.
+- e) A borrower's credit facilities are in non-performing status or would be categorised as nonperforming without the concessions.
+
+<span id="page-0-0"></span> <sup>14</sup> Based on the Basel Committee Guidelines on "Prudential treatment of problem assets – definitions of non-performing exposures and forbearance".
+
+- f) A borrower's existing exposures are categorised as exposures that have already evidenced difficulty in the borrower's ability to repay in accordance with the bank's internal credit rating system.
+- g) The above list provides examples of possible indicators of financial difficulty, but is not intended to constitute an exhaustive enumeration of financial difficulty indicators with respect to restructuring. Lenders shall need to complement the above with key financial ratios and operational parameters which may include quantitative and qualitative aspects. In particular, financial difficulty can be identified even in the absence of arrears on an exposure. The robustness of the board approved policy and the outcomes would be examined as part of the supervisory oversight of the Reserve Bank.
+
+### 17. Prudential Norms**[15](#page-1-0)**
+
+### 17.1 Asset Classification
+
+In case of restructuring, the accounts classified as 'standard' shall be immediately downgraded as non-performing assets (NPAs), i.e., 'sub-standard' to begin with. The NPAs, upon restructuring, would continue to have the same asset classification as prior to restructuring. In both cases,

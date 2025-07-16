@@ -228,8 +228,8 @@ class PDFToMarkdownConverter:
 def main():
     # Adjust paths based on your environment.
     # Using absolute paths or paths relative to the script's execution can be safer.
-    input_directory = os.path.abspath("../Data/Raw-pdfs/Book/now")
-    output_directory = os.path.abspath("../Data/pdf-markdowns/Book")
+    input_directory = os.path.abspath("/workspaces/Data_prep/Data/Raw-pdfs/2020")
+    output_directory = os.path.abspath("/workspaces/Data_prep/Data/pdf-markdowns/2020")
     
     # Define the number of pages per chunk. Adjust this value based on your GPU memory constraints.
     # For example, if you find that PDFs with more than 50 pages cause OOM errors, set this to 50.

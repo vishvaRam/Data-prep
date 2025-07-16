@@ -1,0 +1,28 @@
+itates valuation, and strengthens market discipline, it is important that banks publicly disclose information on a regular basis that enables market participants to make informed decisions about the soundness of their liquidity risk management framework and liquidity position.
+
+## **13.8 Off-Balance Sheet Exposures and Securitisation Risk**
+
+Banks' use of securitisation has grown dramatically over the last several years. It has been used as an alternative source of funding and as a mechanism to transfer risk to investors. While the risks associated with securitisation are not new to banks, the recent financial turmoil highlighted unexpected aspects of credit risk, concentration risk, market risk, liquidity risk, legal risk and reputational risk, which banks failed to adequately address. For instance, a number of banks that were not contractually obligated to support sponsored securitisation structures were unwilling to allow those structures to fail due to concerns about reputational risk and future access to capital markets. The support of these structures exposed the banks to additional and unexpected credit, market and liquidity risk as they brought assets onto their balance sheets, which put significant pressure on their financial profile and capital ratios.
+
+Weaknesses in banks' risk management of securitisation and off-balance sheet exposures resulted in large unexpected losses during the financial crisis. To help mitigate these risks, a bank's on- and off-balance sheet securitisation activities should be included in its risk management disciplines, such as product approval, risk concentration limits, and estimates of market, credit and operational risk.
+
+In light of the wide range of risks arising from securitisation activities, which can be compounded by rapid innovation in securitisation techniques and instruments, minimum capital requirements calculated under Pillar 1 are often insufficient. All risks arising from securitisation, particularly those that are not fully captured under Pillar 1, should be addressed in a bank's ICAAP. These risks include:
+
+- Credit, market, liquidity and reputational risk of each exposure;
+- Potential delinquencies and losses on the underlying securitised exposures;
+- Exposures from credit lines or liquidity facilities to special purpose entities;
+- Exposures from guarantees provided by monolines and other third parties.
+
+Securitisation exposures should be included in the bank's MIS to help ensure that senior management understands the implications of such exposures for liquidity, earnings, risk concentration and capital. More specifically, a bank should have the necessary processes in place to capture in a timely manner, updated information on securitisation transactions including market data, if available, and updated performance data from the securitisation trustee or servicer.
+
+## **13.9 Reputational Risk and Implicit Support<sup>102</sup>**
+
+## 13.9.1 **Provision of Implicit Support for Securitization Transactions**
+
+(i) Provision of implicit support to a transaction, whether contractual (i.e., credit enhancements provided at the inception of a securitised transaction) or non-contractual (implicit support) can take numerous forms. For instance, contractual support can include over collateralisation, credit derivatives, spread accounts, contractual recourse obligations, subordinated notes, credit risk mitigants provided to a specific tranche, the subordination of fee or interest income or the deferral of margin income, and clean-up calls that exceed 10 percent of the initial issuance. Examples of implicit support include the purchase of deteriorating credit risk
+
+ <sup>102</sup> Annex 3 of the Guidelines on Implementation of Basel III Capital Regulations in India issued vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)  [DBOD.No.BP.BC.98/21.06.201/2011-2012 dated May 2, 2012.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)
+
+exposures from the underlying pool, the sale of discounted credit risk exposures into the pool of securitised credit risk exposures, the purchase of underlying exposures at above market price or an increase in the first loss position according to the deterioration of the underlying exposures.
+
+(ii) The provision of implicit (or non-contractual) support, as opposed to contractual credit support (i.e., credit enhancements), raises significant supervisory concerns. For traditional securitisation structures the provision of implicit support undermines the clean break criteria, which when satisfied would allow banks to exclude the securitised assets from regulatory capital calculations. For synthetic securitisation structures, it negates the significance of risk transference. By providing implicit support, banks signal to the market that the risk is still with the bank and has not in effect been transferred. The institution's capital calculation therefore understates the true risk. Accordingly,

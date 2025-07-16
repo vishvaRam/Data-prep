@@ -1,0 +1,8 @@
+| Sr | Newly      | Erstwhile | Sub-Division/      | Lead Bank      | District Working   |
+|----|------------|-----------|--------------------|----------------|--------------------|
+| No | Carved     | District  | Tehsil under newly | Responsibility | Code allotted to   |
+|    | District   |           | created District   | assigned to    | new district       |
+| 1  | Malerkotla | Sangrur   | Malerkotla         | State Bank of  | (to be read<br>00T |
+|    |            |           | Amargarh and       | India          | as "zero zero T")  |
+|    |            |           | Ahemedgarh         |                |                    |
+

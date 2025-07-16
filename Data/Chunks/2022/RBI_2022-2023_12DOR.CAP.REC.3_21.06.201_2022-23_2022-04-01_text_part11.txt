@@ -1,0 +1,33 @@
+s**
+
+(i) Defined benefit pension fund liabilities, as included on the balance sheet, must be fully recognised in the calculation of Common Equity Tier 1 capital (i.e., Common Equity Tier 1 capital cannot be increased through derecognising these liabilities). For each defined benefit pension fund that is an asset on the balance sheet, the asset should be deducted in the calculation of Common Equity Tier 1 net of any associated deferred tax liability which would be extinguished if the asset should become impaired or derecognised under the relevant accounting standards.
+
+(ii) Application of these rules at consolidated level would mean deduction of defined benefit pension fund assets and recognition of defined benefit pension fund liabilities pertaining to subsidiaries in the consolidated Common Equity Tier 1, in addition to those pertaining to the solo bank.
+
+# **4.4.8 Investments in Own Shares (Treasury Stock)**
+
+(i) Investment in a bank's own shares is tantamount to repayment of capital and therefore, it is necessary to knock-off such investment from the bank's capital with a view to improving the bank's quality of capital. This deduction would remove the double counting of equity capital which arises from direct holdings, indirect holdings via index funds and potential future holdings as a result of contractual obligations to purchase own shares.
+
+(ii) Banks should not repay their equity capital without specific approval of Reserve Bank of India. Repayment of equity capital can take place by way of share buy-back, investments in own shares (treasury stock) or payment of dividends out of reserves, none of which are permissible. However, banks may end up having indirect investments in their own stock if they invest in / take exposure to mutual funds or index funds / securities which have long position in bank's share. In such cases, banks should look through holdings of index securities to deduct exposures to own shares from their Common Equity Tier 1 capital. Following the same approach outlined above, banks must deduct investments in their own Additional Tier 1 capital in the calculation of their Additional Tier 1 capital and investments in their own Tier 2 capital in the calculation of their Tier 2 capital. In this regard, the following rules may be observed:
+
+(a) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is known; the indirect investment would be equal to bank's investments in such entities multiplied by the percent of investments of these entities in the investing bank's respective capital instruments.
+
+<sup>15</sup>It includes other defined employees' funds also.
+
+(b) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is not known but, as per the investment policies / mandate of these entities such investments are permissible; the indirect investment would be equal to bank's investments in these entities multiplied by 10%<sup>16</sup> of investments of such entities in the investing bank's capital instruments. Banks must note that this method does not follow corresponding deduction approach i.e., all deductions will be made from the Common Equity Tier 1 capital even though, the investments of such entities are in the Additional Tier 1 / Tier 2 capital of the investing banks.
+
+(iii) Application of these rules at consolidated level would mean deduction of subsidiaries' investments in their own shares (direct or indirect) in addition to bank's direct or indirect investments in its own shares while computing consolidated Common Equity Tier 1.
+
+## **4.4.9 Investments in the Capital of Banking, Financial and Insurance Entities<sup>17</sup>**
+
+## **4.4.9.1 Limits on a Bank's Investments in the Capital of Banking, Financial and Insurance Entities**
+
+(i) A bank's investment in the capital instruments issued by banking, financial and insurance entities is subject to the following limits:
+
+(a) A bank's investments in the **capital instruments** issued by banking, financial and insurance entities should not exceed 10% of its **capital funds**, but after all deductions mentioned in paragraph 4 (upto paragraph 4.4.8).
+
+(b) Banks should not acquire any fresh stake in a bank's equity shares, if by such acquisition, the investing bank's holding exceeds 10% of the investee bank's equity capital.
+
+(c) Under the provisions of Section 19(2) of the Banking Regulation Act, 1949, a banking company cannot hold shares in any company whether as pledge or mortgagee or absolute owner of an amount exceeding 30% of the paid-up share capital of that company or 30% of its own paid-up share capital and reserves, whichever is less.
+
+(d) Equity investment by a bank in a subsidiary company, financial services company, financial institution, stock and other exchang

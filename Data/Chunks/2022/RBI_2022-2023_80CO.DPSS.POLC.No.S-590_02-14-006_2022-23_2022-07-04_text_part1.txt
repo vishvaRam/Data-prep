@@ -1,0 +1,53 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2022-23/80 CO.DPSS.POLC.No.S-590/02-14-006/2022-23 July 04, 2022
+
+The Chairman / Managing Director / Chief Executive Officer Bank and Non-bank Payment System Operators (PSOs)
+
+Madam / Dear Sir,
+
+# **Requirement for obtaining prior approval in case of takeover / acquisition of control of non-bank PSOs and sale / transfer of payment system activity of non-bank PSO**
+
+A reference is invited to Reserve Bank of India (RBI) instructions contained in paragraph 5.10 of [Master Directions on Prepaid Payment Instruments](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12156) dated August 27, 2021, paragraph 5.2 of [Guidelines on Regulation of Payment Aggregators](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) and Payment Gateways dated March [17, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) and paragraph 3.1 of Annex-A to White Label ATM [Guidelines dated June 20, 2012.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7286&Mode=0)
+
+2. The operations of non-bank PSOs (authorised to operate any Payment System) have been reviewed and they shall require prior approval of RBI in the following cases –
+
+- a. Takeover / Acquisition of control, which may / may not result in change of management.
+- b. Sale / Transfer of payment activity to an entity not authorised for undertaking similar activity.
+- 3. The non-bank PSOs shall inform RBI within 15 calendar days in the following cases
+	- a. Change in management / directors.
+	- b. Sale / Transfer of payment activity to an entity authorised for undertaking similar activity.
+- 4. Details of the requirements are given in [Annex-1.](#page--1-0)
+
+5. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007) and shall come into effect immediately.
+
+Yours faithfully,
+
+(P. Vasudevan) Chief General Manager
+
+## **CO.DPSS.POLC.No.S-590/02-14-006/2022-23 dated July 04, 2022**
+
+- 1. Non-bank PSO shall require prior approval of RBI in the following cases:
+	- a. Takeover / Acquisition of control[1,](#page--1-1) which may or may not result in change of management
+
+The transferor non-bank PSO shall submit an application to Department of Payment and Settlement Systems (DPSS), Central Office (CO), RBI, along with the following documents –
+
+- i. Information about the proposed directors as per [Annex-2;](#page--1-0) and
+- ii. Complete details about the new shareholders, etc., as per [Annex-3.](#page--1-0)
+- b. Sale / Transfer of payment activity to an entity not authorised for undertaking similar activity
+	- i. The seller / transferor non-bank PSO shall apply to DPSS, CO, RBI for obtaining prior approval along with the minimum appropriate details.
+	- ii. The buyer / transferee entity shall apply for authorisation in Form A (available on RBI website) as prescribed under Regulation 3(2) of the Payment and Settlement Systems Regulations, 2008 along with the requisite application fee. This shall be akin to a new authorisation and the procedure specified in the guidelines for respective payment activity will be applicable (except that the last available System Audit Report would be sufficient in case a new system is not being set-up).
+	- iii. If the acquiring entity is a bank, it shall apply to DPSS, CO, RBI for approval.
+	- iv. After obtaining Certificate of Authorisation (CoA) / approval, the sale / transfer can be proceeded with.
+	- v. The seller / transferor PSO shall voluntarily surrender its CoA as per the process mentioned in [RBI circular DPSS.CO.AD.No.2627/02.27.005/2015-16 dated May 12,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10396&Mode=0)  [2016.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10396&Mode=0) The buyer / transferee bank / non-bank shall be liable for complying with any regulatory / supervisory action taken by RBI for periods prior to the sale / transfer.
+- 2. RBI shall endeavour to respond within 45 calendar days after receipt of complete details from both the entities. The timeline is not applicable in case of overseas principal in Money Transfer Service Scheme.
+
+ <sup>1</sup> For these instructions, "Control" shall have the same meaning as assigned to it under clause (e) of sub-regulation (1) of regulation 2 of Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, as amended from time to time.
+
+## 3. Requirement of prior public notice
+
+- i. After obtaining RBI approval, a public notice of at least 15 calendar days shall be given before effecting the changes. Such public notice shall be given either separately by the authorised non-bank PSO and the buyer / acquirer bank / non-bank, or jointly by them. The public notice shall indicate the intention and reasons for such changes, particulars of the entities concerned, etc. The notice shall be published in at least one leading natio

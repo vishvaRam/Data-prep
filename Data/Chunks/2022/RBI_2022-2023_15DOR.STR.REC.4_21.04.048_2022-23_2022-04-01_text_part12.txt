@@ -1,0 +1,33 @@
+rojects and toll collection rights, where there are provisions to compensate the project sponsor if a certain level of traffic is not achieved, as tangible securities subject to the condition that banks' right to receive annuities and toll collection rights is legally enforceable and irrevocable.
+- c) It is noticed that most of the infrastructure projects, especially road/highway projects are user-charge based, for which the Planning Commission has published Model Concession Agreements (MCAs). These have been adopted by various Ministries and State Governments for their respective public-private partnership (PPP) projects and they provide adequate comfort to the lenders regarding security of their debt. In view of the above features, in case of PPP projects, the debts due to the lenders may be considered as secured to the extent assured by the project authority in terms of the Concession Agreement, subject to the following conditions:
+	- i. User charges / toll / tariff payments are kept in an escrow account where senior lenders have priority over withdrawals by the concessionaire;
+	- ii. There is sufficient risk mitigation, such as pre-determined increase in user charges or increase in concession period, in case project revenues are lower than anticipated;
+	- iii. The lenders have a right of substitution in case of concessionaire default;
+	- iv. The lenders have a right to trigger termination in case of default in debt service; and
+- v. Upon termination, the Project Authority has an obligation of (i) compulsory buy-out and (ii) repayment of debt due in a pre-determined manner.
+- vi. In all such cases, banks must satisfy themselves about the legal enforceability of the provisions of the tripartite agreement and factor in their past experience with such contracts.
+- d) Banks should also disclose the total amount of advances for which intangible securities such as charge over the rights, licenses, authority, etc. has been taken as also the estimated value of such intangible collateral. The disclosure may be made under a separate head in "Notes to Accounts". This would differentiate such loans from other entirely unsecured loans.
+
+# 5.5 Standard assets
+
+5.5.1 The provisioning requirements for all types of standard assets stands as below. Banks should make general provision for standard assets at the following rates for the funded outstanding on global loan portfolio basis:
+
+- a) Farm Credit to agricultural activities, individual housing loans and Small and Micro Enterprises (SMEs) sectors at 0.25 per cent;
+- b) advances to Commercial Real Estate (CRE)[2](#page-4-0) Sector at 1.00 per cent;
+- c) advances to Commercial Real Estate Residential Housing Sector (CRE RH)[3](#page-4-1) at 0.75 per cent
+- d) housing loans extended at teaser rates as indicated in Paragraphs 5.9.9;
+- e) restructured advances as stipulated in the prudential norms for restructuring of advances.
+- f) Advances restructured and classified as standard in terms of the [Master Direction](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11394)  [– Reserve Bank of India \(Relief Measures by Banks in Areas affected by Natural](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11394)  [Calamities\) Directions 2018 – SCBs,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11394) as updated from time to time, at 5%.
+- g) All other loans and advances not included in (a) (f) above at 0.40 per cent.
+
+5.5.2 The provisions on standard assets should not be reckoned for arriving at net NPAs.
+
+<span id="page-4-1"></span><span id="page-4-0"></span> <sup>2</sup> CRE as defined in terms of the [circular DBOD.BP.BC.No.42/08.12.015/2009-10 dated September 9, 2009](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5261&Mode=0) on 'Guidelines on Classification of Exposures as Commercial Real Estate (CRE) Exposures'
+
+<sup>3</sup>CRE-RH as defined in the [circular DBOD.BP.BC.No.104/08.12.015/2012-13 dated June 21, 2013](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8047&Mode=0) on 'Housing Sector: New sub-sector CRE (Residential Housing) within CRE & Rationalisation of provisioning, risk-weight and LTV ratios'
+
+5.5.3 The provisions towards Standard Assets need not be netted from gross advances but shown separately as 'Contingent Provisions against Standard Assets' under 'Other Liabilities and Provisions Others' in Schedule 5 of the balance sheet.
+
+5.5.4 It is clarified that the Medium Enterprises will attract 0.40% standard asset provisioning. The definition of the terms Micro Enterprises, Small Enterprises, and Medium Enterprises shall be in terms of the [circular FIDD.MSME & NFS.BC.No.3/06.02.31/2020-21 dated July 2, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11934&Mode=0) on 'Credit flow to Micro, Small and Medium Enterprises Sector' as updated from time to time.
+
+5.5.5 A high level of unhedged foreign currency exposures of the entities can increase the probability of default in times of high currenc

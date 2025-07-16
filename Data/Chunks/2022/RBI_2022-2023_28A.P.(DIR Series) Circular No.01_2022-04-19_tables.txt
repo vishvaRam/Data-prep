@@ -1,0 +1,8 @@
+| Table - 1: Investment limits for FY 2022-23    |                  |                       |                |                     |                    |               |
+|------------------------------------------------|------------------|-----------------------|----------------|---------------------|--------------------|---------------|
+| all figures in ₹ Crore                         |                  |                       |                |                     |                    |               |
+|                                                | G-Sec<br>General | G-Sec<br>Long<br>Term | SDL<br>General | SDL<br>Long<br>Term | Corporate<br>Bonds | Total<br>Debt |
+| Current FPI limits                             | 2,53,298         | 1,22,298              | 85,902         | 7,100               | 6,07,039           | 10,75,637     |
+| Revised limit for the HY<br>Apr 2022-Sept 2022 | 2,60,594         | 1,29,594              | 89,365         | 7,100               | 6,37,455           | 11,24,107     |
+| Revised limit for the HY<br>Oct 2022-Mar 2023  | 2,67,890         | 1,36,890              | 92,828         | 7,100               | 6,67,871           | 11,72,578     |
+

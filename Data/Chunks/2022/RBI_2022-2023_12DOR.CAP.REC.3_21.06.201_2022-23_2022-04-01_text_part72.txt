@@ -1,0 +1,27 @@
+uctures for the production, assignment and verification of financial instrument valuations. Policies should ensure that the approvals of all
+
+valuation methodologies are well documented. In addition, policies and procedures should set forth the range of acceptable practices for the initial pricing, marking-to-market/model, valuation adjustments and periodic independent revaluation. New product approval processes should include all internal stakeholders relevant to risk measurement, risk control, and the assignment and verification of valuations of financial instruments.
+
+A bank's control processes for measuring and reporting valuations should be consistently applied across the firm and integrated with risk measurement and management processes. In particular, valuation controls should be applied consistently across similar instruments (risks) and consistent across business lines (books). These controls should be subject to internal audit. Regardless of the booking location of a new product, reviews and approval of valuation methodologies must be guided by a minimum set of considerations. Furthermore, the valuation/new product approval process should be supported by a transparent, well-documented inventory of acceptable valuation methodologies that are specific to products and businesses.
+
+In order to establish and verify valuations for instruments and transactions in which it engages, a bank must have adequate capacity, including during periods of stress. This capacity should be commensurate with the importance, riskiness and size of these exposures in the context of the business profile of the institution. In addition, for those exposures that represent material risk, a bank is expected to have the capacity to produce valuations using alternative methods in the event that primary inputs and approaches become unreliable, unavailable or not relevant due to market discontinuities or illiquidity. A bank must test and review the performance of its models under stress conditions so that it understands the limitations of the models under stress conditions.
+
+The relevance and reliability of valuations is directly related to the quality and reliability of the inputs. A bank is expected to apply the accounting guidance provided to determine the relevant market information and other factors likely to have a material effect on an instrument's fair value when selecting the appropriate inputs to use in the valuation process. Where values are determined to be in an active market, a bank should maximise the use of relevant observable inputs and minimise the use of unobservable inputs when estimating fair value using a valuation technique. However, where a market is deemed inactive, observable inputs or transactions may not be relevant, such as in a forced liquidation or distress sale, or transactions may not be observable, such as when markets are inactive. In such cases, accounting fair value guidance provides assistance on what should be considered, but may not be determinative. In assessing whether a source is reliable and relevant, a bank should consider, among other things:
+
+- the frequency and availability of the prices/quotes;
+- whether those prices represent actual regularly occurring transactions on an arm's length basis;
+- the breadth of the distribution of the data and whether it is generally available to the relevant participants in the market;
+- the timeliness of the information relative to the frequency of valuations;
+- the number of independent sources that produce the quotes/prices;
+- whether the quotes/prices are supported by actual transactions;
+- the maturity of the market; and
+- the similarity between the financial instrument sold in a transaction and the instrument held by the institution.
+
+A bank's external reporting should provide timely, relevant, reliable and decision useful information that promotes transparency. Senior management should consider whether disclosures around valuation uncertainty can be made more meaningful. For instance, the bank may describe the modelling techniques and the instruments to which they are applied; the sensitivity of fair values to modelling inputs and assumptions; and the impact of stress scenarios on valuations. A bank should regularly review its disclosure policies to ensure that the information disclosed continues to be relevant to its business model and products and to current market conditions.
+
+## **13.12 Sound Stress Testing Practices**
+
+Stress testing is an important tool that is used by banks as part of their internal risk management that alerts bank management to adverse unexpected outcomes related to a broad variety of risks, and provides an indication to banks of how much capital might be needed to absorb losses should large shocks occur. Moreover, stress testing supplements other risk management approaches and measures. It plays a particularly important role in:
+
+- providing forward looking assessments of risk,
+- overcoming limitations of models and his

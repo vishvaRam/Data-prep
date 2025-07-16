@@ -1,0 +1,283 @@
+| For the Bank             | MD/WTD                |
+|--------------------------|-----------------------|
+| By … … … … … … … … … … … | … … … … … … … … … … … |
+| Name:                    | Name:                 |
+| Title:                   |                       |
+|                          |                       |
+| In the presence of:      |                       |
+|                          |                       |
+| 1…. … … … … … … … …      | 2…. … … … … … … … … … |
+
+| Sr.No. | Particulars                                              | Information Disclosed                    |                        |                          |  |
+|--------|----------------------------------------------------------|------------------------------------------|------------------------|--------------------------|--|
+|        | I. Personal details                                      |                                          |                        |                          |  |
+| 1.     | Name in full                                             | First Name                               | Middle                 | Last                     |  |
+|        |                                                          |                                          | Name                   | Name                     |  |
+|        |                                                          |                                          |                        |                          |  |
+| 2.     | Father's name                                            |                                          |                        |                          |  |
+| 3.     | Gender (M/F/others)                                      |                                          |                        |                          |  |
+| 4.     | Present address                                          |                                          |                        |                          |  |
+| 5.     | E-mail address & alternate e-mail                        |                                          |                        |                          |  |
+|        | address:                                                 |                                          |                        |                          |  |
+|        | Telephone Number with STD code:                          |                                          |                        |                          |  |
+|        | Mobile Number:                                           |                                          |                        |                          |  |
+| 6.     | Nationality                                              |                                          |                        |                          |  |
+| 7.     | Date of Birth (dd/mm/yyyy) and Age                       | -<br>-<br>/ -<br>-<br>/ -<br>-<br>-<br>- | Age: -<br>-<br>years - | -<br>months              |  |
+| 8.     | Educational qualifications                               |                                          |                        |                          |  |
+| 9.     | Aadhaar Number                                           |                                          |                        |                          |  |
+|        |                                                          |                                          |                        |                          |  |
+| 10.    | (a) Permanent Account Number (PAN)                       |                                          |                        |                          |  |
+|        | (b) Place where the MD/<br>WTD<br>is assessed            |                                          |                        |                          |  |
+|        | to tax (Income Tax jurisdiction)/name                    |                                          |                        |                          |  |
+|        | and<br>address<br>of<br>Income<br>Tax                    | Date of filing                           |                        | Amount of tax paid (INR) |  |
+|        | Circle/Ward                                              |                                          |                        |                          |  |
+|        | (c)<br>Details<br>of<br>filing<br>of<br>return(s)<br>and |                                          |                        |                          |  |
+|        | payment of taxes for past 3 years                        |                                          |                        |                          |  |
+
+| 11. | Permanent address                                                              |      |        |         |        |
+|-----|--------------------------------------------------------------------------------|------|--------|---------|--------|
+| 12. | Present occupation (designation, name of                                       |      |        |         |        |
+|     | the organisation and brief write-up on                                         |      |        |         |        |
+|     | experience)                                                                    |      |        |         |        |
+| 13. | Previous occupation covering minimum of                                        |      |        |         |        |
+|     | past ten years, with complete address of                                       |      |        |         |        |
+|     | the organisation(s) worked in, date of                                         |      |        |         |        |
+|     | joining,<br>date<br>of<br>relieving<br>(including                              |      |        |         |        |
+|     | reasons), designation, etc.                                                    |      |        |         |        |
+| 14. | Details<br>regarding<br>work<br>experience<br>in                               |      |        |         |        |
+|     | banking<br>sector/<br>RBI<br>regulated<br>entity                               |      |        |         |        |
+|     | (name of the bank/ entity, number of years                                     |      |        |         |        |
+|     | at different designations, functional areas,                                   |      |        |         |        |
+|     | etc.)                                                                          |      |        |         |        |
+| 15. | In case a Chartered Accountant, indicate                                       |      |        |         |        |
+|     | the following:                                                                 |      |        |         |        |
+|     | (a)<br>Membership Number of Institute of                                       |      |        |         |        |
+|     | Chartered<br>Accountants<br>of<br>India                                        |      |        |         |        |
+|     | (ICAI):                                                                        |      |        |         |        |
+|     | (b)<br>Date of registration with the ICAI:                                     |      |        |         |        |
+|     | (c)<br>Name and Address of the registered                                      |      |        |         |        |
+|     | firm/s:                                                                        |      |        |         |        |
+|     | (d)<br>Details<br>of<br>the<br>Audit(s)<br>presently                           |      |        |         |        |
+|     | undertaken by the firm(s) or by you:                                           |      |        |         |        |
+| 16. | Name of the banker(s) with Branch and<br>Account Numbers (savings/current/loan | Bank | Branch | Type of | A/c    |
+|     | accounts) where you are a primary                                              | Name |        | A/c     | Number |
+|     | account holder:                                                                |      |        |         |        |
+
+| 17. | Details of shareholding, if held in any        |                                   |
+|-----|------------------------------------------------|-----------------------------------|
+|     | entity, either in physical or dematerialized   |                                   |
+|     | form, by you, spouse, and your minor           |                                   |
+|     | child.                                         |                                   |
+|     | (attach demat/shareholding certificate)        |                                   |
+| 18. | Any<br>other<br>information<br>relevant<br>for |                                   |
+|     | appointment as MD/WTD<br>of the bank:          |                                   |
+|     | II. Relevant Relationships of proposed MD/WTD  |                                   |
+| 19. | List of relatives, if any, who are connected   |                                   |
+|     | with the<br>bank:                              |                                   |
+|     |                                                |                                   |
+| 20. | List of entities in which:                     |                                   |
+|     | (a)<br>interested                              |                                   |
+|     | (b)<br>beneficial ownership                    |                                   |
+|     | (c)<br>Trustee                                 |                                   |
+|     |                                                |                                   |
+| 21. | List of entities, existing and proposed, in    | Name of the company / firm        |
+|     | which holding substantial interest within      | Country of incorporation          |
+|     | the meaning of Section 5(ne)1<br>of the        | Number of shares                  |
+|     | Banking<br>Regulation<br>Act,<br>1949<br>(as   | Face Value of each share          |
+|     | applicable to UCBs)                            | Total face value of share holding |
+|     |                                                | Shareholding as % of total Paid   |
+|     |                                                | up Capital                        |
+|     |                                                | Beneficial interest               |
+|     |                                                | (in value as well as % terms)     |
+|     |                                                |                                   |
+
+|     |                                                         | Whether the entity is a Section 8 |
+|-----|---------------------------------------------------------|-----------------------------------|
+|     |                                                         | Company under Companies Act,      |
+|     |                                                         | 2013                              |
+|     |                                                         |                                   |
+|     |                                                         |                                   |
+| 22. | Details of holdings in entities incorporated            |                                   |
+|     | abroad and having a place of business in                |                                   |
+|     | India.                                                  |                                   |
+| 23. | Name of Bank/NBFC/any other company                     |                                   |
+|     | in which currently or in the past a member              |                                   |
+|     | of the Board/ Advisor etc. (giving details of           |                                   |
+|     | period<br>during<br>which<br>such<br>office<br>is       |                                   |
+|     | being/was held).                                        |                                   |
+| 24. | If connected with any entity undertaking                |                                   |
+|     | hire<br>purchase,<br>financing,<br>investment,          |                                   |
+|     | leasing and other para banking activities               |                                   |
+|     | (nature of association to be mentioned),                |                                   |
+|     | details thereof.                                        |                                   |
+| 25. | If a stock broker or connected with any                 |                                   |
+|     | entity engaged in share broking activities,             |                                   |
+|     | details thereof.                                        |                                   |
+| 26. | Details<br>of<br>fund<br>and<br>non-fund-based          |                                   |
+|     | facilities,<br>if<br>any,<br>presently<br>availed<br>in |                                   |
+|     | person and/or by entities listed in (20) to             |                                   |
+|     | (25) above.                                             |                                   |
+| 27. | Cases, if any, where as an individual or                |                                   |
+|     | the entities listed at (20) to (25) above               |                                   |
+|     | have defaulted or declared as willful                   |                                   |
+|     | defaulter in the past in respect of credit              |                                   |
+|     | facilities obtained from a bank/NBFC/any                |                                   |
+|     | other lending institution.                              |                                   |
+
+|     | III. Records of professional achievements            |  |  |
+|-----|------------------------------------------------------|--|--|
+| 28. | Professional achievements relevant for               |  |  |
+|     | the post of MD/WTD.                                  |  |  |
+|     | IV. Proceedings, if any, against the proposed MD/WTD |  |  |
+| 29. | (a)<br>As<br>a<br>member<br>of<br>a<br>professional  |  |  |
+|     | association/body, details of disciplinary            |  |  |
+|     | action, if any, pending or commenced                 |  |  |
+|     | or resulting in conviction in the past or            |  |  |
+|     | whether been banned from entry at any                |  |  |
+|     | profession/ occupation at any time,                  |  |  |
+|     | details thereof.                                     |  |  |
+|     | (b)<br>If subject of any written complaint or        |  |  |
+|     | accusation<br>regarding<br>individual                |  |  |
+|     | professional<br>conduct<br>or<br>activities,         |  |  |
+|     | details thereof.                                     |  |  |
+| 30. | Details of prosecution, if any, pending or           |  |  |
+|     | commenced or resulting in conviction of              |  |  |
+|     | self or the entities listed at (20) to (25)          |  |  |
+|     | above for violation of economic laws and             |  |  |
+|     | regulations.                                         |  |  |
+| 31. | Details of criminal prosecution, if any,             |  |  |
+|     | pending or commenced or resulting in                 |  |  |
+|     | conviction.                                          |  |  |
+| 32. | Whether<br>he/she<br>has<br>indulged<br>in<br>or     |  |  |
+|     | penalised for any breach of AML/CFT                  |  |  |
+|     | guidelines, if so, details thereof.                  |  |  |
+| 33. | If adjudicated insolvent or has suspended            |  |  |
+|     | payment<br>or<br>has<br>compounded<br>with           |  |  |
+|     | creditors, details thereof.                          |  |  |
+
+| 34. | If found to be of unsound mind and stands        |  |
+|-----|--------------------------------------------------|--|
+|     | so declared by a competent Court, details        |  |
+|     | thereof.                                         |  |
+| 35. | (a)<br>If convicted by a Criminal Court of an    |  |
+|     | offence which involves moral turpitude           |  |
+|     | or otherwise, details thereof.                   |  |
+|     | (b)<br>If convicted by any Court of law,         |  |
+|     | details thereof?                                 |  |
+| 36. | If as an individual or any of the entities at    |  |
+|     | (20) to (25) above have been subject to          |  |
+|     | any<br>investigation/<br>vigilance/matters<br>of |  |
+|     | enquiry<br>from<br>any<br>of<br>the<br>previous  |  |
+|     | employers or government departments or           |  |
+|     | agency, details thereof.                         |  |
+| 37. | If<br>found<br>guilty<br>of<br>violation<br>of   |  |
+|     | rules/regulations/legislative requirements       |  |
+|     | by customs/ excise/ income tax/ foreign          |  |
+|     | exchange/<br>other<br>revenue<br>authorities,    |  |
+|     | details thereof.                                 |  |
+| 38. | If<br>reprimanded,<br>censured,<br>restricted,   |  |
+|     | suspended,<br>barred,<br>enjoined,<br>or         |  |
+|     | otherwise<br>sanctioned<br>by<br>any<br>other    |  |
+|     | regulator such as SEBI, IRDAI, PFRDA             |  |
+|     | etc.,<br>professional<br>organisation,           |  |
+|     | government agency, or court because of           |  |
+|     | professional conduct or activities, details      |  |
+|     | thereof.                                         |  |
+|     | (Though it shall not be necessary for a          |  |
+|     | candidate to mention in the column about         |  |
+|     | orders and findings which have been later        |  |
+|     | on reversed/ set aside in toto, it would be      |  |
+
+|                                                                                                    | necessary to make a mention of the same,               |  |  |  |  |
+|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|--|--|--|--|
+|                                                                                                    | in case the reversal/ setting aside is on              |  |  |  |  |
+|                                                                                                    | technical reasons like limitation or lack of           |  |  |  |  |
+|                                                                                                    | jurisdiction, and not on merit. If the order           |  |  |  |  |
+|                                                                                                    | is temporarily stayed and the appellate/               |  |  |  |  |
+|                                                                                                    | court proceedings are pending, the same                |  |  |  |  |
+|                                                                                                    | also should be mentioned).                             |  |  |  |  |
+|                                                                                                    |                                                        |  |  |  |  |
+|                                                                                                    |                                                        |  |  |  |  |
+|                                                                                                    | V. General Information                                 |  |  |  |  |
+| 39.                                                                                                | If<br>a<br>professional<br>like<br>Chartered           |  |  |  |  |
+|                                                                                                    | Accountant, Advocate etc. and presently                |  |  |  |  |
+|                                                                                                    | undertaking/undertaken any professional                |  |  |  |  |
+|                                                                                                    | work in any bank<br>or RBI regulated entity,           |  |  |  |  |
+|                                                                                                    | provide details thereof including the name             |  |  |  |  |
+|                                                                                                    | and period of association.                             |  |  |  |  |
+| 40.                                                                                                | If<br>a<br>sitting<br>MP/MLA/MLC<br>or<br>holding      |  |  |  |  |
+|                                                                                                    | political position in Municipal Corporation            |  |  |  |  |
+|                                                                                                    | or Municipality or other local bodies,                 |  |  |  |  |
+|                                                                                                    | provide details thereof.                               |  |  |  |  |
+| VI.<br>In                                                                                          | the<br>interest<br>of<br>disclosure<br>and             |  |  |  |  |
+|                                                                                                    | transparency,<br>should<br>there<br>be<br>any<br>other |  |  |  |  |
+|                                                                                                    | information relevant for assessing 'fit and            |  |  |  |  |
+| proper'                                                                                            | status, provide details thereof.                       |  |  |  |  |
+|                                                                                                    |                                                        |  |  |  |  |
+|                                                                                                    | Undertaking                                            |  |  |  |  |
+|                                                                                                    |                                                        |  |  |  |  |
+| I confirm that the above information is to the best of my knowledge and belief, true and           |                                                        |  |  |  |  |
+| complete. I undertake to keep the bank<br>fully informed, as soon as possible, of all events which |                                                        |  |  |  |  |
+
+| I also undertake to execute a 'Deed of Covenant' as required to be executed with the bank. |                                          |                                   |  |  |  |
+|--------------------------------------------------------------------------------------------|------------------------------------------|-----------------------------------|--|--|--|
+|                                                                                            |                                          | Signature of proposed MD / WTD    |  |  |  |
+|                                                                                            | Remarks<br>of<br>Nomination<br>and       |                                   |  |  |  |
+|                                                                                            | Remuneration<br>Committee<br>(NRC)<br>of |                                   |  |  |  |
+|                                                                                            | having satisfied itself that the above   |                                   |  |  |  |
+|                                                                                            | information is true and complete.        |                                   |  |  |  |
+|                                                                                            |                                          | Signature of the Chair of the NRC |  |  |  |
+
+|          | Name of UCB: __________________________________________________   |  |  |
+|----------|-------------------------------------------------------------------|--|--|
+| Address: | _________________________________________________________________ |  |  |
+
+| Sr No | Particulars                                                | Information Disclosed |
+|-------|------------------------------------------------------------|-----------------------|
+| (1)   | A<br>certified<br>copy<br>of<br>the<br>resolution<br>(also |                       |
+|       | mentioning the date thereof) of the Board of               |                       |
+|       | Directors, authorising the appointment<br>/ re             |                       |
+|       | appointment should be furnished along with the             |                       |
+|       | application. If the resolution is in vernacular, a         |                       |
+|       | certified copy thereof as translated into English          |                       |
+|       | may preferably be supplied.                                |                       |
+| (2)   | Full name of the person to be appointed<br>/ re            |                       |
+|       | appointed:                                                 |                       |
+| (3)   | His present designation:                                   |                       |
+| (4)   | His-                                                       |                       |
+|       | (a) Age:                                                   |                       |
+|       |                                                            |                       |
+|       | (b) Academic qualifications:                               |                       |
+|       |                                                            |                       |
+|       | (c)<br>Banking<br>and/or<br>other<br>professional          |                       |
+|       | experience<br>stating<br>the<br>name/s<br>of<br>the        |                       |
+|       | institution/s, the position/s held therein and the         |                       |
+|       | approximate period of such experience:                     |                       |
+| (5)   | Terms of appointment/ re-appointment:                      |                       |
+|       | (a) Whether the appointment/ re-appointment                |                       |
+|       | will be under a contract or agreement: (If so, a           |                       |
+|       | copy of the draft contract or agreement should             |                       |
+|       | be furnished, together with a copy of existing             |                       |
+|       | contract or agreement, if any)                             |                       |
+
+|     | (b)<br>Period<br>of<br>appointment/<br>re-appointment |  |
+|-----|-------------------------------------------------------|--|
+|     | fixed:                                                |  |
+|     | (c) Details of remuneration:                          |  |
+|     |                                                       |  |
+| (6) | (a) State whether the UCB complies with<br>the        |  |
+|     | provisions of Section 10(1)(b)(i) and (ii) and        |  |
+|     | Section 10(1)(c) of the Banking Regulation Act,       |  |
+|     | 1949 (as applicable to UCBs) in respect of the        |  |
+|     | person<br>proposed<br>to<br>be<br>appointed/<br>re    |  |
+|     | appointed:                                            |  |
+|     | (b) State whether the person to be appointed          |  |
+|     | as the Managing Director/<br>Whole-Time Director      |  |
+|     | (MD/WTD)<br>is<br>subject<br>to<br>any<br>of<br>the   |  |
+|     | disqualifications mentioned in Section 10B(4)         |  |
+|     | (as applicable to UCBs)<br>read with Section          |  |
+|     | 5(ne) of the Banking Regulation Act, 1949 (as         |  |
+|     | applicable to UCBs):                                  |  |
+| (7) | Any additional facts, which the UCB may like to       |  |
+|     | state in support of the application or otherwise:     |  |
+

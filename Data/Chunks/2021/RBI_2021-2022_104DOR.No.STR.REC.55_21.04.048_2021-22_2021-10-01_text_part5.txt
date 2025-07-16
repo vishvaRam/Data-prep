@@ -1,0 +1,33 @@
+facility granted to PACS/ FSS which is in default for a period of two crop seasons in case of short duration crops and one crop season in case of long duration crops, as the case may be, after it has become due will be classified as NPA and not all the credit facilities sanctioned to a PACS/ FSS. The other direct loans & advances, if any, granted by the bank to the member borrower of a PACS/ FSS outside the on-lending arrangement will become NPA even if one of the credit facilities granted to the same borrower becomes NPA.
+
+#### 4.2.11 Advances against Term Deposits, NSCs, KVPs/IVPs, etc.
+
+Advances against term deposits, NSCs eligible for surrender, IVPs, KVPs and life policies need not be treated as NPAs, provided adequate margin is available in the accounts. Advances against gold ornaments, government securities and all other securities are not covered by this exemption.
+
+### 4.2.12 Loans with moratorium for payment of interest
+
+4.2.12.1 In the case of bank finance given for industrial projects or for agricultural plantations etc. where moratorium is available for payment of interest, payment of interest becomes 'due' only after the moratorium or gestation period is over. Therefore, such amounts of interest do not become overdue and hence do not become NPA, with reference to the date of debit of interest. They become overdue after due date for payment of interest, if uncollected.
+
+4.2.12.2. In the case of housing loan or similar advances granted to staff members where interest is payable after recovery of principal, interest need not be considered as overdue from the first quarter onwards. Such loans/advances should be classified as NPA only when there is a default in repayment of instalment of principal or payment of interest on the respective due dates.
+
+## 4.2.13 Agricultural advances
+
+4.2.13.1 A loan granted for short duration crops will be treated as NPA, if the instalment of principal or interest thereon remains overdue for two crop seasons. A loan granted for long duration crops will be treated as NPA, if the instalment of principal or interest thereon remains overdue for one crop season. For the purpose of these guidelines, "long duration" crops would be crops with crop season longer than one year and crops, which are not "long duration" crops, would be treated as "short duration" crops. The crop season for each crop, which means the period up to harvesting of the crops raised, would be as determined by the State Level Bankers' Committee (SLBC) in each State. Depending upon the duration of crops raised by an agriculturist, the above NPA norms would also be made applicable to agricultural term loans availed of by him.
+
+4.2.13.2 The above norms should be made applicable only to Farm Credit extended to agricultural activities as listed at Annex - 2. In respect of agricultural loans, other than those specified in the Annex - 2, identification of NPAs would be done on the same basis as nonagricultural advances, which, at present, is the 90 days delinquency norm.
+
+4.2.13.3 Where natural calamities impair the repaying capacity of agricultural borrowers for the purposes specified in Annex - 2, banks may decide on their own as a relief measure conversion of the short-term production loan into a term loan or re-schedulement of the repayment period; and the sanctioning of fresh short-term loan, subject to Master Direction – Reserve Bank of India (Relief Measures by Banks in Areas affected by Natural Calamities) Directions 2018 – SCBs dated October 17, 2018, as updated from time to time.
+
+4.2.13.4 In such cases of conversion or re-schedulement, the term loan as well as fresh shortterm loan may be treated as current dues and need not be classified as NPA. The asset classification of these loans would thereafter be governed by the revised terms & conditions and would be treated as NPA if interest and/or instalment of principal remains overdue for two crop seasons for short duration crops and for one crop season for long duration crops.
+
+4.2.13.5 While fixing the repayment schedule in case of rural housing advances granted to agriculturists under Indira Awas Yojana and Golden Jubilee Rural Housing Finance Scheme, banks should ensure that the interest/instalment payable on such advances are linked to crop cycles.
+
+#### 4.2.14 Government guaranteed advances
+
+4.2.14.1 The credit facilities backed by guarantee of the Central Government though overdue may be treated as NPA only when the Government repudiates its guarantee when invoked. This exemption from classification of Government guaranteed advances as NPA is not for the purpose of recognition of income.
+
+4.2.14.2 The requirement of invocation of guarantee has been delinked for deciding the asset classification and provisioning requirements in respect of State Government guaranteed exposures.
+
+15
+
+4.2.14.3 With effect from the year ending March 31, 2006 State Government guaranteed advances and investments in State Government guaranteed securities would attract as

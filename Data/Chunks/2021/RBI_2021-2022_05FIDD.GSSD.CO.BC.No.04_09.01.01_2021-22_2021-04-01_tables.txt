@@ -1,0 +1,350 @@
+| Sl No | States            | Sl No | Name of districts         |
+|-------|-------------------|-------|---------------------------|
+|       | ANDHRA PRADESH    | 1     | Guntur                    |
+| 1     |                   | 2     | Krishna                   |
+|       |                   | 3     | Srikakulam                |
+|       |                   | 4     | East Godavari             |
+|       |                   | 5     | Vijaynagram               |
+|       |                   | 6     | Visakhapatnam             |
+| 2     | ARUNACHAL PRADESH | 1     | East Siang                |
+|       |                   | 2     | East Kameng               |
+|       |                   | 3     | Papumpare                 |
+|       |                   | 4     | Lohit                     |
+|       | ASSAM             | 1     | Chirang                   |
+|       |                   | 2     | Karbi Anglong             |
+|       |                   | 3     | Sonitpur                  |
+| 3     |                   | 4     | Tinsukiya                 |
+|       |                   | 5     | Hailakandi                |
+|       |                   | 6     | Dhemeji                   |
+|       |                   | 7     | Jorhat                    |
+|       |                   | 8     | Nagaon                    |
+|       | BIHAR             | 1     | Saharsa                   |
+|       |                   | 2     | Supaul                    |
+|       |                   | 3     | Madhepura                 |
+|       |                   | 4     | Nalanda                   |
+|       |                   | 5     | Khagria                   |
+|       |                   | 6     | East Champaran (Motihari) |
+|       |                   | 7     | Arwal                     |
+|       |                   | 8     | Aurangabad                |
+|       |                   | 9     | Gaya                      |
+| 4     |                   | 10    | Jamui                     |
+|       |                   | 11    | Jehanabad                 |
+|       |                   | 12    | Kaimur                    |
+|       |                   | 13    | Munger                    |
+|       |                   | 14    | Nawada                    |
+|       |                   | 15    | Rohtas                    |
+|       |                   | 16    | Paschim Champaran         |
+|       |                   | 17    | Sitamarhi                 |
+| 5     | CHATTISGARH       | 1     | Balarampur                |
+
+| Sl No | States    | Sl No | Name of districts |
+|-------|-----------|-------|-------------------|
+|       |           | 2     | Surajpur          |
+|       |           | 3     | Sukama            |
+|       |           | 4     | Kondagaon         |
+|       |           | 5     | Gariyaband        |
+|       |           | 6     | Baloda Bazar      |
+|       |           | 7     | Dhamtari          |
+|       |           | 8     | Raigarh           |
+|       |           | 9     | Bastar            |
+|       |           | 10    | Bijapur           |
+|       |           | 11    | Dantewada         |
+|       |           | 12    | Jashpur           |
+|       |           | 13    | Kanker            |
+|       |           | 14    | Kawardha          |
+|       |           | 15    | Koriya            |
+|       |           | 16    | Narayanpur        |
+|       |           | 17    | Rajnandgaon       |
+|       |           | 18    | Sarguja           |
+|       | GUJARAT   | 1     | Chhotaudepur      |
+|       |           | 2     | Mahisagar         |
+|       |           | 3     | Mehsana           |
+| 6     |           | 4     | Junagadh          |
+|       |           | 5     | Vadodara          |
+|       |           | 6     | Banaskantha       |
+|       |           | 7     | Panchmahal        |
+| 7     | JHARKHAND | 1     | Pakkur            |
+|       |           | 2     | Dumka             |
+|       |           | 3     | Godda             |
+|       |           | 4     | Bokarao           |
+|       |           | 5     | Chatra            |
+|       |           | 6     | Garhwa            |
+|       |           | 7     | Giridh            |
+|       |           | 8     | Gumla             |
+|       |           | 9     | Hazaribagh        |
+|       |           | 10    | Khunti            |
+|       |           | 11    | Kodarma           |
+|       |           | 12    | Latehar(N)        |
+|       |           | 13    | Lohardaga         |
+|       |           | 14    | Paschim Singhbhum |
+|       |           | 15    | Palamu            |
+|       |           | 16    | Purbi Singhbhum   |
+|       |           | 17    | Ramgarh           |
+|       |           | 18    | Ranchi(Rural)     |
+|       |           | 19    | Saraikela(N)      |
+|       |           | 20    | Simdega(N)        |
+
+| Sl No | States         | Sl No | Name of districts |
+|-------|----------------|-------|-------------------|
+|       |                | 1     | Bijapur           |
+|       |                | 2     | Chamrajnagar      |
+|       |                | 3     | Chitradurga       |
+|       |                | 4     | Gulbarga          |
+| 8     | KARNATAKA      | 5     | Mysore            |
+|       |                | 6     | Tumkur            |
+|       |                | 7     | Gadag             |
+|       |                | 8     | Koppal            |
+|       |                | 1     | Sager             |
+|       |                | 2     | Damoh             |
+|       |                | 3     | Tikamgarh         |
+|       |                | 4     | Panna             |
+|       |                | 5     | Chahatapur        |
+|       |                | 6     | Jhabua            |
+|       |                | 7     | Dhar              |
+|       |                | 8     | Annupur           |
+|       |                | 9     | Balaghat          |
+|       |                | 10    | Dindori           |
+|       | MADHYA PRADESH | 11    | Mandala           |
+| 9     |                | 12    | Seoni             |
+|       |                | 13    | Shahdol           |
+|       |                | 14    | Sidhi             |
+|       |                | 15    | Umaria            |
+|       |                | 16    | Chhindwara        |
+|       |                | 17    | Singrauli         |
+|       |                | 18    | Badwani           |
+|       |                | 19    | Sheopur           |
+|       |                | 20    | Alirajpur         |
+|       |                | 1     | Solapur           |
+|       |                | 2     | Ratnagiri         |
+|       |                | 3     | Thane             |
+|       |                | 4     | Wardha            |
+|       |                | 5     | Beed              |
+|       |                | 6     | Sindhurdurg       |
+| 10    |                | 7     | Chandrapur        |
+|       | MAHARASHTRA    | 8     | Gadchiroli        |
+|       |                | 9     | Gondia            |
+|       |                | 10    | Jalna             |
+|       |                | 11    | Osmanabad         |
+|       |                | 12    | Nandurbar         |
+|       |                | 13    | Yavatmal          |
+| 11    |                | 1     | Angul             |
+|       | ODISHA         | 2     | Bhadrak           |
+|       |                | 3     | Balasore          |
+
+| Sl No | States        | Sl No | Name of districts |  |  |  |  |
+|-------|---------------|-------|-------------------|--|--|--|--|
+|       |               | 4     | Cuttack           |  |  |  |  |
+|       |               | 5     | Balangir          |  |  |  |  |
+|       |               | 6     | Devagarh          |  |  |  |  |
+|       |               | 7     | Gajapati          |  |  |  |  |
+|       |               | 8     | Ganjam            |  |  |  |  |
+|       |               | 9     | Jajpur            |  |  |  |  |
+|       |               | 10    | Kalahandi         |  |  |  |  |
+|       |               | 11    | Kandhamal         |  |  |  |  |
+|       |               | 12    | Kendujhar         |  |  |  |  |
+|       |               | 13    | Koraput           |  |  |  |  |
+|       |               | 14    | Malkangiri        |  |  |  |  |
+|       |               | 15    | Mayurbhanj        |  |  |  |  |
+|       |               | 16    | Nabarangpur       |  |  |  |  |
+|       |               | 17    | Nayagarh          |  |  |  |  |
+|       |               | 18    | Nuapada           |  |  |  |  |
+|       |               | 19    | Rayagada          |  |  |  |  |
+|       |               | 20    | Sambalpur         |  |  |  |  |
+|       |               | 21    | Sonapur           |  |  |  |  |
+|       |               | 22    | Sundargarh        |  |  |  |  |
+|       |               | 1     | Dungarpur         |  |  |  |  |
+|       |               | 2     | Banswara          |  |  |  |  |
+|       |               | 3     | Dholpur           |  |  |  |  |
+|       |               | 4     | Jhalawar          |  |  |  |  |
+|       |               | 5     | Baran             |  |  |  |  |
+| 12    | RAJASTHAN     | 6     | Ajmer             |  |  |  |  |
+|       |               | 7     | Alwar             |  |  |  |  |
+|       |               | 8     | Dausa             |  |  |  |  |
+|       |               | 9     | Udaipur           |  |  |  |  |
+|       |               | 1     | Cuddalore         |  |  |  |  |
+|       |               | 2     | Nagapattinam      |  |  |  |  |
+|       |               | 3     | Thanjaore         |  |  |  |  |
+|       |               | 4     | Trichy            |  |  |  |  |
+|       | TAMIL NADU    | 5     | Dindugal          |  |  |  |  |
+| 13    |               | 6     | Vilupuram         |  |  |  |  |
+|       |               | 7     | Vellore           |  |  |  |  |
+|       |               | 8     | Thiruvannamalai   |  |  |  |  |
+|       |               | 9     | Dharmapuri        |  |  |  |  |
+| 14    | UTTAR PRADESH | 1     | Agra              |  |  |  |  |
+|       |               | 2     | Aligarh           |  |  |  |  |
+|       |               | 3     | Auraiya           |  |  |  |  |
+|       |               | 4     | Basti             |  |  |  |  |
+|       |               | 5     | Bijnor            |  |  |  |  |
+|       |               | 6     | Lakhimpur Kheri   |  |  |  |  |
+|       |               | 7     | Unnao             |  |  |  |  |
+
+| Sl No | States           | Sl No | Name of districts |  |  |  |
+|-------|------------------|-------|-------------------|--|--|--|
+|       |                  | 8     | Varanasi          |  |  |  |
+|       |                  | 9     | Bara banki        |  |  |  |
+|       |                  | 10    | Gorakhpur         |  |  |  |
+|       |                  | 11    | Lucknow           |  |  |  |
+|       |                  | 12    | Chandauli         |  |  |  |
+|       |                  | 13    | Mirzapur          |  |  |  |
+|       |                  | 14    | Sonbhadra         |  |  |  |
+|       |                  | 15    | Badaun            |  |  |  |
+|       |                  | 16    | Hardoi            |  |  |  |
+|       |                  | 17    | Etwah             |  |  |  |
+|       |                  | 18    | Azamgarh          |  |  |  |
+|       |                  | 19    | Allahabad         |  |  |  |
+|       |                  | 20    | Ambedkarnagar     |  |  |  |
+|       |                  | 21    | Bahraich          |  |  |  |
+|       |                  | 22    | Deoria            |  |  |  |
+|       |                  | 23    | Jalaun            |  |  |  |
+|       |                  | 24    | Hamirpur          |  |  |  |
+|       |                  | 25    | Banda             |  |  |  |
+|       |                  | 1     | Alipurdwar        |  |  |  |
+|       |                  | 2     | Purba Medinipur   |  |  |  |
+|       |                  | 3     | South 24 Parganas |  |  |  |
+|       | WEST BENGAL      | 4     | Bankura           |  |  |  |
+| 15    |                  | 5     | Medinipur West    |  |  |  |
+|       |                  | 6     | Coochbehar        |  |  |  |
+|       |                  | 7     | Birbhum           |  |  |  |
+|       |                  | 8     | Puruliya          |  |  |  |
+|       |                  | 1     | Mahabubnagar      |  |  |  |
+|       |                  | 2     | Adilabad          |  |  |  |
+| 16    | TELANGANA        | 3     | Warangal (Rural)  |  |  |  |
+|       |                  | 4     | Khammam           |  |  |  |
+|       |                  | 5     | Karimnagar        |  |  |  |
+|       |                  | 1     | Idukki            |  |  |  |
+|       | KERALA           | 2     | Vayanadu          |  |  |  |
+| 17    |                  | 3     | Pallakkad         |  |  |  |
+|       |                  | 4     | Mallapuram        |  |  |  |
+| 18    |                  | 1     | Mahendergarh      |  |  |  |
+|       |                  | 2     | Karnal            |  |  |  |
+|       | HARYANA          | 3     | Jind              |  |  |  |
+|       |                  | 4     | Mewat             |  |  |  |
+|       |                  | 5     | Bhiwani           |  |  |  |
+|       |                  | 6     | Jhajjar           |  |  |  |
+| 19    |                  | 1     | Kangra            |  |  |  |
+|       | HIMACHAL PRADESH | 2     | Una               |  |  |  |
+|       |                  | 3     | Shimla            |  |  |  |
+
+| Sl No | States                       | Sl No | Name of districts           |  |  |  |  |
+|-------|------------------------------|-------|-----------------------------|--|--|--|--|
+|       |                              | 4     | Mandi                       |  |  |  |  |
+|       |                              | 1     | Kupwara                     |  |  |  |  |
+| 20    | JAMMU & KASHMIR              | 2     | Poonch                      |  |  |  |  |
+|       |                              | 3     | Kistwar                     |  |  |  |  |
+|       |                              | 4     | Ganderbal                   |  |  |  |  |
+|       |                              | 5     | Budgam                      |  |  |  |  |
+|       |                              | 6     | Udhampur                    |  |  |  |  |
+|       |                              | 1     | Patiala                     |  |  |  |  |
+|       |                              | 2     | Sangrur                     |  |  |  |  |
+|       |                              | 3     | Bathinda                    |  |  |  |  |
+| 21    | PUNJAB                       | 4     | Tarn Taran                  |  |  |  |  |
+|       |                              | 5     | Gurdaspur                   |  |  |  |  |
+|       |                              | 6     | Ferozepur                   |  |  |  |  |
+|       |                              | 1     | Pithoragarh                 |  |  |  |  |
+|       |                              | 2     | Pohri Garwal                |  |  |  |  |
+| 22    | UTTRAKHAND                   | 3     | Chamoli                     |  |  |  |  |
+|       |                              | 4     | Bageshwar                   |  |  |  |  |
+|       |                              | 1     | Chandel                     |  |  |  |  |
+| 23    | MANIPUR                      | 2     | Imphal East                 |  |  |  |  |
+|       |                              | 1     | West Garo Hills             |  |  |  |  |
+| 24    | MEGHALAYA                    | 2     | South West Khasi Hills      |  |  |  |  |
+|       |                              | 3     | West Khasi Hill             |  |  |  |  |
+|       |                              | 1     | Serchhip                    |  |  |  |  |
+| 25    | MIZORAM                      | 2     | Aizwal                      |  |  |  |  |
+|       |                              | 3     | Lunglei                     |  |  |  |  |
+|       |                              | 1     | Kiphere                     |  |  |  |  |
+|       |                              | 2     | Longleng                    |  |  |  |  |
+| 26    | NAGALAND                     | 3     | Peren                       |  |  |  |  |
+|       |                              | 4     | Tuensang                    |  |  |  |  |
+|       |                              | 5     | Mon                         |  |  |  |  |
+|       |                              | 1     | Dhalai                      |  |  |  |  |
+| 27    | TRIPURA                      | 2     | West Tripura                |  |  |  |  |
+|       |                              | 3     | North Tripura               |  |  |  |  |
+| 28    | PUDUCHERRY                   | 1     | Puducherry                  |  |  |  |  |
+| 29    | ANDAMAN & NICOBAR<br>ISLANDS | 1     | North & Middle Andhman Dist |  |  |  |  |
+|       |                              | 1     | South Sikkim                |  |  |  |  |
+| 30    | SIKKIM                       | 2     | East Sikkim                 |  |  |  |  |
+| 31    | GOA                          | 1     | North Goa                   |  |  |  |  |
+
+| Branch Name:   |
+|----------------|
+| Bank Name:     |
+| Block<br>Name: |
+
+|       | No of SHGs with SB account                  |                                    | Credit Linked SHGs in the month |                |                      |                |                      |                     | Credit outstanding   |             |                        |
+|-------|---------------------------------------------|------------------------------------|---------------------------------|----------------|----------------------|----------------|----------------------|---------------------|----------------------|-------------|------------------------|
+|       |                                             |                                    | New Loans                       |                | Repeat Loans         |                | Cumulative           |                     |                      |             |                        |
+| S. No | Total S/B<br>accounts<br>till last<br>month | New a/c<br>opened<br>this<br>month | Cumulative                      | No of<br>loans | Amount<br>Disbursed* | No of<br>loans | Amount<br>Disbursed* | No of<br>loans      | Amount<br>Disbursed* | No of loans | Amount<br>Outstanding* |
+|       | 1(a)                                        | 1(b)                               | 1( c ) =<br>1(a)+1(b)           | 2(a)           | 2(b)                 | 3(a)           | 3(b)                 | 4(a) =<br>2(a)+3(a) | 4(b)=2(b)+3(b)       | 5(a)        | 5(b)                   |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+
+| SL No | No of loan<br>accounts | Amount<br>outstanding* | Irregular accounts ( 4 ) |                    | Details of the NPA accounts (5) |         |
+|-------|------------------------|------------------------|--------------------------|--------------------|---------------------------------|---------|
+|       |                        |                        | No of<br>accounts        | Overdue<br>Amount* | No of accounts                  | Amount* |
+| 1     | 2                      | 3                      | 4(a)                     | 4(b)               | 5(a)                            | 5(b)    |
+|       |                        |                        |                          |                    |                                 |         |
+|       |                        |                        |                          |                    |                                 |         |
+|       |                        |                        |                          |                    |                                 |         |
+|       |                        |                        |                          |                    |                                 |         |
+
+| New loan accounts opened<br>during the period ………to<br>……… |        | Outstanding as at ……… (end<br>of previous period) |        | Total outstanding as at ………. |        | Amount of<br>interest<br>subvention |
+|------------------------------------------------------------|--------|---------------------------------------------------|--------|------------------------------|--------|-------------------------------------|
+| No of<br>Accounts                                          | Amount | No of<br>Accounts                                 | Amount | No of<br>Accounts            | Amount | Amount                              |
+|                                                            |        |                                                   |        |                              |        |                                     |
+
+| New loan accounts<br>opened during the<br>period ………to<br>……… |        | Outstanding as at<br>……… (end of previous<br>period) |        | Total outstanding as at<br>………. |        | Regular / eligible<br>women SHGs |        | Amount of<br>interest<br>subvention |
+|---------------------------------------------------------------|--------|------------------------------------------------------|--------|---------------------------------|--------|----------------------------------|--------|-------------------------------------|
+| No of<br>Accounts                                             | Amount | No of<br>Accounts                                    | Amount | No of<br>Accounts               | Amount | No of<br>Accounts                | Amount | Amount                              |
+
+| Dated                                              | Bank's Authorized Signatory                                                       | Statutory Auditors      |
+|----------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------|
+|                                                    | (Seal)                                                                            | (Seal & FRN no)         |
+| (This claim format, consolidated for the           | entire year, needs to be duly certified by Statutory Auditors and submitted along | with the claims for the |
+| quarter ending March 31st,<br>____, within June 30 | th<br>of the next financial year)                                                 |                         |
+
+| No. | Circular No.                           | Date       | Subject                                                                     |
+|-----|----------------------------------------|------------|-----------------------------------------------------------------------------|
+| 1.  | RPCD.GSSD.CO.NO.81/09.01.03/2012-13    | 27.06.2013 | Priority<br>Sector<br>Lending<br>–                                          |
+|     |                                        |            | Restructuring of SGSY as                                                    |
+|     |                                        |            | National Rural Livelihoods<br>Mission(DAY-NRLM)- Aajeevika                  |
+| 2.  | RPCD.GSSD.CO.BC.No.38/09.01.03/2013-14 | 20.09.2013 | Credit Facility under National Rural                                        |
+|     |                                        |            | Livelihoods                                                                 |
+|     |                                        |            | Mission(NRLM)- Aajeevika- Reporting                                         |
+|     |                                        |            | to RBI                                                                      |
+| 3.  | RPCD.GSSD.CO.BC.No.57/09.01.03/2013-14 | 19.11.2013 | Restructuring of SGSY as                                                    |
+|     |                                        |            | National Rural Livelihoods<br>Mission (NRLM)-Aajeevika-<br>Interest         |
+|     |                                        |            | Subvention                                                                  |
+|     |                                        |            | Scheme                                                                      |
+| 4.  | FIDD.GSSD.CO.BC.NO.45/09.01.03/2014-15 | 09.12.2014 | National Rural Livelihoods                                                  |
+|     |                                        |            | Mission(NRLM)-<br>Aajeevika-<br>Interest                                    |
+|     |                                        |            | Subvention                                                                  |
+|     |                                        |            | Scheme                                                                      |
+| 5.  | FIDD.GSSD.CO.BC.NO.19/09.01.03/2015-16 | 21.01.2016 | National Rural Livelihoods<br>Mission(NRLM)-<br>Aajeevika-<br>Interest      |
+|     |                                        |            | Subvention                                                                  |
+|     |                                        |            | Scheme 2015-16                                                              |
+| 6.  | FIDD.GSSD.CO.BC.NO.26/09.01.03/2015-16 | 09.06.2016 | National Rural Livelihoods                                                  |
+|     |                                        |            | Mission(NRLM)-<br>Aajeevika-<br>Interest                                    |
+|     |                                        |            | Subvention<br>Scheme 2015-16 – Modification.                                |
+| 7.  | FIDD.GSSD.CO.BC.NO.13/09.01.03/2016-17 | 25.08.2016 | National Rural Livelihoods                                                  |
+|     |                                        |            | Mission(NRLM)-<br>Aajeevika-<br>Interest                                    |
+|     |                                        |            | Subvention                                                                  |
+|     |                                        |            | Scheme 2016-17                                                              |
+| 8.  | FIDD.GSSD.CO.BC.NO.17/09.01.03/2017-18 | 18.10.2017 | National Rural Livelihoods                                                  |
+|     |                                        |            | Mission(NRLM)-<br>Aajeevika-<br>Interest                                    |
+|     |                                        |            | Subvention<br>Scheme 2017-18                                                |
+| 9.  | FIDD.GSSD.CO.BC.NO.05/09.01.03/2018-19 | 03.07.2018 | National Rural Livelihoods                                                  |
+|     |                                        |            | Mission(NRLM)-<br>Aajeevika-<br>Interest                                    |
+|     |                                        |            | Subvention                                                                  |
+|     |                                        |            | Scheme 2018-19                                                              |
+| 10. | FIDD.GSSD.CO.BC.No.02/09.01.01/2019-20 | 01.07.2019 | Deendayal<br>Antyodaya<br>Yojana<br>-<br>National Rural Livelihoods Mission |
+|     |                                        |            | (DAY-NRLM)                                                                  |
+| 11. | FIDD.GSSD.CO.BC.No.15/09.01.01/2019-20 | 26.11.2019 | Deendayal<br>Antyodaya<br>Yojana<br>-                                       |
+|     |                                        |            | National Rural Livelihoods Mission                                          |
+|     |                                        |            | (DAY-NRLM)                                                                  |
+| 12. | FIDD.GSSD.CO.BC.No.06/09.01.01/2020-21 | 18.09.2020 | Deendayal<br>Antyodaya<br>Yojana<br>-                                       |
+|     |                                        |            | National Rural Livelihoods Mission                                          |
+|     |                                        |            | (DAY-NRLM)                                                                  |

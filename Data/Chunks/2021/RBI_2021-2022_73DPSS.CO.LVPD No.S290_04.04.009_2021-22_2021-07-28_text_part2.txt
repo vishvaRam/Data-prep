@@ -1,0 +1,61 @@
+rary, could have the potential to cause and spread instability in the system. Consequently, the customers of the non-banks, who are using their products and services, would also get affected.
+
+# **2 Direct Access for Non-banks to CPS**
+
+## **2.1 Meaning of Direct Access to CPS**
+
+2.1.1 Allotment of a separate Indian Financial System Code (IFSC).
+
+2.1.2 Opening a Current Account with the Reserve Bank in its core banking system (e-Kuber).
+
+2.1.3 Maintaining a settlement account with the Reserve Bank.
+
+2.1.4 Membership of Indian Financial Network (INFINET) and use of Structured Financial Messaging System (SFMS) to communicate with CPS.
+
+## **2.2 Benefits of Direct Access**
+
+2.2.1 Efficiency: For non-banks, the cost of routing payments through banks can be minimised. The risk of failure or delay in execution of fund transfers can be eliminated if the transactions are directly initiated by non-banks.
+
+2.2.2 Competition and innovation: Non-banks increasingly and actively offer financial services which hitherto were the sole domain of banks. They are seen to be agile in coming up with innovative products and solutions as well. Direct access to CPS can further enable them to leverage technology to offer customised choices to consumers. They can use their capabilities to assimilate and analyse data to support their innovations and solutions. As non-banks compete in the same segment that banks operate, direct access can provide level playing field, minimising the need to use intermediaries.
+
+2.2.3 Risk management and stability: As the settlement is carried out in central bank money, it greatly reduces the uncertainty in finality of the payments and settlement risk. Expanding the access and participation facilitates diversity and resiliency of the ecosystem.
+
+2.2.4 Data protection: Direct access to CPS can enable the non-banks to safeguard customer information and fund flows, which may not be possible when using banks to provide payment services.
+
+# **3 Eligibility**
+
+## **3.1 Entities**
+
+3.1.1 Non-banks include entities like Payment System Providers (PSPs) and Non-Banking Financial Companies (NBFCs) that are regulated by Reserve Bank as also entities that are under the remit of other financial sector regulators like PFRDA, IRDAI, SEBI, etc.
+
+3.1.2 To start with, access to non-banks in CPS will be enabled in a phased manner. In the first phase, only the following authorised non-bank PSPs shall be provided access –
+
+- i. Prepaid Payment Instrument (PPI) Issuers;
+- ii. Card Networks; and
+- iii. White Label ATM Operators.
+
+### **3.2 Criteria**
+
+3.2.1 Eligibility for non-bank access to CPS shall be as per the criteria prescribed by Reserve Bank.
+
+3.2.2 For access to CPS the non-bank PSPs shall fulfil the following criteria:
+
+- i. Valid Certificate of Authorisation (CoA) from Reserve Bank under the Payment and Settlement Systems Act, 2007 (PSS Act).
+- ii. Net-worth of ₹ 25 crore or as prescribed as per CoA, whichever is higher.
+- iii. Incorporation in India under the Companies Act, 1956 / 2013. Entities not fulfilling this requirement shall empower their Indian subsidiary / associate to enter into valid agreements with RBI.
+- iv. Implementation of centralised processing systems.
+- v. Adequate technical / system readiness including cyber resilience.
+- vi. Compliance with local payment data storage requirements issued by Reserve Bank from time to time.
+- vii. Adherence to [Master Directions on Access Criteria for Payment Systems,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) RTGS System Regulations, NEFT Procedural Guidelines and other instructions prescribed by Reserve Bank from time to time.
+- viii. Satisfactory record of compliance to conditions laid out in CoA and regulatory guidelines.
+- ix. Recommendations of the concerned regulatory / supervisory department of Reserve Bank.
+
+3.2.3 Entities incorporated outside India shall empower their local offices to carry out all operations in respect of CPS, but the responsibility for all operations and management of any contingency, including settlement obligations, shall remain with the foreign parent institution, which has taken authorisation as PSP.
+
+3.2.4. Reserve Bank shall have the authority to suspend or terminate membership of a PSP, if the PSP is found to be not complying with the access criteria on an ongoing basis.
+
+3.2.5 Non-bank PSPs shall not be eligible for availing Intra-Day Liquidity (IDL) facility from the Reserve Bank. For any shortfall / default in completing the payment / settlement obligations, such entities shall approach their bankers for a ready line of credit facility. They shall ensure that appropriate liquidity support arrangements are in place with their bankers to avoid gridlocks and to ensure business continuity.
+
+3.2.6 Non-bank entities shall not be permitted to sponsor sub-members.
+
+3.2.7 Non-bank entities shall adhere to the terms and conditions specified for maintenance of Current Account in Reserve Bank's core banking solu

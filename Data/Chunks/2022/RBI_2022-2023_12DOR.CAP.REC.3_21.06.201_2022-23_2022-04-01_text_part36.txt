@@ -1,0 +1,45 @@
+r equal to one year, short term ratings accorded by the chosen credit rating agencies would be relevant. For other assets which have a contractual maturity of more than one year, long term ratings accorded by the chosen credit rating agencies would be relevant.
+
+6.2.7 Cash credit exposures tend to be generally rolled over and also tend to be drawn on an average for a major portion of the sanctioned limits. Hence, even though a cash credit exposure may be sanctioned for period of one year or less, these exposures should be reckoned as long term exposures and accordingly the long term ratings accorded by the chosen credit rating agencies will be relevant. Similarly, banks may use long-term ratings of a counterparty as a proxy for an unrated short- term exposure on the same counterparty subject to strict compliance with the requirements for use of multiple rating assessments and applicability of issue rating to issuer / other claims as indicated in **paragraphs 6.4, 6.5, 6.7 and 6.8** below.
+
+### **6.3 Mapping Process**
+
+The Revised Framework recommends development of a mapping process to assign the ratings issued by eligible credit rating agencies to the risk weights available under the Standardised risk weighting framework. The mapping process is required to result in a risk weight assignment consistent with that of the level of credit risk. A mapping of the credit ratings awarded by the chosen domestic credit rating agencies has been furnished below in **paragraphs 6.4.1 and 6.5.4**, which should be used by banks in assigning risk weights to the various exposures.
+
+#### **6.4 Long Term Ratings**
+
+6.4.1 On the basis of the above factors as well as the data made available by the rating agencies, the ratings issued by the chosen domestic credit rating agencies have been mapped to the appropriate risk weights applicable as per the Standardised approach under the Revised Framework. The rating-risk weight mapping furnished in the Table 10 below shall be adopted by all banks in India:
+
+
+#### **Table 10: Risk Weight Mapping of Long Term Ratings of the chosen Domestic Rating Agencies**
+
+\$ The risk weight is 150% in the following two cases:
+
+if the aggregate exposure from banking system is more than INR 200 crore
+
+ if the aggregate exposure from banking system is more than INR 100 crore for exposures which were rated earlier and subsequently have become unrated.
+
+6.4.2 Where "+" or "-" notation is attached to the rating, the corresponding main rating category risk weight should be used. For example, A+ or A- would be considered to be in the A rating category and assigned 50 per cent risk weight.
+
+6.4.3 If an issuer has a long-term exposure with an external long term rating that warrants a risk weight of 150 per cent, all unrated claims on the same counter-party, whether short-term or longterm, should also receive a 150 per cent risk weight, unless the bank uses recognised credit risk mitigation techniques for such claims.
+
+# **6.5 Short Term Ratings**
+
+6.5.1 For risk-weighting purposes, short-term ratings are deemed to be issue-specific. They can only be used to derive risk weights for claims arising from the rated facility. They cannot be generalised to other short-term claims. In no event can a short-term rating be used to support a risk weight for an unrated long-term claim. Short-term assessments may only be used for shortterm claims against banks and corporates.
+
+6.5.2 Notwithstanding the above restriction on using an issue specific short term rating for other short term exposures, the following broad principles will apply. The unrated short term claim on counterparty will attract a risk weight of at least one level higher than the risk weight applicable to the rated short term claim on that counter-party. If a short-term rated facility to counterparty attracts a 20 per cent or a 50 per cent risk-weight, unrated short-term claims to the same counterparty cannot attract a risk weight lower than 30 per cent or 100 per cent respectively.
+
+6.5.3 Similarly, if an issuer has a short-term exposure with an external short term rating that warrants a risk weight of 150 per cent, all unrated claims on the same counter-party, whether long-term or short-term, should also receive a 150 per cent risk weight, unless the bank uses recognised credit risk mitigation techniques for such claims.
+
+6.5.4 In respect of the issue specific short term ratings the following risk weight mapping shall be adopted by banks:
+
+
+**Table 11: Risk Weight Mapping of Short Term Ratings of Domestic Rating Agencies**
+
+\$ The risk weight is 150% in the following two cases:
+
+if the aggregate exposure from banking system is more than INR 200 crore
+
+ if the aggregate exposure from banking system is more than INR 100 crore for exposures which were rated earlier and subsequently have become unrated.
+
+6.5.5 Where "+" or "-" notation is attached to the rating, the corresponding main rating category risk weight should be used for A2 and below, unless specified

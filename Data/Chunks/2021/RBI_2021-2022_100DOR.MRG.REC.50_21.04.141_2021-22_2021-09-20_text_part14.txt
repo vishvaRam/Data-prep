@@ -1,0 +1,53 @@
+- (i) Government securities
+- (ii) Other approved securities
+- (iii) Shares
+- (iv) Bonds of PSU
+- (v) Others
+
+## 16. **Valuation of investments**
+
+### 16.1 **Valuation Standards**
+
+- 16.1.1 Investments classified under HTM category need not be marked to market and will be carried at acquisition cost unless it is more than the face value, in which case the premium should be amortised over the period remaining to maturity.
+- 16.1.2 The individual scrip in the AFS category will be marked to market at the year-end or at more frequent intervals. The book value of the individual securities would not undergo any change after the revaluation.
+- 16.1.3 The individual scrip in the HFT category will be marked to market at monthly or at more frequent intervals. The book value of individual securities in this category would not undergo any change after marking to market.
+
+Note: *Securities under AFS and HFT categories shall be valued scrip-wise and depreciation/appreciation shall be aggregated for each classification as indicated at paragraph 15.6 above separately for AFS and HFT. Net depreciation, if any, shall be provided for. Net appreciation, if any, should be ignored. Net depreciation required to be provided for in any one classification should not be reduced on account of net appreciation in any other classification. Similarly, net depreciation for any classification in one category should not be reduced from appreciation in similar classification in another category.*
+
+16.1.4 (i) Investment Depreciation Reserve (IDR) required to be created on account of depreciation in the value of investments held under 'AFS' or 'HFT' categories in any year should be debited to the Profit & Loss Account and an equivalent amount (net of tax benefit, if any, and net of consequent reduction in the transfer to Statutory Reserve) or the balance available in
+
+the Investment Fluctuation Reserve (IFR) Account, whichever is less, shall be transferred from the IFR Account to Profit & Loss Account.
+
+(ii) In the event that IDR created on account of depreciation in investments is found to be in excess of the required amount in any year, the excess should be credited to the Profit & Loss Account and an equivalent amount (net of taxes, if any, and net of transfer to Statutory Reserves as applicable to such excess provision) should be appropriated to the IFR Account to be utilised to meet future depreciation requirement for investments.
+
+(iii) The amounts debited to the Profit & Loss Account for depreciation provision and the amount credited to the Profit & Loss Account for reversal of excess provision should be debited and credited respectively under the head "Expenditure - Provisions & Contingencies".
+
+(iv) The amounts appropriated from the Profit & Loss Account/ to IFR and the amount transferred from the IFR to the Profit & Loss Account should be shown as 'below the line' items after determining the profit for the year.
+
+16.1.5 In respect of securities included in any of the three categories where interest/principal is in arrears, the banks should not reckon income on the securities and should also make appropriate provisions for the depreciation in the value of the investment. The banks should not set-off the depreciation requirement in respect of these non-performing securities against the appreciation in respect of other performing securities.
+
+#### 16.2 **Market Value**
+
+#### 16.2.1 **Quoted Securities**
+
+The 'market value' for the purpose of periodical valuation of investments included in the AFS and the HFT categories would be the market price of the scrip as available from the trades/quotes on the stock exchanges, SGL account transactions, and prices declared by Financial Benchmarks India Pvt. Limited (FBIL)/FIMMDA.
+
+## 16.2.2 **Unquoted SLR Securities**
+
+In respect of unquoted securities, the procedure as detailed below should be adopted.
+
+- (i) Central Government Securities
+	- (a) The Reserve Bank will not announce the YTM rates for unquoted Government securities, for the purpose of valuation of investments by
+
+banks. The banks shall value the unquoted Central Government securities on the basis of the prices/YTM rates put out by the Financial Benchmark India Pvt. Ltd. (FBIL) at periodical intervals.
+
+- (b) It is clarified that the reckoning of number of years for the purpose of deciding upon appropriate 'Yield To Maturity' (YTM) Rate be done by rounding off the fractional period of a year to the nearest completed year.
+- (c) As regards valuation of other unquoted securities including PSU bonds, banks should uniformly follow YTM method for arriving at valuation of unquoted securities.
+- (ii) Treasury Bills should be valued at carrying cost.
+- (iii) State Government Securities
+
+State Government securities shall be valued on the basis of the prices / YTM rates put out by FBIL periodically.
+
+(iv) Other Approved Securities
+
+Other approved securities will be valued applying the YTM method by marking it up by 25 basis points above the yiel

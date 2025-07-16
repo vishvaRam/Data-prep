@@ -1,0 +1,27 @@
+system regularly through its own internal auditing process. This review must include both the activities of the business credit and trading units and of the independent CCR control unit. A review of the overall CCR management process must take place at regular intervals (ideally not less than once a year) and must specifically address, at a minimum:
+	- the adequacy of the documentation of the CCR management system and process;
+	- the organisation of the collateral management unit;
+	- the organisation of the CCR control unit;
+	- the integration of CCR measures into daily risk management;
+	- the approval process for risk pricing models and valuation systems used by front and backoffice personnel;
+	- the validation of any significant change in the CCR measurement process;
+	- the scope of counterparty credit risks captured by the risk measurement model;
+	- the integrity of the management information system;
+	- the accuracy and completeness of CCR data;
+	- the accurate reflection of legal terms in collateral and netting agreements into exposure measurements; the verification of the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources;
+- the accuracy and appropriateness of volatility and correlation assumptions;
+- the accuracy of valuation and risk transformation calculations; and
+- the verification of the model's accuracy through frequent back-testing.
+- (ix) Banks should make an assessment as part of their ICAAP as to whether the bank's evaluation of the risks contained in the transactions that give rise to CCR and the bank's assessment of whether the Current Exposure Method (CEM) captures those risks appropriately and satisfactorily. In cases where, under SREP, it is determined that CEM does not capture the risk inherent in the bank's relevant transactions (as could be the case with structured, more complex OTC derivatives), RBI may require the bank to apply the CEM on a transaction-by-transaction basis (i.e., no netting will be recognized even if it is permissible legally).
+
+**13.3 Market Risk**: A bank should be able to identify risks in trading activities resulting from a movement in market prices. This determination should consider factors such as illiquidity of instruments, concentrated positions, one-way markets, non-linear/deep out-of-the money positions, and the potential for significant shifts in correlations. Exercises that incorporate extreme events and shocks should also be tailored to capture key portfolio vulnerabilities to the relevant market developments.
+
+**13.4 Operational Risk**: A bank should be able to assess the potential risks resulting from inadequate or failed internal processes, people, and systems, as well as from events external to the bank. This assessment should include the effects of extreme events and shocks relating to operational risk. Events could include a sudden increase in failed processes across business units or a significant incidence of failed internal controls.
+
+**13.5 Interest Rate Risk in the Banking Book (IRRBB):** A bank should identify the risks associated with the changing interest rates on its on-balance sheet and off-balance sheet exposures in the banking book from both, a short-term and long-term perspective. This might include the impact of changes due to parallel shocks, yield curve twists, yield curve inversions, changes in the relationships of rates (basis risk), and other relevant scenarios. The bank should be able to support its assumptions about the behavioural characteristics of its non-maturity deposits and other assets and liabilities, especially those exposures characterised by embedded optionality. Given the uncertainty in such assumptions, stress testing and scenario analysis should be used in the analysis of interest rate risks. While there could be several approaches to measurement of IRRBB, an illustrative approach for measurement of IRRBB is furnished at **[Annex 10](#page--1-0)**. The banks would, however, be free to adopt any other variant of these approaches or entirely different methodology for computing / quantifying the IRRBB provided the technique is based on objective, verifiable and transparent methodology and criteria.
+
+**13.6 Credit Concentration Risk**: A risk concentration is any single exposure or a group of exposures with the potential to produce losses large enough (relative to a bank's capital, total assets, or overall risk level) to threaten a bank's health or ability to maintain its core operations. Risk concentrations have arguably been the single most important cause of major problems in banks. Concentration risk resulting from concentrated portfolios could be significant for most of the banks.
+
+The following **qualitative criteria** could be adopted by banks to demonstrate that the credit concentration risk is being adequately addressed:
+
+(a) While assessing the exposure to concentration risk, a bank should keep in view that the calculations 

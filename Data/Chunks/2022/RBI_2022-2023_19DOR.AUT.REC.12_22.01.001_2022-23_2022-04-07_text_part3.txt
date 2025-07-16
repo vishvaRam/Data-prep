@@ -1,0 +1,19 @@
+ of Annexure II (Part B) of the Reserve Bank of India (Financial Statements – Presentation and Disclosures) Directions, 2021. It is clarified that the digital banking products / services applicable to segments other than 'Retail Banking' need not be reported at this stage.
+
+**11.2** Performance update with respect to DBU shall be furnished in a pre-defined reporting format (being separately issued) to Department of Supervision, Reserve Bank of India on monthly basis and in a consolidated form in Annual Report of the bank.
+
+**11.3** Banks shall furnish information relating to opening, closure, merger or shifting of DBUs online through Central Information System for Banking Infrastructure (CISBI) portal to Department of Statistics and Information Management (DSIM), RBI as advised vide [RBI circular DBR.No.BAPD.BC.50/22.01.001/2018-19 dated June 28, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11609&Mode=0) on 'Revision in Proforma and Reporting of Bank/ Banking Outlet (BO) details under CISBI.
+
+## **12. Role of Board of Directors**
+
+**12.1** Expansion of digital financial services and financial inclusion being overarching objectives of DBUs and in view of the operational flexibility given to banks in this domain, the board should ensure provisions of regular on-site and off-site monitoring system covering all aspects of the guidelines.
+
+**12.2** The Board or a Committee of the Board shall review the progress and key performance indicators of digital banking services including that of DBU separately at suitable periodicity. The review should cover both business and risk aspects of the segment.
+
+## **Minimum Products and Services to be offered by DBUs (Ref. Paragraph 7.2 of Annex)**
+
+**1. Liability Products and services:** (i) Account Opening: Saving Bank account under various schemes, Current account, Fixed deposit and Recurring deposit account; (ii) Digital Kit for customers: Mobile Banking, Internet Banking, Debit Card, Credit card and mass transit system cards; (iii) Digital Kit for Merchants: UPI QR code, BHIM Aadhaar, POS, etc.
+
+**2. Asset Products and services:** (i) Making applications for and onboarding of customer for identified retail, MSME or schematic loans. This may also include end to end digital processing of such loans, starting from online application to disbursal; (ii) Identified Government sponsored schemes which are covered under the National Portal.
+
+**3. Digital Services:** (i) Cash withdrawal and Cash Deposit only through ATM and Cash Deposit Machines respectively- no physical cash acceptance/disbursal across counters; (ii) Passbook printing / Statement Generation; (iii) Internet Banking Kiosk which may also include facilities to provide all/majority of services available on internet banking including indent and issuance/processing of Cheque Book request, receipt and online processing of various standing instructions of clients;(iv) transfer of funds (NEFT/IMPS support); (v) updation of KYC / other personal details, etc.; (iv) Lodging of grievance digitally and acknowledgement thereof and also tracking of resolution status; (v) Account Opening Kiosk; (vi) Kiosk with e-KYC/ Video KYC; (vii) Digital onboarding of customers for schemes such as Atal Pension Yojana (APY); Insurance onboarding for Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY).

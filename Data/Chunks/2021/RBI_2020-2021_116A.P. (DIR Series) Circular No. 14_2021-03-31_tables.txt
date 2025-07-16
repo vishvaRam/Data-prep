@@ -1,0 +1,13 @@
+| Table - 1: Limits for FPI investment in Corporate bonds for FY 2021-22 |           |  |  |  |
+|------------------------------------------------------------------------|-----------|--|--|--|
+|                                                                        | (₹ Crore) |  |  |  |
+| Current FPI limit                                                      | 5,41,488  |  |  |  |
+| Revised limit for HY Apr 2021-Sep 2021                                 | 5,74,263  |  |  |  |
+| Revised limit for HY Oct 2021-Mar 2022                                 | 6,07,039  |  |  |  |
+
+| Table - 2: Limits for FPI investments in G-Sec and SDL |                  |                    |                |                  |
+|--------------------------------------------------------|------------------|--------------------|----------------|------------------|
+|                                                        |                  |                    |                | (₹ Crore)        |
+|                                                        | G-Sec<br>General | G-Sec Long<br>Term | SDL<br>General | SDL Long<br>Term |
+| FPI investment limits                                  | 2,34,531         | 1,03,531           | 67,630         | 7,100            |
+

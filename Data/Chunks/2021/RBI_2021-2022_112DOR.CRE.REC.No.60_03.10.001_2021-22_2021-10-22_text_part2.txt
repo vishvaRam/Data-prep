@@ -1,0 +1,47 @@
+vity**
+
+**1.6** As the regulatory structure envisages scale based as well as activity-based regulation, the following prescriptions shall apply in respect of the NBFCs
+
+- **a)** NBFC-P2P, NBFC-AA, NOFHC and NBFCs without public funds and customer interface will always remain in the Base Layer of the regulatory structure.
+- **b)** NBFC-D, CIC, IFC and HFC will be included in Middle Layer or the Upper Layer (and not in the Base layer), as the case may be. SPD and IDF-NBFC will always remain in the Middle Layer.
+- **c)** The remaining NBFCs, viz., Investment and Credit Companies (NBFC-ICC), Micro Finance Institution (NBFC-MFI), NBFC-Factors and Mortgage Guarantee Companies (NBFC-MGC) could lie in any of the layers of the regulatory structure depending on the parameters of the scale based regulatory framework.
+- **d)** Government owned NBFCs shall be placed in the Base Layer or Middle Layer, as the case may be. They will not be placed in the Upper Layer till further notice.
+
+### **Section II**
+
+# **2. SCALE BASED REGULATORY FRAMEWORK**
+
+**2.1 References to NBFC-ND, NBFC-ND-SI & NBFC-D -** From October 01, 2022, all references to NBFC-ND shall mean NBFC-BL and all references to NBFC-D and NBFC-ND-SI shall mean NBFC-ML or NBFC-UL, as the case may be[2](#page-2-0).
+
+**2.2 Progressive application of regulations** - Regulatory revisions applicable to lower layers of NBFCs will automatically be applicable to NBFCs residing in higher layers, unless stated otherwise.
+
+**2.3 Regulatory guidelines for NBFCs in Base Layer -** NBFCs in the Base Layer (NBFC-BL) shall be subject to regulations as currently applicable to NBFC-ND, except for the changes mentioned below at **paras 3.1 and 3.2**. NBFC-P2P, NBFC-AA, and NOFHC shall be subject to extant regulations governing them[3](#page-2-1).
+
+**2.4 Regulatory guidelines for NBFCs in Middle Layer -** NBFCs in the Middle Layer (NBFC-ML) shall continue to follow regulations as currently applicable for NBFC-ND-SIs, NBFC-Ds, CICs, SPDs and HFCs, as the case may be, except for the changes mentioned below at **paras 3.1 and 3.2**.
+
+<span id="page-2-0"></span><sup>2</sup> It is clarified that existing NBFC-ND-SIs having asset size of ₹500 crore and above but below ₹1000 crore (except those necessarily featuring in Middle Layer) will be known as NBFC-BL. 3 Master Directions - Non-Banking Financial Company – [Peer to Peer Lending Platform \(Reserve Bank\) Directions, 2017;](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11137)
+
+<span id="page-2-1"></span>Master Direction- Non-Banking Financial Company - [Account Aggregator \(Reserve Bank\) Directions, 2016;](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10598) and [Guidelines for](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=28191)  [Licensing of New Banks in the Private Sector dated February 22, 2013](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=28191) and other related guidelines containing instructions on NOFHC.
+
+**2.5 Regulatory guidelines for NBFCs in Upper Layer -** NBFCs lying in the Upper Layer (NBFC-UL) shall be subject to regulations applicable to NBFC-ML in addition to the changes mentioned below at **paras 3.1 and 3.2**.
+
+# **3. REGULATORY CHANGES UNDER SCALE BASED REGULATION (SBR)**
+
+# **3.1 Regulatory changes under SBR for all the layers in the regulatory structure**
+
+**a) Net Owned Fund** – Regulatory minimum Net Owned Fund (NOF) for NBFC-ICC, NBFC-MFI and NBFC-Factors shall be increased to ₹10 crore.[4](#page-3-0) The following glide path is provided for the existing NBFCs to achieve the NOF of ₹10 crore:
+
+
+However, for NBFC-P2P, NBFC-AA, and NBFCs with no public funds and no customer interface, the NOF shall continue to be ₹2 crore. It is clarified that there is no change in the existing regulatory minimum NOF for NBFCs - IDF, IFC, MGCs, HFC, and SPD.[5](#page-3-1)
+
+**b) NPA Classification** - The extant NPA classification norm stands changed to the overdue period of *more than 90 days* for all categories of NBFCs. A glide path is provided to NBFCs in Base Layer to adhere to the 90 days NPA norm as under –
+
+
+*Explanation*: The glide path will not be applicable to NBFCs which are already required to follow the 90-day NPA norm.
+
+- **c) Experience of the Board** Considering the need for professional experience in managing the affairs of NBFCs, at least one of the directors shall have relevant experience of having worked in a bank/ NBFC.
+- **d) Ceiling on IPO Funding** There shall be a ceiling of ₹1 crore per borrower for financing subscription to Initial Public Offer (IPO). NBFCs can fix more conservative limits.
+
+# **3.2 Regulatory changes under SBR for different layers in the regulatory structure** –
+
+<span id="page-3-1"></span><span id="page-3-0"></span><sup>4</sup> It is clarified that there shall be no distinction in the NOF requirement for NBFCs registered in the North East Region. <sup>5</sup> NOF for different categories are - IDF and IFC - ₹300 crore,

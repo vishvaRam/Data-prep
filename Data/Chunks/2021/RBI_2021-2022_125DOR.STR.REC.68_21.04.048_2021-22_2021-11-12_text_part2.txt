@@ -1,0 +1,36 @@
+hat account shall be April 30, 2021.* 
+
+*Similarly, if the account continues to remain overdue, it shall get tagged as SMA-2 upon running day-end process on May 30, 2021 and if continues to remain overdue further, it shall get classified as NPA upon running day-end process on June 29, 2021.*
+
+5. It is further clarified that the instructions on SMA classification of borrower accounts are applicable to all loans[2](#page-2-0), including retail loans, irrespective of size of exposure of the lending institution.
+
+## **C. Clarification regarding definition of 'out of order'**
+
+6. Cash credit/Overdraft (CC/OD) account is classified as NPA if it is 'out of order'. In cases where the outstanding balance in the principal operating account is less than the sanctioned limit/drawing power, the extant instructions, *inter alia*, stipulate that the account should be treated as 'out of order' if there are no credits continuously for 90 days as on the date of Balance Sheet or credits are not enough to cover the interest debited during the same period. In order to avoid any ambiguity regarding determination of 'out
+
+<span id="page-2-0"></span> <sup>2</sup> Agricultural advances governed by crop season-based asset classification norms shall be exempt from this instruction.
+
+of order' status of CC/OD accounts on a continuous basis, it is clarified that an account shall be treated as 'out of order' if:
+
+- i. the outstanding balance in the CC/OD account remains continuously in excess of the sanctioned limit/drawing power for 90 days, or
+- ii. the outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but there are no credits continuously for 90 days, or the outstanding balance in the CC/OD account is less than the sanctioned limit/drawing power but credits are not enough to cover the interest debited during the previous 90 days period.
+
+7. Accordingly, treatment of CC/OD accounts as 'out of order' on or after the date of this circular shall be based on the above instructions.
+
+## **D. NPA classification in case of interest payments**
+
+8. In terms of paragraph 2.1.3 of the [Master Circular on IRACP](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171) norms dated October 1, [2021,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171) in case of interest payments, an account is classified as NPA only if the interest due and charged during any quarter is not serviced fully within 90 days from the end of the quarter. In order to fully align with the 90 days delinquency norm as well as the requirement to apply interest at monthly rests, the above instructions are modified as under:
+
+*In case of interest payments in respect of term loans, an account will be classified as NPA if the interest applied at specified rests remains overdue for more than 90 days.*
+
+9. These instructions shall be effective from March 31, 2022. Accordingly, in respect of any borrower account which becomes overdue on or after March 31, 2022, its classification as NPA shall be based on the account being overdue for more than 90 days.
+
+## **E. Upgradation of accounts classified as NPAs**
+
+10. It has been observed that some lending institutions upgrade accounts classified as NPAs to 'standard' asset category upon payment of only interest overdues, partial overdues, etc. In order to avoid any ambiguity in this regard, it is clarified that loan accounts classified as NPAs may be upgraded as 'standard' asset only if entire arrears of interest and principal are paid by the borrower. With regard to upgradation of accounts classified as NPA due to restructuring, non-achievement of date of commencement of commercial operations (DCCO), etc., the instructions as specified for such cases shall continue to be applicable.
+
+## **F. Income recognition policy for loans with moratorium on payment of interest**
+
+11. In cases of loans where moratorium has been granted for repayment of interest, lending institutions may recognize interest income on accrual basis for accounts which continue to be classified as 'standard'. This shall be evaluated against the definition of 'restructuring' provided in paragraph 1 of the Annex-1 to the above-mentioned ['Prudential](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11580&Mode=0)  [Framework for Resolution of Stressed Assets' dated June 7, 2019.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11580&Mode=0) However, income recognition norms for loans towards projects under implementation involving deferment of DCCO[3](#page-4-0) and gold loans for non-agricultural purposes[4](#page-4-1) shall continue to be governed as per the existing instructions.
+
+12. The extant instructions (compiled at paragraph 3.2 of the [Master Circular on IRACP](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171)  [norms dated October 1, 2021\)](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12171) require that once an account is classified a

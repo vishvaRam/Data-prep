@@ -1,0 +1,59 @@
+k would not otherwise consider. Restructuring would normally involve modification of terms of the advances / securities, which would generally include, among others, alteration of repayment period / repayable amount / the amount of instalments / rate of interest (due to reasons other than competitive reasons).
+
+### **iv) Repeatedly Restructured Accounts**
+
+When a bank restructures an account a second (or more) time(s), the account will be considered as a 'repeatedly restructured account'. However, if the second restructuring takes place after the period up to which the concessions were extended under the terms of the first restructuring, that account shall not be reckoned as a 'repeatedly restructured account'.
+
+## **v) SMEs**
+
+Small and Medium Enterprises as defined in terms of the [circular FIDD.MSME &](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11951&Mode=0)  [NFS.BC.No.4/06.02.31/2020-21 dated August 21, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11951&Mode=0) on 'New Definition of Micro, Small and Medium Enterprises – clarifications', as updated from time to time.
+
+## **vi) Specified Period**
+
+Specified Period means a period of one year from the date when the first payment of interest or installment of principal falls due under the terms of restructuring package.
+
+# **vii) Satisfactory Performance**
+
+Satisfactory performance during the specified period means adherence to the following conditions during that period.
+
+## Non-Agricultural Cash Credit Accounts
+
+In the case of non-agricultural cash credit accounts, the account should not be out of order any time during the specified period. In addition, there should not be any overdues at the end of the specified period.
+
+## Non-Agricultural Term Loan Accounts
+
+In the case of non-agricultural term loan accounts, no payment should remain overdue for a period of more than 90 days. In addition there should not be any overdues at the end of the specified period.
+
+### All Agricultural Accounts
+
+In the case of agricultural accounts, at the end of the specified period the account should be regular.
+
+
+#### **Prudential Guidelines on Restructuring of Advances**
+
+
+
+
+#### **Guidelines on Asset Classification of Projects under Implementation**
+
+Banks must fix a Date of Commencement of Commercial Operations (DCCO) for all project loans at the time of sanction of the loan / financial closure[7](#page-3-0) (in the case of multiple banking or consortium arrangements). For the purpose of IRAC norms, all project loans may be divided into the following two categories; (i) Project Loans for infrastructure sector (ii) Project Loans for non-infrastructure sector.
+
+# **1. Project Loans for Infrastructure Sector**
+
+1.1 A loan for an infrastructure project will be classified as NPA during any time before commencement of commercial operations as per record of recovery (90 days overdue), unless it is restructured and becomes eligible for classification as 'standard asset' in terms of paras.1.3 and 1.4 below.
+
+1.2 A loan for an infrastructure project will be classified as NPA if it fails to commence commercial operations within two years from the original DCCO, even if it is regular as per record of recovery, unless it is restructured and becomes eligible for classification as 'standard asset' in terms of paras 1.3 and 1.4 below.
+
+1.3 There may be occasions when completion of projects is delayed for legal and other extraneous reasons like delays in Government approvals etc. All these factors, which are beyond the control of the promoters, may lead to delay in project implementation and involve restructuring / rescheduling of loans by banks. If a project loan classified as 'standard asset' is restructured any time during the period up to two years from the original date of commencement of commercial operations (DCCO), in accordance with prudential guidelines on restructuring of advances at paragraph 2.2.7 above, it can be retained as a standard asset if the fresh DCCO is fixed within the following limits, and further provided the account continues to be serviced as per the restructured terms:
+
+#### **a) Infrastructure Projects involving Court Cases**
+
+Up to another 2 years (beyond the existing extended period of 2 years i.e total extension of 4 years), in case the reason for extension of date of commencement of production is arbitration proceedings or a court case.
+
+### **b) Infrastructure Projects delayed for other reasons beyond the Control of Promoters**
+
+Up to another 1 year (beyond the existing extended period of 2 years i.e. total extension of 3 years), in other than court cases.
+
+1.4 The dispensation in para 1.3 is subject to the condition that the application for restructuring should be received before the expiry of period of two years from the original DCCO and when the account is still standard as per record of recovery. The other conditions applicable would be:
+
+i. In cases where there is moratorium for payment of interest, banks should not bo

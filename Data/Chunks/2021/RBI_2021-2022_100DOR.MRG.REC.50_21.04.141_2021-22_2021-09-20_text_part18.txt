@@ -1,0 +1,87 @@
+ransactions** *[Paragraph 7 of Annex III]*
+
+(i) The following accounts may be maintained, viz. i) Repo Account, ii) Reverse Repo Account, iii) Reverse Repo Interest Income Account, iv) Repo Interest Expenditure Account v) Reverse Repo Interest Receivable Account and vi) Repo Interest Payable Account.
+
+(ii) In addition to the above, the following 'contra' accounts may also be maintained, viz. i) Securities Sold under Repo Account, (ii) Securities Purchased under Reverse Repo Account, (iii) Securities Receivable under Repo Account and (iv) Securities Deliverable under Reverse Repo Account.
+
+## **Repo**
+
+(iii) In a repo transaction, the securities should be sold in the first leg at market related prices and re-purchased in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The sale and repurchase should be reflected in the Repo Account.
+
+(iv) Though the securities are not excluded from the repo seller's investment account and not included in the repo buyer's investment account, the transfer of securities shall be reflected by using the necessary contra entries.
+
+## **Reverse Repo**
+
+(v) In a reverse repo transaction, the securities should be purchased in the first leg at prevailing market prices and sold in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The purchase and sale should be reflected in the Reverse Repo Account.
+
+(vi) The balances in the Reverse Repo Account shall not be a part of the Investment Account for balance sheet purposes but can be reckoned for SLR purposes if the securities acquired under reverse repo transactions are approved securities.
+
+## **Other aspects relating to Repo/Reverse Repo**
+
+(vii) In case the interest payment date of the securities sold under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller on the date of receipt as the cash consideration payable by the seller in the second leg does not include any intervening cash flows.
+
+(viii) To reflect the accrual of interest in respect of the outstanding repo transactions at the end of the accounting period, appropriate entries should be passed in the Profit and Loss account to reflect Repo Interest Income / Expenditure in the books of the buyer / seller respectively and the same should be debited / credited as an expenditure payable/income receivable. Such entries passed should be reversed on the first working day of the next accounting period.
+
+(ix) Repo seller continues to accrue coupon/discount as the case may be, even during the repo period while the repo buyer shall not accrue the same.
+
+(x) Illustrative examples are given in Annex III(b)
+
+# **Illustrative example***s for ac***counting of Repo / Reverse repo transactions** *[Paragraph 7 of Annex III]*
+
+While in the body of the circular, the term "repo" is used generically to include both repo and reverse repo (which is simply a mirror image of a repo transaction), in this Annex the accounting guidelines have been set out separately for repo and reverse repo for clarity.
+
+## **A. Repo/Reverse Repo of dated security**
+
+## **1. Details of Repo in a coupon bearing security:**
+
+
+#### **\* Using 30/360 day count convention**
+
+#### **\*\* Using Actual/365 day count convention**
+
+### **2. Accounting for Repo Seller (Borrower of Funds)**
+
+#### **First leg**
+
+
+### **Second Leg**
+
+
+#### **3. Accounting for Repo Buyer (Lender of Funds)**
+
+#### **First leg**
+
+
+#### **Second Leg**
+
+
+### **4. Ledger entries for the adjustment accounts**
+
+#### **Securities Receivable under Repo A/c**
+
+
+
+
+
+
+
+
+# **Guidelines on Sale of Financial Assets to ARC** *[Paragraph 12.2]*
+
+## **1. Scope**
+
+These guidelines would be applicable to sale of financial assets enumerated in paragraph 3 below, by Multi-State Co-operative Banks, for asset reconstruction / Securitisation under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act).
+
+#### **2. Structure**
+
+The guidelines to be followed by Multi-State Co-operative Banks while selling their financial assets to ARC under the Act ibid and investing in bonds / debentures / security receipts offered by the ARC are given below. The prudential guidelines have been grouped under the following headings:
+
+- i) Financial assets which can be sold.
+- ii) Procedure for sale of financial assets of Multi-State Co-operative Banks to ARC, including valuation and pricing aspects.
+- iii) Prudential norms, in the following areas, for Multi-State Co-operative Banks for sale of their financial assets to ARC and for investing in bonds / debentures / security receipts and any other securities offered by the ARC as compensation consequent upon sale of financial assets:
+	- a) Provisioning / Valuation norms
+	- b) Capital adequacy norms
+	- c) Exposure norms
+- iv) Disclosure requirements
+
+# **3. Financial assets which can 

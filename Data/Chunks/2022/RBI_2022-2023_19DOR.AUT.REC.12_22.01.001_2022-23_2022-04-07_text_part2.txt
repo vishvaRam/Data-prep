@@ -1,0 +1,31 @@
+Teller and Cash Recyclers, Interactive Digital Walls, Document uploading, self -service card issuance devices, Video KYC Apparatus, secured and connected environment for use of own device for digital banking, Video Call / Conferencing facilities, to set up an DBU. These facilities can be insourced or outsourced while complying with relevant regulatory guidelines.
+
+**5.3** The back-end including the Core Banking System and other back office related information systems for the digital banking products and services can be shared with that of the incumbent systems with logical separation. Alternatively, banks can adopt more core-independent digital-native technologies offering better scalability, flexibility in creating new / reusable digital environments through continuous development / software deployment and interconnectivity specifically for this business segment, based on their digital strategy.
+
+**5.4** If the digital banking segment of a bank uses an API layer (integration layer) to connect with external third-party application providers, the same should be tested in an isolated/ test environment before being integrated to bank's core systems backed by comprehensive risk evaluation and adequate documentation.
+
+**5.5** Banks are free to adopt an in-sourced or out-sourced model for operations of the digital banking segment including DBUs. The outsourced model should specifically comply with the relevant regulatory guidelines on outsourcing.
+
+**5.6** As the purpose of DBUs is to optimally blend digital infrastructure with 'human touch', remote or in situ assisted mode arrangements in right proportion should be planned and put in place by the banks.
+
+**5.7** The establishment of DBUs should be part of the digital banking strategy of the bank. The operational governance and administrative structure of the DBUs will be aligned with that of the Digital Banking Segment of the bank. However, in order to accelerate digital banking initiatives, each DBU will be headed by a sufficiently senior and experienced executive of the bank, preferably Scale III or above for PSBs or equivalent grades for other banks who can be designated as the Chief Operating Officer (COO) of the DBU.
+
+#### **6. Cyber Security**
+
+In addition to ensuring physical security of the infrastructure of the DBU, adequate safeguards for cyber security of the DBUs will have to be ensured by the banks.
+
+### **7. Products and Services**
+
+**7.1** Each DBU must offer certain minimum digital banking products and services. Such products should be on both liabilities and assets side of the balance sheet of the digital banking segment. Digitally value-added services to conventional products would also qualify as such. The DBUs are expected to migrate to more structured and custom made products, from standard offerings by use of its hybrid and high quality interactive capabilities.
+
+**7.2** An illustrative list of minimum bouquet of products / services and self-service fulfilment services that can be offered in the DBU is given in the [APPENDIX.](#page--1-0) However, the banks have the freedom to offer any other digital product or service in addition to the minimum bouquet to cater to the specific needs of the service area. Any product or service that can be provided digitally through internet banking or mobile banking can be provided in the DBU. Any product or service which a bank is not permitted to offer as per the provisions of Banking Regulation Act 1949, as amended from time to time, shall not be offered by the DBU.
+
+**8. Digital Banking Customer Education:** In addition to onboarding of customers in a fully digital environment, various tools and methods shall be used by DBUs to offer hands-on customer education on safe digital banking products and practices for inducting customers to self-service digital banking services. This effort has to be clearly translated to incremental digital penetration of the financial services a DBU is catering to and will have to be monitored. The district where the DBU is located will be the catchment area for the purpose.
+
+**9. Digital Business Facilitator / Business Correspondent**: The banks will have the options to engage digital business facilitator / business correspondents in conformance with relevant regulations (Ref. [Master Circular DBOD.No.BAPD.BC.7/22.01.001/2014-](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9014) [15 dated July](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9014) 01, 2014) to expand the virtual footprint of DBUs.
+
+**10. Customer Grievances:** There should be adequate digital mechanism to offer real time assistance and redress customer grievances arising from business and services offered by the DBUs directly or through Business Facilitators / Correspondents.
+
+### **11. Reporting Requirements**
+
+**11.1** Banks shall report the Digital Banking Segment as a sub-segment within the existing "Retail Banking Segment" in the format as specified under paragraph 4

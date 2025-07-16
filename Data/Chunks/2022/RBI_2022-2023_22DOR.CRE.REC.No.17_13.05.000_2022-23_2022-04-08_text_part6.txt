@@ -1,0 +1,34 @@
+x-6.](#page--1-1) Further, in view of the Resolution Framework for COVID-19 related stress, Uniform Credit Reporting Format for Consumer Bureau and Commercial Bureau, as contained in [Appendix-A](#page--1-1) (of [Annex-6\)](#page--1-1) has been modified vide [DoR.FIN.REC.46/20.16.056/2020-21 dated March 12, 2021,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12038&Mode=0) as under:
+
+(i) Consumer Bureau: The label of the field 'Written off and Settled status' is modified as 'Credit Facility Status' and it will also have a new catalogue value, viz., 'Restructured due to COVID-19'.
+
+(ii) Commercial Bureau: The existing field 'Major reasons for restructuring' will have a new catalogue value, viz., 'Restructured due to COVID-19'.
+
+# **5.1.3 Credit information reporting in respect of Self Help Group (SHG) members**
+
+UCBs shall be guided by instructions contained in the [circular DCBR.BPD.Cir.No.17/16.74.000/2015-16](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10417&Mode=0)  [dated May 26, 2016](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10417&Mode=0) on the matter. The instructions are also given as [Annex – 7](#page--1-1) of this circular for ready reference.
+
+### **5.2 Exchange of information - Lending under Consortium Arrangement / Multiple Banking Arrangements**
+
+5.2.1 UCBs need to strengthen their information back-up about the borrowers enjoying credit facilities from multiple banks.
+
+(i) At the time of granting fresh facilities, banks may obtain declaration from the borrowers about the credit facilities already enjoyed by them from other banks. In the case of existing lenders, all the banks may seek a declaration from their existing borrowers availing sanctioned limits of ₹5.00 crore and above or wherever, it is in their knowledge that their borrowers are availing credit facilities from other banks, and introduce a system of exchange of information with other banks as indicated above.
+
+(ii) Subsequently, banks should exchange information about the conduct of the borrowers' accounts with other banks at least at quarterly intervals.
+
+(iii) Obtain regular certification by a professional, preferably a Company Secretary / Cost Accountant / Chartered Accountant regarding compliance of various statutory prescriptions that are in vogue.
+
+(iv) Make greater use of credit reports available from Credit Information Companies [Credit Information Bureau (India) Limited (CIBIL), M/s Experian Credit Information Company of India Private Ltd., Equifax Credit Information Services Pvt. Ltd. and High Mark Credit Information Services Pvt. Ltd.]
+
+(v) The banks should incorporate suitable clauses in the loan agreements in future (at the time of next renewal in the case of existing facilities) regarding exchange of credit information so as to address confidentiality issues.
+
+### **5.2.2 Setting up of Central Electronic Registry under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002**
+
+Government of India has set up the Central Registry of Securitisation Asset Reconstruction and Security Interest of India (CERSAI) under the provisions of the SARFAESI Act, 2002, with the objective of preventing frauds in loans involving multiple lending from different banks on the same immovable property. UCBs, accordingly were advised vide [circular UBD.BPD.\(PCB\) Cir No. 27/13.04.002/2012-13 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7750&Mode=0)  [December 14, 2012](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7750&Mode=0) to voluntarily file with CERSAI, in their own interest, , records of equitable mortgages created by them. Pursuant to this, Government issued a Gazette Notification dated January 22, 2016 for filing of the following types of security interest on the CERSAI portal:
+
+- i. Particulars of creation, modification or satisfaction of security interest in immovable property by mortgage other than mortgage by deposit of title deeds.
+- ii. Particulars of creation, modification or satisfaction of security interest in hypothecation of plant and machinery, stocks, debts including book debts or receivables, whether existing or future.
+- iii. Particulars of creation, modification or satisfaction of security interest in intangible assets, being know how, patent, copyright, trademark, licence, franchise or any other business or commercial right of similar nature.
+- iv. Particulars of creation, modification or satisfaction of security interest in any 'under construction' residential or commercial or a part thereof by an agreement or instrument other than mortgage.
+
+In this regard, instructions on Filing of Security Interest relating to Immovable (other than equitable mortgage), Movable and Intangible Assets in CERSAI, issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11439&Mode=0)  [DBR.Leg.No.BC.15/09.08.020/2018-19 dated December 27, 2018](https://www.rbi.org.in/Scripts/NotificationUse

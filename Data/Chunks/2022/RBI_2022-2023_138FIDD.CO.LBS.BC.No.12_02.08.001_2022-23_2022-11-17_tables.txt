@@ -1,0 +1,7 @@
+| Sr<br>No | Newly Created<br>District | Erstwhile<br>District(s) | Sub-Division under<br>newly created district                           | Lead Bank<br>Responsibility<br>assigned to | District<br>Working Code<br>allotted to<br>new district |
+|----------|---------------------------|--------------------------|------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------|
+| 1        | Tseminyu                  | Kohima                   | Tseminyu                                                               | State Bank of<br>India                     | 01K                                                     |
+| 2        | Niuland                   | Dimapur                  | Niuland                                                                | State Bank of<br>India                     | 01L                                                     |
+| 3        | Chumoukedima              |                          | Medziphema<br>Dhansiripar and<br>Seithekema EAC Circle                 | Bank of Baroda                             | 01M                                                     |
+| 4        | Shamator                  | Tuensang<br>and Kiphire  | Shamator<br>Chessore<br>Sotokur EAC Circle and<br>Tsurungto EAC Circle | State Bank of<br>India                     | 01N                                                     |
+

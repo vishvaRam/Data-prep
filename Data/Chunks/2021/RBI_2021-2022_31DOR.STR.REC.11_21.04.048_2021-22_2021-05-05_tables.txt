@@ -1,0 +1,9 @@
+| Sl.<br>No | Description                                                                                                             | Individual<br>Borrowers |                   | Small      |
+|-----------|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------|------------|
+|           |                                                                                                                         | Personal<br>Loans       | Business<br>Loans | businesses |
+| (A)       | Number of requests received for invoking<br>resolution process under Part A                                             |                         |                   |            |
+| (B)       | Number of accounts where resolution plan has<br>been implemented under this window                                      |                         |                   |            |
+| (C)       | Exposure to accounts mentioned at (B) before<br>implementation of the plan                                              |                         |                   |            |
+| (D)       | Of (C), aggregate amount of debt that was<br>converted into other securities                                            |                         |                   |            |
+| (E)       | Additional funding sanctioned, if any, including<br>between<br>invocation<br>of<br>the<br>plan<br>and<br>implementation |                         |                   |            |
+| (F)       | Increase<br>in<br>provisions<br>on<br>account<br>of<br>the<br>implementation of the resolution plan                     |                         |                   |            |

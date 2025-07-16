@@ -1,0 +1,48 @@
+quacy in terms of **paragraph 5.17**, as applicable for external/ third party hedges, will be applicable.
+
+# **6. External Credit Assessments**
+
+## **6.1 Eligible Credit Rating Agencies**
+
+6.1.1 Reserve Bank has undertaken the detailed process of identifying the eligible credit rating agencies, whose ratings may be used by banks for assigning risk weights for credit risk. In line with the provisions of the Revised Framework <sup>71</sup>, where the facility provided by the bank possesses rating assigned by an eligible credit rating agency, the risk weight of the claim will be based on this rating.
+
+6.1.2 In accordance with the principles laid down in the Revised Framework, the Reserve Bank of India has decided that banks may use the ratings of the following domestic credit rating agencies (arranged in alphabetical order) for the purposes of risk weighting their claims for capital adequacy purposes:
+
+- (a) Acuite Ratings & Research Limited (Acuite)<sup>72</sup>
+- (b) Brickwork Ratings India Pvt. Limited (Brickwork);
+- (c) Credit Analysis and Research Limited (CARE);
+- (d) CRISIL Ratings Limited<sup>73</sup>;
+- (e) ICRA Limited;
+- (f) India Ratings and Research Private Limited (India Ratings); and
+- (g) INFOMERICS Valuation and Rating Pvt Ltd. (INFOMERICS)<sup>74</sup>
+
+6.1.3 The Reserve Bank of India has decided that banks may use the ratings of the following international credit rating agencies (arranged in alphabetical order) for the purposes of risk weighting their claims for capital adequacy purposes where specified:
+
+a. Fitch;
+
+- b. Moody's; and
+- c. Standard & Poor's
+
+# 6.2 **Scope of Application of External Ratings**
+
+6.2.1 Banks should use the chosen credit rating agencies and their ratings consistently for each type of claim, for both risk weighting and risk management purposes. Banks will not be allowed to "cherry pick" the assessments provided by different credit rating agencies and to arbitrarily change the use of credit rating agencies. If a bank has decided to use the ratings of some of the chosen credit rating agencies for a given type of claim, it can use only the ratings of those credit
+
+<sup>71</sup> Please refer to the Document 'International Convergence of Capital Measurement and Capital Standards' (June 2006) released by the Basel Committee on Banking Supervision.
+
+<sup>72</sup> Please refer t[o circular DBOD.BP.BC.No.59/21.06.007/2013-14 dated October 17, 2013.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8510&Mode=0)
+
+<sup>73</sup> Please refer t[o circular DOR.No.CRE.BC.33/21.06.007/2020-21 dated January 27, 2021.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12016&Mode=0)
+
+<sup>74</sup> Please refer t[o circular DBR.No.BP.BC.74/21.06.009/2016-17 dated June 13, 2017.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11000&Mode=0) The rating-risk weight mapping for the long term and short term ratings assigned by INFOMERICS will be the same as in case of other rating agencies.
+
+rating agencies, despite the fact that some of these claims may be rated by other chosen credit rating agencies whose ratings the bank has decided not to use. Banks shall not use one agency's rating for one corporate bond, while using another agency's rating for another exposure to the same counterparty, unless the respective exposures are rated by only one of the chosen credit rating agencies, whose ratings the bank has decided to use. External assessments for one entity within a corporate group cannot be used to risk weight other entities within the same group*.* 
+
+6.2.2 Banks must disclose the names of the credit rating agencies that they use for the risk weighting of their assets, the risk weights associated with the particular rating grades as determined by Reserve Bank through the mapping process for each eligible credit rating agency as well as the aggregated risk weighted assets as required vide **Table DF-4 of [Annex 18](#page--1-0)**.
+
+6.2.3 To be eligible for risk-weighting purposes, the external credit assessment must take into account and reflect the entire amount of credit risk exposure the bank has with regard to all payments owed to it. For example, if a bank is owed both principal and interest, the assessment must fully take into account and reflect the credit risk associated with timely repayment of both principal and interest.
+
+6.2.4 To be eligible for risk weighting purposes, the rating should be in force and confirmed from the monthly bulletin of the concerned rating agency. The rating agency should have reviewed the rating at least once during the previous 15 months.
+
+6.2.5 An eligible credit assessment must be publicly available. In other words, a rating must be published in an accessible form and included in the external credit rating agency's transition matrix. Consequently, ratings that are made available only to the parties to a transaction do not satisfy this requirement.
+
+6.2.6 For assets in the bank's portfolio that have contractual maturity less than o

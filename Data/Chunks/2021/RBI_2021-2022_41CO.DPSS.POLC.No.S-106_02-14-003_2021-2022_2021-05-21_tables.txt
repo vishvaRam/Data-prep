@@ -1,0 +1,30 @@
+| SN | Instruction / Circular                             | Present Timeline         | Revised Timeline      |
+|----|----------------------------------------------------|--------------------------|-----------------------|
+| 1. | All existing non-bank PPI issuers (at              | Financial<br>position as | Financial position as |
+|    | the time of issuance of PPI-MD) to                 | on March 31, 2021        | on September 30,      |
+|    | comply with the minimum positive net               |                          | 2021                  |
+|    | worth requirement of Rs.15 crore for               |                          |                       |
+|    | the financial position as on March 31,             |                          |                       |
+|    | 2020 (audited balance sheet).                      |                          |                       |
+| 2. | Harmonisation of TAT and customer                  | Working days until       | Working<br>days –     |
+|    | compensation for failed transactions               | December 31, 2020        | Prospective – Until   |
+|    | using authorised Payment Systems –                 | (Calendar days from      | September 30, 2021    |
+|    | "Calendar<br>days"<br>to<br>be<br>read<br>as       | January 1, 2021)         |                       |
+|    | "Working days".                                    |                          |                       |
+| 3. | Authorised<br>Payment<br>System                    | By May 31, 2021          | By September 30,      |
+|    | Operators<br>(PSOs)<br>are<br>required<br>to       |                          | 2021                  |
+|    | furnish<br>System<br>Audit<br>Report               |                          |                       |
+|    | conducted by CERT-IN empanelled                    | t                        |                       |
+|    | auditors<br>or<br>a<br>Certified<br>Information    | n                        |                       |
+|    | Systems<br>Auditor<br>registered<br>with           | a                        |                       |
+|    | Information Systems Audit and Control              | d                        |                       |
+|    | Association<br>or<br>by<br>a<br>holder<br>of<br>a  | n                        |                       |
+|    | Diploma in Information System Audit                | u                        |                       |
+|    | d<br>qualification<br>of<br>the<br>Institute<br>of |                          |                       |
+|    | Chartered Accountants of India, on an<br>e         |                          |                       |
+|    | annual basis within two months of                  |                          |                       |
+|    | R<br>close of their respective financial year.     |                          |                       |
+| 4. | Existing non-bank entities offering PA             | By June 30, 2021         | By September 30,      |
+|    | services shall apply for authorisation             |                          | 2021*                 |
+|    | on or before June 30, 2021.                        |                          |                       |
+

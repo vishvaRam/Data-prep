@@ -1,0 +1,29 @@
+fication charges, maintenance charges, etc., and exclude contingent charges like penal charges, late payment charges, etc. Withdrawn
+- **2.2. Cooling off/look-up period:** A cooling off/ look-up period is the time window as determined by the Board of the RE which shall be given to borrowers for exiting digital loans, in case a borrower decides not to continue with the loan.
+- **2.3. Digital Lending:** A remote and automated lending process, largely by use of seamless digital technologies for customer acquisition, credit assessment, loan approval, disbursement, recovery, and associated customer service.
+- **2.4. Digital Lending Apps/Platforms (DLAs):** Mobile and web-based applications with user interface that facilitate digital lending services. DLAs will include apps of the Regulated Entities (REs) as well as those operated by Lending Service Providers (LSPs) engaged by REs for extending any credit facilitation services in conformity with extant outsourcing guidelines issued by the Reserve Bank.
+- **2.5. Lending Service Provider (LSP)**: An agent of a Regulated Entity who carries out one or more of lender's functions or part thereof in customer acquisition, underwriting support, pricing support, servicing, monitoring, recovery of specific loan or loan portfolio on behalf of REs in conformity with extant outsourcing guidelines issued by the Reserve Bank.
+
+**2.6. Regulated Entities (REs)**: The entities to whom this circular is applicable as stated at Para 1 of these guidelines.
+
+## **A. Customer Protection and Conduct requirements**
+
+- **3. Loan Disbursal, Servicing and Repayment** REs shall ensure that all loan servicing, repayment, etc., shall be executed by the borrower directly in the RE's bank account without any pass-through account/ pool account of any third party. The disbursements shall always be made into the bank account of the borrower except for disbursals covered exclusively under statutory or regulatory mandate (of RBI or of any other regulator), flow of money between REs for co-lending transactions[2](#page-3-0) and disbursals for specific end use, provided the loan is disbursed directly into the bank account of the end-beneficiary. REs shall ensure that in no case, disbursal is made to a third-party account, including the accounts of LSPs and their DLAs, except as provided for in these guidelines.
+- **4. Collection of fees, charges, etc.**
+- **4.1. Payment of Fees/Charges**: REs shall ensure that any fees, charges, *etc.*, payable to LSPs are paid directly by them (REs) and are not charged by LSP to the borrower directly. Withdrawn
+	- **4.2. Penal Interest/ Charges**: The penal interest/charges levied, if any, on the borrowers shall be based on the outstanding amount of the loan. Further, rate of such penal charges shall be disclosed upfront on an annualized basis to the borrower in the Key Fact Statement (KFS).
+
+## **5. Disclosures to borrowers**
+
+**5.1. Annual Percentage Rate (APR) -** APR as all-inclusive cost of digital loans for the borrower shall be disclosed upfront by REs and shall also be a part of the Key Fact Statement.
+
+<span id="page-3-0"></span><sup>2</sup> Co-lending arrangements shall be governed by the extant instructions as laid down in the [Circular on Co-lending by](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11991&Mode=0)  [Banks and NBFCs to Priority Sector dated November 05, 2020,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11991&Mode=0) and other related instructions.
+
+#### **5.2. Key Fact Statement**
+
+- 5.2.1. REs shall provide a Key Fact Statement (KFS) to the borrower before the execution of the contract in a standardized format for all digital lending products. The format of KFS is provided in [Annex-II.](#page--1-0)
+- 5.2.2. The KFS shall, apart from other necessary information, contain the details of APR, the recovery mechanism, details of grievance redressal officer designated specifically to deal with digital lending/ FinTech related matter and the cooling-off/ look-up period.
+- 5.2.3. Any fees, charges, etc., which are not mentioned in the KFS cannot be charged by the REs to the borrower at any stage during the term of the loan.
+- **5.3. Digitally signed documents**  REs shall ensure that digitally signed documents[3](#page-4-0) (on the letter head of the RE) viz., KFS, summary of loan product, sanction letter, terms and conditions, account statements, privacy policies of the LSPs/DLAs with respect to borrowers data, etc. shall automatically flow to the borrowers on their registered and verified email/ SMS upon execution of the loan contract/ transactions. Withdrawn
+- **5.4. List of LSPs** REs shall prominently publish the list of their DLAs, LSPs engaged by them and DLAs of such LSPs with the details of the activities for which they have been engaged, on their website.
+- **5.5. Product information** REs shall ensure that their DLAs or DLAs of their LSPs at on-boarding/sign-up stage, prominently display information relating to the pr

@@ -1,0 +1,58 @@
+ remained doubtful:
+
+
+#### (iii) **Sub-standard Assets**
+
+A general provision of 10 per cent on total outstanding should be made without making any allowance for ECGC guarantee cover and securities available.
+
+iii) Banks with deposits below ₹100 crore, whose branches were originally in a single district but subsequently, became multi-district due to reorganization of the district.
+
+The deposits and advances as referred to in the definition may be reckoned as on 31st March of the immediate preceding financial year.
+
+<span id="page-1-1"></span><sup>6</sup> Banks not qualifying as Tier I
+
+<span id="page-1-0"></span> <sup>5</sup> (i) Banks having deposits below ₹100 crore, operating in a single district.
+
+ii) Banks with deposits below ₹100 crore operating in more than one district, provided the branches are in contiguous districts and deposits and advances of branches in one district separately constitute at least 95% of the total deposits and advances respectively of the bank.
+
+## **(iv) Provision on Standard Assets**
+
+(a) Tier -I banks should make a general provision of a minimum of 0.25 per cent on standard assets.
+
+(b) Tier II banks shall maintain a general provision of minimum 0.40 per cent for 'standard advances'. However, direct advances to agricultural and SME sectors which are standard assets, would attract a uniform provisioning requirement of 0.25 per cent of the funded outstanding on a portfolio basis, as hitherto.
+
+(c) Both Tier I & Tier II banks shall maintain a minimum provision of 1.00 percent in respect of advances to Commercial Real Estate Sector classified as 'standard assets'.
+
+(d) Both Tier I and Tier II banks UCBs shall maintain a minimum provision of 0.75 percent in respect of advances to Commercial Real Estate-Residential Housing (CRE-RH)[7](#page-2-0) Sector classified as 'standard assets'.
+
+
+
+(f) The provisions towards "standard assets" need not be netted from gross advances but shown separately as "Contingent Provision against Standard Assets" under "Other Funds and Reserves" {item.2 (viii) of Capital and Liabilities} in the Balance Sheet.
+
+(g) In case banks are already maintaining excess provision than what is required / prescribed by Statutory Auditor / RBI Inspection for impaired credits under Bad and Doubtful Debt Reserve, additional provision required for Standard Assets may be segregated from Bad and Doubtful Debt Reserve and the same may be parked under the head "Contingent Provisions against Standard Assets" with the approval of their Board of Directors. Shortfall if any, on this account may be made good in the normal course.
+
+(h) The above contingent provision will be eligible for inclusion in Tier II capital.
+
+# (v) **Higher Provisions**
+
+There is no objection if the banks create bad and doubtful debts reserve beyond the specified limits on their own or if provided in the respective State Co-operative Societies Acts.
+
+<span id="page-2-0"></span> <sup>7</sup> CRE-RH would consist of loans to builders/developers for residential housing projects (except for captive consumption) under CRE segment. Such projects should ordinarily not include non-residential commercial real estate. However, integrated housing projects comprising some commercial space (e.g. shopping complex, school, etc.) can also be classified under CRE-RH, provided that the commercial area in the residential housing project does not exceed 10% of the total Floor Space Index (FSI) of the project. In case the FSI of the commercial area in the predominantly residential housing complex exceeds the ceiling of 10%, the project loans should be classified as CRE and not CRE-RH.
+
+## 5.2 **Provisioning for Retirement Benefits**
+
+Banks may have retirement benefit schemes for their staff, viz. Provident Fund, Gratuity and Pension. It is necessary that such liabilities are estimated on actuarial basis and full provision should be made every year for the purpose in their Profit and Loss Account.
+
+#### 5.3 **Provisioning Pertaining to Fraud Accounts**
+
+With effect from May 14, 2015, provisioning norm in respect of all cases of fraud identified in terms of the Master Circular on Frauds - Classification and Reporting, as updated from time to time, are as under:
+
+5.3.1 The entire amount due to the bank (irrespective of quantum of security held against such assets), or for which the bank is liable (including in case of deposit accounts), is to be provided for over a period not exceeding four quarters commencing with the quarter in which the fraud has been detected;
+
+5.3.2 However, where there has been delay beyond the prescribed period, in reporting the fraud to Reserve Bank, the entire provisioning is required to be made at once. In addition, Reserve Bank of India may also initiate appropriate supervisory action where there has been delay by the bank in reporting a fraud or provisioning there against.
+
+# 5.4 **Guidelines for Provisions in Specific Cases**
+
+# (i) **State Government guaranteed Advances**
+
+From the year ended March 3

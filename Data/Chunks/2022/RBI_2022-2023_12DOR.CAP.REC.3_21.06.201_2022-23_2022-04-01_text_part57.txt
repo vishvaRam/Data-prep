@@ -1,0 +1,37 @@
+uctions in overall capital (to a level still above regulatory minima) may be appropriate if the RBI's supervisory assessment leads it to a conclusion that risk has materially declined or that it has been appropriately mitigated. Based on such assessment, the RBI could consider initiating appropriate supervisory measures to address its supervisory concerns. The measures could include requiring a modification or enhancement of the risk management and internal control processes of a bank, a reduction in risk exposures, or any other action as deemed necessary to address the identified supervisory concerns. These measures could also include the stipulation of a bank-specific additional capital requirement over and above what has been determined under Pillar 1.
+
+12.2.5 As and when the advanced approaches envisaged in the Basel capital adequacy framework are permitted to be adopted in India, the SREP would also assess the ongoing compliance by banks with the eligibility criteria for adopting the advanced approaches.
+
+<sup>93</sup> If a bank has identified some capital add-on to take care of an identified Pillar 2 risk or inadequately capitalised Pillar 1 risk, that add-on can be translated into risk weighted assets as indicated in this paragraph below, which should be added to the total risk weighted assets of the bank. No additional Pillar 2 buffer need be maintained for such identified risks.
+
+<sup>94</sup> Please refer t[o circular DBOD.No.BP.BC.85/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8694&Mode=0) an[d DBOD.No.BP.BC.116/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0) dated January 15, 2014 and June 3, 2014, respectively.
+
+# **12.3 The Structural Aspects of the ICAAP**
+
+12.3.1 This section outlines the broad parameters of the ICAAP that banks shall comply with in designing and implementing their ICAAP.
+
+12.3.2 Every bank shall have an ICAAP
+
+The ICAAP shall be prepared, on a solo basis, at every tier for each banking entity within the banking group, as also at the level of the consolidated bank. This requirement shall also apply to the foreign banks which have a branch presence in India and their ICAAP should cover their Indian operations only.
+
+## 12.3.3 ICAAP to encompass firm-wide risk profile<sup>95</sup>
+
+## 12.3.3.1 General firm-wide risk management principles:
+
+Senior management should understand the importance of taking an integrated, firm-wide perspective of a bank's risk exposure, in order to support its ability to identify and react to emerging and growing risks in a timely and effective manner. The purpose of this guidance is the need to enhance firm-wide oversight, risk management and controls around banks' capital markets activities, including securitisation, off-balance sheet exposures, structured credit and complex trading activities.
+
+A sound risk management system should have the following key features:
+
+- Active board and senior management oversight;
+- Appropriate policies, procedures and limits;
+- Comprehensive and timely identification, measurement, mitigation, controlling, monitoring and reporting of risks;
+- Appropriate management information systems (MIS) at the business and firm-wide level; and
+- Comprehensive internal controls.
+
+# 12.3.3.2 Board and Senior Management Oversight:
+
+The ultimate responsibility for designing and implementation of the ICAAP lies with the board of directors of the bank (in case of banks incorporated in India including foreign banks operating under the WOS model) and with the Chief Executive Officer (in the case of the foreign banks with branch presence in India). It is the responsibility of the board of directors and senior management to define the institution's risk appetite and to ensure that the bank's risk management framework includes detailed policies that set specific firm-wide prudential limits on the bank's activities, which are consistent with its risk taking appetite and capacity. In order to determine the overall risk appetite, the board and senior management must first have an understanding of risk exposures
+
+<sup>95</sup> [Master Circular DBOD.No.BP.BC.73/21.06.001/2009-10 dated Feb 8, 2010.](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=5494)
+
+on a firm-wide basis. To achieve this understanding, the appropriate members of senior management must bring together the perspectives of the key business and control functions. In order to develop an integrated firm-wide perspective on risk, senior management must overcome organisational silos between business lines and share information on market developments, risks and risk mitigation techniques. As the banking industry is exhibiting the tendency to move increasingly towards market-based intermediation, there is a greater probability that many areas of a bank may be exposed to a common set of products, risk factors or counterparties. Senior management should establish a risk management process that is not limited to cre

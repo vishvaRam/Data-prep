@@ -1,0 +1,31 @@
+sanctioned as part of the restructuring, if any, is repaid.*
+
+## 18. Provisioning Norms[20](#page-3-1)
+
+18.1 Accounts restructured under the revised framework shall attract provisioning as per the asset classification category as laid out in part A of this Master Circular.
+
+18.2 In respect of accounts of debtors where a final RP, as approved by the Committee of Creditors, has been submitted by the Resolution Professional for approval of the Adjudicating Authority (in terms of section 30(6) of the IBC), lenders may keep the provisions held as on the date of such submission of RP frozen for a period of six months from the date of submission of the plan or up to 90 days from the date of approval of the resolution plan by the Adjudicating Authority in terms of section 31 (1) of the IBC, whichever is earlier.
+
+18.3 The above facility of freezing the quantum of the provision shall be available only in cases where the provisioning held by the lenders as on the date of submission of the plan for approval of the Adjudicating Authority is more than the expected provisioning required to be held in the normal course upon implementation of the approved resolution plan, taking into account the contours of the resolution plan approved by Committee of Creditors/ Adjudicating Authority, as the case may be, and extant prudential norms. However, lenders shall not reverse the excess provisions held as on the date of submission of the resolution plan for approval of the Adjudicating Authority at this stage. In cases where the provisioning held is lower than the expected required provisioning, lenders shall make additional provisioning to the extent of the shortfall. Subsequent to the lapse of above mentioned period, provisioning shall be as per the norms laid out in Part A of this Master Circular. The facility of freezing of provisions shall also lapse immediately if the Adjudicating Authority rejects the resolution plan thus submitted. Asset classification in respect of such borrower shall continue be governed by the extant asset classification norms.
+
+<span id="page-3-0"></span> <sup>19</sup> For accounts restructured under IBC, the specified period shall be deemed to commence from the date of implementation of the resolution plan as approved by the Adjudicating Authority
+
+<span id="page-3-1"></span><sup>20</sup> Additional provisions for delayed implementation of RP within timelines shall be as per paragraphs 11.1 – 11.4 of this Master Circular
+
+18.4 MSME accounts restructured under the [circulars DBR.No.BP.BC.18/21.04.048/2018-](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0) [19 dated January 1, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0) and [DOR.No.BP.BC.34/21.04.048/2019-20 dated February 11, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11808&Mode=0) shall attract the provisioning requirements prescribed therein.
+
+# 19. Additional Finance
+
+19.1 Any additional finance approved under the RP (including any resolution plan approved by the Adjudicating Authority under IBC) may be treated as 'standard asset' during the monitoring period under the approved RP, provided the account demonstrates satisfactory performance (as defined at footnote 16) during the monitoring period. If the restructured asset fails to perform satisfactorily during the monitoring period or does not qualify for upgradation at the end of the monitoring period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+
+19.2 Similarly, any interim finance [as defined in section 5 (15) of the IBC] extended by the lenders to debtors undergoing insolvency proceedings under IBC may be treated as 'standard asset' during the insolvency resolution process period as defined in the IBC. During this period, asset classification and provisioning for the interim finance shall be governed by the norms laid down in Part A of this Master Circular. Subsequently, upon approval of the resolution plan by the Adjudicating Authority, treatment of such interim finance shall be as per the norms applicable to additional finance, as per Paragraph 19.1 above.
+
+# 20. Income recognition norms
+
+20.1 Interest income in respect of restructured accounts classified as 'standard assets' may be recognized on accrual basis and that in respect of the restructured accounts classified as 'nonperforming assets' shall be recognised on cash basis.
+
+20.2 In the case of additional finance in accounts where the pre-restructuring facilities were classified as NPA, the interest income shall be recognised only on cash basis except when the restructuring is accompanied by a change in ownership.
+
+# 21. Conversion of Principal into Debt / Equity and Unpaid Interest into 'Funded Interest Term Loan' (FITL), Debt or Equity Instruments
+
+21.1 An act of restructuring might create new securities issued by the borrower which would be held by the lenders in lieu of a portion of the pre-restructured

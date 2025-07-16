@@ -1,0 +1,29 @@
+d of one year after the first interest / principal payment, whichever is earlier, falls due under the approved restructuring package. However, in the case of accounts where the pre-restructuring facilities were classified as 'sub-standard' and 'doubtful', interest income on the additional finance should be recognised only on cash basis. If the restructured asset does not qualify for upgradation at the end of the above specified one year period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+
+2.2.7.7 In respect of loan accounts which enjoy special regulatory treatment as per para 2.2.7.25, upon restructuring, such non-performing assets would continue to have the same asset classification as prior to restructuring. In case satisfactory performance of the account is not evidenced during the 'specified period', it would slip into further lower asset classification categories as per extant asset classification norms with reference to the **pre-restructuring repayment schedule**.
+
+2.2.7.8 In case a restructured asset, which is a standard asset on restructuring, is subjected to restructuring on a subsequent occasion, it should be classified as substandard. If the restructured asset is a sub-standard or a doubtful asset and is subjected to restructuring, on a subsequent occasion, its asset classification will be reckoned from the date when it became NPA on the first occasion. However, such advances restructured on second or more occasion may be allowed to be upgraded to standard category after one year from the date of first payment of interest or repayment of principal whichever falls due earlier in terms of the current restructuring package subject to satisfactory performance.
+
+## (b) Income Recognition Norms
+
+2.2.7.9 Subject to provisions of paragraphs 2.2.7.6 and 2.2.7.22 interest income in respect of restructured accounts classified as 'standard assets' will be recognized on accrual basis and that in respect of the account classified as 'non performing assets' will be recognized on cash basis.
+
+### (c) Provisioning Norms
+
+#### 2.2.7.10 Normal Provisions
+
+Banks will hold provision against the restructured advances on the basis of classification of assets into prescribed categories as detailed in paragraph 3 below .
+
+### 2.2.7.11 Provision for Diminution in the Fair Value of restructured Advances
+
+The erosion in the fair value of the advance should be computed as the difference between the fair value of the loan before and after restructuring. Fair value of the loan before restructuring will be computed as the present value of cash flows representing the interest at the existing rate charged on the advance before restructuring and the principal, discounted at a rate equal to the bank's BPLR as on the date of restructuring plus the appropriate term premium and credit risk premium for the borrower category on the date of restructuring". Fair value of the loan after restructuring will be computed as the present value of cash flows representing the interest at the rate charged on the advance on restructuring and the principal, discounted at a rate equal to the bank's BPLR as on the date of restructuring plus the appropriate term premium and credit risk premium for the borrower category on the date of restructuring".
+
+2.2.7.12 It may please be noted that the above formula moderates the swing in the diminution of present value of loans with the interest rate cycle and will have to be followed consistently in future.
+
+2.2.7.13 Further, it is reiterated that the provisions required as above arise due to the action of the banks resulting in change in contractual terms of the loan upon restructuring which are in the nature of financial concessions. These provisions are distinct from the provisions which are linked to the asset classification of the account classified as NPA and reflect the impairment due to deterioration in the credit quality of the loan. Thus, the two types of the provisions are not substitute for each other.
+
+2.2.7.14 It is also re-emphasised that the guidelines on restructuring of advances by RBI are aimed at providing an opportunity to banks and borrowers to preserve the economic value of the units and should not be looked at as a means to evergreen the advances.
+
+2.2.7.15 In their published annual Balance Sheets, banks shall make disclosures as per [Annex-6](#page--1-0)
+
+2.2.7.16 In the case of working capital facilities, the diminution in the fair value of the cash credit / overdraft component may be computed as indicated in para 2.2.7.11 above, reckoning the higher of the outstanding amount or the limit sanctioned as the principal amount and taking the tenor of the advance as one year. The term premium in the discount factor would be as applicable for one year. The fair value of the term loan components (Working Capital Term Loan and Funded Interest Term Loan) would be computed as per actual cash flows and taking the term premium in the di

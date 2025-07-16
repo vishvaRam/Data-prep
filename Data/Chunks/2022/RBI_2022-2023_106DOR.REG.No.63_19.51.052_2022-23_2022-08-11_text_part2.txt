@@ -1,0 +1,66 @@
+pects at ATMs.
+
+7. These guidelines will come into effect from the date of issue of the circular.
+
+Yours faithfully,
+
+(Prakash Baliarsingh) Chief General Manager
+
+Encl: as above
+
+## **Conditions subject to which off-site/mobile ATMs can be operationalized by DCCB.**
+
+- i. The DCCB should be CBS compliant and satisfy eligibility criteria based on latest inspection Report.
+- ii. The business transacted at the off-site ATMs shall be recorded in the books of the respective branch/base branch/Centralised Data Centre.
+- iii. Mobile ATMs will have to be linked to a branch and shall be operated strictly within the area of operation of the bank.
+- iv. No person other than the security guard shall be posted at such off-Site ATM centre.
+- v. The DCCB shall make adequate stand-by arrangements for meeting the cash requirements of the ATM.
+- vi. The DCCB shall ensure that only properly sorted and examined notes are put into circulation through the ATM.
+- vii. ATMs may be provided with ramps so that wheel-chair users/persons with disabilities can easily access them and also make arrangements in such a way that the height of the ATM does not create an impediment in its use by a wheelchair user.
+- viii. At least one third of new ATMs installed shall be talking ATMs with Braille keypads and placed strategically in consultation with other banks to ensure that at least one talking ATM with Braille keypad is generally available in each locality for catering to needs of visually impaired persons. Banks may also bring the locations of such talking ATMs to the, notice of their visually impaired customers.
+- ix. Third party advertisement on the ATM screens/Network, such as display of products of other manufacturers/dealers/vendors is not permitted. However, there is no objection to banks utilizing the ATM screens for displaying their own products.
+- x. The off-site/mobile ATMs may be installed at centres/places identified by them within its existing area of operation, with the approval of their Board of Directors. This would, however, be subject to any direction which the Reserve Bank may issue, including for closure/shifting of any such off-site/mobile ATMs, wherever so considered necessary by the Reserve Bank.
+
+## **Facilities provided at on-site/off-site ATMs/mobile ATMs**
+
+DCCBs are free to offer all their products and services through the ATM channel provided the technology permits the same and adequate checks are put in place to prevent the channel from being misused.
+
+## **Name of the DCCB:**
+
+- 1. Number of ATMs installed (Please furnish branch-wise details)
+	- (a) On-site
+	- (b) Off-site
+	- (c) Mobile ATMs
+- 2. Mode of acquisition of ATMs
+- 3. Cost of ATMs.
+- 4. Cost of infrastructure for installation of ATMs.
+- 5. Average number of ATM transactions per day.
+	- (a) Cash dispensing
+	- (b) Cash acceptance
+	- (c) Others
+- 6. Average cost per ATM transaction.
+- 7. Whether the bank is sharing the ATM facility with any other bank. If so,
+	- (a) Name of the bank(s)
+	- (b) Formal agreement, if any
+	- (c) Average number of daily ATM transactions on behalf of the other banks
+- 8. Whether the bank is making use of ATM facility installed at any other bank. If so,
+	- (a) The name of the bank/s
+	- (b) Formal agreement, if any.
+	- (c) Average number of daily ATM transactions at each of the other bank's ATMs.
+
+9. Indicate briefly benefits actually derived/expected to accrue by way of installation of ATMs.
+
+## **A. Statement of operationalisation of off-site ATM by the bank to be submitted as and when effected.**
+
+# **Name of the DCCB:**
+
+
+#### **B. Statement of operationalisation of Mobile ATMs by the bank to be submitted as and when effected.**
+
+# **Name of the DCCB:**
+
+
+# **Reporting requirements**
+
+- i. DCCBs shall submit the details under the Central Information System for Banking Infrastructure as laid down in [circular DCBR.BPD\(PCB/RCB\).Cir.No.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11710&Mode=0)  [04/07.01.000/2019-20 dated October 11, 2019.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11710&Mode=0)
+- ii. Similarly, details of shifting/closure etc., of off-site/mobile ATMs shall be reported to the concerned Regional Office of the Reserve Bank immediately after such shifting/closure and in any case not later than 15 days.

@@ -1,0 +1,34 @@
+ should have the ability to understand the financial statements as well as the notes/ reports attached thereto and at least one member should have requisite professional expertise/ qualification in financial accounting or financial management. The Audit Committee shall have the same powers, functions and duties as laid down in Section 177 of the Companies Act, 2013. In addition, the Audit Committee shall periodically review and assess the effectiveness of internal control systems, especially with respect to the asset acquisition procedures and asset reconstruction measures followed by the ARC and matters related thereto. The Audit Committee shall also ensure that accounting of management fee/ incentives/ expenses is in compliance with the applicable regulations.
+- (ii) **Nomination and Remuneration Committee**: ARCs shall constitute a Nomination and Remuneration Committee of the Board, which shall have the same powers, functions and duties as laid down in Section 178 of the Companies Act, 2013. In addition, the Committee shall ensure 'fit and proper' status of proposed/ existing directors and sponsors.
+
+## **(3) Transition Period**
+
+ARCs that were not in compliance with the guidelines prescribed at paragraphs 26 (1) and (2) above as on October 11, 2022, are required to comply with these guidelines latest by April 10, 2023.
+
+## **(4) Fit and Proper Criteria for Directors and CEO**
+
+- (i) In terms of the provisions of the SARFAESI Act, prior approval of the Reserve Bank of India is required for appointment/ re-appointment of a director or MD/ CEO. ARCs shall undertake due diligence to determine the suitability of the person for the post, based upon track record, integrity and other 'fit and proper' criteria. For this purpose, ARCs shall obtain necessary information and declaration from the appointed/ existing directors and MD/ CEO in the format enclosed in **[Appendix I](#page--1-0)**. The Nomination and Remuneration Committee shall scrutinise the declarations for this purpose.
+- (ii) The declaration in **[Appendix I](#page--1-0)** with updated information shall be obtained from the directors/ MD/ CEO on an annual basis, as on March 31 of each year. Any change in position with reference to items in paragraphs 3 and 4 of [Appendix I](#page--1-0) shall be communicated to the Department of Regulation of the Reserve Bank of India for its consideration.
+- (iii) The ARC shall require the directors to execute a covenant in the format enclosed at **[Appendix II,](#page--1-0)** at the time of their joining the ARC, binding them to discharge their responsibilities to the best of their abilities, individually and collectively. This deed shall be preserved by the ARC and should be made available to the Reserve Bank of India as and when called for.
+
+# **27. ARCs as Resolution Applicant under Insolvency and Bankruptcy Code, 2016 (IBC)**
+
+In terms of the provision of Section 10(2) of the SARFAESI Act, ARCs have been permitted to undertake those activities as a Resolution Applicant (RA) under IBC which are not specifically allowed under the SARFAESI Act. This permission shall be subject to the following conditions:
+
+- (i) The ARC has a minimum NOF of ₹1,000 crore.
+- (ii) The ARC shall have a Board-approved policy regarding taking up the role of RA which may inter alia include the scope of activities, internal limit for sectoral exposures, etc.
+- (iii) A committee comprising of a majority of independent directors shall be constituted to take decisions on the proposals of submission of resolution plan under IBC.
+- (iv) The ARC shall explore the possibility of preparing a panel of sector-specific management firms/ individuals having expertise in running firms/ companies which may be considered for managing the firms/ companies, if needed.
+- (v) In respect of a specific corporate insolvency resolution process (CIRP), the ARCs shall not retain any significant influence or control over the corporate debtor after five years from the date of approval of the resolution plan by the Adjudicating Authority under IBC. In case of non-compliance with this condition, the ARCs shall not be allowed to submit any fresh resolution plans under IBC either as a resolution applicant or a resolution co-applicant.
+- (vi) The ARC shall make additional disclosures in the financial statements with respect to assets acquired under IBC in addition to the existing disclosure requirements. These would include the type and value of assets acquired under IBC, the sector-wise distribution based on business of the corporate debtor, etc.
+- (vii)The ARC shall disclose the implementation status of the resolution plans approved by the Adjudicating Authority on a quarterly basis in their financial statements.
+
+### **Annex**
+
+# **(1) Disclosure in Offer Document**
+
+# **[55A](#page-4-0)**. **Relating to the Issuer of SRs**
+
+i. Name, place of Registered Office, date of incorporation, date of commencement of business of the ARC;
+
+ii. Particulars of sponsors, shareholder

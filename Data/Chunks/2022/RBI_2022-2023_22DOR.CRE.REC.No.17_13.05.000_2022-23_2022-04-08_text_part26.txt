@@ -1,0 +1,30 @@
+our to improve the quality of information of a SHG member, the need for capturing the inter-loaning would be reviewed after stabilisation of Phase II.
+
+8. Given significant challenges in monitoring and reporting the performance of individual loans availed by the SHG members out of the amounts lent by banks to the SHGs, it is also not envisaged to extend the credit reporting system to the monitoring of repayment and recovery of these loans. However, this will also be considered after Phase II has taken ground.
+
+9. With a view to building up the adequate information base of the potential SHG member borrowers, and expediting the process of collection and reporting of KYC compliant information relating to the members of the SHGs when the SHGs are credit-linked, banks are encouraged to offer Small Accounts/ Basic Savings Bank Deposit Account to the SHG members when an SHG approaches them for opening its Savings Account. In cases where the SHG members agree to open such accounts, the information in Table 4 may be collected and kept on record to be used at the time when the SHG approaches the bank for a loan. However, it must not be made a pre-condition for opening the Savings Account of the SHG.
+
+10. None of the data requirements specified in this circular should be made a pre-condition for extending loans to the SHGs, though banks must make sincere efforts to comply with these requirements.
+
+11. Banks may encourage the SHGs to keep written records of loans distributed to their members out of the bank loan including the digitization scheme for SHGs of NABARD, where applicable, and may consider introducing appropriate incentives in this regard.
+
+12. Banks shall develop appropriate policies to deal with applications for credit facilities from members of SHGs/SHGs on whom default is reported by the CICs. Care needs to be taken that the SHGs/individual members are not denied loans merely because of such defaults and banks should appropriately evaluate the credit history of the members themselves and take into account the economic viability of their activity/ies and the Groups' capacity to service the loan proposed to be taken by considering their loan applications.
+
+13. The credit information relating to individual SHG members shall be collected, reported and disseminated as per the provisions of the Credit Information Companies (Regulations) Act, 2005 and the extant RBI directions on credit information reporting by banks and MFIs.
+
+## **III. Specific instructions to the CICs**
+
+14. The CICs shall make the necessary changes in their systems and procedures to implement the above directions as per the timelines indicated above.
+
+15. CICs shall formulate appropriate policies with the approval of their Boards to share the credit information relating to SHGs or SHG members, on an aggregate basis with the Government agencies, NABARD, banks and MFIs for the purpose of credit planning and research. In accordance with their board approved policies, the CICs could also share the aggregate information with other parties for the purpose of undertaking research that could potentially benefit the SHG segment. The aggregate information shall be shared in a manner that is non-discriminatory and respects the confidentiality of the individual SHG groups and the SHG members as per the relevant laws of the country.
+
+## **Information to be collected by banks**
+
+#### **Table 1: Information to be collected from individual SHG members where the total amount of loan to be attributed to or to be availed by the SHG member exceeds Rs. 30, 000[3](#page-3-1)**
+
+
+<span id="page-3-0"></span> <sup>2</sup> The forms set out in this appendix are meant to indicate the information requirements and could be digitized in any format, subject to all the particulars and details indicated herein being collected.
+
+<span id="page-3-1"></span><sup>3</sup> To be collected at the time of sanctioning a loan to new SHGs or at the time of renewal of existing loans or granting additional loans to the existing SHGs. With the approval of their boards, the banks with Gross NPA ratio exceeding 10% in the SHG loan segment may fix a lower threshold for collecting the information/data indicated in this Table and the next one. This amount will not include any subsidy or margin out of the member's own savings that goes towards funding the activity or the purpose for which the loan is taken (both either back end or front end).
+
+<span id="page-3-2"></span><sup>4</sup> The banks may specifically see if any of the SHG members would fall within the purview of DBR [circular DBR.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9848)  [AML.BC.No.15/14.01.001/2015-16 dated 1 July 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9848) relating to introduction of simplified measures for proof of identity by RBI and offer Small Deposit Accounts/Basic Saving Bank Deposit Account to them. Wherever a SHG member is willing to open such an account, the K

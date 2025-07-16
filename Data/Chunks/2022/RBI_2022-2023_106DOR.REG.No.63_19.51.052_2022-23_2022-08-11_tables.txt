@@ -1,0 +1,11 @@
+| S.No | Complete Address of | Population group wise    | Details of base | Date<br>of |  |
+|------|---------------------|--------------------------|-----------------|------------|--|
+|      | ATM installed       | classification of center | branch          | opening    |  |
+|      |                     |                          |                 | of ATM     |  |
+
+| S.No | Centre   | Details | Population     | Centers/paces    | Day   | Date of            |
+|------|----------|---------|----------------|------------------|-------|--------------------|
+|      | District | of Base | group<br>wise  | to be visited by | of    | operationalisation |
+|      |          | Branch  | classification | mobile ATM       | visit | of mobile ATM      |
+|      |          |         | of center      |                  |       |                    |
+

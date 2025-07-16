@@ -1,0 +1,39 @@
+d under Pillar 1;
+- (b) the risks that are not at all taken into account by the Pillar 1; and
+- (c) the factors external to the bank.
+
+Since the capital adequacy ratio prescribed by the RBI under the Pillar 1 of the Framework is only the regulatory **minimum** level, addressing only the three specified risks (viz., credit, market and operational risks), holding additional capital might be necessary for banks, on account of both – the possibility of some under-estimation of risks under the Pillar 1 and the actual risk exposure of a bank vis-à-vis the quality of its risk management architecture. **Illustratively**, some of the risks that the banks are generally exposed to but which are not captured or not fully captured in the regulatory CRAR would include:
+
+- (a) Interest rate risk in the banking book;
+- (b) Credit concentration risk;
+- (c) Liquidity risk;
+- (d) Settlement risk;
+- (e) Reputational risk;
+- (f) Strategic risk;
+- (g) Risk of under-estimation of credit risk under the Standardised approach;
+- (h) Model risk i.e., the risk of under-estimation of credit risk under the IRB approaches;
+- (i) Risk of weakness in the credit-risk mitigants;
+- (j) Residual risk of securitisation;
+- (k) Cyber security/IT infrastructure risk;
+- (l) Human capital risk;
+- (m) Group risk;
+- (n) Outsourcing / vendor management risk;
+- (o) Collateral risk
+
+The quantification of currency induced credit risk will form a part of banks' Internal Capital Adequacy Assessment Programme (ICAAP) and banks are expected to address this risk in a comprehensive manner. The ICAAP should measure the extent of currency induced credit risk<sup>89</sup> the bank is exposed to and also concentration of such exposures. Banks may also like to perform stress tests under various extreme but plausible exchange rate scenarios under ICAAP. Outcome of ICAAP may lead a bank to take appropriate risk management actions like risk reduction, maintenance of more capital or provision, etc.
+
+It is, therefore, only appropriate that the banks make their own assessment of their various risk exposures, through a well-defined internal process, and maintain an adequate capital cushion for such risks.
+
+10.5 It is recognised that there is no one single approach for conducting the ICAAP and the market consensus in regard to the best practice for undertaking ICAAP is yet to emerge. The methodologies and techniques are still evolving particularly in regard to measurement of nonquantifiable risks, such as reputational and strategic risks. These guidelines, therefore, seek to provide only broad principles to be followed by banks in developing their ICAAP.
+
+10.6 Banks were advised to develop and put in place, with the approval of their Boards, an ICAAP commensurate with their size, level of complexity, risk profile and scope of operations. The ICAAP would be in addition to a bank's calculation of regulatory capital requirements under Pillar 1.
+
+<sup>89</sup> Please refer t[o circular DBOD.No.BP.BC.85/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8694&Mode=0) an[d DBOD.No.BP.BC.116/21.06.200/2013-14](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0) dated January 15, 2014 and June 3, 2014, respectively.
+
+10.7 The ICAAP document should, *inter alia*, include the capital adequacy assessment and projections of capital requirement for the ensuing year, along with the plans and strategies for meeting the capital requirement. An illustrative outline of a format of the ICAAP document is furnished at **[Annex 15](#page--1-0)**, for guidance of the banks though the ICAAP documents of the banks could vary in length and format, in tune with their size, level of complexity, risk profile and scope of operations.
+
+# **11. Need for Improved Risk Management<sup>90</sup>**
+
+11.1 While financial institutions have faced difficulties over the years for a multitude of reasons, the major causes of serious banking problems continue to be lax credit standards for borrowers and counterparties, poor portfolio risk management, and a lack of attention to changes in economic or other circumstances that can lead to a deterioration in the credit standing of a bank's counterparties. This experience is common in both advanced and developing countries.
+
+11.2 The financial market crisis of 2007-08 has underscored the critical importance of effective credit risk management to the long-term success of any banking organisation and as a key component to financial stability. It has provided a stark reminder of the need for banks to effectively identify, measure, monitor and control credit risk, as well as to understand how credit risk interacts with other types of risk (including market, liquidity and reputational risk). The essential elements of a comprehensive credit risk management programme include (i) establishing an appropriate credit risk environment; (ii) operating under a sound credit granting process; (iii) maintaining an appropriate credit administration, measuremen

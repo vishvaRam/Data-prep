@@ -1,0 +1,43 @@
+ (CBS) platform would be eligible for getting interest subvention under the scheme**.**
+
+5.2 After disbursement of loan to the beneficiaries, the concerned branch of the bank will send details of disbursed loan cases to ULB along with details of interest subsidy amount.
+
+# **Procedure I**
+
+5.3 The submission and settlement of claims made by banks would be done on monthly basis. The ULB will check the data at their end and will release the interest subsidy amount (difference between 7% p.a. and prevailing rate of interest) to the banks.
+
+5.4 Banks can upload XML file format for Master data and XML file format for Claim data for interest subsidy as per Data Structure Document available on [www.paisaportal.in](https://www.paisaportal.in/)
+
+5.5 The claims should not be pending more than a quarter. In case the claims of the banks are not settled for a period of 6 months, SLBC is empowered to stop the scheme temporarily in selected cities subject to clearance of claims by such ULBs. In such eventualities, the claims settlement should prospectively be given to the Lead District Bank.
+
+# **Procedure - II**
+
+5.6 **Settlement of Claims:** Nodal Agency for releasing interest subsidy: A public sector bank may be engaged at national level. All the Banks will consolidate data regarding interest subsidy from their branches and upload on the portal of Nodal Bank. The nodal bank, after verification by concerned ULB/states, will transfer the interest subsidy to the beneficiaries through DBT mode. The State/UT will deposit some funds in advance with the nodal bank, which will release funds as per guidelines of the DAY-NULM. Nodal bank will regularly render account of reimbursement to the SULM. This procedure will be followed in all three types of loans i.e. SEP (I), SEP (G) and SHG-Bank Linkage.
+
+# **6. Individual Enterprises (SEP-I)-Loan & Subsidy**
+
+An urban poor individual beneficiary desirous of setting up an individual microenterprise for self-employment can avail benefit of subsidized loan under this component from any bank. The norms/ specifications for individual micro-enterprise loans are as follows:
+
+6.1 **Age:** The prospective beneficiary should have attained the age of 18 Years at the time of applying for loan.
+
+6.2 **Project Cost (PC):** The Maximum unit Project Cost for an individual microenterprise is ₹ 2,00,000 (₹ Two Lakhs).
+
+6.3 **Collateral Guarantee on Bank Loan:** No collateral required. As per RBI [Circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5657&Mode=0)  [RPCD.SME & NFS.BC.No.79/06.02.31/2009-10 dated May 6, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5657&Mode=0) banks are mandated not to accept collateral security in the case of loans up to ₹ 10 lakhs extended to units in the MSE sector. Therefore, only the assets created would be hypothecated/ mortgaged/ pledged to banks for advancing loans. The banks may approach Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) setup by Small Industries Development Bank (SIDBI) or any other appropriate guarantee fund for the purpose of availing guarantee cover for SEP loans as per the eligibility of the activity for guarantee cover.
+
+6.4 **Repayment:** Repayment schedule would range between 5 to 7 Years after initial moratorium of 6-18 months as per norms of the banks.
+
+6.5 **Margin Money:** No margin money should be taken for a loan up to ₹ 50,000 and for higher amount loans, preferably 5% should be taken as margin money and it should in no case be more than 10% of the project cost.
+
+6.6 **Type of Loan Facility:** Banks may extend finance to individuals for capital expenditure in the form of Term Loan and Working Capital loans through Cash Credit. Banks may also extend Composite Loans consisting of Capital Expenditure and Working Capital components, depending upon individual borrower's requirement.
+
+# **7. Group Enterprises (SEP-G) -Loan & Subsidy**
+
+A Self Help Group (SHG) or members of an SHG constituted under DAY-NULM or a group of urban poor for self-employment can avail benefit of subsidized loans under this component from any bank. The norms/ specifications for group based micro-enterprise loans are as follows:
+
+7.1 **Eligibility Criteria:** The group enterprises should have minimum of Three (3) members with a minimum of 70% of the members from urban poor families. More than one person from the same family should not be included in the same group.
+
+7.2 **Age:** All members of the group enterprise should have attained an age of 18 years at the time of applying for bank loan.
+
+7.3 **Project Cost (PC):** The group will be eligible for a maximum loan of Rs. 2 Lakh per member or Rs. 10 Lakh, whichever is lower.
+
+7.4 **Type of Loan:** Loan can be extended either as a single loan to the group functioning as one borrowing unit or each member of the group can be provided individual loans up to 2 lakhs and an overall cap of 10 lakhs based on the principal of joint liability of the group. The principles laid d

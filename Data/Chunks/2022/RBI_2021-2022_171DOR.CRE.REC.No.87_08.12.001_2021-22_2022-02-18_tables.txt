@@ -1,0 +1,142 @@
+| CONTENTS   |                                                                          |
+|------------|--------------------------------------------------------------------------|
+| Sr.<br>No. | Particulars                                                              |
+| A          | Purpose                                                                  |
+| B          | Classification                                                           |
+| C          | Previous instructions consolidated                                       |
+| D          | Scope of Application                                                     |
+| 1          | Introduction                                                             |
+| 2          | Various Regulations                                                      |
+| 3          | Quantum of Loan                                                          |
+| 4          | Innovative Housing Loan Products –<br>Upfront Disbursal of Housing Loans |
+| 5          | Rate of Interest                                                         |
+| 6          | Approval from Statutory/Regulatory Authorities                           |
+| 7          | Disclosure Requirements                                                  |
+| 8          | Exposure to Real Estate                                                  |
+| 9          | Housing Loans under Priority Sector                                      |
+| 10         | Financing of Affordable Housing-<br>Issue of long-term bonds by banks.   |
+| 11         | Additional Guidelines                                                    |
+| 12         | Appendix: Housing Finance circulars                                      |
+
+| Category of Loan                 | LTV Ratio (%)       | Risk Weight (%) |
+|----------------------------------|---------------------|-----------------|
+| (a) Individual Housing Loans     |                     |                 |
+| Upto ₹ 30 lakh                   | <<br>80             | 35              |
+|                                  | > 80 and<br><<br>90 | 50              |
+| Above ₹ 30 lakh & upto ₹ 75 lakh | <<br>80             | 35              |
+| Above ₹ 75 lakh                  | <<br>75             | 50              |
+|                                  |                     |                 |
+| (b) CRE –<br>RH                  | NA                  | 75              |
+
+| LTV Ratio (%) | Risk Weight (%) |
+|---------------|-----------------|
+| ≤ 80          | 35              |
+| > 80 and ≤ 90 | 50              |
+
+| Sl. | Circular No.                       | Date      | Subject                                      |
+|-----|------------------------------------|-----------|----------------------------------------------|
+| 1.  | DOR.No.BP.BC.24/08.12.015/2020-21  | 16.10.20  | Individual<br>Housing<br>Loans<br>–          |
+|     |                                    |           | Rationalisation of Risk Weights              |
+| 2.  | DOR.No.BP.BC.41/08.12.014/2019-20  | 17.03.20  | Issue of Long Term Bonds by Banks –          |
+|     |                                    |           | Financing<br>of<br>Infrastructure<br>and     |
+|     |                                    |           | Affordable Housing                           |
+| 3.  | DBR.BP.BC.No.72/08.12.015/2016-17  | 07.06.17  | Individual<br>Housing<br>Loans:              |
+|     |                                    |           | Rationalisation<br>of<br>Risk-Weights<br>and |
+|     |                                    |           | Loan to Value (LTV) Ratios                   |
+| 4.  | DBR.BP.BC.No. 44/08.12.015/2015-16 | 08.10.15  | Individual<br>Housing<br>Loans:              |
+|     |                                    |           | Rationalisation<br>of<br>Risk-Weights<br>and |
+|     |                                    |           | LTV Ratios                                   |
+| 5.  | DBR.BP.BC.No.98/08.12.014/2014-15  | 01.06.15  | Issue of Long Term Bonds by banks for        |
+|     |                                    |           | Financing<br>of<br>Infrastructure<br>and     |
+|     |                                    |           | Affordable Housing –<br>Cross Holding        |
+| 6.  | DBR.BP.BC.No.50/08.12.014/2014-15  | 27.11.14  | Issue of Long Term Bonds by Banks –          |
+|     |                                    |           | Financing<br>of<br>Infrastructure<br>and     |
+|     |                                    |           | Affordable Housing                           |
+| 7.  | DBR.BP.BC.No.74/08.12.015/2014-15  | 05.03.15  | Housing Loan: Review of Instructions         |
+| 8.  | DBR.BP.BC.No.50/08.12.014/2014-15  | 27.11. 14 | Issue of Long Term Bonds by Banks            |
+|     |                                    |           | Financing<br>of<br>Infrastructure<br>and     |
+|     |                                    |           | Affordable Housing                           |
+| 9.  | DBR.BP.BC.No.25/08.12.014/2014-15  | 15.07.14  | Issue of Long Term Bonds by Banks            |
+|     |                                    |           | Financing<br>of<br>Infrastructure<br>and     |
+|     |                                    |           | Affordable Housing                           |
+|     |                                    |           |                                              |
+
+| 10. | DBOD.BP,BC.No.51/08.12.015/2013-   | 03.09.13 | Innovative<br>Housing<br>Loan<br>Products       |
+|-----|------------------------------------|----------|-------------------------------------------------|
+|     | 14                                 |          | Upfront Disbursal of Housing Loans              |
+| 11. | DBOD.BP.BC.No.104/08.12.015/2012-  | 21.06.13 | Housing Sector: New Sub-sector CRE              |
+|     | 13                                 |          | (Residential Housing)<br>within CRE and         |
+|     |                                    |          | Rationalisation<br>of<br>provisioning,<br>risk, |
+|     |                                    |          | weight and LTV ratio.                           |
+| 12. | DBOD.No.BP.BC.78/08.12.001/2011-   | 03.02.12 | Housing loans by Commercial Banks               |
+|     | 12                                 |          | Loan<br>to Value (LTV) Ratio                    |
+| 13. | DBOD.BP.BC.No.45/08.12.015/2011-   | 03.11.11 | Guidelines<br>on<br>Commercial<br>Real          |
+|     | 12                                 |          | Estate(CRE)                                     |
+| 14. | DBOD.Dir.BC.No.93/08.12.14/2010-11 | 12.05.11 | National<br>Disaster<br>Management              |
+|     |                                    |          | Guidelines<br>on<br>Ensuring<br>Disaster        |
+|     |                                    |          | Resilient construction of Buildings and         |
+|     |                                    |          | Infrastructure.                                 |
+| 15. | DBOD.No.BP.BC.69/08.12.001/2010-   | 23.12.10 | Housing Loans by Commercial Banks -             |
+|     | 11                                 |          | LTV<br>Ratio,<br>Risk<br>Weight<br>and          |
+|     |                                    |          | Provisioning                                    |
+| 16. | DBOD.No.<br>Dir(Hsg).              | 27.08.09 | Finance<br>for<br>Housing<br>Projects<br>–      |
+|     | BC.31/08.12.001/2009-10            |          | Incorporating clause in the terms and           |
+|     |                                    |          | conditions to disclose in Pamphlets /           |
+|     |                                    |          | Brochures / advertisements information          |
+|     |                                    |          | regarding mortgage of property to the           |
+|     |                                    |          |                                                 |
+|     |                                    |          | bank.                                           |
+| 17. | DBOD.Dir.BC.No.43/21.01.002/2006-  | 17.11.06 | Housing Loans-<br>Orders of the Delhi           |
+|     | 07                                 |          | High Court –<br>Writ Petition by Kalyan         |
+|     |                                    |          | Sanstha Welfare Organisation against            |
+|     |                                    |          | Union<br>of<br>India<br>and<br>Others<br>–      |
+|     |                                    |          | Implementation of Directions                    |
+
+| 18. | DBOD.BP.BC.1711/08.12.14/2005-06   | 12.06.06 | Adherence to National Building Code         |
+|-----|------------------------------------|----------|---------------------------------------------|
+|     |                                    |          | (NBC)<br>Specifications<br>necessary<br>for |
+|     |                                    |          | lending institutes                          |
+| 19. | DBOD. No.BP.BC.65/ /08.12.01/2005- | 01.03.06 | Banks'<br>Exposures<br>to<br>Real<br>Estate |
+|     | 06                                 |          | Sector                                      |
+| 20. | DBOD.BP.BC.61/21.01.002/2004-05    | 23.12.04 | Mid-Term Review of the Annual Policy        |
+|     |                                    |          | Statement for the year 2004-05-Risk         |
+|     |                                    |          | Weight on housing loans and consumer        |
+|     |                                    |          | credit                                      |
+| 21. | DBOD(IECS).No.4/03.27.25/2004-05   | 03.07.04 | Freedom granted to banks to lay down        |
+|     |                                    |          | the period within which the borrowers       |
+|     |                                    |          | are required to construct the house on      |
+|     |                                    |          | the plot purchased                          |
+| 22. | IECD. No. 14/01.01.43/2003-04      | 30.06.04 | Merger of functions of IECD with other      |
+|     |                                    |          | departments                                 |
+| 23. | DBOD.No.BP.BC.106/21.01.002/2001-  | 14.05.02 | Risk Weight on Housing Finance and          |
+|     | 02                                 |          | Mortgage Backed Securities                  |
+| 24. | IECD.No.22/03.27.25/2001-02        | 06.05.02 | Housing Finance Allocation for the year     |
+|     |                                    |          | 2002-2003                                   |
+| 25. | IECD.No.(HF)12/ 03.27.25/98-99     | 15.01.99 | Terms and Conditions Governing Direct       |
+|     |                                    |          | Finance for Purchase of Old House           |
+| 26. | IECD.No.(HF) 40/03.27.25/97-98     | 16.04.98 | Terms and Conditions Governing Direct       |
+|     |                                    |          | Housing Loans -<br>Review of Parameters     |
+| 27. | IECD.No.27/03.27.25/97-98          | 22.12.97 | Scheme of Annual Housing Finance            |
+|     |                                    |          | Allocation to Banks-<br>Direct Housing      |
+|     |                                    |          | Finance –<br>Modifications                  |
+| 28. | IECD.No.CMD. 8/03:27:25/95-96      | 27.09.95 | Sanction of Term Loans for Housing          |
+|     |                                    |          | Projects Involving Budgetary Support        |
+
+|     |                                      |          | from Government –<br>Non-Permissibility       |
+|-----|--------------------------------------|----------|-----------------------------------------------|
+|     |                                      |          | of                                            |
+| 29. | DBOD.No.BC.211/21.01.001/93          | 28.12.93 | Restrictions<br>on<br>Credit<br>to<br>certain |
+|     |                                      |          | sectors-<br>Real Estate Loans                 |
+| 30. | DBOD.No.BL.BC. 132/C.168(M)-91       | 11.06.91 | Opening<br>of<br>Specialised<br>Housing       |
+|     |                                      |          | Finance Branches                              |
+| 31. | IECD.No.CAD.IV. 223/(HF-P)-<br>88/89 | 02.11.88 | Housing Finance –<br>Modifications on the     |
+|     |                                      |          | basis of the recommendations of the           |
+|     |                                      |          | Study<br>Group<br>on<br>Housing<br>Finance    |
+|     |                                      |          | Institutions                                  |
+| 32. | DBOD.No.CAS.BC.<br>70/C.446(HF-P)-   | 05.06.81 | Housing Finance -<br>Revised Guidelines       |
+|     | 81                                   |          | (General)                                     |
+| 33. | DBOD.No.CAS.BC.71/C.446(HF-P)-79     | 31.05.79 | Housing Finance -<br>Recommendations          |
+|     |                                      |          | of the Working Group to Examine the           |
+|     |                                      |          | Role of Banking System in Providing           |
+|     |                                      |          | Finance for Housing Scheme                    |
+|     |                                      |          |                                               |

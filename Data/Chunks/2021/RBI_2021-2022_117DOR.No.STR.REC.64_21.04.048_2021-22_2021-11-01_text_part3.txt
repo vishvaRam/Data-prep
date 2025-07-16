@@ -1,0 +1,45 @@
+t stress resulting in the borrower defaulting in timely servicing of her debt obligations, though the account has not yet been classified as NPA. As early recognition of such accounts enables banks to initiate timely remedial actions to prevent their potential slippages into NPAs, UCBs having total assets of ₹500 crore and above shall classify loans/advances accounts as SMA, as under:
+
+
+In case of revolving credit facilities like cash credit, the SMA sub-categories will be as follows:
+
+
+(iii) UCBs having total assets of ₹500 crore and above are required to submit CRILC Report on quarterly basis with effect from December 31, 2019. Detailed operating instructions have been issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11790&Mode=0)  [DoS.OSMOS.No.4633/33.05.018/2019-20 dated January 16, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11790&Mode=0) on 'Reporting of Large Exposures to Central Repository of Information on Large Credits (CRILC) – UCBs' by the Department of Supervision, Reserve Bank of India.
+
+(iv) UCBs should take utmost care about data accuracy and integrity while submitting the information /data on large credit to RBI, failing which penal action as per the provisions of the Banking Regulation Act, 1949 may be taken.
+
+# 2.2 **Treatment of Accounts as NPAs**
+
+# 2.2.1 **Record of Recovery**
+
+(i) The treatment of an asset as NPA should be based on the record of recovery. Banks should not treat an advance as NPA merely due to existence of some deficiencies which are temporary in nature such as nonavailability of adequate drawing power, balance outstanding exceeding the limit, non-submission of stock statements and the non-renewal of the limits on the due date, etc. Where there is a threat of loss, or the recoverability of the advances is in doubt, the asset should be treated as NPA.
+
+(ii) A credit facility should be treated as NPA as per norms given in paragraph 2.1 above. However, where the accounts of the borrowers have been regularised by repayment of entire overdue amounts through genuine sources (not by sanction of additional facilities or transfer of funds between accounts), the accounts need not be treated as NPAs. In such cases, it should, however, be ensured that the accounts remain in order subsequently and a solitary credit entry made in an account on or before the balance sheet date which extinguishes the overdue amount of interest or installment of principal is not reckoned as the sole criteria for treatment of the account as a standard asset.
+
+## 2.2.2 **Treatment of NPAs - Borrower-wise and not Facility-wise**
+
+(i) In respect of a borrower having more than one facility with a bank, all the facilities granted by the bank will have to be treated as NPA and not the particular facility or part thereof which has become irregular/NPA.
+
+(ii) However, in respect of consortium advances or financing under multiple banking arrangements, each bank may classify the borrowal accounts according to its own record of recovery and other aspects having a bearing on the recoverability of the advances. Each bank shall follow the principle at (i) above for NPA classification of a borrower.
+
+### 2.2.3 **Agricultural Advances - Default in repayment due to Natural Calamities**
+
+(i) Where natural calamities impair the repaying capacity of agricultural borrowers, as a relief measure, banks may decide on their own to :
+
+(a) convert the short-term production loan into a term loan or re-schedule the repayment period, and
+
+(b) sanction fresh short-term loans
+
+(ii) In such cases of conversion or re-schedulement, the term loan as well as fresh short-term loan may be treated as current dues and need not be classified as non-performing asset (NPA). The asset classification of these loans would, therefore, be governed by the revised terms and conditions and these would be treated as NPA under the extant norms applicable for classifying agricultural advances as NPAs.
+
+## 2.2.4 **Housing Loan to Staff**
+
+In the case of housing loan or similar advances granted to staff members where interest is payable after recovery of principal, interest need not be considered as overdue from the first month onwards. Such loans / advances should be classified as NPA only when there is a default in repayment of instalment of principal or payment of interest on the respective due dates.
+
+# 2.2.5 **Credit facilities Guaranteed by Central / State Government**
+
+(i) The credit facilities backed by guarantee of the Central Government though overdue should not be treated as NPA.
+
+(ii) This exemption from classification of government guaranteed advances as NPA is not for the purpose of recognition of income.
+
+(iii) From the year ended March 31, 2006, State Government guaranteed advance and investment in State Government guaranteed securities would attract asset classification and provisioning norms, if interest and / or principal or any other amount due to the bank remains overdue for more than 90 da

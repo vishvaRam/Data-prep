@@ -1,0 +1,87 @@
+e status shall be minimum usage for 10 days over the 90-day period.
+
+# **10. Deployment Targets for Acquirers**
+
+10.1 Acquirers need to adopt a scientific process for identification of deployment areas, submit proposals to Regional Director, Mumbai Regional Office (MRO), RBI and effectively implement the project. The PIDF proposal format for submission in this regard is enclosed **(Format I)**. S940/02-29-005/2023-24
+
+# **11. Claims**
+
+- 11.1 The scheme is on reimbursement basis; accordingly, the claim shall be submitted only after making payment to the vendor.
+- 11.2 Maximum cost of physical acceptance device eligible for subsidy ₹10,000 (including one-time operating cost up to a maximum of ₹500).
+- 11.3 Maximum cost of digital acceptance device eligible for subsidy ₹300 (including onetime operating cost up to a maximum of ₹200).
+- 11.4 Subsidised amount of cost of physical and digital payment acceptance devices based on location of deployment shall be as under:
+
+
+
+- 11.5 Acquirers shall submit their claims through their bankers to RBI, MRO with selfdeclaration about fulfilment of 'minimum usage' and 'active status' criteria for deployed devices non-duplication of claims from other schemes, uniqueness of terminalised merchants and inter-operability of deployed devices.
+- 11.6 All initial claims shall be submitted for reimbursement of expenses (less the Input Tax Credit received / receivable by the bank / non-bank under GST) as per format **[\(Format](#page--1-0)  [II\)](#page--1-0)**. The claim for balance of eligible subsidy shall be submitted along with selfdeclaration about fulfilment of 'minimum usage' and 'active status' criteria for deployed devices as per format **(Format III)**. Super[se](#page--1-0)ded by CO.DPSS.POLC.No. S940/02-29-005/2023-24
+
+# **12. Monitoring of Implementation of Targets**
+
+- 12.1 Implementation of targets under PIDF shall be monitored by RBI, MRO with assistance from Card networks, Indian Banks' Association (IBA) and Payments Council of India (PCI).
+- 12.2 Acquirers shall submit quarterly deployment reports on achievement of targets to RBI, MRO.
+- 12.3 Acquirers meeting / exceeding their targets well in time and / or ensure greater utilisation of acceptance devices in terms of transactions shall be incentivised while those who do not achieve their targets shall be disincentivised, by scaling up or down the extent of reimbursement of subsidy as follows:
+
+
+Superseded by CO.DPSS.POLC.No. S940/02-29-005/2023-24
+
+## **(PROPOSAL FORMAT on the Letter Head of the Acquiring Bank / Non-bank)**
+
+The Regional Director
+
+Mumbai Regional Office
+
+Reserve Bank of India
+
+Madam / Dear Sir,
+
+# **Payments Infrastructure Development Fund (PIDF) – Project Proposal for Deployment of Acceptance Devices**
+
+With reference to the RBI Circular No. / / 20 dated ……………. on the above subject, we propose a project to deploy ------- physical acceptance devices and ----- digital acceptance devices under PIDF. The project proposal indicating the details of the activity, area of operation, implementation methodology, monitoring mechanism, etc., is furnished in [Appendix-1.](#page--1-0) Superseded by CO.DPSS.POLC.No. S940/02-29-005/2023-24
+
+2. We will ensure that the project is implemented adhering to guidelines of the PIDF Scheme outlined by the Reserve Bank.
+
+3. We have not sought and will not seek assistance from any other scheme of the Reserve Bank or any another organisation, for the project.
+
+
+# **Project Proposal for Deployment of Acceptance Devices under PIDF**
+
+#### **1. Background**
+
+Existing payments infrastructure status in the project area, technological status of the acquiring bank / non-bank indicating the need for undertaking the project.
+
+## **2. Approach to Deployment**
+
+Approach planned to fill in the identified gap, with quarterly phasing.
+
+## **3. Geographical Area**
+
+Name/s of District / Block / Village where the deployments are planned.
+
+#### **4. Implementation Period**
+
+# **5. Support Sought under PIDF**
+
+
+#### **6. Monitoring**
+
+Monitoring, evaluating and reporting mechanism envisaged for effective implementation of the project.
+
+### **(Format for Claiming Reimbursement by Acquirer Bank / Non-bank – on letterhead)**
+
+The Regional Director
+
+Mumbai Regional Office
+
+Reserve Bank of India
+
+# **Support from PIDF for Deployment of Acceptance Devices – First Reimbursement**
+
+
+2. We have implemented the project and succeeded in installing …………, …………., …………, ………… and ………… physical acceptance devices in the locations in Tier 1 & 2, Tier 3 & 4, Tier 5 & 6, North Eastern States and Union Territories of Jammu and Kashmir, and Ladakh, respectively. Also, we have installed …………, …………, …………., …………. and ………… digital acceptance devices in these locations respectively.
+
+3. We certify that there is no duplication of claims from other schemes.
+
+4. We certify that the acceptance devices, for which the claim is submitted, are deployed at merchants who were not terminalised.
+
+5. We submit a claim for reimbursem

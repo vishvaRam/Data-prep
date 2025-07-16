@@ -1,0 +1,29 @@
+re permissible; the indirect investment would be equal to bank's investments in these entities multiplied by maximum permissible limit which these entities are authorized to invest in the financial entities' capital instruments.
+- (iii) If neither the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds in the capital instruments of financial entities nor the maximum amount which these entities can invest in financial entities are known but, as per the investment policies / mandate of these entities such investments are permissible; the entire investment of the bank in these entities would be treated as indirect investment in financial entities. Banks must note that this method does not follow corresponding deduction approach i.e. all deductions shall be made from the Common Equity Tier 1 capital even though, the investments of such entities are in the Additional Tier 1 / Tier 2 capital of the investing banks.
+
+4.4.9.4 Application of these rules at consolidated level would mean:
+
+- (i) Identifying the relevant entities below and above threshold of 10% of common share capital of investee entities, based on aggregate investments of the consolidated group (parent plus consolidated subsidiaries) in common share capital of individual investee entities.
+- (ii) Applying the rules as stipulated in paragraphs 4.4.9.2(A), 4.4.9.2(B) and 4.4.9.2(C) and segregating investments into those which shall be deducted from the consolidated capital and those which shall be risk weighted. For this purpose,
+	- investments of the entire consolidated entity in capital instruments of investee entities shall be aggregated into different classes of instruments.
+	- the consolidated Common Equity of the group shall be taken into account.
+
+4.4.9.5 It has come to our notice that certain investors such as Employee Pension Funds have subscribed to regulatory capital issues of commercial banks concerned. These funds enjoy the counter guarantee by the bank concerned in respect of returns. When returns of the investors of the capital issues are counter guaranteed by the bank, such investments shall not be considered as regulatory capital for the purpose of capital adequacy.
+
+4.4.10 As indicated in paragraphs 3.4.2 and 3.5.1, equity investments in non-financial subsidiaries should be fully deducted from the consolidated and solo CET1 capital of the bank respectively, after making all the regulatory adjustments as indicated in above paragraphs.
+
+## 4.4.11 Intra Group Transactions and Exposures
+
+Attention is invited to [circular DBOD.No.BP.BC.96/21.06.102/ 2013-14 dated February 11, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8739&Mode=0) on "Guidelines on Management of Intra-Group Transactions and Exposures" in terms of which intra-group exposures beyond permissible limits subsequent to March 31, 2016, if any, would be deducted from Common Equity Tier 1 capital of the bank.
+
+## **4.5 Transitional Arrangements**
+
+4.5.1 Capital instruments which no longer qualify as non-common equity Tier 1 capital or Tier 2 capital (e.g., IPDI and Tier 2 debt instruments with step-ups) will be phased out beginning January 1, 2013. Fixing the base at the nominal amount of such instruments outstanding on January 1, 2013, their recognition will be capped at 90% from January 1, 2013, with the cap reducing by 10 percentage points in each subsequent year<sup>25</sup>. This cap will be applied to Additional Tier 1 and
+
+<sup>25</sup> The base should only include instruments that will be grandfathered. If an instrument is derecognized on January 1, 2013, it does not count towards the base fixed on January 1, 2013. Also, the base for the transitional arrangements should reflect the outstanding amount which is eligible to be included in the relevant tier of capital under the existing framework applied as on December 31, 2012. Further, for Tier 2 instruments which have begun to amortise before January 1, 2013, the base for grandfathering should take into account the amortised amount, and not the full
+
+Tier 2 capital instruments separately and refers to the total amount of instruments outstanding which no longer meet the relevant entry criteria. To the extent an instrument is redeemed, or its recognition in capital is amortised, after January 1, 2013, the nominal amount serving as the base is not reduced. In addition, instruments, specifically those with an incentive to be redeemed will be treated as follows:
+
+4.5.1.1 If the non-common equity regulatory capital instrument has been issued prior to September 12, 2010, then the treatment indicated in paragraphs from 4.5.1.1(A) to 4.5.1.1(D) will apply:
+
+(A) If the instrument does not have a call and a step-up and other incentive to redeem - (i) if it meets all the other criteria, including the non-viability criteria, then such instrument will continue to be fully recognised from January 1, 2013; (ii) if the instrument does not meet the other criteria, incl

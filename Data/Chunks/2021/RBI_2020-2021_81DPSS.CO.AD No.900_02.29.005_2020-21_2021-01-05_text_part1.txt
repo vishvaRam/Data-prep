@@ -1,0 +1,78 @@
+![](_page_0_Picture_0.jpeg)
+
+# भारतीय �रज़वर् ब�क \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ RESERVE BANK OF INDIA \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2020-21/81 DPSS.CO.AD No.900/02.29.005/2020-21 January 05, 2021
+
+(Updated as on June 09, 2022) (Updated as on August 26, 2021)
+
+The Chairman / Managing Director / Chief Executive Officer Card Issuing and Acquiring Banks and Non-banks / Authorised Card Networks
+
+Madam / Dear Sir,
+
+# **Operationalisation of Payments Infrastructure Development Fund (PIDF) Scheme**
+
+Please refer to the Statement on Developmental and Regulatory Policies dated October 4, [2019](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=48318) and the Press Release dated June 05, 2020 announcing creation of Payments Infrastructure Development Fund (PIDF). PIDF is intended to subsidise deployment of payment acceptance infrastructure in Tier-3 to Tier-6 centres with special focus on North Eastern States of the country. It envisages creating 30 lakh new touch points every year for digital payments. Superseded by C[O.D](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=49905)[PSS](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=48318).POLC.No. S940/02-29-005/2023-24
+
+2. The framework of PIDF is enclosed (**Annex – I**). An Advisory Council (AC), under the Chairmanship of the Deputy Governor, RBI, has been constituted for managing the PIDF. PIDF will be operational for a period of three years from January 01, 2021 and may be extended for two more years depending upon the progress. PIDF presently has a corpus of ₹345 crore (₹250 crore contributed by RBI and ₹95 crore by the major authorised card networks in the country).
+
+3. All stakeholders are requested to co-operate in this endeavour by – (a) making their contributions to PIDF within the timelines, and (b) deploying acceptance infrastructure and seeking reimbursement from PIDF.
+
+भुगतान और िनपटान �णाली िवभाग, क� �ीयकायार्लय, 14वीमंिजल, क��ीयकायार्लयभवन,शहीदभगत�संहमागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फै क् सFax: (91-22) 22691557; ई-मेलe-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, ShahidBhagat Singh Road, Fort, Mumbai -
+
+![](_page_0_Picture_13.jpeg)
+
+4. These directions are issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(P Vasudevan) Chief General Manager
+
+> Superseded by CO.DPSS.POLC.No. S940/02-29-005/2023-24
+
+### **Annex - I**
+
+# **Payments Infrastructure Development Fund (PIDF) Scheme**
+
+The objective of PIDF is to increase the number of acceptance devices multi-fold in the country. The Scheme is expected to benefit the acquiring banks / non-banks and merchants by lowering overall acceptance infrastructure cost.
+
+### **1. Validity Period and PIDF Target**
+
+- 1.1 Three years from January 01, 2021, extendable by two further years, if necessary.
+- 1.2 Increasing payments acceptance infrastructure by adding 30 lakh touch points 10 lakh physical and 20 lakh digital payment acceptance devices every year.
+
+# **2. Governance Structure of PIDF**
+
+- 2.1 PIDF shall be governed by an ex-officio Advisory Council (AC).
+- 2.2 Composition of the AC:
+	- i. Shri T Rabi Sankar\* , Deputy Governor, Reserve Bank of India;
+	- ii. Shri Sunil Mehta, Chief Executive, Indian Banks' Association;
+	- iii. Shri J S Upadhayay†, Chief General Manager, DFIBT, NABARD;
+	- iv. Shri Dilip Asbe, Chief Executive Officer, National Payments Corporation of India;
+	- v. Shri Vishwas Patel, Chairman, Payments Council of India;
+	- vi. Shri Shailesh Paul, Vice President and Head Merchant Sales and Solutions, Visa;
+	- vii. Shri Vikas Saraogi‡, Vice President Business Development, Mastercard;
+	- viii. Shri R Vittal Raj, Chartered Accountant, Kumar & Raj Chartered Accountants; and
+- ix. Shri Ajay Michyari, Regional Director, Reserve Bank of India, Mumbai Regional Office (Administrator of PIDF). Super[se](#page--1-3)ded by CO.DPSS.POLC.No. S940/02-29-005/2023-24
+
+The Chief General Manager, Department of Payment & Settlement Systems, Reserve Bank of India shall function as the Secretariat to the AC.
+
+- 2.3 The AC may constitute sub-committees to look into different aspects of the PIDF, as required.
+- 2.4 The AC may co-opt members at its discretion.
+- 2.5 AC shall devise suitable rules for operating the PIDF.
+
+<sup>\*</sup> Preceded by Shri B P Kanungo
+
+<sup>†</sup> Preceded by Ms Rosie Tshering and Shri D Nageswara Rao
+
+<sup>‡</sup> Preceded by Shri Rajeev Kumar
+
+## **3. Target Geographies**
+
+- 3.1 The primary focus shall be to create payment acceptance infrastructure in Tier-3 to Tier-6 centres.
+- 3.2 The Scheme shall include eligible street vendors covered under PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi Scheme) in Tier-1 and Tier-2 centres.
+- 3.3 North Eastern Sta

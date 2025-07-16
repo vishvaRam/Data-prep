@@ -1,0 +1,53 @@
+![](_page_0_Picture_0.jpeg)
+
+## भारतीय �रज़वर्ब�क \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ RESERVE BANK OF INDIA \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+www.rbi.org.in
+
+RBI/2020-21/82 DPSS.CO.OD No.901/06.24.001/2020-21 January 05, 2021
+
+The Chairman / Managing Director / Chief Executive Officer of member banks participating in RTGS / NEFT
+
+Madam / Dear Sir,
+
+**Introduction of Legal Entity Identifier for Large Value Transactions in Centralised Payment Systems**
+
+The Legal Entity Identifier (LEI) is a 20-digit number used to uniquely identify parties to financial transactions worldwide. It was conceived as a key measure to improve the quality and accuracy of financial data systems for better risk management post the Global Financial Crisis.
+
+2. LEI has been introduced by the Reserve Bank in a phased manner for participants in the over the counter (OTC) derivative and non-derivative markets as also for large corporate borrowers.
+
+3. It has now been decided to introduce the LEI system for all payment transactions of value ₹50 crore and above undertaken by entities (non-individuals) using Reserve Bank-run Centralised Payment Systems viz. Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT).
+
+4. In preparation for the wider introduction of LEI across all payment transactions, member banks should:
+
+- i. advise entities who undertake large value transactions (₹50 crore and above) to obtain LEI in time, if they do not already have one;
+- ii. include remitter and beneficiary LEI information in RTGS and NEFT payment messages (details of the identified fields in the messaging structures of RTGS and NEFT for inclusion of LEI information are at **[Annex](#page-2-0)**);
+- iii. maintain records of all transactions of ₹50 crore and above through RTGS and / or NEFT.
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, ShahidBhagat Singh Road, Fort, Mumbai -
+
+![](_page_0_Picture_17.jpeg)
+
+�हंदी आसान है, इसका�योगबढ़ाइए
+
+भुगतान और िनपटान �णाली िवभाग, क� �ीयकायार्लय, 14वीमंिजल, क� �ीयकायार्लयभवन,शहीदभगत�संहमागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फै क् सFax: (91-22) 22691557; ई-मेलe-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+5. Entities can obtain LEI from any of the Local Operating Units (LOUs) accredited by the Global Legal Entity Identifier Foundation (GLEIF), the body tasked to support the implementation and use of LEI. In India, LEI can be obtained from Legal Entity Identifier India Ltd. (LEIL) [\(https://www.ccilindia-lei.co.in\)](https://www.ccilindia-lei.co.in/), which is also recognised as an issuer of LEI by the Reserve Bank under the Payment and Settlement Systems Act, 2007.
+
+6. These directions are issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007) and shall be effective from April 1, 2021.
+
+Yours faithfully,
+
+(P Vasudevan) Chief General Manager
+
+## **Annex**
+
+## <span id="page-2-0"></span>**Bank Customers who must obtain LEI**
+
+i. All non-individual customers initiating or receiving transactions of ₹50 crore and above through RTGS and / or NEFT.
+
+## **Fields in NEFT and RTGS payment messages to be used for recording Remitter and Beneficiary LEI**
+
+- i. For RTGS customer payment transactions, LEI information shall be provided in 'Remittance information' field.
+- ii. For NEFT outward debit messages, LEI information shall be provided in 'Sender to Receiver Information' field.
+- iii. Technical guidelines for populating LEI in identified fields in RTGS and NEFT messages shall be communicated separately.

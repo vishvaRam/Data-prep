@@ -1,0 +1,28 @@
+ct of all cases of fraud
+
+- a) Banks should normally provide for the entire amount due to the bank or for which the bank is liable (including in case of deposit accounts), immediately upon a fraud being detected. While computing the provisioning requirement, banks may adjust financial collateral eligible under Basel III Capital Regulations - Capital Charge for Credit Risk (Standardised Approach), if any, available with them with regard to the accounts declared as fraud account;
+- b) However, to smoothen the effect of such provisioning on quarterly profit and loss, banks have the option to make the provisions over a period, not exceeding four quarters, commencing from the quarter in which the fraud has been detected;
+- c) Where the bank chooses to provide for the fraud over two to four quarters and this results in the full provisioning being made in more than one financial year, banks should debit 'other reserves' [i.e., reserves other than the one created in terms of Section 17(2) of the Banking Regulation Act 1949] by the amount remaining un-provided at the end of the financial year by credit to provisions. However, banks should proportionately reverse the debits to 'other reserves' and complete the provisioning by debiting profit and loss account, in the subsequent quarters of the next financial year;
+- d) Banks shall make suitable disclosures with regard to number of frauds reported, amount involved in such frauds, quantum of provision made during the year and quantum of unamortised provision debited from 'other reserves' as at the end of the year.
+
+# 4.2.10 Advances to Primary Agricultural Credit Societies (PACS)/Farmers' Service Societies (FSS) ceded to Commercial Banks
+
+In respect of agricultural advances as well as advances for other purposes granted by banks to PACS/ FSS under the on-lending system, only that particular credit facility granted to PACS/ FSS which is in default for a period of two crop seasons in case of short duration crops and one crop season in case of long duration crops, as the case may be, after it has become due will be classified as NPA and not all the credit facilities sanctioned to a PACS/ FSS. The other direct loans & advances, if any, granted by the bank to the member borrower of a PACS/ FSS outside the on-lending arrangement will become NPA even if one of the credit facilities granted to the same borrower becomes NPA.
+
+# 4.2.11 Advances against Term Deposits, NSCs, KVPs, etc.
+
+Advances against term deposits, NSCs eligible for surrender, KVPs and life insurance policies need not be treated as NPAs, provided adequate margin is available in the accounts. Advances against gold ornaments, government securities and all other securities are not covered by this exemption.
+
+## 4.2.12 Loans with moratorium for payment of interest
+
+4.2.12.1 In the case of bank finance given for industrial projects or for agricultural plantations etc. where moratorium is available for payment of interest, payment of interest becomes 'due' only after the moratorium or gestation period is over. Therefore, such amounts of interest do not become overdue and hence do not become NPA, with reference to the date of debit of interest. They become overdue after due date for payment of interest, if uncollected.
+
+4.2.12.2. In the case of housing loan or similar advances granted to staff members where interest is payable after recovery of principal, interest need not be considered as overdue from the first quarter onwards. Such loans/advances should be classified as NPA only when there is a default in repayment of instalment of principal or payment of interest on the respective due dates.
+
+#### 4.2.13 Agricultural advances
+
+4.2.13.1 A loan granted for short duration crops will be treated as NPA, if the instalment of principal or interest thereon remains overdue for two crop seasons. A loan granted for long duration crops will be treated as NPA, if the instalment of principal or interest thereon remains overdue for one crop season. For the purpose of these guidelines, "long duration" crops would be crops with crop season longer than one year and crops, which are not "long duration" crops, would be treated as "short duration" crops. The crop season for each crop, which means the period up to harvesting of the crops raised, would be as determined by the State Level Bankers' Committee (SLBC) in each State. Depending upon the duration of crops raised by an agriculturist, the above NPA norms would also be made applicable to agricultural term loans availed of by him.
+
+4.2.13.2 The above norms should be made applicable only to Farm Credit extended to agricultural activities as listed at [Annex - 2.](#page--1-0) In respect of agricultural loans, other than those specified in the [Annex - 2,](#page--1-0) identification of NPAs would be done on the same basis as nonagricultural advances, which, at present, is the 90 days delinquency norm.
+
+4.2.13.3 Where natural calamities impair the repaying capacity of agricultural borrow

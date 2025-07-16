@@ -1,0 +1,8 @@
+ though the actual transactions are undertaken in India.
+
+## 15. **Members / Participants of payment systems operated by the PSOs**
+
+- 15.1. In some payment systems operated by the PSOs, there could be other members / participants also. Some of these entities such as token requestors in tokenisation services rendered by card networks, third party application providers in Unified Payments Interface (UPI), etc., may not be directly regulated or supervised by RBI. Many of these entities may provide payment services directly to customers as well. It is prudent for such entities to put in place a system to manage risks arising out of activities outsourced by them.
+- 15.2. As a best practice, the PSOs may engage with all participants in a payment transaction chain to encourage them to implement this framework in letter and spirit.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*

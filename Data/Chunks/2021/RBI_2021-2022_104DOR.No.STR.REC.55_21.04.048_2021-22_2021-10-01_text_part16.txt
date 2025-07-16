@@ -1,0 +1,43 @@
+ write offs, including separate details about technical write offs, in their annual financial statements as per the format prescribed in the Annex-4 to this Master Circular.
+
+#### 7. NPA Management – Requirement of Effective Mechanism and Granular Data
+
+7.1 Asset quality of banks is one of the most important indicators of their financial health. Banks should, therefore put in place a robust MIS mechanism for early detection of signs of distress at individual account level as well as at segment level (asset class, industry, geographic, size, etc.). Such early warning signals should be used for putting in place an effective preventive asset quality management framework, including a transparent restructuring mechanism for viable accounts under distress within the prevailing regulatory framework, for preserving the economic value of those entities in all segments.
+
+7.2 The banks' IT and MIS system should be robust and able to generate reliable and quality information with regard to their asset quality for effective decision making. There should be no inconsistencies between information furnished under regulatory / statutory reporting and the banks' own MIS reporting. Banks should also have system generated segment wise information on non-performing assets and restructured assets which may include data on the opening balances, additions, reductions (upgradations, actual recoveries, write-offs etc.), closing balances, provisions held, technical write-offs, etc.
+
+# PART B1 - Framework for Resolution of Stressed Assets
+
+# 8. Early identification and reporting of stress
+
+8.1 Lenders[3](#page-4-0) shall recognise incipient stress in loan accounts, immediately on default[4,](#page-4-1) by classifying such assets as special mention accounts (SMA) as per the following categories:
+
+
+8.2 In the case of revolving credit facilities like cash credit, the SMA subcategories will be as follows:
+
+
+8.3 As provided in terms of the circular [5](#page-4-2) [DBS.OSMOS.No.14703/33.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8894&Mode=0) [01.001/2013-14 dated May 22, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8894&Mode=0) and subsequent amendments thereto, lenders shall report credit information, including classification of an account as SMA to Central Repository of Information on Large Credits (CRILC), on all borrowers having
+
+<span id="page-4-0"></span><sup>3</sup> For the purpose of instructions in part B-1 and B-2 of this Master Circular, 'lenders' shall mean:
+
+a. Scheduled Commercial Banks (excluding Regional Rural Banks);
+
+b. All India Term Financial Institutions (NABARD, NHB, EXIM Bank, and SIDBI);
+
+c. Small Finance Banks; and,
+
+d. Systemically Important Non-Deposit taking Non-Banking Financial Companies (NBFC-ND-SI) and Deposit taking Non-Banking Financial Companies (NBFC-D).
+
+<span id="page-4-1"></span><sup>4</sup> 'Default' means non-payment of debt (as defined under the IBC) when whole or any part or instalment of the debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be.
+
+For revolving facilities like cash credit, default would also mean, without prejudice to the above, the outstanding balance remaining continuously in excess of the sanctioned limit or drawing power, whichever is lower, for more than 30 days.
+
+<span id="page-4-2"></span><sup>5</sup> In parts B1 and B2 of this Master Circular, wherever a reference is made to the circulars addressed to banks, other lenders indicated at paragraph 3 should refer to corresponding circulars applicable to them, if any.
+
+aggregate exposure[6](#page-0-0) of ₹5 crore and above with them. The CRILC-Main Report shall be submitted on a monthly basis. In addition, the lenders shall submit a weekly report of instances of default by all borrowers (with aggregate exposure of ₹5 crore and above) by close of business on every Friday, or the preceding working day if Friday happens to be a holiday.
+
+## 9. Implementation of Resolution Plan
+
+9.1 All lenders must put in place Board-approved policies for resolution of stressed assets, including the timelines for resolution. Since default with any lender is a lagging indicator of financial stress faced by the borrower, it is expected that the lenders initiate the process of implementing a resolution plan (RP) even before a default. In any case, once a borrower is reported to be in default by any of the lenders, lenders shall undertake a prima facie review of the borrower account within thirty days from such default ("**Review Period**"). During this Review Period of thirty days, lenders may decide on the resolution strategy, including the nature of the RP, the approach for implementation of the RP, etc. The lenders may also choose to initiate legal proceedings for insolvency or recovery.
+
+9.2 In cases where RP is to be implemented, all lenders shall enter into an inter-creditor agreement (ICA), during the above-said Review Period, to provide for ground rules for fin

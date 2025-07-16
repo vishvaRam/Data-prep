@@ -1,0 +1,92 @@
+egulatory framework for more resilient banks and banking systems issued in December 2010 (rev June 2011)' The Common Equity Tier 1 in the example should be read to include issued common shares plus retained earnings and reserves in Bank S.
+
+
+The following table summarises the components of capital for the consolidated group based on the amounts calculated in the table above. Additional Tier 1 is calculated as the difference between Common Equity Tier 1 and Tier 1 and Tier 2 is the difference between Total Capital and Tier 1.
+
+
+
+
+
+
+
+
+## **Table DF-5: Credit Risk Mitigation: Disclosures for Standardised Approaches<sup>240</sup>**
+
+## **Qualitative Disclosures**
+
+(a) The general qualitative disclosure requirement with respect to credit risk mitigation including:
+
+*a) Policies and processes for, and an indication of the extent to which the bank makes use of, on- and off-balance sheet netting;* 
+
+- policies and processes for collateral valuation and management;
+- a description of the main types of collateral taken by the bank;
+- the main types of guarantor counterparty and their credit worthiness; and
+- information about (market or credit) risk concentrations within the mitigation taken
+
+#### *Quantitative Disclosures*
+
+*(b) For each separately disclosed credit risk portfolio the total exposure (after, where applicable, on- or off balance sheet netting) that is covered by eligible financial collateral after the application of haircuts.* 
+
+*(c) For each separately disclosed portfolio the total exposure (after, where applicable, on- or off-balance sheet netting) that is covered by guarantees/credit derivatives (whenever specifically permitted by RBI)*
+
+# **Table DF-6: Securitisation Exposures: Disclosure for Standardised Approach**
+
+#### **Qualitative Disclosures**
+
+
+<sup>240</sup> At a minimum, banks must give the disclosures in this Table in relation to credit risk mitigation that has been recognised for the purposes of reducing capital requirements under this Framework. Where relevant, banks are encouraged to give further information about mitigants that have not been recognised for that purpose.
+
+
+## **Table DF-7: Market Risk in Trading Book**
+
+#### **Qualitative disclosures**
+
+(a) The general qualitative disclosure requirement for market risk including the portfolios covered by the standardised approach.
+
+Quantitative disclosures
+
+(b) The capital requirements for:
+
+- interest rate risk;
+- equity position risk; and
+- foreign exchange risk;
+
+# **Table DF-8: Operational Risk**
+
+Qualitative disclosures
+
+The general qualitative disclosure requirement for operational risk.
+
+## **Table DF-9: Interest Rate Risk in the Banking Book (IRRBB)**
+
+#### **Qualitative Disclosures**
+
+(a) The general qualitative disclosure requirement including the nature of IRRBB and key assumptions, including assumptions regarding loan prepayments and behaviour of nonmaturity deposits, and frequency of IRRBB measurement.
+
+#### **Quantitative Disclosures**
+
+(b) The increase (decline) in earnings and economic value (or relevant measure used by management) for upward and downward rate shocks according to management's method for measuring IRRBB, broken down by currency (where the turnover is more than 5% of the total turnover).
+
+
+#### **Table DF-10: General Disclosure for Exposures Related to Counterparty Credit Risk**
+
+<sup>241</sup> Net credit exposure is the credit exposure on derivatives transactions after considering both the benefits from legally enforceable netting agreements and collateral arrangements. The notional amount of credit derivative hedges alerts market participants to an additional source of credit risk mitigation.
+
+
+# **3 Composition of Capital Disclosure Templates**
+
+## **3.1 Disclosure Template**
+
+(i) The template is designed to capture the capital positions of banks. Certain rows are in *italics*. These rows will be deleted after all the ineligible capital instruments have been fully phased out (i.e., from April 1, 2022 onwards).
+
+(ii) The reconciliation requirement in terms of paragraph 14.13 of this Master Circular results in the decomposition of certain regulatory adjustments. For example, the disclosure template below includes the adjustment of 'Goodwill net of related tax liability'. The requirements will lead to the disclosure of both the goodwill component and the related tax liability component of this regulatory adjustment.
+
+(iii) Certain rows of the template are shaded as explained below:
+
+- a. each dark grey row introduces a new section detailing a certain component of regulatory capital.
+- b. the light grey rows with no thick border represent the sum cells in the relevant section.
+- c. the light grey rows with a thick border show the main components of regulatory capital and the capital ratios.
+
+(iv) Also provided along with the Table, an explanation of each line of the template, with references to the appropriate paragraphs of this Master Circular.
+
+<sup>242</sup> For example, interest rate contracts, FX cont

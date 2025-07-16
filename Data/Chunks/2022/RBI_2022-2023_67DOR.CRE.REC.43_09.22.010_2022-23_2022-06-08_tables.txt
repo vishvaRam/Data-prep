@@ -1,0 +1,6 @@
+|                                                                                     | Existing Limit               | Revised Limit                |
+|-------------------------------------------------------------------------------------|------------------------------|------------------------------|
+| Category of the bank                                                                | (per individual<br>borrower) | (per individual<br>borrower) |
+| (a)<br>StCBs/DCCBs having assessed<br>net worth less than ₹100 crore                | ₹20 lakh                     | ₹50 lakh                     |
+| (b)<br>StCBs/DCCBs having assessed<br>net worth equal to or more than<br>₹100 crore | ₹30 lakh                     | ₹75 lakh                     |
+

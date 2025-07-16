@@ -1,0 +1,49 @@
+![](_page_0_Picture_0.jpeg)
+
+www.rbi.org.in
+
+RBI/2021-22/40 DPSS.CO.PD.No.S-99/02.14.006/2021-22 May 19, 2021
+
+All Bank and Non-Bank Prepaid Payment Instrument Issuers, System Providers and System Participants
+
+Madam / Dear Sir,
+
+**Prepaid Payment Instruments (PPIs) –**
+
+- **(i) Mandating Interoperability;**
+- **(ii) Increasing the Limit to ₹2 lakh for Full-KYC PPIs; and**
+- **(iii) Permitting Cash Withdrawal from Full-KYC PPIs of Non-Bank PPI Issuers**
+
+This has reference to paragraphs 10 and 11 of the [Statement on Developmental and](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51382)  [Regulatory Policies dated April 07, 2021](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51382) wherein it was announced that (a) PPI interoperability shall be made mandatory, (b) the limit for full-KYC PPIs shall be increased from ₹1 lakh to ₹2 lakh, and (c) cash withdrawal shall be permitted using full-KYC PPIs of non-bank PPI issuers.
+
+2. A reference is also invited to the [Master Direction DPSS.CO.PD.No.1164/02.14.006/2017-](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11142) [18 dated October 11, 2017](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11142) on Issuance and Operation of PPIs (as amended from time to time) and [Circular DPSS.CO.PD.No.808/02.14.006/2018-19 dated October 16, 2018](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11393&Mode=0) on PPIs – Guidelines for Interoperability.
+
+3. Accordingly, the following are advised –
+
+- i. It shall be mandatory for PPI issuers to give the holders of full-KYC PPIs (KYCcompliant PPIs) interoperability through authorised card networks (for PPIs in the form of cards) and UPI (for PPIs in the form of electronic wallets);
+- ii. Interoperability shall be mandatory on the acceptance side as well;
+- iii. The interoperability shall be enabled by March 31, 2022; and
+- iv. PPIs for Mass Transit Systems (PPI-MTS) shall remain exempted from interoperability while Gift PPI issuers have the option to offer interoperability.
+
+400001
+
+�हंदी आसानहै, इसका�योगबढ़ाइए
+
+4. The maximum amount outstanding in respect of full-KYC PPIs (KYC-compliant PPIs) has been increased from ₹1 lakh to ₹2 lakh. All other conditions mentioned under paragraphs 9.1 (ii) and 9.2 of the [Master Direction on PPIs dated October 11, 2017](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11142) shall continue to be applicable.
+
+5. The feature of cash withdrawal shall be permitted in respect of full-KYC PPIs issued by nonbank PPI issuers as well. The following conditions shall, however, be applicable –
+
+- i. Maximum limit of ₹2,000 per transaction with an overall limit of ₹10,000 per month per PPI;
+- ii. All cash withdrawal transactions performed using a card / wallet, shall be authenticated by an Additional Factor of Authentication (AFA) / PIN;
+- iii. Any PPI issuer offering this facility shall put in place proper customer redressal mechanisms. Complaints in this regard shall fall under the ambit of the respective ombudsmen schemes and instructions on limiting liability of customers; and
+- iv. PPI issuers shall put in place suitable cooling period for cash withdrawal upon opening the PPIs or loading / re-loading of funds into PPIs to mitigate the risk of fraudulent use of PPIs.
+
+6. The cash withdrawal limit from Points of Sale (PoS) terminals using debit cards and open system prepaid cards issued by banks in India advised vide [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10004&Mode=0)  [DPSS.CO.PD.No.449/02.14.003/2015-16 dated August 27, 2015](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10004&Mode=0) has also been rationalised to ₹2,000 per transaction within an overall monthly limit of ₹10,000 across all locations (Tier 1 to 6 centres). The requirement of submission of data to RBI mentioned at paragraph 6 of the circular has been dispensed with. All other provisions shall, however, continue to be applicable.
+
+7. The [Master Direction on Issuance and Operation of PPIs dated October 11, 2017](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11142) (as amended from time to time) is being **[modified](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12156)** to reflect the above.
+
+8. These instructions are issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007.
+
+Yours faithfully,
+
+(P. Vasudevan) Chief General Manager

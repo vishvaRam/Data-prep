@@ -1,0 +1,55 @@
+re than one facility with a bank, all the facilities granted by the bank will have to be treated as NPA and not the particular facility or part thereof which has become irregular/NPA.
+
+(ii) However, in respect of consortium advances or financing under multiple banking arrangements, each bank may classify the borrowal accounts according to its own record of recovery and other aspects having a bearing on the recoverability of the advances. Each bank shall follow the principle at (i) above for NPA classification of a borrower.
+
+# 2.2.3 **Agricultural Advances - Default in repayment due to Natural Calamities**
+
+(i) Where natural calamities impair the repaying capacity of agricultural borrowers, as a relief measure, banks may decide on their own to :
+
+(a) convert the short-term production loan into a term loan or re-schedule the repayment period, and
+
+(b) sanction fresh short-term loans
+
+(ii) In such cases of conversion or re-schedulement, the term loan as well as fresh short-term loan may be treated as current dues and need not be classified as non-performing asset (NPA). The asset classification of these loans would, therefore, be governed by the revised terms and conditions and these would be treated as NPA under the extant norms applicable for classifying agricultural advances as NPAs.
+
+## 2.2.4 **Housing Loan to Staff**
+
+In the case of housing loan or similar advances granted to staff members where interest is payable after recovery of principal, interest need not be considered as overdue from the first month onwards. Such loans / advances should be classified as NPA only when there is a default in repayment of instalment of principal or payment of interest on the respective due dates.
+
+## 2.2.5 **Credit facilities Guaranteed by Central / State Government**
+
+(i) The credit facilities backed by guarantee of the Central Government though overdue should not be treated as NPA.
+
+(ii) This exemption from classification of government guaranteed advances as NPA is not for the purpose of recognition of income.
+
+(iii) From the year ended March 31, 2006, State Government guaranteed advance and investment in State Government guaranteed securities would attract asset classification and provisioning norms, if interest and / or principal or any other amount due to the bank remains overdue for more than 90 days, irrespective of the fact whether the guarantee have been invoked or not.
+
+# 2.2.6 **Project Financing**
+
+'Project Loan' would mean any term loan which has been extended for the purpose of setting up of an economic venture. Banks must fix a Date of Commencement of Commercial Operations (DCCO) for all project loans at the time of sanction of the loan / financial closure (in the case of multiple banking or consortium arrangements).
+
+For the purpose of Income Recognition and Asset Classification norms, all project loans may be divided into the following two categories; (i) Project Loans for infrastructure sector (ii) Project Loans for noninfrastructure sector. Detailed guidelines are given in [Annex 8.](#page--1-0)
+
+In the case of bank finance given for industrial projects where moratorium is available for payment of interest, payment of interest becomes due only after the moratorium or gestation period is over. Therefore, such amounts of interest do not become overdue and hence NPA, with reference to the date of debit of interest. They become overdue after due date for payment of interest, if uncollected
+
+# 2.2.7 **Prudential Guidelines on Restructuring of Advances**
+
+The prudential guidelines on restructuring of advances are detailed a under:
+
+(a) Asset Classification Norms
+
+2.2.7.1 Restructuring of advances could take place in the following stages:
+
+- i. before commencement of commercial production / operation;
+- ii. after commencement of commercial production / operation but before the asset has been classified as 'sub-standard';
+- iii. after commencement of commercial production / operation and the asset has been classified as 'sub-standard' or 'doubtful'.
+
+2.2.7.2 The accounts classified as 'standard assets' should be immediately re-classified as 'sub-standard assets' upon restructuring.
+
+2.2.7.3 The non performing assets, upon restructuring, would slip into further lower asset classification category as per extant asset classification norms with reference to the pre-restructuring repayment schedule.
+
+2.2.7.4 All restructured accounts which have been classified as non-performing assets upon restructuring, would be eligible for upgradation to the 'standard' category after observation of 'satisfactory performance' during the 'specified period' [\(Annex 5\)](#page--1-0).
+
+2.2.7.5 In case, however, satisfactory performance during the specified period is not evidenced, the asset classification of the restructured account would be governed as per the applicable prudential norms with reference to the **pre-restructuring payment schedule**.
+
+2.2.7.6 Any additional finance may be treated as 'standard asset', up to a perio

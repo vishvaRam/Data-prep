@@ -1,0 +1,96 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2022-23/158 CO.DPSS.OVRST.No.S1619/06-08-005/2022-2023 December 26, 2022
+
+The Chairman / Managing Director / Chief Executive Officer Banks, Non-bank Payment System Operators (PSOs) and Credit Card issuing Non-Banking Financial Companies (NBFCs)
+
+Madam / Dear Sir,
+
+## **Central Payments Fraud Information Registry – Migration of Reporting to DAKSH**
+
+As announced in the [Monetary Policy Statement 2019-20 on August 07, 2019,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=47819) the Reserve Bank of India (RBI) had operationalised the Central Payments Fraud Information Registry (CPFIR) in March 2020 with reporting of payment frauds by scheduled commercial banks and non-bank Prepaid Payment Instrument (PPI) issuers.
+
+2. To streamline reporting, enhance efficiency and automate the payments fraud management process, the fraud reporting module is being migrated to [DAKSH – Reserve](https://prism.rbi.org.in/DAKSH/portal/#/login) [Bank's Advanced Supervisory](https://prism.rbi.org.in/DAKSH/portal/#/login) Monitoring System. The migration will be effective from **January 01, 2023**, i.e., entities shall commence reporting of payment frauds in DAKSH from this date. In addition to the existing bulk upload facility to report payment frauds, DAKSH provides additional functionalities, viz. maker-checker facility, online screen-based reporting, option for requesting additional information, facility to issue alerts / advisories, generation of dashboards and reports, etc. The reporting guidelines are mentioned in the **[Annex](#page--1-0)**.
+
+3. These directions are issued under Section 10 (2) read with Section 18 of Payment and settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(P. Vasudevan) Chief General Manager
+
+## **(Annex to Circular CO.DPSS.OVRST.No.S1619/06-08-005/2022-2023 dated December 26, 2022)**
+
+## **Annex**
+
+### **CPFIR – Reporting Guidelines**
+
+- All RBI authorised Payment System Operators (PSOs) / providers and payment system participants operating in India are required to report all payment frauds, including attempted incidents, irrespective of value, either reported by their customers or detected by the entities themselves. This reporting was earlier facilitated through Electronic Data Submission Portal (EDSP) and is being migrated to DAKSH.
+- The responsibility to submit the reported payment fraud transactions shall be of the issuer bank / PPI issuer / credit card issuing NBFCs, whose issued payment instrument has been used in the fraud.
+- Entities are required to validate the payment fraud information reported by the customer in their own systems to ensure the authenticity and completeness, before reporting the same to RBI on individual transaction basis.
+- Entities are required to report payment frauds (domestic and international) to CPFIR as per the specified timelines (currently within 7 calendar days from date of reporting by customer / date of detection by the entity).
+- Entities may continue to report payment frauds as per the extant reporting format using the bulk upload facility in DAKSH or report individual payment frauds online using the screen-based facility under the Incident Module of the DAKSH platform.
+- After go-live of payment fraud reporting in DAKSH effective January 01, 2023, entities shall not be able to report any payment frauds in EDSP. Entities may, however, continue to update and close payment frauds that were reported in EDSP until December 31, 2022. Reserve Bank shall subsequently migrate the historical data from EDSP to DAKSH.
+- The reporting format remains unchanged (**[Appendix](#page--1-0))**.
+- Though some elements / fields of the Reporting Format are indicated as 'Optional', entities shall strive to include them as part of initial reporting itself and only in exceptional cases be reported as updates.
+
+#### **Appendix**
+
+#### **CPFIR – Payment Fraud Reporting**
+
+The data collection file format is a combination of a single Header row and one or more data rows. The Header row is used to collect the metadata information about the data submitted by the reporting entity and data row contains details of the payment fraud reported.
+
+# **Header Format**
+
+
+#### **Note:**
+
+- All individual fields must be separated by a colon (:).
+- Header record must end with semi-colon (;)
+
+#### **Example:**
+
+PFR:I:010:21012020:1;
+
+# **Data Row Format**
+
+
+
+
+
+
+
+
+
+
+
+# **Note:**
+
+- Mandatory fields once submitted cannot be modified (except for fraud closed which can be updated from No to Yes).
+- Once a fraud is closed, no updates are permitted.
+- The output file generated for successful records shall contain a Fraud Reference Number (FRN) assigned to all successfully inserted records. The FRN shall begin with 'F' for actual frauds and 'A' in case of attempted frauds. The same FRN must be used for reporting Updates.
+
+- Although some fields are marked as optional, entities are advised to report maximum available data to facilitate analysis and strengthen the ecosystem.
+
+- No additional character to be included at the end of each record.
+
+# **Example:** Insert record
+
+
+# **Example:** Update record
+
+
+### **Payment Transaction Instrument**
+
+
+#### **Payment System Category**
+
+
+
+
+## **Payment Channel Used**
+
+

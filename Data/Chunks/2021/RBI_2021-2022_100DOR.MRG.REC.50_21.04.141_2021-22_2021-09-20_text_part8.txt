@@ -1,0 +1,36 @@
+ring agreement with such service providers beforehand.
+- 8.7.6 All transactions must be monitored with a view to ensuring timely receipt of funds and securities. Any delay or failure should be promptly taken up with the exchange/authorities concerned.
+- 8.7.7 At the time of trade, securities must be available with the banks either in their SGL or in the demat account with depositories.
+- 8.7.8 Any settlement failure on account of non-delivery of securities/nonavailability of clear funds will be treated as SGL bouncing and the current penalties in respect of SGL bouncing will be applicable. The stock exchanges will report such failures to the respective PDOs.
+- 8.7.9 For the limited purpose of dealing through the screen-based trading system of the stock exchanges the condition that a UCB should seek a scheduled commercial bank, a PD, a financial institution, another UCB, insurance company, mutual fund or provident fund as a counterparty, while undertaking transactions in Government Securities, will not apply.
+- 8.7.10 Banks should report on weekly basis to their Audit Committee of the Board, giving the details of trades on aggregate basis done on the stock exchanges and details of any 'closed-out' transactions on the exchanges.
+- 8.7.11 The banks should take all necessary precautions and strictly adhere to all instructions/guidelines issued by the Reserve Bank relating to transactions in Government Securities as hitherto.
+
+# **9 REPO/REVERSE REPO TRANSACTIONS**
+
+- 9.1 UCBs may execute repo transactions subject to adherence to instructions given in Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 issued vide [circular FMRD.DIRD.01/14.03.038/2018-19 dated July 24, 2018.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11345&Mode=0)
+- 9.2 However, only Scheduled UCBs with strong financials and sound risk management practices are eligible to undertake repo transactions in corporate debt securities. Accordingly, scheduled UCBs, fulfilling the following conditions only would be permitted to undertake such transactions.
+	- (a) CRAR of 10 per cent or more and gross NPA of less than 5 per cent and continuous record of profits during the previous three years.
+	- (b) Sound risk management practices and mandatory concurrent audit of the Investment portfolio.
+- 9.3 Further, the Repo transactions in corporate bonds shall be undertaken only with scheduled commercial banks / PDs and not with other market participants. UCBs which are lenders of funds in a repo transaction may provide for Counter-party credit risk corresponding to the risk weight for such exposure as applicable to the loan / investment exposure. UCBs may also ensure that securities acquired under repo along with other non-SLR investment already in the Balance Sheet should be within the stipulated ceiling of non-SLR investment (i.e., 10 per cent of a bank's total deposits as on March 31 of the previous year). The funds borrowed under repo should be within the limit prescribed for call money borrowing (i.e., 2 per cent of the previous year's deposits).
+- 9.4 UCBs can undertake repo transactions only in Government securities held in excess of the prescribed SLR requirements.
+- 9.5 Repos shall be accounted as per guidelines contained in **Annex III** of this Master Circular.
+
+### **10. SHORT SELLING IN GOVERNMENT SECURITIES**
+
+10.1 Well managed UCBs, who are members of NDS-OM and have regular concurrent audit of their treasury operations, are permitted to undertake intra-day short selling of Government Securities. Accordingly, Urban Co-operative Banks, fulfilling the following conditions are required to seek permission from the Regional Offices concerned to undertake such transactions.
+
+- a. NDS-OM Membership.
+- b. Net Worth of ₹25 crore, CRAR of 9 per cent or more and net NPA of not more than 3 per cent.
+- c. Sound risk management practices and mandatory concurrent audit of their Treasury Operations.
+
+10.2 UCBs are advised to adhere to the instructions/directions as prescribed in Short Sale (Reserve Bank) Directions, 2018 issued vide [FMRD.DIRD.05/14.03.007/2018-19](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11346&Mode=0)  [dated July 25, 2018.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11346&Mode=0)
+
+### **11. 'WHEN ISSUED' TRANSACTIONS IN GOVERNMENT SECURITIES**
+
+11.1 UCBs shall adhere to the When Issued Transactions (Reserve Bank) Directions, 2018 issued [FMRD.DIRD.03/14.03.007/2018-19 dated July 24, 2018](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11344&Mode=0) for undertaking "When Issued" (WI) transactions.
+
+11.2 The accounting treatment of transactions undertaken in WI securities would be as follows:
+
+- (a) The 'WI' security should be recorded in books as an off- balance sheet item till issue of the security.
+- (b) The off- balance sheet net position in 'WI' market should be marked to market scrip-wise on a daily basis at the day's closing price of the 'WI' security. In case the price of the 'WI' secur

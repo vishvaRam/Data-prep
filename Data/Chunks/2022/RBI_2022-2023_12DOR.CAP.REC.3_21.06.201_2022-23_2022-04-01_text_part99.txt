@@ -1,0 +1,33 @@
+-down, such replenished amount of equity will be excluded from the total equity of the bank for the purpose of determining the proportion of earnings to be paid out as dividend in terms of rules laid down for maintaining capital conservation buffer. However, once the bank has attained total Common Equity ratio of 8% without counting the replenished equity capital, that point onwards, the bank may include the replenished equity capital for all purposes<sup>221</sup> .
+
+2.8 The conversion / write-down may be allowed more than once in case a bank hits the prespecified trigger level subsequent to the first conversion / write-down which was partial.
+
+2.9 The conversion / write-down of AT1 instruments are primarily intended to replenish the equity in the event it is depleted by losses. Therefore, banks should not use conversion / writedown of AT1 instruments to support expansion of balance sheet by incurring further obligations / booking assets. Accordingly, a bank whose Common Equity ratio slips below 8% due to losses and is still above 6.125% i.e., trigger point, should seek to expand its balance sheet further only by raising fresh equity from its existing shareholders or market and the internal accruals. However, fresh exposures can be taken to the extent of amortization of the existing ones. If any expansion in exposures, such as due to draw down of sanctioned borrowing limits, is inevitable, this should be compensated within the shortest possible time by reducing other exposures<sup>222</sup> . The bank should maintain proper records to facilitate verification of these transactions by its internal auditors, statutory auditors and Inspecting Officers of RBI.
+
+## *III. Treatment of AT1 Instruments in the event of Winding-Up, Amalgamation, Acquisition, Re-Constitution etc. of the Bank*
+
+2.10 If a bank goes into liquidation before the AT1 instruments have been written-down/ converted, these instruments will absorb losses in accordance with the order of seniority indicated in the offer document and as per usual legal provisions governing priority of charges.
+
+<sup>221</sup> If the total CET1 ratio of the bank falls again below the 8%, it would include the replenished capital for the purpose of applying the capital conservation buffer framework.
+
+<sup>222</sup> For the purpose of determination of breach of trigger, the fresh equity, if any, raised after slippage of CET1 below 8% will not be subtracted. In other words, if CET1 of the bank now is above the trigger level though it would have been below the trigger had it not raised the fresh equity which it did, the trigger will not be treated as breached.
+
+2.11 If a bank goes into liquidation after the AT1 instruments have been written-down, the holders of these instruments will have no claim on the proceeds of liquidation.
+
+# *(a) Amalgamation of a banking company: (Section 44 A of BR Act, 1949)*
+
+2.12 If a bank is amalgamated with any other bank before the AT1 instruments have been written-down/converted, these instruments will become part of the corresponding categories of regulatory capital of the new bank emerging after the merger.
+
+2.13 If a bank is amalgamated with any other bank after the AT1 instruments have been writtendown temporarily, the amalgamated entity can write-up these instruments as per its discretion.
+
+2.14 If a bank is amalgamated with any other bank after the non-equity regulatory capital instruments have been written-down permanently, these cannot be written-up by the amalgamated entity.
+
+*(b) Scheme of reconstitution or amalgamation of a banking company: (Section 45 of BR Act, 1949)*
+
+2.15 If the relevant authorities decide to reconstitute a bank or amalgamate a bank with any other bank under the Section 45 of BR Act, 1949, such a bank will be deemed as non-viable or approaching non-viability and both the pre-specified trigger and the trigger at the point of nonviability<sup>223</sup> for conversion / write-down of AT1 instruments will be activated. Accordingly, the AT1 instruments will be fully converted / written-down permanently before amalgamation / reconstitution in accordance with these rules.
+
+## *IV. Fixation of Conversion Price, Capping of Number of Shares / Voting Rights*
+
+2.16 Banks may issue AT1 instruments with conversion features either based on price fixed at the time of issuance or based on the market price prevailing at the time of conversion<sup>224</sup> .
+
+2.17 There will be possibility of the debt holders receiving a large number of shares in the event the share price is very low at the time of conversion. Thus, debt holders will end up holding the number of shares and attached voting rights exceeding the legally permissible limits. Banks should therefore, always keep sufficient headroom to accommodate the additional equity due to conversion without breaching any of the statutory / regulatory ceilings especially that for maximum private shareholdings and maximum voting rights per investors / group of related investors. I

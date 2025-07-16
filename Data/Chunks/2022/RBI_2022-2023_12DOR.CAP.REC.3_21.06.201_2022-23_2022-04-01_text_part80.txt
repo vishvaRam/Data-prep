@@ -1,0 +1,43 @@
+**), a bank is required to use the reference numbers / letters from Step 2 to show the source of every input.
+
+(ii) For example, if the composition of capital disclosure template includes the line 'goodwill net of related deferred tax liability', then next to this item the bank should put 'a - c'. This is required to illustrate that how these components of the balance sheet under the regulatory scope of consolidation have been used to calculate this item in the disclosure template.
+
+14.13.6 The three step approach is flexible and offers the following benefits:
+
+- (i) the level of disclosure is proportionate, varying with the complexity of the balance sheet of the reporting bank (i.e., banks are not subject to a fixed template. A bank may skip a step if there is no further information added by that step);
+- (ii) supervisors and market participants can trace the origin of the elements of the regulatory capital back to their exact location on the balance sheet under the regulatory scope of consolidation; and
+- (iii) the approach is flexible enough to be used under any accounting standards. Banks are required to map all the components of the regulatory capital disclosure templates back to the balance sheet under the regulatory scope of consolidation, regardless of where the accounting standards require the source to be reported on the balance sheet.
+
+#### 14.13.7 **Main Features Template**
+
+14.13.7.1 Banks are required to complete a 'main features template' to ensure consistency and comparability of disclosures of the main features of capital instruments. Banks are required to disclose a description of the main features of capital instruments issued by them. Besides, banks will also be required to make available the full terms and conditions of their capital instruments (paragraph 14.13.8 below). The requirement of separately disclosing main features of capital
+
+instruments is intended to provide an overview of the capital structure of a bank. Many times, it may not be possible for the users to extract key features of capital instruments with ease from the full disclosure of terms and conditions of capital instruments made by banks.
+
+14.13.7.2 This template represents the minimum level of summary disclosure which banks are required to report in respect of **each** regulatory capital instrument issued. The main feature disclosure template is set out in **Table DF-13 of [Annex 18](#page--1-0)** along with a description of each of the items to be reported. Some of the key aspects of the 'Main Features Template' are as under:
+
+- (i) it is designed to be completed by banks from when the Basel III capital regulations come into effect i.e., as on April 1, 2013. Therefore, it includes disclosure relating to instruments which are subject to the transitional arrangements.
+- (ii) banks are required to report each capital instrument (including common shares) in a separate column of the template, such that the completed template would provide a 'main features report' that summarises all of the regulatory capital instruments of the banking group.
+
+14.13.7.3 Banks are required to keep the completed main features report up-to-date. Banks should ensure that the report is updated and made publicly available, whenever a bank issues or repays a capital instrument and whenever there is redemption, conversion / write-down or other material change in the nature of an existing capital instrument.
+
+# 14.13.8 **Other Disclosure Requirements**
+
+In addition to the disclosure requirements set out in above paragraphs, banks are required to make the following disclosure in respect of the composition of capital:
+
+- (i) Full Terms and Conditions: banks are required to make available on their websites<sup>112</sup> the full terms and conditions of all instruments included in regulatory capital. The requirement for banks to make available the full terms and conditions of instruments on their websites will allow supervisors and market participants to investigate the specific features of individual capital instruments.
+- (ii) Banks are required to keep the terms and conditions of all capital instruments up-todate **(Table DF-14 of [Annex 18\)](#page--1-0)**. Whenever there is a change in the terms and conditions of a capital instrument, banks should update them promptly and make publicly available such updated disclosure.
+
+# **14.14 Format of Disclosure Template**
+
+All Pillar 3 disclosure templates as set out in these guidelines are furnished in tabular form in **[Annex 18](#page--1-0)**. Additional relevant definitions and explanations are also provided for the Pillar 3 disclosures.
+
+<sup>112</sup> Please refer to paragraph 14.10 of this Master Circular.
+
+## **Part D: Capital Conservation Buffer Framework<sup>113</sup>**
+
+## **15. Capital Conservation Buffer**
+
+### **15.1 Objective**
+
+15.1.1 The capital conservation buffer (CCB) is designed to ensure that banks build up capital buffers during normal times (i.e., outside periods of stress) which c

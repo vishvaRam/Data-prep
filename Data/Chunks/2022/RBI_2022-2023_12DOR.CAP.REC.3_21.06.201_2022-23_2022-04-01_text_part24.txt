@@ -1,0 +1,32 @@
+is generally calculated by means of a two-step process:
+	- (a) the notional amount of the transaction is converted into a credit equivalent amount, by multiplying the amount by the specified credit conversion factor or by applying the current exposure method; and
+	- (b) the resulting credit equivalent amount is multiplied by the risk weight applicable to the counterparty or to the purpose for which the bank has extended finance or the type of asset, whichever is higher.
+- (ii) Where the off-balance sheet item is secured by eligible collateral or guarantee, the credit risk mitigation guidelines detailed in paragraph 7 shall be applied.
+
+## **5.15.2 Non-market-related Off Balance Sheet Items<sup>52</sup>**
+
+(i) The credit equivalent amount in relation to a non-market related off-balance sheet item like, direct credit substitutes, trade and performance related contingent items and commitments with certain drawdown, other commitments, etc. will be determined by multiplying the
+
+<sup>52</sup> The aggregate capital required to be maintained by the banks providing Partial Credit Enhancement will be computed as provided i[n circular DBR.BP.BC.No.40/21.04.142/2015-16 dated September 24, 2015,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=10035&Mode=0) as amended from time to time.
+
+contracted amount of that particular transaction by the relevant credit conversion factor (CCF).
+
+- (ii) Where the non-market related off-balance sheet item is an undrawn or partially undrawn fund-based facility<sup>53</sup>, the amount of undrawn commitment to be included in calculating the off-balance sheet non-market related credit exposures is the maximum unused portion of the commitment that could be drawn during the remaining period to maturity. Any drawn portion of a commitment forms a part of bank's on-balance sheet credit exposure.
+- (iii) In the case of irrevocable commitments to provide off-balance sheet facilities, the original maturity will be measured from the commencement of the commitment until the time the associated facility expires. For example, an irrevocable commitment with an original maturity of 12 months, to issue a 6 month documentary letter of credit, is deemed to have an original maturity of 18 months. Irrevocable commitments to provide off-balance sheet facilities should be assigned the lower of the two applicable credit conversion factors. For example, an irrevocable commitment with an original maturity of 15 months (50 per cent - CCF) to issue a six month documentary letter of credit (20 per cent - CCF) would attract the lower of the CCF i.e., the CCF applicable to the documentary letter of credit viz. 20 per cent.
+- (iv) The credit conversion factors for non-market related off-balance sheet transactions are as under:
+
+
+#### **Table 8: Credit Conversion Factors – Non-market related Off-Balance Sheet Items**
+
+<sup>53</sup> For example: (a) In the case of a cash credit facility for Rs.100 lakh (which is not unconditionally cancellable) where the drawn portion is Rs. 60 lakh, the undrawn portion of Rs. 40 lakh will attract a CCF of 20 per cent (since the CC facility is subject to review / renewal normally once a year). The credit equivalent amount of Rs. 8 lakh (20% of Rs.40 lakh) will be assigned the appropriate risk weight as applicable to the counterparty / rating to arrive at the risk weighted asset for the undrawn portion. The drawn portion (Rs. 60 lakh) will attract a risk weight as applicable to the counterparty / rating.
+
+<sup>(</sup>b) A TL of Rs. 700 cr is sanctioned for a large project which can be drawn down in stages over a three year period. The terms of sanction allow draw down in three stages – Rs. 150 cr in Stage I, Rs. 200 cr in Stage II and Rs. 350 cr in Stage III, where the borrower needs the bank's explicit approval for draw down under Stages II and III after completion of certain formalities. If the borrower has drawn already Rs. 50 cr under Stage I, then the undrawn portion would be computed with reference to Stage I alone i.e., it will be Rs.100 cr. If Stage I is scheduled to be completed within one year, the CCF will be 20% and if it is more than one year then the applicable CCF will be 50 per cent.
+
+
+\* **Note**: In respect of borrowers having aggregate fund based working capital limit of ₹150 crore and above from the banking system, the undrawn portion of cash credit / overdraft
+
+<sup>54</sup> However, this will be subject to banks demonstrating that they are actually able to cancel any undrawn commitments in case of deterioration in a borrower's credit worthiness failing which the credit conversion factor applicable to such facilities which are not cancellable will apply. Banks' compliance to these guidelines will be assessed under Supervisory Review and Evaluation Process under Pillar 2 of RBI.
+
+limits sanctioned, irrespective of whether unconditionally cancellable or not, shall attract a credit conversion factor of 20 percent.<sup>55</sup>
+
+- (v) In regard to non-market r

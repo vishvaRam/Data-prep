@@ -1,0 +1,50 @@
+r the purpose of these guidelines.
+
+5.2.2 Chief Executive Officer (CEO) and Senior Management of the bank shall be responsible for:
+
+- i. Evaluating the risks and materiality of all existing and prospective outsourcing, based on the framework approved by the Board;
+- ii. Developing and implementing sound and prudent procedures commensurate with
+
+the nature, scope and complexity of the outsourcing;
+
+- iii. Reviewing periodically the effectiveness of policies and procedures;
+- iv. Communicating information pertaining to material outsourcing risks to the Board in a timely manner;
+- v. Ensuring that contingency plans, based on realistic and probable disruptive scenarios, are in place and tested;
+- vi. Ensuring that there is independent review and audit for compliance with set policies; and
+- vii. Undertaking periodic review of outsourcing arrangements to identify new material outsourcing risks.
+
+### **5.3 Evaluation of the Risks**
+
+The indicative key risks in outsourcing that need to be evaluated by the co-operative banks are: -
+
+- i. **Strategic Risk** The service provider may conduct business on its own behalf, which is inconsistent with the overall strategic goals of the bank.
+- ii. **Reputation Risk** Poor service from the service provider, its customer interaction not being consistent with the overall standards of the bank, or failure in preservation and protection of confidential customer information.
+- iii. **Compliance Risk** Privacy, consumer and prudential laws not adequately complied with.
+- iv. **Operational Risk** Arising due to technology failure, fraud, error, inadequate financial capacity to fulfil obligations and/or provide remedies.
+- v. **Legal Risk** Includes but is not limited to exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements due to omissions and commissions of the service provider.
+- vi. **Exit Strategy Risk** This could arise from over-reliance on one firm, the loss of relevant skills in the bank itself preventing it from bringing the activity back inhouse and where the bank has entered into contracts wherein speedy exits would be prohibitively expensive.
+- vii. **Counterparty Risk** Due to inappropriate underwriting or credit assessments.
+- viii. **Contractual Risk** Arising from whether or not the bank has the ability to enforce the contract.
+- ix. **Country Risk** Due to political, social or legal climate creating added risk.
+- x. **Concentration and Systemic Risk** Due to lack of control of individual banks over a service provider, more so when overall banking industry has considerable exposure to one service provider.
+
+# **5.4 Evaluating the Capability of the Service Provider**
+
+5.4.1 In considering or renewing an outsourcing arrangement, co-operative banks shall undertake appropriate due diligence to assess the capability of the service provider to comply with obligations in the outsourcing agreement. Due diligence should take into consideration qualitative, quantitative, financial, operational and reputational factors. Co-operative banks shall consider whether the service providers' systems are compatible with their own and also whether their standards of performance including in the area of customer service are acceptable to it. Co-operative banks shall also consider, while evaluating the capability of the service provider, issues relating to undue concentration of outsourcing arrangements with a single service provider. Where possible, co-operative banks may obtain independent reviews and market feedback on the service provider to supplement their own findings.
+
+5.4.2 Due diligence should involve an evaluation of all available information about the service provider, including but not limited to the following: -
+
+- a. Past experience, competence to implement and support the proposed activity over the contracted period;
+- b. Financial soundness and ability to service commitments even under adverse conditions;
+- c. Business reputation, culture, compliance, complaints and outstanding or potential litigation;
+- d. Security, internal controls, audit coverage, reporting, monitoring and business
+
+continuity management;
+
+- e. External factors like political, economic, social and legal environment of the jurisdiction in which the service provider operates and other events that may impact service performance;
+- f. Ensuring due diligence by service provider of his employees; and.
+- g. Ability to effectively service all the customers with confidentiality where a service provider has exposure to multiple banks.
+
+# **5.5 The Outsourcing Agreement**
+
+The terms and conditions governing the contract between a co-operative bank and service provider should be carefully defined in written agreements and vetted by bank's legal counsel on their legal effect and enforceability. Every such agreement should address the risks and risk mitigation strategies. The agreement should be sufficiently flexible to allow the bank to retain an appr

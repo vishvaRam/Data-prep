@@ -1,0 +1,19 @@
+ borrowed from Indian banking system.
+
+## **Key Changes in the Directions**
+
+7. In addition to consolidating all the instructions on the subject at one place, the key changes that have been incorporated in the Directions are as follows:
+
+7.1 *Definition of Entity*: At present, banks are required to assess UFCE of all entities. The term 'entities' is defined as those entities which have borrowed from banks including borrowing in INR and other currencies irrespective of the size of
+
+2
+
+exposure / entity. On a review, the revised definition of entity states that "Entity" means a counterparty to which bank has exposure in any currency.
+
+7.2 *Exemption from UFCE guidelines*: At present, banks' exposures to an entity arising from derivative transactions only is excluded from the purview of UFCE guidelines. This exemption has been expanded to include factoring transactions. Accordingly, banks' exposures to an entity arising from derivative transactions and/or factoring transactions only shall be excluded from the purview of UFCE guidelines. In addition, to provide further clarity, the entities exempted from the ambit of these guidelines have been provided separately.
+
+7.3 *Alternative method for exposure to smaller entities*: At present, banks have the option to follow an alternative method for exposures to 'smaller entities' which have a) UFCE; and b) are not in position to provide information on their UFCE to the bank. However, without obtaining information on UFCE from such entities [refer (b) above)], banks will not be in position to ascertain whether the entity has UFCE or not [refer (a) above)]. To address this issue, the alternative method has been made applicable for exposure to 'smaller entities' which have FCE, instead of UFCE, and are not in position to provide information on their UFCE. Further, the definition of 'smaller entities' for this purpose has been revised.
+
+7.4 *Incremental Capital Requirement*: At present, the incremental capital requirement for exposures falling in the last bucket is provided as 25 per cent increase in risk weight. It is clarified that the incremental requirement is 25 percentage points increase in risk weight. For example, if an entity which otherwise attracts a risk weight of 50% falls in the last bucket, the applicable risk weight would be 75% (50%+25%). This is because the exposures falling in same bucket will have equal increase in their riskiness irrespective of the original risk weight applicable.
+
+\*\*\*\*\*

@@ -1,0 +1,41 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+RBI/2021-22/131 DCM (Admin) No.S472/19.01.010/2021-22 November 16, 2021
+
+The Chairman / Managing Director The Chief Executive Officer All Banks
+
+Madam / Dear Sir,
+
+**Withdrawal of Obsolete Regulatory Circulars/ Instructions - Interim Recommendations of the Regulations Review Authority 2.0**
+
+Please refer to the [Press Release on Interim Recommendations of the Regulations](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=52567)  [Review Authority \(RRA\) 2.0 dated November 16, 2021.](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=52567)
+
+2. A comprehensive review of the circulars issued by the Department of Currency Management was undertaken as part of the rationalisation exercise under RRA 2.0 and as per recommendations of the RRA, the regulatory instructions / circulars listed in the [Annex](#page-1-0) stand withdrawn with immediate effect.
+
+Yours faithfully,
+
+(Suman Ray) Chief General Manager-in-Charge
+
+Encl: As above
+
+| List of Circulars withdrawn with effect from November 16, 2021 |  |  |
+|----------------------------------------------------------------|--|--|
+|----------------------------------------------------------------|--|--|
+
+<span id="page-1-0"></span>
+
+| S. No | Circular Referred                      | Date               | Subject                                                                                                |
+|-------|----------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------|
+| 1     | DCM.NPDA.No.688/<br>09.39.00/2001-02   | March 22, 2002     | Presence of chest representatives<br>at the time of examination of soiled<br>notes in the Reserve Bank |
+| 2     | DCM.(NPD).No.G30/<br>09.39.00/2001-02  | March 23, 2002     | Incentive for improving service to<br>non-<br>chest branches                                           |
+| 3     | DCM.(NPDA).No.G<br>1/ 09.39.00/2002-03 | July 05, 2002      | Presence of chest representatives<br>at the time of examination of soiled<br>notes in the Reserve Bank |
+| 4     | DCM.(NPD).No.G-9/<br>09.39.00/2002-03  | September 23, 2002 | Incentive for improving service to<br>non-<br>chest branches -<br>Clarification                        |
+| 5     | DCM.(Plg).No.982/<br>10.87.05/2002-03  | December 20, 2002  | Clean Note Policy                                                                                      |
+| 6     | DCM.(NPD).No.317/<br>09.39.00/2003-04  | October 11, 2003   | Clean Note Policy -<br>Banding of<br>Note Packets-<br>Use of stickers, etc                             |
+| 7     | DCM.(NPD).No.402/<br>09.39.00/2004-05  | February 22, 2005  | Clean Note Policy-<br>Sorting of<br>Banknotes                                                          |
+| 8     | DCM(CD)No.816/<br>04.36.03/2005-06     | July 25, 2005      | Computerization of Currency<br>Chest Operations                                                        |
+| 9     | DCM.(NPD).No.6316/<br>09.40.02/2006-07 | March 09, 2007     | Incentive for improving service to<br>non-<br>chest branches                                           |

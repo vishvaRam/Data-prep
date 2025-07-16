@@ -1,0 +1,35 @@
+n date shall be the calendar date for which the day end process is run. In other words, the date of SMA/NPA shall reflect the asset classification status of an account at the day-end of that calendar date.
+
+<span id="page-0-0"></span> <sup>4</sup> For the purpose of instructions in part B1 and B2 of this Master Circular, 'lenders' shall mean:
+
+a. Scheduled Commercial Banks (excluding Regional Rural Banks);
+
+b. All India Term Financial Institutions (NABARD, NHB, EXIM Bank, and SIDBI);
+
+c. Small Finance Banks; and,
+
+d. Systemically Important Non-Deposit taking Non-Banking Financial Companies (NBFC-ND-SI) and Deposit taking Non-Banking Financial Companies (NBFC-D).
+
+<span id="page-0-1"></span><sup>5</sup> 'Default' means non-payment of debt (as defined under the IBC) when whole or any part or instalment of the debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be.
+
+For revolving facilities like cash credit, default would also mean, without prejudice to the above, the outstanding balance remaining continuously in excess of the sanctioned limit or drawing power, whichever is lower, for more than 30 days.
+
+*Example: If due date of a loan account is March 31, 2022, and full dues are not received before the bank runs the day-end process for this date, the date of overdue shall be March 31, 2022. If it continues to remain overdue, then this account shall get tagged as SMA-1 upon running day-end process on April 30, 2022 i.e. upon completion of 30 days of being continuously overdue. Accordingly, the date of SMA-1 classification for that account shall be April 30, 2022.* 
+
+*Similarly, if the account continues to remain overdue, it shall get tagged as SMA-2 upon running day-end process on May 30, 2022 and if continues to remain overdue further, it shall get classified as NPA upon running day-end process on June 29, 2022.*
+
+8.5 As provided in terms of the circular [DBS.Dir.OSMOS.No.3327/33.01.001/2013-14 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8405&Mode=0)  [September 11, 2013](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8405&Mode=0) and subsequent instructions related thereto, scheduled commercial banks shall report credit information, including classification of an account as SMA to Central Repository of Information on Large Credits (CRILC), on all borrowers having aggregate exposure[6](#page-1-0) of ₹5 crore and above with them. The CRILC-Main Report shall be submitted on a monthly basis. In addition, the lenders shall submit a weekly report of instances of default by all borrowers (with aggregate exposure of ₹5 crore and above) by close of business on every Friday, or the preceding working day if Friday happens to be a holiday.
+
+#### 9. Implementation of Resolution Plan
+
+9.1 All lenders must put in place Board-approved policies for resolution of stressed assets, including the timelines for resolution. Since default with any lender is a lagging indicator of financial stress faced by the borrower, it is expected that the lenders initiate the process of implementing a resolution plan (RP) even before a default. In any case, once a borrower is reported to be in default by any of the lenders, lenders shall undertake a prima facie review of the borrower account within thirty days from such default ("**Review Period**"). During this Review Period of thirty days, lenders may decide on the resolution strategy, including the nature of the RP, the approach for implementation of the RP, etc. The lenders may also choose to initiate legal proceedings for insolvency or recovery.
+
+9.2 In cases where RP is to be implemented, all lenders shall enter into an inter-creditor agreement (ICA), during the above-said Review Period, to provide for ground rules for finalisation and implementation of the RP in respect of borrowers with credit facilities from more
+
+<span id="page-1-0"></span> 6 Aggregate exposure under the guidelines would include all fund based and non-fund based exposure, including investment exposure with the lenders.
+
+than one lender.[7](#page-2-0) The ICA shall provide that any decision agreed by lenders representing 75 per cent by value of total outstanding credit facilities (fund based as well non-fund based) and 60 per cent of lenders by number shall be binding upon all the lenders. Additionally, the ICA may, *inter alia*, provide for rights and duties of majority lenders, duties and protection of rights of dissenting lenders, treatment of lenders with priority in cash flows/differential security interest, etc. In particular, the RPs shall provide for payment not less than the liquidation value[8](#page-2-1) due to the dissenting lenders.
+
+9.3 In respect of accounts with aggregate exposure above a threshold with the lenders, as indicated below, on or after the 'reference date', RP shall be implemented within 180 days from the end of Review Period. The Review Period shall commence not later than:
+
+- a. The reference date, if in default

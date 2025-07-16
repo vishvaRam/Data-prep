@@ -1,0 +1,109 @@
+| Sr | Circular no                        | Date                | Description                                               |
+|----|------------------------------------|---------------------|-----------------------------------------------------------|
+| no |                                    |                     |                                                           |
+| 1  | RBI/2015-16/222                    | November            | Sovereign Gold Bonds, 2015-                               |
+|    | IDMD.CDD.No.968/14.04.050/2015-16  | 4, 2015             | 16 - Operational Guidelines                               |
+| 2  | RBI/2016-17/19                     | July 14,            | Sovereign Gold Bonds, 2016-                               |
+|    | IDMD.CDD.No.112/14.04.050/2016-17  | 2016                | 17 - Operational Guidelines                               |
+| 3  | RBI/2016-17/54                     | August 29,          | Sovereign Gold Bonds 2016-                                |
+|    | IDMD.CDD.No.463/14.04.050/2016-17  | 2016                | 17<br>Series<br>II<br>–<br>Operational                    |
+|    |                                    |                     | Guidelines                                                |
+| 4  | IDMD.CDD.No.892/14.04.050/2016-17  | October<br>20, 2016 | Sovereign<br>Gold<br>Bonds<br>Maximum Limit of Investment |
+|    |                                    |                     | and Acceptance as Collateral                              |
+|    |                                    |                     | Clarification                                             |
+| 5  | RBI/2016-17/99                     | October             | Sovereign Gold Bonds 2016-                                |
+|    | IDMD.CDD.No.894/14.04.050/2016-17  | 20, 2016            | 17 Series III – Operational                               |
+|    |                                    |                     | Guidelines                                                |
+| 6  | RBI/2016-17/193                    | December            | Procedural<br>Guidelines<br>for                           |
+|    | IDMD No.1569/14.04.050/2016-17     | 23, 2016            | Servicing the Sovereign Gold                              |
+|    |                                    |                     | Bonds                                                     |
+| 7  | RBI/2016-17/235                    | February            | Sovereign Gold Bonds, 2016-                               |
+|    | IDMD.CDD.No.2188/14.04.050/2016-17 | 23, 2017            | 17 – Series IV - Operational                              |
+|    |                                    |                     | Guidelines                                                |
+| 8  | RBI/2016-17/290                    | April 20,           | Sovereign Gold Bonds, 2017-                               |
+|    | IDMD.CDD.No.2759/14.04.050/2016-17 | 2017                | 18 – Series I - Operational                               |
+|    |                                    |                     | Guidelines                                                |
+| 9  | RBI/2017-18/18                     | July 06,            | Sovereign Gold Bonds, 2017-                               |
+|    | IDMD.CDD.No.29/14.04.050/2017-18   | 2017                | 18 – Series II - Operational<br>Guidelines                |
+|    | 10 RBI/2017-18/72                  | October             | Sovereign<br>Gold<br>Bonds                                |
+|    | IDMD.CDD.No.927/14.04.050/2017-18  | 06, 2017            | Scheme,<br>Operational                                    |
+|    |                                    |                     | Guidelines                                                |
+|    | 11 RBI/2017-18/164                 | April 13            | Sovereign Gold Bond Scheme                                |
+|    | IDMD.CDD.No.2652/14.04.050/2017-18 | 2018                | 2018-19 Series-I, Operational                             |
+|    |                                    |                     | Guidelines                                                |
+|    | 12 RBI/2018-19/58                  | October             | Sovereign Gold Bond Scheme                                |
+|    | IDMD.CDD.No.822/14.04.050/2018-19  | 08, 2018            | 2018-19,<br>Operational                                   |
+|    |                                    |                     | Guidelines                                                |
+|    | 13 RBI/2018-19/193                 | May 30,             | Sovereign Gold Bond Scheme                                |
+|    | IDMD.CDD.No.3391/14.04.050/2018-19 | 2019                | 2019-20 - Series I/II/III/IV -                            |
+|    |                                    |                     | Operational Guidelines                                    |
+|    | 14 RBI/2019-20/74                  | September           | Sovereign Gold Bond (SGB)                                 |
+|    | IDMD.CDD.No.891/14.04.050/2019-20  | 30, 2019            | Scheme<br>2019-20<br>-<br>Series                          |
+|    |                                    |                     | V/VI/VII/VIII/IX/X - Operational<br>Guidelines            |
+|    |                                    |                     |                                                           |
+
+| PUBLIC SECTOR BANKS |                                 | PRIVATE BANKS |                               |
+|---------------------|---------------------------------|---------------|-------------------------------|
+| 1                   | State Bank of India             | 1             | Axis Bank Ltd.                |
+| 2                   | Bank of Baroda                  | 2             | Catholic Syrian Bank Ltd.     |
+|                     | (Including Vijaya Bank and Dena |               |                               |
+|                     | Bank)                           |               |                               |
+| 3                   | Bank of India                   | 3             | City Union Bank Ltd.          |
+| 4                   | Bank of Maharashtra             | 4             | Development Credit Bank Ltd.  |
+| 5                   | Canara Bank                     | 5             | Dhanlaxmi Bank Ltd.           |
+|                     | (Including Syndicate Bank)      |               |                               |
+| 6                   | Central Bank of India           | 6             | Federal Bank Ltd.             |
+| 7                   | Indian Bank                     | 7             | HDFC Bank Ltd.                |
+|                     | (Including Allahabad Bank)      |               |                               |
+| 8                   | Indian Overseas Bank            | 8             | ICICI Bank Ltd.               |
+| 9                   | Punjab National Bank            | 9             | IndusInd Bank Ltd.            |
+|                     | (including Oriental Bank of     |               |                               |
+|                     | Commerce and United Bank of     |               |                               |
+|                     | India)                          |               |                               |
+| 10                  | Punjab & Sind Bank              | 10            | Jammu & Kashmir Bank Ltd.     |
+| 11                  | Union Bank of India             | 11            | Karnataka Bank Ltd.           |
+|                     | (including Andhra Bank and      |               |                               |
+|                     | Corporation Bank)               |               |                               |
+| 12                  | UCO Bank                        | 12            | Karur Vysya Bank Ltd.         |
+|                     |                                 | 13            | Kotak Mahindra Bank Ltd.      |
+|                     |                                 | 14            | Lakshmi Vilas Bank Ltd.       |
+|                     |                                 | 15            | Nainital Bank Ltd.            |
+|                     |                                 | 16            | Ratnakar Bank Ltd.            |
+|                     |                                 | 17            | South Indian Bank Ltd.        |
+|                     |                                 | 18            | Tamilnad Mercantile Bank Ltd. |
+|                     |                                 | 19            | Yes Bank Ltd.                 |
+|                     |                                 | 20            | Bandhan Bank                  |
+|                     |                                 | 21            | IDFC Bank Ltd.                |
+|                     |                                 | 22            | IDBI Bank Ltd                 |
+
+| FOREIGN BANKS |                                 |    |                                   |  |  |
+|---------------|---------------------------------|----|-----------------------------------|--|--|
+| 1             | The Royal Bank of Scotland N.V  | 23 | Mizuho Corporate Bank Ltd.        |  |  |
+| 2             | Abu Dhabi Commercial Bank Ltd.  | 24 | Oman International Bank           |  |  |
+| 3             | Antwerp Diamond Bank N.V        | 25 | SocieteGenerale                   |  |  |
+| 4             | Arab Bangladesh Bank Ltd.(AB    | 26 | Sonali Bank                       |  |  |
+|               | Bank)                           |    |                                   |  |  |
+| 5             | Bank International Indonesia    | 27 | Standard Chartered Bank           |  |  |
+| 6             | Bank of America                 | 28 | State Bank of Mauritius           |  |  |
+| 7             | Bank of Bahrain & Kuwait B.S.C  | 29 | JSC - VTB Bank                    |  |  |
+| 8             | Bank of Ceylon                  | 30 | UBS AG                            |  |  |
+| 9             | Bank of Nova Scotia             | 31 | American Express Banking          |  |  |
+|               |                                 |    | Corporation                       |  |  |
+| 10            | Bank of Tokyo - Mitsubishi Ltd. | 32 | First Rand Bank Ltd.              |  |  |
+| 11            | Barclays Bank                   | 33 | Commonwealth Bank of Australia    |  |  |
+| 12            | BNP Paribas                     | 34 | United Overseas Bank Ltd.         |  |  |
+| 13            | China Trust Bank                | 35 | Credit Suisse A.G                 |  |  |
+| 14            | Shinhan Bank                    | 36 | Sberbank                          |  |  |
+| 15            | Citibank N.A                    | 37 | Australia and New Zealand Banking |  |  |
+|               |                                 |    | Group Ltd.                        |  |  |
+| 16            | Credit Agricole Corporate and   | 38 | Rabobank International            |  |  |
+|               | Investment Bank                 |    |                                   |  |  |
+| 17            | Deutsche Bank                   | 39 | National Australia Bank           |  |  |
+| 18            | DBS Bank Ltd.                   | 40 | Woori Bank                        |  |  |
+| 19            | Hongkong and Shanghai Banking   | 41 | Industrial & Commercial Bank of   |  |  |
+|               | Corpn. Ltd.                     |    | China                             |  |  |
+| 20            | J.P.Morgan Chase Bank N.A       | 42 | Sumitomo Mitsui Banking           |  |  |
+|               |                                 |    | Corporation                       |  |  |
+| 21            | Krung Thai Bank                 | 43 | Westpac Banking Corporation       |  |  |
+| 22            | Mashreqbank                     | 44 | Doha Bank                         |  |  |
+

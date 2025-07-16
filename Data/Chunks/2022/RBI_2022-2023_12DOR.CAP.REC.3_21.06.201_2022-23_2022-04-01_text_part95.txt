@@ -1,0 +1,56 @@
+- j) reputation risk
+	- k) group risk
+	- l) pension obligation risk
+	- m) other residual risk; and
+	- n) any other risks that might have been identified
+- for each of these risks, an explanation of how the risk has been assessed and to the extent possible, the **quantitative results** of that assessment;
+- where some of these risks have been highlighted in the report of the RBI's on-site inspection of the bank, an explanation of how the bank has mitigated these;
+- where relevant, a comparison of the RBI-assessed CRAR during on-site inspection with the results of the CRAR calculations of the bank under the ICAAP;
+- a clear articulation of the bank's risk appetite, in quantitative terms, by risk category and the extent of its consistency (its 'fit') with the overall assessment of bank's various risks; and
+- where relevant, an explanation of any other methods, apart from capital, used by the bank to mitigate the risks.
+
+### **Methodology and Assumptions**
+
+A description of how assessments for each of the major risks have been approached and the main assumptions made.
+
+For instance, banks may choose to base their ICAAP on the results of the CRAR calculation with the capital for additional risks (e.g., concentration risk, interest rate risk in the banking book, etc.) assessed separately and added to the Pillar 1 computations. Alternatively, banks could choose to base their ICAAP on internal models for all risks, including those covered under the CRAR (i.e., Credit, Market and Operational Risks).
+
+The description here would make clear which risks are covered by which modelling or calculation approach. This would include details of the methodology and process used to calculate risks in each of the categories identified and reason for choosing the method used in each case.
+
+Where the bank uses an internal model for the quantification of its risks, this section should explain for each of those models:
+
+- the key assumptions and parameters within the capital modelling work and background information on the derivation of any key assumptions;
+- how parameters have been chosen, including the historical period used and the calibration process;
+- the limitations of the model;
+- the sensitivity of the model to changes in those key assumptions or parameters chosen; and
+- the validation work undertaken to ensure the continuing adequacy of the model.
+
+Where stress tests or scenario analyses have been used to validate, supplement, or probe the results of other modelling approaches, then this section should provide:
+
+ details of simulations to capture risks not well estimated by the bank's internal capital model (e.g., non-linear products, concentrations, illiquidity and shifts in correlations in a crisis period);
+
+- details of the quantitative results of stress tests and scenario analyses the bank carried out and the confidence levels and key assumptions behind those analyses, including, the distribution of outcomes obtained for the main individual risk factors;
+- details of the range of combined adverse scenarios which have been applied, how these were derived and the resulting capital requirements; and
+- where applicable, details of any additional business-unit-specific or business-plan-specific stress tests selected.
+
+# **Capital Transferability**
+
+In case of banks with conglomerate structure, details of any restrictions on the management's ability to transfer capital into or out of the banking business(es) arising from, for example, by contractual, commercial, regulatory or statutory constraints that apply, should be furnished. Any restrictions applicable and flexibilities available for distribution of dividend by the entities in the Group could also be enumerated. In case of overseas banking subsidiaries of the banks, the regulatory restrictions would include the minimum regulatory capital level acceptable to the hostcountry regulator of the subsidiary, after declaration of dividend.
+
+# **V. Firm-wide risk oversight and specific aspects of risk management<sup>215</sup>**
+
+### V.1 Risk Management System in the bank
+
+This section would describe the risk management infrastructure within the bank along the following lines:
+
+- The oversight of board and senior management
+- Policies, Procedures and Limits
+- identification, measurement, mitigation, controlling and reporting of risks
+- MIS at the firm wide level
+- Internal controls
+
+# V.2 Off-balance Sheet Exposures with a focus on Securitisation
+
+This section would comprehensively discuss and analyse underlying risks inherent in the offbalance sheet exposures particularly its investment in structured products. When assessing securitisation exposures, bank should thoroughly analyse the credit quality and risk characteristics of the underlying exposures. This section should also comprehensively explain the maturity of the exposures underlying securitisation transactions relative to issued liabilities in order to assess potential maturity mismatches.
+
+<sup>215</sup> [Master Circula

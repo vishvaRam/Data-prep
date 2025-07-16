@@ -1,0 +1,27 @@
+ned for the purpose of any contravention or evasion of the provisions of the FEMA, 1999 or any rule, regulation, notification, direction or order issued thereunder. AD banks shall put in place a standard policy laying down the requirements or documents or information to be obtained by their branches to ensure compliance with said provisions of FEMA.
+
+(4) AD banks shall ensure bona fides of the transaction, compliance with FEMA provisions, compliance with [Know Your Customer \(KYC\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11566) Guidelines and compliance with anti-money laundering guidelines/laws. Any doubtful case/suspicious transaction shall be referred to Directorate of Enforcement (DoE) for further investigation and necessary action.
+
+(5) In case of ODI by way of capitalisation of export proceeds or other entitlements, Indian entity/resident individual shall make an application in Form FC to its designated AD bank. AD bank may ensure necessary reporting in Form FC, compliance with OI Rules/Regulations and necessary reporting in EDPMS, wherever applicable, for facilitating such transactions. In case where such proceeds are overdue beyond the period specified for realisation/repatriation, before permitting such capitalisation AD bank may grant necessary extension post proper due diligence. (6) Pre-incorporation expenses – AD bank may allow remittance towards pre-incorporation expenses after satisfying itself of the reasonableness, up to a maximum of USD 100,000 per foreign entity. Such remittances made by a resident individual shall be reckoned towards their LRS limit. A person resident in India may capitalise pre-incorporation expenses (*i.e.*, financial commitment by way of ODI) or recognise such expenses as receivables (*i.e.*, financial commitment by way of debt) or account them as expenses in their books. It is clarified that unless recognised as financial commitment such expenses shall not attract provisions of OI Rules/Regulations.
+
+22
+
+# **28. General procedural instructions for online reporting**
+
+(1) The existing application for online reporting of overseas investment related transactions by Authorised dealers (ADs) has provision for Maker, Checker and Authoriser. The AD Maker shall initiate the transaction and submit to the AD Checker for verification before submission to Reserve Bank. In case of delay in reporting for any reason the transaction shall be reported to RBI only after a middle management level officer designated as an authoriser ratifies it by recording the reasons for the same.
+
+(2) The AD Maker, AD Checker and AD Authoriser as above identified by the AD Bank may obtain a user-id, if not obtained already, for accessing the online OID application by submitting a request in the prescribed format as per appendix A.
+
+(3) The online reporting shall be made by the Centralised Unit/Nodal Office of AD banks. The overseas investment application is hosted on the Reserve Bank's Website at [https://fed.rbi.org.in.](https://fed.rbi.org.in/) AD banks shall be responsible for the validity of the information reported online.
+
+(4) Reserve Bank reserves the right to place the information received through the forms in the public domain.
+
+(5) AD banks should put in place proper processes and systems and issue necessary instructions to all the dealing officials at the bank/branch level to ensure compliance with these directions.
+
+### **Annex-II**
+
+#### **List of the circulars/ master direction superseded**
+
+
+
+

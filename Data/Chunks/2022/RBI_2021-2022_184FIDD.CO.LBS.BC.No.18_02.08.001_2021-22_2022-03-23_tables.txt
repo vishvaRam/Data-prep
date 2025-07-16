@@ -1,0 +1,4 @@
+| Sr<br>No | Newly Carved<br>District    | Erstwhile<br>District  | Sub-Division/<br>Tehsil<br>under newly created<br>District | Lead Bank<br>Responsibility<br>assigned to | District Working<br>Code allotted to<br>new district |
+|----------|-----------------------------|------------------------|------------------------------------------------------------|--------------------------------------------|------------------------------------------------------|
+| 1        | Eastern West<br>Khasi Hills | West<br>Khasi<br>Hills | Mairang<br>Civil<br>Sub<br>Division                        | Punjab<br>National Bank                    | 00U<br>(to be read as<br>"zero zero U")              |
+

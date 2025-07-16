@@ -1,0 +1,60 @@
+led hereunder:
+
+## **Weighted risk assets**
+
+
+### **9. Deployment of Funds**
+
+(i) The ARC, may as a sponsor and for the purpose of establishing a joint venture, invest in the equity share capital of a ARC formed for the purpose of asset reconstruction;
+
+[27\(](#page-0-0)ii) The ARC may deploy any surplus funds available with it, in terms of a policy framed in this regard by its Board of Directors, only in Government securities and deposits with scheduled commercial banks, Small Industries Development Bank of India, National Bank for Agriculture and Rural Development or such other entity as may be specified by the Bank from time to time;
+
+[28\(](#page-0-1)iii) No ARC shall, invest in land or building,
+
+ <sup>27</sup> Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+<span id="page-0-1"></span><span id="page-0-0"></span><sup>28</sup> Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+Provided that the restriction shall not apply to investment by ARC in land and buildings for its own use up to 10% of its owned fund;
+
+Provided further that the restriction shall not apply to land and building acquired by the ARC in satisfaction of claims in ordinary course of its business of reconstruction of assets in accordance with the provisions of Act;
+
+Provided further that any land and / or building acquired by ARC in the ordinary course of its business of reconstruction of assets while enforcing its security interest, shall be disposed of within a period of five years from the date of such acquisition or such extended period as may be permitted by the Bank in the interest of realization of the dues of the ARC.
+
+[29](#page-1-0)(iv) ARCs may deploy their funds for undertaking restructuring of acquired loan account with the sole purpose of realizing their dues.
+
+### **10. Accounting Year**
+
+Every ARC shall prepare its balance sheet and profit and loss account as on March 31 every year. ARCs are advised in their balance sheet to classify all the liabilities due within one year as "current liabilities" and assets maturing within one year along with cash and bank balances as "current assets". Capital and Reserves will be treated as liabilities on liability side while investment in SRs and long-term deposits with banks will be treated as fixed assets on the assets side.
+
+# **11. Asset Classification**
+
+# (1) **Classification**
+
+(i) Every ARC shall, after taking into account the degree of well-defined credit weaknesses and extent of dependence on collateral security for realisation, classify the assets [30](#page-1-1)[held in its own books] into the following categories, namely :
+
+(a) Standard assets
+
+# (b) NPAs.
+
+ <sup>29</sup> Inserted vide [Circular No.DNBS/PD \(SC/RC\)CC.No.13/26.03.001/2008-09 dated April 22, 2009](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=4943&fn=14&Mode=0)
+
+<span id="page-1-1"></span><span id="page-1-0"></span><sup>30</sup> Modified vid[e Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+(ii) The NPAs shall be classified further as
+
+(a) 'Sub-standard asset' for a period not exceeding twelve months from the date it was classified as NPA;
+
+b) 'Doubtful asset' if the asset remains a sub-standard asset for a period exceeding twelve months;
+
+ [31](#page-2-0)(c) 'Loss asset' if (A) the asset is non-performing for a period exceeding 36 months; (B) the asset is adversely affected by a potential threat of nonrecoverability due to either erosion in the value of security or non-availability of security; (C) the asset has been identified as loss asset by the ARC or its internal or external auditor; or (D) the financial asset including SRs is not realized within the total time frame specified in the plan for realization formulated by the ARC under paragraph 6(C)(ii) or 6(C)(iii) and the ARC or the trust concerned continues to hold those assets.
+
+(iii) Assets acquired by the ARC for the purpose of asset reconstruction may be treated as standard assets during the planning period, if any.
+
+### (2) **Asset Reconstruction: Renegotiated / Rescheduled assets**
+
+(i) Where the terms of agreement regarding interest and/ or principal relating to standard asset have been renegotiated or rescheduled by an ARC (other wise than during planning period) the asset concerned shall be classified as sub-standard asset with effect from the date of renegotiation/ reschedulement or continue to remain as a sub-standard or doubtful asset as the case be.
+
+(ii) The asset may be upgraded as a standard asset only after satisfactory performance for a period of twelve months as per the renegotiated / rescheduled terms.
+
+<span id="page-2-0"></span> <sup>31</sup> Modified vide [Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2

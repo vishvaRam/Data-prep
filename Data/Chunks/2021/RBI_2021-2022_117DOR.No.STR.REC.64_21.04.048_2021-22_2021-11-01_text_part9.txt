@@ -1,0 +1,41 @@
+ or rescheduling of outstanding debts should be recognised on an accrual basis over the period of time covered by the renegotiated or rescheduled extension of credit.
+
+4.1.4 If Government guaranteed advances remain 'overdue' for more than 90 days, the interest on such advances should not be taken to income account unless the interest has been realised. This shall be applicable in cases of both Central and State Government guaranteed accounts.
+
+## 4.2 **Reversal of Income on Accounts Becoming NPAs**
+
+4.2.1 If any advance, including bills purchased and discounted, becomes NPA, interest accrued and credited to income account, should be reversed or provided for, if the same is not realised This will also apply to Government guaranteed accounts which remain overdue for more than 90 days.
+
+4.2.2 In respect of NPAs, fees, commission and similar income that have accrued should cease to accrue in the current period and should be reversed with respect to past periods, if uncollected.
+
+4.2.3 Banks undertaking equipment leasing should follow prudential accounting standards. Lease rentals comprises of two elements - a finance charge (i.e. interest charge) and a charge towards recovery of the cost of the asset. The interest component alone should be taken to income account. Such interest component taken to income account, before the asset became NPA, if unrealised should be reversed or provided for.
+
+# 4.3 **Booking of Income on Investments in Shares & Bonds**
+
+4.3.1 As a prudent practice and in order to bring about uniform accounting practice among banks for booking of income on units of UTI and equity of All India Financial Institutions, such income should be booked on cash basis and not on accrual basis.
+
+4.3.2 However, in respect of income from Government securities / bonds of public sector undertakings and All India Financial Institutions, where interest rates on the instruments are predetermined, income may be booked on accrual basis, provided interest is serviced regularly and is not in arrears.
+
+## 4.4 **Partial Recovery of NPAs**
+
+Interest realised on NPAs may be taken to income account, provided the credits in the accounts towards interest are not out of fresh / additional credit facilities sanctioned to the borrower concerned.
+
+## 4.5 **Interest Application**
+
+4.5.1 In case of NPAs, as a prudential norm, there is no use in debiting the said account by interest accrued in subsequent months and taking this accrued interest amount as income of the bank as the said interest is not being received. It is simultaneously desirable to show such accrued interest separately or park in a separate account so that interest receivable on such NPA account is computed and shown as such, though not accounted as income of the bank for the period.
+
+4.5.2 The interest accrued in respect of performing assets may be taken to income account as the interest is reasonably expected to be received. However, if interest is not actually received for any reason in these cases and the account is to be treated as an NPA, then the amount of interest so taken to income should be reversed or should be provided for in full.
+
+4.5.3 With a view to ensuring uniformity in accounting the accrued interest in respect of both the performing and non-performing assets, the following guidelines may be adopted notwithstanding the existing provisions in the respective State Co-operative Societies Act.
+
+(i) Interest accrued in respect of non-performing advances should not be debited to borrowal accounts but shown separately under 'Interest Receivable Account' on the 'Property and Assets' side of the balance sheet and corresponding amount shown under 'Overdue Interest Reserve Account' on the 'Capital and Liabilities' side of the balance sheet.
+
+(ii) In respect of borrowal accounts, which are treated as performing assets, accrued interest can alternatively be debited to the borrowal account and credited to Interest account and taken to income account. In case the accrued interest in respect of the borrowal account is not actually realised and the account has become NPA, interest accrued and credited to income account should be reversed or provided for.
+
+(iii) The illustrative accounting entries to be passed in respect of accrued interest on both the performing and non-performing advances are indicated in the [Annex 3.](#page--1-3)
+
+4.5.4 In the above context, it may be clarified that overdue interest reserve is not created out of the real or earned income received by the bank and as such, the amounts held in the Overdue Interest Reserve Account cannot be regarded as 'reserve' or a part of the owned funds of the banks. It will also be observed that the Balance Sheet format prescribed under the Third Schedule to the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) specifically requires the banks to show 'Overdue Interest Reserve' as a distinct item on the 'Capital and Liabilities' side vide item 8 thereof.
+
+# **5. Provisioning Norms**
+
+# 5.1 

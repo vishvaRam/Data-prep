@@ -1,0 +1,42 @@
+ng a profit or loss in foreign currencies;
+- The net delta-based equivalent of the total book of foreign currency options
+
+Foreign exchange open positions and gold open positions are at present risk-weighted at 100 per cent. Thus, capital charge for market risks in foreign exchange and gold open position is 9 per cent. These open positions, **limits or actual whichever is higher**, would continue to attract
+
+capital charge at 9 per cent. This capital charge is in addition to the capital charge for credit risk on the on-balance sheet and off-balance sheet items pertaining to foreign exchange and gold transactions.
+
+### **8.6 Measurement of Capital Charge for Credit Default Swap (CDS) in the Trading Book**
+
+### **8.6.1 General Market Risk**
+
+A credit default swap does not normally create a position for general market risk for either the protection buyer or protection seller. However, the present value of premium payable / receivable is sensitive to changes in the interest rates. In order to measure the interest rate risk in premium receivable / payable, the present value of the premium can be treated as a notional position in Government securities of relevant maturity. These positions will attract appropriate capital charge for general market risk. The protection buyer / seller will treat the present value of the premium payable / receivable equivalent to a short / long notional position in Government securities of relevant maturity.
+
+# **8.6.2 Specific Risk for Exposure to Reference Entity**
+
+A CDS creates a notional long / short position for specific risk in the reference asset / obligation for protection seller / protection buyer. For calculating specific risk capital charge, the notional amount of the CDS and its maturity should be used. The specific risk capital charge for CDS positions will be as per Tables below.
+
+
+## **Table 18: Specific Risk Capital Charges for bought and sold CDS positions in the Trading Book:**
+
+\* These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed within the main category.
+
+# **Table 19: Specific Risk Capital Charges for bought and sold CDS positions in the Trading Book : Exposures to Commercial Real Estate Companies**
+
+
+# The above table shall be applicable for exposures up to 90 days. Capital charge for exposures to Commercial Real Estate Companies beyond 90 days shall be taken at 9.0%, regardless of rating of the reference / deliverable obligation.
+
+\* These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed within the main category.
+
+## **8.6.2.1 Specific Risk Capital Charges for Positions Hedged by CDS<sup>86</sup>**
+
+(i) Banks may fully offset the specific risk capital charges when the values of two legs (i.e., long and short in CDS positions) always move in the opposite direction and broadly to the same extent. This would be the case when the two legs consist of **completely identical CDS**. In these cases, no specific risk capital requirement applies to both sides of the CDS positions.
+
+(ii) Banks may offset 80 per cent of the specific risk capital charges when the value of two legs (i.e., long and short) always moves in the opposite direction but not broadly to the same extent. This would be the case when a long cash position is hedged by a credit default swap and there is an exact match in terms of the reference / deliverable obligation, and the maturity of both the reference / deliverable obligation and the CDS. In addition, key features of the CDS (e.g., credit event definitions, settlement mechanisms) should not cause the price movement of the CDS to materially deviate from the price movements of the cash position. To the extent that the transaction transfers risk, an 80% specific risk offset will be applied to the side of the transaction with the higher capital charge, while the specific risk requirement on the other side will be zero.
+
+(iii) Banks may offset partially the specific risk capital charges when the value of the two legs (i.e., long and short) usually moves in the opposite direction. This would be the case in the following situations:
+
+(a) The position is captured in paragraph 8.6.2.1(ii) but there is an asset mismatch between the cash position and the CDS. However, the underlying asset is included in the (reference / deliverable) obligations in the CDS documentation and meets the requirements in paragraph 5.17.1.3(i) above.
+
+<sup>86</sup> Please refer to paragraph 6.2 of Annex 7 of this Master Circular for details.
+
+(b) The position is captured in paragraph 8.6.2.1(ii) but there is maturity mismatch between credit protection and the underlying asset. However, the underlying asset is in

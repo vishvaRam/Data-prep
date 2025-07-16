@@ -1,0 +1,51 @@
+ features of SRs**
+
+(a) SRs cannot be strictly characterized as debt instruments since they combine the features of both equity and debt. However, these are recognized as securities under Securities Contracts (Regulation) Act, 1956.
+
+(b) The cash flows from the underlying assets cannot be predicted in terms of value and intervals.
+
+(c) These instruments when rated would generally be below investment grade. These instruments are privately placed.
+
+### **(vi) Rating/ Grading of SRs**
+
+[47](#page-4-1)(a) Every ARC shall obtain initial rating/ grading of SRs from a [48](#page-4-0)[SEBI registered] CRA within a period of six months from the date of acquisition of
+
+<span id="page-4-1"></span><span id="page-4-0"></span> <sup>46</sup> Inserted vide [Guidelines DNBS \(PD\) CC.No.6/SCRC/10.30.049/2006-2007 dated May 28, 2007](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3557&Mode=0)
+
+assets and declare forthwith, the NAV of the SRs issued by it. Thereafter, ARCs will get the rating/ grading of SRs reviewed from a registered CRA as on June 30, and December 31 every year and declare the NAV of SRs forthwith, to enable the QBs to value their investment in SRs. For arriving at NAV, ARC shall get the SRs rated on 'recovery rating scale' and require the rating agencies to disclose the rationale for rating.
+
+(b) The rating/ grading should be based on 'recovery risk' as against 'default' which is the basis for rating assignments in normal assets, i.e. how much more can be recovered instead of timely payment. Rating should reflect present value of the anticipated recoverability of future cash flows.
+
+(c) The ratings will be assigned on a specifically developed rating scale called "Recovery Rating (RR) scale". Each rating category in the recovery scale will have an associate range of recovery, expressed in percentage terms, which can be used for arriving at NAV of SRs. Symbols should be assigned by rating agencies to the associated range of recovery, which would inter-se not deviate by a specified percentage points, say (+/ -) 10%. The rating would be indicative.
+
+(d) The Recovery Rating should be assessed after factoring in any other relevant obligation and not on the original debt obligation.
+
+(e) The other key factors that should be factored in while assigning Recovery Rating are extent of debt acquired, composition of lenders, collaterals available, security and seniority of debt, individual lender vis-à-vis institutional lender, estimated cash flows, uncertainty in realising expected cash flows in initial period, management, business risk, financial risk, etc.
+
+(f) The Recovery Rating should reflect changes like change in resolution strategy of the ARC that take place from time to time.
+
+(g) The Recovery Rating will factor in likely cash flows from the underlying impaired assets till the maturity of the SRs.
+
+(h) The Recovery Rating should comprise of rating of not only the SRs of the scheme as a whole but wherever feasible a desegregation of each component
+
+ <sup>47</sup> Inserted vide [Notification No.DNBS\(PD-SC/RC\) No.11/PCGM \(KKV\)/-2014 dated August 05, 2014](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=9154&fn=14&Mode=0#S1)
+
+<sup>48</sup> Inserted vide [Guidelines DNBS \(PD\) CC.No.6/SCRC/10.30.049/2006-2007 dated May 28, 2007](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3557&Mode=0)
+
+in the scheme, which means the underlying assets of each entity in the scheme forming the basket should also be rated.
+
+(i) The Rating Agency should disclose the rationale for rating on request.
+
+## **(vii) Methodology for valuation of SRs for declaration of NAV**
+
+Each rating category in the recovery scale will have an associate **range** of recovery, expressed in percentage terms, which can be used for computing NAV of SRs. The NAV should be restricted within the recovery range associated with the rating assigned to the SRs. The ARC based on its recovery experience should choose a particular percentage within the recovery range indicated by the Rating Agency. The Recovery Rating percentage so picked by the ARC multiplied by the face value of the SR will give the NAV. The ARC should provide the rationale for selection of the particular percentage of Recovery Rating. For example, if range is between 81% - 90%, ARC may pick up 87% based on its judgement. The face value of say Rs 10 multiplied by the recovery percentage i.e. 87% would give the NAV as Rs 8.70].
+
+--------------------------------------------------------------------------------------------------------------
+
+37
+
+## **List of Notifications Issued**
+
+- 1. [Notification No.DNBS.1/CGM\(CSM\)/2003 dated March 7, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1144&Mode=0)
+- 2. [Notification No.DNBS.2/CGM\(CSM\)-2003, dated April 23, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1145&Mode=0)
+- 3. [Notification No.DNBS.3/CGM\(OPA\)/2003 dated August 28, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13

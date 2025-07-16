@@ -1,0 +1,44 @@
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+![](_page_0_Picture_4.jpeg)
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2022-23/111 DOR.CRE.REC.66/21.07.001/2022-23 September 02, 2022
+
+All Commercial Banks, Primary (Urban) Co-operative Banks, State Co-operative Banks, District Central Co-operative Banks; and Non-Banking Financial Companies (including Housing Finance Companies)
+
+Madam/ Sir,
+
+# **Guidelines on Digital Lending**
+
+A reference is invited to para 7 of the [RBI Press Release "Recommendations of the](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=54187)  Working Group on Digital Lending – Implementation" dated August 10, 2022. Detailed guidelines on recommendations of the Working Group accepted for immediate implementation are attached as Annex I to this circular.
+
+2. It is reiterated that outsourcing arrangements entered by Regulated Entities (REs) with a Lending Service Provider (LSP)/ Digital Lending App (DLA) does not diminish the REs' obligations and they shall continue to conform to the extant guidelines on outsourcing[1.](#page-0-0) The REs are advised to ensure that the LSPs engaged by them and the DLAs (either of the RE or of the LSP engaged by the RE) comply with the guidelines contained in this circular. Wit[hd](#page--1-0)ra[wn](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=54187)
+
+3. It is further advised that the instructions contained in this circular shall be applicable to the 'existing customers availing fresh loans' and to 'new customers getting onboarded',
+
+<span id="page-0-0"></span><sup>1</sup> Para 2.6 of the [Master Circular on "Loans and Advances – Statutory and Other restrictions" dated July 01, 2015;](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9902) Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks issued *vide* [Circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3148&Mode=0)  [dated November 03, 2006](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3148&Mode=0) as amended from time to time; Para 120 and 120 A of ["Master Direction - Non-Banking](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)  [Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company \(Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)  [Bank\) Directions, 2016" dated September 01, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) as amended from time to time; Para 106 and 106A of the ['Master](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10585)  [Direction - Non-Banking Financial Company – Non-Systemically Important Non-Deposit taking Company \(Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10585)  [Bank\) Directions, 2016' both dated September 01, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10585) as amended from time to time; ['Guidelines for Managing Risk](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12123&Mode=0)  [in Outsourcing of Financial Services by Co-operative Banks', dated June 28, 2021;](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12123&Mode=0) [Circular on 'Outsourcing of Financial](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0)  [Services - Responsibilities of regulated entities employing Recovery Agents' dated August 12, 2022,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0) and other related instructions issued by the Reserve Bank from time to time.
+
+from the date of this circular. However, in order to ensure a smooth transition, REs shall be given time till November 30, 2022, to put in place adequate systems and processes to ensure that 'existing digital loans' (sanctioned as on the date of the circular) are also in compliance with these guidelines in both letter and spirit.
+
+4. These directions are issued under sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, sections 30A and 32 of the National Housing Bank Act, 1987, section 6 of the Factoring Regulation Act, 2011 and section 11 of the Credit Information Companies (Regulation) Act, 2005.
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+Withdrawn
+
+## **Guidelines on Digital Lending**
+
+- **1. Scope of Application:** These guidelines are applicable to digital lending extended by:
+	- **1.1.** All Commercial Banks,
+	- **1.2.** Primary (Urban) Co-operative Banks, State Co-operative Banks, District Central Co-operative Banks; and
+	- **1.3.** Non-Banking Financial Companies (including Housing Finance Companies)
+
+## **2. Definitions**
+
+- **2.1. Annual Percentage Rate (APR)**: APR is the effective annualised rate charged to the borrower of a digital loan. APR shall be based on an all-inclusive cost and margin including cost of funds, credit cost and operating cost, processing fee, veri

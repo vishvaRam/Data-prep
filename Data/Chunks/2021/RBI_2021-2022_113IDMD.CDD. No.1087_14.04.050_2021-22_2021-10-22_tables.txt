@@ -1,0 +1,7 @@
+| S.No. | Tranche             | Date of Subscription          | Date of Issuance  |
+|-------|---------------------|-------------------------------|-------------------|
+| 1.    | 2021-22 Series VII  | October 25–29, 2021           | November 02, 2021 |
+| 2.    | 2021-22 Series VIII | November 29-December 03, 2021 | December 07, 2021 |
+| 3.    | 2021-22 Series IX   | January 10-14, 2022           | January 18, 2022  |
+| 4.    | 2021-22 Series X    | February 28-March 04, 2022    | March 08, 2022    |
+

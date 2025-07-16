@@ -1,0 +1,80 @@
+General Manager
+
+Encl: As above
+
+<span id="page-2-0"></span> <sup>1</sup> *Capital funds shall be as per audited data* 
+
+![](_page_3_Picture_0.jpeg)
+
+#### **Annex- I**
+
+### **Guidelines on issuance of Preference Shares**
+
+### **A. Perpetual Non-Cumulative Preference Shares (PNCPS) eligible for inclusion in Tier-I capital**
+
+RCBs are permitted to issue Perpetual Non-Cumulative Preference Shares (PNCPS) at face value to their members or any other person residing within their area of operation, with the prior approval of Reserve Bank of India (RBI). The RCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum, to the concerned Regional Office of the RBI. A certificate from a Chartered Accountant to the effect that the terms of the offer document are in compliance with these instructions shall also be submitted along with the application. The amounts raised through PNCPS shall comply with the following terms and conditions to qualify for inclusion as Tier-I capital.
+
+### **2. Terms of Issue**
+
+# **2.1 Limits**
+
+The outstanding amount of PNCPS and Perpetual Debt Instruments (PDI) along with outstanding Innovative Perpetual Debt Instruments (IPDI) shall not exceed 35 per cent of total Tier-I capital at any point of time. The above limit will be based on the amount of Tier-I capital after deduction of goodwill and other intangible assets, but before deduction of equity investment in subsidiaries, if any. PNCPS issued in excess of the overall ceiling of 35 per cent, shall be eligible for inclusion under Upper Tier-II capital, subject to limits prescribed for Tier-II capital. However, investors' rights and obligations would remain unchanged.
+
+### **2.2 Amount**
+
+The amount of PNCPS to be raised shall be decided by the Board of Directors of banks.
+
+### **2.3 Maturity**
+
+The PNCPS shall be perpetual.
+
+#### **2.4 Options**
+
+- a. PNCPS shall not be issued with a 'put option' or 'step up option'.
+- b. PNCPS may be issued with a call option, subject to following conditions:
+	- i. The call option on the instrument is permissible after the instrument has run for at least ten years; and
+	- ii. Call option shall be exercised only with the prior approval of Department of Regulation (DoR), RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+![](_page_4_Picture_0.jpeg)
+
+### **2.5 Classification in the Balance Sheet**
+
+These instruments shall be classified as 'Capital' and shown separately in the Balance Sheet.
+
+# **2.6 Dividend**
+
+The rate of dividend payable to the investors will be a fixed rate or a floating rate referenced to a market determined rupee interest benchmark rate.
+
+# **2.7 Payment of Dividend**
+
+2.7.1 The payment of dividend by the bank shall be subject to availability of distributable surplus out of current year's profits, and if:
+
+- i. the CRAR is above the minimum regulatory requirement prescribed by RBI
+- ii. the impact of such payment does not result in bank's CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI
+- iii. the balance sheet as at the end of the previous year does not show any accumulated loss
+
+2.7.2 The dividend shall not be cumulative, i.e. dividend missed in a year shall not be paid in subsequent years even if adequate profit is available and the level of CRAR conforms to the regulatory minimum. When dividend is paid at a rate lesser than the prescribed rate, the unpaid amount will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+
+2.7.3 All instances of non-payment of dividend / payment of dividend at a rate less than that specified should be reported by the issuing RCB to the concerned Regional Office (RO) of NABARD and DoS, RBI.
+
+#### **2.8 Seniority of Claim**
+
+The claims of the investors in PNCPS shall be senior to the claims of investors in equity shares and subordinated to the claims of all other creditors and the depositors.
+
+### **2.9 Voting Rights**
+
+The investors in PNCPS shall not be eligible for any voting rights.
+
+#### **2.10 Discount**
+
+The PNCPS shall not be subjected to a progressive discount for capital adequacy purposes since these are perpetual.
+
+#### **2.11 Other Conditions**
+
+2.11.1 PNCPS shall be fully paid-up, unsecured, and free of any restrictive clauses.
+
+![](_page_0_Picture_0.jpeg)
+
+2.11.2 RCBs shall also comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the PNCPS, provided they are not in conflict with the terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier I capital.
+
+## *

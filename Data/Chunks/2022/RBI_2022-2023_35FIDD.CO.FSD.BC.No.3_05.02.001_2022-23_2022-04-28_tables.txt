@@ -1,0 +1,4 @@
+| Financial<br>Year | Lending rate to farmers | Rate for Interest<br>Subvention |
+|-------------------|-------------------------|---------------------------------|
+| 2021-22           | 7%                      | 2%                              |
+

@@ -1,0 +1,37 @@
+year should be treated as the aggregate upper contract limit for each of the approved brokers.
+- 6.3.3 This limit should cover both the business initiated by the bank and the business offered/brought to the bank by a broker.
+- 6.3.4 It should be ensured that the transactions entered through individual brokers during a year normally do not exceed the prescribed limit. However, if it becomes necessary to exceed the aggregate limit for any broker, the specific reasons, therefore, should be recorded in writing by the authority empowered to put through the deals. In such cases, postfacto approval of the Board may be obtained after explaining the circumstances under which the limit was exceeded.
+
+Note: Clarifications on certain issues raised by the banks in this regard are furnished in **[Annex I](#page--1-0)**.
+
+# **7 SETTLEMENT OF GOVERNMENT SECURITIES TRANSACTIONS – THROUGH CLEARING CORPORATION OF INDIA LTD***.* **(CCIL)**
+
+7.1 All Government Securities transactions (both Outright and Repo) are being settled through CCIL only.
+
+7.2 UCBs, which are not a member of NDS-CCIL system, should undertake their transactions in Government Securities through gilt account/demat account maintained with a NDS member.
+
+7.3 All outright secondary market transactions in Government Securities will be settled on T+1 basis. However, in case of repo transactions in Government Securities, the market participants will have the choice of settling the first leg on either T+0 basis or T+1 basis as per their requirement.
+
+# **8 TRADING OF GOVERNMENT SECURITIES ON STOCK EXCHANGES**
+
+8.1 The facility of trading of Government Securities on the stock exchanges, in the
+
+dematerialized mode only, is available to banks in addition to the present NDS-OM of the Reserve Bank, which will continue to remain in place.
+
+8.2 The UCBs have the option to undertake transactions in dated Government of India securities in dematerialised form on automated order driven system of NSE and BSE in addition to the existing mode of dealing through SGL/CSGL accounts with Reserve Bank or gilt accounts with the designated entities such as Scheduled Commercial Bank/PD/State Co-operative Bank etc.
+
+8.3 As the trading facility on the above stock exchanges will operate parallel to the present system of trading in Government Securities, the trades concluded on the exchanges will be cleared by their respective clearing corporations/Clearing Houses. However, trading members of the stock exchanges shall not be involved in the settlement process for any regulated entity of Reserve Bank. All stock exchange trades of banks have to be settled either directly with CCIL/Clearing House (in case they are clearing members) or else through a clearing member custodian.
+
+8.4 With a view to facilitating participation on the stock exchanges within the regulations prescribed by Reserve Bank, SEBI and the exchanges, banks are being extended the following facilities:
+
+- 8.4.1 Opening demat accounts with a bank depository participant (DP) of NSDL/CDSL or with SHCIL in addition to their SGL/CSGL accounts with Reserve Bank/authorised entities.
+- 8.4.2 Value free transfer of securities between SGL/CSGL and demat accounts is being enabled at PDO, Mumbai, subject to operational guidelines issued separately by Internal Debt Management Department to all SGL / CSGL account holders.
+
+8.5 The balances in Government Securities maintained by the banks in the depositories will be included for SLR purpose. Any shortfall in maintenance of CRR/SLR resulting from settlement failure (on either the NDS-CCIL market or the stock exchanges) will attract the usual penalties.
+
+8.6 The Boards of UCBs may take a conscious decision in regard to using the stock exchange platform for making investments in Government Securities in addition to the existing NDS-CCIL market and the direct bidding facility. As regulations of SEBI will also apply insofar as trading of Government Securities is concerned, the Board should frame and implement a suitable policy to ensure that operations are conducted in accordance with the norms laid down by Reserve Bank/SEBI and the respective stock exchange. Prior to commencing operations, the dealing officials should also familiarize themselves with the basic operating procedures of the stock exchanges.
+
+#### 8.7 **Operational Guidelines**
+
+- 8.7.1 Banks should put in place appropriate internal control systems catering to stock exchange trading and settlement before commencing operations on the exchanges. The back-office arrangement should be such that trading on the NDS-OM/OTC market and on the stock exchanges can be tracked easily for settlement, reconciliation and management reporting. Banks should, therefore, install enabling IT infrastructure and adequate risk management systems.
+- 8.7.2 Only SEBI registered brokers who are authorized by the permitted exchanges (NSE/BSE) to undertake transactions in Government Securities can be used for placing buy/sell orders. A valid contract note indica

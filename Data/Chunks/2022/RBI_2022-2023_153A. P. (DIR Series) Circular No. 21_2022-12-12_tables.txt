@@ -1,0 +1,13 @@
+| Commodity | Exposure<br>(Quantity) |          | Hedges Booked<br>(Quantity) |           | Gross<br>Outflow | Gross<br>Inflow  |
+|-----------|------------------------|----------|-----------------------------|-----------|------------------|------------------|
+|           | Direct                 | Indirect | OTC                         | Exchanges | (USD<br>Million) | (USD<br>Million) |
+|           |                        |          |                             |           |                  |                  |
+
+| SBLCs outstanding | Guarantees outstanding |  |  |
+|-------------------|------------------------|--|--|
+| (USD Million)     | (USD Million)          |  |  |
+|                   |                        |  |  |
+
+| Date | Customer | SBLC / Guarantee Amount<br>invoked<br>(USD Million) |
+|------|----------|-----------------------------------------------------|
+|      |          |                                                     |

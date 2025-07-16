@@ -1,0 +1,45 @@
+ same meaning as defined in Section 45U (c) of RBI Act, 1934; and for the purpose of this regulation excludes repo conducted under the Liquidity Adjustment Facility and the Marginal Standing Facility.
+- vi. 'Retention Period' shall mean the time period that an FPI voluntarily commits for retaining the CPS in India.
+- vii. 'Reverse Repo' shall have the same meaning as defined in Section 45U (d) of RBI Act, 1934; and for the purpose of this regulation excludes reverse repo conducted under the Liquidity Adjustment Facility and the Marginal Standing Facility.
+
+![](_page_3_Picture_0.jpeg)
+
+- viii. 'VRR-Corp' shall mean Voluntary Retention Route for FPI investment in Corporate Debt Instruments.
+- ix. 'VRR-Govt' shall mean Voluntary Retention Route for FPI investment in Government Securities.
+- x. 'VRR-Combined' shall mean Voluntary Retention Route for FPI investment in instruments eligible under both VRR-Govt and VRR-Corp.
+
+### **3. Eligible investors**
+
+Any FPI registered with SEBI is eligible to participate through this Route. Participation through this Route shall be voluntary.
+
+## **4. Eligible instruments**
+
+- a. Under VRR-Govt, FPIs will be eligible to invest in any Government Securities i.e., Central Government dated Securities (G-Secs), Treasury Bills (T-bills) as well as State Development Loans (SDLs). Under VRR-Corp, FPIs may invest in any instrument listed under Schedule 1 to Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified, vide, [Notification No. FEMA. 396/2019-RB dated October 17, 2019,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12099&Mode=0) other than those specified at 1A(a) and 1A(d) of that schedule. However, investments in Exchange Traded Funds investing only in debt instruments shall be permitted.
+- b. Repo transactions, and reverse repo transactions.
+
+#### **5. Features**
+
+- a. Investment through this Route shall be in addition to the General Investment Limit. Investment under this route shall be capped at ₹2,50,000 crore or higher, which amount shall be allocated among VRR-Govt, VRR-Corp, and VRR-Combined as may be decided by the Reserve Bank from time to time. The investment limit shall be released in one or more tranches.
+- b. Allocation of investment amount to FPIs under this Route shall be made on tap or through auctions. Details of the auction mechanism are given in *[Appendix](#page--1-0)*.
+- c. The mode of allotment, allocation to VRR-Govt, VRR-Corp and VRR-Combined categories and the minimum retention period shall be announced by the Reserve Bank ahead of allotment.
+
+![](_page_4_Picture_0.jpeg)
+
+- d. No FPI (including its related FPIs) shall be allotted an investment limit greater than 50% of the amount offered for each allotment by tap or auction in case there is a demand for more than 100% of amount offered.
+- e. The minimum retention period shall be three years, or as decided by RBI for each allotment by tap or auction.
+- f. FPIs shall invest the amount allocated, called the Committed Portfolio Size (CPS) in the relevant debt instruments and remain invested at all times during the voluntary retention period, subject to the following relaxations:
+	- i. The minimum investment of an FPI during the retention period shall be 75% of the CPS (The flexibility for modulating investments between 75%-100% of CPS is intended to enable FPIs to adjust their portfolio size as per their investment philosophy).
+	- ii. The required investment amount shall be adhered to on an end-of-day basis. For this purpose, investment shall include cash holdings in the Rupee accounts used for this Route.
+	- iii. FPIs may, at their discretion, transfer their investments made under the General Investment Limit, if any, to the VRR scheme.
+- g. Amounts of investment shall be reckoned in terms of the face value of securities.
+
+## **6. Management of portfolio**
+
+- a. Successful allottees shall invest at least 75% of their CPS within three months from the date of allotment. The retention period will commence from the date of allotment of limit.
+- b. Prior to the end of the committed retention period, an FPI, if it so desires, may opt to continue investments under this Route for an additional identical retention period. In that case, it shall convey this decision to its custodian.
+- c. In case an FPI decides not to continue under VRR at the end of the retention period, it may: (a) liquidate its portfolio and exit, or (b) shift its investments to the 'General Investment Limit', subject to availability of limit under the 'General Investment Limit', or (c) hold its investments until its date of maturity or until it is sold, whichever is earlier.
+- d. FPIs that wish to exit their investments, fully or partly, under the Route prior to the end of the retention period may do so by selling their investments to another FPI or FPIs.
+
+![](_page_0_Picture_0.jpeg)
+
+However, the FPI (or FPIs) buying such investment shall abide by all the terms and conditions applicable to the selling FPI under 

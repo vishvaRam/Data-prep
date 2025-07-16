@@ -1,0 +1,6 @@
+| Sr. | Tranche           | Subscription<br>Period | Date of Issuance |
+|-----|-------------------|------------------------|------------------|
+| No. |                   |                        |                  |
+| 1.  | 2022-23 Series I  | June 20-24, 2022       | June 28, 2022    |
+| 2.  | 2022-23 Series II | August 22-26, 2022     | August 30, 2022  |
+

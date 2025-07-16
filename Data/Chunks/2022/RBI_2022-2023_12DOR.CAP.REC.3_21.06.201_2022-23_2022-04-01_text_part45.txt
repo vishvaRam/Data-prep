@@ -1,0 +1,49 @@
+iven by ECGC for export credit exposures of the banks ranges between 50% and 75% for pre-shipment credit and 50% to 85% in case of post-shipment credit. However, the ECGC's total liability on account of default by the exporters is capped by an amount specified as Maximum Liability (ML). In this context, it is clarified that risk weight (as given in para 5.2.3 of this Master Circular) applicable to the claims on ECGC should be capped to the ML amount specified in the whole turnover policy of the ECGC. The banks are required to proportionately distribute the ECGC maximum liability amount to all individual export credits that are covered by the ECGC Policy. For the covered portion of individual export credits, the banks shall apply the risk weight applicable to claims on ECGC. For the remaining portion of individual export credit, the banks shall apply the
+
+<sup>81</sup> DBOD Mailbox Clarification dated October 18, 2013.
+
+risk weight as per the rating of the counter-party. The Risk Weighted Assets computation can be mathematically represented as under:
+
+
+#### **7.6 Maturity Mismatch**
+
+7.6.1 For the purpose of calculating risk-weighted assets, a maturity mismatch occurs when the residual maturity of collateral is less than that of the underlying exposure. Where there is a maturity mismatch and the CRM has an original maturity of less than one year, the CRM is not recognised for capital purposes. In other cases where there is a maturity mismatch, partial recognition is given to the CRM for regulatory capital purposes as detailed below in paragraphs 7.6.2 to 7.6.4. In case of loans collateralised by the bank's own deposits, even if the tenor of such deposits is less than three months or deposits have maturity mismatch vis-à-vis the tenor of the loan, the provisions of paragraph 7.6.1 regarding derecognition of collateral would not be attracted provided an explicit consent of the depositor has been obtained from the depositor (i.e. borrower) for adjusting the maturity proceeds of such deposits against the outstanding loan or for renewal of such deposits till the full repayment of the underlying loan.
+
+### 7.6.2 Definition of Maturity
+
+The maturity of the underlying exposure and the maturity of the collateral should both be defined conservatively. The effective maturity of the underlying should be gauged as the longest possible remaining time before the counterparty is scheduled to fulfil its obligation, taking into account any applicable grace period. For the collateral, embedded options which may reduce the term of the collateral should be taken into account so that the shortest possible effective maturity is used. The maturity relevant here is the residual maturity.
+
+#### 7.6.3 Risk Weights for Maturity Mismatches
+
+As outlined in paragraph 7.6.1, collateral with maturity mismatches are only recognised when their original maturities are greater than or equal to one year. As a result, the maturity of collateral for exposures with original maturities of less than one year must be matched to be recognised. In all cases, collateral with maturity mismatches will no longer be recognised when they have a residual maturity of three months or less.
+
+7.6.4 When there is a maturity mismatch with recognised credit risk mitigants (collateral, onbalance sheet netting and guarantees) the following adjustment will be applied:
+
+## **Pa = P x ( t- 0.25 ) ÷ ( T- 0.25)**
+
+where:
+
+Pa = value of the credit protection adjusted for maturity mismatch
+
+P = credit protection (e.g. collateral amount, guarantee amount) adjusted for any haircuts
+
+t = min (T, residual maturity of the credit protection arrangement) expressed in years
+
+T = min (5, residual maturity of the exposure) expressed in years
+
+### **7.7 Treatment of pools of CRM Techniques**
+
+In the case where a bank has multiple CRM techniques covering a single exposure (e.g., a bank has both collateral and guarantee partially covering an exposure), the bank will be required to subdivide the exposure into portions covered by each type of CRM technique (e.g., portion covered by collateral, portion covered by guarantee) and the risk-weighted assets of each portion must be calculated separately. When credit protection provided by a single protection provider has differing maturities, they must be subdivided into separate protection as well.
+
+# **8. Capital Charge for Market Risk**
+
+### **8.1 Introduction**
+
+Market risk is defined as the risk of losses in on-balance sheet and off-balance sheet positions arising from movements in market prices. The market risk positions subject to capital charge requirement are:
+
+- (i) The risks pertaining to interest rate related instruments and equities in the trading book; and
+- (ii) Foreign exchange risk (including open position in precious metals) throughout the bank (both banking and trading books).
+
+### **8.2 Scope and Coverage of Capital Charge for Market Risks**
+
+8.2.1 These guidelines seek to address the issues involved in computing capital charge

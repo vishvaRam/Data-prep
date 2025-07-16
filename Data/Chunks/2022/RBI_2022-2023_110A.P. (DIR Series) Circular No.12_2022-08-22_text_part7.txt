@@ -1,0 +1,44 @@
+n India has made a delay in filing/submitting the requisite form/return/document, such person may file/submit the requisite form/return/ document, *etc.* and pay the Late Submission Fee (LSF) through the designated AD bank in accordance with regulation 11 of OI Regulations.
+
+(2) The LSF for delay in reporting of overseas investment related transactions shall be calculated as per the following matrix:
+
+
+### Notes:
+
+- a) "n" is the number of years of delay in submission rounded-upwards to the nearest month and expressed up to 2 decimal points.
+- b) "A*"* is the amount involved in the delayed reporting.
+- c) LSF amount is per return.
+- d) Maximum LSF amount will be limited to 100 per cent of 'A' and will be rounded upwards to the nearest hundred.
+- e) Where an advice has been issued for payment of LSF and such LSF is not paid within 30 days, such advice shall be considered as null and void and any LSF received beyond this period shall not be accepted. If the applicant subsequently approaches for payment of LSF for the same delayed reporting, the date of receipt of such application shall be treated as the reference date for the purpose of calculation of LSF.
+- f) The option of LSF shall be available up to three years from the due date of reporting/submission under OI Regulations. The option of LSF shall also be available for delayed reporting/submissions under the [Notification No. FEMA 120/2004-RB](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=2126&Mode=0) and earlier
+
+corresponding regulations, up to three years from the date of notification of OI Regulations.
+
+g) In case a person resident in India responsible for submitting the evidence of investment or filing any forms/returns/reports, *etc.* as per OI Regulations/earlier corresponding regulations, neither makes such submission/filing within the specified time nor makes such submission/filing along with LSF as provided in regulation 11 of OI Regulations, such person shall be liable for penal action under the provisions of FEMA, 1999.
+
+(3) The LSF may be paid by way of a demand draft drawn in favour of "Reserve Bank of India" and payable at the Regional Office concerned (in accordance with UIN mapping given in the table below).
+
+
+## **19. Restriction on further financial commitment or transfer**
+
+AD bank shall not facilitate any outward remittance/further financial commitment by a person resident in India towards a foreign entity until any delay in reporting is regularised and may be guided by regulation 12 of OI Regulations.
+
+# **20. Restrictions and prohibitions**
+
+(1) AD bank shall not facilitate any transaction in respect of any foreign entity engaged in an activity mentioned in rule 19(1) of OI Rules or located in countries/ jurisdictions as advised by the Central Government under rule 9(2) of OI Rules. It is clarified that financial products linked to Indian Rupee shall include non-deliverable trades involving foreign currency-INR exchange rates, stock indices linked to Indian market, *etc.*
+
+(2) The financial commitment by a person resident in India in a foreign entity that has invested or invests into India at the time of making such financial commitment or at any time thereafter, either directly or indirectly, resulting in a structure with more than two layers of subsidiaries is not permitted in accordance with rule 19(3) of the OI Rules. It is provided that no further layer of subsidiary or subsidiaries shall be added to any structure existing with two or more layers of subsidiaries post notification of the OI Rules/Regulations.
+
+Note: It may be noted that subsidiary shall have the meaning as provided in the OI Rules *i.e.* an entity in which the foreign entity has control (which includes a stake of 10% or more in an entity as per the OI Rules).
+
+## **Part III – Specific provisions**
+
+### **21. Financial commitment by an Indian entity**
+
+An Indian entity, within the overall limit provided in schedule I of the OI Rules and subject to regulation 3 of OI Regulations, may make financial commitment by way of ODI as per schedule I of the OI Rules, financial commitment by way of debt as per regulation 4 of OI Regulations and non-fund based financial commitment as per regulations 5, 6 and 7 of OI Regulations. The following is further provided:
+
+(1) In case of swap of securities both the legs of transaction shall comply with FEMA provisions, as applicable.
+
+(2) In case of investment in foreign entity by a registered Partnership firm, it will be in order for individual partners to hold shares for and on behalf of the firm in the foreign entity if the host country regulations or operational requirements warrant such holdings.
+
+(3) Financial commitment by way of debt [regulation 4 of OI Regulations]- AD bank shall facilitate an outward remittance towards financial commitment by way of debt only after obtaining the necessary agreement/documents for ensuring the bona fides of the transaction. An Indian entity shall not lend directly to its overseas SDS

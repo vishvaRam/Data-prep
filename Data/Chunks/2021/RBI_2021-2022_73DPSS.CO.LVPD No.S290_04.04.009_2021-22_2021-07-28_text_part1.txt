@@ -1,0 +1,48 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2021-22/73 DPSS.CO.LVPD No.S290/04.04.009/2021-22 July 28, 2021
+
+The Chairman / Managing Director / Chief Executive Officer Authorised Non-bank Payment System Providers
+
+Madam / Dear Sir,
+
+# **Access for Non-banks to Centralised Payment Systems**
+
+A reference is invited to Paragraph 9 of the [Statement on Developmental and](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51382)  [Regulatory Policies dated April 07, 2021](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51382) wherein it was announced that the Reserve Bank shall encourage participation of non-banks in Reserve Bank of India-operated Centralised Payment Systems (CPS) viz. Real Time Gross Settlement (RTGS) and National Electronic Fund Transfer (NEFT) systems, in a phased manner. A reference is also invited to the [Master Directions on Access Criteria for Payment Systems](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) dated [January 17, 2017](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) wherein Reserve Bank had prescribed criteria for access to CPS.
+
+2. Direct access for non-banks to CPS lowers the overall risk in the payments ecosystem. It also brings advantages to non-banks like reduction in cost of payments, minimising dependence on banks, reducing the time taken for completing payments, eliminating the uncertainty in finality of the payments as the settlement is carried out in central bank money, etc. The risk of failure or delay in execution of fund transfers can also be avoided when the transactions are directly initiated and processed by the non-bank entities.
+
+3. On a review of extant arrangements and after detailed discussions with Payment System Providers (PSPs), it is advised that, in the first phase, authorised non-bank PSPs, viz. PPI Issuers, Card Networks and White Label ATM Operators shall be eligible to participate in CPS as direct members as per the approach presented in the
+
+[Annexure](#page--1-0) hereto.
+
+भुगतान और िनपटान �णाली िवभाग, क� �ीय कायार्लय, 14वी मंिजल, क� �ीय कायार्लय भवन,शहीद भगत�संह मागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फै क् सFax: (91-22) 22691557; ईमेल-e-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400001
+
+�हंदी आसान है , इसका �योग बढ़ाइए
+
+4. The Master Directions [on Access Criteria for Payment Systems dated January 17,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833)  [2017](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) are also being modified accordingly. For operational and user convenience, Reserve Bank has placed a set of [FAQs](https://www.rbi.org.in/Scripts/FAQView.aspx?Id=144) on the subject on its website.
+
+5. These instructions are issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007) and come into effect from the date of this circular.
+
+Yours faithfully,
+
+(P Vasudevan) Chief General Manager
+
+#### **Annexure to Circular Ref.DPSS.CO.LVPD No.S290/04.04.009/2021-22 dated July 28, 2021**
+
+## **Access for Non-banks to Centralised Payment Systems**
+
+### **Contents**
+
+
+#### **1 Background**
+
+1.1 Centralised Payment Systems (CPS) in India are Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT) systems, both owned and operated by Reserve Bank. As part of its drive to encourage moving towards digital payments, Reserve Bank has been continuously taking measures to improve the payment ecosystem in general, and CPS in particular. The NEFT and RTGS systems were made available 24x7x365 with effect from December 2019 and December 2020 respectively.
+
+1.2 One of the ways to provide impetus to digital payments is to extend the access to payment systems to more entities. This is also engaging the attention of other central banks globally. Reserve Bank's Vision Document on Payment and Settlement Systems 2019-2021 includes review of membership of CPS to enable access neutrality between banks and non-banks and to develop a framework for settlement risk management with increased participation of non-banks. The document also refers to the need for a single national settlement account for all authorised card networks.
+
+1.3 Apart from banks, very few select non-banks have been given approval to participate in CPS so far. The non-banks which are permitted membership / access to CPS are standalone primary dealers, clearing corporations of stock exchanges, central counter parties, retail payment system organisations, select financial institutions (NABARD, EXIM Bank) and DICGC.
+
+1.4 Banks have been providing the services to non-banks for their payment and settlement needs. However, if the bank, which provides payment services to nonbanks, is impacted, it can cause business disruption to the non-banks also. The disruption, even if tempo

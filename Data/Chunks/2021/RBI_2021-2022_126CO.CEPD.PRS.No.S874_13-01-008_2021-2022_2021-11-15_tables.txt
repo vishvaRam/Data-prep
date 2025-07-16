@@ -1,0 +1,21 @@
+| Number of complaints received  | Number of complaints rejected | Number of complaints referred |  |  |
+|--------------------------------|-------------------------------|-------------------------------|--|--|
+| by the NBFC during the quarter | (Partly or Wholly)            | by the NBFC to the IO         |  |  |
+|                                |                               |                               |  |  |
+|                                |                               |                               |  |  |
+
+| Number     | Number      | Number     | Number    | Number<br>of   | Number of decisions of the IO yet |       |       |        |
+|------------|-------------|------------|-----------|----------------|-----------------------------------|-------|-------|--------|
+| of         | of          | of         | of        | decisions of   | to be implemented by the NBFC     |       |       |        |
+| complaint  | complaint   | complaint  | complaint | the<br>IO      | for                               |       |       |        |
+| s referred | s<br>closed | s<br>where | s wherein | implemente     | 1                                 | 2     | 3     | More   |
+| by<br>the  | by the IO   | the        | the       | d<br>by<br>the | mont                              | month | month | than 3 |
+| NBFC<br>to |             | decision   | decision  | NBFC           | h                                 | s     | s     | month  |
+| the<br>IO  |             | of<br>the  | of the IO |                |                                   |       |       | s      |
+| during the |             | NBFC       | was       |                |                                   |       |       |        |
+| year       |             | was<br>not | rejected* |                |                                   |       |       |        |
+|            |             | upheld by  |           |                |                                   |       |       |        |
+|            |             | the IO     |           |                |                                   |       |       |        |
+|            |             |            |           |                |                                   |       |       |        |
+|            |             |            |           |                |                                   |       |       |        |
+

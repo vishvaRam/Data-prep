@@ -1,0 +1,47 @@
+nal and in one leading local vernacular newspaper (covering the place of the registered office of the respective entities).
+- ii. The seller / transferor non-bank PSO shall also inform all stakeholders (agents, bankers, customers, merchants, etc.) of the changes, at least 15 calendar days before effecting the same.
+- 4. The authorised non-bank PSO shall inform DPSS, CO, RBI within 15 calendar days in the following cases –
+	- i. Change in management / directors with complete details, including 'Declaration and Undertaking' [\(Annex-2\)](#page--1-0) by each of the new directors. RBI shall examine the fit and proper status of the management / directors, and, if required, may place suitable restrictions.
+	- ii. Sale / Transfer of payment activity to an entity authorised by RBI for undertaking similar activity. The entities shall issue prior public notice and the seller / transferor non-bank PSO shall also inform all stakeholders at least 15 calendar days before the actual sale / transfer as per the details given in para 3 above (except that prior approval of RBI is not required for the purpose). The instructions mentioned in para 1(b)(v) above, shall be applicable.
+
+5. The above instructions are in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+# **Information to be submitted in case of change in directors**
+
+## **A. Declaration and undertaking by the Director**
+
+(with enclosures as appropriate as on ……………) (To be submitted by non-bank PSO to DPSS, CO, RBI, Mumbai)
+
+Name of applicant company / non-bank PSO:
+
+
+
+- **B.** With regard to list of entities in which the director is considered as being interested (other directorships) and entities in which she / he is considered as holding substantial interest (II-B & II-C of declaration and undertaking by director), following details need to be furnished:
+	- a) Whether the entity is being regulated by any financial regulator i.e. RBI, SEBI, IRDAI or PFRDA; and
+	- b) If yes, registration / license number given by the respective financial regulator along with the PAN number.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+## **Annex-3**
+
+## **Information to be submitted in case of change in shareholding**
+
+- 1) Detailed profile of new shareholders. How the new shareholders will be associated with the non-bank PSO in the payment system? If there is any change in the present payment system, then the same may also be furnished.
+- 2) Have the new shareholders earlier applied for authorisation under Payment and Settlement Systems Act, 2007 (PSS Act) and refused? Or, is any application of the new shareholders under PSS Act currently pending?
+- 3) Previous experience of the new shareholders in the payment systems area. Details of existing operations under tie-up and / or co-branding arrangement with any of the authorised payment system operator.
+- 4) Sources of funds of the proposed shareholders acquiring the shares in the non-bank PSO:
+	- a) Amount of own capital proposed to be deployed;
+	- b) Amount of borrowings expected from banks; and
+	- c) Amount of borrowing expected from sources other than banks (sources may be mentioned).
+- 5) How does the applicant propose to recover its investment and earn an income, that is, whether through cash flows or by levying joining fees, security fees, annual / operating charges, etc. (please give full details)?
+- 6) Proposed shareholding\* pattern, post acquisition / takeover / change in shareholding of the authorised PSO (direct or indirect) shall be provided in the following format:
+
+
+\* Domestic shareholding and foreign shareholding, including public holdings. Investors with shareholding less than 5% may be mentioned as 'others' and cumulative shareholding by 'others' shall be provided. If required, we may ask for more details of the same at a later stage.
+
+- 7) If new shareholders are foreign shareholders, then compliance with [RBI circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12114&Mode=0)  [CO.DPSS.AUTH.No.S190/02.27.005/2021-22 dated June 14, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12114&Mode=0) on 'Investment in Entities from FATF Non-compliant Jurisdictions' shall be ensured and following details shall be furnished:
+	- a) Complete details of foreign shareholding or Foreign Direct Investment (FDI) in the nonbank PSO;
+- b) Copy of the acknowledgement / acceptance / other details from Foreign Exchange Department vis-à-vis prescribed returns and reporting on remittance / fund inflow, share allotment, share valuation, etc.; and
+- c) Details of 'beneficial ownership' in relation to FDI in the company. Detailed profile of the foreign investors and resultant ultimate beneficial owners in the company, interalia, including, country of registration, details of registration, nature of business activity, experience in sector functioning in, 

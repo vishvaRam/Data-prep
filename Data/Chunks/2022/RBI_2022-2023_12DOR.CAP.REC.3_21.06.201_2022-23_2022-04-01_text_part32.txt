@@ -1,0 +1,33 @@
+ Trading Book treatment. Where assets or collateral of a clearing member or client are posted with a QCCP or a clearing member and are not held in a bankruptcy remote manner, the bank posting such assets or collateral must also recognise credit risk based upon the assets or collateral being exposed to risk of loss based on the creditworthiness of the entity<sup>66</sup> holding such assets or collateral.
+- (b) Collateral posted by the clearing member (including cash, securities, other pledged assets, and excess initial or variation margin, also called over-collateralisation), that is held by a custodian<sup>67</sup>, and is bankruptcy remote from the QCCP, is not subject to a capital requirement for counterparty credit risk exposure to such bankruptcy remote custodian.
+- (c) Collateral posted by a client, that is held by a custodian, and is bankruptcy remote from the QCCP, the clearing member and other clients, is not subject to a capital requirement for counterparty credit risk. If the collateral is held at the QCCP on a client's behalf and is not held on a bankruptcy remote basis, a 2% risk weight will be applied to the collateral if the conditions established in paragraph on "client bank exposures to clearing members" of this section are met (mentioned above). A risk weight of 4% will be made applicable if a client is not protected from losses in the case that the clearing member and another
+
+<sup>66</sup> Where the entity holding such assets or collateral is the QCCP, a risk-weight of 2% applies to collateral included in the definition of trade exposures. The relevant risk-weight of the QCCP will apply to assets or collateral posted for other purposes
+
+<sup>67</sup> In this paragraph, the word "custodian" may include a trustee, agent, pledgee, secured creditor or any other person that holds property in a way that does not give such person a beneficial interest in such property and will not result in such property being subject to legally-enforceable claims by such persons, creditors, or to a court-ordered stay of the return of such property, should such person become insolvent or bankrupt.
+
+client of the clearing member jointly default or become jointly insolvent, but all other conditions mentioned in paragraph on "client bank exposures to clearing members" of this section are met.
+
+(d) If a clearing member collects collateral from a client for client cleared trades and this collateral is passed on to the QCCP, the clearing member may recognize this collateral for both the QCCP - clearing member leg and the clearing member - client leg of the client cleared trade. Therefore, initial margins (IMs) as posted by clients to clearing members mitigate the exposure the clearing member has against these clients.
+
+## **(ii) Default Fund Exposures to QCCPs**
+
+- (a) Where a default fund is shared between products or types of business with settlement risk only (e.g., equities and bonds) and products or types of business which give rise to counterparty credit risk i.e., OTC derivatives, exchange traded derivatives or SFTs, all of the default fund contributions will receive the risk weight determined according to the formulae and methodology set forth below, without apportioning to different classes or types of business or products.
+- (b) However, where the default fund contributions from clearing members are segregated by product types and only accessible for specific product types, the capital requirements for those default fund exposures determined according to the formulae and methodology set forth below must be calculated for each specific product giving rise to counterparty credit risk. In case the QCCP's prefunded own resources are shared among product types, the QCCP will have to allocate those funds to each of the calculations, in proportion to the respective product specific exposure i.e., EAD.
+- (c) Clearing member banks are required to capitalise their exposures arising from default fund contributions to a qualifying CCP by applying the following formula:
+	- Clearing member banks may apply a risk-weight of 1250% to their default fund exposures to the qualifying CCP, subject to an overall cap on the risk-weighted assets from all its exposures to the QCCP (i.e., including trade exposures) equal to 20% of the trade exposures to the QCCP. More specifically, the Risk Weighted Assets (RWA) for both bank *i*'s trade and default fund exposures to each QCCP are equal to<sup>68</sup>:
+
+*Min {(2% \* TEi + 1250% \* DFi); (20% \* TEi)}* 
+
+Where;
+
+TEi is bank *i*'s trade exposure to the QCCP; and
+
+DFi is bank *i*'s pre-funded contribution to the QCCP's default fund.
+
+<sup>68</sup> The 2% risk weight on trade exposures does not apply additionally, as it is included in the equation.
+
+## **5.15.3.10 Exposures to Non-qualifying CCPs**
+
+- (a) Banks must apply the Standardised Approach for credit risk according to the category of the counterparty, to their trade exposure to a non-qualifying CCP<sup>69</sup> .
+- (b) Banks mus

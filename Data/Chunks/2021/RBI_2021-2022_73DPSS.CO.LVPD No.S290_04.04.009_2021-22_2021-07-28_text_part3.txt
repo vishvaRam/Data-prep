@@ -1,0 +1,59 @@
+tion (e-Kuber), membership to INFINET, use of SFMS, etc.
+
+### **3.3 Membership Type and Nature of Transactions**
+
+3.3.1 Nature of transactions that can be executed shall depend upon the type of membership approved for RTGS. Based on requirement, some categories of PSPs shall be permitted to participate in NEFT also.
+
+
+3.3.2 The details of access for non-bank PSPs to CPS shall be as under:
+
+3.3.2 Once admitted as members, RTGS and NEFT systems may be used by the nonbank PSPs to execute various types of transactions. A summary of different transaction types and their use-cases is given below:
+
+- i. RTGS / NEFT customer payments initiated by:
+	- a. PPI issuers to merchants / payment aggregators;
+	- b. WLA operators to agencies handling ATMs; and
+	- c. Full-KYC PPI customers to load the PPIs from their bank account.
+- ii. RTGS inter-bank transfers initiated by:
+- a. Non-bank PSPs to maintain sufficient balance in their escrow account with member bank/s based on net debit or credit position; and
+- b. WLA operators and PPI issuers to other member banks / non-banks.
+- iii. Multilateral Net Settlement Batches (MNSB) posted in RTGS by:
+	- a. Card networks for settlements, dispute management, annual fee collections, etc.;
+	- b. Direct credit to WLA operators in NFS settlements; and
+	- c. NPCI allowing settlement of transactions of non-bank PSPs without involving their sponsor bank/s.
+- iv. Own Account Transfer (OAT) between the current and RTGS settlement accounts of the non-bank PSPs to maintain sufficient balances.
+
+3.3.3 Card networks shall not be allowed to use the RBI current account for their settlement guarantee and related activities.
+
+# **4 Operational Aspects**
+
+# **4.1 Process of Applying for Direct Access to CPS by Non-banks**
+
+4.1.1 The detailed process of applying for membership is given in the [Master](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833)  [Directions on Access Criteria for Payment Systems](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) issued vide DPSS.CO. [OD.No.1846/04.04.009/2016-17 dated](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) January 17, 2017.
+
+4.1.2 All applications for membership to CPS shall be submitted to the Chief General Manager, Department of Payment and Settlement Systems (DPSS), Reserve Bank of India (RBI), Central Office (CO), 14th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001.
+
+4.1.3 The application shall be submitted in the format prescribed in Appendix - 1 "Covering letter for membership to Centralised Payment System", of [Master Directions](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833)  [on Access Criteria for Payment Systems,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10833) together with annexures.
+
+4.1.4 Reserve Bank shall endeavour to complete the process of scrutinising the applications, that are complete with all required documents, within 60 days of receipt.
+
+4.1.5 On approval of the application, DPSS, CO shall issue a letter of approval to the non-bank entity with a validity of six months, within which the entity shall ensure participation in CPS. DPSS, CO shall forward the application to RBI, Mumbai Regional Office (MRO), for further processing of RTGS and NEFT membership.
+
+4.1.6 DPSS, MRO shall act as the point of contact for guidance of the non-bank entity.
+
+4.1.7 Non-bank entities shall choose the type of access to the RTGS system, i.e., SFMS member interface, Web service interface or Payment originator module through INFINET, as per their convenience and requirement in consultation with Indian Financial Technology & Allied Services (IFTAS) and Reserve Bank.
+
+4.1.8 Non-bank entities shall approach RBI, MRO for going live in RTGS, NEFT, getting INFINET membership, getting SFMS membership, opening of Current Account (in e-Kuber), opening of Settlement Account in RTGS, for necessary technical support from IFTAS for INFINET connectivity and SFMS integration, etc.
+
+4.1.9 RBI, MRO shall refer the entity to RBI, Primary Data Centre (PDC), Department of Information Technology (DIT), CO for establishing connectivity to RTGS, user acceptance testing, providing sign-off for going live in RTGS, NEFT, etc.
+
+# **4.2 Other Operational Aspects**
+
+4.2.1 RTGS Settlement Account shall be funded from Current Account at start of the day for an approved amount and balance, if any, in RTGS Settlement Account at end of the day, shall be transferred back to the Current Account.
+
+4.2.2 Non-bank entities shall transfer funds from their Current Account to RTGS Settlement Account and vice versa during the operating hours. Non-bank entities shall monitor both their accounts continuously throughout the day. Any disruption in settlements due to insufficient balance in their accounts shall be viewed seriously and attract stringent regulatory / supervisory action, including levy of penalty, suspension / termination of CPS membership, etc.
+
+4.2.3 Non-bank PPI issuers shall transfer funds from their escrow account/s with scheduled commercial bank/s to Current Account with RBI and from Current Account with RBI to the escrow account/s for operational purposes. The balances in Current Account with the Reserve Bank shall not be reckoned for the purpose of maintenance of daily balance in escrow accounts.
+
+4.2.4 For any issue that arises during the course of membership of the non-bank entities, the decision of Reserve Bank shall be final and binding.
+
+4.2.5 Reserve Bank shall review the access type and membership criteria of non-bank entities for further streamlining as and where necessary.

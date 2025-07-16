@@ -1,0 +1,33 @@
+. Clarification on certain frequently asked questions is given at [Annex 4.](#page--1-0)
+
+
+
+
+
+
+
+### **(Clarification on certain frequently asked questions)** (vide para 7)
+
+### **1. Whether a working capital account will become an NPA if the stock statements are not submitted regularly? What should be the period for which the stock statements can be in arrears before the account is treated as an NPA?**
+
+Banks should ensure that drawings in the working capital accounts are covered by the adequacy of current assets, since current assets are first appropriated in times of distress. Considering the practical difficulties of large borrowers, stock statements relied upon by the banks for determining drawing power should not be older than three months. The outstanding in the account based on drawing power calculated from stock statements older than three months would be deemed as irregular. A working capital borrowal account will become NPA if such irregular drawings are permitted in the account for a continuous period of 90 days.
+
+## **2. Whether an account will become an NPA if the review / renewal of regular / ad-hoc credit limits are not done when due? What should be periodicity of review / renewal to decide the present status of an account?**
+
+Banks shall adhere to the instructions contained in th[e Master Circular for Urban Cooperative Banks \(UCBs\)](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9880)  [on Management of Advances –](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9880) UCBs dated July 1, 2015, as updated from time to time, regarding the requirement of policy for periodic review of the working capital limits. Further, banks shall also adhere to the instructions issued vide [circular DoS.CO.PPG.BC.1/11.01.005/2020-21 dated August 21, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11952&Mode=0) on 'Adhoc/Short Review/Renewal of Credit Facilities', incuding *inter alia* the requirement of a detailed Board approved policy on methodology and periodicity for review/renewal of credit facilities within the overall regulatory guidelines and strict adherence to the same. An account where the regular / ad-hoc credit limits have not been reviewed or have not been renewed within 90 days from the due date / date of ad-hoc sanction will be treated as NPA. In case of constraints such as non-availability of financial statements and other data from the borrowers, the branch should furnish evidence to show that renewal / review of credit limits is already on and would be completed soon.
+
+## **3. Regularisation of the account around the date of balance sheet - Whether it will be in order to treat a borrowal account as 'standard', if it has been irregular for a major part of the year, but has been regularised near the balance sheet date?**
+
+The asset classification of borrowal accounts where a solitary or a few credits are recorded before the balance sheet date should be handled with care and without scope for subjectivity. Where the account indicates inherent weakness on the basis of the data available, the account should be deemed as a NPA. In other genuine cases, the banks must furnish satisfactory evidence to the Statutory Auditors / Inspecting Officers about the manner of regularisation of the account to eliminate doubts on their performing status.
+
+### **4. Classification of NPAs where there is a threat to recovery**
+
+### **How should the instructions on classification of NPAs straightaway as doubtful or a loss asset be interpreted and what can be termed as a 'significant credit impairment'?**
+
+An NPA need not go through the various stages of classification in case of serious credit impairment and such assets should be straightway classified as a doubtful / loss asset as appropriate. Erosion in the value of security can be reckoned as significant when the realizable value of the security is less than 50 per cent of the value assessed by the bank or accepted by RBI at the time of last inspection, as the case may be. Such NPAs may be straightaway classified under doubtful category and provisioning should be made as applicable to doubtful assets.
+
+# **5. Classification of credit facilities under consortium**
+
+**In certain cases of consortium accounts, though the record of recovery in the account with a member bank may suggest that the account is a NPA, the banks submit that, at times, the borrower has deposited adequate funds with the consortium leader / member of the consortium and the bank's share is due for receipt. In such cases, will it be in order for the member bank to classify the account as 'standard' in its books?**
+
+Asset classification of accounts under consortium should be based on the record of recovery of the individual member banks and other aspects having a bearing on the recoverability of the advances. Where the remittances by the borrower under consortium lending arrangements are pooled with one bank and / or where the bank receiving remittances is 

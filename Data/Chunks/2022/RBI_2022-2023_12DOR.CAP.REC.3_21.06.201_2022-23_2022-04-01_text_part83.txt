@@ -1,0 +1,53 @@
+ *Definition and minimum requirement*
+
+16.2.1 The Basel III leverage ratio is defined as the capital measure (the numerator) divided by the exposure measure (the denominator), with this ratio expressed as a percentage.
+
+16.2.2 The minimum Leverage Ratio shall be 4% for Domestic Systemically Important Banks (D-SIBs) and 3.5% for other banks<sup>118</sup>. Both the capital measure and the exposure measure along with Leverage Ratio are to be disclosed on a quarter-end basis. However, banks must meet the minimum Leverage Ratio requirement at all times.
+
+<sup>117</sup> Please refer to Annex 5 of Guidelines on Implementation of Basel III Capital Regulations in India issued vide [circular DBOD.No.BP.BC.98/21.06.201/2011-12 dated May 2, 2012.](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7174&Mode=0)
+
+<sup>118</sup> Please refer to [circular no. DBR.BP.BC.No.49/21.06.201/2018-19 dated June](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11606&Mode=0) 28, 2019 on Basel III Capital Regulations- Implementation of Leverage Ratio.
+
+## *Scope of consolidation*
+
+16.2.3 The Basel III leverage ratio framework follows the same scope of regulatory consolidation as is used for the risk-based capital framework<sup>119</sup> .
+
+16.2.4 *Treatment of investments in the capital of banking, financial, insurance and commercial entities that are outside the regulatory scope of consolidation*: in cases where a banking, financial, insurance or commercial entity is outside the scope of regulatory consolidation, only the investment in the capital of such entities (i.e. only the carrying value of the investment, as opposed to the underlying assets and other exposures of the investee) is to be included in the leverage ratio exposure measure. However, investments in the capital of such entities that are deducted from Tier 1 capital (i.e., either deduction from Common Equity Tier 1 capital or deduction from Additional Tier 1 capital following corresponding deduction approach) as set out in paragraph 4.4 - Regulatory Adjustments / Deductions<sup>120</sup> of this Master Circular may be excluded from the leverage ratio exposure measure.
+
+# **16.3 Capital Measure**
+
+The capital measure for the leverage ratio is the Tier 1 capital of the risk-based capital framework<sup>121</sup>, taking into account various regulatory adjustments / deductions and the transitional arrangements. In other words, the capital measure used for the leverage ratio at any particular point in time is the Tier 1 capital measure applying at that time under the risk-based framework.
+
+## **16.4 Exposure Measure**
+
+## **16.4.1 General Measurement Principles**
+
+(i) The exposure measure for the leverage ratio should generally follow the accounting value, subject to the following:
+
+- on-balance sheet, non-derivative exposures are included in the exposure measure net of specific provisions or accounting valuation adjustments (e.g. accounting credit valuation adjustments, e.g. prudent valuation adjustments for AFS and HFT positions);
+- netting of loans and deposits is not allowed.
+
+(ii) Unless specified differently below, banks must not take account of physical or financial collateral, guarantees or other credit risk mitigation techniques to reduce the exposure measure.
+
+(iii) A bank's total exposure measure is the sum of the following exposures:
+
+<sup>119</sup> Please refer to paragraph 3: Scope of Application of Capital Adequacy Framework. Please also refer to [circulars](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1071&Mode=0)  [DBOD.No.BP.BC.72/21.04.018/2001-02 dated February 25, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1071&Mode=0) an[d DBOD.No.FSD.BC.46/24.01.028/2006-07 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3206&Mode=0)  [December 12, 2006.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3206&Mode=0)
+
+<sup>120</sup> Regulatory adjustments / deductions as indicated in paragraph 4.4.
+
+<sup>121</sup> Tier 1 capital as defined in paragraph 4: Composition of regulatory capital.
+
+- (a) on-balance sheet exposures;
+- (b) derivative exposures;
+- (c) securities financing transaction (SFT) exposures; and
+- (d) off- balance sheet (OBS) items.
+
+The specific treatments for these four main exposure types are defined in paragraphs 16.4.2 to 16.4.5 below.
+
+# **16.4.2 On-balance sheet exposures**
+
+16.4.2.1 Banks must include all balance sheet assets in their exposure measure, including onbalance sheet derivatives collateral and collateral for SFTs, with the exception of on-balance sheet derivative and SFT assets that are covered in paragraph 16.4.3 and 16.4.4 below<sup>122</sup> .
+
+16.4.2.2 However, to ensure consistency, balance sheet assets deducted from Tier 1 capital as set out in paragraph 4.4 - Regulatory Adjustments / Deductions may be deducted from the exposure measure. Following are the two examples:
+
+- Where a banking, financial or insurance entity is not included in the regulatory scope of conso

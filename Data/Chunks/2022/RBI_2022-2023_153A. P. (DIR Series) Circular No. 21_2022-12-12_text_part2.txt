@@ -1,0 +1,42 @@
+or this purpose, a list of acceptable jurisdictions shall be specified by FEDAI.
+
+(iii) Structured products may be permitted to eligible entities who are (a) listed on recognized domestic stock exchanges or (b) fully owned subsidiaries of such entities or (c) unlisted entities whose net worth is higher than INR 200 crore, subject to the condition that such product are used for the purpose of hedging as defined under these directions.
+
+(iv) All payments/receipts related to hedging of exposure to commodity price risk and freight risk shall be routed through a special account with the bank for this purpose.
+
+(v) Banks shall keep on their records full details of all hedge transactions and related remittances made by the entity.
+
+(vi) Banks shall obtain an annual certificate from the statutory auditors of the entity confirming that the hedge transactions and the margin remittances are in line with the exposure of the entity. The statutory auditor shall also comment on the risk management policy of the entity for hedging exposure to commodity price risk and freight risk and the appropriateness of the methodology to arrive at the quantum of these exposures.
+
+(vii) Banks shall undertake immediate corrective action in case of any irregularity or misuse of these Directions. All such cases should be reported to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India.
+
+**8. Standby Letters of Credit (SBLC) / Guarantees**: Banks are permitted to issue Standby Letters of Credit (SBLC) / Guarantees, for a maximum period of one year, on behalf of their clients in lieu of making a remittance of margin money for commodity hedging transactions entered into by their customers. Banks should ensure that these SBLCs / Guarantees are used by their clients for the intended purposes.
+
+**9. Realisation and repatriation of foreign exchange:** Realisation and repatriation of foreign exchange due or accruing to an eligible entity resulting from permitted transactions under this direction shall be guided by the provisions of the Foreign Exchange Management (Realisation, repatriation and surrender of foreign exchange) Regulations, 2015.
+
+**10. Report to Reserve Bank:** Banks shall submit a quarterly report to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India through Extensible Business Reporting Language (XBRL) accessible at <https://xbrl.rbi.org.in/orfsxbrl/> in the format provided in [Annexure I.](#page-4-0) In case of no transactions, a "Nil" report shall be submitted by the bank.
+
+# **11. Repeal**
+
+The following circulars issued by the Reserve Bank stand repealed as on the date on which these Directions come into force:
+
+(i) [A. P. \(DIR Series\) Circular No. 19 dated March 12, 2018](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11226&Mode=0) on Hedging of Commodity Price Risk and Freight Risk in Overseas Markets.
+
+(ii) A. P. [\(DIR Series\) Circular No. 16 dated January 15, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11789&Mode=0) on Hedging of Commodity Price Risk and Freight Risk in Overseas Markets – Amendment.
+
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+## <span id="page-4-0"></span>**Report – Hedging of Commodity Price Risk and Freight Risk in Overseas Markets during the Quarter ending \_\_\_\_\_**
+
+## **Name of the Authorised Dealer:**
+
+**1.**
+
+
+**2. Total outstanding SBLCs / Guarantees issued for hedging of commodity price risk:**
+
+
+**3. SBLCs / Guarantees invoked by the overseas counterparty (Customer wise):**
+

@@ -1,0 +1,47 @@
+ntinue to be reported by the UCBs to the CICs. [Recommendation 8.10 (k)]
+
+**x. Identification Numbers :** In the commercial segment, corporate identification number (CIN) and credit history of the directors of the company (based on DIN number) should be reported by the UCBs to the CICs and included by the CICs in their reports. [Recommendation 8.10 (l)]
+
+**xi. Software for Reporting :** RBI is generally in agreement that there should be only one format for uploading and reverting reject data from the CIC as conversions / reconversions between formats like Excel / TUDF / Notepad, etc., during the process of furnishing data create validation issues. However, the Technical Working Group [please see paragraph 2 (iv) of the circular] of banks, CICs, NBFCs, etc. may further deliberate on this issue and make suitable suggestions, if considered necessary to RBI in this regard. [Recommendation 8.10 (m)]
+
+**xii. Written-off and Settled Status of Accounts :** While reporting their credit data, UCBs should use 'settled' status for denoting only specific situations where due to financial inability to repay as per original terms and conditions, either a principal or an interest waiver or both is provided to the customer. UCBs need to be aware of such a situation prior to extending fresh credit to such a customer. Cases of wrong debits or contested charges should not be reported by UCBs as 'settled' but as 'disputed' as per the new field suggested for inclusion in the data format at Annex 5 of the Report. [Recommendation 8.12 (b)]
+
+**xiii. Major Reasons for Restructuring :** This field in the commercial data format helps in understanding whether the restructuring of loan of the borrower was due to external/extraneous factors such as external environment, general downturn in economy, etc., or company / borrower specific issues such as change in management, performance of promoters, etc. [Recommendation 8.13 (c)]
+
+**xiv. Minimum of One Identifier Field in Data :** Data submitted by UCBs should be populated with at least one of the identifier fields, viz., PAN Card No., Passport No., Driving Licence No., Voter ID Card No., Aadhaar No., Telephone number, etc. [Recommendation 8.15]
+
+## **Best Practices for Urban Cooperative Banks**
+
+Every UCB should take the following best practices into account while formulating or reviewing the policy and procedure under the CICRA with the approval of their Board of Directors:
+
+i. UCBs should ensure that the records submitted to CICs are updated regularly and that no instances of repayment, including that of the last instalment, are left unreported.
+
+ii. Instances of non-updation of repayment information could be avoided by centralising the issue of NOCs and providing information to CICs.
+
+iii. All UCBs should have nodal officers for dealing with CICs.
+
+iv. Customer grievance redressal should be given top priority especially in respect of complaints relating to updation/alteration of credit information.
+
+v. Grievance redressal in respect of credit information should be integrated with the existing systems for grievance redressal. Aspects relating to customer grievances pertaining to credit information may also be an integral part of customer service policy of UCBs.
+
+vi. UCBs should abide by the period stipulated under CICRA and the Rules and Regulations framed hereunder in respect of updation, alteration of credit information, resolving disputes, etc. Procedure prescribed under Rule 20 and 21 of the Credit Information Companies Rules, 2006 in this regard should be adhered to. Deviations from stipulated time limits should be monitored and commented upon in the periodical reports/reviews put up to the Board/Committees of Board on customer service.
+
+vii. Updation of credit information should take place on a monthly basis or at such shorter intervals as may be mutually agreed upon between the UCB and the CIC.
+
+viii. All UCBs should give full customer information to the CICs. For instance, identifier information like PAN No., Aadhaar No., Voters ID Card No., etc., is not provided by UCBs for all records.
+
+ix. UCBs should mandate the usage of CIRs in their credit appraisal process.
+
+x. First time borrowers' loan applications should not be rejected just because they have no credit history.
+
+xi. UCBs and CICs should ensure that the credit records of borrowers are regularly updated by UCBs and that issues such as where repayment of the last instalment of a loan does not get reported does not arise. [Recommendation 8.31]
+
+xii. With a view to decreasing court cases involving UCBs and CICs, complaints need to be addressed by them on an urgent basis. UCBs and CICs should have a structured process of complaint redressal for which a Consumer Protection Committee under the Board should be constituted. [Recommendation 8.34]
+
+[vide paragraph 5.1.3]
+
+# **Credit information reporting in respect of Self Help Group (SHG) members**
+
+## **I. Structure of credit information collection and reporting**
+
+1. The structu

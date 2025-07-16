@@ -1,0 +1,7 @@
+| Name of the erstwhile Regional Rural Banks | Name of new Regional Rural Bank  |
+|--------------------------------------------|----------------------------------|
+| [A]                                        | [B]                              |
+| Baroda Uttar Pradesh Gramin Bank           | Baroda UP Bank, Gorakhpur, Uttar |
+| Kashi Gomti Samyut Gramin Bank             | Pradesh                          |
+| Purvanchal Bank                            |                                  |
+

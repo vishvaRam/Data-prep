@@ -1,0 +1,32 @@
+ otherwise. For example, A2+ or A2- would be considered to be in the A2 rating category and assigned 50 per cent risk weight.
+
+6.5.6 The above risk weight mapping of both long term and short term ratings of the chosen domestic rating agencies would be reviewed annually by the Reserve Bank.
+
+## **6.6 Use of Unsolicited Ratings**
+
+A rating would be treated as solicited only if the issuer of the instrument has requested the credit rating agency for the rating and has accepted the rating assigned by the agency. As a general rule, banks should use only **solicited rating from the chosen credit rating agencies.** No ratings issued by the credit rating agencies on an unsolicited basis should be considered for risk weight calculation as per the Standardised Approach.
+
+## **6.7 Use of Multiple Rating Assessments**
+
+Banks shall be guided by the following in respect of exposures / obligors having multiple ratings from the chosen credit rating agencies chosen by the bank for the purpose of risk weight calculation:
+
+- (i) If there is only one rating by a chosen credit rating agency for a particular claim, that rating would be used to determine the risk weight of the claim.
+- (ii) If there are two ratings accorded by chosen credit rating agencies that map into different risk weights, the higher risk weight should be applied.
+- (iii) If there are three or more ratings accorded by chosen credit rating agencies with different risk weights, the ratings corresponding to the two lowest risk weights should be referred to and the higher of those two risk weights should be applied. i.e., the second lowest risk weight.
+
+### **6.8 Applicability of 'Issue Rating' to issuer/ other claims**
+
+6.8.1 Where a bank invests in a particular issue that has an issue specific rating by a chosen credit rating agency the risk weight of the claim will be based on this assessment. Where the bank's claim is not an investment in a specific assessed issue, the following general principles will apply:
+
+(i) In circumstances where the borrower has a specific assessment for an issued debt but the bank's claim is not an investment in this particular debt - the rating applicable to the specific debt (where the rating maps into a risk weight lower than that which applies to an unrated claim) may be applied to the bank's unassessed claim only if this claim ranks *pari passu* or senior to the specific rated debt in all respects and the
+
+maturity of the unassessed claim is not later than the maturity of the rated claim<sup>75</sup> , except where the rated claim is a short term obligation as specified in paragraph 6.5.2. If not, the rating applicable to the specific debt cannot be used and the unassessed claim will receive the risk weight for unrated claims.
+
+- (ii) In circumstances where the borrower has an issuer assessment, this assessment typically applies to senior unsecured claims on that issuer. Consequently, only senior claims on that issuer will benefit from a high quality issuer assessment. Other unassessed claims of a highly assessed issuer will be treated as unrated. If either the issuer or a single issue has a low quality assessment (mapping into a risk weight equal to or higher than that which applies to unrated claims), an unassessed claim on the same counterparty that ranks pari-passu or is subordinated to either the senior unsecured issuer assessment or the exposure assessment will be assigned the same risk weight as is applicable to the low quality assessment.
+- (iii) Where a bank intends to extend an issuer or an issue specific rating assigned by a chosen credit rating agency to any other exposure which the bank has on the same counterparty and which meets the above criterion, it should be extended to the entire amount of credit risk exposure the bank has with regard to that exposure i.e., both principal and interest.
+- (iv) With a view to avoiding any double counting of credit enhancement factors, no recognition of credit risk mitigation techniques should be taken into account if the credit enhancement is already reflected in the issue specific rating accorded by a chosen credit rating agency relied upon by the bank.
+- (v) Where unrated exposures are risk weighted based on the rating of an equivalent exposure to that borrower, the general rule is that foreign currency ratings would be used only for exposures in foreign currency.
+
+6.8.2 If the conditions indicated in **paragraph 6.8.1** above are not satisfied, the rating applicable to the specific debt cannot be used and the claims on NABARD/SIDBI/NHB<sup>76</sup> on account of deposits placed in lieu of shortfall in achievement of priority sector lending targets/sub-targets shall be risk weighted as applicable for unrated claims, i.e., 100%.
+
+<sup>75</sup>In a case where a short term claim on a counterparty is rated as A1+ and a long term claim on the same counterparty is rated as AAA, then a bank may assign a 30 per cent risk weight to an unrated short term claim and 20 per cent risk weigh

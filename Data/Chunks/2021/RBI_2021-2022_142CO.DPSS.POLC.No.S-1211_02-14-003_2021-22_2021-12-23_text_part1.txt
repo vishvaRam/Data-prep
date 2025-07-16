@@ -1,0 +1,28 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+## RBI/2021-2022/142 CO.DPSS.POLC.No.S-1211/02-14-003/2021-22 December 23, 2021
+
+All Payment System Providers and Payment System Participants
+
+Madam / Dear Sir,
+
+## **Restriction on storage of actual card data [i.e. Card-on-File (CoF)]**
+
+In terms of our [circular DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) on "*Guidelines on Regulation of Payment Aggregators and Payment Gateways*", the authorised nonbank payment aggregators and merchants on-boarded by them were prohibited from storing card data (CoF) from June 30, 2021. At the request of industry stakeholders, this timeline was extended to December 31, 2021 vide circular [CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12050&Mode=0)  [31, 2021.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12050&Mode=0) Further, regulations on CoF Tokenisation (CoFT) were issued vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0) [CO.DPSS.POLC.No.S-516/02-14-003/2021-22 dated September 07, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0) on "*Tokenisation – Card Transactions: Permitting Card-on-File Tokenisation (CoFT) Services*".
+
+- 2. In light of various representations received in this regard, we advise as under:
+	- a) the timeline for storing of CoF data is extended by six months, i.e., till June 30, 2022; post this, such data shall be purged; and
+	- b) in addition to tokenisation, industry stakeholders may devise alternate mechanism(s) to handle any use case (including recurring e-mandates, EMI option, etc.) or posttransaction activity (including chargeback handling, dispute resolution, reward / loyalty programme, etc.) that currently involves / requires storage of CoF data by entities other than card issuers and card networks.
+- 3. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(Sudhanshu Prasad) General Manager (Officer in Charge)
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai -
+
+400001
+
+�हंदी आसान है, इसका �योग बढ़ाइए

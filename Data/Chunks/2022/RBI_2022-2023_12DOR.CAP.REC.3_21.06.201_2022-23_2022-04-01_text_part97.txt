@@ -1,0 +1,34 @@
+tion, including any assumed correlations within risks and between risks and how such correlations have been assessed, including in stressed conditions;
+	- ii. the justification for any credit taken for diversification benefits between legal entities, and the justification for the free movement of capital, if any assumed, between them in times of financial stress;
+- iii. the impact of diversification benefits with management actions excluded. It might be helpful to work out revised ICAAP figures with all correlations set to '1' i.e., no diversification; and similar figures with all correlations set to '0' i.e., assuming all risks are independent i.e., full diversification.
+- As regards the overall assessment, this should describe how the bank has arrived at its overall assessment of the capital it needs taking into account such matters as:
+	- i) the inherent uncertainty in any modelling approach;
+	- ii) weaknesses in the bank's risk management procedures, systems or controls;
+	- iii) the differences between regulatory capital and internal capital; and
+	- iv) the differing purposes that capital serves: shareholder returns, rating objectives for the bank as a whole or for certain debt instruments the bank has issued, avoidance of regulatory intervention, protection against uncertain events, depositor protection, working capital, capital held for strategic acquisitions, etc.
+
+### **VIII. Testing and Adoption of the ICAAP**
+
+This section would describe the extent of challenging and testing that the ICAAP has been subjected to. It would thus include the testing and control processes applied to the ICAAP models and calculations. It should also describe the process of review of the test results by the senior management or the Board and the approval of the results by them. A copy of any relevant report placed before the senior management or the Board of the bank in this regard, along with their response, could be attached to the ICAAP Document sent to the RBI.
+
+Details of the reliance placed on any external service providers or consultants in the testing process, for instance, for generating economic scenarios, could also be detailed here.
+
+In addition, a copy of any report obtained from an external reviewer or internal audit should also be sent to the RBI.
+
+### **IX. Use of the ICAAP within the bank**
+
+This section would contain information to demonstrate the extent to which the concept of capital management is embedded within the bank, including the extent and use of capital modelling or scenario analyses and stress testing within the bank's capital management policy. For instance, use of ICAAP in setting pricing and charges and the level and nature of future business, could be an indicator in this regard.
+
+This section could also include a statement of the bank's actual operating philosophy on capital management and how this fits in to the ICAAP Document submitted. For instance, differences in risk appetite used in preparing the ICAAP Document vis-à-vis that used for business decisions might be discussed.
+
+Lastly, the banks may also furnish the details of any anticipated future refinements envisaged in the ICAAP (highlighting those aspects which are work-in-progress) apart from any other information that the bank believes would be helpful to the RBI in reviewing the ICAAP Document.
+
+## **Minimum Requirements to Ensure Loss Absorbency of Additional Tier 1 Instruments at Pre-specified Trigger and of All Non-equity Regulatory Capital Instruments at the Point of Non-viability<sup>216</sup>**
+
+### **1. INTRODUCTION**
+
+1.1 As indicated in paragraph 4.2.4 of this Master Circular, under Basel III non-common equity elements to be included in Tier 1 capital should absorb losses while the bank remains a going concern. Towards this end, one of the important criteria for Additional Tier 1 instruments is that these instruments should have principal loss absorption through either (i) conversion into common shares or (ii) a write-down mechanism, which allocates losses to the instrument at an objective pre-specified trigger point.
+
+1.2 During the financial crisis a number of distressed banks were rescued by the public sector injecting funds in the form of common equity and other forms of Tier 1 capital. While this had the effect of supporting depositors it also meant that Tier 2 capital instruments (mainly subordinated debt), and in some cases Tier 1 instruments, did not absorb losses incurred by certain large internationally-active banks that would have failed had the public sector not provided support. Therefore, Basel III requires that the terms and conditions of all non-common Tier 1 and Tier 2 capital instruments issued by a bank must have a provision that requires such instruments, at the option of the relevant authority, to either be written off or converted into common equity upon the occurrence of the trigger event.
+
+1.3 Therefore, in order for an instrument issued by a bank to be included in Additional (i.e. non-common)

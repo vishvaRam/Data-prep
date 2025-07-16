@@ -1,0 +1,56 @@
+nsider putting in place arrangements for allowing their customers to access other ATM networks, Mobile ATMs, etc.
+
+## **iii) Currency Management**
+
+Banks / branches affected by natural calamity, if required, may contact other banks maintaining its current accounts or the currency chest branch to which it is linked in order to ensure that supply of currency is maintained to its customers.
+
+## **iv) KYC Norms**
+
+To facilitate opening of new accounts by persons affected by natural calamities especially for availing various relief's given by Government / other agencies, banks may open accounts with -
+
+a) introduction from another account holder who has undergone full KYC procedure, or
+
+b) documents of identity such as Voter's Identity Card or a driving license, identity card issued by an office, company, school, college, etc. along with a document indicating the address such as Electricity Bill, Ration Card etc. or
+
+c) introduction by two neighbors who have the documents as indicated in paragraph (b) above or
+
+d) in the absence of the above, any other evidence to the satisfaction of the bank.
+
+e) The above instructions will be applicable to cases where the balance in the account does not exceed ₹50,000/- or the amount of relief granted (if higher) and the total credit in the account does not exceed ₹1,00,000/- or the amount of relief granted, (if higher) in a year.
+
+## **v) Clearing and Settlement Systems**
+
+To ensure continuity in clearing service, Reserve Bank of India has advised the banks for 'on-city backup centres' in 20 large cities and effective low-cost settlement solution for the remaining cities. The banks in a clearing area could meet with a view to providing flexible clearing services where normal clearing services are disrupted. However, notwithstanding these arrangements, banks may also consider discounting cheques for higher amounts to meet customers' requirement of funds. Banks could also consider waiver fees for EFT, ECS or mail services so as to facilitate inward transfer of funds to accounts of persons affected by a natural calamity
+
+# **25. Applicability of the Guidelines in the case of Trade and Industry**
+
+Instructions on moratorium, maximum repayment period, additional collateral for restructured loans and asset classification in respect of fresh finance will be applicable to all affected restructured borrowal accounts, including accounts of industries and trade, besides agriculture
+
+#### **26. Applicability of the Guidelines in the case of Riots and Disturbances**
+
+Whenever Reserve Bank of India advises the banks to extend rehabilitation assistance to the riot / disturbance affected persons, the aforesaid guidelines may broadly be followed by banks for the purpose. It should, however, be ensured that only genuine persons, duly identified by the State Government agencies as having been affected by the riots, etc., are extended rehabilitation / assistance.
+
+i) With a view to ensuring quick relief to the affected persons, the District Collector, on occurrence of the riot / disturbances, may ask the Lead Bank Officer to convene a meeting of the DCC, if necessary, and submit a report to the DCC on the extent of damage caused to the life and property in the area affected by riots / disturbances. If the DCC is satisfied that there has been extensive loss to life and property, the relief, as per aforesaid guidelines, may be extended to the people affected by riots / disturbances. In certain centres where there are no DCCs, the District Collector may request the Convener SLBC of the State to convene a meeting of the bankers to consider extension of relief to the affected persons. The report submitted by the Collector and the decision thereon of DCC / SLBC may be recorded and should form a part of the minutes of the meeting. A copy of the proceedings of the meeting may be forwarded to the concerned Regional Office of the Reserve Bank of India.
+
+ii) It should be ensured that only genuine persons duly identified by the State Administration, as having been affected by the riots / disturbances are provided the assistance.
+
+**Annex - 3**
+
+**Format - Details of the borrowal accounts which have been classified as doubtful, loss or suit filed with outstanding (both under funded and non-funded) aggregating ₹1.00 Crore and above** [Vide paragraph 5.3.1]
+
+Name of the Bank:
+
+- 1. Name of the Company / Firm
+- 2. Registered address of the Company / Firm:
+- 3. Names of the directors / partners of defaulting company / firm
+- 4. Name of the Branch:
+- 5. Type of facilities and limits sanctioned under each facility:
+- 6. Amount outstanding:
+- 7. Nature and value of securities held in each category:
+- 8. Asset classification of the defaulting account (specify doubtful, loss or suit filed):
+- 9. Date of classifying the account as doubtful / loss / suit filed
+
+## **Format for Reporting of Data on Wilful Default**
+
+[Vide paragraph 5.4.1] a) Input Media: 3.5" floppy disk file b) File Characteristics: ASCII or dbf file
+

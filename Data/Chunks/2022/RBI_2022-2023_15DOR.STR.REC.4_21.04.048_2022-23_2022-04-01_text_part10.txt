@@ -1,0 +1,35 @@
+15.2(iv) and funding of cost overruns complies with the thresholds/conditions stipulated in Paragraph 4.2.15.5, such loans shall be treated as 'restructured standard' and attract a provision of 5 per cent from the date of such restructuring till the commencement of commercial operations or 2 years from the date of restructuring, whichever is later. These loans may be upgraded to 'standard' category once the entire project commences commercial operations.
+
+4.2.15.7.4 In cases where DCCO is extended beyond the periods stipulated in paragraph 4.2.15.2(iii) but up to periods stipulated in paragraph 4.2.15.2(iv) and funding of cost overruns does not comply with the thresholds/conditions stipulated in paragraph 4.2.15.5, such loans will be treated as 'non-performing asset'. These loans may be upgraded to 'standard' category only after the account performs satisfactorily during the 'monitoring period' post DCCO;
+
+4.2.15.7.5 Any changes to the major terms and conditions of the original project loans (i.e. promoters equity contribution, interest rate, etc.) of a borrower with financial difficulties, except what is specifically allowed such as changes in the DCCO, consequential parallel shift in repayment schedule and funding of cost overruns, as permitted within the thresholds, shall be treated as an event of 'restructuring' requiring the accounts to be classified as 'non-performing asset' and provided for accordingly. These loans may be upgraded to 'standard' category only after the account performs satisfactorily during the 'monitoring period' post DCCO.
+
+4.2.15.7.6 Banks may treat need based working capital sanctioned to projects after commencement of commercial operations as 'standard' irrespective of the asset classification category of the project loans, subject to satisfactory performance of such working capital accounts. Banks shall ensure that assessment of working capital loans are strictly need based and banks shall desist from over-financing. If the project loans classified as 'non-performing asset' do not perform satisfactorily during the 'monitoring period' and therefore fail to get upgraded to 'standard' category, then the working capital loans also shall be placed in the same asset classification category as that of project loans on completion of 'monitoring period'.
+
+#### *4.2.15.8 Income recognition*
+
+4.2.15.8.1 Banks may recognise income on accrual basis in respect of the projects under implementation, which are classified as 'standard'.
+
+4.2.15.8.2 Banks should not recognise income on accrual basis in respect of the projects under implementation which are classified as a 'substandard' asset. Banks may recognise income in such accounts only on realisation i.e. on cash basis.
+
+4.2.15.8.3 The regulatory treatment of FITL / debt / equity instruments created by conversion of principal / unpaid interest, as the case may be, shall be as per paragraph 21 of Part B2 of this Master Circular.
+
+## 4.2.16 Post-shipment Supplier's Credit
+
+4.2.16.1 In respect of post-shipment credit extended by the banks covering export of goods to countries for which the Export Credit Guarantee Corporation's (ECGC) cover is available, EXIM Bank has introduced a guarantee-cum-refinance programme whereby, in the event of default, EXIM Bank will pay the guaranteed amount to the bank within a period of 30 days from the day the bank invokes the guarantee after the exporter has filed claim with ECGC.
+
+4.2.16.2 Accordingly, to the extent payment has been received from the EXIM Bank, the advance may not be treated as a non-performing asset for asset classification and provisioning purposes.
+
+#### 4.2.17 Export Project Finance
+
+4.2.17.1 In respect of export project finance, there could be instances where the actual importer has paid the dues to the bank abroad but the bank in turn is unable to remit the amount due to political developments such as war, strife, UN embargo, etc.
+
+4.2.17.2 In such cases, where the lending bank is able to establish through documentary evidence that the importer has cleared the dues in full by depositing the amount in the bank abroad before it turned into NPA in the books of the bank, but the importer's country is not allowing the funds to be remitted due to political or other reasons, the asset classification may be made after a period of one year from the date the amount was deposited by the importer in the bank abroad.
+
+#### 4.2.18 Transfer of Loan Exposures
+
+The asset classification and provisioning requirements in respect of transactions involving transfer of loans shall be as per the Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021.
+
+## 4.2.19 Credit Card Accounts
+
+4.2.19.1 In credit card accounts, the amount spent is billed to the card users through a monthly statement with a definite due date for repayment. Banks give an option to the card users to pay either the full amount or a fraction of it, i.e., minimum amount due, on the due date and roll-over the balance amount to the subs

@@ -1,0 +1,43 @@
+the Route.
+
+e. Any violation by FPIs shall be subjected to regulatory action as determined by SEBI. FPIs are permitted, with the approval of the custodian, to regularize minor violations immediately upon notice, and in any case, within five working days of the violation. Custodians shall report all non-minor violations as well as minor violations that have not been regularised to SEBI.
+
+## **7. Other relaxations**
+
+- a. Investments made through the Route shall not be subject to any minimum residual maturity requirement, concentration limit or single/group investor-wise limits applicable to corporate bonds as specified in paragraphs 4(b), (e) and (f) respectively of [A.P.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11303&Mode=0)  [\(DIR Series\) Circular No. 31 dated June 15, 2018.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11303&Mode=0)
+- b. Income from investments through the Route may be reinvested at the discretion of the FPI. Such investments will be permitted even in excess of the CPS.
+
+## **8. Access to other facilities**
+
+- a. FPIs investing through the Route will be eligible to participate in repos for their cash management, provided that the amount borrowed or lent under repo shall not exceed 10% of their investment under VRR.
+- b. FPIs investing under this route shall be eligible to use any currency or interest rate derivative instrument, OTC or exchange traded, to manage their interest rate risk or currency risk.
+
+## **9. Other operational aspects**
+
+- a. Utilisation of limits and adherence to other requirements of this Route shall be the responsibility of both the FPI and its custodian.
+- b. Custodians shall not permit any repatriation from the cash accounts of an FPI, if such transaction leads to the FPI's assets falling below the minimum stipulated level of 75% of CPS during the retention period.
+- c. Custodians shall have in place appropriate legal documentation with FPIs that enables them (custodians) to ensure that regulations under VRR are adhered to.
+
+![](_page_1_Picture_0.jpeg)
+
+- d. FPIs shall open one or more separate Special Non-Resident Rupee (SNRR) account for investment through the Route. All fund flows relating to investment through the Route shall reflect in such account(s).
+- e. FPIs may open a separate security account for holding debt securities under this Route.
+
+![](_page_2_Picture_0.jpeg)
+
+*Appendix*
+
+## **Auction process for allocation of investment amount under VRR**
+
+The auction process for allotment of investment amounts under VRR shall be as under:
+
+- a. An FPI shall bid two variables the amount it proposes to invest and the retention period of that investment, which shall not be less than the minimum retention period applicable for that auction.
+- b. FPIs are permitted to place multiple bids.
+- c. The criterion for allocation under each auction shall be the retention period bid in the auction.
+- d. Bids will be accepted in descending order of retention period, the highest first, until the amounts of accepted bids add up to the auction amount.
+- e. Allotment at margin (i.e., at the lowest retention period accepted), in case the amount bid at margin is more than the amount available for allotment, shall be as below:
+	- i. The marginal bid shall be allocated partially such that the total acceptance amount matches the auction amount.
+	- ii. In case there are more than one marginal bids, allocation shall be made to the bid with the largest amount, and then in descending order of amount bid until the acceptance amount matches the auction amount.
+	- iii. In case the amount offered is the same for two or more marginal bids, the amount will be allocated equally.
+- f. If an FPI has been allotted multiple bids in an auction, the CPS shall be reckoned for each bid separately.
+- g. FPI which has got CPS allocated under an auction will be eligible to participate in subsequent auction as well.

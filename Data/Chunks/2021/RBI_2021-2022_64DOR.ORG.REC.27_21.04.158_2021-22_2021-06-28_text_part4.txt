@@ -1,0 +1,34 @@
+opriate level of control over the outsourcing and the right to intervene with appropriate measures to meet legal and regulatory obligations. The agreement should also bring out the nature of legal relationship between the parties, i.e., whether agent, principal or otherwise.
+
+Some of the key provisions of the contract would be:
+
+- i. The contract should clearly define the activities being outsourced including Service Level Agreements (SLAs) to agree and establish accountability for performance expectations. SLAs must clearly formalize the performance criteria to measure the quality and quantity of service levels.
+- ii. The co-operative bank shall ensure its ability to access all books, records and information relevant to the outsourced activity available with the service provider.
+- iii. The contract should provide for continuous monitoring and assessment of the service provider by the co-operative bank so that any necessary corrective measure can be initiated immediately.
+- iv. Controls to ensure customer data confidentiality and service providers' liability in case of breach of security and leakage of confidential customer related
+
+information shall be incorporated.
+
+- v. A termination clause and notice period should be included.
+- vi. Contingency plans to ensure business continuity should be included.
+- vii. The contract should provide for the prior approval/consent of co-operative bank for use of subcontractors by the service provider for all or part of an outsourced activity. Before according the consent, co-operative banks should review the subcontracting arrangement and ensure that these arrangements are compliant with the extant guidelines on outsourcing.
+- viii. The contract should provide the co-operative banks with the right to conduct audits on the service provider whether by its internal or external auditors, or by agents appointed to act on its behalf and to obtain copies of any audit or review reports and findings made on the service provider in conjunction with the services performed for the co-operative bank.
+- ix. Outsourcing agreement should include a clause to allow RBI/NABARD or persons authorised by it to access the co-operative bank's documents, records of transactions, logs and other necessary information given to, stored or processed by the service provider, within a reasonable time. This includes information maintained in paper and electronic formats.
+- x. Outsourcing agreement should also include a clause to recognise the right of the RBI / NABARD to cause an inspection of a service provider of a co-operative bank and its books and accounts by one or more of its officers or employees or other authorised persons.
+- xi. The outsourcing agreement should also provide that confidentiality of customers' information should be maintained even after the contract expires or gets terminated. Further, co-operative bank shall have necessary provisions to ensure that the service provider preserves documents as required by law and take suitable steps to ensure that its interests are protected in this regard even post termination of the services.
+
+### **5.6 Confidentiality and Security**
+
+5.6.1 Public confidence and customer trust in co-operative bank is a prerequisite for the stability and reputation of the bank. Hence, the co-operative banks shall seek to ensure the preservation and protection of the security and confidentiality of customer information in the custody of the service provider.
+
+5.6.2 Access to customer information by staff of the service provider shall be on 'need to know' basis, i.e., limited to those areas where the information is required in order to perform the outsourced function.
+
+5.6.3 The co-operative banks shall ensure that the service provider is able to isolate and clearly identify the co-operative bank's customer information, documents, records and assets to protect the confidentiality of the information. In the instances, where service provider acts as an outsourcing agent for multiple banks, care should be taken to build adequate safeguards so that there is no comingling of information/documents, records and assets.
+
+5.6.4 The co-operative banks shall review and monitor the security practices and control processes of the service provider on a regular basis and require the service provider to disclose security breaches.
+
+5.6.5 The co-operative banks shall immediately notify RBI / NABARD in the event of any breach of security and leakage of confidential customer related information. In these eventualities, the co-operative bank shall be liable to its customers for any damage.
+
+### **5.7 Business Continuity and Management of Disaster Recovery Plan**
+
+5.7.1 Co-operative banks shall require its service providers to develop and establish a robust framework for documenting, maintaining and testing business continuity and recovery procedures. Banks need to ensure that the service provider periodically tests the Business Continuity and Recovery Plan. Banks may also conduct j

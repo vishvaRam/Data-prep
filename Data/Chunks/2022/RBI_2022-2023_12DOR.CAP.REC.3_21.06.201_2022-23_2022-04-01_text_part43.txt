@@ -1,0 +1,45 @@
+ateralised OTC derivatives transactions**
+
+The calculation of the counterparty credit risk charge for an individual contract will be as follows:
+
+counterparty charge = [(RC + add-on) – CA] x r x 9%
+
+where: RC = the replacement cost,
+
+add-on = the amount for potential future exposure calculated according to paragraph 5.15.3.5,
+
+CA = the volatility adjusted collateral amount under the comprehensive approach prescribed in paragraphs 7.3.6- 7.3.7 or zero if no eligible collateral is applied to the transaction, and r = the risk weight of the counterparty.
+
+When effective bilateral netting contracts are in place, RC will be the net replacement cost and the add-on will be ANet as calculated according to Annex 20 (part B) and paragraph 5.15.3.5. The haircut for currency risk (Hfx) should be applied when there is a mismatch between the collateral currency and the settlement currency. Even in the case where there are more than two currencies involved in the exposure, collateral and settlement currency, a single haircut assuming a 10 business day holding period scaled up as necessary depending on the frequency of mark-tomarket will be applied.
+
+# **7.4 Credit Risk Mitigation Techniques – On-Balance Sheet Netting**
+
+On-balance sheet netting is confined to loans/advances and deposits, where banks have legally enforceable netting arrangements, involving specific lien with proof of documentation. They may calculate capital requirements on the basis of net credit exposures subject to the following conditions:
+
+Where a bank,
+
+- (a) has a well-founded legal basis for concluding that the netting or offsetting agreement is enforceable in each relevant jurisdiction regardless of whether the counterparty is insolvent or bankrupt;
+- (b) is able at any time to determine the loans/advances and deposits withthe same counterparty that are subject to the netting agreement;
+- (c) monitors and controls the relevant exposures on a net basis; and
+- (d) monitors and controls its roll-off risks.
+
+it may use the net exposure of loans/advances and deposits as the basis for its capital adequacy calculation in accordance with the formula in **paragraph 7.3.6**. Loans/advances are treated as exposure and deposits as collateral. The haircuts will be zero except when a currency mismatch exists. All the requirements contained in **paragraph 7.3.6 and 7.6** will also apply.
+
+## **7.5 Credit Risk Mitigation Techniques - Guarantees**
+
+7.5.1 Where guarantees are direct, explicit, irrevocable and unconditional banks may take account of such credit protection in calculating capital requirements.
+
+7.5.2 A range of guarantors are recognised and a substitution approach will be applied. Thus, only guarantees issued by entities with a lower risk weight than the counterparty will lead to reduced capital charges since the protected portion of the counterparty exposure is assigned the risk weight of the guarantor, whereas the uncovered portion retains the risk weight of the underlying counterparty.
+
+7.5.3 Detailed operational requirements for guarantees eligible for being treated as a CRM are as under:
+
+#### **7.5.4 Operational requirements for guarantees**
+
+- (i) A guarantee (counter-guarantee) must represent a direct claim on the protection provider and must be explicitly referenced to specific exposures or a pool of exposures, so that the extent of the cover is clearly defined and incontrovertible. The guarantee must be irrevocable; there must be no clause in the contract that would allow the protection provider unilaterally to cancel the cover or that would increase the effective cost of cover as a result of deteriorating credit quality in the guaranteed exposure. The guarantee must also be unconditional; there should be no clause in the guarantee outside the direct control of the bank that could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original counterparty fails to make the payment(s) due.
+- (ii) All exposures will be risk weighted after taking into account risk mitigation available in the form of guarantees. When a guaranteed exposure is classified as non-performing, the guarantee will cease to be a credit risk mitigant and no adjustment would be permissible on account of credit risk mitigation in the form of guarantees. The entire outstanding, net of specific provision and net of realisable value of eligible collaterals / credit risk mitigants, will attract the appropriate risk weight.
+
+#### **7.5.5 Additional operational requirements for guarantees**
+
+In addition to the legal certainty requirements in **paragraph 7.2** above, in order for a guarantee to be recognised, the following conditions must be satisfied:
+
+- (i) On the qualifying default/non-payment of the counterparty, the bank is able in a timely manner to pursue the guarantor for any monies outstanding under the documentation governing the transaction. The guarantor shall make one lump sum payment of all monies under such documentati

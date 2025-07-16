@@ -1,0 +1,45 @@
+tted from these accounts to the said transferee CC/OD account at the frequency agreed between the bank and the borrower. Further, the credit balances in such collection accounts shall not be used for repayment of any credit facilities provided by the bank, or as collateral/ margin for availing any fund or non-fund based credit facilities. However, banks are permitted to debit interest/ charges pertaining to the said CC/OD account and other fees/ charges before transferring the funds to the CC/OD account of the borrower with bank(s) having 10 per cent or more of the aggregate exposure. It may be noted that banks with exposure to the borrower of less than 10 per cent of the aggregate exposure of the banking system can offer working capital demand loan (WCDL)/ working capital term loan (WCTL) facility to the borrower.
+
+3.2.4 In case there is more than one bank having 10 per cent or more of the aggregate exposure, the bank to which the funds are to be remitted may be decided mutually between the borrower and the banks.
+
+6
+
+# **4. Exemptions Regarding Specific Accounts**
+
+<span id="page-1-0"></span>4.1 Banks are permitted to open and operate the following accounts without any of the restrictions placed in terms of paras [1,](#page--1-0) [2](#page--1-1) and [3](#page-0-0) of this Circular:
+
+(a) Specific accounts which are stipulated under various statutes and specific instructions of other regulators/ regulatory departments/ Central and State Governments. An indicative list of such accounts is given below:
+
+(i) Accounts for real estate projects mandated under Section 4 (2) l (D) of the Real Estate (Regulation and Development) Act, 2016 for the purpose of maintaining 70 per cent of advance payments collected from the home buyers
+
+(ii) Nodal or escrow accounts of payment aggregators/ prepaid payment instrument issuers for specific activities as permitted by Department of Payments and Settlement Systems (DPSS), Reserve Bank of India under Payment and Settlement Systems Act, 2007
+
+(iii) Accounts for the purpose of IPO/ NFO/ FPO/ share buyback/ dividend payment/ issuance of commercial papers/ allotment of debentures/ gratuity etc. which are mandated by respective statutes or by regulators and are meant for specific/ limited transactions only
+
+(b) Accounts opened as per the provisions of Foreign Exchange Management Act, 1999 (FEMA) and notifications issued thereunder including any other current account if it is mandated for ensuring compliance under the FEMA framework
+
+(c) Accounts for payment of taxes, duties, statutory dues, etc. opened with banks authorized to collect the same, for borrowers of such banks which are not authorized to collect such taxes, duties, statutory dues, etc.
+
+(d) Accounts for settlement of dues related to debit card/ ATM card/ credit card issuers/ acquirers
+
+(e) Accounts of White Label ATM Operators and their agents for sourcing of currency
+
+(f) Accounts of Cash-in-Transit (CIT) Companies/ Cash Replenishment Agencies (CRAs) for providing cash management services
+
+(g) Accounts opened by a bank funding a specific project for receiving/monitoring cash flows of that specific project, provided the borrower has not availed any CC/OD facility for that project
+
+(h) Inter-bank accounts
+
+(i) Accounts of All India Financial Institutions (AIFIs), viz., EXIM Bank, NABARD, NHB, and SIDBI
+
+(j) Accounts attached by orders of Central or State governments/ regulatory body/ Courts/ investigating agencies etc. wherein the customer cannot undertake any discretionary debits
+
+4.2 Banks maintaining accounts listed in para [4.1](#page-1-0) shall ensure that these accounts are used for permitted/ specified transactions only. Further, banks shall flag these accounts in the CBS for easy monitoring. Lenders to such borrowers may also enter into agreements/ arrangements with the borrowers for monitoring of cash flows/ periodic transferof funds (if permissible) in these accounts.
+
+### **5. Other Instructions**
+
+5.1 In case of borrowers covered under guidelines on loan system for delivery of bank credit issued vide [circular DBR.BP.BC.No.12/21.04.048/2018-19 dated December 5, 2018,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11428&Mode=0) bifurcation of working capital facility into loan component and cash credit component shall continue to be maintained at individual bank level in all cases, including consortium lending 5.2 All banks, whether lending banks or otherwise, shall monitor all accounts regularly, at
+
+least on a half-yearly basis, specifically with respect to the aggregate exposure of the banking system to the borrower, and the bank's share in that exposure, to ensure compliance with these instructions. If there is a change in exposure of a particular bank or aggregate exposure of the banking system to the borrower which warrants implementation of new banking arrangements, such changes shall be implemented within a period of three months from the date of such monitoring.
+
+5.3 Banks shall put in place 

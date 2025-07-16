@@ -1,0 +1,26 @@
+ and gaps. As SCBs, NBFCs and UCBs face similar risks by virtue of being engaged in similar financial intermediation activities, their internal audit systems also need to broadly align while keeping in mind the principle of proportionality. Considering these aspects, the Guidelines herein prescribe the broad principles that should be followed by NBFCs and UCBs to enable them to gradually move towards an RBIA system.
+
+### **A. Objectives and Scope**
+
+1. An effective Risk-Based Internal Audit (RBIA) is an audit methodology that links an organisation's overall risk management framework and provides an assurance to the Board of Directors and the Senior Management on the quality and effectiveness of the organisation's internal controls, risk management and governance related systems and processes.
+
+![](_page_3_Picture_0.jpeg)
+
+- 2. The internal audit function should broadly assess and contribute to the overall improvement of the organization's governance, risk management, and control processes using a systematic and disciplined approach. The function is an integral part of sound corporate governance and is considered as the third line of defence.
+- 3. Historically, the internal audit system in NBFCs/UCBs has generally been concentrating on transaction testing, testing of accuracy and reliability of accounting records and financial reports, adherence to legal and regulatory requirements, etc. However, in the changing scenario, such testing by itself might not be sufficient. Therefore, SEs will have to move towards a framework which will include, in addition to selective transaction testing, an evaluation of the risk management systems and control procedures in various areas of operations. This will also help in anticipating areas of potential risks and mitigating such risks.
+- 4. While the Risk Management Function should focus on identification, measurement, monitoring, and management of risks, development of risk policies and procedures, use of risk management models, etc., RBIA should undertake an independent risk assessment for the purpose of formulating a risk-based audit plan which considers the inherent business risks emanating from an activity / location and the effectiveness of the control systems for monitoring such inherent risks.
+
+Expectations on the roles and responsibilities of different functionaries for this internal audit framework are provided in the following paragraphs.
+
+#### **B. Board of Directors / Audit Committee of Board**
+
+1. The Board of Directors (the Board) / Audit Committee of Board (ACB) of NBFCs and the Board of UCBs are primarily responsible for overseeing the internal audit function in the organization. The RBIA policy shall be formulated with the approval of the Board and disseminated widely within the organization. The policy shall clearly document the purpose, authority, and responsibility of the internal audit activity, with a clear demarcation of the role and expectations from Risk Management Function and Risk Based Internal Audit Function. The policy should be consistent with the size and nature of the business undertaken, the complexity of operations and should factor in the key attributes of internal audit function relating to independence, objectivity, professional ethics, accountability, etc. The RBIA policy must be reviewed periodically.
+
+![](_page_4_Picture_0.jpeg)
+
+- 2. The internal audit function shall be carried out effectively so as to ensure that it adds value to the organization. For the purpose, the ACB/Board shall approve a RBIA plan to determine the priorities of the internal audit function based on the level and direction of risk, as consistent with the entity's goals. The risk assessment of business and other functions of the organization shall at the minimum be conducted on an annual basis. Every activity / location, including the risk management and compliance functions, shall be subjected to risk assessment by the RBIA. The policy should also lay down the maximum time period beyond which even the low risk business activities / locations would not remain excluded for audit.
+- 3. The ACB/Board is expected to review the performance of RBIA. The ACB/Board should formulate and maintain a quality assurance and improvement program that covers all aspects of the internal audit function. The quality assurance program may include assessment of the internal audit function at least once in a year for adherence to the internal audit policy, objectives and expected outcomes. Further, ACB/Board shall promote the use of new audit tools/ new technologies for reducing the extent of manual monitoring / transaction testing / compliance monitoring, etc.
+
+### **C. Senior Management**
+
+- 1. The senior management is responsible for ensuring adherence to the internal audit policy guidelines as approved by the Board and development of an effective internal control function that identifies, measures, monitors and reports all risks faced. It shall ensure that appropriate action is t

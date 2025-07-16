@@ -1,0 +1,40 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2021-22/69 CO.FMRD.DIRD.S39/14.02.001/2021-22 July 08, 2021
+
+To
+
+The Chief Executive Officer/ Chairman/Managing Director, All Commercial and Co-operative Banks / All India Financial Institutions / Non-Banking Financial Companies including Housing Finance Companies and Standalone Primary Dealers
+
+Madam / Dear Sir
+
+## **Roadmap for LIBOR Transition**
+
+The Reserve Bank of India had, in August 2020, requested banks to frame a Boardapproved plan, outlining an assessment of exposures linked to the London Interbank Offered Rate (LIBOR) and the steps to be taken to address risks arising from the cessation of LIBOR, including preparation for the adoption of the Alternative Reference Rates (ARR). The Financial Conduct Authority (FCA), UK has announced on March 05, 2021 that LIBOR will either cease to be provided by any administrator or no longer be a representative rate:
+
+- (a) Immediately after December 31, 2021, in the case of all Pound sterling, Euro, Swiss franc and Japanese yen settings, and the 1-week and 2-month US dollar settings; and
+- (b) Immediately after June 30, 2023, in the case of the remaining US dollar settings.
+
+2. With the objective of orderly, safe and sound LIBOR transition and considering customer protection, reputational and litigation risks involved, banks / financial institutions are encouraged to cease, and also encourage their customers to cease, entering into new financial contracts that reference LIBOR as a benchmark and instead use any widely
+
+<sup>ि</sup>व�ीय बाज़ार िविनयमन िवभाग, क��ीय कायार्लय, पहली मंिजल, मुख्य भवन, शहीद भगत �संह मागर्, फोटर्, मुंबई – 400 001, भारत Financial Markets Regulation Department, Central Office, 9th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001, India फोन/Tel: (91-22) 2260 3000, फै क्स/Fax: (91-22) 22702290, ई-मेल /E-Mail: cgmfmrd@rbi.org.in
+
+![](_page_0_Picture_12.jpeg)
+
+![](_page_1_Picture_0.jpeg)
+
+accepted ARR, as soon as practicable and in any case by December 31, 2021. While certain US dollar LIBOR settings will continue to be published till June 30, 2023, the extension of the timeline for cessation is primarily aimed at ensuring roll-off of USD LIBOR-linked legacy contracts, and not to encourage continued reliance on LIBOR. It is, therefore, expected that contracts referencing LIBOR may generally be undertaken after December 31, 2021, only for the purpose of managing risks arising out of LIBOR contracts (e.g. hedging contracts, novation, market-making in support of client activity, etc.), contracted on or before December 31, 2021.
+
+3. Banks/financial institutions are urged to incorporate robust fallback clauses, preferably well before the respective cessation dates, in all financial contracts that reference LIBOR and the maturity of which is after the announced cessation date of the respective LIBOR settings. Banks/financial institutions are encouraged to ensure that new contracts entered into before December 31, 2021 that reference LIBOR and maturity of which is after the date on which LIBOR ceases or become non-representative include fallback clauses. Banks/financial institutions may refer to the standard fallback clauses developed for this purpose by various agencies such as International Swaps and Derivatives Association, Indian Banks' Association, Loan Markets' Association, Asia Pacific Loan Markets Association and Bankers Association for Finance & Trade.
+
+4. Banks are also encouraged to cease using the Mumbai Interbank Forward Outright Rate (MIFOR), published by the Financial Benchmarks India Pvt Ltd (FBIL), which references the LIBOR as soon as practicable and in any event by December 31, 2021. FBIL has started publishing daily adjusted MIFOR rates from June 15, 2021 and modified MIFOR rates from June 30, 2021 which can be used for legacy contracts and fresh contracts respectively. Banks may trade in MIFOR after December 31, 2021 only for certain specific purposes such as transactions executed to support risk management activities such as hedging, required participation in central counterparty procedures (including transactions for hedging the consequent MIFOR exposure), market-making in support of client activities or novation of MIFOR transactions in respect of transactions executed on or before December 31, 2021.
+
+![](_page_2_Picture_0.jpeg)
+
+5. Banks / financial institutions must undertake a comprehensive review of all direct and indirect LIBOR exposures and put in place a framework to mitigate risks arising from such exposures on account of transitional issues including valuation and contractual clauses. They may also put in place the necessary infrastructure to be able to offer products referencing the ARR. Continued efforts to sensitise clients about the transition as well as the methodology and convention changes involved in the alternatives to LIBOR will be critical in this context.
+
+6. The Reserve Bank will continue to monitor the evolving global and domestic situation with regard to the transition away from LIBOR and proactively take steps, as necessary, to mitigate associated risks in order to ensure a smooth transition.
+
+Yours sincerely,
+
+(Dimple Bhandia) Chief General Manager

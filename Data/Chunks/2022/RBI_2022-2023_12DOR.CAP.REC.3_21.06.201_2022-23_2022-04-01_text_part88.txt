@@ -1,0 +1,50 @@
+p does not normally create a position for general market risk for either the protection buyer or protection seller. However, the present value of premium payable / receivable is sensitive to changes in the interest rates. In order to measure the interest rate risk in premium receivable/payable, the present value of the premium can be treated as a notional position in Government securities of relevant maturity. These positions will attract appropriate capital charge for general market risk. The protection buyer / seller will treat the present value of the premium payable / receivable equivalent to a short / long notional position in Government securities of relevant maturity.
+
+## **6.2 Specific Risk for Exposure to Reference Entity**
+
+A CDS creates a notional long / short position for specific risk in the reference asset / obligation for protection seller / protection buyer. For calculating specific risk capital charge, the notional amount of the CDS and its maturity should be used. The specific risk capital charge for CDS positions will be as per Table-1 and Table-2 below.
+
+#### **Table-1: Specific risk capital charges for bought and sold CDS positions in the Trading Book: Exposures to entities other than Commercial Real Estate Companies/ NBFC-ND-SI**
+
+
+\* These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers "+" or "-" have been subsumed within the main category.
+
+#### **Table-2: Specific risk capital charges for bought and sold CDS positions in the Trading Book: Exposures to Commercial Real Estate Companies/ NBFC-ND-SI#**
+
+
+# The above table will be applicable for exposures upto 90 days. Capital charge for exposures to Commercial Real Estate Companies / NBFC-ND-SI beyond 90 days shall be taken at 9.0%, regardless of rating of the reference /deliverable obligation.
+
+<sup>192</sup> Under Basel II, the specific risk capital charge for risk exposures to corporate bonds, CDS contracts, etc., held in Trading Book have been calibrated, keeping in view the generally short time horizon of the Trading Book. In case such positions remain in the Trading Book for longer time horizons, these are exposed to higher credit risk. In such cases, the normal specific risk capital charge will be inadequate. Hence, the specific risk capital charges on exposures remaining in Trading Book beyond 90 days have been suitably increased.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@ The supervisory haircut of 2 per cent has been scaled down using the formula indicated in paragraph 7.3.7 of the Circular.
+
+### **Measurement of capital charge for Market Risks in respect of Interest Rate Derivatives and Options**
+
+### **A. Interest Rate Derivatives**
+
+The measurement system should include all interest rate derivatives and off-balance-sheet instruments in the trading book, which react to changes in interest rates, (e.g., forward rate agreements (FRAs), other forward contracts, bond futures, interest rate and cross-currency swaps and forward foreign exchange positions). Options can be treated in a variety of ways as described in para B.1 below. A summary of the rules for dealing with interest rate derivatives is set out in the Table at the end of this section.
+
+### **1. Calculation of positions**
+
+The derivatives should be converted into positions in the relevant underlying and be subjected to specific and general market risk charges as described in the guidelines. In order to calculate the capital charge, the amounts reported should be the market value of the principal amount of the underlying or of the notional underlying. For instruments where the apparent notional amount differs from the effective notional amount, banks must use the effective notional amount.
+
+### **(a) Futures and Forward Contracts, including Forward Rate Agreements**
+
+These instruments are treated as a combination of a long and a short position in a notional government security. The maturity of a future or a FRA will be the period until delivery or exercise of the contract, plus - where applicable - the life of the underlying instrument. *For example, a long position in a June three-month interest rate future (taken in April) is to be reported as a long position in a government security with a maturity of five months and a short position in a government security with a maturity of two months*. Where a range of deliverable instruments may be delivered to fulfill the contract, the bank has flexibility to elect which deliverable security goes into the duration ladder but should take account of any conversion factor defined by the exchange.
+
+### **(b) Swaps**
+
+Swaps will be treated as two notional positions in government securities with relevant maturities. *For example, an interest rate swap under which a bank is receiving floating rate interest and paying fixed will be treated as a long position in a floating rate instrument of maturity equival

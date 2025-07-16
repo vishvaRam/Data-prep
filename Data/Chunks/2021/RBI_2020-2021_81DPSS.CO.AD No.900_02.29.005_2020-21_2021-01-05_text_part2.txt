@@ -1,0 +1,50 @@
+tes of the country and Union Territories of Jammu and Kashmir, and Ladakh (UTs of J & K and Ladakh) shall be given special focus.
+- 3.4 While setting parameters for utilisation of funds, the focus shall be to target those merchants who are yet to be terminalised (merchants who do not have any payment acceptance device). Such merchants may be acquired for one physical and one digital acceptance device each under the Scheme.
+- 3.5 The AC shall devise a transparent mechanism for allocation of targets to acquiring banks / non-banks in different segments / locations.
+- 3.6 The tentative distribution of targets across centres will be as follows:
+
+
+# **4. Market Segments and Merchant Categories**
+
+4.1 Merchants providing essential services (transport, hospitality, etc.), government payments, fuel pumps, PDS shops, healthcare, kirana shops, street vendors, etc., may be covered, especially in the targeted geographies.
+
+# **5. Types of Acceptance Devices Covered**
+
+- 5.1 Multiple payment acceptance devices / infrastructure supporting underlying card payments, such as physical PoS, mPoS (mobile PoS), GPRS (General Packet Radio Service), PSTN (Public Switched Telephone Network), QR code-based payments, etc.
+- 5.2 As the cost structure of acceptance devices vary, subsidy amounts shall accordingly differ by the type of payment acceptance device deployed. A subsidy of 30% to 50% of cost of physical PoS and 50% to 75% subsidy for Digital PoS shall be offered. A subsidy of 60% to 75% of cost of physical PoS and 75% to 90% for Digital PoS shall be offered.
+- 5.3. Payment methods that are not inter-operable shall not be considered under PIDF.
+
+5.4 The subsidy shall not be claimed by applicant from other sources like NABARD, etc. In case other mechanisms exist for providing subsidy or reimbursing cost of deployment of acceptance infrastructure, no reimbursement shall be claimed from PIDF therefor.
+
+## **6. Initial Corpus**
+
+- 6.1 Initial corpus of PIDF has to be substantial to initiate pan-India terminalisation and to cover the pay-outs in the first year. Contributions to the PIDF shall be mandatory for banks and card networks.
+- 6.2 RBI shall contribute ₹250 crore to the corpus; the authorised card networks shall contribute in all ₹100 crore.
+- 6.3 The card issuing banks shall also contribute to the corpus based on the card issuance volume (covering both debit cards and credit cards) at the rate of ₹1 and ₹3 per debit and credit card issued by them, respectively.
+- 6.4 It shall be the endeavour to collect the contributions by January 31, 2021.
+- 6.5 Any new entrant to the card payment eco-system (card issuer and card network) shall contribute an appropriate amount to the PIDF.
+
+# **7. Recurring Contribution**
+
+7.1 Besides the initial corpus, the PIDF shall also receive annual contribution from card networks and card issuing banks as under:
+
+a) Card networks – Turnover based – 1 basis point (bps) i.e., 0.01 paisa per Rupee of transaction;
+
+b) Card issuing banks – Turnover based – 1 bps and 2 bps i.e., 0.01 paisa and 0.02 paisa per Rupee of transaction for debit and credit cards respectively; also at the rate of ₹1 and ₹3 for every new debit and credit card issued by them respectively during the year. Superseded by CO.DPSS.POLC.No. S940/02-29-005/2023-24
+
+7.2 RBI shall contribute to yearly shortfalls, if any.
+
+# **8. Collection Mechanism**
+
+8.1 By January 31st and July 31st based on card data of December 31st and June 30th respectively.
+
+# **9. Types of Expenses Covered**
+
+9.1 The parameters / rules for claiming the amount of subsidy for the capital expenditure, taking into account the type of device, deployment location etc., shall be framed by the AC.
+
+- 9.2 Subsidy shall be granted on half yearly basis, after ensuring that performance parameters are achieved, including conditions for 'active' status of the acceptance device and 'minimum usage' criteria, as defined by the AC.
+- 9.3 The minimum usage shall be termed as 50 transactions over a period of 90 days and active status shall be minimum usage for 10 days over the 90-day period.
+- 9.4 The subsidy claims shall be processed on half yearly basis and 75 percent of the subsidy amount shall be released. The balance 25 percent shall be released later subject to the status of the acceptance device being active in 3 out of the 4 quarters of the ensuing year.
+- 9.2 Subsidy shall be granted on quarterly basis.
+- 9.3 The subsidy claims shall be processed and initially 75 percent of the subsidy amount shall be released. The balance 25 percent shall be released later after ensuring that performance parameters are achieved, including conditions for 'active' status of the acceptance device and 'minimum usage' criteria, as defined by the AC, and subject to the status of the acceptance device being active in 3 out of the 4 quarters of the ensuing year. [Supers](#page--1-0)eded by CO.DPSS.POLC.No.
+- 9.4 The minimum usage shall be termed as 50 transactions over a period of 90 days and activ

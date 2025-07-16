@@ -1,0 +1,55 @@
+010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+## (3) **Provisioning requirements**
+
+
+Every ARC shall make provision against NPAs, as under: -
+
+#### **12. Investments**
+
+[32](#page-3-0)(i) Considering nature of investment in SRs where underlying cash flows are dependent on realization from non-performing assets, it can be classified as available for sale. Hence investments in SRs may be aggregated for the purpose of arriving at net depreciation/ appreciation of investments under the category. Net depreciation, if any shall be provided for. Net Appreciation, if any should be ignored.
+
+(ii) All other investments should be valued at lower of cost or realisable value. Where market rates are available, the market value would be presumed to be the realisable value and in cases where market rates are not available, the realisable value should be the fair value. However, investments in other registered ARC shall be treated as long term investments and valued in accordance with the Accounting Standards and Guidance notes issued by the Institute of Chartered Accountants of India (ICAI).
+
+### **13. Income recognition**
+
+[33\(](#page-3-1)i) *Yield on SRs* should be recognised only after the full redemption of the entire principal amount of SRs. This will be effective from the accounting year 2014-15.
+
+(ii) *Upside income* should be recognized only after full redemption of SRs. This will be effective from the accounting year 2014-15.
+
+ <sup>32</sup> Inserted vide [Circular No. DNBS \(PD\) CC No.38/SCRC/26.03.001/2013-14 dated April 23, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8849&Mode=0)
+
+<span id="page-3-1"></span><span id="page-3-0"></span><sup>33</sup> Inserted vide [Circular No.DNBS \(PD\) CC No.38/SCRC/26.03.001/2013-14 dated April 23, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8849&Mode=0)
+
+[34\(](#page-4-0)iii) Management fees should be calculated and charged as a percentage of the NAV calculated at the lower end of the range of the Recovery Rating specified by the Credit Rating Agency (CRA) provided that the same is not more than the acquisition value of the underlying asset. However, management fees are to be reckoned as a percentage of the actual outstanding value of SRs, before the availability of NAV of SRs.
+
+Management fees may be recognized on accrual basis. Management fees recognized **during** the planning period must be realized within 180 days from the date of expiry of the planning period. Management fees recognized **after** the planning period should be realized within 180 days from the date of recognition. Unrealised Management fees should be reversed thereafter. Further any unrealized Management fees will be reversed if before the prescribed time for realisation, NAV of the SRs fall below 50% of face value. However, ARCs are allowed to write off the accrued unrealised Management Fee receivables prior to March 31, 2014 in a staggered manner in four half-yearly instalments over a period of two years, 2014-15 and 2015-16 subject to the disclosure of age wise such receivables in the Balance Sheet of the company.
+
+(iv) The income recognition on all other items shall be based on recognised accounting principles;
+
+(v) All the Accounting Standards and Guidance Notes issued by the ICAI shall be followed in so far as they are not inconsistent with the guidelines contained herein;
+
+(vi) Interest and any other charges in respect of all the NPAs shall be recognised only when they are actually realised. Any such unrealised income recognised by an ARC before the asset became non-performing and remaining unrealised shall be derecognised.
+
+### **14. Disclosures in the balance sheet**
+
+- (1) Every ARC shall, in addition to the requirements of Schedule III of the Companies
+- Act, 2013, prepare the following schedules and [annex](#page--1-0) them to its balance sheet :
+
+### **Continuing Disclosures**
+
+(i) The names and addresses of the banks/ FIs from whom financial assets were acquired and the value at which such assets were acquired from each such bank/ FIs;
+
+<span id="page-4-0"></span> <sup>34</sup> Inserted vide [Notification No.DNBS\(PD-SC/RC\) No.11/PCGM \(KKV\)/-2014 dated August 05, 2014](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=9154&fn=14&Mode=0#S1)
+
+(ii) Dispersion of various financial assets industry-wise and sponsor-wise. (dispersion is to be indicated as a percentage to the total assets);
+
+(iii) Details of related parties as per Accounting Standard and Guidance notes issued by the ICAI and the amounts due to and from them;
+
+(iv) A statement clearly charting therein the migration of financial assets from standard to non-performing;
+
+[35\[](#page-0-0)(v) Value of financial assets acquired during the financial year either on its own books or in the books of the trust;
+
+(vi) Value of financial assets realized during the financial year;
+
+(vii) Value of financial assets outstanding for realization as at th

@@ -1,0 +1,29 @@
+air terms or conditions are not incorporated in their locker agreements. Further, the terms of the contract shall not be more onerous than required in ordinary course of business to safeguard the interests of the bank. Banks shall renew their locker agreements with existing locker customers by January 1, 2023.
+
+2.1.2 At the time of allotment of the locker to a customer, the bank shall enter into an agreement with the customer to whom the locker facility is provided, on a paper duly stamped. A copy of the locker agreement in duplicate signed by both the parties shall be furnished to the lockerhirer to know his/her rights and responsibilities. Original Agreement shall be retained with the bank's branch where the locker is situated.
+
+### **2.2 Locker Rent**
+
+2.2.1 Banks may face potential situations where the locker-hirer neither operates the locker nor pays the rent. To ensure prompt payment of locker rent, banks are allowed to obtain a Term Deposit, at the time of allotment, which would cover three years' rent and the charges for breaking open the locker in case of such eventuality. Banks, however, shall not insist on such Term Deposits from the existing locker holders or those who have satisfactory operative account. The packaging of allotment of locker facility with placement of term deposits beyond what is specifically permitted above will be considered as a restrictive practice.
+
+2.2.2 If locker rent is collected in advance, in the event of surrender of a locker by a customer, the proportionate amount of advance rent collected shall be refunded to the customer.
+
+2.2.3 If there is any event such as merger / closure / shifting of branch warranting physical relocation of the lockers, the bank shall give public notice in two newspapers (including one local daily in vernacular language) in this regard and the customers shall be intimated at least two months in advance along with options for them to change or close the facility. In case of unplanned shifting due to natural calamities or any other such emergency situation, banks shall make efforts to intimate their customers suitably at the earliest.
+
+3
+
+## **PART III: Infrastructure and Security Standards**
+
+## **3.1 Security of the Strong Room/Vault**
+
+3.1.1 Banks shall take necessary steps to ensure that the area in which the locker facility is housed is properly secured to prevent criminal break-ins. The risks of accessibility of an allotted locker from any side without involvement of the locker-hirer concerned may be assessed and kept on record. Banks shall have a single defined point of entry and exit to the locker room/vault. The place where the lockers are housed must be secured enough to protect against hazard of rain / flood water entering and damaging the lockers in contingent situations. The fire hazard risks of the area should also be assessed and minimized. The banks, as per their policy, shall conduct necessary engineering / safety verification regularly to identify the risks and carry out necessary rectification.
+
+3.1.2 The area housing the lockers should remain adequately guarded at all times. The banks shall install Access Control System, if required as per their risk assessment, which would restrict any unauthorized entry and create digital record of access to locker room with time log. As per their internal security policy, banks may cover the entry and exit of the strong room and the common areas of operation under CCTV camera and preserve its recording for a period of not less than 180 days. In case any customer has complained to the bank that his/her locker is opened without his/her knowledge and authority, or any theft or security breach is noticed/observed, the bank shall preserve the CCTV recording till the police investigation is completed and the dispute is settled.
+
+3.1.3 The security procedures shall be well-documented and the staff concerned shall be properly trained in the procedure. The internal auditors shall verify and report the compliance to ensure that the procedures are strictly adhered to.
+
+#### **3.2 Locker Standards**
+
+3.2.1 All the new mechanical lockers to be installed by the banks shall conform to basic standards / benchmarks for safety and security as prescribed by Bureau of Indian Standards (BIS) or any other enhanced industry standards applicable in this regard.
+
+3.2.2 Banks offering electronically accessed lockers should be fully aware of the safety and security features of such lockers satisfying appropriate industry standards. In case the lockers are being operated through an electronic system, the bank shall take reasonable steps to ensure that the system is protected against hacking or any breach of security. The customers' personal data, including their biometric data, shall not be shared with third parties without their consent. Further, banks shall ensure that the electronically operated lockers are compliant with the Cyber Security Framework prescribed by the Reserve Bank. The system should be capable of 

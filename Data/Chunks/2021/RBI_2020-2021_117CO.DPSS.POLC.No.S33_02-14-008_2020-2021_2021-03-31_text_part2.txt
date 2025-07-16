@@ -1,0 +1,37 @@
+erson has a record of fairness and integrity, including but not limited to:
+		- a) financial integrity;
+		- b) good reputation and character; and
+		- c) honesty;
+	- 3.1.2. Such person has not incurred any of the following disqualifications:
+		- a) Convicted by a court for any offence involving moral turpitude or any economic offence or any offence under the laws administered by the RBI;
+		- b) Declared insolvent and not discharged;
+		- c) An order, restraining, prohibiting or debarring the person from accessing / dealing in any financial system, passed by any regulatory authority, and the period specified in the order has not elapsed;
+		- d) Found to be of unsound mind by a court of competent jurisdiction and the finding is in force; and
+		- e) Is financially not sound.
+	- 3.1.3. If any question arises as to whether a person is a fit and proper person, the RBI's decision on such question shall be final.
+- 3.2. Para 5.4 related to disclosure of comprehensive information regarding merchant policies, customer grievances, privacy policy and other terms and conditions on the website and / or their mobile application, refers to policies of the PA and not of individual merchants on-boarded by it.
+
+# 4. **KYC and merchant on-boarding related**
+
+- 4.1. In case a PA is maintaining an account-based relationship with the merchant, the KYC guidelines of Department of Regulation (DoR), RBI is applicable. Thus, to this extent, para 6 on 'Safeguards against Money Laundering (KYC / AML / CFT) Provisions' shall also be applicable.
+- 4.2. For merchant on-boarding, the PA can have a Board approved policy (Para 7.1). There would not be a requirement to carry-out entire process of KYC (in accordance with the KYC guidelines of DoR), in cases where the merchant already has a bank account which is being used for transaction settlement purpose.
+
+# 5. **OPGSP related**
+
+- 5.1. Entities functioning as OPGSP and undertaking cross-border transactions in terms of OPGSP guidelines shall ensure compliance with the instructions issued vide [A.P. \(DIR](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10037&Mode=0)  [Series\) Circular No.16 dated September 24, 2015.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10037&Mode=0)
+- 5.2. If OPGSP is also an entity which is functioning as PG or PA under the guidelines stipulated by DPSS, for undertaking any domestic leg of import / export transaction, it has to be ensured that the timelines and other guidelines, including those relating to authorised modes of collection, i.e. debit card, credit card and internet banking, indicated for the purpose of cross-border transactions in [A.P. \(DIR Series\) Circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10037&Mode=0)  [No.16 dated September 24, 2015,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10037&Mode=0) are also adhered to.
+
+### 6. **Security, fraud prevention and risk management framework related**
+
+- 6.1. The PA needs to ensure compliance of the infrastructure of the merchants to security standards like PCI-DSS and PA-DSS, as applicable.
+- 6.2. Merchants are not allowed to store payment data irrespective of their being PCI-DSS compliant or otherwise. They shall, however, be allowed to store limited data for the purpose of transaction tracking; for which, the required limited information may be stored in compliance with the applicable standards.
+- 6.3. The PA cannot also store customer card credentials within its database or the server (irrespective of it being accessed by merchant or not) except for the limited purpose of transaction tracking; for which, required credentials may be stored in compliance with the applicable standards.
+- 6.4. Para 10.5: A standard system audit, including cyber security audit, conducted by CERT-In empanelled auditors may be carried out.
+
+#### 7. **Settlement and escrow account related**
+
+- 7.1. For the purpose of maintenance of the escrow account, the operations of PAs are deemed to be 'designated payment systems' under the Payment and Settlement Systems Act (PSS Act) after the entity obtains authorisation from RBI.
+- 7.2. The applicability of circular [DPSS.CO.PD.No.1102/02.14.08/2009-10 dated November](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=5379&Mode=0)  [24, 2009](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=5379&Mode=0) on "Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries" shall be as follows:
+	- 7.2.1. The circular shall be considered repealed for authorised PAs from the date of authorisation;
+- 7.2.2. The circular shall be considered repealed with effect from June 30, 2021 except for such PAs who have applied for authorisation and a decision on it is pending with RBI.
+- 7.3. The existing entities can continue to maintain nodal accounts till they have been authorised by RBI. Since the PA needs to move towards an escrow account, the bank and the PA may take a call about maintain

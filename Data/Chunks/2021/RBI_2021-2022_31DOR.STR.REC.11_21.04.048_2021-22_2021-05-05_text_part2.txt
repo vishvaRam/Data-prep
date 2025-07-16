@@ -1,0 +1,25 @@
+ this Circular), pertaining to implementation of viable resolution plans for eligible borrowers under this framework, ensuring that the resolution under this facility is provided only to the borrowers having stress on account of Covid-19. The Board approved policy shall, *inter alia*, detail the eligibility of borrowers in respect of whom the lending institutions shall be willing to consider the resolution, and shall lay down the due diligence considerations to be followed by the lending institutions to establish the necessity of implementing a resolution plan in respect of the concerned borrower as well as the system for redressing the grievance of borrowers who request for resolution under the window and / or are undergoing resolution under this window. The Board approved policy shall be sufficiently publicised and should be available on the website of the lending institutions in an easily accessible manner.
+
+8. The resolution process under this window shall be treated as invoked when the lending institution and the borrower agree to proceed with the efforts towards finalising a resolution plan to be implemented in respect of such borrower. In respect of applications received by the lending institutions from their customers for invoking resolution process under this window, the assessment of eligibility for resolution as per the instructions contained in this circular and the Board approved policy put in place as above shall be completed, and the decision on the application shall be communicated in writing to the applicant by the lending institutions within 30 days of receipt of such applications. In order to optimise the processing time, lending institutions may prepare product-level standardized templates as part of their Board approved policies, as above, for resolution under this window.
+
+9. The decision to invoke the resolution process under this window shall be taken by each lending institution having exposure to a borrower independent of invocation decisions taken by other lending institutions, if any, having exposure to the same borrower.
+
+10. The last date for invocation of resolution permitted under this window is September 30, 2021.
+
+## **Permitted features of resolution plans and implementation**
+
+11. The resolution plans implemented under this window may *inter alia* include rescheduling of payments, conversion of any interest accrued or to be accrued into another credit facility, revisions in working capital sanctions, granting of moratorium etc. based on an assessment of income streams of the borrower. However, compromise settlements are not permitted as a resolution plan for this purpose.
+
+12. The moratorium period, if granted, may be for a maximum of two years, and shall come into force immediately upon implementation of the resolution plan. The extension of the residual tenor of the loan facilities may also be granted to borrowers, with or without payment moratorium. The overall cap on extension of residual tenor, inclusive of moratorium period if any permitted, shall be two years.
+
+13. The resolution plan may also provide for conversion of a portion of the debt into equity or other marketable, non-convertible debt securities issued by the borrower, wherever applicable, and the same shall be governed in terms of Paragraphs 30-32 of the Annex to the Resolution Framework – 1.0.
+
+14. The instructions contained in the [circular DOR.No.BP.BC/13/21.04.048/2020-21 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0)  [September 7, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0) on "Resolution Framework for COVID-19-related Stress – Financial Parameters" shall not be applicable to resolution plans implemented under this window.
+
+15. The resolution plan should be finalised and implemented within 90 days from the date of invocation of the resolution process under this window. The resolution plan shall be deemed to be implemented only if all the conditions in Paragraph 10 of the Annex to the Resolution Framework – 1.0 are met.
+
+#### **Asset classification and provisioning**
+
+16. If a resolution plan is implemented in adherence to the provisions of this circular, the asset classification of borrowers' accounts classified as Standard may be retained as such upon implementation, whereas the borrowers' accounts which may have slipped into NPA between invocation and implementation may be upgraded as Standard, as on the date of implementation of the resolution plan.
+
+17. The subsequent asset classification for such exposures will be governed by the criteria laid out in the Master Circular - [Prudential norms on Income Recognition, Asset Classification and](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9908)  [Provisioning pertaining to Advances dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9908) or other relevant instructions as applicable to specific category of lending institutions ("extant IRA

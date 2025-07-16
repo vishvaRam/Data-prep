@@ -1,0 +1,41 @@
+ns.
+
+#### 5.5 Standard assets
+
+5.5.1 The provisioning requirements for all types of standard assets stands as below. Banks should make general provision for standard assets at the following rates for the funded outstanding on global loan portfolio basis:
+
+- a) Farm Credit to agricultural activities, individual housing loans and Small and Micro Enterprises (SMEs) sectors at 0.25 per cent;
+- b) advances to Commercial Real Estate (CRE)[1](#page-3-0) Sector at 1.00 per cent;
+- c) advances to Commercial Real Estate Residential Housing Sector (CRE RH)[2](#page-3-1) at 0.75 per cent
+- d) housing loans extended at teaser rates as indicated in Paragraphs 5.9.9;
+- e) restructured advances as stipulated in the prudential norms for restructuring of advances.
+
+<span id="page-3-0"></span> <sup>1</sup> CRE as defined in terms of the circular [DBOD.BP.BC.No.42/08.12.015/2009-10 dated September 9, 2009](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5261&Mode=0) on 'Guidelines on Classification of Exposures as Commercial Real Estate (CRE) Exposures'
+
+<span id="page-3-1"></span><sup>2</sup> CRE-RH as defined in the [circular DBOD.BP.BC.No.104/08.12.015/2012-13 dated June 21, 2013](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8047&Mode=0) on 'Housing Sector: New sub-sector CRE (Residential Housing) within CRE & Rationalisation of provisioning, risk-weight and LTV ratios'
+
+- f) Advances restructured and classified as standard in terms of the Master Direction Reserve Bank of India (Relief Measures by Banks in Areas affected by Natural Calamities) Directions 2018 – SCBs, as updated from time to time, at 5%.
+- g) All other loans and advances not included in (a) (f) above at 0.40 per cent.
+
+5.5.2 The provisions on standard assets should not be reckoned for arriving at net NPAs.
+
+5.5.3 The provisions towards Standard Assets need not be netted from gross advances but shown separately as 'Contingent Provisions against Standard Assets' under 'Other Liabilities and Provisions Others' in Schedule 5 of the balance sheet.
+
+5.5.4 It is clarified that the Medium Enterprises will attract 0.40% standard asset provisioning. The definition of the terms Micro Enterprises, Small Enterprises, and Medium Enterprises shall be in terms of the [circular FIDD.MSME & NFS.BC.No.3/06.02.31/2020-21 dated July 2, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11934&Mode=0) on 'Credit flow to Micro, Small and Medium Enterprises Sector' as updated from time to time.
+
+5.5.5 A high level of unhedged foreign currency exposures of the entities can increase the probability of default in times of high currency volatility. Hence, banks are required to estimate the riskiness of unhedged position of their borrowers as per the instructions contained in our [circular DBOD.No.BP.BC.85/21.06.200/2013-14 dated January 15, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8694&Mode=0) as well as our [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8914&Mode=0)  [DBOD.No.BP.BC.116/21.06.200/2013-14 dated June 3, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8914&Mode=0) and make incremental provisions on their exposures to such entities:
+
+
+For this purpose, EBID, as defined for computation of DSCR = Profit After Tax + Depreciation + Interest on debt + Lease Rentals, if any.
+
+## 5.6 Prudential norms on creation and utilisation of floating provisions
+
+## 5.6.1 Principle for creation of floating provisions by banks
+
+The bank's board of directors should lay down approved policy regarding the level to which the floating provisions can be created. The bank should hold floating provisions for 'advances' and 'investments' separately and the guidelines prescribed will be applicable to floating provisions held for both 'advances' & 'investment portfolios.
+
+## 5.6.2 Principle for utilisation of floating provisions by banks
+
+5.6.2.1 The floating provisions should not be used for making specific provisions as per the extant prudential guidelines in respect of non performing assets or for making regulatory provisions for standard assets. The floating provisions can be used only for contingencies under extraordinary circumstances for making specific provisions in impaired accounts after obtaining board's approval and with prior permission of RBI. The Boards of the banks should lay down an approved policy as to what circumstances would be considered extraordinary.
+
+5.6.2.2 To facilitate banks' Boards to evolve suitable policies in this regard, it is clarified that the extra-ordinary circumstances refer to losses which do not arise in the normal course of business and are exceptional and non-recurring in nature. These extra-ordinary circumstances could broadly fall under three categories viz. General, Market and Credit. Under general category, there can be situations where bank is put unexpectedly to loss due to events such as civil unrest or collapse of currency in a country. Natural calamities and pandemics ma

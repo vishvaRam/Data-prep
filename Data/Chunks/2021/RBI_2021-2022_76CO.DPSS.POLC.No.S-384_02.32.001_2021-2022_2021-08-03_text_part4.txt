@@ -1,0 +1,35 @@
+
+- l) maintaining confidentiality of customer's information even after the agreement expires or gets terminated; and
+- m) preserving documents and data by the service provider in accordance with legal / regulatory obligations of the PSO, and the PSO's interests in this regard shall be protected even after termination of the services.
+
+# 9. **Confidentiality and security**
+
+- 9.1. Public confidence and customer trust in the PSO is a prerequisite for its stability and reputation. PSO shall ensure the security and confidentiality of customer information in the custody or possession of the service provider.
+- 9.2. Access to customer information by staff of the service provider shall be on 'need to know' basis, i.e., limited to areas where the information is required to perform the outsourced function.
+- 9.3. The service provider shall be able to isolate and clearly identify the PSO's customer information, documents, records and assets to protect their confidentiality. Where the service provider acts as an outsourcing agent for multiple PSOs, there should be strong safeguards (including encryption of customer data) to avoid co-mingling of information, documents, records and assets of different PSOs.
+- 9.4. The PSO shall regularly review and monitor the security practices and control processes of the service provider and require the service provider to disclose security breaches.
+- 9.5. The PSO shall immediately notify RBI about any breach of security and leakage of confidential information related to customers. In such eventualities, the PSO would be liable to its customers for any damage.
+- 9.6. The PSO shall ensure that the extant instructions related to storage of payment system data shall be strictly adhered to by service provider, domestic or off-shore.
+
+# 10. **Responsibilities of Direct Sales Agents (DSAs) / Direct Marketing Agents (DMAs)**
+
+10.1. The PSOs shall ensure that the DSAs / DMAs are properly trained to handle their responsibilities with care and sensitivity, particularly for aspects such as soliciting customers, hours of calling, privacy of customer information, conveying the correct terms and conditions of the products on offer, etc.
+
+10.2. The PSOs shall put in place a board-approved code of conduct for DSAs / DMAs and obtain their undertaking to abide by the same.
+
+### 11. **Business continuity and management of disaster recovery plan**
+
+- 11.1. Service provider shall develop and establish a robust framework for documenting, maintaining and testing business continuity and recovery procedures arising out of any outsourced activity. The PSO shall ensure that the service provider periodically tests the business continuity and recovery plans, and shall also consider conducting occasional joint exercises for testing of business continuity and recovery procedures with its service provider.
+- 11.2. To mitigate risk of unexpected termination of the outsourcing agreement or liquidation of the service provider, the PSO shall retain adequate control over its outsourcing and shall have the right to intervene with appropriate measures to continue its business operations and its services to the customers in such cases without incurring prohibitive expenses or any break in its operations and services to the customers.
+- 11.3. As part of contingency plan, the PSO shall consider the availability of alternative service provider(s), as well as the possibility of bringing the outsourced activity back in-house in an emergency and assess the cost, time and resources that would be involved.
+- 11.4. The PSO's information, documents and records, and other assets shall be isolable by the service provider. This is to ensure that in appropriate situations, all documents, record of transactions and information given to the service provider, and assets of the PSO, can be removed from the possession of the service provider in order to continue its business operations, or deleted, destroyed or rendered unusable.
+
+#### 12. **Monitoring and control of outsourced activities**
+
+- 12.1. The PSO shall put in place a management structure to monitor and control its outsourcing activities. It shall ensure that outsourcing agreement with the service provider contains provisions to address monitoring and control by it of the outsourced activities.
+- 12.2. Regular audit by either the internal or external auditors of the PSO shall be conducted to assess the adequacy of the risk management practices adopted in overseeing and managing the outsourcing arrangements and the PSO's compliance with its risk management framework.
+- 12.3. The PSO shall, at least on an annual basis, review the financial and operational conditions of the service provider to assess its ability to fulfil its outsourcing obligations.
+
+Such due diligence reviews shall highlight any deterioration or breach in performance standards, confidentiality and security, and in business continuity preparedness.
+
+- 12.4. In the event of termination of the outsourcing agreement fo

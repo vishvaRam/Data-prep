@@ -1,0 +1,11 @@
+| Sl | Newly Carved | Erstwhile | Taluks<br>under<br>newly | Lead Bank      | District Working |
+|----|--------------|-----------|--------------------------|----------------|------------------|
+| No | District     | District  | created District         | Responsibility | Code allotted to |
+|    |              |           |                          | assigned to    | new district     |
+| 1  | Vijayanagara | Ballari   | Hosapete                 | State Bank of  | 00S              |
+|    |              |           | Kudligi                  | India          | (to be read as   |
+|    |              |           | Hagaribommana halli      |                | zero zero S)     |
+|    |              |           | Kotturu                  |                |                  |
+|    |              |           | Hoovina Hadagali         |                |                  |
+|    |              |           | Harapanahalli            |                |                  |
+

@@ -1,0 +1,71 @@
+ para 1 above, shall be required to seek prior approval of RBI.
+
+### **Reporting**
+
+4. Banks shall report all such instances of infusion of capital and/ or retention<sup>260</sup>/transfer/ repatriation of profits in overseas branches and banking subsidiaries within 30 days of such action, to the Chief General Manager-in-Charge, Department of Regulation, Central Office, Mumbai with a copy to Chief General Manager-in-Charge, Department of Supervision, Central Office, Mumbai.
+
+## **Applicability**
+
+5. The guidelines in this Annex are not applicable to foreign banks, Small Finance Banks, Payments Banks and Regional Rural Banks.
+
+<sup>259</sup> Capital Conservation Buffer (CCB), including Domestic – Systemically Important Bank (D-SIB) capital requirements where applicable, and Counter-Cyclical Capital Buffer as may be mandated.
+
+<sup>260</sup> In case of retention of profits in overseas branch/ subsidiary, the reporting shall be done within 30 days of the finalisation of the annual financial statements of the overseas branch/ subsidiary.
+
+#### **Annex 22** (refer para 4.4.2(iii))
+
+# **Calculation of 15% of common equity limit on items subject to limited recognition (i.e., DTAs associated with timing differences and significant investments in common shares of unconsolidated financial entities)**
+
+1. Banks must follow the 15% limit on significant investments in the common shares of unconsolidated financial institutions (banks, insurance and other financial entities) and deferred tax assets arising from timing differences (collectively referred to as specified items) as stipulated in paragraph 3 of this circular.
+
+2. The recognition of these specified items will be limited to 15% of Common Equity Tier 1 (CET1) capital, after the application of all deductions. To determine the maximum amount of the specified items that can be recognised\*, banks should multiply the amount of CET1\*\* (after all deductions, including after the deduction of the specified items in full i.e., specified items should be fully deducted from CET1 along with other deductions first for arriving at CET1\*\*) by 17.65%. This number i.e., 17.65% is derived from the proportion of 15% to 85% (15%/85% = 17.65%).
+
+3. As an example, take a bank with Rs.85 of common equity (calculated net of all deductions, including after the deduction of the specified items in full).
+
+4. The maximum amount of specified items that can be recognised by this bank in its calculation of CET1 capital is Rs.85 x 17.65% = Rs.15. Any excess above Rs.15 must be deducted from CET1. If the bank has specified items (excluding amounts deducted after applying the individual 10% limits) that in aggregate sum up to the 15% limit, CET1 after inclusion of the specified items, will amount to Rs.85 + Rs.15 = Rs.100. The percentage of specified items to total CET1 would equal 15%.
+
+\* The actual amount that will be recognised may be lower than this maximum, either because the sum of the three specified items are below the 15% limit set out in this annex, or due to the application of the 10% limit applied to each item.
+
+\*\* At this point, this is a "hypothetical" amount of CET1 in that it is used only for the purposes of determining the deduction of the specified items.
+
+### **Annex 23** (refer para 5.9.3)
+
+### **Illustrations of revised instructions on Regulatory Retail**
+
+**Scenario 1** : As on October 12, 2020, a bank has an exposure of ₹4 crore to borrower A which qualifies for classification as 'regulatory retail' in terms of Paragraph 5.9 of the Master Circular. Accordingly, it attracts 75% risk weight.
+
+If the bank takes an additional exposure to borrower A upto ₹7.5 crore and which continues to satisfy all other eligibility criteria of para 5.9 of the above-mentioned circular, the entire revised exposure shall qualify for classification as 'regulatory retail' and attract 75% risk weight.
+
+**Scenario 2** : As on October 12, 2020, a bank has an exposure of ₹6 crore to borrower B. After October 12, 2020, if the bank takes an additional exposure to borrower B, upto ₹7.5 crore and which otherwise satisfies all other eligibility criteria of para 5.9 of the above-mentioned circular, the entire revised exposure shall qualify for classification as 'regulatory retail' and attract 75% risk weight. However, if no additional exposure is taken after October 12, 2020, then the existing exposure shall continue to attract risk weight as applicable earlier. The illustrations are tabulated below.
+
+
+#### **Annex 24**
+
+**Format- Reporting of Capital Issuances**
+
+
+Banks may also email a soft copy of such details in excel format to [cgmicdor@rbi.org.in](mailto:cgmicdor@rbi.org.in)
+
+2. The reporting shall be duly certified by the compliance officer of the bank.
+
+3. The compliance of the capital issuances with the Basel III Capital regulations will continue to be examined by our Department of Supervision, in course of the supervisory evaluation.
+
+
+## **Clarifications regarding Bilateral Netting under Current Exposure Method**
+
+
+
+## **GLOSSARY**
+
+
+
+
+
+## **Annex 27**
+
+(Cf. Para 2 of the covering circular)
+
+
+## **List of Circulars Consolidated in the Master Circular**
+
+

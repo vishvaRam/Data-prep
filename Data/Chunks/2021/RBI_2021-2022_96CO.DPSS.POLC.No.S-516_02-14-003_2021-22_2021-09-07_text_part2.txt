@@ -1,0 +1,15 @@
+*Conditions to be fulfilled for offering CoFT services**
+
+- 1. For the purpose of CoFT, the token shall be unique for a combination of card, token requestor and merchant[4.](#page-2-1)
+- 2. If card payment for a purchase transaction at a merchant is being performed along with the registration for CoFT, then AFA validation may be combined.
+- 3. The merchant shall give an option to the cardholder to de-register the token. Further, a token requestor having direct relationship with the cardholder shall list the merchants in respect of whom the CoFT has been opted through it by the cardholder; and provide an option to deregister any such token.
+- 4. A facility shall also be given by the card issuer to the cardholder to view the list of merchants in respect of whom the CoFT has been opted by her / him, and to de-register any such token. This facility shall be provided through one or more of the following channels – mobile application, internet banking, Interactive Voice Response (IVR) or at branches / offices.
+- 5. Whenever a card is renewed or replaced, the card issuer shall seek explicit consent of the cardholder for linking it with the merchants with whom (s)he had earlier registered the card.
+- 6. The TSP shall put in place a mechanism to ensure that the transaction request has originated from the merchant and the token requestor with whom the token is associated.
+- 7. All other provisions of the RBI circulars [dated January 8, 2019](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0) and [August 25, 2021](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12152&Mode=0) shall be applicable.
+
+------------------------
+
+8. The TSPs shall monitor and ensure compliance in this regard.
+
+<span id="page-2-1"></span> <sup>4</sup> The word "merchant" wherever used in this circular refers to the end-merchant. However, in case of an e-commerce marketplace entity, merchant refers to the said e-commerce entity. Further, token requestor and merchant may or may not be the same entity.

@@ -1,0 +1,27 @@
+| Table 1: Prudential limits for outstanding borrowing transactions in Call, Notice<br>and Term Money Markets |                              |                                               |  |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------------------|--|
+| Sr. No.                                                                                                     | Participant Category         | Prudential Limit                              |  |
+| 1                                                                                                           | Scheduled<br>Commercial      | Call and Notice Money:                        |  |
+|                                                                                                             | Banks<br>(including<br>Small | (i) 100% of capital funds, on a daily average |  |
+|                                                                                                             | Finance Banks)               | basis in a reporting fortnight, and           |  |
+|                                                                                                             |                              | (ii) 125% of capital funds on any given day.  |  |
+|                                                                                                             |                              | Term Money:                                   |  |
+
+|   |                         | (i) Internal board<br>approved limit within the      |
+|---|-------------------------|------------------------------------------------------|
+|   |                         | prudential limits for inter-bank liabilities.        |
+| 2 | Payment<br>Banks<br>and | Call, Notice and Term Money:                         |
+|   | Regional Rural Banks    | (i) 100% of capital funds, on a daily average        |
+|   |                         | basis in a reporting fortnight, and                  |
+|   |                         | (ii) 125% of capital funds on any given day.         |
+| 3 | Co-operative Banks      | Call,<br>Notice and Term Money:                      |
+|   |                         | (i) 2.0% of aggregate deposits as at the end of      |
+|   |                         | the previous financial year.                         |
+| 4 | Primary Dealers         | Call and Notice Money:                               |
+|   |                         | (i) 225% of Net Owned Fund (NOF)<br>as at the end    |
+|   |                         | of the previous financial year<br>on a daily average |
+|   |                         | basis in a reporting fortnight.                      |
+|   |                         | Term Money:                                          |
+|   |                         | (i)<br>225% of Net<br>Owned Fund (NOF) as at the end |
+|   |                         | of the previous financial year.                      |
+

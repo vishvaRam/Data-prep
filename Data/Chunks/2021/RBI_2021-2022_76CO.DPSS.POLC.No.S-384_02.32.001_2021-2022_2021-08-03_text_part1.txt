@@ -1,0 +1,46 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2021-22/76 CO.DPSS.POLC.No.S-384/02.32.001/2021-2022 August 3, 2021
+
+The Chairman / Managing Director / Chief Executive Officer All Non-Bank Payment System Operators
+
+Madam / Dear Sir,
+
+# **Framework for Outsourcing of Payment and Settlement-related Activities by Payment System Operators**
+
+The Payment System Operators (PSOs), by virtue of services they provide and the construct of models on which they operate, largely outsource their payment and settlement-related activities to various other entities.
+
+2. In order to enable effective management of attendant risks in outsourcing of such activities, it was announced in the [Statement on Developmental and Regulatory Policies](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51078) released with the [bi-monthly Monetary Policy Statement 2020-21 on February 05, 2021,](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51077) that a framework for outsourcing of payment and settlement-related activities by PSOs, will be issued by the Reserve Bank of India. Accordingly, a framework for the same is provided in the [Annex.](#page--1-0) The PSOs shall ensure that all their outsourcing arrangements, including the existing ones, are in compliance with this framework by March 31, 2022.
+
+3. This framework is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(P Vasudevan) Chief General Manager
+
+भुगतान और िनपटान �णाली िवभाग, क� �ीय कायार्लय, 14वी मंिजल, क� �ीय कायार्लय भवन,शहीद भगत �संह मागर्, फोटर्, मुम्बई - 400001 फोन Tel: (91-22) 2264 4995; फै क्स Fax: (91-22) 22691557; ई-मेल e-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in) Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400001
+
+�हंदी आसान है, इसका �योग बढ़ाइए
+
+(RBI circular CO.DPSS.POLC.No.S-384/02.32.001/2021-2022 dated August 3, 2021) **Framework for Outsourcing of Payment and Settlement-related activities by PSOs**[1](#page--1-1)
+
+# 1. **Introduction**
+
+- 1.1. This framework is applicable to non-bank PSOs insofar as it relates to their payment and / or settlement-related activities.
+- 1.2. It seeks to put in place minimum standards to manage risks in outsourcing of payment and / or settlement-related activities (including other incidental activities like onboarding customer[s2](#page--1-2) , IT based services, etc.).
+- 1.3. The framework is not applicable to activities other than those related to payment and / or settlement services, such as internal administration, housekeeping or similar functions.
+- 1.4. For the purpose of this framework, 'outsourcing' is defined as use of a third party (i.e. service provider) to perform activities on a continuing basis that would normally be undertaken by the PSO itself, now or in the future. 'Continuing basis' would include agreements for a limited period.
+- 1.5. The term 'service provider' includes, but is not limited to, vendors, payment gateways, agents, consultants and / or their representatives that are engaged in the activity of payment and / or settlement systems. It also includes sub-contractors (i.e., secondary service providers) to whom the primary service providers may further outsource whole or part of some activity related to payment and settlement system activities outsourced by the PSO.
+- 1.6. This framework is applicable to a service provider, whether located in India or elsewhere.
+- 1.7. The service provider, unless it is a group company of the PSO, shall not be owned or controlled by any director or officer of the PSO or their relatives; the terms – control, director, officer and relative – have the same meaning as assigned to them under the Companies Act, 2013.
+- 1.8. Outsourcing process is associated with several risks; following is an illustrative list of such risks:
+
+<sup>1</sup> As per the Payment and Settlement Systems Act, 2007, a "system provider" means a person who operates an authorised payment system. The terms *'Provider'* and *'Operator'* have been used interchangeably in this framework*.*
+
+<sup>2</sup> The word "customer" wherever used in this framework includes the end-user, i.e., general public, who uses the payment system product(s). Further, customer data / information includes payments-related data / information also.
+
+- a) Compliance Risk Where privacy, customer / consumer and prudential laws are not adequately complied with by the service provider;
+- b) Concentration and Systemic Risk Where the overall industry has considerable exposure to one service provider and hence, individual PSO may lack control over the service provider;
+- c) Contractual Risk Where the PSO may not have the ability to enforce the contract;
+- d) Country Risk When political, social or legal climate creates added risk;
+- e) Cyber Security risk Where breach in IT systems may lead to potential loss of data, information, reputation, money

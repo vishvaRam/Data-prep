@@ -1,0 +1,47 @@
+ent to the period until the next interest fixing and a short position in a fixed-rate instrument of maturity equivalent to the residual life of the swap*. For swaps that pay or receive a fixed or floating interest rate against some other reference price, e.g., a stock index, the interest rate component should be slotted into the appropriate repricing maturity category, with the equity component being included in the equity framework.
+
+Separate legs of cross-currency swaps are to be reported in the relevant maturity ladders for the currencies concerned.
+
+# **2. Calculation of capital charges for derivatives under the Standardised Methodology**
+
+## **(a) Allowable offsetting of Matched Positions**
+
+Banks may exclude the following from the interest rate maturity framework altogether (for both specific and general market risk);
+
+- Long and short positions (both actual and notional) in identical instruments with exactly the same issuer, coupon, currency and maturity.
+- A matched position in a future or forward and its corresponding underlying may also be fully offset, (the leg representing the time to expiry of the future should however be reported) and thus excluded from the calculation.
+
+When the future or the forward comprises a range of deliverable instruments, offsetting of positions in the future or forward contract and its underlying is only permissible in cases where there is a readily identifiable underlying security which is most profitable for the trader with a short position to deliver. The price of this security, sometimes called the "cheapest-to-deliver", and the price of the future or forward contract should in such cases move in close alignment.
+
+No offsetting will be allowed between positions in different currencies; the separate legs of crosscurrency swaps or forward foreign exchange deals are to be treated as notional positions in the relevant instruments and included in the appropriate calculation for each currency.
+
+In addition, opposite positions in the same category of instruments can in certain circumstances be regarded as matched and allowed to offset fully. To qualify for this treatment the positions must relate to the same underlying instruments, be of the same nominal value and be denominated in the same currency. In addition:
+
+- for Futures: offsetting positions in the notional or underlying instruments to which the futures contract relates must be for identical products and mature within seven days of each other;
+- for Swaps and FRAs: the reference rate (for floating rate positions) must be identical and the coupon closely matched (i.e. within 15 basis points); and
+- for Swaps, FRAs and Forwards: the next interest fixing date or, for fixed coupon positions or forwards, the residual maturity must correspond within the following limits:
+	- o less than one month hence: same day;
+	- o between one month and one year hence: within seven days;
+	- o over one year hence: within thirty days.
+
+Banks with large swap books may use alternative formulae for these swaps to calculate the positions to be included in the duration ladder. The method would be to calculate the sensitivity of the net present value implied by the change in yield used in the duration method and allocate these sensitivities into the time-bands set out in Table 15 in paragraph 8.3.9 of this Master Circular.
+
+## **(b) Specific Risk**
+
+Interest rate and currency swaps, FRAs, forward foreign exchange contracts and interest rate futures will not be subject to a specific risk charge. This exemption also applies to futures on an interest rate index (e.g., LIBOR). However, in the case of futures contracts where the underlying is a debt security, or an index representing a basket of debt securities, a specific risk charge will apply according to the credit risk of the issuer as set out in paragraphs above.
+
+### **(c) General Market Risk**
+
+General market risk applies to positions in all derivative products in the same manner as for cash positions, subject only to an exemption for fully or very closely matched positions in identical instruments as defined in paragraphs above. The various categories of instruments should be slotted into the maturity ladder and treated according to the rules identified earlier.
+
+
+**Table A - Summary of Treatment of Interest Rate Derivatives**
+
+# **B. Treatment of Options**
+
+1. In recognition of the wide diversity of banks' activities in options and the difficulties of measuring price risk for options, alternative approaches are permissible as under:
+
+- those banks which solely use purchased options<sup>201</sup> shall be free to use the simplified approach described in Section I below;
+- those banks which also write options shall be expected to use one of the intermediate approaches as set out in Section II below.
+
+2. In the *simplified approach*, the positions for the options and the associated underlying, cash or forward, are not subject to the standardised methodology but rather are "carved-out" and 

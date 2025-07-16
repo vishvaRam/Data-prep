@@ -1,0 +1,34 @@
+overnment contractors/suppliers, which constitute banking transactions undertaken by banks for their customers.
+
+(b) The banking business of autonomous/statutory bodies/Municipalities/ companies/Corporations/Local Bodies.
+
+(c) Payments which have been classified as capital in nature by government to cover losses incurred by autonomous/statutory bodies/ Municipalities/ Corporations/Local Bodies, etc.
+
+(d) Prefunded schemes which may be implemented by a Central Government Ministry/Department (in consultation with CGA) and a State Government Department through any bank.
+
+- (e) Transactions related to Gold Monetisation Scheme 2015
+- (f) Transactions arising out of Letters of Credit / Bank Guarantee opened by banks on behalf of Ministries/Departments etc. do not qualify for agency commission as RBI only reimburses the paid amount to the banks based on the mandate received from the governments.
+- (g) Any other item of work specifically advised by Reserve Bank or Central or State Government as ineligible for agency commission
+
+9. Agency Banks are advised to meticulously follow instructions issued by RBI from time to time regarding transactions which are not eligible for agency commission and submit their claims for agency commission accordingly. All agency banks while claiming agency commission should certify that no claim of agency commission is made on ineligible transactions.
+
+# **Reporting of transactions by agency banks to RBI**
+
+10. After the operationalisation of NEFT 24X7 and RTGS 24X7, agency banks authorised to collect GST shall upload their luggage files in RBI's QPX/E-Kuber on all days except the Global holidays, which are January 26, August 15, October 2, all non-working Saturdays, all Sundays and any other day declared holiday by RBI for Government Transactions due to exigencies.
+
+11. State government transactions (electronic as well as in physical mode) of previous month reported after 8th of the succeeding month and those pertaining to earlier months should be reported to RBI through a separate statement for accounting, after being confirmed by the competent authorities of concerned state government.
+
+12. For Central Government transactions (electronic as well as in physical mode) or any adjustments thereof, if reported after a gap of 90 days from the date of transaction, agency banks have to obtain prior approval from concerned ministry/department and submit the same to RBI separately at the time of reporting such transactions for settlement.
+
+### **Rates for agency commission**
+
+13. As per agency bank agreement, RBI pays agency commission at rates determined by it. The rates applicable with effect from July 1, 2019 are as under:
+
+
+14. In this context, the 'Receipts-e-mode transactions' indicated against Sr. No. a.(ii) in the above table refer to those transactions involving remittance of funds from the remitter's bank account through internet banking as well as such transactions which do not involve physical receipt of cash /instruments at all. For example, challan generated electronically and submitted to agency bank along with cash/instrument should be treated as transaction under physical mode.
+
+15. With reference to the implementation of Goods and Service Tax (GST) regime, it is advised that a single Common Portal Identification Number (CPIN), processed successfully leading to generation of a Challan Identification Number (CIN), under GST payment process, may be treated as a single transaction, even if multiple major head/sub major head/minor head of accounts are credited. This means that CGST, SGST, IGST and Cess etc. paid through a single challan would constitute a single transaction. Thus, all such records clubbed under a single challan i.e., CPIN have to be treated as a single transaction for the purpose of claiming agency commission effective July 1, 2017.
+
+16. Similarly, in case of transactions not covered under GST, it is emphasised that a single challan (electronic or physical) should be treated as single transaction only and not multiple transactions, even if the challan contains multiple major head/sub major head/minor head of accounts that will get credited. Therefore, records clubbed under a single challan processed successfully have to be treated as a single transaction for the purpose of claiming agency commission.
+
+17. Agency banks would be eligible to claim agency commission for pension transactions at the rate of ₹75 per transaction only when the entire work relating to disbursement of pension including pension calculation is attended to by them. If the work relating to pension calculations, etc., is attended to by the concerned Government Department / Treasury and the banks are required only to credit the amount of pension to the pensioners' accounts maintained with them by a single debit to Government Account, such transaction is to be categorised under 'other than pension payment' and would be eligible for payment of agency commission @ 6.5 paise per ₹ 100/- turnover w.e.f

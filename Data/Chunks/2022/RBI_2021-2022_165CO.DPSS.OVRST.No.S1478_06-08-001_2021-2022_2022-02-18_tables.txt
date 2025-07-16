@@ -1,0 +1,11 @@
+| S. No. | Return Name                | Return Description                                                                                                              |
+|--------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 1      | WLA Customer<br>Complaints | Return contains information on complaints received,<br>resolved<br>and<br>pending against White Label ATM<br>Operators (WLAOs). |
+| 2      | WLA Statistics             | Return contains information on state and region –<br>wise ATMs deployed by WLAOs, transaction volume<br>and value, etc.         |
+
+| S. No. | Return Name     | Return Description                                                                                                                                                                                                                          |
+|--------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | PPI Statistics  | Return captures granular level information on volume<br>and value of transactions related to various Pre-paid<br>Payment Instruments (PPIs). Details are collected from<br>concerned banks and non-bank authorised issuers of<br>PPIs.      |
+| 2      | MTSS            | Return contains details related to remitting countries and<br>state-wise & region-wise remittance destinations under<br>Money Transfer Service Scheme (MTSS). Details are<br>collected from concerned Overseas Principals under<br>MTSS.    |
+| 3      | ATM deployment* | Return contains details of statistics on state and region<br>– wise ATMs deployed by banks and WLAOs. Details<br>are collected from concerned<br>banks and WLAOs to<br>monitor and regulate the payment and settlement<br>systems in India. |
+

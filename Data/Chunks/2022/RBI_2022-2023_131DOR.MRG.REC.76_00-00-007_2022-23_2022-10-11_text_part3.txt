@@ -1,0 +1,51 @@
+ses where the bank is not able to get sufficient data to assess UFCE and compute incremental capital and provisioning requirements except for the smaller entities covered under the alternative method provided in sub-clause (g) below, the bank shall take a conservative view and place the exposure to the entity at the last bucket which requires incremental provisioning of 80bps and a 25 per centage point increase in risk weight.
+
+(g) Banks shall have the option to follow an alternative method for exposures to smaller entities which are having foreign currency exposures and are not in position to provide information on their UFCE as per clause 4(b). Under this alternative method, banks shall apply an incremental provisioning of 10 bps over and above extant standard asset provisioning instead of computing incremental capital and provisioning requirements as provided in clause 5(a) to 5(e).
+
+*Explanation: For this purpose, smaller entities are those entities on which total exposure of the banking system is at Rs.50 crore or less.*
+
+### 6. Systems and Controls
+
+(a) Banks shall incorporate the risk of UFCE of entities in their internal credit rating system and credit risk management policies and procedures.
+
+(b) Banks shall stipulate internal limits for UFCE within the overall Board approved risk policy of the bank.
+
+# 7. Consortium Lending
+
+(a) In the case of consortium / multiple banking arrangements, the consortium leader / bank having the largest exposure shall have the lead role in monitoring the unhedged foreign exchange exposure of entities.
+
+*Note: Banks shall put in place a system for information sharing and dissemination in terms of [circular DBOD.No.BP.BC.94/08.12.001/2008-2009 dated December](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4699&Mode=0)  [8, 2008](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4699&Mode=0) on 'Lending under Consortium Arrangement / Multiple Banking Arrangements', as amended from time to time*
+
+# 8. Exemption / Relaxation
+
+(a) Banks shall have the option to exclude the following exposures from the calculation of UFCE:
+
+(i) Exposures to entities classified as sovereign[7,](#page-1-0) banks[8](#page-1-1) and individuals.
+
+(ii) Exposures classified as Non-Performing Assets.
+
+(iii) Intra-group foreign currency exposures of Multinational Corporations (MNCs) incorporated outside India[9](#page-1-2).
+
+**Provided that** the bank is satisfied that such foreign currency exposures are appropriately hedged or managed robustly by the parent.
+
+(iv) Exposures arising from derivative transactions and / or factoring transactions with entities, provided such entities have no other exposures to banks in India.
+
+### 9. Capital Treatment and Disclosures
+
+The incremental provision requirement for UFCE shall be treated as general provision for disclosures and inclusion in Tier 2 capital.
+
+10. Overseas Branches/Subsidiaries
+
+(a) The provisions of these Directions shall be applicable to overseas branches/subsidiaries of banks subject to the following:
+
+<span id="page-1-0"></span> <sup>7</sup> For this purpose, sovereign shall include domestic and foreign sovereign as provided in paragraph 5.2 and 5.3 o[f Master Circular on Basel III Capital Regulations dated April 1, 2022,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278) as amended from time to time.
+
+<span id="page-1-1"></span><sup>8</sup> For this purpose, RBI regulated financial institutions (SIDBI, NABARD, NHB, EXIM Bank and NaBFID), Bank of International Settlement (BIS), International Monetary Fund (IMF) and eligible Multilateral Development Banks (MDBs) listed in paragraph 5.5 of [Master Circular on Basel III Capital Regulations dated April 1, 2022](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12278) shall be considered as 'bank'.
+
+<span id="page-1-2"></span><sup>9</sup> For example, an Indian subsidiary of an MNC incorporated outside India may have borrowed from its parent.
+
+(i) With respect to the exposure to entities incorporated outside India, information on UFCE shall be obtained from such entities on a quarterly basis based on internal audit or self-declaration and the requirement of certificate from statutory auditors on annual basis, as provided in clause 4(b), may not be insisted upon. In cases where bank is not able to obtain information on UFCE from concerned entities, the treatment provided in clause 5(f) shall apply.
+
+(ii) Banks shall compute the potential loss due to UFCE by replacing INR with the domestic currency of that jurisdiction and USD with the foreign currency (i.e., currency other than domestic currency of that jurisdiction) in which the entity has maximum exposure in clause 5(a).
+
+*Note: Banks shall compute the largest annual volatility over a period of last ten years in the following manner: First, daily changes in the foreign exchange rates shall be computed as a log return of today's rate over the previous day's rate. Second, daily volatility shall be

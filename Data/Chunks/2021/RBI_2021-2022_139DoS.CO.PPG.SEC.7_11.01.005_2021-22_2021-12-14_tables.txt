@@ -1,0 +1,61 @@
+| Indicator            | Risk Threshold-1                              | Risk Threshold-2         | Risk Threshold-3         |
+|----------------------|-----------------------------------------------|--------------------------|--------------------------|
+| CRAR                 | Upto 300<br>bps below                         | More than 300<br>bps     | More than 600<br>bps     |
+|                      | the<br>regulatory                             | but upto 600<br>bps      | below<br>regulatory      |
+|                      | minimum<br>CRAR                               | below<br>regulatory      | minimum<br>CRAR          |
+|                      | [currently,<br>CRAR                           | minimum<br>CRAR          | [currently,<br>CRAR      |
+|                      | <15%<br>but ≥12%]                             | [currently,<br>CRAR      | <9%]                     |
+|                      |                                               | <12%<br>but ≥9%]         |                          |
+| Tier I Capital Ratio | Upto 200<br>bps below<br>More than 200<br>bps |                          | More than 400<br>bps     |
+|                      | the<br>regulatory                             | but upto 400<br>bps      | below<br>the             |
+|                      | minimum<br>Tier<br>I                          | below<br>the             | regulatory minimum       |
+|                      | Capital<br>Ratio                              | regulatory minimum       | Tier I Capital Ratio     |
+|                      | [currently,<br>Tier<br>I                      | Tier I Capital Ratio     | [currently,<br>Tier<br>I |
+|                      | Capital Ratio <10%                            | [currently,<br>Tier<br>I | Capital Ratio <6%]       |
+|                      | but ≥8%]                                      | Capital Ratio <8%        |                          |
+|                      |                                               | but ≥6%]                 |                          |
+| NNPA<br>Ratio        | >6% but ≤<br>9%                               | >9% but<br>≤12%          | >12%                     |
+| (including NPIs)     |                                               |                          |                          |
+
+| Indicator              | Risk Threshold-1   | Risk Threshold-2       | Risk Threshold-3    |
+|------------------------|--------------------|------------------------|---------------------|
+| Adjusted Net Worth     | Upto 600 bps below | More than 600 bps      | More than 1200 bps  |
+| /<br>Aggregate<br>Risk | the<br>regulatory  | but<br>upto<br>1200bps | below<br>regulatory |
+| Weighted Assets        | minimum            | below<br>regulatory    | minimum             |
+|                        | ANW/RWA            | minimum                | ANW/RWA             |
+|                        | [currently,        | ANW/RWA                | [currently,         |
+|                        | ANW/RWA<br><30%    | [currently,            | ANW/RWA<br><18%]    |
+|                        | but ≥24%]          | ANW/RWA<br><24%        |                     |
+|                        |                    | but ≥18%]              |                     |
+
+| Indicator        | Risk Threshold-1  | Risk Threshold-2   | Risk Threshold-3 |
+|------------------|-------------------|--------------------|------------------|
+| Leverage Ratio   | ≥2.5 times but <3 | ≥ 3 times but <3.5 | ≥3.5<br>times    |
+|                  | times             | times              |                  |
+| NNPA<br>Ratio    | >6% but ≤<br>9%   | >9% but<br>≤12%    | >12%             |
+| (including NPIs) |                   |                    |                  |
+
+| Mandatory and Discretionary actions |                                         |                            |  |
+|-------------------------------------|-----------------------------------------|----------------------------|--|
+| Specifications                      | Mandatory actions                       | Discretionary actions      |  |
+| Risk Threshold                      | •<br>Restriction on dividend            |                            |  |
+| 1                                   | distribution/remittance of profits;     |                            |  |
+|                                     | •<br>Promoters/shareholders to infuse   | Common menu                |  |
+|                                     | equity and reduction in leverage;       | •<br>Special Supervisory   |  |
+|                                     | •<br>Restriction on issue of guarantees | Actions                    |  |
+|                                     | or taking on other contingent           | •<br>Strategy related      |  |
+|                                     | liabilities on behalf of group          | •<br>Governance related    |  |
+|                                     | companies (only for CICs)               | •<br>Capital related       |  |
+| Risk Threshold                      | In addition to mandatory actions of     | •<br>Credit risk related   |  |
+| 2                                   | Threshold 1,                            | •<br>Market risk related   |  |
+|                                     | •<br>Restriction<br>on branch expansion | •<br>HR related            |  |
+| Risk Threshold                      | In addition to mandatory actions of     | •<br>Profitability related |  |
+| 3                                   | Threshold 1 & 2,                        |                            |  |
+
+| •<br>Appropriate restrictions on capital                   | •<br>Operations/Business |
+|------------------------------------------------------------|--------------------------|
+| expenditure, other than for                                | related                  |
+| technological upgradation within                           | •<br>Any other.          |
+| Board approved limits                                      |                          |
+| •<br>Restrictions/reduction in variable<br>operating costs |                          |
+

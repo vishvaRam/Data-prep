@@ -1,0 +1,27 @@
+s should not undertake any transactions on behalf of Portfolio Management Scheme (PMS) clients in their fiduciary capacity, and on behalf of other clients, either as custodians of their investments or purely as their agents.
+
+3.2 The bank's Investment Policy should clearly indicate the authority to put through investment deals, the procedure to be followed for obtaining sanction of the appropriate authority for putting through deals, fixing various prudential exposure limits, and reporting system.
+
+3.3 The Investment Policy of the bank should include guidelines on the quantity (ceiling) and quality of each type of security to be held on its own investment account. It should be prepared strictly observing the instructions issued by the Registrar of Cooperative Societies (Central Registrar of Co-operative Societies, where applicable) and the Reserve Bank from time to time and clearly spell out the internal control mechanism, accounting standards, audit, review and reporting system to be evolved.
+
+3.4 All the transactions should be clearly recorded indicating full details. The Top Management should undertake a periodic review of investment transactions in a critical manner and put up details of large transactions to the Board, for information.
+
+3.5 A copy of the internal Investment Policy guidelines framed by the bank with the approval of its Board should be forwarded to the concerned Regional Office of Department of Supervision, Reserve Bank, certifying that the policy is in accordance with the prescribed guidelines and the same has been put in place. Subsequent changes, if any, in the Investment Policy should also be advised to the Regional Office of the Reserve Bank.
+
+3.6 For investment in non-SLR instruments, banks should review their Investment Policy and ensure that it provides for the nature and extent of investments intended to be made, the risk parameters, and cut-loss limits for holding / divesting the investments. The banks should put in place proper risk management systems for capturing and analyzing the risk in respect of non-SLR investments and taking remedial measures in time. Banks should also be guided by instructions given in paragraph 12 of this Master Circular.
+
+## **4 GENERAL GUIDELINES**
+
+4.1 UCBs should not undertake any purchase/sale transactions with broking firms or other intermediaries on principal-to-principal basis.
+
+5
+
+4.2 Banks should not hold an oversold position in any security except for those banks which are eligible to undertake short sale position in Government securities as prescribed in paragraph 10 of this Master Circular. However, scheduled UCBs may sell a Government Security already contracted for purchase, provided:
+
+- 4.2.1 the purchase contract is confirmed prior to the sale,
+- 4.2.2 the purchase contract is guaranteed by Clearing Corporation of India Ltd. (CCIL) or the security is contracted for purchase from the Reserve Bank and,
+- 4.2.3 the sale transaction will settle either in the same settlement cycle as the preceding purchase contract, or in a subsequent settlement cycle so that the delivery obligation under the sale contract is met by the securities acquired under the purchase contract (e.g. when a security is purchased on T+0 basis, it can be sold on either T+0 or T+1 basis on the day of the purchase; if however it is purchased on T+1 basis, it can be sold on T+1 basis on the day of purchase or on T+0 or T+1 basis on the next day). Sale of Government Securities allotted to successful bidders in primary issues on the day of allotment, with and between CSGL constituent account holders is permitted.
+
+4.3 For purchase of securities from the Reserve Bank through Open Market Operations (OMO), no sale transactions should be contracted prior to receiving the confirmation of the deal/advice of allotment from the Reserve Bank.
+
+4.4 Banks should exercise abundant caution to ensure adherence to these guidelines. The concurrent auditors should specifically verify the compliance with these instructions. The concurrent audit reports should contain specific observations on the compliance with the above instructions and should be incorporated in the monthly report to the Chairman/Managing Director/Chief Executive Officer of the bank and the half yearly review to be placed before the Board of Directors. CCIL will make available to all market participants as part of its daily reports, the time stamp of all transactions as received from NDS-OM. The mid office/back office and the auditors may use this information to supplement their checks/scrutiny of transactions for compliance with the instructions. Any violation noticed in this regard should immediately be reported to the concerned Regional Office of Department of Supervision, Reserve Bank of India. Any violation noticed in this regard would attract penalties as currently applicable to the bouncing of SGL even if the deal has been settled because of the netting benefit under DVP III, besides attracting further regulatory act

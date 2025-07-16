@@ -1,0 +1,36 @@
+oduct features, loan limit and cost, *etc.*, so as to make the borrowers aware of these aspects.
+- **5.6. Details of recovery agent** REs shall communicate to the borrower, at the time of sanctioning of the loan and also at the time of passing on the recovery responsibilities to an LSP or change in the LSP responsible for recovery, the details of the LSP acting as recovery agent who is authorised to approach the borrower for recovery.
+
+<span id="page-4-0"></span><sup>3</sup> Digitally signed means a document signed using digital signature.
+
+**5.7. Link to website -** REs shall ensure that DLAs of REs and LSPs have links to REs' website where further/ detailed information about the loan products, the lender, the LSP, particulars of customer care, link to Sachet Portal, privacy policies, *etc.* can be accessed by the borrowers. It shall be ensured that all such details are available at a prominent single place on the website for ease of accessibility.
+
+# **6. Grievance Redressal**
+
+- **6.1. Nodal grievance redressal officer** REs shall ensure that they and the LSPs engaged by them shall have a suitable nodal grievance redressal officer to deal with FinTech/ digital lending related complaints/ issues raised by the borrowers. Such grievance redressal officer shall also deal with complaints against their respective DLAs. Contact details of grievance redressal officers shall be prominently displayed on the websites of the RE, its LSPs and on DLAs and also in the KFS provided to the borrower. Further, the facility of lodging complaint shall also be made available on the DLA and on the website as stated above. It is reiterated that responsibility of grievance redressal shall continue to remain with the RE. Withdrawn
+- **6.2.** If any complaint lodged by the borrower against RE or the LSP engaged by the RE is not resolved by the RE within the stipulated period (currently 30 days), he/she can lodge a complaint over the Complaint Management System (CMS)[4](#page-0-0) portal under the Reserve Bank-Integrated Ombudsman Scheme (RB-IOS)[5](#page-0-1). For entities currently not covered under RB-IOS, complaint may be lodged as per the grievance redressal mechanism prescribed by the Reserve Bank.
+
+### **7. Assessing the borrower's creditworthiness**
+
+**7.1.** REs shall capture the economic profile of the borrowers covering (age, occupation, income, *etc.)*, before extending any loan over their own DLAs and/or through LSPs engaged by them, with a view to assessing the borrower's creditworthiness in an auditable way.
+
+<span id="page-0-0"></span><sup>4</sup> <https://cms.rbi.org.in/>
+
+<span id="page-0-1"></span><sup>5</sup> Issued *vide* Notification [CEPD. PRD. No.S873/13.01.001/2021-22 dated November 12, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12192&Mode=0)
+
+- **7.2.** REs shall ensure that there is no automatic increase in credit limit unless explicit consent of borrower is taken on record for each such increase.
+- **8. Cooling off/look-up period –**A borrower shall be given an explicit option to exit digital loan by paying the principal and the proportionate APR without any penalty during this period. The cooling off period shall be determined by the Board of the RE. The period so determined shall not be less than three days for loans having tenor of seven days or more and one day for loans having tenor of less than seven days. For borrowers continuing with the loan even after look-up period, pre-payment shall continue to be allowed as per extant RBI guidelines[6.](#page-1-0)
+
+# **9. Due diligence and other requirements with respect to LSPs**
+
+- **9.1.** REs must conduct enhanced due diligence before entering into a partnership with a LSP for digital lending, taking into account its technical abilities, data privacy policies and storage systems, fairness in conduct with borrowers and ability to comply with regulations and statutes. Withdrawn
+- **9.2.** REs shall carry out periodic review of the conduct of the LSPs engaged by them.
+- **9.3.** REs shall impart necessary guidance to LSPs acting as recovery agents to discharge their duties responsibly and ensure that they comply with the extant instructions[7](#page-1-1) in this regard.
+
+# **B. Technology and Data Requirement**
+
+### **10. Collection, usage and sharing of data with third parties**
+
+**10.1.**REs shall ensure that any collection of data by their DLAs and DLAs of their LSPs is need-based and with prior and explicit consent of the borrower having audit trail. In any case, REs shall also ensure that DLAs desist from accessing mobile phone resources like file and media, contact list, call logs, telephony functions,
+
+<span id="page-1-0"></span><sup>6</sup> In terms of [Circular DBR.Dir.BC.No.08/13.03.00/2019-20](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11646&Mode=0) for banks and [DNBR \(PD\) CC.No.101/03.10.001/2019-20](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11647&Mode=0) for NBFCs on "Levy of Foreclosure Charges 

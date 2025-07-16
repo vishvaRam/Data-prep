@@ -1,0 +1,41 @@
+ds of the Central Government Securities of equivalent maturity put out by FBIL periodically.
+
+#### 16.2.3 **Unquoted Non-SLR securities**
+
+#### (i) Debentures/Bonds
+
+All debentures/bonds other than debentures/ bonds which are in the nature of advance should be valued on the YTM basis. Such debentures/bonds may be of different ratings. These will be valued with appropriate mark-up over the YTM rates for Central Government securities as put out by FBIL/FIMMDA periodically. The mark-up will be graded according to the ratings assigned to the debentures/bonds by the rating agencies subject to the following:
+
+- (a) The rate used for the YTM for rated debentures/bonds should be at least 50 basis points above the rate applicable to a Government of India security of equivalent maturity,
+- (b) The rate used for the YTM for un-rated debentures/ bonds should not be less than the rate applicable to rated debentures/bonds of equivalent maturity. The mark-up for the un-rated debentures/bonds should appropriately reflect the credit risk borne by the bank.
+- (c) Where interest/principal on the debenture/bonds is in arrears, the provision should be made for the debentures as in the case of
+
+debentures/bonds treated as advances. The depreciation/provision requirement towards debentures where the interest is in arrears or principal is not paid as per due date, shall not be allowed to be set-off against appreciation against other debentures/bonds.
+
+(ii) Where the debentures/bond is quoted and there have been transactions within 15 days prior to the valuation date, the value adopted should not be higher than the rate at which the transaction is recorded on the stock exchange.
+
+#### (iii) Shares of Co-operative Institutions
+
+If UCBs have regularly received dividends from co-operative institutions, then their shares should be valued at face value. In a number of cases, the cooperative institutions in whose shares the UCBs have made investments have either gone into liquidation or have not declared dividend at all. In such cases, the banks should make full provision in respect of their investments in shares of such co-operative institutions. In cases where the financial position of co-operative institutions in whose shares banks have made investments is not available, the shares have to be taken at Re. 1/- per co-operative institution.
+
+#### (iv) Valuation of Non-SLR securities issued by the Government of India
+
+- (a) Over the years, the Government of India has, from time to time, issued several special securities which do not qualify for the purpose of complying with the SLR requirements of UCBs. Such Government securities are governed by a separate set of terms and conditions and entail a higher degree of illiquidity spread.
+- (b) For the limited purpose of valuation, all special securities issued by the Government of India, directly to the beneficiary entities, which do not carry SLR status, may be valued at a spread of 25 bps above the corresponding yield on Government of India securities.
+- (c) It may be noted, that at present, such special securities comprise: Oil Bonds, Fertiliser Bonds, bonds issued to the State Bank of India (during the rights issue), Unit Trust of India, Industrial Finance Corporation of India Ltd., Food Corporation of India, the erstwhile Industrial Investment Bank of India Ltd., the erstwhile Industrial Development Bank of India and the erstwhile Shipping Development Finance Corporation.
+
+## 16.2.4 **Units of Mutual funds**
+
+Investments in quoted debt/money market Mutual Fund Units should be valued as per stock exchange quotations. Investments in un-quoted Mutual Funds Units are to be valued on the basis of the latest re-purchase price declared by the Mutual Funds in respect of each particular Scheme. In case of funds with a lock-in period, or where repurchase price/market quote is not available, units could be valued at Net Asset Value (NAV). If NAV is not available, then these could be valued at cost, till the end of the lock-in period.
+
+# 17. **INVESTMENT FLUCTUATION RESERVE (IFR)**
+
+With a view to build up adequate reserves to guard against market risks:
+
+17.1 All UCBs shall build IFR out of realised gains on sale of investments, and subject to available net profit, of a minimum of 5 per cent of the investment portfolio. This minimum requirement should be computed with reference to investments in two categories, viz. HFT and AFS. However, banks are free to build up a higher percentage of IFR up to 10 per cent of the portfolio depending on the size and composition of their portfolio, with the approval of their Board of Directors.
+
+17.2 Banks should transfer maximum amount of the gains realised on sale of investment in securities to the IFR. Transfer to IFR shall be as an appropriation of net profit after appropriation to Statutory Reserve.
+
+17.3 The IFR consisting of realised gains from the sale of investments held in AFS & HFT would be eligible for inclusion in Tier II capital.
+
+17.4 Transfer from I

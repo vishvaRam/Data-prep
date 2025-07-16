@@ -1,0 +1,33 @@
+on for Diminution in the Fair Value of restructured Advances
+
+The erosion in the fair value of the advance should be computed as the difference between the fair value of the loan before and after restructuring. Fair value of the loan before restructuring will be computed as the present value of cash flows representing the interest at the existing rate charged on the advance before restructuring and the principal, discounted at a rate equal to the bank's BPLR as on the date of restructuring plus the appropriate term premium and credit risk premium for the borrower category on the date of restructuring". Fair value of the loan after restructuring will be computed as the present value of cash flows representing the interest at the rate charged on the advance on restructuring and the principal, discounted at a rate equal to the bank's BPLR as on the date of restructuring plus the appropriate term premium and credit risk premium for the borrower category on the date of restructuring".
+
+2.2.7.12 It may please be noted that the above formula moderates the swing in the diminution of present value of loans with the interest rate cycle and will have to be followed consistently in future.
+
+2.2.7.13 Further, it is reiterated that the provisions required as above arise due to the action of the banks resulting in change in contractual terms of the loan upon restructuring which are in the nature of financial concessions. These provisions are distinct from the provisions which are linked to the asset classification of the account classified as NPA and reflect the impairment due to deterioration in the credit quality of the loan. Thus, the two types of the provisions are not substitute for each other.
+
+2.2.7.14 It is also re-emphasised that the guidelines on restructuring of advances by RBI are aimed at providing an opportunity to banks and borrowers to preserve the economic value of the units and should not be looked at as a means to evergreen the advances.
+
+2.2.7.15 In their published annual Balance Sheets, banks shall make disclosures as per [Annex-6](#page--1-2)
+
+2.2.7.16 In the case of working capital facilities, the diminution in the fair value of the cash credit / overdraft component may be computed as indicated in para 2.2.7.11 above, reckoning the higher of the outstanding amount or the limit sanctioned as the principal amount and taking the tenor of the advance as one year. The term premium in the discount factor would be as applicable for one year. The fair value of the term loan components (Working Capital Term Loan and Funded Interest Term Loan) would be computed as per actual cash flows and taking the term premium in the discount factor as applicable for the maturity of the respective term loan components.
+
+2.2.7.17 In the event any security is taken in lieu of the diminution in the fair value of the advance, it should be valued at Re.1 This will ensure that the effect of charging off the economic sacrifice to the Profit & Loss account is not negated.
+
+2.2.7.18 The diminution in the fair value may be re-computed on each balance sheet date till satisfactory completion of all repayment obligations and full repayment of the outstanding in the account, so as to capture the changes in the fair value on account of changes in BPLR, term premium and the credit category of the borrower. Consequently, banks may provide for the shortfall in provision or reverse the amount of excess provision held in the distinct account.
+
+2.2.7.19 If due to lack of expertise / appropriate infrastructure, a bank finds it difficult to ensure computation of diminution in the fair value of advances extended by small branches, as an alternative to the methodology prescribed above for computing the amount of diminution in the fair value, banks will have the option of notionally computing the amount of diminution in the fair value and providing therefore, at five percent of the total exposure, in respect of all restructured accounts where the total dues to bank(s) are less than rupees one crore.
+
+2.2.7.20 The total provisions required against an account (normal provisions plus provisions in lieu of diminution in the fair value of the advance) are capped at 100% of the outstanding debt amount.
+
+(d) Prudential Norms for Conversion of Unpaid Interest into 'Funded Interest Term Loan' (FITL)
+
+#### 2.2.7.21 Asset Classification Norms
+
+The FITL created by conversion of unpaid interest will be classified in the same asset classification category in which the restructured advance has been classified. Further movement in the asset classification of FITL would also be determined based on the subsequent asset classification of the restructured advance.
+
+#### 2.2.7.22 Income Recognition Norms
+
+(i) The income, if any, generated may be recognised on accrual basis, if FITL is classified as 'standard', and on cash basis in the cases where the same has been classified as a non-performing asset.
+
+(ii) The unrealised income represented by FITL should have a corres

@@ -1,0 +1,59 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+### RBI/2021-22/112 DOR.CRE.REC.No.60/03.10.001/2021-22 October 22, 2021
+
+All Non-Banking Financial Companies
+
+Madam / Sir,
+
+# **Scale Based Regulation (SBR): A Revised Regulatory Framework for NBFCs**
+
+The contribution of NBFCs towards supporting real economic activity and their role as a supplemental channel of credit intermediation alongside banks is well recognised. Over the years, the sector has undergone considerable evolution in terms of size, complexity, and interconnectedness within the financial sector. Many entities have grown and become systemically significant and hence there is a need to align the regulatory framework for NBFCs keeping in view their changing risk profile.
+
+**2.** Pursuant to the announcement made in the [Statement on Developmental and Regulatory](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=50748)  [Policies dated December 04, 2020,](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=50748) a discussion paper titled '*[Revised Regulatory Framework](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51011)  for NBFCs - [A Scale-based Approach'](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51011)* was issued for public comments on January 22, 2021. Based on the inputs received, it has now been decided to put in place a revised regulatory framework for NBFCs (**[Annex](#page--1-0)**).
+
+**3.** As the SBR framework encompasses different facets of regulation of NBFCs covering capital requirements, governance standards, prudential regulation, etc., it has been decided to first issue an integrated regulatory framework for NBFCs under SBR providing a holistic view of the SBR structure, set of fresh regulations being introduced and respective timelines. Detailed guidelines as delineated in the Annex, will be issued subsequently.
+
+**4.** These guidelines shall be effective from October 01, 2022. The instructions relating to ceiling on IPO funding given vide para 3.1(d) of the Annex shall come into effect from April 01, 2022.
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+�हंदीआसानहै, इसका�योगबढाइये।
+
+#### **Annex**
+
+## **Framework for Scale Based Regulation for Non-Banking Financial Companies**
+
+### **Section I**
+
+# **1. REGULATORY STRUCTURE FOR NBFCS**
+
+**1.1** Regulatory structure for NBFCs shall comprise of four layers based on their size, activity, and perceived riskiness. NBFCs in the lowest layer shall be known as NBFC - Base Layer (NBFC-BL). NBFCs in middle layer and upper layer shall be known as NBFC - Middle Layer (NBFC-ML) and NBFC - Upper Layer (NBFC-UL) respectively. The Top Layer is ideally expected to be empty and will be known as NBFC - Top Layer (NBFC-TL).
+
+Details of NBFCs populating the various layers shall be as prescribed in paras 1.2 to 1.6 below:
+
+### **Base Layer**
+
+**1.2** The Base Layer shall comprise of (a) non-deposit taking NBFCs below the asset size of ₹1000 crore and (b) NBFCs undertaking the following activities- (i) NBFC-Peer to Peer Lending Platform (NBFC-P2P), (ii) NBFC-Account Aggregator (NBFC-AA), (iii) Non-Operative Financial Holding Company (NOFHC) and (iv) NBFCs not availing public funds and not having any customer interface[1.](#page--1-2)
+
+### **Middle Layer**
+
+**1.3** The Middle Layer shall consist of (a) all deposit taking NBFCs (NBFC-Ds), irrespective of asset size, (b) non-deposit taking NBFCs with asset size of ₹1000 crore and above and (c) NBFCs undertaking the following activities (i) Standalone Primary Dealers (SPDs), (ii) Infrastructure Debt Fund - Non-Banking Financial Companies (IDF-NBFCs), (iii) Core Investment Companies (CICs), (iv) Housing Finance Companies (HFCs) and (v) Infrastructure Finance Companies (NBFC-IFCs).
+
+### **Upper Layer**
+
+**1.4** The Upper Layer shall comprise of those NBFCs which are specifically identified by the Reserve Bank as warranting enhanced regulatory requirement based on a set of parameters and scoring methodology as provided in the **[Appendix](#page--1-1)** to this circular. The top ten eligible NBFCs in terms of their asset size shall always reside in the upper layer, irrespective of any other factor.
+
+### **Top Layer**
+
+**1.5** The Top Layer will ideally remain empty. This layer can get populated if the Reserve Bank is of the opinion that there is a substantial increase in the potential systemic risk from specific NBFCs in the Upper Layer. Such NBFCs shall move to the Top Layer from the Upper Layer.
+
+<sup>1</sup> Public Funds and Customer Interface as defined in [Master Direction on Non-Banking Financial Company -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) Systemically Important Non-[Deposit taking Company and Deposit taking Company \(Reserve Bank\) Directions, 2016 dated September](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) 01, 2016
+
+### **Categorisation of NBFCs carrying out specific acti

@@ -1,0 +1,36 @@
+nts /
+
+<span id="page-0-0"></span><sup>6</sup> Sensitive Sector Exposure as enumerated in para 3.6, Annex XIV o[f Master Direction on Non-Banking Financial Company -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) [Systemically Important Non-Deposit taking Company and Deposit taking Company \(Reserve Bank\) Directions, 2016 dated](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) [September 01, 2016](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)
+
+<span id="page-0-1"></span><sup>7</sup> No housing finance company shall invest in land or buildings, except for its own use, an amount exceeding twenty per cent of its capital fund.
+
+<span id="page-0-2"></span><sup>8</sup> The aggregate exposure of a housing finance company to the capital market in all forms (both fund based, and non-fund based) should not exceed 40 per cent of its net worth as on March 31 of the previous year.
+
+other statutory authorities for the project, wherever required. To ensure that the loan approval process is not hampered on account of this, while the proposals could be sanctioned in normal course, the disbursements shall be made only after the borrower has obtained requisite clearances from the government authorities.
+
+A detailed circular on the areas mentioned at para **c** above will be issued by the Reserve Bank in due course. In the meantime, extant norms shall prevail.
+
+#### Additional regulatory changes under SBR applicable to NBFC-UL
+
+- **d) Large Exposure Framework** It has been decided to introduce Large Exposure Framework (LEF) for NBFCs placed in the Upper Layer. Accordingly, large exposure of an NBFC to all counterparties and groups of connected counterparties will be considered for exposure ceilings. Simplified and separate guidelines will be issued incorporating the definition of large exposure, regulatory reporting and large exposure limits.
+- **e) Internal Exposure Limits** In addition to the internal limits on SSE in respect of capital market and commercial real estate as indicated in para b) above, Board of NBFC-UL shall also determine internal exposure limits on other important sectors to which credit is extended. Further, NBFC-UL shall put in place an internal Board approved limit for exposure to the NBFC sector.
+
+## **3.2.3 Governance Guidelines**
+
+### Regulatory changes under SBR applicable to NBFC-BL
+
+- **a) Risk Management Committee** In order that the Board is able to focus on risk management, NBFCs shall constitute a Risk Management Committee (RMC) either at the Board or executive level**.** The RMC shall be responsible for evaluating the overall risks faced by the NBFC including liquidity risk and will report to the Board.
+- **b) Disclosures**  Disclosure requirements shall be expanded, *inter alia*, to include types of exposure, related party transactions, loans to Directors/ Senior Officers and customer complaints.
+- **c) Loans to directors, senior officers and relatives of directors** NBFC-BL shall have a Board approved policy on grant of loans to directors, senior officers and relatives of directors and to entities where directors or their relatives have major shareholding.
+
+A detailed circular on paras **3.2.3 (b) & (c)** will be issued by the Reserve Bank in due course.
+
+# Regulatory changes under SBR applicable to NBFC-ML and NBFC-UL
+
+- **d) Key Managerial Personnel** Except for directorship in a subsidiary, Key Managerial Personnel[9](#page-2-0) shall not hold any office (including directorships) in any other NBFC-ML or NBFC-UL. A timeline of two years is provided with effect from October 01, 2022 to ensure compliance with these norms. It is clarified that they can assume directorship in NBFC-BLs.
+- **e) Independent Director** Within the permissible limits in terms of Companies Act, 2013, an independent director shall not be on the Board of more than three NBFCs (NBFC-ML or NBFC-UL) at the same time. Further, the Board of the NBFC shall ensure that there is no conflict arising out of their independent directors being on the Board of another NBFC at the same time. A timeline of two years is provided with effect from October 01, 2022 to ensure compliance with these norms. There shall be no restriction to directorship on the Boards of NBFC-BLs, subject to applicable provisions of Companies Act, 2013.
+- **f) Disclosures** NBFCs shall, in addition to the existing regulatory disclosures, disclose the following in their Annual Financial Statements, with effect from March 31, 2023:
+	- i) Corporate Governance report containing composition and category of directors, shareholding of non-executive directors, etc.
+	- ii) Disclosure on modified opinion, if any, expressed by auditors, its impact on various financial items and views of management on audit qualifications.
+	- iii) Items of income and expenditure of exceptional nature.
+	- iv) Breaches in terms of covenants in respect of loans availed by the NBFC or debt securities issued by the NBFC including incid

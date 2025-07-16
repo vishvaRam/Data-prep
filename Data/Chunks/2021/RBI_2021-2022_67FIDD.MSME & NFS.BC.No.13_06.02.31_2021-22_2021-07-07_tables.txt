@@ -1,0 +1,5 @@
+| 45 | Wholesale and retail trade and repair of motor vehicles and motorcycles |
+|----|-------------------------------------------------------------------------|
+| 46 | Wholesale trade except of motor vehicles and motorcycles                |
+| 47 | Retail trade except of motor vehicles and motorcycles                   |
+

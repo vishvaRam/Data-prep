@@ -1,0 +1,56 @@
+ry Capital Instruments – Step up Option'. Banks may also refer to the BCBS Press Release dated September 12, 2010 indicating announcements made by the Group of Governors and Heads of Supervision on higher global minimum capital standards
+
+### **5.2 Claims on Domestic Sovereigns**
+
+5.2.1 Both fund based and non-fund based claims on the central government will attract a zero risk weight. Central Government guaranteed claims will attract a zero risk weight.
+
+5.2.2 The Direct loan / credit / overdraft exposure, if any, of banks to the State Governments and the investment in State Government securities will attract zero risk weight. State Government guaranteed claims will attract 20 per cent risk weight.
+
+5.2.3 The risk weight applicable to claims on central government exposures will also apply to the claims on the Reserve Bank of India, DICGC, Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) and Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH)<sup>27</sup> and individual schemes under National Credit Guarantee Trustee Company Ltd. (NCGTC) which are backed by explicit Central Government Guarantee. Similarly, credit facilities extended under the Emergency Credit Line Guarantee Scheme of NCGTC which are backed by an unconditional and irrevocable guarantee provided by Government of India shall also be assigned zero percent risk weight to the extent of guarantee coverage<sup>28</sup> . The claims on ECGC will attract a risk weight of 20 per cent.
+
+5.2.4 The above risk weights for both direct claims and guarantee claims will be applicable as long as they are classified as 'standard' / performing assets. Where these sovereign exposures are classified as non-performing, they would attract risk weights as applicable to NPAs, which are detailed in paragraph 5.12.
+
+5.2.5 The above risk weights will be applied if such exposures are denominated in Indian Rupees and also funded in Indian Rupees.
+
+## **5.3 Claims on Foreign Sovereigns and Foreign Central Banks<sup>29</sup>**
+
+5.3.1 Subject to paragraph 5.3.2 below, claims on foreign sovereigns and their central banks will attract risk weights as per the rating assigned<sup>30</sup> to those sovereigns and central banks/ sovereign and central bank claims, by international rating agencies as follows:
+
+
+**Table 1: Claims on Foreign Sovereigns / Central Banks – Risk Weights**
+
+**\*** Standard & Poor's
+
+<sup>27</sup> Please refer to th[e circular DBOD.No.BP.BC-90/21.04.048/2012-13 dated April 16, 2013](https://rbi.org.in/scripts/NotificationUser.aspx?Id=7943&Mode=0) on Advances Guaranteed by 'Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) - Risk Weights and Provisioning'.
+
+<sup>28</sup> Please refer to the [circular DoR.BP.BC.No.76/21.06.201/2019-20 dated June 21, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11916&Mode=0) on Assignment of Risk Weights on Credit Facilities (Guaranteed Emergency Credit Line) under the Emergency Credit Line Guarantee Scheme.
+
+<sup>29</sup> Please refer to th[e circular DBR.BP.BC.No.43/21.06.001/2015-16 dated October 8, 2015](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10065&Mode=0) on Risk Weights for Claims on Foreign Central Banks
+
+<sup>30</sup> For example: The risk weight assigned to an investment in US Treasury Bills by SBI branch in Paris, irrespective of the currency of funding, will be determined by the rating assigned to the Treasury Bills, as indicated in Table 2.
+
+5.3.2 Claims on the foreign sovereign or foreign central bank in their jurisdiction, denominated in the domestic currency of that jurisdiction, met out of resources of the same currency<sup>31</sup> will attract a risk weight of zero percent. However, in case a Host Supervisor requires a more conservative treatment to such claims in the books of the foreign branches of the Indian Banks, they should adopt the requirements prescribed by the Host Country supervisors for computing capital adequacy.
+
+# **5.4 Claims on Public Sector Entities (PSEs)**
+
+5.4.1 Claims on domestic public sector entities will be risk weighted in a manner similar to claims on Corporates.
+
+5.4.2 Claims on foreign PSEs will be risk weighted as per the rating assigned by the international rating agencies as under:
+
+
+**Table 2: Claims on Foreign PSEs – Risk Weights**
+
+## **5.5 Claims on MDBs, BIS and IMF**
+
+Claims on the Bank for International Settlements (BIS), the International Monetary Fund (IMF) and the following eligible Multilateral Development Banks (MDBs) evaluated by the BCBS will be treated similar to claims on scheduled banks meeting the minimum capital adequacy requirements and assigned a uniform twenty per cent risk weight:
+
+- (a) World Bank Group: IBRD and IFC,
+- (b) Asian Development Bank,
+- (c) African Development Bank,
+- (d) European Bank for Reconstruction and Development,
+- (e) Inter-American Development Bank,
+- (f) European Investment Bank,
+- (g) European Investment Fund,
+- (h) Nordic Investment Bank,
+
+- (i) Caribbe

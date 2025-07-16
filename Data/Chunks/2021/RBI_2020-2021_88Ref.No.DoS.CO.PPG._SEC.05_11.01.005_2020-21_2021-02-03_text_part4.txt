@@ -1,0 +1,28 @@
+rent business risks and control risks.
+- 5. The basis for determination of the level (high, medium, low) and trend (increasing, stable, decreasing) of inherent business risks and control risks should be clearly spelt out.
+- 6. The risk assessment may make use of both quantitative and qualitative approaches. While the quantum of credit, market, and operational risks could largely be determined by quantitative assessment, the qualitative approach may be adopted for assessing the quality of overall governance and controls in various business activities.
+- 7. The risk assessment methodology should include, inter alia, parameters such as (a) Previous internal audit reports and compliance; (b) Proposed changes in business lines
+
+![](_page_2_Picture_0.jpeg)
+
+or change in focus; (c) Significant change in management / key personnel; (d) Results of regulatory examination report; (e) Reports of external auditors; (f) Industry trends and other environmental factors; (g) Time elapsed since last audit; (h) Volume of business and complexity of activities; (i) Substantial performance variations from the budget; and (j) Business strategy of the entity vis-à-vis the risk appetite and adequacy of control.
+
+- 8. For the risk assessment to be accurate, it will be necessary to have proper MIS and data integrity arrangements. The internal audit function should be kept informed of all developments such as introduction of new products, changes in reporting lines, changes in accounting practices / policies, etc. The risk assessment should invariably be undertaken on a yearly basis. The assessment should also be periodically updated to take into account changes in business environment, activities and work processes, etc.
+- 9. Before taking up specific internal audit assignment, the plan, scope, objectives, timelines and resource allocations of the assignment should be clearly established. The scope and objectives of the assignment should be based on a preliminary assessment of the risks relevant to the business activity under review.
+- 10. The SEs may prepare a Risk Audit Matrix based on the magnitude and frequency of risk. The Audit Plan should prioritize audit work to give greater attention to the areas of:
+	- a. High magnitude and high frequency
+	- b. High magnitude and medium frequency
+	- c. High magnitude and low frequency
+	- d. Medium magnitude and high frequency
+	- e. Medium magnitude and medium frequency
+	- f. Low magnitude and high frequency.
+- 11. The scope of the audit and resource allocation should be sufficient to achieve the objectives of the audit assignment. The precise scope of RBIA must be determined by each SE for low, medium, high, very high and extremely high risk areas. The scope of internal audit should also include system and process audits in respect of all critical processes. The findings of such audits should also be placed before the IT Committee of the Board.
+- 12. The internal audit report should be based on appropriate analysis and evaluation. It should bring out adequate, reliable, relevant and useful information to support the
+
+![](_page_3_Picture_0.jpeg)
+
+observations and conclusions. It should cover the objectives, scope, and results of the audit assignment and make appropriate recommendations and / or action plans.
+
+- 13. All the pending high and medium risk paras and persisting irregularities should be reported to the ACB/Board in order to highlight key areas in which risk mitigation has not been undertaken despite risk identification.
+- 14. The internal audit function should have a system to monitor compliance to the observations made by internal audit. Status of compliance should be an integral part of reporting to the ACB/Board.
+- 15. The internal audit function shall not be outsourced. However, where required, experts including former employees can be hired on a contractual basis subject to the ACB/Board being assured that such expertise does not exist within the audit function of the SE. Any conflict of interest in such matters shall be recognised and effectively addressed. Ownership of audit reports in all cases shall rest with regular functionaries of the internal audit function.

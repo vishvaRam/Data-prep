@@ -1,0 +1,55 @@
+ dated January 23, 2014](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=8707&fn=14&Mode=0)
+
+(iii) The Board of Directors of the ARC may increase the period for realisation of financial assets so that the total period for realisation shall not exceed eight years from the date of acquisition of financial assets concerned.
+
+(iv) In case the ARC is one of the lenders in an account where a resolution plan has been finalised and the same extends beyond the maximum resolution period allowed for ARCs as per clause (iii) above, the ARC may accept a resolution period co-terminus with other secured lenders.
+
+(v) The Board of Directors of the ARC shall specify the steps that will be taken by the ARC to realise the financial assets within the time frame referred to in clause (ii) or (iii) above as the case may be.
+
+(vi) The Qualified Buyers (QBs) shall be entitled to invoke the provisions of Section 7(3) of the Act only at the end of such extended period, if the period for realisation is extended under clause (iii) above.
+
+### **7. Securitisation**
+
+[23\(](#page-3-0)1) **Issue of SRs** - An ARC shall give effect to the provisions of Sections 7(1) and 7(2) of the Act through one or more trusts set up exclusively for the purpose. The ARC shall transfer the assets to the said trusts at the price at which those assets were acquired from the originator if the assets are not acquired directly on the books of the trust :
+
+(i) The trusts shall issue SRs only to QBs; and hold and administer the financial assets for the benefit of the QBs;
+
+(ii) The trusteeship of such trusts shall vest with the ARC;
+
+(iii) The ARC proposing to issue SRs, shall, prior to such an issue, formulate a policy, duly approved by the Board of Directors, providing for issue of SRs under each scheme formulated by the trust;
+
+(iv) The policy referred to in clause (iii) above shall provide that the SRs issued would be transferable / assignable only in favour of other QBs.
+
+ <sup>22</sup> Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+<span id="page-3-0"></span><sup>23</sup> Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM \(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+# **[24\(](#page-4-0)2) Investment in SRs issued by the trusts floated by ARC**
+
+ARC shall by transferring funds, invest a minimum of 15% of the SRs of each class issued by them under each scheme on an ongoing basis till the redemption of all the SRs issued under such scheme.
+
+## **[25\(](#page-4-1)3) Restructuring Support Finance**
+
+An ARC can utilize a part of funds raised under a scheme from the QBs for restructuring of financial assets acquired under the relative scheme subject to following conditions:
+
+(i) ARCs with acquired assets in excess of Rs.500 crore can float the fund under a scheme which envisages the utilization of part of funds raised from QBs in terms of Section 7(2) of the Act, for restructuring of financial assets acquired out of such funds.
+
+(ii) The extent of funds that shall be utilized for reconstruction purpose should not be more than 25% of the funds raised under the scheme in terms of Section 7(2) of the Act. The funds raised to be utilized for reconstruction (within the ceiling of 25%) should be disclosed upfront in the scheme. Further, the funds utilized for reconstruction purposes should be separately accounted for.
+
+(iii) Every ARC shall frame a policy, duly approved by the Board of Directors, laying down the broad parameters for utilization of funds raised from QBs under such a scheme.
+
+### **(**4**) Disclosures**
+
+Every ARC intending to issue SRs shall make disclosures as mentioned in the [Annex.](#page--1-0)
+
+[26](#page-4-2)**(5)** In order to enable the QBs to know the value of their investments in the SRs issued by the ARC, the ARCs registered with the Bank under the Act, were advised to declare NAV of the SRs issued by them at periodical intervals.
+
+<span id="page-4-0"></span><sup>24</sup> Inserted vide [Circular No.DNBS\(PD\) CC.No.41/SCRC/26.03.001/2014-15 dated August 05, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=9154&Mode=0)
+
+<span id="page-4-1"></span><sup>25</sup> Inserted vide [Circular No.DNBS \(PD\) CC.No.37/SCRC/26.03.001/2013-14 dated March 19, 2014](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8776&Mode=0)
+
+<span id="page-4-2"></span><sup>26</sup> Inserted vide [Notification No.DNBS.PD\(SC/RC\).9/CGM \(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5613&Mode=0#R)
+
+# **8. Requirement as to capital adequacy**
+
+(1) Every ARC shall maintain, on an ongoing basis, a capital adequacy ratio, which shall not be less than fifteen percent of its total risk weighted assets. The risk-weighted assets shall be calculated as the weighted aggregate of On-Balance Sheet and Off-Balance Sheet items as detai

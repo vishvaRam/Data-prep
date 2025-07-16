@@ -1,0 +1,29 @@
+in concerns were observed with regard to practices followed by banks in this regard, it has been reiterated vide circular [DoS.CO.PPG.BC.1/11.01.005/2020-21 dated August 21, 2020,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11952&Mode=0) that banks are expected to have a detailed Board approved policy on methodology and periodicity for review/renewal of credit facilities within the overall regulatory guidelines and adhere to the same strictly. Further, timely and comprehensive review/renewal of credit facilities should be an integral part of the Board approved loan policy and credit risk management framework, and banks should avoid frequent and repeated adhoc/short review/renewal of credit facilities without justifiable reasons. Banks are also advised to capture all the data relating to regular as well as ad-hoc/short review/renewal of credit facilities in their core banking systems/management information systems and make the same available for scrutiny as and when required by any audit or inspection by Auditors/RBI. Moreover, the processes governing review/renewal of credit facilities should be brought under the scope of concurrent/internal audit/internal control mechanism of banks with immediate effect.
+
+3.4 **Sharing of Working Capital Finance**: In respect of consortium lending, the level of individual bank's share in Cash Credit and Loan Component shall be governed by the norm for single / group borrowers' credit exposure.
+
+3.5 **Rate of Interest**: UCBs are allowed to fix separate lending rates for 'loan component' and 'cash credit component'.
+
+3.6 **Period of Loan**: The minimum period of the loan for working capital purposes may be fixed by banks in consultation with borrowers. Banks may decide to split the loan component according to the need of the borrower with different maturity bases for each segment and allow roll over.
+
+3.7 **Export Credit**: In respect of borrowers enjoying export credit limit, the bifurcation of the working capital limit into loan and cash credit components, would be effected after excluding the export credit limits (preshipment and post-shipment).
+
+3.8 **Bills Limit**: Bills limit for inland sales may be fully carved out of the 'loan component'. Bills limit also includes limits for purchase of third party (outstation) cheques / bank drafts. Banks must satisfy themselves that the bills limit is not mis-utilised.
+
+UCBs may lay down policy guidelines for periodic review of the working capital limit and the same may be scrupulously adhered to.
+
+#### **4. Credit Administration**
+
+## **Rate of Interest**
+
+4.1 UCBs are permitted to determine their lending rates taking into account their cost of funds, transaction costs etc with the approval of their Board. However, banks are advised to ensure that the interest rates charged by them are transparent and known to all customers. Banks are also required to publish the minimum and maximum interest rates charged on advances and display the information in every branch. Though interest rates have been deregulated, rates of interest beyond a certain level may be seen to be usurious and can neither be sustainable nor be conforming to normal banking practice. Boards of banks have to lay down appropriate internal principles and procedures in this regard. In laying down such principles and procedures in respect of small value loans, particularly, personal loans and such other loans of similar nature, banks may take into account, inter-alia, the following broad guidelines:
+
+(i) An appropriate prior-approval process should be prescribed for sanctioning such loans, which should take into account, among others, the cash flows of the prospective borrower.
+
+(ii) Interest rates charged by banks, inter-alia, should incorporate risk premium as considered reasonable and justified having regard to the internal rating of the borrower. Further, in considering the question of risk, the presence or absence of security and the value thereof should be taken into account.
+
+(iii) The total cost to the borrower, including interest and all other charges levied on a loan, should be justifiable having regard to the total cost incurred by the bank in extending the loan, which is sought to be defrayed and the extent of return that could be reasonably expected from the transaction.
+
+(iv) In the case of loans to borrowers under priority sector, no penal interest should be charged for loans up to ₹25,000. Penal interest may be levied for reasons such as default in repayment, non-submission of financial statements, etc. However, the policy on penal interest should be governed by well-accepted principles of transparency, fairness, incentive to service the debt and due regard to genuine difficulties of customers.
+
+(v) Banks should ensure that the total interest debited to an account should not exceed the principal amount in respect of short term advances granted to small and marginal farmers. The small and marginal farmers for the purpose shall include those wi

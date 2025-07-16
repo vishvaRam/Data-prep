@@ -1,0 +1,3 @@
+| S. No. | Return Name                 | Return Description                                                                                                                                                 |
+|--------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Banking service price index | The statement comprises of data related to<br>fees income and fee charges for banking<br>services provided by the bank and selective<br>data on deposits and loans |

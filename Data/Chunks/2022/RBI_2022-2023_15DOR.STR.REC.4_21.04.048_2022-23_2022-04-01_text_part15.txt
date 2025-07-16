@@ -1,0 +1,34 @@
+here its net funded exposure is one per cent or more of its total assets.
+
+5.9.6.3 The provision for country risk shall be in addition to the provisions required to be held according to the asset classification status of the asset. However, in the case of 'loss assets' and 'doubtful assets', provision held, including provision held for country risk, may not exceed 100% of the outstanding.
+
+5.9.6.4 Banks may not make any provision for 'home country' exposures i.e. exposure to India. The exposures of foreign branches of Indian banks to the host country should be included. Foreign banks shall compute the country exposures of their Indian branches and shall hold appropriate provisions in their Indian books. However, their exposures to India will be excluded.
+
+5.9.6.5 Banks may make a lower level of provisioning (say 25% of the requirement) in respect of short-term exposures (i.e. exposures with contractual maturity of less than 180 days).
+
+## 5.9.7 Provisioning norms for Liquidity facility provided for Securitisation transactions
+
+The amount of liquidity facility drawn and outstanding for more than 90 days, in respect of securitisation transactions undertaken in terms of [Reserve Bank of India \(Securitisation of](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12165&Mode=0)  [Standard Assets\) Directions, 2021,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12165&Mode=0) should be fully provided for.
+
+## 5.9.8 Provisioning requirements for derivative exposures
+
+Credit exposures computed as per the current marked to market value of the contract, arising on account of the interest rate & foreign exchange derivative transactions, credit default swaps and gold, shall also attract provisioning requirement as applicable to the loan assets in the 'standard' category, of the concerned counterparties. All conditions applicable for treatment of the provisions for standard assets would also apply to the aforesaid provisions for derivative and gold exposures.
+
+#### 5.9.9 Provisioning for housing loans at teaser rates
+
+It has been observed that some banks are following the practice of sanctioning housing loans at teaser rates i.e. at comparatively lower rates of interest in the first few years, after which rates are reset at higher rates. This practice raises concern as some borrowers may find it difficult to service the loans once the normal interest rate, which is higher than the rate applicable in the initial years, becomes effective. It has been also observed that many banks at the time of initial loan appraisal, do not take into account the repaying capacity of the borrower at normal lending rates. Therefore, the standard asset provisioning on the outstanding amount of such loans has been increased from 0.40 per cent to 2.00 per cent in view of the higher risk associated with them. The provisioning on these assets would revert to 0.40 per cent after 1 year from the date on which the rates are reset at higher rates if the accounts remain 'standard'.
+
+### 5.9.10 Provisioning requirement in terms of Guidelines on Enhancing Credit Supply for Large Borrowers through Market Mechanism
+
+In respect of specified borrowers, as per the provisions of the Guidelines on Enhancing Credit Supply for Large Borrowers through Market Mechanism dated August 25, 2016, banks shall make additional provisions of 3 percentage points over and above the applicable provision on the incremental exposure of the banking system in excess of Normally Permitted Lending Limit (NPLL) as defined in the said guidelines. This higher provisioning requirement shall be distributed in proportion to each bank's funded exposure to the specified borrower.
+
+#### 5.10 Provisioning Coverage Ratio
+
+5.10.1 Provisioning Coverage Ratio (PCR) is essentially the ratio of provisioning to gross non-performing assets and indicates the extent of funds a bank has kept aside to cover loan losses.
+
+5.10.2 From a macro-prudential perspective, banks should build up provisioning and capital buffers in good times i.e. when the profits are good, which can be used for absorbing losses in a downturn. This will enhance the soundness of individual banks, as also the stability of the financial sector. It was, therefore, decided that banks should augment their provisioning cushions consisting of specific provisions against NPAs as well as floating provisions, and ensure that their total provisioning coverage ratio, including floating provisions, is not less than 70 per cent. Accordingly, banks were advised to achieve this norm not later than end-September 2010.
+
+5.10.3 Majority of the banks had achieved PCR of 70 percent and had represented to RBI whether the prescribed PCR is required to be maintained on an ongoing basis. The matter was examined and, the banks were advised that:
+
+- (i) the PCR of 70 percent may be with reference to the gross NPA position in banks as on September 30, 2010;
+- (ii)the surplus of the provision under PCR vis-a-vis as required as per prudential 

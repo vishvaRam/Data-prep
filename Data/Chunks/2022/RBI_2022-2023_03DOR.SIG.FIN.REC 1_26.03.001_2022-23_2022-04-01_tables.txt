@@ -1,0 +1,100 @@
+| Paragraph | Particulars                                                              |
+|-----------|--------------------------------------------------------------------------|
+| No.       |                                                                          |
+| 1         | Applicability of the Guidelines/ Instructions                            |
+| 2         | Definitions                                                              |
+| 3         | Registration and matter incidental thereto                               |
+| 4         | Net Owned Fund                                                           |
+| 5         | Permissible Business                                                     |
+| 6         | Asset Reconstruction                                                     |
+| 7         | Securitisation                                                           |
+| 8         | Requirement as to Capital Adequacy                                       |
+| 9         | Deployment of Funds                                                      |
+| 10        | Accounting Year                                                          |
+| 11        | Asset Classification                                                     |
+| 12        | Investments                                                              |
+| 13        | Income Recognition                                                       |
+| 14        | Disclosures in the balance sheet                                         |
+| 15        | Internal Audit                                                           |
+| 16        | Exemptions                                                               |
+| 17        | Submission of Quarterly Statements                                       |
+| 18        | Submission of Audited Balance Sheet                                      |
+| 19        | Submission of data to Credit Information Companies                       |
+| 20        | Filing of Transactions with Central Registry set up under the Act        |
+| 21        | Submission of Financial Information to Information Utilities             |
+| 22        | Reporting to Indian Banks' Association (IBA)                             |
+| 23        | Bank's prior approval for any substantial change in management by way of |
+|           | transfer of shares                                                       |
+| 24        | Fit and Proper Criteria for Sponsors/ Investors                          |
+| 25        | Fair Practices Code                                                      |
+| 26        | Corporate Governance Framework                                           |
+| 27        | ARCs as Resolution Applicant under Insolvency and Bankruptcy Code, 2016  |
+
+| Minimum required NOF on<br>October 11, 2022 | By March 31, 2024 | By March 31, 2026 |
+|---------------------------------------------|-------------------|-------------------|
+| Rs.100 crore                                | Rs.200 crore      | Rs.300 crore      |
+
+| On-Balance Sheet Items     |                                             | Percentage Risk Weight |
+|----------------------------|---------------------------------------------|------------------------|
+| (a)                        | Cash and deposits with scheduled commercial | 0                      |
+|                            | banks/<br>NABARD/ SIDBI                     |                        |
+| (b)                        | Investments in Government securities        | 0                      |
+| (c)                        | Shares in other ARCs                        | 0                      |
+| (d)                        | All Other assets                            | 100                    |
+| Off-Balance Sheet Items    |                                             |                        |
+| All Contingent Liabilities |                                             | 50                     |
+
+| Asset Category  | Provision Required                                            |                                                          |
+|-----------------|---------------------------------------------------------------|----------------------------------------------------------|
+| Sub-standard    | A general provision of 10% of the outstanding;                |                                                          |
+| Assets          |                                                               |                                                          |
+| Doubtful Assets | (i)                                                           | 100% provision to the extent the asset is not covered by |
+|                 |                                                               | the estimated realisable value of security;              |
+|                 | (ii)                                                          | In addition to item (i) above, 50% of the remaining      |
+|                 |                                                               | outstanding.                                             |
+| Loss Assets     | The entire asset shall be written off.                        |                                                          |
+|                 | (If, for any reason, the asset is retained in the books, 100% |                                                          |
+|                 | thereof shall be provided for).                               |                                                          |
+
+| THIS DEED OF COVENANTS is made this ________ day of ________Two thousand _______          |                                 |  |              |        |
+|-------------------------------------------------------------------------------------------|---------------------------------|--|--------------|--------|
+| BETWEEN _________,                                                                        | having its registered office at |  | (hereinafter | called |
+| the 'ARC') of the one part and Mr./ Ms __________ of ____________ (hereinafter called the |                                 |  |              |        |
+| 'Director') of the other part.                                                            |                                 |  |              |        |
+
+| 1.  | DNBS.PD.CC.1/SCRC/10.30/2002-03 dated April 23, 2003                |
+|-----|---------------------------------------------------------------------|
+| 2.  | DNBS.PD.CC.2/SCRC/10.30/2003-04 dated March 29, 2004                |
+| 3.  | DNBS.PD.CC.3/SCRC/10.30.000/2006-07 dated September 20, 2006        |
+| 4.  | DNBS.PD.CC.4/SCRC/10.30.000/2006-07 dated October 19, 2006          |
+| 5.  | DNBS.(PD)CC.No.5/SCRC/10.30.000/2006-07 dated April 25, 2007        |
+| 6.  | DNBS.(PD)CC.No.6/SCRC/10.30.049/2006-07 dated May 28, 2007          |
+| 7.  | DNBS.(PD)CC.No.8/SCRC/10.30.000/2007-08 dated March 5, 2008         |
+| 8.  | DNBS.(PD)CC.No.9/SCRC/10.30.000/2007-08 dated April 22, 2008        |
+| 9.  | DNBS.(PD)CC.No.12/SCRC/10.30.000/2008-09 September 26, 2008         |
+| 10. | DNBS/PD(SC/RC)CC.No.13/26.03.001/2008-09 April 22, 2009             |
+| 11. | DNBS(PD)CC.No.14/SCRC/26.01.001/2008-09 April 24, 2009              |
+| 12. | DNBS.(PD).CC.No.17/SCRC/26.03.001/2009-2010 dated April 21, 2010    |
+| 13. | DNBS.(PD).CC.No.18/SCRC/26.03.001/2009-2010 dated April 21, 2010    |
+| 14. | DNBS.(PD).CC.No.19/SCRC/26.03.001/2009-2010 dated April 21, 2010    |
+| 15. | DNBS.(PD).CC.No.23/SCRC/26.03.001/2010-2011 dated November 25, 2010 |
+| 16. | DNBS.(PD).CC.No.24/SCRC/26.03.001/2010-2011 dated May 25, 2011      |
+| 17. | DNBS(PD)CC.No.34/SCRC/26.03.001/2013-14 dated December 31, 2013     |
+| 18. | DNBS(PD)CC.No.35/SCRC/26.03.001/2013-14 dated January 23, 2014      |
+| 19. | DNBS(PD)CC.No.36/SCRC/26.03.001/2013-14 dated March 19, 2014        |
+| 20. | DNBS(PD)CC.No.37/SCRC/26.03.001/2013-14 dated March 19, 2014        |
+| 21. | DNBS(PD)CC.No.38/SCRC/26.03.001/2013-14 dated April 23, 2014        |
+| 22. | DNBS(PD)CC.No.41/SCRC/26.03.001/2014-15 dated August 05, 2014       |
+| 23. | DNBS(PD)CC.No.42/SCRC/26.03.001/2014-15 dated August 07, 2014       |
+| 24. | DNBR(PD)CC.No.01/SCRC/26.03.001/2014-15 dated February 24, 2015     |
+| 25. | DNBR(PD)CC.No.02/SCRC/26.03.001/2014-15 dated May 07, 2015          |
+| 26. | DNBR.(PD).CC.No.03/SCRC/26.03.001/2015-16 dated July 01, 2015       |
+| 27. | DNBR(PD)CC.No.04./SCRC/26.03.001/2015-16 dated July 01, 2015        |
+| 28. | DNBR.PD(ARC)CC.No.03/26.03.001/2016-17 dated April 28, 2017         |
+| 29. | DNBR.PD(ARC)CC.No.04/26.03.001/2017-18 dated November 23, 2017      |
+| 30. | DNBR.PD(ARC)CC.No.05/26.03.001/2017-18 dated January 04, 2018       |
+| 31. | DNBR.PD(ARC)CC.No.06/26.03.001/2018-19 dated October 25, 2018       |
+| 32. | DNBR.PD(ARC)CC.No.07/26.03.001/2018-19 dated June 28, 2019          |
+| 33. | DOR.NBFC(ARC)CC.No.8/26.03.001/2019-20 dated December 6, 2019       |
+| 34. | DOR.NBFC(ARC)CC.No.9/26.03.001/2020-21 dated July 16, 2020          |
+| 35. | DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022        |

@@ -1,0 +1,50 @@
+px?Id=12399&Mode=0)
+
+<sup>61</sup> Inserted vide [Circular No. DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12399&Mode=0)
+
+estimated cash flows, uncertainty in realising expected cash flows in initial period, management, business risk, financial risk, etc.
+
+(f) The Recovery Rating should reflect changes like change in resolution strategy of the ARC that take place from time to time.
+
+(g) The Recovery Rating will factor in likely cash flows from the underlying impaired assets till the maturity of the SRs.
+
+(h) The Recovery Rating should comprise of rating of not only the SRs of the scheme as a whole but wherever feasible a desegregation of each component in the scheme, which means the underlying assets of each entity in the scheme forming the basket should also be rated.
+
+(i) The Rating Agency should disclose the rationale for rating on request.
+
+#### **(vii) Methodology for valuation of SRs for declaration of NAV**
+
+Each rating category in the recovery scale will have an associate **range** of recovery, expressed in percentage terms, which can be used for computing NAV of SRs. The NAV should be restricted within the recovery range associated with the rating assigned to the SRs. The ARC based on its recovery experience should choose a particular percentage within the recovery range indicated by the Rating Agency. The Recovery Rating percentage so picked by the ARC multiplied by the face value of the SR will give the NAV. The ARC should provide the rationale for selection of the particular percentage of Recovery Rating. For example, if range is between 81% - 90%, ARC may pick up 87% based on its judgement. The face value of say Rs 10 multiplied by the recovery percentage i.e. 87% would give the NAV as Rs 8.70].
+
+--------------------------------------------------------------------------------------------------------------
+
+# **Appendix I**
+
+### **Declaration and Undertaking by Director/ MD/ CEO as on ---------------------**
+
+### **Name :**
+
+## **1. Relevant Relationships of Director/ MD/ CEO**
+
+- (i) List of relatives, if any, who are connected with the ARC (please refer to sub-section 77 of Section 2 of the Companies Act, 2013)
+- (ii) List of entities, if any, in which he/ she is considered as being interested (please refer to subsection 49 of Section 2 and Section 184 of the Companies Act, 2013)
+- (iii) List of entities in which he/ she is considered as holding substantial interest (substantial interest means the beneficial interest held by an individual or any of his/ her relatives, whether singly or taken together, in the shares of a company/ firm, the aggregate amount paid-up on which exceeds ten percent of the paid-up share capital/ capital of the company/ firm)
+- (iv) Name of the financial institutions including NBFCs/ ARCs in which he/ she is or has been a member of the Board (also give details of period during which such office was held)
+- (v) Fund and non-fund facilities, if any, presently availed of by him/ her and/ or by entities listed at 1(ii) and (iii) above from the financial institutions including NBFCs/ ARCs
+- (vi) Cases, if any, where the director or entities at 1(ii) and (iii) above are in default or have been in default in the past in respect of credit facilities obtained from financial institutions including NBFCs/ ARCs
+
+#### **2. Records of Professional Achievements**
+
+Relevant professional achievements
+
+### **3. Proceedings, if any, against the Director/ MD/ CEO**
+
+- (i) Whether the director is a member of a professional association/ body? Details of disciplinary action, if any, pending or commenced or resulting in conviction in the past against him/ her or whether he/ she has been banned from entry into any profession/ occupation at any time
+- (ii) Details of prosecution, if any, pending or commenced or resulting in conviction in the past against the director and/ or against any of the entities listed at 1(ii) and (iii) above for violation of economic laws and regulations
+- (iii) Details of criminal prosecution, if any, pending or commenced or resulting in conviction in the last five years against the director
+- (iv) Whether the director attracts any of the disqualifications envisaged under the Section 164 of the Companies Act, 2013? If so, details of the same.
+- (v) Has the director or any of the entities at 1(ii) and 1(iii) above been subject to any investigation at the instance of any Government department or agency? If so, details of the same.
+- (vi) Has the director at any time been found guilty of violation of rules/ regulations/ legislative requirements by customs/ excise/ income tax/ foreign exchange/ other revenue authorities? If so, details of the same.
+- (vii) Whether the director has at any time come to the adverse notice of a regulator such as RBI, SEBI, IRDA, MCA, etc.?
+- (viii) Whether the director has been declared as a wilful defaulter at any time in the preceding five years?
+- (ix) Whether the di

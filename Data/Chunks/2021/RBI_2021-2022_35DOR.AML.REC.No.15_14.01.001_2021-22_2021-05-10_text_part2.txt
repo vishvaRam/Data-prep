@@ -1,0 +1,44 @@
+lity Assessment, Penetration testing and a Security Audit to ensure its robustness and end-to-end encryption capabilities. Any critical gap reported under this process shall be mitigated before rolling out its implementation. Such tests should be conducted by suitably accredited agencies as prescribed by RBI. Such tests should also be carried out periodically in conformance to internal / regulatory guidelines.*
+
+*(viii) The V-CIP application software and relevant APIs / webservices shall also undergo appropriate testing of functional, performance, maintenance strength before being used in live environment. Only after closure of any critical gap found during such tests, the application should be rolled out. Such tests shall also be carried out periodically in conformity with internal/ regulatory guidelines.*
+
+## *(b) V-CIP Procedure*
+
+*(i) Each RE shall formulate a clear work flow and standard operating procedure for V-CIP and ensure adherence to it. The V-CIP process shall be operated only by officials of the RE specially trained for this purpose. The official should be capable to carry out liveliness check and detect any other fraudulent manipulation or suspicious conduct of the customer and act upon it.*
+
+*(ii) If there is a disruption in the V-CIP procedure, the same should be aborted and a fresh session initiated.*
+
+*(iii) The sequence and/or type of questions, including those indicating the liveness of the interaction, during video interactions shall be varied in order to establish that the interactions are real-time and not pre-recorded.* 
+
+*(iv) Any prompting, observed at end of customer shall lead to rejection of the account opening process.*
+
+*(v) The fact of the V-CIP customer being an existing or new customer, or if it relates to a case rejected earlier or if the name appearing in some negative list should be factored in at appropriate stage of work flow.* 
+
+*(vi) The authorised official of the RE performing the V-CIP shall record audio-video as well as capture photograph of the customer present for identification and obtain the identification information using any one of the following:* 
+
+- *a) OTP based Aadhaar e-KYC authentication*
+- *b) Offline Verification of Aadhaar for identification*
+- *c) KYC records downloaded from CKYCR, in accordance with Section 56, using the KYC identifier provided by the customer*
+- *d) Equivalent e-document of Officially Valid Documents (OVDs) including documents issued through DigiLocker*
+
+*RE shall ensure to redact or blackout the Aadhaar number in terms of Section 16.* 
+
+*In case of offline verification of Aadhaar using XML file or Aadhaar Secure QR Code, it shall be ensured that the XML file or QR code generation date is not older than 3 days from the date of carrying out V-CIP.*
+
+*Further, in line with the prescribed period of three days for usage of Aadhaar XML file / Aadhaar QR code, REs shall ensure that the video process of the V-CIP is undertaken within three days of downloading / obtaining the identification information through CKYCR / Aadhaar authentication / equivalent e-document, if in the rare cases, the entire process cannot be completed at one go or seamlessly. However, REs shall ensure that no incremental risk is added due to this.*
+
+*(vii) If the address of the customer is different from that indicated in the OVD, suitable records of the current address shall be captured, as per the existing requirement. It shall be ensured that the economic and financial profile/information submitted by the customer is also confirmed from the customer undertaking the V-CIP in a suitable manner.*
+
+*(viii) RE shall capture a clear image of PAN card to be displayed by the customer during the process, except in cases where e-PAN is provided by the customer. The PAN details shall be verified from the database of the issuing authority including through DigiLocker.*
+
+*(ix) Use of printed copy of equivalent e-document including e-PAN is not valid for the V-CIP.*
+
+*(x) The authorised official of the RE shall ensure that photograph of the customer in the Aadhaar/OVD and PAN/e-PAN matches with the customer undertaking the V-CIP and the identification details in Aadhaar/OVD and PAN/e-PAN shall match with the details provided by the customer.* 
+
+*(xi) Assisted V-CIP shall be permissible when banks take help of Banking Correspondents (BCs) facilitating the process only at the customer end. Banks shall maintain the details of the*  *BC assisting the customer, where services of BCs are utilized. The ultimate responsibility for customer due diligence will be with the bank.* 
+
+*(xii) All accounts opened through V-CIP shall be made operational only after being subject to concurrent audit, to ensure the integrity of process and its acceptability of the outcome.* 
+
+*(xiii) All matters not specified under the paragraph but required under other statutes such as the Information Technology (IT) Act shall be appropriately complied with by the RE.*
+
+# *(c) V-CIP Records and Data Manageme

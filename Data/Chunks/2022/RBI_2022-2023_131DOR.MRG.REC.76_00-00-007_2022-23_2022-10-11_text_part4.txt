@@ -1,0 +1,38 @@
+ computed as standard deviation of these returns over a period of one year (250 observations). Third, this daily volatility shall be annualised by multiplying it by square root of 250. This computation shall be performed on a daily basis for the all the days in the last ten years. The largest annual volatility thus computed shall be used for the computation of the potential loss by multiplying it with the UFCE.*
+
+# Chapter III – REPEAL PROVISIONS
+
+11.1 With the issue of these Directions, the instructions / guidelines contained in the following circulars issued by the Reserve Bank stand repealed.
+
+
+
+11.2 All approvals / acknowledgements given under the above circulars shall be deemed as given under these Directions.
+
+11.3 All the repealed circulars are deemed to have been in force prior to the coming into effect of these Directions.
+
+# **Explanatory Note[1](#page-4-0) to Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022**
+
+October 11, 2022
+
+# **Introduction**
+
+1. Unhedged foreign currency exposures of any entity are an area of concern not only for the individual entity but also to the entire financial system. Entities which do not hedge their foreign currency exposures can incur significant losses during the period of heightened volatility in foreign exchange rates. These losses may reduce their capacity to service the loans taken from the banking system and increase their probability of default thereby affecting the health of the banking system.
+
+### **Background and Rationale**
+
+2. The Reserve Bank of India first introduced the concept in October 1999 as part of risk management systems after it was observed during the economic crises in some countries that banks bear additional credit risk on entities which have unhedged foreign currency risk. Accordingly, banks were advised to evolve a suitable framework for regular monitoring of foreign currency risk exposure of entities which do not have natural hedge and to factor such unhedged exposures of entities into the risk rating system for taking credit decisions.
+
+3. The aim of the framework was that the banks should price the risk from Unhedged Foreign Currency Exposure (UFCE) as credit risk premium which may nudge entities to hedge their foreign currency exposures in the market. To this end, banks were further advised though a series of instructions to a) regularly monitor the unhedged portion of large foreign currency exposures of entities; b) have a Board approved policy on hedging of foreign currency loans; and c) have a mechanism for information sharing on UFCE in case of consortium lending. However, a sizeable portion of entities' foreign currency exposures remained unhedged resulting in significant but avoidable risks to entities' balance sheets, in turn, impacting the quality of bank's assets.
+
+<span id="page-4-0"></span> <sup>1</sup> Explanatory Note is a non-technical description of the rationale / background for introducing the Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022. The sole purpose of this note is to facilitate better understanding of the Directions by market participants. In case of any conflict between the explanatory note and the Directions, the Directions shall prevail.
+
+4. To address the risk on bank's books, banks were advised to maintain incremental provisioning and capital requirements for their exposures to entities with UFCE. The process of computing incremental provisioning and capital requirements can be summarised in following steps:
+
+- a) Step 1: Assess the foreign currency exposure (FCE) of the entity.
+- b) Step 2: Ascertain the amount of UFCE from entities' FCE taking into account two types of hedges – natural hedge and financial hedge.
+- c) Step 3: Estimate the potential loss to the entity from UFCE exposure of entity due to exchange rate movements.
+- d) Step 4: Maintain incremental provisioning and capital requirements against banks' exposure to the entity based on impact of likely / potential loss on entity's overall profitability.
+
+5. Based on banks' feedback, a few amendments were made to the guidelines for operational clarity and accuracy of information obtained. These included, inter alia, allowing collection of information on UFCE directly from entities (through self-certified / audited UFCE certificates); clarification on capital treatment of incremental provisioning requirement for UFCE; and treatment in case bank is unable to obtain information on UFCE from entity. Banks were also given an option to follow an alternative method for their exposure to smaller entities. Under this alternative method, instead of obtaining information on UFCE from smaller entities, bank could maintain incremental provisioning of 10 bps for such exposures.
+
+6. Further, some exposures were excluded from the ambit of these instructions, namely, inter-bank exposures, intra-group exposures of Multinational Corporations incorporated outside India and exposure to entities which have not

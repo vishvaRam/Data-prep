@@ -1,0 +1,29 @@
+maintaining unalterable log of locker activities. The banks shall comply with the relevant statutory / regulatory guidelines/requirements applicable for IT / data protection. Further, the banks shall also devise a standard operating procedure for issue of new password in lieu of lost passwords to customers in a safe and secure manner in case of electronically operated lockers.
+
+3.2.3 Banks shall ensure that identification Code of the bank / branch is embossed on all the locker keys with a view to facilitating identification of lockers / locker ownership by law enforcement agencies in case of need. Further, the custodian of the locker shall, regularly/periodically, check the keys maintained in the branch to ensure that they are in proper condition. Banks shall permit the locker-hirer to operate the locker only with the key provided by the bank, although there is no restriction in allowing the customer to use an additional padlock of her /his own if there are such provisions in lockers.
+
+## **PART IV: Locker Operations**
+
+#### **4.1 Regular Operations by Customers**
+
+4.1.1 The locker hirer and/or the persons duly authorized by him/ her only shall be permitted to operate the locker after proper verification of their identity and recording of the authorization by the officials concerned of the bank. The bank shall maintain a record of all individuals, including the locker-hirers, who have accessed the lockers and the date and time (both check-in and check-out time) on which they have opened and closed the locker and obtain their signature. The ingress and egress register for access to Vault Room by locker-hirers or any other individual including the banks' staff shall be maintained to record the movement of individuals in the Vault Room area with their signatures at appropriate place in the records.
+
+4.1.2 The bank's officer authorizing the locker-hirer to access the locker, after unlocking the first key / password shall not remain present when the locker is opened by the locker-hirer. The banks shall ensure that there is adequate privacy to the locker-hirers in the operations when customers access the lockers at the same time.
+
+4.1.3 Banks shall send an email and SMS alert to the registered email ID and mobile number of the customer before the end of the day as a positive confirmation intimating the date and time of the locker operation and the redressal mechanism available in case of unauthorized locker access.
+
+# **4.2 Internal Controls by banks**
+
+4.2.1 There shall be a system of inter change of locks whenever the locker is surrendered by the hirer. The keys of vacant lockers shall be kept in sealed envelopes. The duplicate master keys shall be deposited with another branch of the bank. There shall be proper record of joint custody of master keys. Banks shall conduct surprise periodic verification of surrendered/vacant lockers and their keys by an officer of the bank who is not connected with their custody and proper record shall be maintained as a proof of such verification.
+
+4.2.2 Banks shall ensure that the Locker Register and the Locker Key Register are maintained in CBS or any other computerized system compliant with the Cyber Security Framework issued by the Reserve Bank. The Locker Register shall be updated in case of any change in the allotment with complete audit trails.
+
+4.2.3 The bank custodian shall check whether the lockers are properly closed post locker operation. If the same is not done, the lockers must be immediately closed, and the locker-hirer shall be promptly intimated through e-mail, if registered or through SMS, if mobile number is registered or through letter so that they may verify any resulting discrepancy in the contents of the locker. The bank custodian shall record the fact of not closing the locker properly in the register and its closure by the bank with the date and time. Further, the custodian of the locker room shall carry out a physical check of the locker room at the end of the day to ensure that lockers are properly closed, and that no person is inadvertently trapped in the locker room after banking hours.
+
+# **PART V: Nomination Facility and Settlement of Claims**
+
+### **5.1 Nomination Facility**
+
+5.1.1 The banks shall offer nomination facility in case of safe deposit lockers and safe custody of articles, in accordance with the provisions of section 45-ZC to 45-ZF of the Banking Regulation Act, 1949 and Banking Companies (Nomination) Rules, 1985/Co-operative Banks (Nomination) Rules, 1985. In case the nominee is a minor, the same procedure as prescribed for the bank accounts shall be followed by the banks. A passport size photo of the nominee attested by the customer may be obtained from the customers, at his/her option and preserved in the records.
+
+5.1.2 For the various Forms (Forms SC1, SC2 and SC3 for Articles left in Safe Custody and Forms SL1, SL1A, SL2, SL3 and SL3A for Safety Lockers) prescribed under Banking Companies (Nomination) Rules, 1985/Co-operative Bank

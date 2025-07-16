@@ -1,0 +1,45 @@
+n**
+
+# **8. Scope of role**
+
+- (a) The Internal Ombudsman shall not handle complaints received directly from the complainants or members of the public and instead, deal only with the complaints that have already been examined by the CIC but have been partly or wholly rejected by the CIC.
+- (b) The following types of complaints shall be outside the purview of this Direction and shall not be handled by the IO:
+	- (i) Complaints related to fraud, misappropriation, etc., except those resulting from deficiency in service, if any, on the part of the CIC
+	- (ii) Complaints/references relating to (a) internal administration, (b) human resources, or (c) pay and emoluments of staff
+	- (iii) References in the nature of suggestions and commercial decisions of the CIC
+	- (iv) Complaints which have been decided by or are already pending in other fora such as Consumer Disputes Redressal Commission, courts, etc.
+	- (v) Disputes for which remedy has been provided under Section 18 of the Credit Information Companies (Regulation) Act, 2005.
+- (c) Complaints that are outside the purview of this Direction shall be immediately referred back to the CIC by the IO.
+- (d) The IO shall examine the complaints based on records available with the CIC, including any documents submitted by the complainant and comments or clarifications furnished by the CIC to the specific queries of the IO. The IO may seek information from concerned Credit Institution/s (CI), if necessary, as well as additional information from the complainant, through the CIC. The IO must record the Reason for the decision on each case.
+- (e) The IO may hold meetings with the concerned functionaries of the CIC and seek any documents available with the CIC that are necessary for examining the complaint and reviewing the decision. The CIC shall furnish
+
+![](_page_2_Picture_0.jpeg)
+
+all records and documents sought by the IO to enable expeditious resolution of the complaints without undue delay.
+
+- (f) The IO shall, on a quarterly basis, analyse the pattern of all complaints received against the CIC, such as entity wise, product-wise, category-wise, consumer group-wise, geographical location-wise, etc., and may provide inputs to the CIC for policy intervention, if so warranted.
+- (g) The IO shall not represent the CIC in legal cases before any court or fora or authority.
+
+# **9. Administrative Oversight**
+
+The Internal Ombudsman shall report to the Managing Director or Chief Executive Officer of the CIC administratively, and to the Board functionally.
+
+#### **10. Board Oversight and participation**
+
+- (a) The Internal Ombudsman shall furnish periodic reports to the Consumer Protection Committee of the Board[1](#page-2-0), preferably at quarterly intervals, but not less than bi-annually.
+- (b) The IO shall be designated as an ex-officio member or a permanent invitee to the meetings of the Consumer Protection Committee of the Board.
+
+# **11. Procedural guidelines**
+
+(a) The CIC shall formulate a Standard Operating Procedure approved by its Board of Directors and establish a system of auto-escalation, within 21 days of receipt, of all complaints that are partly or wholly rejected by the CIC's internal grievance redress mechanism, to the Internal Ombudsman for a final decision.
+
+<span id="page-2-0"></span> <sup>1</sup> In terms of para XVII of Best Practices for Credit Information Companies (part of [Data Format for Furnishing of](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=8968&Mode=0)  [Credit Information to Credit Information Companies and other Regulatory Measures dated June 27, 2014\)](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=8968&Mode=0) "*Banks/FIs and CICs should have a structured process of complaint redressal for which a Consumer Protection Committee under the Board should be constituted*"
+
+![](_page_3_Picture_0.jpeg)
+
+- (b) The IO and the CIC shall ensure that the final decision is communicated to the complainant within 30 days from the date of receipt of the complaint by the CIC.
+- (c) In case the CIC has a complaint management software, it shall provide the IO 'read-only' access to the system and enable uploading of the decisions of the IO.
+- (d) The IO shall also have 'read-only' access to the Reserve Bank's Complaint Management System to enable the IO to keep track of: (i) the cases forwarded by the offices of RBI Ombudsmen, (ii) decisions of the RBI Ombudsmen, and (iii) where applicable, the decision of the Appellate Authority under the RBI Ombudsman scheme.
+- (e) The decision of the IO shall be binding on the CIC, except in cases where the CIC has obtained approval for disagreeing with such decision as stated in sub-clause (g) below.
+- (f) Where the IO upholds the decision of the CIC to reject or partly reject the complaint, the reply to the complainant should explicitly state the fact that the complaint has been examined by the IO and, for the reasons stated in the reply, the decision of the CIC has been upheld.
+- (g) Where the IO overrules 

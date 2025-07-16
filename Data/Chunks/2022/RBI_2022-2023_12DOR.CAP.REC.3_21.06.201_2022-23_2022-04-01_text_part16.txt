@@ -1,0 +1,37 @@
+uding the non-viability criteria, then it will be phased out from January 1, 2013.
+
+(B) If the instrument has a call and a step-up and the effective maturity date was prior to September 12, 2010 and the call option was not exercised - (i) if the instrument meets all other criteria, including the non-viability criteria, then such instrument will continue to be fully recognised from January 1, 2013; (ii) if the instrument does not meet the other criteria, including the nonviability criteria, then it will be phased out from January 1, 2013.
+
+(C) If the instrument has a call and a step-up and the effective maturity date is between September 12, 2010 and December 31, 2012 and the call option is not exercised – (i) if the instrument meets all other criteria, including the non-viability criteria, then such instrument will continue to be fully recognised from January 1, 2013; (ii) if the instrument does not meet the other criteria, including the non-viability criteria, then it will be fully derecognised from January 1, 2013. However, if such instrument meets all other criteria except the non-viability criteria then it will be phased out from January 1, 2013.
+
+(D) If the instrument has a call and a step-up and the effective maturity date is after January 1, 2013 - (i) the instrument will be phased out from January 1, 2013 till the call option is exercised; (ii) if the call option is not exercised and it meets all other criteria, including the non-viability criteria, then the instrument will be phased out from January 1, 2013 till the call date and fully recognised after the call date. However, if it does not meet all the criteria including the non-viability criteria,
+
+ nominal amount. Thus, individual instruments will continue to be amortised at a rate of 20% per year while the aggregate cap will be reduced at a rate of 10% per year.
+
+To calculate the base in cases of instruments denominated in foreign currency, which no longer qualify for inclusion in the relevant tier of capital (but will be grandfathered) should be included using their value in the reporting currency of the bank as on January 1, 2013. The base will therefore be fixed in the reporting currency of the bank throughout the transitional period. During the transitional period instruments denominated in a foreign currency should be valued as they are reported on the balance sheet of the bank at the relevant reporting date (adjusting for any amortisation in the case of Tier 2 instruments) and, along with all other instruments which no longer meet the criteria for inclusion in the relevant tier of capital, will be subject to the cap.
+
+then the instrument will be phased out from January 1, 2013 till the call date and fully derecognised after the call date.
+
+4.5.1.2 If the non-common equity regulatory capital instrument has been issued between September 12, 2010 and December 31, 2012<sup>26</sup>, then the treatment indicated in paragraphs from 4.5.1.2(A) to 4.5.1.2(C) will apply:
+
+(A) If such instrument meets all the criteria including non-viability criteria, then it will continue to be fully recognised from January 1, 2013.
+
+(B) If such instrument does not meet all the criteria including non-viability criteria, then it will be fully derecognised from January 1, 2013.
+
+(C) If such instrument meets all the criteria except the non-viability criteria, then it will be phased out from January 1, 2013.
+
+4.5.1.3 Non-common equity regulatory capital instrument issued on or after January 1, 2013 must comply with all the eligibility criteria including the non-viability criteria in order to be an eligible regulatory capital instrument (Additional Tier 1 or Tier 2 capital). Otherwise, such instrument will be fully derecognised as eligible capital instrument.
+
+4.5.1.4 A schematic representation of above mentioned phase-out arrangements has been shown in the **[Annex 19](#page--1-1)**.
+
+4.5.2 Capital instruments which do not meet the criteria for inclusion in Common Equity Tier 1 will be excluded from Common Equity Tier 1 as on April 1, 2013.
+
+4.5.3 An illustration of transitional arrangements - Capital instruments which no longer qualify as non-common equity Tier 1 capital or Tier 2 capital is furnished in the **[Annex 12](#page--1-1)**.
+
+## **5. Capital Charge for Credit Risk**
+
+## **5.1 General**
+
+Under the Standardised Approach, the rating assigned by the eligible external credit rating agencies will largely support the measure of credit risk. The Reserve Bank has identified the external credit rating agencies that meet the eligibility criteria specified under the revised Framework. Banks shall rely upon the ratings assigned by the external credit rating agencies chosen by the Reserve Bank for assigning risk weights for capital adequacy purposes as per the mapping furnished in these guidelines.
+
+<sup>26</sup> Please refer [circular DBOD.BP.BC.No.75/21.06.001/2010‐11 dated January 20, 2011](https://rbi.org.in/scripts/NotificationUser.aspx?Id=6232&Mode=0) on 'Regulato

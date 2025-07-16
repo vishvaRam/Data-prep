@@ -1,0 +1,46 @@
+The field - wise description of various items is as follows :
+
+- 1) Serial Number: 9 (4) Unique number to be given to each of the record
+- 2) Bank-branch Name: x (14) As in the case of Basic Statistical return
+- 3) Party's Name: x (45) The legal name
+- 4) Registered Address: x (96) Registered Office address
+- 5) Amount Outstanding: 9(6) Total amount outstanding in ₹ Lakh
+- 
+- 
+- 6) Name of Directors: x (336) To be divided into 14 sub- fields of 24 bytes each
+- 7) Status: Suit filed or non-suit filed
+
+## **Definition of Micro, Small and Medium Enterprises**
+
+(Vide Paragraph 6)
+
+Government of India (GoI), vide [Gazette Notification S.O. 2119 \(E\) dated June 26, 2020,](https://rbidocs.rbi.org.in/rdocs/content/pdfs/IndianGazzate02072020.pdf) has notified new criteria for classifying the enterprises as Micro, Small and Medium enterprises. For details please refer to [circular FIDD.MSME & NFS.BC.No.3/06.02.31/2020-21 dated July 2, 2020.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11934&Mode=0) The new criteria will come into effect from July 1, 2020 and an enterprise shall be classified as a Micro, Small or Medium enterprise on the basis of the following criteria, namely:
+
+- i. **a micro enterprise**, where the investment in plant and machinery or equipment does not exceed one crore rupees and turnover does not exceed five crore rupees;
+- ii. **a small enterprise**, where the investment in plant and machinery or equipment does not exceed ten crore rupees and turnover does not exceed fifty crore rupees; and
+- iii. **a medium enterprise**, where the investment in plant and machinery or equipment does not exceed fifty crore rupees and turnover does not exceed two hundred and fifty crore rupees.
+
+## **Safeguards to be observed Advances against Pledge of Gold / Silver Ornaments**
+
+(vide paragraph 7.5.1)
+
+## **i) Ownership of Ornaments**
+
+It is advisable that the advances are made to persons properly introduced to the bank. The bank should satisfy itself about the ownership of the gold ornaments etc. before accepting them for pledge. The bank should obtain a declaration from the borrower that the ornaments are his own property and that he has the fullest right to pledge them to the bank. Taking of ornaments for pledge and release thereof to the parties concerned after repayment of the bank's dues should be done strictly in the authorised official's room to avoid any risk.
+
+## **ii) Appraiser**
+
+The bank should appoint an approved jeweller or shroff as an appraiser for valuation of the gold ornaments proposed to be pledged to the bank and obtain adequate security from him in the form of cash and indemnity bond. Valuation and appraisal of the ornaments in the bank's premises itself would be ideal but when these are not possible, the bank should take suitable precautions against their loss while in transit. The bank should send the ornaments to the appraiser in a locked box, one key of which should be kept with the appraiser and the other with the bank. The box should be sent through a responsible member of the staff along with the prospective borrower. The placing of ornaments in the box at both the ends should be done in the presence of the employee carrying the ornaments to the appraiser and the borrower. The bank should take a suitable insurance cover for loss of the ornaments while in transit.
+
+## **iii) Valuation Report**
+
+- a. The valuation certificate of the appraiser should clearly indicate the description of the ornaments, their fitness, gross weight of the ornaments, net weight of the gold content exclusive of stones, lac, alloy, strings, fastenings and the value of the gold at the prevailing market price. The valuation report should be duly signed by the appraiser and kept along with the loan documents by the bank.
+- b. In order to standardize the valuation and make it more transparent to the borrower, it has been decided that gold jewellery accepted as security/collateral will have to be valued at the average of the closing price of 22 carat gold for the preceding 30 days as quoted by the India Bullion and Jewellers Association Ltd. [Formerly known as the Bombay Bullion Association Ltd. (BBA)]. If the gold is of purity less than 22 carats, the bank should translate the collateral into 22 carat and value the exact grams of the collateral. In other words, jewellery of lower purity of gold shall be valued proportionately
+
+## **iv) Record of Security**
+
+The full name of the borrower, his residential address, date of advance, amount and description of the ornaments in detail should be recorded in the gold ornaments register which should be checked / initialled by the Manager.
+
+## **v) Custody of Ornaments**
+
+The ornaments belonging to each borrower (or articles of each loan) together with a list indicating the description of ornaments, gold loan account number, name of party, etc. should be kept separately in small cloth bags. A tag indicating loan account number and name of the party should be tied 

@@ -1,0 +1,75 @@
+n><sup>6</sup> [https://rbi.org.in/scripts/FS\\_Forms.aspx?fn=14](https://rbi.org.in/scripts/FS_Forms.aspx?fn=14)
+
+<span id="page-0-2"></span><sup>7</sup> Inserted vide [Notification No.DNBS.6/CGM\(PK\)-2006 dated October 19, 2006](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3127&Mode=0)
+
+<span id="page-0-3"></span><sup>8</sup> Inserted vide [Notification No.DNBS.3/CGM\(OPA\)-2003 dated August 28, 2003](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1317&Mode=0)
+
+(iv) Any entity not registered with the Bank under Section 3 of the Act may conduct the business of securitisation or asset reconstruction outside the purview of the Act subject to requisite authorisation/ approval.
+
+## [9](#page-1-0)**4. Net Owned Fund**
+
+[10](#page-1-1)(1) Net Owned Fund (NOF) for ARCs shall be minimum Rs.300 crore on an ongoing basis with effect from October 11, 2022. Consequently, any ARC obtaining the certificate of registration on or after October 11, 2022 shall not commence the business of securitisation or asset reconstruction without having minimum NOF of Rs. 300 crore. The following glide path is provided for the ARCs existing as on October 11, 2022 to achieve the minimum required NOF of Rs. 300 crore:
+
+
+In case of non-compliance at any of the above stages, the non-complying ARC shall be subject to supervisory action, including prohibition on undertaking incremental business till it reaches the required minimum NOF applicable at that time.
+
+- (2) NOF shall be arrived at by reducing from Owned Fund (OF), the amounts representing
+	- (i) investments of the ARC in shares of
+		- a. its subsidiaries;
+		- b. companies in the same group;
+		- c. all other ARCs; and
+
+(ii) the book value of debentures, bonds, outstanding loans and advances made to, and deposits with, -
+
+- a. subsidiaries of the ARC; and
+- b. companies in the same group,
+
+to the extent such amount exceeds 10% of the Owned Fund.
+
+## **5. Permissible Business**
+
+(i) An ARC shall commence / undertake only the securitisation and asset reconstruction activities and the functions provided for in Section 10 of the Act.
+
+(ii) An ARC shall not raise monies by way of deposit.
+
+## **6. Asset Reconstruction**
+
+<span id="page-1-0"></span><sup>9</sup> Inserted vide [Circular No.DNBR.PD \(ARC\) CC.No.03/26.03.001/2016-17 dated April 28, 2017](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=10949&fn=14&Mode=0)
+
+<span id="page-1-1"></span><sup>10</sup> Modified vid[e Circular No. DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12399&Mode=0)
+
+## **A.** (1) **Acquisition of Financial Assets**
+
+(i) Every ARC shall frame with the approval of its Board of Directors, a 'Financial Asset Acquisition Policy', within 90 days of grant of Certificate of Registration, which shall clearly lay down the policies and guidelines covering, inter alia,
+
+[11\(](#page-2-0)a) norms and procedure for acquisition either on its own books or directly in the books of the trust;
+
+(b) types and the desirable profile of the assets;
+
+(c) valuation procedure ensuring that the assets acquired have realisable value which is capable of being reasonably estimated and independently valued;
+
+(d) in the case of financial assets acquired for asset reconstruction, the broad parameters for formulation of plans for their realisation.
+
+(ii) The Board of Directors may delegate powers to a committee comprising any director and/ or any functionaries of the ARC for taking decisions on proposals for acquisition of financial assets;
+
+(iii) Deviation from the policy should be made only with the approval of the Board of Directors.
+
+[12](#page-2-1)(iv) Before bidding for the stressed assets, ARCs may seek from the auctioning banks adequate time, not less than two weeks, to conduct a meaningful due diligence of the account by verifying the underlying assets.
+
+### **[13\(](#page-2-2)2) Permission to acquire financial asset from other ARCs**
+
+ARCs will acquire financial asset from other ARCs on the following conditions:
+
+a. The transaction is settled on cash basis;
+
+b. Price discovery for such transaction shall not be prejudicial to the interest of Security Receipt (SR) holders;
+
+c. The selling ARC will utilize the proceeds so received for the redemption of underlying SRs;
+
+ <sup>11</sup> Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM \(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+<span id="page-2-0"></span><sup>12</sup> Inserted vide [Notification No.DNBS\(PD-SC/RC\) No.11/PCGM \(KKV\)/-2014 dated August 05, 2014](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=9154&fn=14&Mode=0#S1)
+
+<span id="page-2-2"></span><span id="page-2-1"></span><sup>13</sup> Inserted vide [Circular No.DNBR.PD \(ARC\) CC.No.07/26.03.001/2018-19 dated June 28, 2019](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=11608&fn=14&Mode=0)
+
+d. The date of redemption of underlying SRs and total

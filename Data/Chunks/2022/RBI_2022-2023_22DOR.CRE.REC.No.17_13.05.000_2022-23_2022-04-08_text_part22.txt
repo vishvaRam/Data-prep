@@ -1,0 +1,47 @@
+to the bag to facilitate identification. The bags should be arranged in trays according to loan account numbers and kept in the strong room or fire proof safes under joint custody.
+
+## **vi) Period**
+
+The period of advance against gold ornaments should be generally restricted to 6 months or 1 year.
+
+## **vii) Margin**
+
+As a prudential measure, it has been decided to prescribe a Loan to Value (LTV) Ratio of not exceeding 75 per cent for UCBs' lending against gold jewellery (including bullet repayment loans against pledge of gold jewellery). The bank should collect interest on advances promptly. In no circumstances should it allow to water down the margin by debiting the interest accrued to the loan account.
+
+#### **viii) Return of Ornaments**
+
+On repayment of the loan together with the interest payable in the account, the ornaments should be returned to the borrower and his receipt obtained in token of having received the ornaments.
+
+#### **ix) Part Release**
+
+While allowing part release of the ornaments against part repayment of the loan, care should be taken to ensure that the value of the left-over ornaments is sufficient to cover outstanding balance with the margin prescribed in the a/c.
+
+#### **x) Delivery to Third Parties**
+
+When the ornaments are delivered to third parties, a letter of authority from the borrower and subsequent confirmation of the borrower should be obtained. The letter of authority should contain an undertaking by the borrower, absolving the bank of any responsibility in the event of dispute or loss arising from the delivery of the ornaments to the party named therein. The receipt of the third party should be obtained on the letter of authority as well as in the gold loan ledger.
+
+#### **xi) Default**
+
+When the borrower fails to repay the loan on the due date, a notice calling upon him to repay the loan within a specified time should be given and if no response is received, a reminder should be sent by registered post informing the borrower that the ornaments would be auctioned and after adjusting the sale proceeds against the outstanding dues to the bank, the balance, if any, would be paid to the borrower against his receipt.
+
+#### **xii) Re-pledge of Ornaments**
+
+It is not advisable for UCBs to make advances against re-pledge of ornaments as this facility is likely to be misused for financing moneylenders, which is not a desirable activity.
+
+#### **xiii) Insurance**
+
+The jewels pledged to the bank should be insured for the appraised value against the risk of burglary. If banks store the pledged jewels in fire-proof strong rooms, insuring them against fire may not be necessary. Banks may take blanket insurance policy covering cash, jewels and other valuables and also covering all types of risks.
+
+#### **xiv) Verification**
+
+Surprise verification of the packets containing gold / silver ornaments by an officer other than the joint custodian be undertaken and should be recorded in a separate register with necessary details.
+
+[vide paragraph 5.1.2]
+
+**i. Credit Information Reports (CIRs) / Credit Bureau Usage in all Lending Decisions and Account Opening :** Urban Cooperative Banks (UCBs) should include in their credit appraisal processes / loan policies, suitable provisions for obtaining CIRs from one or more Credit Information Companies (CICs) so that the credit decisions are based on information available in the system.
+
+**ii. Populating Commercial Data Records in Databases of all CICs :** A roadmap in regard to CICs populating their databases in respect to corporate borrowers is required to be laid out. For this purpose, UCBs are advised to report data in respect of their corporate borrowers to the CICs in a timely manner with immediate effect. After a period of six months, UCBs should start using data available with the CICs in respect of commercial / corporate borrowers, under a Board approved policy.
+
+**iii. Standardisation of Data Format :** With a view to streamlining the process of data submission by UCBs to CICs, it has been decided to standardise the formats for data submission by the UCBs to the CICs. The data format as per [Appendix - A](#page--1-0) should be taken as the base for standardisation of data format for consumer and commercial borrowers. The data format would be a non-proprietary reporting format and henceforth would be known as "Uniform Credit Reporting Format". The segment viz. consumer and commercial will be denoted appropriately in parentheses, for example, "Uniform Credit Reporting Format (Consumer)". These should be uniformly adopted by the UCBs.
+
+**iv. Technical Working Group :** It has been decided to constitute a Technical Working Group comprising of representatives from Scheduled Commercial Banks (a member each from a Public Sector Bank, a Private Sector Bank and a Foreign Bank), Urban Cooperative Banks, Regional Rural Banks (RRBs), All India Notified Financial Institutions, CICs, NBFCs, HFCs, IBA and MFIN to institutionalise a continuing mechanism for

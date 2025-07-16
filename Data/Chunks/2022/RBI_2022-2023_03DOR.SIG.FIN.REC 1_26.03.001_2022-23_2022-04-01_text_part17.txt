@@ -1,0 +1,45 @@
+ion process should be uniform for assets of same profile and should ensure that the valuation of the financial assets is done in scientific and objective manner. Valuation may be done internally or by engaging an independent agency, depending upon the value of the assets. Ideally, valuation may be entrusted to the committee authorised to approve acquisition of assets, which may
+
+<span id="page-2-0"></span> <sup>56</sup> Modified vide [Circular No. DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12399&Mode=0)
+
+carry out the task in line with an Asset Acquisition Policy laid down by the board of directors in this regard.
+
+viii) The assets acquired by ARC should be transferred to the trusts set up by the ARC at the price at which these were acquired from the originator of the asset. However, there is no restriction on acquisition of assets from banks/ FIs directly in the books of trusts set up by ARC.
+
+### (2) **Issuance of SRs**
+
+i) Every ARC shall issue the SRs through the trust set up exclusively for the purpose. The trusteeship of such trust shall vest with the ARC.
+
+ii) The trust shall issue SRs only to QBs and such SRs shall be transferable/ assignable only in favour of other QBs.
+
+iii) Every ARC intending to issue SRs shall make disclosures in the offer document as prescribed by the Bank from time to time.
+
+[57](#page-3-0)[(iv) Commonality and conflict of interest, if any, between the ARC and Rating Agency should be disclosed.
+
+### **(v) Special features of SRs**
+
+(a) SRs cannot be strictly characterized as debt instruments since they combine the features of both equity and debt. However, these are recognized as securities under Securities Contracts (Regulation) Act, 1956.
+
+(b) The cash flows from the underlying assets cannot be predicted in terms of value and intervals.
+
+(c) These instruments when rated would generally be below investment grade. These instruments are privately placed.
+
+<span id="page-3-0"></span> <sup>57</sup> Inserted vide [Guidelines DNBS \(PD\) CC.No.6/SCRC/10.30.049/2006-2007 dated May 28, 2007](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3557&Mode=0)
+
+#### **(vi) Rating/ Grading of SRs**
+
+[58](#page-4-0)(a) Every ARC shall mandatorily obtain initial rating/ grading of SRs from a [59](#page-4-1)[SEBI registered] CRA within a period of six months from the date of acquisition of assets and declare forthwith, the NAV of the SRs issued by it. Thereafter, ARCs will get the rating/ grading of SRs reviewed from a registered CRA as on June 30, and December 31 every year and declare the NAV of SRs forthwith, to enable the QBs to value their investment in SRs. [60A](#page-4-2)RCs shall retain a CRA for at least 6 rating cycles (of half year each). If a CRA is changed mid-way through these 6 rating cycles, the ARC shall disclose the reason for such change. For arriving at NAV, ARC shall get the SRs rated on 'recovery rating scale' and require the rating agencies to disclose the assumptions and rationale for rating. [61](#page-4-3)ARCs shall mandatorily obtain the recovery rating from the CRAs and disclose the assumptions and rationale behind the rating to SR holders.
+
+(b) The rating/ grading should be based on 'recovery risk' as against 'default' which is the basis for rating assignments in normal assets, i.e. how much more can be recovered instead of timely payment. Rating should reflect present value of the anticipated recoverability of future cash flows.
+
+(c) The ratings will be assigned on a specifically developed rating scale called "Recovery Rating (RR) scale". Each rating category in the recovery scale will have an associate range of recovery, expressed in percentage terms, which can be used for arriving at NAV of SRs. Symbols should be assigned by rating agencies to the associated range of recovery, which would inter-se not deviate by a specified percentage points, say (+/ -) 10%. The rating would be indicative.
+
+(d) The Recovery Rating should be assessed after factoring in any other relevant obligation and not on the original debt obligation.
+
+(e) The other key factors that should be factored in while assigning Recovery Rating are extent of debt acquired, composition of lenders, collaterals available, security and seniority of debt, individual lender vis-à-vis institutional lender,
+
+<span id="page-4-0"></span><sup>58</sup> Inserted vide Notification No. [DNBS\(PD-SC/RC\) No.11 / PCGM \(KKV\)/-2014 dated August 05, 2014](https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=9154&fn=14&Mode=0)
+
+<sup>59</sup> Inserted vide Guidelines [DNBS \(PD\) CC. No. 6 / SCRC / 10.30.049/ 2006-2007 dated May 28, 2007](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3557&Mode=0)
+
+<span id="page-4-3"></span><span id="page-4-2"></span><span id="page-4-1"></span><sup>60</sup> Inserted vide [Circular No. DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022](https://www.rbi.org.in/Scripts/NotificationUser.as

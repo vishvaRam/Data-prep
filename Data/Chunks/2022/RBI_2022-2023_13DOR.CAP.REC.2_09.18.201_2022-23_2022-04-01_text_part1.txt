@@ -1,0 +1,73 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2022-23/13 DOR.CAP.REC.2/09.18.201/2022-23 April 1, 2022
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+**Master Circular - Prudential Norms on Capital Adequacy - Primary (Urban) Cooperative Banks (UCBs)**
+
+Please refer to our [Master Circular DCBR.BPD.\(PCB\).MC.No.10/09.18.201/2015-16](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9816) [dated July 01, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9816) on the captioned subject.
+
+2. The enclosed [Master Circular](#page--1-0) consolidates and updates all the instructions / guidelines on the subject issued up to March 31, 2022 as listed in the [Appendix.](#page--1-1)
+
+Yours faithfully
+
+(Usha Janakiraman) Chief General Manager
+
+Encl: As above
+
+िविनयमन िवभाग,क� द्रीय काया�लय, 12 वींऔर 13 वीं मंिजल, क� द्रीय काया�लय भवन, शहीद भगत िसंह माग�,फोट�,मुंबई-400001 दू रभाष: 022-22601000 फै �: 022-22705691 ई-मेल: cgmicdor@rbi.org.in
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Department of Regulation, Central Office, 12th and 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in
+
+**िहंदी आसान है, इसका प्रयोग बढ़ाइए**
+
+### **Master Circular**
+
+#### **Prudential Norms on Capital Adequacy - Primary (Urban) Co-operative Banks (UCBs)**
+
+#### **Contents**
+
+
+# **Master Circular**
+
+#### **Prudential Norms on Capital Adequacy – Primary (Urban) Co-operative Banks (UCBs)**
+
+#### **1. Introduction**
+
+Capital acts as a buffer in times of crisis or poor performance by a bank. Sufficiency of capital also instills depositors' confidence. As such, adequacy of capital is one of the preconditions for licensing of a new bank as well as its continuance in business.
+
+## **2. Statutory Requirements**
+
+In terms of the provisions contained in Section 11 of Banking Regulation Act (AACS), no co-operative bank shall commence or carry on banking business unless the aggregate value of its paid-up capital and reserves is not less than one lakh of rupees. In addition, under Section 22(3)(d) of the above Act, the Reserve Bank prescribes the minimum entry point capital (entry point norms) from time to time, for setting-up of a new Primary (Urban) Cooperative Bank.
+
+#### **3. Capital Adequacy Norms**
+
+Reserve Bank of India has broadly mandated the Basel-I Framework for Primary (Urban) Co-operative Banks in India. Accordingly, they shall maintain a minimum Capital to Risk Weighted Assets Ratio (CRAR) of 9% on an ongoing basis.
+
+ CRAR = Eligible Total Capital Total Risk Weighted Assets (RWAs)
+
+The capital funds for capital adequacy purposes shall consist of Tier I and Tier II capital as defined below. The total of Tier II capital shall be limited to a maximum of 100 per cent of total Tier I capital for the purpose of compliance with CRAR norms.
+
+Risk weights for different categories of exposures of banks are outlined in [Annex-I.](#page--1-0)
+
+## **3.1 Tier I Capital**
+
+Tier I shall comprise the following:
+
+- (i) Paid-up share capital[1](#page--1-9) collected from regular members having voting rights.
+- (ii) Contributions received from associate / nominal members where the byelaws permit allotment of shares to them and provided there are restrictions
+
+ <sup>1</sup> UCBs are permitted to raise share capital, as hitherto, by way of (i) issue of shares to persons within their area of operation, in accordance with the provisions of their bye-laws, and (ii) issue of additional shares to the existing members.
+
+on withdrawal of such shares, as applicable to regular members.
+
+- (iii) Contribution / non-refundable admission fees collected from the nominal and associate members which is held separately as 'reserves' under an appropriate head since these are not refundable.
+- (iv) Perpetual Non-Cumulative Preference Shares (PNCPS), which comply with the regulatory requirements as specified in [Annex-II.](#page--1-0)
+- (v) Free Reserves as per the audited accounts. Reserves, if any, created out of revaluation of fixed assets or those created to meet outside liabilities should not be included in the Tier I Capital. Free reserves shall exclude all reserves / provisions which are created to meet anticipated loan losses, losses on account of fraud etc., depreciation in investments and other assets and other outside liabilities. For example, while the amounts held under the head "Building Fund" will be eligible to be treated as part of free reserves, "Bad and Doubtful Reserves" shall be excluded.
+- (vi) Capital Reserves representing surplus arising out of sale proceeds of assets.
+- (vii) Perpetual Debt Instruments (PDIs) which comply with the regulatory requiremen

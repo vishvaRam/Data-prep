@@ -1,0 +1,35 @@
+be sold**
+
+A financial asset may be sold to the ARC by Multi-State Co-operative Banks where the asset is:
+
+- i) A Non Performing Asset, including a non-performing bond / debenture, and
+- ii) A Standard Asset where:
+	- (a) the asset is under consortium / multiple banking arrangements with Commercial Banks and Multi State Cooperative Banks as member banks,
+	- (b) at least 75 per cent by value of the asset is classified as non-performing asset in the books of other banks, and
+
+(c) at least 75 per cent (by value) of the banks who are under the consortium / multiple banking arrangements agree to the sale of the asset to ARC.
+
+# **4. Procedure for sale of financial assets of Multi-State Co-operative Banks to ARC, including valuation and pricing aspects**
+
+- (a) The SARFAESI Act, 2002 allows acquisition of financial assets by ARC from Multi-State Co-operative Bank on such terms and conditions as may be agreed upon between them. This provides for sale of the financial assets on 'without recourse' basis, i.e., with the entire credit risk associated with the financial assets being transferred to ARC, as well as on 'with recourse' basis, i.e., subject to unrealized part of the asset reverting to the seller bank. Multi-State Co-operative Banks are, however, directed to ensure that the effect of the sale of the financial assets should be such that the asset is taken off from the books of the bank and after the sale there should not be any known liability devolving on the bank.
+- (b) Banks which propose to sell their financial assets to ARC should ensure that the sale is conducted in a prudent manner in accordance with the policy approved by the Board. The Board shall lay down policies and guidelines covering, inter alia,
+	- i) Financial assets to be sold;
+	- ii) Norms and procedure for sale of such financial assets;
+	- iii) Valuation procedure to be followed to ensure that the realisable value of financial assets is reasonably estimated;
+	- iv) Delegation of powers of various functionaries for taking decision on the sale of the financial assets; etc.
+- (c) Banks should ensure that subsequent to sale of the financial assets to ARC, they do not assume any operational, legal or any other type of risks relating to the financial assets sold.
+- (d) (i) Each bank will make its own assessment of the value offered by the ARC for the financial asset and decide whether to accept or reject the offer.
+	- (ii) In the case of consortium / multiple banking arrangements with other Multi-State Cooperative Banks and Commercial Banks, if 75 per cent (by value) of the banks decide to accept the offer, the remaining banks will be obligated to accept the offer.
+	- (iii) Under no circumstances, can a transfer to the ARC be made at a contingent price whereby in the event of shortfall in the realization by the ARC, the banks would have to bear a part of the shortfall.
+- (e) Banks may receive cash or bonds or debentures as sale consideration for the financial assets sold to ARC.
+- (f) Bonds / debentures received by banks as sale consideration towards sale of financial assets to ARC will be classified as investments in the books of banks.
+- (g) Banks may also invest in security receipts or other bonds / debentures issued by ARC in respect of financial assets sold by them to ARC. These securities will also be classified as investments in the books of banks.
+- (h) In cases of specific financial assets, where it is considered necessary, banks may enter into agreement with ARC to share, in an agreed proportion, any surplus realised by ARC on the eventual realisation of the concerned asset. In such cases the terms of sale should provide for a report from the ARC to the bank on the value realised from the asset. No credit for the expected profit will be taken by banks until the profit materializes on actual sale.
+
+## **5. Prudential norms for banks for the sale transactions**
+
+## **(A) Provisioning / valuation norms**
+
+- (a) (i) When a bank sells its financial assets to ARC, on transfer the same will be removed from its books.
+	- (ii) If the sale to ARC is at a price below the net book value (NBV) (i.e., book value less provisions held), the shortfall should be debited to the profit and loss account of that year.
+	- (iii) Multi-State Urban Cooperative Banks are permitted to reverse to P& L account the excess provision when the sale is for a value higher than the NBV on sale of NPAs to their profit and loss account. However, banks can reverse excess provision arising out of sale of NPAs only when the cash received (by way of initial consideration and/or redemption of security receipt /pass through certificates) is higher than the NBV of the NPAs sold to ARCs. Further, the quantum of excess provision reversed to profit and loss account will be limited to the extent of which cash exceeds the NBV of the NPAs sold. The quantum of excess provision reversed to the Profit and Loss account on account of sale of NPAs shall be disclosed in the financial statements

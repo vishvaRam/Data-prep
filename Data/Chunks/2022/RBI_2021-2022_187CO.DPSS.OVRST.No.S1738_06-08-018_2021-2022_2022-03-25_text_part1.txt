@@ -1,0 +1,57 @@
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+RBI/2021-22/187 CO.DPSS.OVRST.No.S1738/06-08-018/2021-2022 March 25, 2022
+
+The Chairman / Managing Director / Chief Executive Officer Banks and Non-bank Payment System Operators (PSOs)
+
+Madam / Dear Sir,
+
+# **Framework for Geo-tagging of Payment System Touch Points**
+
+To facilitate nuanced spread of acceptance infrastructure and inclusive access to digital payments, the [Monetary Policy Statement 2020-21 on October](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=52368) 08, 2021 had announced that a framework for geo-tagging of physical payment acceptance infrastructure would be prescribed by Reserve Bank. Accordingly, a framework for capturing geo-tagging information of payment system touch points deployed by banks / non-bank PSOs is laid out in the [Annex.](#page--1-0) The date from which the information shall be reported to Reserve Bank shall, however, be advised in due course.
+
+2. This framework is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(P Vasudevan) Chief General Manager
+
+# (Annex to RBI circular CO.DPSS.OVRST.No.S1738/06-08-018/2021-2022 dated March 25, 2022)
+
+### **Framework for Geo-tagging of Payment System Touch Points**
+
+## **A. Background**
+
+In recent years, the payments ecosystem in India has witnessed rapid developments with a bouquet of payment systems, platforms, products and services available for consumers. Reserve Bank of India (Reserve Bank, Bank) is focused on deepening of digital payments and providing inclusive access to all citizens of the country, irrespective of their location or digital literacy. To ensure this, it is imperative that a robust payment acceptance infrastructure with multiple types of touch points exists across the length and breadth of the country and is available and accessible at all times. Capturing the accurate location of existing payment system touch points / acceptance infrastructure (hereinafter referred to as payment touch points), is essential to upscaling and chalking out intervention strategies. This requirement can be effectively facilitated by geo-tagging of payment touch points.
+
+#### **B. Geo-tagging**
+
+Geo-tagging refers to capturing the geographical coordinates (latitude and longitude) of payment touch points deployed by merchants to receive payments from their customers. Geo-tagging has various benefits, such as, provide insights on regional penetration of digital payments; monitor infrastructure density across different locations; identify scope for deploying additional payment touch points; facilitate focused digital literacy programmes. Policy interventions for realising the above benefits will be facilitated by the information thus collected.
+
+#### **C. Infrastructure**
+
+Digital payment transactions carried out by customers using payment touch points use two broad categories of physical infrastructure:
+
+- **Banking infrastructure** comprising bank branches, offices, extension counters, Automated Teller Machines (ATMs) / Cash Deposit Machines (CDMs), Cash Recycler Machines (CRMs), micro-ATMs used by Business Correspondents (BCs), etc.
+- **Payment acceptance infrastructure** comprising Points of Sale (PoS) terminals, Quick Response (QR) codes deployed by banks / non-bank Payment System Operators (PSOs), etc.
+
+## **D. Capturing payment touch point details**
+
+Use of geo-tagging to capture the locational data of acceptance infrastructure would be subject to the following guidelines:
+
+- a. Banks / Non-bank PSOs shall capture and maintain geographical coordinates for all payment touch points.
+- b. Geo-tagging information in respect of the following shall be submitted to the Reserve Bank:
+	- **PoS terminals** (Mobile PoS, Soft PoS, Tablet PoS, Desktop PoS, Self-service Kiosk PoS, Android-based PoS terminals, Non-Android-based PoS terminals with GPRS SIM Card-embedded, Non-Android-based PoS terminals with PSTN Line Connectivity, etc.); and
+	- **Paper-based / Soft QR Codes** (Bharat QR, UPI QR, etc.).
+
+# **E. Reporting guidelines**
+
+Information that shall be reported by banks / non-bank PSOs and procedure therefor is detailed below:
+
+## **1. Information to be submitted to Reserve Bank**
+
+- i. All banks / Non-bank PSOs shall maintain a registry with accurate location of all payment touch points across the country, including the following information:
+- **a. Merchant-related information – General merchant details** (name, merchant ID, merchant type, merchant category, merchant contact details, merchant / payment aggregator information, if any, etc.); **Merchant location details** (merchant address, state, district, revenue centre, population of revenue centre, post office, pin code, population group, tier, etc.); and
+- **b. Payment acceptance infrastructure details – General payment touch point details** (terminal type, sub-type, terminal ID, date of commencing operations, operating status, etc.) 

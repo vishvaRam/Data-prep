@@ -1,0 +1,9 @@
+| S.<br>No. | Tranche            | Date of Subscription             | Date of Issuance   |
+|-----------|--------------------|----------------------------------|--------------------|
+| 1.        | 2021-22 Series I   | May 17–21, 2021                  | May 25, 2021       |
+| 2.        | 2021-22 Series II  | May 24–28, 2021                  | June 01, 2021      |
+| 3.        | 2021-22 Series III | May 31-June 04, 2021             | June 08, 2021      |
+| 4.        | 2021-22 Series IV  | July 12-<br>16, 2021             | July 20, 2021      |
+| 5.        | 2021-22 Series V   | August 09-13, 2021               | August 17, 2021    |
+| 6.        | 2021-22 Series VI  | August 30-<br>September 03, 2021 | September 07, 2021 |
+

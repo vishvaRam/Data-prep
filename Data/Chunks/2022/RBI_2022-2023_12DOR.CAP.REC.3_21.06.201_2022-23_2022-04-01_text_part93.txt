@@ -1,0 +1,112 @@
+rinciples for the Management and Supervision of Interest Rate Risk" issued by BCBS for assessment of sufficiency of capital for IRRBB.
+
+# **2. The approach prescribed in the BCBS Paper on "Principles for the Management and Supervision of Interest Rate Risk"**
+
+The main components of the approach prescribed in the above mentioned supporting document are as under:
+
+- a) The assessment should take into account both the earnings perspective and economic value perspective of interest rate risk.
+- b) The impact on income or the economic value of equity should be calculated by applying a notional interest rate shock of 200 basis points.
+- c) The usual methods followed in measuring the interest rate risk are:
+
+# *a) Earnings perspective*
+
+Gap Analysis, simulation techniques and Internal Models based on VaR
+
+# *b) Economic perspective*
+
+Gap analysis combined with duration gap analysis, simulation techniques and Internal Models based on VaR
+
+<sup>213</sup> International Convergence of Capital Measurement and Capital Standards (June 2006) released by the Basel Committee on Banking Supervision.
+
+
+
+
+
+
+
+### **Annex 12**
+
+(cf para 4.5.3)
+
+# **Illustration of Transitional Arrangements - Capital Instruments Which No Longer Qualify as Non-Common Equity Tier 1 Capital or Tier 2 Capital**
+
+Date of Issue: April 14, 2005
+
+Debt Capital Instrument: Notional amount = Rs. 1000 crore
+
+Date of maturity – April 15, 2022
+
+Date of call - April 15, 2015
+
+# Features:
+
+1. Call with step-up and meeting the non-viability criteria of conversion / write-off
+
+2. No step-up or other incentives to redeem but not meeting the non-viability criteria
+
+
+#### **Annex 13**
+
+(cf para 5.15.3.6)
+
+# **CALCULATION OF CVA RISK CAPITAL CHARGE**
+
+
+Formula to be used for calculation of capital charge for CVA risk:
+
+$$
+K=2.33\cdot \sqrt{h}\cdot \sqrt{\left(\sum_i 0.5\cdot w_i\cdot \left(M_i\cdot EAD_i^{\text{total}}-M_i^{\text{hedg}}B_i\right)-\sum_{ind}w_{ind}\cdot M_{ind}\cdot B_{ind}\right)^2+\sum_i 0.75\cdot w_i^2\cdot \left(M_i\cdot EAD_i^{\text{total}}-M_i^{\text{hedg}}B_i\right)^2}
+$$
+
+- Bi is the notional of purchased single name CDS hedges nil
+- Bind is the full notional of one or more index CDS of purchased protection, used to hedge CVA risk. - nil
+- wind is the weight applicable to index hedges nil
+- Mihedge is the maturity of the hedge instrument with notional Bi
+- Mi is the effective maturity of the transactions with counterparty 'i'
+- EADi total is the exposure at default of counterparty 'i' (summed across its netting sets). For non-IMM banks the exposure should be discounted by applying the factor: (1 exp(-0.05\*Mi))/(0.05\*Mi).
+- h = 1 year
+
+#### **Assumptions:**
+
+- Applicable coupon rate on both legs of swap with exchange of coupon at yearly intervals for swap with counterparty A = 6% p.a.
+- Applicable coupon rate on both legs of swap with exchange of coupon at yearly intervals for swap with counterparty =7% p.a.
+
+# **Calculation:**
+
+Discount factor to be applied to counterparty A: (1-exp (-0.05\*MA))/(0.05\*MA) = 0.95551
+
+Discounted EADA = 4.5\*0.95551=4.2981
+
+Discount factor to be applied to counterparty B: (1-exp (-0.05\*MB))/(0.05\*MB) =0.8846
+
+Discounted EADB = 52.8\*0.8846=46.7061
+
+*K= 2.33\*1\*[{(0.5\*.008\*(1.85\*4.2981-0) + (0.5\*0.007\*(5.01\*46.7061-0))-0}<sup>2</sup>+* 
+
+*(0.75\*0.008<sup>2</sup> \*(1.85\*4.2981-0)<sup>2</sup> + (0.75\*0.007<sup>2</sup> \*(5.01\*46.7061-0)<sup>2</sup> ] 1/2*
+
+= 2.33\*1.66 = 3.86
+
+Therefore, total capital charge for CVA risk on portfolio basis = Rs. 3.86 crore
+
+#### **Annex 14**
+
+(cf para 16.4.4)
+
+### **Calculation of SFT Exposure for the Purpose of Leverage Ratio**
+
+
+
+
+
+\* Max ((SFT receivable -SFT payable), 0)
+
+# CCR exposure = Max ((total cash / securities receivable - total cash / securities payable), 0)
+
+# **An illustrative outline of the ICAAP Document**
+
+### **1. What is an ICAAP document?**
+
+The ICAAP Document would be a comprehensive Paper furnishing detailed information on the ongoing assessment of the bank's entire spectrum of risks, how the bank intends to mitigate those risks and how much current and future capital is necessary for the bank, reckoning other mitigating factors. The purpose of the ICAAP document is to apprise the Board of the bank on these aspects as also to explain to the RBI the bank's internal capital adequacy assessment process and the banks' approach to capital management. The ICAAP could also be based on the existing internal documentation of the bank.
+
+The ICAAP document submitted to the RBI should be formally approved by the bank's Board. It is expected that the document would be prepared in a format that would be easily understood at the senior levels of management and would contain all the relevant information necessary for the bank and the RBI to make an informed judgment as to the appropriate capital level of the bank and its risk management approach. Where appropriate, technical information on risk measurement methodologies, capital models, if any, used and all o

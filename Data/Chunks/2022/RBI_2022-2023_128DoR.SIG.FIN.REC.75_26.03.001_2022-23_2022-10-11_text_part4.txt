@@ -1,0 +1,34 @@
+ikely positive or negative changes in the value of the secured asset on account of passage of time; Likely diminution in realisation due to accumulation of statutory dues, liability to employees, etc.; Other factors, if any, which may affect recoveries.
+
+III. ARCs shall frame a Policy duly approved by the Board of Directors, which should include the above aspects besides those already contained in clause 7 (5) of the ARC (Reserve Bank) Guidelines and Directions, 2003, as updated from time to time.
+
+- (i) Any management fee/ incentives charged towards the asset reconstruction or securitisation activity shall come only from the recovery effected from the underlying financial assets.
+- (ii) The Board-approved policy shall indicate the quantitative cap/ limit on the management fee/ incentives under various scenarios, any deviation from which shall require approval of the Board.
+
+## **10. Minimum Net Owned Fund (NOF) Requirement**
+
+The minimum NOF (as required under para 4 of the [circular DNBR. PD \(ARC\) CC. No.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10949&Mode=0)  [03/26.03.001/2016-17](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10949&Mode=0) dated April 28, 2017 on Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002- Section 3(1)(b) - Requirement of NOF for ARCs) is hereby increased to ₹300 crore on an ongoing basis from the existing requirement of ₹100 crore. Consequently, any ARC obtaining the certificate of registration on or after the date of this circular shall not commence the business of securitisation or asset reconstruction without having minimum NOF of ₹300 crore. The following glide path is provided for the existing ARCs to achieve the minimum required NOF of ₹300 crore:
+
+
+In case of non-compliance at any of the above stages, the non-complying ARC shall be subject to supervisory action, including prohibition on undertaking incremental business till it reaches the required minimum NOF applicable at that time.
+
+#### **11. Deployment of Surplus Funds**
+
+Para (e) of the [circular DNBS\(PD\) CC.No.18/SCRC/26.03.001/2009-2010 dated April 21,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0)  [2010](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0) on the subject has been amended. In order to allow ARCs to manage their surplus funds efficiently, in addition to the avenues already permitted, they are now permitted to deploy the available surplus funds in short-term instruments viz., money market mutual funds, certificates of deposit and corporate bonds/ commercial papers which have a shortterm rating equivalent to the long-term rating of AA- or above by an eligible CRA, subject to the following conditions:
+
+- (i) Maximum investment in such instruments is capped at 10% of the NOF of the ARC.
+- (ii) The ARC shall have a Board-approved policy in this regard.
+
+### **12. Investment in SRs issued by the ARCs**
+
+Para 2(a) of [circular DNBS.\(PD\).CC.No.41/ SCRC/26.03.001/2014-2015](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=9154&Mode=0) dated August [05, 2014](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=9154&Mode=0) on 'Regulatory Framework for ARCs – Certain Amendments' has been modified. Henceforth, ARCs shall, by transferring funds, invest in the SRs at a minimum of either 15% of the transferors' investment in the SRs or 2.5% of the total SRs issued, whichever is higher, of each class of SRs issued by them under each scheme on an ongoing basis till the redemption of all the SRs issued under such scheme.
+
+# **13. Allowing ARCs to act as Resolution Applicant under Insolvency and Bankruptcy Code, 2016 (IBC)**
+
+ARCs are currently not permitted to commence or carry on any business other than that of securitisation or asset reconstruction or the business referred to in Section 10(1) of the SARFAESI Act without prior approval of the Reserve Bank of India. It has now been decided under the provision of Section 10(2) of the SARFAESI Act to permit ARCs to undertake those activities as a Resolution Applicant (RA) under IBC which are not specifically allowed under the SARFAESI Act. This permission shall be subject to the following conditions:
+
+- (i) The ARC has a minimum NOF of ₹1,000 crore.
+- (ii) The ARC shall have a Board-approved policy regarding taking up the role of RA which may inter alia include the scope of activities, internal limit for sectoral exposures, etc.
+- (iii) A committee comprising of a majority of independent directors shall be constituted to take decisions on the proposals of submission of resolution plan under IBC.
+- (iv)The ARC shall explore the possibility of preparing a panel of sector-specific management firms/ individuals having expertise in running firms/ companies which may be considered for managing the firms/ companies, if needed.
+- (v) In respect of a specific corporate insolvency resolution process (CIRP), the ARCs shall not retain any significant influence or control o

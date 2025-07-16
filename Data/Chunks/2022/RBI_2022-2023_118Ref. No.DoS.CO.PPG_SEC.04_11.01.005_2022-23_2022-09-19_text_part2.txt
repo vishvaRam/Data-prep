@@ -1,0 +1,42 @@
+ / Board Committee on any material Compliance failure while ensuring that appropriate remedial or disciplinary action is taken.
+
+ <sup>4</sup> Except UCBs under All Inclusive Directions (AID). A transition time of six months will be provided for ensuring compliance with these guidelines, as and when such UCBs come out of AID.
+
+<sup>5</sup> 'Board Committee' means 'Audit Committee of the Board'
+
+#### **5. Responsibilities of Compliance Function**
+
+5.1 Compliance Function shall be responsible for undertaking the following activities at the minimum:
+
+- i) *Assist the Board and the Senior Management in overseeing the implementation of Compliance Policy* including policies and procedures, prescriptions in Compliance Manuals, internal codes of conduct, etc.
+- ii) *Play the central role in identifying the level of Compliance risk in the organisation*. The Compliance risks in existing / new products and processes shall be analysed and appropriate risk mitigants put in place. The Chief Compliance Officer (CCO) shall be a member of the 'new product' committee/s[6](#page-3-0). All new products shall be subjected to intensive monitoring at least for the first six months of introduction to ensure that the indicative parameters of Compliance risk are adequately monitored.
+- iii) *Compliance Function shall monitor and test Compliance* by performing sufficient and representative Compliance testing, and the results of such Compliance testing shall be reported to the Senior Management. It shall periodically circulate the instances of Compliance failures among staff, along with the required preventive instructions. Staff accountability shall be examined for major Compliance failures.
+- iv) *Ensure compliance of regulatory / supervisory directions given by RBI in both letter and spirit in a time-bound and sustainable manner.* RBI will continue to expect an effective Compliance Program where all Risk Mitigation Plan (RMP) / Monitorable Action Plan (MAP) points are complied with within the timelines prescribed. Unsatisfactory compliance with RMP/MAP may invite penal action from RBI.
+- v) *Attend to compliance with directions from other regulators in cases where the activities of the entity are not limited to the regulation / supervision of RBI.* Further, discomfort conveyed to the UCB on any issue by other regulators, and action taken by any other authorities / law enforcement agencies, shall be brought to the notice of RBI.
+
+<span id="page-3-0"></span><sup>6</sup> If there is no such committee in existence, then the CCO shall evaluate all new products before these are launched.
+
+vi) *The Compliance Department may also serve as a reference point for the staff from operational departments for seeking clarifications / interpretations of various regulatory and statutory guidelines.*
+
+5.2 The CCO shall be the nodal point of contact between the UCB and the regulators / supervisors and shall necessarily be a participant in the structured or other regular discussions held with RBI. Further, compliance to RBI inspection reports shall be communicated to RBI necessarily through the office of the Compliance Function.
+
+5.3 In some UCBs, there may be separate departments / divisions looking after compliance with different statutory and other requirements. In such cases, the departments concerned shall hold the prime responsibility for their respective areas, which shall be clearly outlined. Adherence to applicable statutory provisions and regulations is the responsibility of each staff member. However, the Compliance Function would need to ensure overall oversight.
+
+#### **6. Broad Contours of Compliance Framework in UCBs**
+
+# **A. Compliance Policy**
+
+a. The UCB shall lay down a Board-approved Compliance Policy clearly spelling out its Compliance philosophy, expectations on Compliance culture, structure and role of the Compliance Function, the role of CCO, processes for identifying, assessing, monitoring, managing and reporting on Compliance risk. The Policy shall be reviewed at least once a year.
+
+b. Broadly, the Policy shall ensure coverage of the following aspects:
+
+- i) Measures to ensure the independence of the Compliance Function and its responsibility to freely disclose findings and views to Senior Management, Board / Board Committee;
+- ii) Focus on various regulatory and statutory Compliance requirements;
+- iii) Monitoring mechanism for the Compliance testing procedure;
+- iv) Reporting requirements, including Compliance risk assessment and change in risk profile, etc., to the Senior Management and to the Board / Board Committee;
+- v) The authority of the Compliance Function to have access to information as specified in Part D below;
+
+- vi) A mechanism for dissemination of information on regulatory prescriptions and guidelines among staff and periodic updating of operational manuals; and
+- vii) The approval process for all new processes and products by the Compliance Department, prior to their introduction.
+
+### **B. Compliance Struc

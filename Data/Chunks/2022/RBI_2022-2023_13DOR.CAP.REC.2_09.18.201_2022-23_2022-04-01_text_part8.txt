@@ -1,0 +1,57 @@
+ory minimum, subject to conformity with para 2.7.1.
+
+2.7.4 All instances of non-payment of interest or payment of interest at a rate lesser than the specified rate should be reported by the issuing UCB to the concerned RO of DoS, RBI.
+
+## **2.8 Redemption / Repayment of Redeemable Tier-II Preference Shares**
+
+RNCPS and RCPS shall not be redeemable at the initiative of the holder. Redemption of these instruments at maturity shall be made only with the prior approval of the DoR, RBI subject, *inter alia*, to the following conditions:
+
+- (a) the bank's CRAR is above the minimum regulatory requirement prescribed by RBI
+- (b) the impact of such payment does not result in bank's CRAR falling below or remaining below the minimum regulatory requirement.
+
+### **2.9 Seniority of Claim**
+
+The claims of the investors in these instruments shall be senior to the claims of investors in instruments eligible for inclusion in Tier-I capital and subordinate to the claims of all other creditors including those in lower Tier-II capital and the depositors. Amongst the investors of various instruments included in Upper Tier-II capital, the claims shall rank *pari passu* with each other.
+
+#### **2.10 Voting Rights**
+
+The investors in Tier-II preference shares shall not be eligible for any voting rights.
+
+### **2.11 Progressive Discount for the purpose of computing CRAR**
+
+The Redeemable Preference Shares (both cumulative and non-cumulative) shall be subjected to progressive discount for capital adequacy purposes over the last five years of their tenor, as under:
+
+
+## **2.12 Other Conditions**
+
+2.12.1 The Tier II preference shares shall be fully paid-up, unsecured, and free of any restrictive clauses.
+
+2.12.2 UCBs shall also comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the Tier II preference shares, provided they are not in conflict with any terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier II capital.
+
+#### **2.13 Compliance with Reserve Requirements**
+
+2.13.1 The total amount raised by a bank through the issue of these instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR / SLR requirements.
+
+2.13.2 The amount collected from members / prospective investors and held pending allotment shall not be reckoned for calculation of capital funds until the allotment process is over.
+
+### **2.14 Reporting Requirements**
+
+UCBs issuing these instruments shall submit a report to the concerned RO of DoS, RBI, giving details of the capital raised, including the terms and conditions of issue together with a copy of the Prospectus / Offer Document soon after the issue is completed.
+
+#### **2.15 Investments in Tier-II preference shares and advances for purchase of Tier-II preference shares**
+
+UCBs shall not grant any loan or advance to any person for purchasing their own Tier-II preference shares or Tier-II preference shares of other banks. UCBs shall not invest in Tier-II preference shares issued by other banks and shall not grant advances against the security of Tier-II preference shares issued by them or other banks.
+
+### **Annex-III**
+
+# **Guidelines on issuance of Debt Capital Instruments**
+
+## **A. Perpetual Debt Instrument (PDI) eligible for inclusion in Tier-I Capital**
+
+UCBs may issue Perpetual Debt Instruments (PDI) as bonds or debentures to their members or any other person residing within their area of operation, with the prior approval of RBI. The UCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum to the concerned Regional Office (RO) of the RBI. A certificate from a Chartered Accountant to the effect that the terms of the offer document are in compliance with these instructions shall also be submitted along with the application. PDI can also be issued through conversion of a portion of existing deposits of the Institutional Depositors as a part of revival plan / financial reconstruction of the UCB with consent of depositors as per applicable regulatory instructions. The amounts raised through PDI shall comply with the following terms and conditions to qualify for inclusion as Tier I capital.
+
+## **2. Terms of Issue**
+
+### **2.1 Limit**
+
+- i. The amount of PDI reckoned for Tier-I capital shall not exceed 15 per cent of total Tier-I capital[5](#page-2-0). The outstanding Innovative Perpetual Debt Instruments (IPDI)[6](#page-2-1) shall also be covered in the aforementioned ceiling of 15 per cent and reckoned for capital purposes as hitherto. PDI in excess of the above limits shall be eligible for inclusion under Tier-II capital, subject to the limits prescribed for Tier-II capital. However, investors' rights and obligations would rema

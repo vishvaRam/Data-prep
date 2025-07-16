@@ -1,0 +1,50 @@
+r cent of the borrowings, of which 1 per cent is to be collected initially and the balance of 1.5 per cent is to be collected in the course of next 2 years.
+
+The above share linking norms may be applicable for member's shareholdings up to the limit of 5 per cent of the total paid up share capital of the bank. Where a member is already holding 5 per cent of the total paid up share capital of a UCB, it would not be necessary for him / her to subscribe to any additional share capital on account of the application of extant share linking norms. In other words, a borrowing member may be required to hold shares for an amount that may be computed as per the extant share linking norms or for an amount that is 5 per cent of the total paid up share capital of the bank, whichever is lower.
+
+Share-linking to borrowing norms shall be discretionary for UCBs which meet the minimum regulatory CRAR criteria of 9 per cent and a Tier 1 CRAR of 5.5 per cent as per the latest audited financial statements and the last CRAR as assessed by RBI during statutory inspection. Such UCBs shall have a Board-approved policy on share-linking to borrowing norms which shall be implemented in a transparent, consistent and non-discriminatory manner. The policy may be reviewed by the Board at the beginning of the accounting year. UCBs, which do not maintain the minimum CRAR of 9 percent and Tier 1 CRAR of 5.5 per cent, shall continue to be guided by the norms on share-linking to borrowing as specified above.
+
+Perpetual Non-Cumulative Preference Shares (PNCPS) held by members / subscribers, may be treated as shares for the purpose of compliance with the extant share linking to borrowing norms.
+
+## **6. Refund of share capital**
+
+In terms of Section 12 (2) (ii) read with Section 56 of the BR Act, a co-operative bank shall not withdraw or reduce its share capital, except to the extent and subject to such conditions as the Reserve Bank may specify in this behalf. Accordingly, it has been decided to permit UCBs to refund the share capital to their members, or nominees / heirs of deceased members, on demand[2](#page-2-0), subject to the following conditions:
+
+a) The bank's CRAR is 9 per cent or above, both as per the latest audited financial statements and the last CRAR as assessed by RBI during statutory inspection.
+
+b) Such refund does not result in the CRAR of the bank falling below regulatory minimum of 9 per cent.
+
+For the purpose of computing CRAR as above, accretion to capital funds after the balance sheet date[3](#page-2-1), other than by way of profits, may be taken into account. Any reduction in capital funds, including by way of losses, during the aforesaid period shall also be considered.
+
+ <sup>2</sup> Subject to the member fulfilling all the eligibility conditions for refund.
+
+<span id="page-2-1"></span><span id="page-2-0"></span><sup>3</sup> Capital funds shall be as per audited data
+
+## **7. Measures for protection of investors in regulatory capital instruments specified in [Annex-II](#page--1-0) and [Annex-III](#page--1-0)**
+
+For the purpose of enhancing investor education on the risk characteristics of regulatory capital instruments, UCBs, which issue regulatory capital instruments specified in [Annex-II](#page--1-0) and [Annex-III](#page--1-0) shall adhere to the following conditions:
+
+a) For floating rate instruments, banks should not use its Fixed Deposit rate as benchmark.
+
+b) A specific sign-off, as quoted below, from the investors, for having understood the features and risks of the instruments, may be incorporated in the common application form of the proposed issue:
+
+"By making this application, I / we acknowledge that I / we have understood the terms and conditions of the issue of [Name of the share/security] being issued by [Name of the bank] as disclosed in the Prospectus and Offer Document".
+
+c) UCBs shall ensure that all the publicity material / offer document, application form and other communication with the investor should clearly state in bold letters (Arial font, size 14, equivalent size in English / Vernacular version) how a PNCPS / PCPS / RNCPS / RCPS / PDI / LTSB, as the case may be, is different from a fixed deposit, and that these instruments are not covered by deposit insurance.
+
+d) The procedure for transfer to legal heirs in the event of death of the subscriber of the instrument should also be specified.
+
+## **8. Returns**
+
+Banks should furnish to the respective Regional Offices annual return indicating (i) capital funds, (ii) conversion of off-balance sheet / non-funded exposures, (iii) calculation of risk weighted assets, and (iv) calculation of capital funds and risk assets ratio. The format of the return is given in the [Annex-IV.](#page--1-0) The returns should be signed by two officials who are authorized to sign the statutory returns submitted to Reserve Bank.
+
+# **Prudential Norms - Risk Weights for Computation of CRAR**
+
+## **I. Domestic Operations**
+
+# A. **Funded Risk Assets**
+
+
+
+
+## B. **Off-Bal

@@ -1,0 +1,54 @@
+\* Measured by drawing a straight line from the peak of the tear to the edge of the note where the tear begins (rectangular projection), rather than measuring the length of the tear itself.
+
+## **(v) Holes**
+
+This refers to notes with at least one visible hole. Notes with holes with area exceeding 8 mm² shall be sorted as unfit.
+
+### **(vi) Stains**
+
+Stains are visible markings which are not part of the feature of a note. Notes shall be detected as unfit if localized - i.e. with limited extension – stain can be recognised on its surface. In case the total area covered by stains exceeds 500 mm², the note shall be sorted as unfit. A note with a single stain covering an area of more than 200 mm² shall be sorted as unfit. Both the obverse and the reverse of the note shall be checked for stains.
+
+#### **(vii) Graffiti**
+
+Graffiti refers to deliberate graphic alteration of the note with for example, figures or letters. Fitness sorting criteria in case of graffiti shall be the same as those for stains. Both the obverse and the reverse of the note shall be checked for graffiti.
+
+#### **(viii) Crumples/ Folds**
+
+Crumpled / folded notes shall be sorted as unfit if the folds result in reduction of the original note in length or width greater than 5 mm.
+
+#### **(ix) Decolouration**
+
+Notes affected by decolouration shall be sorted as unfit if the ink is partially or wholly missing from its surface. Both the obverse and the reverse of the note shall be checked for decolouration.
+
+#### **(x) Repair**
+
+A repaired note is created by joining parts of the same note together, for example, by using extraneous matter such as tape, paper or glue. Notes with the following types of repairs shall be sorted as suspect/ reject:
+
+• Repairs covering an area greater than 100 mm²; or
+
+- Thickness of the extraneous matter 50 μm or more; or
+- Width of the extraneous matter 10 mm or more; or
+- Length of the extraneous matter 10 mm or more.
+
+## **5. Mutilated, Imperfect, Mismatched Notes and Built-up Notes**
+
+These notes, as defined in [NRR 2009](https://www.rbi.org.in/Scripts/OccasionalPublications.aspx?head=RBI%20-%20Note%20Refund%20Rules) (amended in December 2018), shall be classified as suspect/ reject.
+
+**6.** Suspect/ Reject notes shall be subjected to Manual Inspection for any wrongdoings.
+
+## **7. Calibration and Periodic Testing of Machines**
+
+Banks shall ensure that the Note Sorting machines are tested for accuracy and consistency on a quarterly basis and recalibrated, if required. A certificate (signed by Bank Officials) to this effect shall be maintained for records. A periodicity of quarterly testing as per the [Format attached,](#page--1-0) may be followed.
+
+--------------- x ----------------
+
+
+## **Quarterly Test Reporting Format**
+
+(Signature) (Signature) (Signature) Machine Supplier NSM Operator Bank Official
+
+## **Testing Procedure**
+
+- A test deck of minimum 2000 pieces of soiled notes including mutilated notes, FICNs, Reissuables shall be prepared every quarter.
+- These notes may be comprised of following denominations Rs.100 old series (20%), Rs. 100 new series (20%), Rs. 200 (20%), Rs.500 (20%) and Rs. 2000 (20%), as per availability i.e. if notes in any denomination is not available, same may be replaced with other available denominations, and shall be run separately.
+- In case of discrepancies, machine supplier shall be advised to re-calibrate the machines. The acceptable tolerance level for fitness checks is 5%, however, there is zero tolerance for FICNs.

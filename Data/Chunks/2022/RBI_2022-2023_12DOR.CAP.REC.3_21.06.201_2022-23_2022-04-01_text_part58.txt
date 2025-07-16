@@ -1,0 +1,25 @@
+dit, market, liquidity and operational risks, but incorporates all material risks. This includes reputational and strategic risks, as well as risks that do not appear to be significant in isolation, but when combined with other risks could lead to material losses.
+
+The Board of Directors and senior management should possess sufficient knowledge of all major business lines to ensure that appropriate policies, controls and risk monitoring systems are effective. They should have the necessary expertise to understand the capital markets activities in which the bank is involved – such as securitisation and off-balance sheet activities – and the associated risks. The board and senior management should remain informed on an on-going basis about these risks as financial markets, risk management practices and the bank's activities evolve. In addition, the board and senior management should ensure that accountability and lines of authority are clearly delineated. With respect to new or complex products and activities, senior management should understand the underlying assumptions regarding business models, valuation and risk management practices. In addition, senior management should evaluate the potential risk exposure if those assumptions fail. Before embarking on new activities or introducing products new to the institution, the board and senior management should identify and review the changes in firm-wide risks arising from these potential new products or activities and ensure that the infrastructure and internal controls necessary to manage the related risks are in place. In this review, a bank should also consider the possible difficulty in valuing the new products and how they might perform in a stressed economic environment. The Board should ensure that the senior management of the bank:
+
+- (i) establishes a risk framework in order to assess and appropriately manage the various risk exposures of the bank;
+- (ii) develops a system to monitor the bank's risk exposures and to relate them to the bank's capital and reserve funds;
+- (iii) establishes a method to monitor the bank's compliance with internal policies, particularly in regard to risk management; and
+- (iv) effectively communicates all relevant policies and procedures throughout the bank.
+
+A bank's risk function and its chief risk officer (CRO) or equivalent position should be independent of the individual business lines and report directly to the chief executive officer (CEO) / Managing
+
+Director and the institution's board of directors. In addition, the risk function should highlight to senior management and the board risk management concerns, such as risk concentrations and violations of risk appetite limits. Banks may refer to [circular no.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10948&Mode=0)  [DBR.BP.BC.No.65/21.04.103/2016-17 dated April 27, 2017](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10948&Mode=0) on Risk Management Systems – Role of the Chief Risk Officer (CRO), as amended from time to time, for, *inter alia*, the guidelines on the Role of CRO.
+
+#### 12.3.3.3 Policies, procedures, limits and controls:
+
+The structure, design and contents of a bank's ICAAP should be approved by the Board of Directors to ensure that the ICAAP forms an integral part of the management process and decision making culture of the bank. Firm-wide risk management programmes should include detailed policies that set specific firm-wide prudential limits on the principal risks relevant to a bank's activities. A bank's policies and procedures should provide specific guidance for the implementation of broad business strategies and should establish, where appropriate, internal limits for the various types of risks to which the bank may be exposed. These limits should consider the bank's role in the financial system and be defined in relation to the bank's capital, total assets, earnings or, where adequate measures exist, its overall risk level.
+
+A bank's policies, procedures and limits shall:
+
+- Provide for adequate and timely identification, measurement, monitoring, control and mitigation of the risks posed by its lending, investing, trading, securitisation, off-balance sheet, fiduciary and other significant activities at the business line and firm-wide levels;
+- Ensure that the economic substance of a bank's risk exposures, including reputational risk and valuation uncertainty, are fully recognised and incorporated into the bank's risk management processes;
+- Be consistent with the bank's stated goals and objectives, as well as its overall financial strength;
+- Clearly delineate accountability and lines of authority across the bank's various business activities, and ensure there is a clear separation between business lines and the risk function;
+- Escalate and address breaches of internal position limits;
+- Provide for the review of new businesses and products by bringing together all relevant risk management, control and business lines to 

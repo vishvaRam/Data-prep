@@ -1,0 +1,62 @@
+e management of the bank.
+
+### 13.2 **Investment Accounting**
+
+### 13.2.1 **Accounting Standards**
+
+In order to bring about uniform accounting practice among banks in booking of income on units of mutual funds (debt mutual funds and money market mutual fund) and equity of AIFIs, as a prudent practice, such income should be booked on cash basis and not on accrual basis. However, in respect of income from Government Securities/bonds of public sector undertakings and AIFIs, where interest rates on the instruments are predetermined, income may be booked on accrual basis, provided interest is serviced regularly and is not in arrears.
+
+# 13.2.2 **Broken Period Interest - Government and Other Approved Securities**
+
+13.2.2.1 With a view to bringing about uniformity in the accounting treatment of broken period interest on Government Securities paid at the time of acquisition, the banks should not capitalise the broken period interest paid to seller as part of cost but treat it as an item of expenditure under Profit & Loss Account.
+
+13.2.2.2 It is to be noted that the above accounting treatment does not take
+
+into account taxation implications and hence the bank should comply with the requirements of income tax authorities in the manner prescribed by them.
+
+# 13.2.2.3 **Accounting Procedure for investments in Government Securities – Settlement Date Accounting**
+
+With a view to bringing in uniformity in the practice adopted by banks while accounting for investments in Government Securities, it has been decided that banks should follow "Settlement Date" accounting for recording both outright and repos/reverse repo transactions in Government Securities.
+
+#### 14. **RECOMMENDATIONS OF GHOSH COMMITTEE**
+
+The following recommendations made by the Ghosh Committee should be implemented by the banks to prevent frauds and malpractices:
+
+### 14.1 **Concurrent Audit**
+
+- 14.1.1 In view of the possibility of abuse, treasury functions viz. investments, funds management including inter-bank borrowings, bills rediscounting, etc. should be subjected to concurrent audit and the results of audit should be placed before the Chairman and Managing Director of the bank at prescribed intervals.
+- 14.1.2 It is the primary responsibility of the banks to ensure that there are adequate audit procedures for ensuring proper compliance of the instructions in regard to the conduct of investment portfolio.
+- 14.1.3 The concurrent audit should cover the following aspects:
+	- (i) Ensure that in respect of purchase and sale of securities the concerned department has acted within its delegated powers.
+	- (ii) Ensure that the securities other than those in SGL and in demat form, as shown in the books, are physically held.
+	- (iii) Ensure that the Accounting Unit is complying with the guidelines regarding SGL forms, delivery of scrips, documentation and accounting.
+	- (iv) Ensure that the sale or purchase transactions are done at rates beneficial to the bank.
+	- (v) Scrutinise conformity with broker limits and include excesses
+
+observed in their periodical reports.
+
+14.1.4 Banks should formulate internal control guidelines for acquisition of permissible shares, debentures and PSU bonds in the secondary market duly approved by their Boards.
+
+#### 14.2 **Internal Audit**
+
+Purchase and sale of Government Securities etc. should be separately subjected to audit by internal auditors. In the absence of internal auditors, audit may be conducted by Chartered Accountants. The results of their audit should be placed before the Board of Directors once in every quarter.
+
+## 14.3 **Review**
+
+Banks should undertake a half-yearly review (as of March 31 and September 30) of their investment portfolio, which should, apart from other operational aspects of investment portfolio, clearly indicate and certify adherence to the laid down internal Investment Policy and procedures and Reserve Bank's guidelines and put up the same before the Board within a month. Such review reports should be forwarded to Regional Office of Department of Supervision (erstwhile Urban Banks Department) by May 15/November 15 respectively.
+
+## 14.4 **Penalties for Violation**
+
+Banks should scrupulously follow the above instructions. Any violation of these instructions will invite penal action against defaulting banks which could include raising of reserve requirements, withdrawal of refinance from the Reserve Bank, denial of access to money markets, denial of new branches/extension counters and advising the President of Clearing House to take appropriate action including suspension of membership of the Clearing House.
+
+### 15. **CATEGORISATION OF INVESTMENTS**
+
+15.1 UCBs are required to classify their entire investment portfolio (including SLR and Non-SLR securities) under three categories, viz.:
+
+- (i) Held to Maturity (HTM)
+- (ii) Available for Sale (AFS)
+- (iii) Held for Trading (HFT)
+
+Banks should decide the category of the investment at the time of acquisition and the
+
+decision should be recorded 

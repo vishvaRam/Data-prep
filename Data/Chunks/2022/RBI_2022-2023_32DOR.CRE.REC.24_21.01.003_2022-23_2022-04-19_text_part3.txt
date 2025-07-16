@@ -1,0 +1,42 @@
+ollowing conditions:
+
+i) NBFC-UL has a policy approved by its board of directors setting out conditions under which exposure beyond 20% may be considered; and ii) NBFC-UL shall record in writing the exceptional reasons for which exposure beyond 20% is being allowed in a specific case.
+
+**Provided** that an Infrastructure Finance Company (IFC) may further exceed the exposure limit by 5 percent of Tier I capital for exposure to a single counterparty.
+
+**Provided** further that an NBFC-UL may exceed the exposure limit by 5 percent of its Tier I capital for exposure to a single counterparty, if the additional exposure is on account of infrastructure 'loan and/ or investment'. However single counterparty limit shall not exceed 25% in any case for NBFC-UL (other than IFC) and 30% for NBFC-UL(IFC).
+
+#### 5.2 **Groups of Connected Counterparties:**
+
+a) The sum of all exposure values of an NBFC-UL to a group of connected counterparties shall not be higher than 25 percent of the NBFC-UL's available eligible capital base at all times.
+
+**Provided** that an IFC may exceed the exposure limit by 10 percent of its Tier I capital for exposure to a group of connected counterparties.
+
+**Provided** further that an NBFC-UL may exceed the exposure limit by 10 percent of its Tier I capital for exposure to a group of connected counterparties, if the additional exposure is on account of infrastructure 'loan and/ or investment'.
+
+- b) Each NBFC-UL shall frame a policy approved by its board to determine the existence of a group of connected counterparties. The policy framed, and assessments made under such a policy shall be subject to supervisory scrutiny.
+- c) In exceptional cases, if a NBFC-UL demonstrates to the RBI that despite control being established, such control does not necessarily result in the entities concerned constituting a group of connected counterparties (e.g., existence of control between counterparties due to specific circumstances and corporate governance safeguards), then it is not required to classify the entities as a group of connected counterparties.
+- d) In exceptional cases, if a NBFC-UL can demonstrate to the RBI that a counterparty which is economically closely related to another counterparty may overcome financial difficulties, or even the second counterparty's default, by finding alternative business partners or funding sources within an appropriate time period, then it is not
+
+required to classify the entities as a group of connected counterparties.
+
+5.3 A summary of the LEF limits for NBFC-UL is given below:
+
+(as % of eligible capital base)
+
+
+# 5.4 **Relation between interconnectedness through control and interconnectedness through economic dependency:**
+
+There may be situations where the control relationship and economic interdependence are interlinked. Therefore, one group of connected counterparties could include both types of factors in such a way that all relevant counterparties constitute a single risk for the NBFC-UL. Risk of contagion is present irrespective of type of connectedness (i.e. control or economic interdependence) between counterparties. NBFC-UL should assess counterparties with a view to identifying the chain of contagion leading to possible default of all entities.
+
+#### **6 Values of exposures**
+
+6.1 An exposure to a counterparty shall constitute both on and off-balance sheet exposures which shall be calculated according to the method prescribed for capital computation in Master Direction - [Non-Banking Financial Company -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)
+
+[Systemically Important Non-Deposit taking Company and Deposit taking](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)  [Company \(Reserve Bank\) Directions, 2016,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) as amended from time to time. The exposures shall be permitted to be offset with credit risk transfer instruments permitted in the aforesaid directions.
+
+- 6.2 Factoring transactions: In the case of factoring on "with-recourse" basis, the exposure shall be reckoned on the assignor. In case of factoring on "withoutrecourse" basis, the exposure shall be reckoned on the debtor, irrespective of credit risk cover/ protection provided, except in cases of international factoring where the entire credit risk has been assumed by the import factor.
+- 6.3 Exposures to Central Counterparties:
+	- a) The exposures to Central Counter Parties (CCPs), on account of derivatives trading and securities financing transactions outstanding against them shall be assigned zero exposure value. However, these exposures will be subject to the regulatory reporting requirements as defined in paragraph [7.](#page--1-0)
+	- b) Amount of the collaterals with CCPs shall be reckoned for arriving at the exposure limit.
+	- c) Other exposures: Other types of exposures such as equity stake, funding facilities, credit facilities, guarantees etc., shall be measured according to the rule

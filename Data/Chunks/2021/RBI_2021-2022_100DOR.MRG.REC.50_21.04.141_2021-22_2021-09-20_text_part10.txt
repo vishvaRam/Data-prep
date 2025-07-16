@@ -1,0 +1,31 @@
+astructure projects and having a minimum residual maturity of seven years may be classified under Held to Maturity (HTM) category
+- (h) All non-SLR investments will be subject to the prescribed prudential single/group counter party exposure limits.
+- (i) All transactions for acquisition / sale of non-SLR investments in secondary market may be undertaken with mutual funds, pension / provident funds and insurance companies, in addition to undertaking transactions with commercial banks and primary dealers, subject to adherence to the instructions contained
+
+in Para 7 of RBI [Master Direction FMRD.DIRD.2/14.01.002/2017-18 dated](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11089)  [August 10, 2017.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11089)
+
+(j) UCBs investing in shares of Market Infrastructure Companies (MICs), are allowed to exceed the limit for Investments in Non- SLR / unlisted securities prescribed in paragraph 12.1.1 and 12.1.3 (b) above, if it becomes necessary to do so for acquiring membership of MICs. The MICs eligible for such Investments by UCBs are Clearing Corporation of India Ltd., National Payments Corporation of India and Society for World Wide Inter-Bank Financial Tele-Communication (SWIFT). The list of eligible MICs will be updated from time to time by the Reserve Bank of India.
+
+Note: For the definitions of certain items such as rated security, investment grade rating, etc., please see **Annex II**.
+
+## 12.1.4 **Review of non-SLR investment**
+
+The Board should review the following aspects of non-SLR investment at least at half-yearly intervals:
+
+- (a) Total business (investment and divestment) during the reporting period.
+- (b) Compliance with prudential limits prescribed for non-SLR investment.
+- (c) Compliance with the prudential guidelines issued by Reserve Bank on Non-SLR securities.
+- (d) Rating migration of the issuers/issues held in the bank's books and consequent diminution in the portfolio quality.
+- (e) Extent of non-performing investments in the non-SLR category and sufficient provision thereof.
+
+## 12.1.5 **Disclosure**
+
+The banks shall disclose the details of the issuer-wise composition of non-SLR investments and the non-performing investments, as indicated in Annexure III - C.3(d) of [Master Direction on Financial Statements -](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158) Presentation and Disclosures [dated August 30, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)
+
+# 12.2 **Bonds/ Debentures received through Asset Reconstruction Companies (ARC)**
+
+(i) The bonds/ debentures received by the banks as sale consideration towards sale of financial assets to ARCs, will be classified as non-SLR investments in the books of the banks and accordingly the valuation, classification and other norms applicable to non-SLR investments of banks as prescribed by Reserve Bank from time to time, would be applicable to the instruments received by the banks by way of sale consideration from ARC. UCBs are allowed to hold these investments, over and above the limit of 10 per cent of its deposits as on 31 March of the previous year, for non-SLR securities. UCBs are not permitted to make any direct investment in the security receipts, pass-through certificates, or bonds/ debentures issued by ARC. UCBs registered under the Multi-State Co-operative Societies Act, 2002 are permitted to invest in Security Receipts issued by ARC in respect of financial assets sold by them to the ARC. However, UCBs must ensure that there is no order issued by a Court of competent jurisdiction restricting them from entering into such transactions. A set of guidelines to be followed by Multi-State Co-operative Banks on sale of Financial Assets to ARC has been formulated and furnished in the **Annex IV**. The guidelines may be placed before the bank's Board and appropriate steps taken for their implementation.
+
+- (ii) When a bank sells its financial assets to ARC, on transfer the same would be removed from the books of the bank.
+- (iii) If the sale to ARC is at a price below the Net Book Value (NBV) (i.e., book value less the provision held), the shortfall should be written off/ debited to Profit & Loss Account of that year, subject to the provisions of co-operative societies acts/rules/administrative guidelines in regard to write-off of debts.
+- (iv) Multi- State Urban Cooperative Banks are permitted to reverse to P& L account the excess provision when the sale is for a value higher than the NBV on sale of NPAs to their profit and loss account. However, banks can reverse excess provision arising out of sale of NPAs only when the cash received (by way of initial consideration and/or redemption of security receipt /pass through certificates) is higher than the NBV of the NPAs sold to ARCs. Further, the quantum of excess provision reversed to profit and loss account will be limited to the extent of which cash exceeds the NBV of the NPAs sold. The quantum of exc

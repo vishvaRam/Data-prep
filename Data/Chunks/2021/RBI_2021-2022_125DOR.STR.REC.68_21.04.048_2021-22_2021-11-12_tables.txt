@@ -1,0 +1,13 @@
+| Loans<br>other than revolving facilities |                            | Loans<br>in the nature of revolving facilities like<br>cash credit/overdraft |                                      |
+|------------------------------------------|----------------------------|------------------------------------------------------------------------------|--------------------------------------|
+| SMA Sub                                  | Basis for classification – | SMA Sub                                                                      | Basis for classification –           |
+| categories                               | Principal or interest      | categories                                                                   | Outstanding balance remains          |
+|                                          | payment or any other       |                                                                              | continuously in excess of the        |
+|                                          | amount wholly or partly    |                                                                              | sanctioned limit or drawing power,   |
+|                                          | overdue                    |                                                                              | whichever is lower, for a period of: |
+| SMA-0                                    | Upto 30 days               |                                                                              |                                      |
+| SMA-1                                    | More than 30 days and      | SMA-1                                                                        | More than 30 days and upto 60        |
+|                                          | upto 60 days               |                                                                              | days                                 |
+| SMA-2                                    | More than 60 days and      | SMA-2                                                                        | More than 60 days and upto 90        |
+|                                          | upto 90 days               |                                                                              | days                                 |
+

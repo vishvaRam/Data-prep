@@ -1,0 +1,479 @@
+| Contents                                                                                                 |                                                                        |
+|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Sl No.                                                                                                   | Particulars                                                            |
+| 1                                                                                                        | Introduction                                                           |
+| 2                                                                                                        | Working Capital Requirements                                           |
+| 3                                                                                                        | Loan System for delivery of bank credit                                |
+| 4                                                                                                        | Credit Administration                                                  |
+| 5                                                                                                        | Exchange of credit information                                         |
+| 6                                                                                                        | Prudential Guidelines on Restructuring of Advances                     |
+| 7                                                                                                        | Specific Lending Activities                                            |
+| 8                                                                                                        | Discounting/Rediscounting of Bills by Banks                            |
+| 9                                                                                                        | Loans to Self Help Groups (SHGs) / Joint Liability Groups (JLGs)       |
+| 10                                                                                                       | Revival of Interest Tax Act, 1974                                      |
+| 11                                                                                                       | Relief measures to be extended in areas affected by natural calamities |
+| Annex - 1 Guidelines on Valuation of Properties – Empanelment of Valuers                                 |                                                                        |
+| Annex - 2 Guidelines for Relief Measures by Banks in Areas Affected by Natural Calamities                |                                                                        |
+| Annex - 3 Format for reporting of borrowal accounts classified as doubtful, loss for suit filed with     |                                                                        |
+| outstanding of Rs.1crore and above & Format for reporting of information on cases of wilful default of ₹ |                                                                        |
+| 25.00 lakh and above                                                                                     |                                                                        |
+| Annex - 4 Definition of Micro, Small and Medium Enterprises                                              |                                                                        |
+| Annex - 5 Safeguards-Advances against pledge of Gold/Silver ornaments                                    |                                                                        |
+| Annex - 6 Recommendations of the Committee to Recommended Data Format of Credit Information to           |                                                                        |
+| CICs                                                                                                     |                                                                        |
+| Annex - 7 Credit information reporting in respect of Self Help Group (SHG) members                       |                                                                        |
+|                                                                                                          | Appendix List of circulars consolidated in the Master Circular         |
+
+| <b>Segme</b><br>nts  | <b>Fields</b>                                                           |                                      |                                      |                                           |                                      |                                     |                                        |
+|----------------------|-------------------------------------------------------------------------|--------------------------------------|--------------------------------------|-------------------------------------------|--------------------------------------|-------------------------------------|----------------------------------------|
+|                      | <b>Header   Reporting</b><br>Member<br>/Processor User /Processor<br>ID | Reporting<br>Member<br>Short<br>Name | Cycle<br>Identification              | Date<br>Report<br>ed and<br>Certifie<br>d | Reporting<br>Password                | Authenticatio<br>n Method           | Member<br>Data                         |
+| <b>Name</b>          | Consumer<br>Name                                                        | Date of<br><b>Birth</b>              | Gender                               |                                           |                                      |                                     |                                        |
+| ID                   | <b>ID Type</b>                                                          |                                      | <b>ID Number Issue Date</b>          | Expirati<br>on<br>Date                    |                                      |                                     |                                        |
+| <b>Teleph</b><br>one | Telephone<br>Number                                                     | Telephone<br>Extension               | Telephone<br>Type                    |                                           |                                      |                                     |                                        |
+| <b>Email</b>         | E-Mail ID                                                               |                                      |                                      |                                           |                                      |                                     |                                        |
+| <b>Addres</b><br>s   | Consumer<br><b>Address</b>                                              | <b>State</b><br>Code                 | <b>PIN Code</b>                      | Addres<br>s<br>Catego<br>ry               | Residence<br>Code                    |                                     |                                        |
+| <b>Accou</b><br>nt   | Current/NewRe<br>porting<br><b>MemberCode</b>                           | w<br>MemberSh Number<br>ort Name     | Current/Ne Current/NewA<br>ccount    | t Type                                    | Accoun OwnershipInd Date<br>icator   | Opened/Disb<br>ursed                | Date of<br>LastPay<br>ment             |
+|                      | Date Closed                                                             | Date<br>Reported<br>and<br>Certified | High<br>Credit/Sanctio<br>ned Amount | <b>Balanc</b><br>e                        | Current Amount<br>Overdue            | Number of<br>Days Past<br>Due       | Old<br>Reportin<br>g<br>Member<br>Code |
+|                      | Old Member<br>ShortName                                                 | Old<br>Account<br>Number             | Old Account<br>Type                  | Old<br>hip<br>Indicat<br><b>or</b>        | Suit Filed/<br>Owners Wilful Default | Credit<br>Facility<br><b>Status</b> | Asset<br>Classific<br>ation            |
+|                      | Value of<br>Collateral                                                  | Type of<br>Collateral                | <b>Credit Limit</b>                  | Cash<br>Limit                             | Rate of<br>Interest                  | Repayment<br>Tenure                 | <b>EMI</b><br>Amount                   |
+|                      | Written-off<br>Amount (Total)                                           | Written-off<br>Amount<br>(Principal) | Settlement<br>Amount                 | Payme<br>nt<br>Freque<br>ncy              | Actual<br>Payment<br>Amount          | Occupation<br>Code                  | Income                                 |
+
+| Net/Gross | Monthly/A |  |  |  |
+|-----------|-----------|--|--|--|
+| Income    | nnual     |  |  |  |
+| Indicator | Income    |  |  |  |
+|           | Indicator |  |  |  |
+|           |           |  |  |  |
+
+| Segments         | Fields                                 |                                      |                                                            |                              |                                    |                                    |                              |  |
+|------------------|----------------------------------------|--------------------------------------|------------------------------------------------------------|------------------------------|------------------------------------|------------------------------------|------------------------------|--|
+| Header           | Member ID                              | Previous<br>Member<br>ID             | Date of<br>Creation &<br>Certification<br>of Input<br>File | Reporting /<br>Cycle Date    | Information<br>Type                | Filler                             |                              |  |
+| Borrower         | Member<br>Branch<br>Code               | Previous<br>Member<br>Branch<br>Code | Borrowers<br>Name                                          | Borrower<br>Short Name       | Company<br>Registratio<br>n Number | Date of<br>Incorporatio<br>n       |                              |  |
+|                  | PAN                                    | CIN                                  | TIN                                                        | Service Tax<br>#             | Other ID                           | Borrowers<br>Legal<br>Constitution | Business<br>Category         |  |
+|                  | Business/<br>Industry<br>Type          | Class of<br>Activity 1               | Class of<br>Activity 2                                     | Class of<br>Activity 3       | SIC Code                           | Sales<br>Figure                    | Financial<br>Year            |  |
+|                  | Number of<br>Employees                 | Credit<br>Rating                     | Assessmen<br>t Agency /<br>Authority                       | Credit<br>Rating As<br>On    | Credit<br>Rating<br>Expiry<br>Date | Filler                             |                              |  |
+| Address          | Borrower<br>Office<br>Location<br>Type | Borrower<br>Office<br>DUNS<br>Number | Address<br>Line 1                                          | Address<br>Line 2            | Address<br>Line 3                  | City/Town                          | District                     |  |
+|                  | State/Union<br>Territory               | Pin Code                             | Country                                                    | Mobile<br>Number(s)          | Telephone<br>Area Code             | Telephone<br>Number(s)             | Fax Area<br>Code             |  |
+|                  | Fax<br>Number(s)                       | Filler                               |                                                            |                              |                                    |                                    |                              |  |
+| Relationshi<br>p | Relationshi<br>p DUNS<br>Number        | Related<br>Type                      | Relationshi<br>p                                           | Business<br>Entity<br>Name   | Business<br>Category               | Business /<br>Industry<br>Type     | Individual<br>Name<br>Prefix |  |
+|                  | Full Name                              | Gender                               | Company<br>Registration<br>Number                          | Date of<br>Incorporatio<br>n | Date of<br>Birth                   | PAN                                | Voter ID                     |  |
+|                  | Passport<br>Number                     | Driving<br>Licence ID                | UID                                                        | Ration Card<br>No            | CIN                                | DIN                                | TIN                          |  |
+|                  | Service Tax<br>#                       | Other ID                             | Percentage<br>of Control                                   | Address<br>Line 1            | Address<br>Line 2                  | Address<br>Line 3                  | City/Town                    |  |
+|                  | District                               | State/Unio<br>n Territory            | Pin Code                                                   | Country                      | Mobile<br>Number(s)                | Telephone<br>Number(s)             | Telephone<br>Area Code       |  |
+
+|                         | Fax                                       | Fax Area                                       | Filler                                                          |                                                                        |                                           |                                            |                                                                       |
+|-------------------------|-------------------------------------------|------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------|
+|                         | Number(s)                                 | Code                                           |                                                                 |                                                                        |                                           |                                            |                                                                       |
+| Credit<br>Facility      | Account<br>Number                         | Previous<br>Account<br>Number                  | Facility /<br>Loan<br>Activation /<br>Sanction<br>Date          | Sanctioned<br>Amount/<br>Notional<br>Amount of<br>Contract             | Currency<br>Code                          | Credit Type                                | Tenure /<br>Weighted<br>Average<br>maturity<br>period of<br>Contracts |
+|                         | Repayment<br>Frequency                    | Drawing<br>Power                               | Current<br>Balance /<br>Limit<br>Utilized<br>/Mark to<br>Market | Notional<br>Amount of<br>Out<br>standing<br>Restructure<br>d Contracts | Loan<br>Expiry /<br>Maturity<br>Date      | Loan<br>Renewal<br>Date                    | Asset<br>Classificatio<br>n                                           |
+|                         | Asset<br>Classificatio<br>n Date          | Amount<br>Overdue /<br>Limit<br>Overdue        | Overdue<br>Bucket 01<br>(1 – 30<br>days)                        | Overdue<br>Bucket 02<br>(31 – 60<br>days)                              | Overdue<br>Bucket 03<br>(61 – 90<br>days) | Overdue<br>Bucket 04<br>(91 – 180<br>days) | Overdue<br>Bucket 05<br>(Above 180<br>days)                           |
+|                         | High Credit                               | Installment<br>Amount                          | Last Repaid<br>Amount                                           | Account<br>Status                                                      | Account<br>Status<br>Date                 | Written Off<br>Amount                      | Settled<br>Amount                                                     |
+|                         | Major<br>reasons for<br>Restructurin<br>g | Amount of<br>Contracts<br>Classified<br>as NPA | Asset<br>based<br>Security<br>coverage                          | Guarantee<br>Coverage                                                  | Bank<br>Remark<br>Code                    | Wilful<br>Default<br>Status                | Date<br>Classified<br>as Wilful<br>Default                            |
+|                         | Suit Filed<br>Status                      | Suit<br>Reference<br>Number                    | Suit<br>Amount in<br>Rupees                                     | Date of Suit                                                           | Dispute ID<br>No.                         | Transaction<br>Type Code                   | Filler                                                                |
+| Guarantor               | Guarantor<br>DUNS                         | Guarantor<br>Type                              | Business<br>Category                                            | Business /<br>Industry<br>Type                                         | Guarantor<br>Entity<br>Name               | Individual<br>Name<br>Prefix               | Full Name                                                             |
+|                         | Gender                                    | Company<br>Registratio<br>n Number             | Date of<br>Incorporatio<br>n                                    | Date of<br>Birth                                                       | PAN                                       | Voter ID                                   | Passport<br>Number                                                    |
+|                         | Driving<br>Licence ID                     | UID                                            | Ration Card<br>No                                               | CIN                                                                    | DIN                                       | TIN                                        | Service Tax<br>#                                                      |
+|                         | Other ID                                  | Address<br>Line 1                              | Address<br>Line 2                                               | Address<br>Line 3                                                      | City/Town                                 | District                                   | Territory                                                             |
+|                         | Pin Code                                  | Country                                        | Mobile<br>Number(s)                                             | Telephone<br>Area Code                                                 | Telephone<br>Number(s)                    | Fax Area<br>Code                           | Fax<br>Number(s)                                                      |
+|                         | Filler                                    |                                                |                                                                 |                                                                        |                                           |                                            |                                                                       |
+| Security                | Value of<br>Security                      | Currency<br>Type                               | Type of<br>Security                                             | Security<br>Classificatio<br>n                                         | Date of<br>Valuation                      | Filler                                     |                                                                       |
+| Dishonour<br>of Cheques | Segment<br>Identifier                     | Date of<br>Dishonour                           | Amount                                                          | Instrument /<br>Cheque<br>Number                                       | Number of<br>times                        | Cheque<br>Issue Date                       | Reason for<br>Dishonour                                               |
+
+|                 |                                   |                                             |        | dishonoure<br>d |  |
+|-----------------|-----------------------------------|---------------------------------------------|--------|-----------------|--|
+|                 | Filler                            |                                             |        |                 |  |
+| File<br>Closure | Number of<br>Borrower<br>Segments | Number of<br>Credit<br>Facility<br>Segments | Filler |                 |  |
+
+| 1 | Information to be collected by banks from individual SHG<br>members where the total amount of loan to be attributed to or to<br>be availed by the SHG member exceeds Rs.30,000/- | Table 1 |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| 2 | Information to be collected by banks from individual SHG<br>members where the total amount of loan to be attributed to or to<br>be availed by the SHG member is upto Rs.30,000/- | Table 2 |
+|   | 3 Information on all individual SHG members to be reported by<br>banks to CICs                                                                                                   | Table 3 |
+|   | 4 Information on individual SHG members to be collected by banks<br>at the time of opening of new Savings Bank Accounts of the SHG Table 4                                       |         |
+
+| Particulars required                                                               | Particulars provided | Basis                                                            | Modifications   |
+|------------------------------------------------------------------------------------|----------------------|------------------------------------------------------------------|-----------------|
+|                                                                                    |                      |                                                                  | during Phase II |
+| I. Non-Credit information                                                          |                      |                                                                  |                 |
+| 1. Name of the SHG                                                                 |                      | To be provided by the<br>SHG member                              |                 |
+| 2. Savings Bank Account                                                            |                      | To be provided by                                                |                 |
+| Number of the SHG                                                                  |                      | the SHG member                                                   |                 |
+| 3. Loan Account Number of the<br>SHG                                               |                      | To be assigned by the<br>bank                                    |                 |
+| 4. Name<br>of<br>the<br>SHG<br>member                                              |                      | As it appears on the<br>identity document<br>accepted by the     |                 |
+|                                                                                    |                      | bank or record of the<br>bank                                    |                 |
+| 5. The identity document                                                           |                      | Aadhaar Card No.                                                 |                 |
+| accepted by the bank                                                               |                      | /Voter ID/PAN                                                    |                 |
+|                                                                                    |                      | /Driving licence/<br>NREGA Card                                  |                 |
+|                                                                                    |                      | /Passport4                                                       |                 |
+| 6. Unique number of the identity<br>document accepted by the<br>bank, if available |                      | Documentary<br>proof<br>needed                                   |                 |
+| 7. Father's<br>/Husband's<br>Name                                                  |                      | As mentioned in the<br>identity document<br>accepted by the bank |                 |
+| 8.<br>Male or Female                                                               |                      | As declared by the<br>SHG member                                 |                 |
+
+| 9.<br>Date of birth (if printed on<br>the identity document)               |                                                     | DD/MM/YYYY         |  |
+|----------------------------------------------------------------------------|-----------------------------------------------------|--------------------|--|
+| 10. Address<br>(Complete<br>address<br>with<br>State<br>Code and PIN Code) |                                                     | Declaration basis5 |  |
+| 11. Information about other<br>existing bank accounts                      |                                                     | Declaration basis  |  |
+| 12. Educational level                                                      | Codes to be used                                    | Declaration basis  |  |
+|                                                                            | Illiterate<br>: 1<br>Passed 5th                     |                    |  |
+|                                                                            | class<br>: 2 Passed<br>8th                          |                    |  |
+|                                                                            | class<br>: 3 Passed<br>10th class<br>: 4            |                    |  |
+|                                                                            | Above 10th : 5                                      |                    |  |
+| 13. Occupation                                                             | Codes to be used                                    | Declaration basis  |  |
+|                                                                            | Home maker : 1<br>Landless labourer<br>: 2 Marginal |                    |  |
+|                                                                            | Farmer: 3 Small<br>Farmer : 4                       |                    |  |
+| 14. Annual income in thousands<br>of Rs.                                   |                                                     | Declaration basis  |  |
+| 15. Social strata                                                          | Codes to be used                                    | Declaration basis  |  |
+|                                                                            | SC:<br>1                                            |                    |  |
+|                                                                            | ST:<br>2                                            |                    |  |
+|                                                                            | OBC:<br>3                                           |                    |  |
+|                                                                            | General : 4                                         |                    |  |
+| 16. Mobile Number (if available)                                           |                                                     | Declaration basis  |  |
+
+| 17. Information about existing                                 | Based on the CIC report                          |                                |
+|----------------------------------------------------------------|--------------------------------------------------|--------------------------------|
+| loans – through other SHGs<br>where the individual is a member | obtained by the bank or a<br>bank report (in the |                                |
+|                                                                | absence of a CIC report)                         |                                |
+|                                                                |                                                  |                                |
+| Status of the SHG Account                                      | Based on the CIC report                          |                                |
+|                                                                | obtained by the bank, if                         |                                |
+| Name of the SHG                                                | available                                        |                                |
+| SHG's loan Account Number                                      |                                                  |                                |
+| Name of the lending bank                                       |                                                  |                                |
+|                                                                |                                                  |                                |
+| Amount borrowed                                                |                                                  |                                |
+| Amount outstanding                                             |                                                  |                                |
+|                                                                |                                                  |                                |
+|                                                                |                                                  |                                |
+| Status of the account                                          |                                                  |                                |
+| Regular                                                        |                                                  |                                |
+| Defaulter                                                      |                                                  |                                |
+| Settled                                                        |                                                  |                                |
+| Sub-judice                                                     |                                                  |                                |
+| If in default, status of the SHG                               |                                                  | In phase I, the                |
+| member's loan account if the                                   |                                                  | status of the SHG              |
+| SHG loan was distributed to                                    |                                                  | member's loan                  |
+| him/her7                                                       |                                                  | account is to be               |
+| Name<br>of<br>the SHG                                          |                                                  | enquired only if the           |
+|                                                                |                                                  | SHG account was                |
+| Name<br>of<br>the lending bank                                 |                                                  | in default.                    |
+| Amount borrowed                                                |                                                  | In Phase II, the               |
+| Amount outstanding                                             |                                                  | status of the SHG              |
+|                                                                |                                                  | member's loan<br>account to be |
+|                                                                |                                                  | enquired if the                |
+|                                                                |                                                  | SHG loan was                   |
+|                                                                |                                                  | distributed to                 |
+|                                                                |                                                  | him/her regardless             |
+|                                                                |                                                  | of the status of               |
+|                                                                |                                                  | SHG<br>loan                    |
+|                                                                |                                                  | account                        |
+|                                                                |                                                  | [Based on CIC                  |
+|                                                                |                                                  | report, if available;          |
+|                                                                |                                                  | in other cases a               |
+|                                                                |                                                  | letter from the                |
+|                                                                |                                                  | SHG to be relied               |
+|                                                                |                                                  | upon]                          |
+|                                                                |                                                  |                                |
+
+| 18. The amount of loan proposed<br>to be taken out of the group loan<br>granted by the bank<br>to the SHG8 | Letter from the<br>President/Secretary of the<br>SHG. To be verified by the<br>bank later on.  |                                                                                                                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19. The loans taken by the<br>member in individual capacity<br>from other sourceszdCA                      | During Phase I, this<br>information may be<br>collected based on CIC<br>reports, if available. | During Phase II,<br>this<br>information<br>may be collected<br>on a more firm<br>basis i.e., if not<br>available<br>with<br>CICs,<br>individual<br>bank/MFIs' reports<br>may be sought<br>once the member<br>declares<br>his<br>previous<br>borrowings. |
+
+| Particulars required                 | Particulars provided | Basis                | Modifications   |
+|--------------------------------------|----------------------|----------------------|-----------------|
+|                                      |                      |                      | during Phase II |
+| I.<br>Non-Credit information         |                      |                      |                 |
+| 1. Name of the SHG                   |                      | To be provided by    |                 |
+|                                      |                      | the SHG member       |                 |
+| 2. Savings<br>Bank                   |                      | To be provided by    |                 |
+| Account Number of the SHG            |                      | the SHG member       |                 |
+| 3. Loan<br>Account                   |                      | To be assigned by    |                 |
+| Number of the SHG                    |                      | the bank             |                 |
+| 4. Name of the SHG member            |                      | As it appears on the |                 |
+|                                      |                      | identity             |                 |
+|                                      |                      | document accepted    |                 |
+|                                      |                      | by<br>the            |                 |
+|                                      |                      | bank or record of    |                 |
+|                                      |                      | the bank             |                 |
+| 5. The identity document             |                      | Aadhaar<br>Card      |                 |
+| accepted by the bank                 |                      | No.<br>/Voter        |                 |
+|                                      |                      | ID/PAN/Driving       |                 |
+|                                      |                      | licence/NREGA        |                 |
+|                                      |                      | Card /Passport10     |                 |
+| 6. Unique number of the              |                      | Documentary proof    |                 |
+| identity document accepted by<br>the |                      | needed               |                 |
+|                                      |                      |                      |                 |
+| bank, if available                   |                      |                      |                 |
+| 7. Father's<br>/Husband's<br>Name    |                      | As mentioned in the  |                 |
+|                                      |                      | identity             |                 |
+|                                      |                      | document accepted    |                 |
+|                                      |                      | by the bank          |                 |
+| 8. Male or Female                    |                      | As declared by the   |                 |
+
+|                                                                   |                                                                  | SHG member          |  |
+|-------------------------------------------------------------------|------------------------------------------------------------------|---------------------|--|
+| 9. Dateof<br>birth<br>(if<br>printed on the identity              |                                                                  | DD/MM/YYYY          |  |
+| document)                                                         |                                                                  |                     |  |
+| 10. Address (Complete<br>address with State Code and<br>PIN Code) |                                                                  | Declaration basis11 |  |
+| 11. Information about other<br>existing bank accounts             |                                                                  | Declaration basis   |  |
+| 12. Educational level                                             | Codes to be used                                                 | Declaration basis   |  |
+|                                                                   | Illiterate<br>:<br>1 Passed 5th<br>Class<br>:<br>2<br>Passed 8th |                     |  |
+|                                                                   | Class<br>:<br>3<br>Passed 10th                                   |                     |  |
+|                                                                   | class<br>:<br>4<br>Above 10th<br>:<br>5                          |                     |  |
+| 13. Occupation                                                    | Codes to be used                                                 | Declaration basis   |  |
+|                                                                   | Home maker : 1<br>Landless                                       |                     |  |
+|                                                                   | Labourer<br>: 2<br>Marginal farmer : 3<br>Small Farmer : 4       |                     |  |
+| 14. Annual<br>incomein<br>thousands of Rs.                        |                                                                  | Declaration basis   |  |
+| 15. Social strata                                                 | Codes to be used SC<br>1                                         | Declaration basis   |  |
+|                                                                   | ST<br>2                                                          |                     |  |
+|                                                                   | OBC<br>3                                                         |                     |  |
+|                                                                   | General<br>4                                                     |                     |  |
+| 16. Mobile<br>Number<br>(if available)                            |                                                                  | Declaration basis   |  |
+
+| II.<br>Credit<br>related<br>information12                                                                 |                                       |                                                                                                                        |                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 17. Information about existing<br>loans – through other SHGs<br>where the individual is a<br>member       | Not to be collected<br>during phase I | Based on the CIC<br>report<br>obtained by the<br>bank or a bank<br>report (in the<br>absence of a CIC                  | To be collected<br>only during Phase<br>II based on the<br>CIC report<br>obtained by the<br>bank. |
+| 17.1<br>Status of<br>the<br>SHG Account                                                                   |                                       | report)                                                                                                                |                                                                                                   |
+| Name of the SHG                                                                                           |                                       |                                                                                                                        |                                                                                                   |
+| SHG loan account number                                                                                   |                                       |                                                                                                                        |                                                                                                   |
+| Name of the lending bank                                                                                  |                                       |                                                                                                                        |                                                                                                   |
+| Amount borrowed                                                                                           |                                       |                                                                                                                        |                                                                                                   |
+| Amount outstanding                                                                                        |                                       |                                                                                                                        |                                                                                                   |
+| Status of the account                                                                                     |                                       |                                                                                                                        |                                                                                                   |
+| Regular                                                                                                   |                                       | Based on the CIC                                                                                                       |                                                                                                   |
+| Defaulter                                                                                                 |                                       | report obtained by                                                                                                     |                                                                                                   |
+| Settled                                                                                                   |                                       | the bank, if available                                                                                                 |                                                                                                   |
+| Sub-judice                                                                                                |                                       |                                                                                                                        |                                                                                                   |
+| 18. The loans taken by the<br>member in individual capacity<br>from other sources                         | Not to be collected<br>during phase I |                                                                                                                        | To be collected<br>during Phase II;<br>based on CIC<br>report<br>if<br>available                  |
+| 19. The amount of loan<br>proposed to be taken out of the<br>group loan granted by the bank<br>to the SHG |                                       | During phase I: The<br>amount to be<br>recorded<br>based on a<br>letter from the<br>President/Secretar y<br>of the SHG | During Phase II:<br>The amount of<br>loan to be verified<br>by the bank from<br>the SHG records.  |
+
+| I.<br>Non-<br>credit related information     |                  | Modifications | during Phase |
+|----------------------------------------------|------------------|---------------|--------------|
+|                                              |                  | II            |              |
+|                                              |                  |               |              |
+| 1. Name (as it appears identity<br>on<br>the |                  |               |              |
+| document)                                    |                  |               |              |
+|                                              |                  |               |              |
+| 2.<br>The<br>nature<br>of<br>the             |                  |               |              |
+| identity document accepted by the            |                  |               |              |
+| bank                                         |                  |               |              |
+|                                              |                  |               |              |
+| 3. Unique number of the identity document    |                  |               |              |
+| accepted by the bank,                        |                  |               |              |
+|                                              |                  |               |              |
+| if available                                 |                  |               |              |
+|                                              |                  |               |              |
+| 4. Date of birth (DD/MM/YYYY)                |                  |               |              |
+|                                              |                  |               |              |
+| 5. Father's /Husband's Name                  |                  |               |              |
+|                                              |                  |               |              |
+| 6. Address (Complete address with State      |                  |               |              |
+| Code and PIN Code)                           |                  |               |              |
+|                                              |                  |               |              |
+| 7. Male or Female                            |                  |               |              |
+|                                              |                  |               |              |
+| 8. Name of the SHG of which the person is    |                  |               |              |
+| a member                                     |                  |               |              |
+|                                              |                  |               |              |
+| 9. Savings Account Number of the SHG         |                  |               |              |
+|                                              |                  |               |              |
+| 10. Loan<br>Account<br>Number<br>of the      |                  |               |              |
+| SHG                                          |                  |               |              |
+|                                              |                  |               |              |
+| 11. Reference number of any other identity   |                  |               |              |
+|                                              |                  |               |              |
+| document that has been                       |                  |               |              |
+| relied upon by the bank                      |                  |               |              |
+|                                              |                  |               |              |
+| 12. Educational<br>level<br>of<br>the<br>SHG | Codes to be used |               |              |
+| member                                       |                  |               |              |
+|                                              |                  |               |              |
+
+|                                   | Illiterate<br>: 1 Passed<br>5th class : 2 Passed 8th<br>class : 3 Passed 10th class :<br>4 |            |                |                           |        |
+|-----------------------------------|--------------------------------------------------------------------------------------------|------------|----------------|---------------------------|--------|
+|                                   | Above 10th<br>: 5                                                                          |            |                |                           |        |
+| 13. Annual Income                 | Codes to be used Home<br>maker<br>: 1 Landless labourer<br>: 2 Marginal farmer<br>: 3      |            |                |                           |        |
+|                                   | Small Farmer<br>: 4                                                                        |            |                |                           |        |
+| 14. Occupation                    |                                                                                            |            |                |                           |        |
+| 15. Social strata                 | Codes to be used                                                                           |            |                |                           |        |
+|                                   | SC<br>: 1                                                                                  |            |                |                           |        |
+|                                   | ST<br>: 2                                                                                  |            |                |                           |        |
+|                                   | OBC<br>: 3                                                                                 |            |                |                           |        |
+|                                   | General<br>: 4                                                                             |            |                |                           |        |
+| 16. Mobile No.                    |                                                                                            |            |                |                           |        |
+| II. Credit related information14  |                                                                                            |            |                |                           |        |
+| 17. Amount of loan availed by the |                                                                                            | The        | amount<br>loan |                           | of     |
+| member from the SHG loan if it    |                                                                                            | availed by |                | the                       | member |
+| exceeds Rs.30,000.                |                                                                                            | from       | the            | SHG                       | loan   |
+|                                   |                                                                                            |            |                | regardless of the amount. |        |
+
+| Particulars required                                             | Particulars provided | Basis                                                                                      |
+|------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------|
+| 1.<br>Name of the SHG                                            |                      | To be filled in by the SHG<br>member                                                       |
+| 2.<br>Savings Bank Account Number<br>of the SHG                  |                      | To be assigned by the<br>bank                                                              |
+| 3.<br>Name of the SHG member                                     |                      | As it appears on the<br>identitydocument accepted<br>by the bank                           |
+| 4.<br>The identity document accepted<br>by the bank              |                      | Aadhaar<br>Card<br>No.<br>/Voter<br>ID/PAN/Driving<br>licence/NREGA<br>Card<br>/Passport15 |
+| 5.<br>Unique number<br>of<br>the<br>identity                     |                      | Documentary<br>proof<br>needed                                                             |
+| document accepted by the bank, if<br>available                   |                      |                                                                                            |
+| 6.<br>Father's /Husband's Name                                   |                      | As<br>mentioned<br>in<br>the identity<br>document<br>accepted by the bank                  |
+| 7.<br>Male or Female                                             |                      | As declared by the SHG<br>member                                                           |
+| 8.<br>Date of birth (if printed on the<br>identity document)     |                      | DD/MM/YYYY                                                                                 |
+| 9.<br>Address (Complete address with<br>State Code and PIN Code) |                      | Declaration basis16                                                                        |
+| 10. Information about other existing                             |                      | Declaration basis                                                                          |
+
+| bank accounts                         |                                                                                       |                   |
+|---------------------------------------|---------------------------------------------------------------------------------------|-------------------|
+| 11. Educational level                 | Codes to be used<br>Illiterate<br>: 1 Passed<br>5th class : 2 Passed 8th<br>class : 3 | Declaration basis |
+|                                       | Passed 10thclass : 4<br>Above 10th<br>5                                               |                   |
+| 12. Occupation                        | Codes to be used Home<br>maker<br>: 1 Landless                                        | Declaration basis |
+|                                       | Labourer<br>: 2<br>Marginal                                                           |                   |
+|                                       | Farmer: 3 Small Farmer<br>: 4                                                         |                   |
+| 13. Annual income in thousands of Rs. |                                                                                       | Declaration basis |
+| 14. Social strata                     | Codes to be used                                                                      | Declaration basis |
+|                                       | SC<br>1                                                                               |                   |
+|                                       | ST<br>2                                                                               |                   |
+|                                       | OBC<br>3                                                                              |                   |
+|                                       | General : 4                                                                           |                   |
+| 15. Mobile Number (if available)      |                                                                                       | Declaration basis |
+
+| Sl.<br>No. | Circular No.                                         | Date       | Subject                                                                                                                                               |
+|------------|------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1          | DoR.FIN.REC.46/20.16.056/20<br>20-21                 | 12.03.2021 | Data Format for Furnishing of Credit<br>Information<br>to<br>Credit<br>Information<br>Companies<br>and<br>other<br>Regulatory<br>Measures             |
+| 2          | DoS.CO.PPG.BC.1/11.01.005/<br>2020-21                | 21.08.2020 | Ad-hoc/Short Review/Renewal of Credit<br>Facilities                                                                                                   |
+| 3          | FIDD.MSME &<br>NFS.BC.No.3/06.02.31/2020-<br>21      | 02.07.2020 | Credit flow to Micro, Small and Medium<br>Enterprises Sector                                                                                          |
+| 4          | DBR.Leg.No.BC.15/09.08.020/<br>2018-19               | 27.12.2018 | Filing of Security Interest relating to<br>Immovable<br>(other<br>than<br>equitable<br>mortgage),<br>Movable<br>and<br>Intangible<br>Assets in CERSAI |
+| 5          | DCBR.BPD.Cir.No.17/16.74.00<br>0/2015-16             | 26.05.2016 | Credit information reporting in respect of<br>Self Help Group (SHG) members                                                                           |
+| 6          | DCBR.BPD. (PCB/RCB). Cir.<br>No. 3/13.05.001/2015-16 | 15.10.2015 | Advance<br>against<br>Pledge<br>of<br>Gold<br>ornaments/jewellery                                                                                     |
+| 7          | DCBR.BPD.(PCB/RCB). Cir.<br>No.13/16.74.000/2014-15  | 29.01.2015 | Membership<br>of<br>Credit<br>Information<br>Companies (CIC) by Co-operative Banks                                                                    |
+| 8          | UBD.CO.BPD.(PCB).Cir.<br>No.25/13.05.001/2014-15     | 30.10.2014 | Gold Loan – Bullet Repayment -UCBs                                                                                                                    |
+| 9          | UBD.CO.BPD.(PCB).Cir.No.66<br>/13.05.000/2013-14     | 28.05.2014 | Lending to Public Sector Undertakings                                                                                                                 |
+| 10         | UBD.CO.BPD.PCB.Cir.No.64/<br>12.05.001/2013-14       | 26.05.2014 | Levy<br>of<br>Foreclosure<br>Charges<br>/Pre<br>payment Penalty on Floating Rate Term<br>Loans                                                        |
+| 11         | UBD.CO.BPD.PCB Cir<br>No.60/13.05.001/ 2013-14       | 09.05.2014 | Advance against Pledge of Gold/ Silver<br>Ornaments                                                                                                   |
+| 12         | UBD.BPD.(PCB).Cir.No.56/13.<br>04.00/2013-14         | 05.05.2014 | Interest Tax Act 1974 -<br>Collection from<br>Borrowers                                                                                               |
+
+| 13 | UBD CO BPD (PCB) MC.<br>No.18/09.09.001/2013-14                                                                 | 08.10.2013                             | Revised guidelines on lending to Priority<br>Sector for UCBs                                                                                                                                                                                       |
+|----|-----------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14 | UBD BPC (PCB) Cir No.27/<br>13.04.002/2012-13                                                                   | 14.12.2012                             | Setting up of Central Electronic Registry<br>under<br>the<br>Securitisation<br>and<br>Reconstruction of Financial Assets and<br>Enforcement of Security Interest Act<br>2002                                                                       |
+| 15 | UBD.(PCB)BPD.Cir.No.29/13.<br>05.000/2011-12                                                                    | 30.03.2012                             | Discounting of Bills by UCBs –<br>Restricted<br>Letters of Credit                                                                                                                                                                                  |
+| 16 | UBD.CO.BPD.Cir.No.19/09.11.<br>200/2011-12                                                                      | 13.02.2012                             | Submission<br>of<br>Credit<br>Information<br>to<br>Credit<br>Information<br>Companies<br>–<br>Defaulters of ₹1 crore and above and<br>willful defaulters of ₹25 lakh and above –<br>Dissemination of credit information of<br>suit-filed accounts. |
+| 17 | UBD.BPD.(PCB)CIR.No.50/13.<br>05.000(B)/2010-11                                                                 | 02.06.2011                             | Financing of Self Help Groups (SHGs)<br>and Joint Liability Groups (JLGs) by<br>Primary<br>(Urban)<br>Co-operative<br>Banks<br>(UCBs)                                                                                                              |
+| 18 | UBD.(PCB)BPD.Cir.No.69/09.<br>22.010/2009-10                                                                    | 09.06.2010                             | Exposure to Real Estate & CRE                                                                                                                                                                                                                      |
+| 19 | UBD.(PCB)BPD.Cir.No.25<br>&<br>6<br>0/09.11.200/2009-10<br>and<br>UBD.BPD.(PCB).Cir.No.30/09.<br>11.200/2010-11 | 03.12.2009<br>29.04.2010<br>22.12.2010 | Credit Information Companies Act 2005                                                                                                                                                                                                              |
+| 20 | UBD.(PCB)BPD.Cir.No.16/09.<br>22.010/2009-10                                                                    | 26.10.2009                             | Disclosure of mortgage by builders                                                                                                                                                                                                                 |
+| 21 | UBD.PCB.BPD.Cir.No.53<br>&<br>60<br>/13.05.000/2008-09                                                          | 6.3.2009<br>20.04.2009                 | Prudential Guidelines on Restructuring of<br>Advances by UCBs                                                                                                                                                                                      |
+| 22 | UBD.PCB.No.36<br>&<br>59/13.05.0<br>00/2008-09                                                                  | 21.01.2009<br>09.04.2009               | Lending under Consortium Arrangement<br>/ Multiple Banking Arrangements                                                                                                                                                                            |
+| 23 | UBD.PCB.Cir.No.24/13.05.001<br>/08-09                                                                           | 10.11.2008                             | Advances against pledge of Gold / Silver<br>Ornaments                                                                                                                                                                                              |
+| 24 | UBD.BPD(PCB)Cir.No.18/13.0<br>4.00/2008-09                                                                      | 22.09.2008                             | Revival of<br>the Interest Tax Act 1974 -<br>Collection from Borrowers                                                                                                                                                                             |
+| 25 | UBD.PCB.Cir.No.12<br>& 13/12.05.001/2008-09                                                                     | 17.09.2008                             | ALM Guidelines                                                                                                                                                                                                                                     |
+
+| 26 | UBD.PCB.Cir.No.57/16.74.00/<br>2008-09    | 24.06.2008 | Wilful Defaulters and action there against                                                                                                              |
+|----|-------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 27 | UBD.CO.BPD.PCB.No.33/13.0<br>5.000/07-08  | 29.02.2008 | Advances to builders / contractors.                                                                                                                     |
+| 28 | UBD.PCB.Cir.No.22/13.05.000<br>/07-08     | 26.11.2007 | Gold Loan Repayment                                                                                                                                     |
+| 29 | UBD.PCB.Cir.No.13/13.05.000<br>/07-08     | 13.09.2007 | Monitoring of Advances-Safeguards to<br>be observed                                                                                                     |
+| 30 | UBD.PCB.Cir.No.44/13.04.000<br>/06-07     | 18.05.2007 | Complaints<br>about<br>Excessive<br>Interest<br>Charged by Banks                                                                                        |
+| 31 | UBD.PCB.Cir.No.35/09.09.001<br>/06-07     | 18.04.2007 | Credit flow to Micro, Small and Medium<br>Enterprises Sector                                                                                            |
+| 32 | UBD.PCB.BPD.33/13.05.000/0<br>6-07        | 16.03.2007 | Grant of loans for acquisition of Kisan<br>Vikas Patras (KVPs)                                                                                          |
+| 33 | UBD.PCB.Cir.No.26/13.05.000<br>/06-07     | 09.01.2007 | Valuation of Properties-<br>Empanelment of<br>Valuers                                                                                                   |
+| 34 | UBD.PCB.Cir.No.10/13.05.000<br>/2006-07   | 04.09.2006 | Guidelines on Relief Measures to be<br>Extended by Banks in Areas Affected by<br>Natural Calamities                                                     |
+| 35 | UBD.PCB.Cir.No.8/13.05.000/<br>06-07      | 21.08.2006 | Guidelines on Relief Measures to be<br>Extended by Banks in Areas Affected by<br>Natural Calamities                                                     |
+| 36 | UBD.PCB.Cir.No.58/09.09.01/<br>05-06      | 19.06.2006 | Adherence to National Building Code<br>(NBC) - specifications necessary for<br>lending institutions                                                     |
+| 37 | UBD.PCB.BPD.Cir.No.46/13.0<br>5.000/05-06 | 19.04.2006 | Bills discounted under LC-Risk weight<br>and exposure norms.                                                                                            |
+| 38 | UBD.BPD.Cir.No.36/09.09.001<br>/05-06     | 09.03.2006 | Debt restructuring mechanism for Small<br>and<br>Medium<br>Enterprises<br>(SMEs)<br>-<br>Announcement<br>made<br>by<br>the<br>Union<br>Finance Minister |
+| 39 | UBD.PCB.Cir.No.34/13.05.000<br>/05-06     | 02.03.2006 | Advances against Gold Ornaments and<br>Jewellery                                                                                                        |
+| 40 | UBD.PCB.Cir.No.8/09.116.00/<br>05-06      | 09.08.2005 | Prudential norms on capital adequacy<br>risk<br>weight<br>on<br>housing<br>finance<br>/<br>commercial real estate exposures                             |
+
+| 41 | UBD.PCB.Cir.No.14/09.11.01/<br>2004-05    | 24.08.2004 | Opening of Current Accounts by banks<br>need for discipline.                                                                       |
+|----|-------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 42 | UBD.PCB.Cir.No.7/09.11.01/2<br>004-05     | 29.07.2004 | Opening of Current Accounts by banks<br>need for discipline.                                                                       |
+| 43 | UBD.BPD.PCB.CIR.37/13.05.0<br>0/2003-04   | 16.03.2004 | Discounting / Rediscounting of Bills by<br>Banks                                                                                   |
+| 44 | UBD.No.DS.PCB.Cir.34/13.05.<br>00/2001-02 | 28.03.2002 | Loan System for Delivery of Bank Credit                                                                                            |
+| 45 | UBD.BSD.1.No.8/12.05.00/200<br>1-02       | 31.08.2001 | Issue of banker's cheques / pay orders /<br>demand drafts                                                                          |
+| 46 | UBD.No.POT.No.33/09.17.03/<br>2000-2001   | 20.02.2001 | Relief<br>measures<br>for<br>the<br>persons<br>/<br>business affected by the earthquake in<br>Gujarat                              |
+| 47 | UBD.DS.32/13.04.00/2000-01                | 12.02.2001 | Reliefs<br>/<br>Concessions<br>for<br>Exporters<br>Affected by the Earthquake                                                      |
+| 48 | UBD.No.POT.CIR.30/09.20.00/<br>2000-01    | 01.02.2001 | Branch Advisory Committees                                                                                                         |
+| 49 | UBD.No.BR.11/16.74.00/98-99               | 30.06.1999 | Collection<br>and<br>Dissemination<br>of<br>Information on Cases of Wilful Default of<br>₹<br>25.00 lakh and above                 |
+| 50 | UBD.No.DS.SUB.Cir.4/13.05.0<br>0/98-99    | 05.10.1998 | Guidelines<br>for<br>Sanction<br>of<br>Working<br>Capital<br>Finance<br>to<br>Information<br>Technology (IT) and Software Industry |
+| 51 | UBD.No.DS.PCB.8/13.04.00/9<br>8-99        | 30.09.1998 | Reliefs<br>/<br>Concessions<br>for<br>Exporters<br>Affected by Cyclone in Gujarat                                                  |
+| 52 | UBD.No.BR.3/16.74.00/98-99                | 29.07.1998 | Disclosure<br>of<br>information<br>regarding<br>defaulting<br>borrowers<br>of<br>banks<br>at-id<br>financial institutions          |
+| 53 | UBD.No.DS.SUB.19/13.05.00/<br>97-98       | 12.02.1998 | Reporting of Credit Sanctions                                                                                                      |
+| 54 | UBD.No.DS.PCB.Cir.28/13.05.<br>00/97-98   | 16.12.1997 | Guidelines<br>for<br>lending<br>by<br>banks<br>Assessment of working capital                                                       |
+| 55 | UBD.No.DS.PCB.Cir.25/13.05.<br>00/97-98   | 04.12.1997 | 'Bill' finance for settlement of dues of SSI<br>suppliers                                                                          |
+| 56 | UBD.No.DS.PCB.Cir.15/13.05.<br>00/97-98   | 21.10.1997 | Loan system for delivery of bank credit                                                                                            |
+
+| 57 | UBD.No.DS.PCB.Cir.47/13.05.<br>00/96-97  | 23.04.1997 | Guidelines<br>for<br>lending<br>by<br>banks<br>-<br>Assessment of working capital -<br>Concept<br>of maximum permissible bank Finance -<br>Review of policy |
+|----|------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 58 | UBD.No.DS.PCB.CIR.48/13.0<br>5.00/96-97  | 23.04.1997 | Loan system for delivery of bank credit                                                                                                                     |
+| 59 | UBD.No.DS.PCB.CIR.31/13.05<br>.00/96-97  | 29.11.1996 | Loan system for Delivery of Bank Credit                                                                                                                     |
+| 60 | UBD.No.Plan.PCB.5/09.08.00/<br>96-97     | 16.07.1996 | Management of advances portfolio and<br>control over advances                                                                                               |
+| 61 | UBD.No.DS.PCB.Cir.64/13.05.<br>00/95/96  | 31.05.1996 | Loan System for Delivery of Bank credit                                                                                                                     |
+| 62 | UBD.No.DS.PCB.Cir.63/13.05.<br>00/95-96  | 24.05.1996 | Lending<br>to<br>non-banking<br>financial<br>companies                                                                                                      |
+| 63 | UBD.No.BR.6/16.74.00/95-96               | 06.05.1996 | Disclosure<br>of<br>information<br>regarding<br>defaulting<br>borrowers<br>of<br>banks<br>and<br>financial institutions                                     |
+| 64 | UBD.No.Plan.PCB.60/09.78.00<br>/95-96    | 08.04.1996 | Equipment leasing and hire purchase<br>financing activities                                                                                                 |
+| 65 | UBD.DS.PCB.CIR.54/13.05.00<br>-95/96     | 23.03.1996 | Realistic<br>assessment<br>of<br>credit<br>requirement<br>Measures<br>to<br>prevent<br>diversion of funds                                                   |
+| 66 | UBD.No.DC.23/13.05.00/95-96              | 19.10.1995 | Credit Monitoring System -<br>Introducing of<br>Health Code for borrowal accounts in<br>banks                                                               |
+| 67 | UBD.No.DS.PCB.CIR.22/13.05<br>.00/95-96  | 13.10.1995 | Loan System for Delivery of Bank Credit                                                                                                                     |
+| 68 | UBD.No.DS.PCB.CIR.14/13.05<br>.00/95-96  | 28.09.1995 | Introduction of a loan system for delivery<br>of bank credits.                                                                                              |
+| 69 | UBD.No.DS.CIR.PCB.62/13.05<br>.00/94-95  | 12.06.1995 | Assessment of Working Capital limits of<br>less than ₹ 1 crore-Clarifications                                                                               |
+| 70 | UBD.No.DS.PCB.CIR.59/13.06<br>.00/94-95  | 31.05.1995 | Norms for bank lending for working<br>capital purposes-Revised guidelines                                                                                   |
+| 71 | UBD.No.DS.PCB.CIR.60/13.05<br>.00/94-95  | 30.05.1995 | Lending<br>to<br>Non-Banking<br>Financial<br>Companies                                                                                                      |
+| 72 | UBD.No.DS.(PCB)CIR.58/13.0<br>5.00/94-95 | 17.05.1995 | Bridge Loans / Interim Finance                                                                                                                              |
+
+| 73 | UBD.No.DS.PCB.CIR.41/13.05<br>.00/94-95 | 04.02.1995 | Compliance with lending discipline-(a)<br>Charging of uniform rates of interest for<br>lending under consortium arrangement<br>and (b) penal interest for non-compliance<br>with the discipline    |
+|----|-----------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 74 | UBD.No.DS.CIR.PCB.43/13.05<br>.00/94-95 | 10.02.1995 | Guidelines on lending under consortium<br>arrangements                                                                                                                                             |
+| 75 | UBD.No.DS.CIR.PCB.39/13.05<br>.00/94-95 | 14.01.1995 | Levy of commitment charge on unutilised<br>portion of credit limit                                                                                                                                 |
+| 76 | UBD.No.DS.CIR.25/13.05.00/9<br>4-95     | 21.10.1994 | Leading<br>to<br>non-Banking<br>financial<br>companies                                                                                                                                             |
+| 77 | UBD.No.DS.CIR.PCB.19/13.04<br>.00/94-95 | 05.10.1994 | Inventory<br>/<br>Receivables<br>norms<br>for<br>various industries                                                                                                                                |
+| 78 | UBD.No.DS.CIR.PCB.18/13.05<br>.00/94-95 | 19.09.1994 | Report of the in-House Group setup to<br>review the role of Reserve Bank<br>of India<br>in laying down norms for bank lending for<br>working<br>capital<br>purposes<br>-<br>Revised<br>guidelines. |
+| 79 | UBD.No.DS.CIR.PCB<br>3/13.05.00/94-95   | 06.07.1994 | Guidelines on lending under consortium<br>arrangements                                                                                                                                             |
+| 80 | UBD.No.(PCB).CIR.80/13.05.0<br>0/93-94  | 1.6.1994   | Credit<br>Authorisation<br>Scheme<br>-<br>Co<br>ordination between banks and Financial<br>institutions in ex-tending term loans                                                                    |
+| 81 | UBD.No.(PCB)50/13.05.00-<br>93/94       | 14.01.1994 | Restrictions on credit to certain sectors -<br>Real Estate Loans                                                                                                                                   |
+| 82 | UBD.No.POT.47/09.51.00/93-<br>94        | 06.01.1994 | Incidence of guarantee premium payable<br>to<br>Deposit<br>Insurance<br>and<br>Credit<br>Guarantee Corporation                                                                                     |
+| 83 | UBD.No.(PCB)DC.40/13.05.00<br>/93-94    | 13.12.1993 | Credit Authorisation Scheme -<br>Treatment<br>of term loan instalment for assessment of<br>working capital requirements                                                                            |
+| 84 | UBD.No.Plan.22/09.11.00/93-<br>94       | 28.09.1993 | Monitoring of flow of funds                                                                                                                                                                        |
+| 85 | UBD.No.(PCB)5/13.06.00/93-<br>94        | 14.08.1993 | Credit<br>Authorisation<br>Scheme<br>-<br>Co<br>ordination between banks and Financial<br>institutions in ex-tending term loans                                                                    |
+
+| 86  | UBD.No.(PCB)1/13.06.00/93-<br>94      | 12.7.1993  | Review of inventory / receivable norms<br>for<br>financing<br>vegetable<br>and<br>hydrogenated oil industry         |
+|-----|---------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------|
+| 87  | UBD.No.DC(PCB)99/13.06.00/<br>92-93   | 30.06.1993 | Review of inventory / receivable norms<br>for<br>financing<br>biscuits<br>and<br>bakery<br>products industry        |
+| 88  | UBD.No.(SUC)DC.124/13.06.0<br>0/92-93 | 30.06.1993 | Inventory<br>and<br>Receivables<br>Norms<br>Basmati Rice                                                            |
+| 89  | UBD.No.(PCB)54/DC(R.1)-<br>92/93      | 7.4.1993   | Restriction on Credit to Certain Sectors                                                                            |
+| 90  | UBD.No.(PCB).DC45/R.1/92-<br>93       | 25.02.1993 | Credit Authorisation Scheme Treatment<br>of term loan instalments for assessment<br>of working capital requirements |
+| 91  | UBD.No.41-UB.17(c)-92/93              | 10.02.1993 | Guidelines for relief measures by urban<br>banks in areas affected by recent riots                                  |
+| 92  | UBD.No.I&L.40.J.1.-92 /93             | 09.02.1993 | Diversion of working capital funds                                                                                  |
+| 93  | UBD.No.(PCB)29/1)C.(R.1)-<br>92/93    | 26.12.1992 | Bridge Loans / Interim Finance                                                                                      |
+| 94  | UBD.(PCB)5/DC.R.1A/92-93              | 24.07.1992 | Inventory and Receivables norms for<br>power Generation / Distribution Industry                                     |
+| 95  | UBD.(PCB)3/DC.R.1A/92-93              | 14.07.1992 | Inventory and Receivables norms for<br>certain segments of Chemical Industry<br>Essential Oil based chemicals       |
+| 96  | UBD(PCB)38/DC.(R.1)-91/92             | 13.11.1991 | Restriction on Credit to Certain Sectors                                                                            |
+| 97  | UBD.(SUC)36/DC.R.1(A)-<br>90/91       | 31.05.1991 | Restrictions of Drawals<br>Under Large<br>Cash Credit Limits                                                        |
+| 98  | UBD(PCB)42/DC.HC.(Policy).9<br>0/91   | 11.2.1991  | Credit Monitoring System Health Code<br>for Borrowal Accounts in Urban Co<br>operative Banks                        |
+| 99  | UBD.PCB.2/DC.(R-1)-90/91              | 20.07.1990 | Financing of Leasing / Hire Purchase<br>Companies                                                                   |
+| 100 | UBD.(SUC)22/DC.R-1-90/91              | 7.7.1990   | Credit Monitoring Arrangement Lending<br>Discipline -<br>Quarterly Information System<br>(QIS)                      |
+| 101 | UBD.No.DC.113/R.1A-89/89              | 24.04.1989 | Assessment<br>of<br>Working<br>Capital<br>Requirements -<br>Inventory / Receivables                                 |
+
+|     |                                 |            | Norms<br>for<br>Paper<br>Industry<br>and<br>for<br>Consumable Spares                                                           |
+|-----|---------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 102 | UBD.No.DC.27/R.1.A-88/89        | 23.08.1988 | Inventory<br>/<br>Receivables<br>Norms<br>for<br>Engineering Industry                                                          |
+| 103 | UBD.No.(DC)2/R.1-A-88/89        | 8.7.1988   | Inventory<br>/<br>Receivables<br>norms<br>for<br>Certain Segments of Chemical Industry                                         |
+| 104 | UBD.No.(DC)123/R.1-87/88        | 31.05.1988 | Credit Monitoring System -<br>Introduction<br>of Health Code for Borrowal Accounts in<br>Banks                                 |
+| 105 | UBD.No.(DC)101/R.1-A-87/88      | 15.02.1988 | Inventory<br>/<br>Receivables<br>Norms<br>for<br>Various Industries                                                            |
+| 106 | UBD.No.I&L.67/J.1-87/88         | 21.11.1987 | Advances to Builders / Contractors                                                                                             |
+| 107 | UBD(DC)104/R.1-86/87            | 25.06.1987 | Guidelines for Assessment of Working<br>Capital<br>Requirements,<br>Opening<br>of<br>Letters of Credit and Issue of Guarantees |
+| 108 | UBD.DC.84/R.1-86/87             | 3.6.1987   | Credit Monitoring System -<br>Introduction<br>of Health Code for Borrowal Accounts in<br>Banks                                 |
+| 109 | UBD.(DC)57/R.1-86/87            | 19.02.1987 | Defaults in Payment of Statutory Dues by<br>Borrowers                                                                          |
+| 110 | UBD.No.DC.41/R.1-86/87          | 07.11.1986 | Withholding<br>of<br>Credit<br>Facilities<br>to<br>Borrowers to Ensure Financial Discipline                                    |
+| 111 | UBD(DC)83/R.1-85/86             | 24.03.1986 | Certification<br>of<br>Accounts<br>of<br>Non<br>Corporate<br>Borrowers<br>by<br>Chartered<br>Accountants                       |
+| 112 | UBD.No.I&L.38/J.1-85/86         | 11.10.1985 | Advances<br>Granted<br>by<br>Urban<br>Co<br>operative Banks -<br>Diversion of Funds                                            |
+| 113 | UBD.P&O.1383/UB.17(C)-<br>84/85 | 22.05.1985 | Guidelines for relief measures by urban<br>banks<br>in<br>areas<br>affected<br>by<br>natural<br>calamities                     |
+| 114 | UBD.POT.654/UB.17(C)-84/85      | 23.11.1984 | Banks assistance to persons affected by<br>recent disturbances                                                                 |
+| 115 | ACD.OPR.1569/A.35-79/80         | 02.10.1979 | Measures<br>to<br>restrict<br>further<br>credit<br>expansion                                                                   |
+| 116 | ACD.OPR.2697/A.75/74-75         | 24.12.1974 | Credit Authorisation Scheme for Co<br>operative banks                                                                          |
+
+| 117 | ACD.OPR.1222/A.75/74-75          | 7.9.1974   | Credit Authorisation Scheme for Co<br>operative banks                                                                                                                 |
+|-----|----------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 118 | ACD.Plan.3109/PR.414(9)/68-<br>9 | 18.06.1969 | Working group on industrial financing<br>through<br>co-operative<br>banks<br>-<br>recommendations pertaining to the urban<br>co-operative banks -<br>action required. |
+
+| No. | Circular No.                     | Date       | Subject                                                                                                                         |
+|-----|----------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | UBD.No.I&L/69/12.05.00/93-<br>94 | 13.05.1994 | Committee to enquire into various aspects<br>relating to frauds and malpractices in banks<br>(Ghosh Committee)                  |
+| 2.  | UBD.21/12:15:00/93-94            | 21.09.1993 | Committee to enquire into various aspects<br>relating to frauds and malpractices in banks<br>primary (urban) co-operative banks |
+| 3.  | UBD.No.2420-J.20-83/84           | 02.04.1984 | Frauds,<br>Mis-Appropriation,<br>Embezzlements<br>And Defalcation Of Funds In Primary (Urban)<br>Co-operative Banks             |

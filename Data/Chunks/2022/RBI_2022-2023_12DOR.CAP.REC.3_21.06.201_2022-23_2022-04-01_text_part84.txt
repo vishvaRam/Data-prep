@@ -1,0 +1,37 @@
+lidation (as set out in paragraph 16.2.3), the amount of any investment in the capital of that entity that is totally or partially deducted from CET1 capital or from Additional Tier 1 capital of the bank (in terms of paragraphs 3.4.2 and 4.4.9.2(C)) may also be deducted from the exposure measure.
+- For banks using the internal ratings-based (IRB) approach to determining capital requirements for credit risk, paragraph 4.4.4 requires any shortfall in the stock of eligible provisions relative to expected losses to be deducted from CET1 capital. The same amount may be deducted from the exposure measure.
+
+16.4.2.3 Liability items must not be deducted from the exposure measure. For example, gains/losses on fair valued liabilities or accounting value adjustments on derivative liabilities due to changes in the bank's own credit risk as described in paragraph 4.4.6 must not be deducted from the exposure measure.
+
+## **16.4.3 Derivative exposures**
+
+- 16.4.3.1 **Treatment of derivatives**: Derivatives create two types of exposure:
+	- (a) an exposure arising from the underlying of the derivative contract; and
+
+<sup>122</sup> Where a bank according to its operative accounting framework recognises fiduciary assets on the balance sheet, these assets can be excluded from the leverage ratio exposure measure provided that the assets meet the IAS 39 criteria for derecognition and, where applicable, IFRS 10 for deconsolidation. When disclosing the leverage ratio, banks must also disclose the extent of such de-recognised fiduciary items as set out in paragraph 16.7.4.
+
+(b) a counterparty credit risk (CCR) exposure.
+
+The leverage ratio framework uses the method set out below to capture both of these exposure types.
+
+16.4.3.2 Banks must calculate their derivative exposures<sup>123</sup>, including where a bank sells protection using a credit derivative, as the replacement cost (RC)<sup>124</sup> for the current exposure plus an add-on for potential future exposure (PFE), as described in paragraph 16.4.3.3 below. If the derivative exposure is covered by an eligible bilateral netting contract as specified in the Annex 20 (part B), an alternative treatment as indicated in paragraph 16.4.3.4 below may be applied<sup>125</sup> . Written credit derivatives are subject to an additional treatment, as set out in paragraphs 16.4.3.11 to 16.4.3.14 below.
+
+16.4.3.3 For a single derivative contract, not covered by an eligible bilateral netting contract as specified in Annex 20 (part B), the amount to be included in the exposure measure is determined as follows:
+
+exposure measure = replacement cost (RC) + add-on
+
+where;
+
+RC = the replacement cost of the contract (obtained by marking to market), where the contract has a positive value.
+
+add-on = an amount for PFE over the remaining life of the contract calculated by applying an add-on factor to the notional principal amount of the derivative. The add-on factors are given in Table 9 of paragraph 5.15.3.5 and Tables 20 & 21 of paragraph 8.6.3.
+
+16.4.3.4 *Bilateral netting*: when an eligible bilateral netting contract is in place as specified in Annex 20 (part B), the RC for the set of derivative exposures covered by the contract will be the sum of net replacement cost and the add-on factors as described in paragraph 16.4.3.3 above will be ANet as calculated below:
+
+<sup>123</sup> This approach makes reference to the Current Exposure Method (CEM) to calculate CCR exposure amounts associated with derivative exposures. The Basel Committee will consider whether the recently released Standardised Approach for measuring exposure at default (EAD) for CCR known as SA-CCR is appropriate in the context of the need to capture both types of exposures created by derivatives as described in paragraph 16.4.3.1. Banks operating in India may continue to use CEM until advised otherwise by the Reserve Bank
+
+<sup>124</sup> If, under the relevant accounting standards, there is no accounting measure of exposure for certain derivative instruments because they are held (completely) off-balance sheet, the bank must use the sum of positive fair values of these derivatives as the replacement cost.
+
+<sup>125</sup> These netting rules are with the exception of cross-product netting i.e. cross-product netting is not permitted in determining the leverage ratio exposure measure. However, where a bank has a cross-product netting agreement in place that meets the eligibility criteria of Annex 20 (part B) it may choose to perform netting separately in each product category provided that all other conditions for netting in this product category that are applicable to the Basel III leverage ratio are met.
+
+(a) Credit exposure on bilaterally netted forward transactions will be calculated as the sum of the net mark-to-market replacement cost, if positive, plus an add-on based on the notional underlying principal. The add-on for netted transactions (ANet) will equal the weighted average of the gross add-on (AGross) and the gross add-o

@@ -1,0 +1,91 @@
+| NBFCs        | Current NOF                      | By March 31, 2025                | By March 31,<br>2027 |
+|--------------|----------------------------------|----------------------------------|----------------------|
+| NBFC-ICC     | ₹2 crore                         | ₹5 crore                         | ₹10 crore            |
+| NBFC-MFI     | ₹5 crore (₹2 crore in NE Region) | ₹7 crore (₹5 crore in NE Region) | ₹10 crore            |
+| NBFC-Factors | ₹5 crore                         | ₹7 crore                         | ₹10 crore            |
+
+| NPA Norms         | Timeline          |  |
+|-------------------|-------------------|--|
+| >150 days overdue | By March 31, 2024 |  |
+| >120 days overdue | By March 31, 2025 |  |
+| > 90 days         | By March 31, 2026 |  |
+
+| Existing limit<br>(as a percentage of Owned Fund) |         |            |       | Revised limit<br>(as a percentage of Tier I Capital) |          |
+|---------------------------------------------------|---------|------------|-------|------------------------------------------------------|----------|
+|                                                   | Lending | Investment | Total |                                                      | Exposure |
+| Single<br>borrower/<br>party                      | 15      | 15         | 25    | Single borrower/<br>party                            | 25       |
+| Single<br>group<br>of<br>borrowers/ parties       | 25      | 25         | 40    | Single group of<br>borrowers/ parties                | 40       |
+
+| Components of the parametric analysis |             |                                                   |                        |                          |  |  |  |
+|---------------------------------------|-------------|---------------------------------------------------|------------------------|--------------------------|--|--|--|
+|                                       | Parameter   | Sub-Parameters                                    | Sub<br>Para<br>Weights | Paramet<br>er<br>Weights |  |  |  |
+|                                       | 1. Size &   | Total exposure (on- and off-balance sheet) &      | 20 +                   | 35                       |  |  |  |
+|                                       | Leverage    | Leverage (total debt to total equity)             | 15                     |                          |  |  |  |
+|                                       | 2. Inter    | (i) Intra-financial system assets                 | 10                     | 25                       |  |  |  |
+|                                       | connectedne | •<br>Lending to financial institutions (including |                        |                          |  |  |  |
+|                                       | ss          | undrawn committed lines);                         |                        |                          |  |  |  |
+| %)                                    |             | •<br>Holdings of securities issued by other       |                        |                          |  |  |  |
+| Quantitative Parameter (70            |             | financial institutions.                           |                        |                          |  |  |  |
+|                                       |             | •<br>Net mark-to-market reverse repurchase        |                        |                          |  |  |  |
+|                                       |             | agreements with other financial institutions.     |                        |                          |  |  |  |
+|                                       |             | •<br>Net mark-to-market OTC derivatives with      |                        |                          |  |  |  |
+|                                       |             | financial institutions.                           |                        |                          |  |  |  |
+|                                       |             | (ii) Intra-financial system liabilities           | 10                     |                          |  |  |  |
+|                                       |             | •<br>Borrowings from financial institutions       |                        |                          |  |  |  |
+|                                       |             | (including undrawn committed lines)               |                        |                          |  |  |  |
+|                                       |             | •<br>All marketable securities issued by the      |                        |                          |  |  |  |
+|                                       |             | finance company to financial institutions;        |                        |                          |  |  |  |
+|                                       |             | •<br>Net mark-to-market repurchase agreements     |                        |                          |  |  |  |
+|                                       |             | with other financial institutions;                |                        |                          |  |  |  |
+
+|                                                | Parameter     | Sub-Parameters                                        | Sub     | Paramet<br>er |
+|------------------------------------------------|---------------|-------------------------------------------------------|---------|---------------|
+|                                                |               |                                                       | Para    | Weights       |
+|                                                |               |                                                       | Weights |               |
+|                                                |               | •<br>Net mark-to-market OTC derivatives with          |         |               |
+|                                                |               | financial institutions                                |         |               |
+|                                                |               | (iii) Securities outstanding with non-financial       | 5       |               |
+|                                                |               | institutions (issued by the NBFC)                     |         |               |
+|                                                | 3. Complexity | (i) Notional Amount of Over-the-Counter (OTC)         | 5       | 10            |
+|                                                |               | Derivatives                                           |         |               |
+|                                                |               | •<br>OTC derivatives cleared through a central        |         |               |
+|                                                |               | counterparty                                          |         |               |
+|                                                |               | •<br>OTC derivatives settled bilaterally              |         |               |
+|                                                |               | (ii) Trading and Available-for-Sale Securities        | 5       |               |
+|                                                | 4. Nature and | •<br>The amount and type of liabilities, including    | 10      |               |
+|                                                | type of       | the degree of reliance on short-term funding          |         |               |
+|                                                | liabilities   | •<br>Liquid asset ratios, which are intended to       |         |               |
+|                                                |               | indicate a nonbank financial company's ability        |         |               |
+|                                                |               | to repay its short-term debt.                         |         |               |
+|                                                |               | •<br>The ratio of unencumbered and highly liquid      |         |               |
+|                                                |               | assets to the net cash outflows that a                |         |               |
+| %)                                             |               | nonbank financial company could encounter             |         |               |
+|                                                |               | in a short-term stress scenario.                      |         |               |
+|                                                |               | •<br>Callable debt as a fraction of total debt, which |         |               |
+|                                                |               | provides one measure of a nonbank financial           |         |               |
+|                                                |               | company's ability to manage its funding               |         |               |
+|                                                |               | position in response to changes in interest           |         |               |
+|                                                |               | rates.                                                |         |               |
+|                                                |               | •<br>Asset-backed funding versus other funding, to    |         |               |
+|                                                |               | determine a nonbank financial company's               |         |               |
+| Qualitative Parameter / Supervisory inputs (30 |               | susceptibility to distress in particular credit       |         |               |
+|                                                |               | markets.                                              |         |               |
+|                                                |               | •<br>Asset-liability duration and gap analysis,       |         |               |
+|                                                |               | which is intended to indicate how well a              |         |               |
+|                                                |               | nonbank financial company is matching the             |         |               |
+|                                                |               | re-pricing and maturity of the nonbank                |         |               |
+|                                                |               | financial company's assets and liabilities.           |         |               |
+|                                                |               | •<br>A study on the borrowings split by type i.e.     |         |               |
+|                                                |               | Secured debt securities; subordinated debt            |         |               |
+|                                                |               | securities; preferred shares/CCPS; CPs;               |         |               |
+|                                                |               | unsecured debt; securitisation and any other          |         | 30            |
+
+| Parameter   | Sub-Parameters                                   | Sub<br>Para<br>Weights | Paramet<br>er<br>Weights |
+|-------------|--------------------------------------------------|------------------------|--------------------------|
+| 5. Group    | •<br>Total Number of entities                    | 10                     |                          |
+| Structure   | •<br>Total number of layers                      |                        |                          |
+|             | •<br>Total Intra group exposure                  |                        |                          |
+| 6. Segment  | The importance of the NBFC as a source of credit | 10                     |                          |
+| penetration | to a specific segment or area                    |                        |                          |
+|             | Total Score                                      |                        | 100                      |
+

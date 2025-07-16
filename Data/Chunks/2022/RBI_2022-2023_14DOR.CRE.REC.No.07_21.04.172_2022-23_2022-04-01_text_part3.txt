@@ -1,0 +1,33 @@
+
+
+Shares and debentures cannot be accepted as collateral securities for secured loans granted to NBFC borrowers for any purpose.
+
+#### **6.3 Restriction on guarantees for placement of funds with NBFCs**
+
+Banks should not execute guarantees covering inter-company deposits / loans thereby guaranteeing refund of deposits / loans accepted by NBFCs / firms from other NBFCs / firms. The restriction would cover all types of deposits / loans irrespective of their source, including deposits / loans received by NBFCs from trusts and other institutions. Guarantees should not be issued for the purpose of indirectly enabling the placement of deposits with NBFCs. However, banks are permitted to provide partial credit enhancement (PCE) to bonds issued by NBFC-ND-SIs and Housing Finance Companies (HFCs) as per guidelines contained at para 2.4 of the [Master Circular on](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12189)  [Guarantees and co-acceptances dated November 09, 2021,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=12189) as updated from time to time.
+
+# **7. Prudential ceilings for exposure of banks to NBFCs**
+
+7.1 The definition and method of computation of exposure would be as prescribed in the [circular on Large Exposures Framework dated June 03, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0) and amendments made from time to time.
+
+7.2 Banks' exposures to a single NBFC (excluding gold loan companies) will be restricted to 20 percent of their eligible capital base (Tier I capital). However, based on the risk perception, more stringent exposure limits in respect of certain categories of NBFCs may be considered by banks. Banks' exposures to a group of connected NBFCs or group of connected counterparties having NBFCs in the group will be restricted to 25 percent of their Tier I Capital as detailed in [circular on Large Exposures](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0)  [Framework dated June 03, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11573&Mode=0) read with [circular on Large Exposures Framework](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11685&Mode=0)  [dated September 12,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11685&Mode=0) 2019.
+
+7.3 The exposure of a bank to a single NBFC which is predominantly engaged in lending against collateral of gold jewellery (i.e. such loans comprising 50 per cent or more of their financial assets), shall not exceed 7.5 per cent of the bank's capital funds (Tier I plus Tier II Capital). However, this exposure ceiling may go up by 5 per cent, i.e., up to 12.5 per cent of banks' capital funds if the additional exposure is on account of funds on-lent by such NBFCs to the infrastructure sector as detailed in [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7222&Mode=0) on [Bank Finance to NBFCs Predominantly Engaged in lending against Gold dated May](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7222&Mode=0)  [18, 2012.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=7222&Mode=0)
+
+7.4 Banks may also consider fixing internal limits for their aggregate exposure to all NBFCs put together.
+
+7.5 Banks should have an internal sub-limit on their aggregate exposures to all NBFCs, having gold loans to the extent of 50 per cent or more of their total financial assets, taken together. This sub-limit should be within the internal limit fixed by the banks for their aggregate exposure to all NBFCs put together as prescribed in paragraph 7.4 above.
+
+7.6 Infusion of eligible capital funds after the published balance sheet date may also be taken into account for the purpose of computing exposure ceiling. Banks should obtain an external auditor's certificate on completion of the augmentation of capital and submit the same to the Reserve Bank of India (Department of Supervision) before reckoning the additions to capital funds
+
+7.7. Banks shall adhere to the intra-group limits in accordance with [Guidelines on](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8739&Mode=0)  [Management of Intra-Group Transactions and Exposures dated February 11, 2014.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8739&Mode=0)
+
+# **8. Restrictions regarding investments made by banks in securities / instruments issued by NBFCs**
+
+8.1 Banks should not invest in Zero Coupon Bonds (ZCBs) issued by NBFCs unless the issuer NBFC builds up sinking fund for all accrued interest and keeps it invested in liquid investments / securities (Government bonds).
+
+8.2 Banks are permitted to also invest in Non-Convertible Debentures (NCDs) with original or initial maturity up to one year issued by NBFCs. However, while investing in such instruments banks should be guided by the extant prudential guidelines in force, ensure that the issuer has disclosed the purpose for which the NCDs are being issued in the disclosure document and such purposes are eligible for bank finance in terms of instructions given in the preceding paragraphs.
+
+#### **Appendix**
+
+

@@ -1,0 +1,14 @@
+| Sl. | Name of the rating agency                           | Minimum investment  |
+|-----|-----------------------------------------------------|---------------------|
+| No. |                                                     | grade credit rating |
+| 1   | The Credit Rating Information Services of India     | FA–<br>(FA Minus)   |
+|     | Limited (CRISIL)                                    |                     |
+| 2   | ICRA Limited                                        | MA–<br>(MA Minus)   |
+| 3   | Credit Analysis & Research Limited (CARE)           | CARE BBB (FD)       |
+| 4   | Fitch Ratings India Private Limited                 | tA–<br>(ind)(FD)    |
+| 5   | Brickwork<br>Ratings<br>India<br>Private<br>Limited | BWR FBBB            |
+|     | (Brickwork) *                                       |                     |
+| 6   | Acuite Ratings & Research Limited **                | ACUITE A            |
+| 7   | Infomerics Valuation and Rating Private Limited     | IVR BBB             |
+|     | (IVRPL) **                                          |                     |
+

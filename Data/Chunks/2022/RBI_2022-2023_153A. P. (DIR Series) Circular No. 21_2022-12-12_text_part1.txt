@@ -1,0 +1,89 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+RBI/2022-23/153 A. P. (DIR Series) Circular No. 21 December 12, 2022
+
+All Authorised Dealer Category – I Banks
+
+Madam / Sir,
+
+## **Master Direction – Foreign Exchange Management (Hedging of Commodity Price Risk and Freight Risk in Overseas Markets) Directions, 2022**
+
+The Reserve Bank of India, in exercise of the powers conferred under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999), hereby issues the following Directions.
+
+## **1. Short title and commencement**
+
+(i) These Directions shall be called the Master Direction – Foreign Exchange Management (Hedging of Commodity Price Risk and Freight Risk in Overseas Markets) Directions, 2022.
+
+(ii) These Directions shall come into force on December 12, 2022.
+
+# **2. Definitions**
+
+(i) Hedging – The activity of undertaking a derivative transaction to reduce an identifiable and measurable risk. For the purpose of these directions, the relevant risks are commodity price risk and freight risk.
+
+(ii) Eligible entities – Eligible entities refers to residents other than Individuals.
+
+(iii) Direct Exposure to Commodity Price Risk – An eligible entity will be said to have direct exposure to commodity price risk if
+
+(a) It purchases/sells a commodity (in India or abroad) whose price is fixed by reference to an international benchmark; or
+
+(b) It purchases/sells a product (in India or abroad) which contains a commodity and the price of the product is linked to an international benchmark of the commodity.
+
+(iv) Indirect Exposure to Commodity Price Risk – An eligible entity will be said to have indirect exposure to commodity price risk if it purchases/sells a product (in India or abroad) which contains the commodity and the price of the product is not linked to an international benchmark of the commodity.
+
+(v) Exposure to Freight Risk – An eligible entity will be said to have exposure to freight risk if it is engaged in the business of refining oil or is engaged in the business of shipping.
+
+(vi) Bank(s) – Bank(s) refer to banks licensed as Authorised Dealer – Category I under Section 10 of FEMA, 1999.
+
+(vii) 'International Financial Service Centre' shall have the same meaning as assigned to it in the Section 2(q) of the Special Economic Zones Act, 2005.
+
+**3. Eligible commodities** – Commodities whose price risk may be hedged are:
+
+(i) In case of direct exposures to commodity price risk: All commodities (except Gems and Precious stones). Price risk of gold may only be hedged as provided at Para 5 (ii) of these directions.
+
+(ii) In case of indirect exposures to commodity price risk: Aluminium, Copper, Lead, Zinc, Nickel, and Tin. This list of eligible commodities would be reviewed annually.
+
+**4. Permitted products –** Permitted products refer to the following:
+
+(i) Generic Products
+
+- (a) Futures and forwards
+- (b) Vanilla options (call option and put option)
+- (c) Swaps
+
+(ii) Structured Products
+
+(a) Products which are combination of either cash instrument and one or more generic products
+
+(b) Products which are combination of two or more generic products
+
+# **5. Hedging of commodity price risk**
+
+(i) Eligible entities having exposure to commodity price risk for any eligible commodity may hedge such exposure in overseas markets using any of the permitted products.
+
+(ii) Eligible entities having exposure to price risk of gold may hedge such exposure only on exchanges in the International Financial Services Centre (IFSC) recognised by the International Financial Services Centres Authority (IFSCA).
+
+**6. Hedging of freight risk:** Eligible entities having exposure to freight risk may hedge such exposure in overseas markets by using any of the permitted products.
+
+## **7. Other operational guidelines**
+
+(i) Banks may permit eligible entities to hedge commodity price risk and freight risk overseas, including IFSC, using permitted products and may remit foreign exchange in respect of such transactions after satisfying themselves that:
+
+(a) The entity has exposure to commodity price risk or freight risk, contracted or anticipated.
+
+(b) The quantity proposed to be hedged and the tenor of the hedge are in line with the exposure.
+
+(c) In case of OTC derivatives, the requirement to undertake OTC hedges is justified.
+
+(d) In case of hedging using a benchmark price other than that of the commodity exposed to, the requirement to undertake such hedges is justified.
+
+(e) Such hedging is taken up by the management of the entity under a policy approved by the Board of Directors of a company or equivalent forum for other.
+
+(f) The entity has the necessary risk management policies in place.
+
+(g) The entity has reasonable understanding of the utility and likely risks associated with the products proposed to be used for hedging.
+
+(ii) OTC contracts shall be booked with a bank or with non-bank entities which are permitted to offer such derivatives by their regulators. F

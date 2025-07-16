@@ -1,0 +1,29 @@
+adjustment described in this section applies to investments in the capital of banking, financial and insurance entities that are outside the scope of regulatory consolidation where the bank owns more than 10% of the issued common share capital of the issuing entity or where the entity is an affiliate<sup>22</sup> of the bank. In addition:
+	- Investments include direct, indirect<sup>23</sup> and synthetic holdings of capital instruments. For example, banks should look through holdings of index securities to determine their underlying holdings of capital.
+	- Holdings in both the banking book and trading book are to be included. Capital includes common stock and all other types of cash and synthetic capital instruments (e.g., subordinated debt).
+	- Underwriting positions held for five working days or less can be excluded. Underwriting positions held for longer than five working days must be included.
+	- If the capital instrument of the entity in which the bank has invested does not meet the criteria for Common Equity Tier 1, Additional Tier 1, or Tier 2 capital of the bank, the capital is to be considered common shares for the purposes of this regulatory adjustment<sup>24</sup> .
+	- With the prior approval of RBI, a bank can temporarily exclude certain investments where these have been made in the context of resolving or providing financial assistance to reorganise a distressed institution.
+
+## **(ii) Investments other than Common Shares**
+
+All investments included in para (i) above which are not common shares must be fully deducted following a corresponding deduction approach. This means the deduction should be applied to the same tier of capital for which the capital would qualify if it was issued by the bank itself. If the bank is required to make a deduction from a particular tier of capital and it does not have enough of that tier of capital to satisfy that deduction, the shortfall will be deducted from the next higher tier of capital (e.g., if a bank does not
+
+<sup>21</sup> Investments in entities that are outside of the scope of regulatory consolidation refers to investments in entities that have not been consolidated at all or have not been consolidated in such a way as to result in their assets being included in the calculation of consolidated risk-weighted assets of the group.
+
+<sup>22</sup> An affiliate of a bank is defined as a company that controls, or is controlled by, or is under common control with, the bank. Control of a company is defined as (1) ownership, control, or holding with power to vote 20% or more of a class of voting securities of the company; or (2) consolidation of the company for financial reporting purposes.
+
+<sup>23</sup> Indirect holdings are exposures or part of exposures that, if a direct holding loses its value, will result in a loss to the bank substantially equivalent to the loss in the value of direct holding.
+
+<sup>24</sup> If the investment is issued out of a regulated financial entity and not included in regulatory capital in the relevant sector of the financial entity, it is not required to be deducted.
+
+have enough Additional Tier 1 capital to satisfy the deduction, the shortfall will be deducted from Common Equity Tier 1 capital).
+
+### **(iii) Investments which are Common Shares**
+
+All investments included in para (i) above which are common shares and which exceed 10% of the bank's Common Equity (after the application of all regulatory adjustments) shall be deducted while calculating Common Equity Tier 1 capital. The amount that is not deducted (upto 10% if bank's common equity invested in the equity capital of such entities) in the calculation of Common Equity Tier 1 shall be risk weighted at 250% (refer to illustration in **[Annex 11](#page--1-0)**). However, in certain cases, such investments in both scheduled and non-scheduled commercial banks shall be fully deducted from Common Equity Tier 1 capital of investing bank as indicated in paragraphs 5.6, 8.3.5 and 8.4.4.
+
+4.4.9.3 With regard to computation of indirect holdings through mutual funds or index funds, of capital of banking, financial and insurance entities which are outside the scope of regulatory consolidation as mentioned in paragraphs 4.4.9.2(B) and 4.4.9.2(C) above, the following rules may be observed:
+
+- (i) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the financial entities is known; the indirect investment of the bank in such entities would be equal to bank's investments in these entities multiplied by the percent of investments of such entities in the financial entities' capital instruments.
+- (ii) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is not known but, as per the investment policies / mandate of these entities such investments a

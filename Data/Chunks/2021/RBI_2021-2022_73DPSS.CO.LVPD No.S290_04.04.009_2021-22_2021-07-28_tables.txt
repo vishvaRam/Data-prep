@@ -1,0 +1,19 @@
+| 1 Background  1                                                |  |
+|----------------------------------------------------------------|--|
+| 2 Direct Access for Non-banks to CPS 2                         |  |
+| 2.1 Meaning of Direct Access to CPS  2                         |  |
+| 2.2 Benefits of Direct Access 2                                |  |
+| 3 Eligibility  3                                               |  |
+| 3.1 Entities  3                                                |  |
+| 3.2 Criteria 4                                                 |  |
+| 3.3 Membership Type and Nature of Transactions 5               |  |
+| 4 Operational Aspects 6                                        |  |
+| 4.1 Process of Applying for Direct Access to CPS by Non-banks6 |  |
+| 4.2 Other Operational Aspects  7                               |  |
+
+| Sl.<br>No. | PSP           | RTGS Membership Type and<br>Nature of Transactions |                                                                     | NEFT |
+|------------|---------------|----------------------------------------------------|---------------------------------------------------------------------|------|
+| 1.         | PPI Issuers   | D                                                  | Customers, own / other bank /<br>non-bank account transfers         | Yes  |
+| 2.         | Card Networks | C                                                  | Multilateral<br>net<br>settlement<br>batches, own account transfers | No   |
+| 3.         | WLA Operators | D                                                  | Customer,<br>own<br>/<br>other<br>bank<br>account transfers         | No   |
+

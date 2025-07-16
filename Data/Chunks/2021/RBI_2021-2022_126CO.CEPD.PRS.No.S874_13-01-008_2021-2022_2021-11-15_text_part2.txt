@@ -1,0 +1,42 @@
+officers and/or other staff and make available such infrastructure to the office of the IO as may be considered necessary for its effective functioning.
+
+a) The Board of the NBFC shall fix the emoluments/facilities/benefits of the IO, which should be appropriate keeping in view the stature and position of the IO being at the apex of the grievance redress mechanism of the NBFC, and the need to attract experienced persons with requisite expertise.
+
+b) The emoluments/facilities/benefits of the IO, once determined, shall not be changed during the currency of his/her tenure.
+
+**9.** Role and responsibilities of the IO**:** The IO shall deal only with the complaints that have already been examined by the NBFC but have been partly or wholly rejected by the NBFC. In other words, the IO shall not handle complaints received directly from the customers or members of the public.
+
+a) The following types of complaints shall be outside the purview of this direction and shall not be handled by the IO:
+
+- (i) Complaints related to frauds, misappropriation etc., except those resulting from deficiency in service, if any, on the part of the NBFC;
+- (ii) Complaints/references relating to (a) internal administration, (b) human resources, (c) pay and emoluments of staff;
+- (iii) References in the nature of suggestions and commercial decisions of the NBFC;
+- (iv) Complaints which have been decided by or are already pending in other fora such as Consumer Disputes Redressal Commission, courts, etc.
+
+b) The complaints that are outside the purview of this direction shall be immediately referred back to the NBFC by the IO.
+
+c) The IO shall examine the complaints based on records available with the NBFC, including any documents submitted by the complainant, and comments/clarifications furnished by the NBFC to the specific queries of the IO. The IO may seek additional information from the complainant through the NBFC.
+
+d) The NBFC shall furnish all records/documents sought by the IO to enable expeditious redress/resolution of customer grievances.
+
+e) The IO may hold meetings with the concerned functionaries/departments of the NBFC and seek any record/document available with the NBFC that is necessary for examining the complaint/decision.
+
+f) The IO shall periodically analyse the pattern of all complaints received against the NBFC, such as product-wise, category-wise, consumer group-wise, geographical location-wise, etc. and provide inputs to the NBFC for policy intervention, if any.
+
+g) The IO shall not represent the NBFC in legal cases before any court or fora or authority.
+
+h) The IO shall report to the Managing Director/Chief Executive Officer of the NBFC administratively, and to the Board functionally.
+
+**10.** Procedural guidelines for NBFCs regarding complaints referred to the IO by the NBFC: The NBFC shall formulate a Standard Operating Procedure approved by its Board and establish a system of auto-escalation of all complaints that are partly or wholly rejected by the NBFC's internal grievance redress mechanism to the IO for a final decision.
+
+a) The NBFC shall internally escalate all such complaints to the IO within a period of three weeks from the date of receipt of the complaint. The IO and the NBFC shall ensure that the final decision is communicated to the complainant within 30 days from the date of receipt of the complaint by the NBFC.
+
+b) In case the NBFC has a complaint management software, it shall provide to the IO *read-only* access to the system and enable uploading of the decision of the IO.
+
+c) The IO shall also have *read-only* access to the Reserve Bank's Complaint Management System to enable the IO to keep track of: (a) the cases forwarded by the offices of RBI Ombudsmen, (b) decisions of the RBI Ombudsmen, and (c) where applicable, the decision of the Appellate Authority under the RBI Ombudsman scheme.
+
+d) The decision of the IO shall be binding on the NBFC, except in cases where the NBFC has obtained approval for disagreeing with the IO's decision as stated in subpara 10 (f).
+
+e) In case the IO upholds the decision of the NBFC to reject/partly reject the complaint, the reply to the customer should explicitly state the fact that the complaint has been examined by the IO and, for the reasons stated in the reply, the decision of the NBFC has been upheld.
+
+f) In case the IO overrules the decision of the NBFC to reject/partly reject the complaint, the NBFC can disagree with the decision of the IO with the approval of the Executive Director/Managing Director/Chief Executive Officer as may be applicable. In such cases, the reply to the complainant shall explicitly state the fact that the complaint was examined by the IO and the decision of the NBFC was overruled by the IO in favour of the complainant; however, the NBFC, with the approval of the Managing Director/Chief Executive Officer, has disagreed with the decision of the IO. All such cases shall be subsequently reviewed on a quarterly basis by the Board of the NBFC

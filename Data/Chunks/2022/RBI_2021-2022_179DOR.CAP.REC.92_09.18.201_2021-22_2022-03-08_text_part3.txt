@@ -1,0 +1,63 @@
+th a call option, subject to following conditions:
+	- i. The call option on the instrument is permissible after the instrument has run for at least ten years; and
+	- ii. Call option shall be exercised only with the prior approval of Department of Regulation (DoR), RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+![](_page_0_Picture_0.jpeg)
+
+### **2.5 Classification in the Balance Sheet**
+
+These instruments shall be classified as 'Capital' and shown separately in the Balance Sheet.
+
+### **2.6 Dividend**
+
+The rate of dividend payable to the investors will be a fixed rate or a floating rate referenced to a market determined rupee interest benchmark rate.
+
+# **2.7 Payment of Dividend**
+
+2.7.1 The payment of dividend by the bank shall be subject to availability of distributable surplus out of current year's profits, and if:
+
+- i. the CRAR is above the minimum regulatory requirement prescribed by RBI
+- ii. the impact of such payment does not result in bank's CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI
+- iii. the balance sheet as at the end of the previous year does not show any accumulated loss
+
+2.7.2 The dividend shall not be cumulative, i.e. dividend missed in a year shall not be paid in subsequent years even if adequate profit is available and the level of CRAR conforms to the regulatory minimum. When dividend is paid at a rate lesser than the prescribed rate, the unpaid amount will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+
+2.7.3 All instances of non-payment of dividend / payment of dividend at a rate less than that specified should be reported by the issuing UCB to the concerned Regional Office (RO) of Department of Supervision (DoS), RBI.
+
+### **2.8 Seniority of Claim**
+
+The claims of the investors in PNCPS shall be senior to the claims of investors in equity shares and subordinated to the claims of all other creditors and the depositors.
+
+### **2.9 Voting Rights**
+
+The investors in PNCPS shall not be eligible for any voting rights.
+
+#### **2.10 Discount**
+
+The PNCPS shall not be subjected to a progressive discount for capital adequacy purposes since these are perpetual.
+
+#### **2.11 Other Conditions**
+
+2.11.1 PNCPS shall be fully paid-up, unsecured, and free of any restrictive clauses.
+
+![](_page_1_Picture_0.jpeg)
+
+2.11.2 UCBs shall also comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the PNCPS, provided they are not in conflict with the terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier I capital.
+
+### **2.12 Compliance with Reserve Requirements**
+
+2.12.1 The total amount raised by the bank by issue of PNCPS shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+
+2.12.2 However, the amount collected from members / prospective investors and held pending allotment of the PNCPS, shall be reckoned as liability for the purpose of calculating the net demand and time liabilities and shall, accordingly, attract reserve requirements. Such amounts shall not be reckoned for calculation of capital funds.
+
+#### **2.13 Reporting Requirements**
+
+UCBs issuing PNCPS shall submit a report to the concerned RO of DoS, RBI, giving details of the capital raised, including the terms and conditions of issue together with a copy of the Prospectus / Offer Document, soon after the issue is completed.
+
+### **2.14 Investments in PNCPS and Advances for Purchase of PNCPS**
+
+UCBs shall not grant any loan or advance to any person for purchasing their own PNCPS or the PNCPS of other banks. Further, UCBs shall not invest in PNCPS of other banks and shall not grant advances against the security of the PNCPS issued by them or other banks.
+
+#### **B. Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) for inclusion in Upper Tier-II capital**
+
+UCBs are permitted to issue Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS), at face value, to their members or any other person residing within their area of operation, with the prior approval of the RBI. The UCBs shall submit the application seeking permission, together with the Prospectus / Offer Document / Information Memorandum to the concerned Regional Office of the RBI. A certificate from a Chartered Accountant to the effect that t

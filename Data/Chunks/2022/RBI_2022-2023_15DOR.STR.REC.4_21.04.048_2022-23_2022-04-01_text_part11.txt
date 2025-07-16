@@ -1,0 +1,39 @@
+equent months' billing cycle.
+
+4.2.19.2 A credit card account will be treated as non-performing asset if the minimum amount due, as mentioned in the statement, is not paid fully within 90 days from the payment due date mentioned in the statement.
+
+4.2.19.3 Banks shall report a credit card account as 'past due' to credit information companies (CICs) or levy penal charges, viz. late payment charges, etc., if any, only when a credit card account remains 'past due' for more than three days. The number of 'days past due' and late payment charges shall, however, be computed from the payment due date mentioned in the credit card statement.
+
+## 5. PROVISIONING NORMS
+
+## 5.1 General
+
+5.1.1 The primary responsibility for making adequate provisions for any diminution in the value of loan assets, investment or other assets is that of the bank managements and the statutory auditors. The assessment made by the inspecting officer of the RBI is furnished to the bank to assist the bank management and the statutory auditors in taking a decision in regard to making adequate and necessary provisions in terms of prudential guidelines.
+
+5.1.2 In conformity with the prudential norms, provisions should be made on the non-performing assets on the basis of classification of assets into prescribed categories as detailed in paragraph 4 supra. Taking into account the time lag between an account becoming doubtful of recovery, its recognition as such, the realisation of the security and the erosion over time in the value of security charged to the bank, the banks should make provision against substandard assets, doubtful assets and loss assets as below.
+
+#### 5.2 Loss assets
+
+Loss assets should be written off. If loss assets are permitted to remain in the books for any reason, 100 percent of the outstanding should be provided for.
+
+## 5.3 Doubtful assets
+
+5.3.1 100 percent of the extent to which the advance is not covered by the realisable value of the security to which the bank has a valid recourse and the realisable value is estimated on a realistic basis.
+
+5.3.2 In regard to the secured portion, provision may be made on the following basis, at the rates ranging from 25 percent to 100 percent of the secured portion depending upon the period for which the asset has remained doubtful:
+
+
+5.3.3 With a view to bringing down divergence arising out of difference in assessment of the value of security, in cases of NPAs with balance of ₹5 crore and above stock audit at annual intervals by external agencies appointed as per the guidelines approved by the Board would be mandatory in order to enhance the reliability on stock valuation. Collaterals such as immovable properties charged in favour of the bank should be got valued once in three years by valuers appointed as per the guidelines approved by the Board of Directors.
+
+## 5.4 Substandard assets
+
+5.4.1 A general provision of 15 percent on total outstanding should be made without making any allowance for ECGC guarantee cover and securities available.
+
+5.4.2 The 'unsecured exposures' which are identified as 'substandard' would attract additional provision of 10 per cent, i.e., a total of 25 per cent on the outstanding balance. However, in view of certain safeguards such as escrow accounts available in respect of infrastructure lending, infrastructure loan accounts which are classified as sub-standard will attract a provisioning of 20 per cent instead of the aforesaid prescription of 25 per cent. To avail of this benefit of lower provisioning, the banks should have in place an appropriate mechanism to escrow the cash flows and also have a clear and legal first claim on these cash flows.
+
+5.4.3 The provisioning requirement for unsecured 'doubtful' assets is 100 per cent. Unsecured exposure is defined as an exposure where the realisable value of the security, as assessed by the bank/approved valuers/Reserve Bank's inspecting officers, is not more than 10 percent, *ab-initio*, of the outstanding exposure. 'Exposure' shall include all funded and non-funded exposures (including underwriting and similar commitments). 'Security' will mean tangible security properly charged to the bank and will not include intangible securities like guarantees (including State government guarantees), comfort letters etc.
+
+5.4.4 In order to enhance transparency and ensure correct reflection of the unsecured advances in Schedule 9 of the banks' balance sheet, it is advised that the following would be applicable from the financial year 2009-10 onwards:
+
+- a) For determining the amount of unsecured advances for reflecting in schedule 9 of the published balance sheet, the rights, licenses, authorisations, etc., charged to the banks as collateral in respect of projects (including infrastructure projects) financed by them, should not be reckoned as tangible security. Hence such advances shall be reckoned as unsecured.
+- b) However, banks may treat annuities under build-operate-transfer (BOT) model in respect of road / highway p

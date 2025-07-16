@@ -1,0 +1,39 @@
+oint testing and recovery exercises with its service provider at mutually agreed frequency but at least annually.
+
+5.7.2 In order to mitigate the risk of unexpected termination of the outsourcing agreement or liquidation of the service provider, co-operative banks shall retain an
+
+appropriate level of control over their outsourcing and the right to intervene with appropriate measures to continue its business operations in such cases without incurring prohibitive expenses and without any break in the operations of the bank and its services to the customers.
+
+5.7.3 In establishing a viable contingency plan, co-operative banks should consider the availability of alternative service providers or the possibility of bringing the outsourced activity back in-house in an emergency and the costs, time and resources that would be involved.
+
+5.7.4 Co-operative banks to ensure that in adverse conditions and/ or termination of the contract, all documents, records of transactions and information given to the service provider and assets of the bank can be removed from the possession of the service provider in order to enable the bank to continue its business operations; or deleted, destroyed or rendered unusable.
+
+## **5.8 Monitoring and Control of Outsourced Activities**
+
+5.8.1 The co-operative banks shall have in place a management structure to monitor and control their outsourcing activities. It shall also be ensured that outsourcing agreements with the service provider contain provisions to address their monitoring and control of outsourced activities.
+
+5.8.2 A central record of all material outsourcing that is readily accessible for review by the Board and CEO along with the management of the co-operative bank shall be maintained. The records should be updated promptly and half yearly reviews should be placed before the Board.
+
+5.8.3 Regular audits at least annually by either the internal auditors or external auditors of the bank should assess the adequacy of the risk management practices adopted in overseeing and managing the outsourcing arrangement, the bank's compliance with its risk management framework and these guidelines.
+
+5.8.4 Co-operative banks shall at least on an annual basis, review the financial and operational condition of the service provider to assess its ability to continue to meet its outsourcing obligations. Such due diligence reviews, which can be based on all available information about the service provider should highlight any deterioration or breach in performance standards, confidentiality and security, and in business continuity preparedness. Co-operative banks shall also submit an Annual Compliance Certificate giving the particulars of outsourcing contracts, the prescribed periodicity of audit by internal / external auditor, major findings of the audit and action taken through Board, to the Regional Offices of RBI / NABARD.
+
+5.8.5 The event of termination of any outsourcing agreement for any reason where the service provider deals with customers, shall be publicised by displaying at a prominent place in the branches and posting it on the bank's website so as to ensure that the customers do not continue to deal with the service provider.
+
+5.8.6 Certain cases, like outsourcing of cash management, might involve reconciliation of transaction between the co-operative banks, the service provider and its subcontractors. In such cases, banks should ensure reconciliation of transactions between the bank and the service provider (and /or its subcontractor) are carried out as advised in RBI guidelines on ['Outsourcing of Cash Management –](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11556&Mode=0) Reconciliation of [Transactions' dated May 14, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11556&Mode=0) as amended from time to time.
+
+5.8.7 A robust system of internal audit of all outsourced activities shall be put in place and monitored at the Board level.
+
+## **5.9 Redressal of Grievances related to Outsourced services**
+
+5.9.1 The co-operative banks shall give wide publicity to the Grievance Redressal Machinery within the bank and also by placing the information on their website. It should be clearly indicated that co-operative banks' Grievance Redressal Machinery will also deal with the issues relating to services provided by the outsourced agencies. The name and contact number of designated grievance redressal officer of the co-operative bank should be made known and widely publicised. The designated officer should ensure that genuine grievances of customers are redressed promptly.
+
+5.9.2 The grievance redressal procedure of the co-operative bank and the time frame fixed for responding to the complaints shall be placed on the bank's website.
+
+## **5.10 Reporting of transactions to FIU or other competent authorities**
+
+Co-operative banks shall be responsible for making Currency Transactions Reports and Suspicious Transactions Reports to FIU or any other competent authority in respect of the banks' customer related activities carried out by the service providers.
+
+## **6 Centralised List of Outsourced Agents**
+
+If a service provider's contract is terminated prematurely prior to the completion of contracted period of service, Indian Banks' Association (IBA) would have to be informed with reasons for termination. IBA would be maintaining a caution list of such service providers for the entire banking industry for sharing among banks.

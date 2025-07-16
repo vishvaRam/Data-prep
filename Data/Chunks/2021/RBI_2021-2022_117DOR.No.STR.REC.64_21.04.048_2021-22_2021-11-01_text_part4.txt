@@ -1,0 +1,47 @@
+ys, irrespective of the fact whether the guarantee have been invoked or not.
+
+# 2.2.6 **Project Financing**
+
+'Project Loan' would mean any term loan which has been extended for the purpose of setting up of an economic venture. Banks must fix a Date of Commencement of Commercial Operations (DCCO) for all project loans at the time of sanction of the loan / financial closure (in the case of multiple banking or consortium arrangements).
+
+For the purpose of Income Recognition and Asset Classification norms, all project loans may be divided into the following two categories; (i) Project Loans for infrastructure sector (ii) Project Loans for noninfrastructure sector. Detailed guidelines are given in [Annex 8.](#page--1-0)
+
+In the case of bank finance given for industrial projects where moratorium is available for payment of interest, payment of interest becomes due only after the moratorium or gestation period is over. Therefore, such amounts of interest do not become overdue and hence NPA, with reference to the date of debit of interest. They become overdue after due date for payment of interest, if uncollected.
+
+## 2.2.7 **Prudential Guidelines on Restructuring of Advances**
+
+The prudential guidelines on restructuring of advances are detailed as under:
+
+(a) Asset Classification Norms
+
+2.2.7.1 Restructuring of advances could take place in the following stages:
+
+- i. before commencement of commercial production / operation;
+- ii. after commencement of commercial production / operation but before the asset has been classified as 'sub-standard';
+- iii. after commencement of commercial production / operation and the asset has been classified as 'sub-standard' or 'doubtful'.
+
+2.2.7.2 The accounts classified as 'standard assets' should be immediately re-classified as 'sub-standard assets' upon restructuring.
+
+2.2.7.3 The non performing assets, upon restructuring, would slip into further lower asset classification category as per extant asset classification norms with reference to the pre-restructuring repayment schedule.
+
+2.2.7.4 All restructured accounts which have been classified as non-performing assets upon restructuring, would be eligible for upgradation to the 'standard' category after observation of 'satisfactory performance' during the 'specified period' [\(Annex 5\)](#page--1-1).
+
+2.2.7.5 In case, however, satisfactory performance during the specified period is not evidenced, the asset classification of the restructured account would be governed as per the applicable prudential norms with reference to the **pre-restructuring payment schedule**.
+
+2.2.7.6 Any additional finance may be treated as 'standard asset', up to a period of one year after the first interest / principal payment, whichever is earlier, falls due under the approved restructuring package. However, in the case of accounts where the pre-restructuring facilities were classified as 'sub-standard' and 'doubtful', interest income on the additional finance should be recognised only on cash basis. If the restructured asset does not qualify for upgradation at the end of the above specified one year period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+
+2.2.7.7 In respect of loan accounts which enjoy special regulatory treatment as per para 2.2.7.25, upon restructuring, such non-performing assets would continue to have the same asset classification as prior to restructuring. In case satisfactory performance of the account is not evidenced during the 'specified period', it would slip into further lower asset classification categories as per extant asset classification norms with reference to the **pre-restructuring repayment schedule**.
+
+2.2.7.8 In case a restructured asset, which is a standard asset on restructuring, is subjected to restructuring on a subsequent occasion, it should be classified as substandard. If the restructured asset is a sub-standard or a doubtful asset and is subjected to restructuring, on a subsequent occasion, its asset classification will be reckoned from the date when it became NPA on the first occasion. However, such advances restructured on second or more occasion may be allowed to be upgraded to standard category after one year from the date of first payment of interest or repayment of principal whichever falls due earlier in terms of the current restructuring package subject to satisfactory performance.
+
+### (b) Income Recognition Norms
+
+2.2.7.9 Subject to provisions of paragraphs 2.2.7.6 and 2.2.7.22 interest income in respect of restructured accounts classified as 'standard assets' will be recognized on accrual basis and that in respect of the account classified as 'non performing assets' will be recognized on cash basis.
+
+#### (c) Provisioning Norms
+
+## 2.2.7.10 Normal Provisions
+
+Banks will hold provision against the restructured advances on the basis of classification of assets into prescribed categories as detailed in paragraph 3 below.
+
+### 2.2.7.11 Provisi

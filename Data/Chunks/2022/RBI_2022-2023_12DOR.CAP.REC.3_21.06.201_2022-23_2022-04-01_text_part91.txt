@@ -1,0 +1,35 @@
+the-money" that are close to expiry to use either the scenario approach or the internal models' alternative, both of which can accommodate more detailed revaluation approaches.
+
+Circular, under the following procedure. A two-legged approach should be used as for other derivatives, requiring one entry at the time the underlying contract takes effect and a second at the time the underlying contract matures. For instance, a bought call option on a June three-month interest-rate future will in April be considered, on the basis of its delta-equivalent value, to be a long position with a maturity of five months and a short position with a maturity of two months <sup>207</sup> . The written option will be similarly slotted as a long position with a maturity of two months and a short position with a maturity of five months. Floating rate instruments with caps or floors will be treated as a combination of floating rate securities and a series of European-style options. For example, the holder of a three-year floating rate bond indexed to six month LIBOR with a cap of 15 per cent will treat it as:
+
+- (i) a debt security that reprices in six months; and
+- (ii) a series of five written call options on a FRA with a reference rate of 15 per cent, each with a negative sign at the time the underlying FRA takes effect and a positive sign at the time the underlying FRA matures<sup>208</sup> .
+
+6. The capital charge for *options with equities as the underlying* will also be based on the delta-weighted positions which will be incorporated in the measure of market risk described in paragraph 8.4 of this Master Circular. For purposes of this calculation each national market is to be treated as a separate underlying. The capital charge for options on foreign exchange and gold positions will be based on the method set out in paragraph 8.5 of this Master Circular. For delta risk, the net delta-based equivalent of the foreign currency and gold options will be incorporated into the measurement of the exposure for the respective currency (or gold) position.
+
+7. In addition to the above capital charges arising from delta risk, there will be further capital charges for gamma and for Vega risk. Banks using the delta-plus method will be required to calculate the gamma and Vega for each option position (including hedge positions) separately. The capital charges should be calculated in the following way:
+
+(i) for *each individual option* a "gamma impact" should be calculated according to a Taylor series expansion as:
+
+Gamma impact = ½ x Gamma x VU²
+
+where VU = Variation of the underlying of the option.
+
+<sup>207</sup> Two-months call option on a bond future, where delivery of the bond takes place in September, would be considered in April as being long the bond and short a five-month deposit, both positions being delta-weighted. <sup>208</sup> The rules applying to closely-matched positions set out in paragraph 2 (a) of this Annex shall also apply in this respect.
+
+- (ii) VU will be calculated as follows:
+	- for interest rate options if the underlying is a bond, the price sensitivity should be worked out as explained. An equivalent calculation should be carried out where the underlying is an interest rate.
+	- for options on equities and equity indices; which are not permitted at present, the market value of the underlying should be multiplied by 9 per cent<sup>209</sup>;
+	- for foreign exchange and gold options: the market value of the underlying should be multiplied by 9 per cent;
+- (iii) For the purpose of this calculation the following positions should be treated as *the same underlyin***g**:
+	- for interest rates<sup>210</sup> , each time-band as set out in Table 15 of this Master Circular<sup>211</sup>;
+	- for equities and stock indices, each national market;
+	- for foreign currencies and gold, each currency pair and gold;
+- (iv) Each option on the same underlying will have a gamma impact that is either positive or negative. These individual gamma impacts will be summed, resulting in a net gamma impact for each underlying that is either positive or negative. Only those net gamma impacts that are negative will be included in the capital calculation.
+- (v) The total gamma capital charge will be the sum of the absolute value of the net negative gamma impacts as calculated above.
+- (vi) For *volatility risk*, banks will be required to calculate the capital charges by multiplying the sum of the Vegas for all options on the same underlying, as defined above, by a proportional shift in volatility of ± 25 per cent.
+- (vii) The *total capital charge* for Vega risk will be the sum of the absolute value of the individual capital charges that have been calculated for Vega risk.
+
+# **(b) Scenario Approach**
+
+8. More sophisticated banks will also have the right to base the market risk capital charge for options portfolios and associated hedging positions on *scenario matrix analysis*. This will be accomplished by specifying a fixed range of changes 

@@ -1,0 +1,6 @@
+| Category of the bank | Existing Limit*           | Revised Limit*            |
+|----------------------|---------------------------|---------------------------|
+|                      | (per individual borrower) | (per individual borrower) |
+| (a)<br>Tier-I UCBs   | ₹30 lakh                  | ₹60 lakh                  |
+| (b)<br>Tier-II UCBs  | ₹70 lakh                  | ₹140 lakh                 |
+

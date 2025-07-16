@@ -1,0 +1,57 @@
+s eligible for surrender, KVPs and Life policies need not be treated as NPAs although interest thereon may not have been paid for more than 90 days, provided adequate margin is available in the accounts.
+
+(ii) Banks should fix monthly / quarterly instalments for repayment of gold loans for non-agricultural purposes taking into account the pattern of income generation and repayment capacity of the borrowers and such gold loan accounts may be treated as NPAs if instalments of principal and / or interest thereon are overdue for more than 90 days.
+
+(iii) As regards gold loans granted for agricultural purposes, interest is required to be charged as per Supreme Court judgment at yearly intervals and payment should coincide with the harvesting of crops. Accordingly, such advances will be treated as NPA only if instalments of principal and / or interest become overdue after due date.
+
+# 2.2.9 **Recognition of Income on Investment Treated as NPAs**
+
+The investments are also subject to the prudential norms on income recognition. Banks should not book income on accrual basis in respect of any security, irrespective of the category in which it is included, where the interest / principal is in arrears for more than 90 days.
+
+## 2.2.10 **NPA Reporting to Reserve Bank**
+
+Banks should report the figures of NPAs to the Regional Office of the Reserve Bank at the end of each year within two months from the close of the year in the prescribed proforma given in the [Annex 2.](#page--1-0)
+
+# 2.2.11 **Consumer Education on SMA/NPA**
+
+With a view to increasing awareness among the borrowers, banks should place consumer education literature on their websites, explaining with examples, the concepts of date of overdue, SMA and NPA classification and upgradation, with specific reference to day-end process. Banks should also consider displaying such consumer education literature in their branches by means of posters and/or other appropriate media. Further, it shall also be ensured that their front-line officers educate borrowers about all these concepts, with respect to loans availed by them, at the time of sanction/disbursal/renewal of loans.
+
+#### **3. Asset Classification**
+
+### 3.1 **Classification**
+
+- 3.1.1 Banks should classify their assets into the following broad groups, viz. -
+- (i) Standard Assets
+- (ii) Sub-standard Assets
+- (iii) Doubtful Assets
+- (iv) Loss Assets
+
+### 3.2 **Definitions**
+
+### 3.2.1 **Standard Assets**
+
+Standard asset is one which does not disclose any problems and which does not carry more than normal risk attached to the business. Such an asset should not be an NPA.
+
+#### 3.2.2 **Sub-standard Assets**
+
+With effect from March 31, 2005 an asset would be classified as sub-standard if it remained NPA for a period less than or equal to 12 months. In such cases, the current net worth of the borrowers / guarantors or the current market value of the security charged is not enough to ensure recovery of the dues to the banks in full. In other words, such assets will have well defined credit weaknesses that jeopardise the liquidation of the debt and are characterised by the distinct possibility that the banks will sustain some loss, if deficiencies are not corrected.
+
+# 3.2.3 **Doubtful Assets**
+
+With effect from March 31, 2005, an asset is required to be classified as doubtful, if it has remained NPA for more than 12 months. A loan classified as doubtful has all the weaknesses inherent as that classified as sub-standard, with the added characteristic that the weaknesses make collection or liquidation in full, on the basis of currently known facts, conditions and values, highly questionable and improbable.
+
+## 3.2.4 **Loss Assets**
+
+A loss asset is one where loss has been identified by the bank or internal or external auditors or by the Cooperation Department or by the Reserve Bank of India's inspection but the amount has not been written off, wholly or partly. In other words, such an asset is considered un-collectible and of such little value that its continuance as a bankable asset is not warranted although there may be some salvage or recovery value.
+
+# 3.3 **Guidelines for Classification of Assets**
+
+# 3.3.1 **Basic Considerations**
+
+(i) Broadly speaking, classification of assets into above categories should be done taking into account the degree of well defined credit weaknesses.
+
+(ii) In respect of accounts where there are potential threats to recovery on account of erosion in the value of security, it will not be prudent for the banks to classify them first as sub-standard and then as doubtful after expiry of 12 months from the date the account has become NPA. Such accounts should be straight away classified as doubtful asset or loss asset, as appropriate, irrespective of the period for which they have remained as NPA.
+
+### 3.3.2 **Advances Granted under Rehabilitation Packages Approved by Term Lending Institutions**
+
+(i) Banks are not permitted to upgrade the classification of any advance in respect of which

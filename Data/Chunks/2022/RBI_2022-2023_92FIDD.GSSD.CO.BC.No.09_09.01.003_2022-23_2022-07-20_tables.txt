@@ -1,0 +1,178 @@
+|       |                                             |                                    | Credit Linked SHGs in the month |                |                      |                |                      |                     | Credit outstanding   |             |                        |
+|-------|---------------------------------------------|------------------------------------|---------------------------------|----------------|----------------------|----------------|----------------------|---------------------|----------------------|-------------|------------------------|
+| S. No | No of SHGs with SB account                  |                                    |                                 | New Loans      |                      | Repeat Loans   |                      | Cumulative          |                      |             |                        |
+|       | Total S/B<br>accounts<br>till last<br>month | New a/c<br>opened<br>this<br>month | Cumulative                      | No of<br>loans | Amount<br>Disbursed* | No of<br>loans | Amount<br>Disbursed* | No of<br>loans      | Amount<br>Disbursed* | No of loans | Amount<br>Outstanding* |
+|       | 1(a)                                        | 1(b)                               | 1( c ) =<br>1(a)+1(b)           | 2(a)           | 2(b)                 | 3(a)           | 3(b)                 | 4(a) =<br>2(a)+3(a) | 4(b)=2(b)+3(b)       | 5(a)        | 5(b)                   |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+|       |                                             |                                    |                                 |                |                      |                |                      |                     |                      |             |                        |
+
+| SL No | No of loan<br>accounts | Amount<br>outstanding* | Irregular accounts (4) |                    | Details of the NPA accounts (5) |         |  |
+|-------|------------------------|------------------------|------------------------|--------------------|---------------------------------|---------|--|
+|       |                        |                        | No<br>of<br>accounts   | Overdue<br>Amount* | No of accounts                  | Amount* |  |
+| 1     | 2                      | 3                      | 4(a)                   | 4(b)               | 5(a)                            | 5(b)    |  |
+|       |                        |                        |                        |                    |                                 |         |  |
+|       |                        |                        |                        |                    |                                 |         |  |
+|       |                        |                        |                        |                    |                                 |         |  |
+|       |                        |                        |                        |                    |                                 |         |  |
+
+| Particulars                                              | Months in one Quarter        |                              |                              |  |  |  |
+|----------------------------------------------------------|------------------------------|------------------------------|------------------------------|--|--|--|
+|                                                          | Month 1                      | Month 2                      | Month 3                      |  |  |  |
+| Loan Amount Outstanding at the beginning of the month    | 750000                       | 725000                       | 700000                       |  |  |  |
+| (Rs)                                                     |                              |                              |                              |  |  |  |
+| Loan Amount Outstanding at the end of the month (Rs)     | 725000                       | 700000                       | 675000                       |  |  |  |
+| Average loan outstanding during the month (Rs)* -<br>[A] | ~737500                      | ~712500                      | ~687500                      |  |  |  |
+| Out of [A]<br>–<br>Applicable RoI                        |                              |                              |                              |  |  |  |
+| @7%                                                      | 300000                       | 300000                       | 300000                       |  |  |  |
+| @ 1yr –<br>MCLR                                          | 200000                       | 200000                       | 200000                       |  |  |  |
+| @ Bank lending rate                                      | 237500                       | 212500                       | 187500                       |  |  |  |
+| Calculation of Interest Subvention                       |                              |                              |                              |  |  |  |
+| Scenario 1                                               |                              |                              |                              |  |  |  |
+| Status of account                                        | Regular/ standard            | Regular/ standard            | Regular/ standard            |  |  |  |
+| Amount of interest subvention#                           |                              |                              |                              |  |  |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00 | (300000 x 4.5%)/12 = 1125.00 | (300000 x 4.5%)/12 = 1125.00 |  |  |  |
+| @ 5%                                                     | (200000 x 5.0%)/12 = 833.33  | (200000 x 5.0%)/12 = 833.33  | (200000 x 5.0%)/12 = 833.33  |  |  |  |
+| Total subvention amount for the quarter                  | Rs 5875                      |                              |                              |  |  |  |
+| Scenario 2                                               |                              |                              |                              |  |  |  |
+| Status of account                                        | Overdue                      | Overdue                      | NPA                          |  |  |  |
+| Amount of interest subvention#                           |                              |                              |                              |  |  |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00 | (300000 x 4.5%)/12 = 1125.00 | NIL                          |  |  |  |
+| @ 5%                                                     | (200000 x 5.0%)/12 = 833.33  | (200000 x 5.0%)/12 = 833.33  | NIL                          |  |  |  |
+| Total subvention amount for the quarter                  | Rs 3917                      |                              |                              |  |  |  |
+
+| Particulars                                              | Months in one Quarter          |                                |                              |  |
+|----------------------------------------------------------|--------------------------------|--------------------------------|------------------------------|--|
+|                                                          | Month 1                        | Month 2                        | Month 3                      |  |
+| Loan Amount Outstanding at the beginning of the month    | 450000                         | 425000                         | 400000                       |  |
+| (Rs)                                                     |                                |                                |                              |  |
+| Loan Amount Outstanding at the end of the month (Rs)     | 425000                         | 400000                         | 375000                       |  |
+| Average loan outstanding during the month (Rs)* -<br>[A] | ~437500                        | ~412500                        | ~387500                      |  |
+| Out of [A]<br>-<br>Applicable RoI                        |                                |                                |                              |  |
+| @7%                                                      | 300000                         | 300000                         | 300000                       |  |
+| @ 1yr –<br>MCLR                                          | 137000                         | 112500                         | 87500                        |  |
+| @ Bank lending rate                                      | NIL                            | NIL                            | NIL                          |  |
+| Calculation of Interest Subvention                       |                                |                                |                              |  |
+| Scenario 1                                               |                                |                                |                              |  |
+| Status of account                                        | Regular/ standard              | Regular/ standard              | Regular/ standard            |  |
+| Amount of interest subvention#                           |                                |                                |                              |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00   | (300000 x 4.5%)/12 = 1125.00   | (300000 x 4.5%)/12 = 1125.00 |  |
+| @ 5%                                                     | (137000 x 5.0%)/12 = 570.83    | (112500 x 5.0%)/12 =<br>468.75 | (87500 x 5.0%)/12 = 364.58   |  |
+| Total subvention amount for the quarter                  | Rs 4779                        |                                |                              |  |
+| Scenario 2                                               |                                |                                |                              |  |
+| Status of account                                        | Overdue                        | Overdue                        | NPA                          |  |
+| Amount of interest subvention#                           |                                |                                |                              |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00   | (300000 x 4.5%)/12 = 1125.00   | NIL                          |  |
+| @ 5%                                                     | (137000<br>x 5.0%)/12 = 570.83 | (112500 x 5.0%)/12 = 468.75    | NIL                          |  |
+| Total subvention amount for the quarter                  | Rs 3290                        |                                |                              |  |
+
+| Particulars                                              | Months in one Quarter        |                              |                             |  |
+|----------------------------------------------------------|------------------------------|------------------------------|-----------------------------|--|
+|                                                          | Month 1                      | Month 2                      | Month 3                     |  |
+| Loan Amount Outstanding at the beginning of the month    | 350000                       | 325000                       | 300000                      |  |
+| (Rs)                                                     |                              |                              |                             |  |
+| Loan Amount Outstanding at the end of the month (Rs)     | 325000                       | 300000                       | 275000                      |  |
+| Average loan outstanding during the month (Rs)* -<br>[A] | ~337500                      | ~312500                      | ~287500                     |  |
+| Out of [A]<br>-<br>Applicable RoI                        |                              |                              |                             |  |
+| @7%                                                      | 300000                       | 300000                       | 287000                      |  |
+| @ 1yr –<br>MCLR                                          | 37000                        | 12500                        | NIL                         |  |
+| @ Bank lending rate                                      | NIL                          | NIL                          | NIL                         |  |
+| Calculation of Interest Subvention                       |                              |                              |                             |  |
+| Scenario 1                                               |                              |                              |                             |  |
+| Status of account                                        | Regular/ standard            | Regular/ standard            | Regular/ standard           |  |
+| Amount of interest subvention#                           |                              |                              |                             |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00 | (300000 x 4.5%)/12 = 1125.00 | (28700 x 4.5%)/12 = 1076.25 |  |
+| @ 5%                                                     | (37000 x 5.0%)/12 = 154.17   | (12500 x 5.0%)/12 = 52.08    | (NIL x 5.0%)/12 = NIL       |  |
+| Total subvention amount for the quarter                  | Rs 3533                      |                              |                             |  |
+| Scenario 2                                               |                              |                              |                             |  |
+| Status of account                                        | Overdue                      | Overdue                      | NPA                         |  |
+| Amount of interest subvention#                           |                              |                              |                             |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00 | (300000 x 4.5%)/12 = 1125.00 | NIL                         |  |
+| @ 5%                                                     | (37000 x 5.0%)/12 = 154.17   | (12500 x 5.0%)/12 = 52.08    | NIL                         |  |
+| Total subvention amount for the quarter                  |                              | Rs 2456                      |                             |  |
+
+| Particulars                                              | Months in one Quarter        |         |                           |  |
+|----------------------------------------------------------|------------------------------|---------|---------------------------|--|
+|                                                          | Month 1                      | Month 2 | Month 3                   |  |
+| Loan Amount Outstanding at the beginning of the month    | 350000                       | 350000  | 350000                    |  |
+| (Rs)                                                     |                              |         |                           |  |
+| Loan Amount Outstanding at the end of the month (Rs)     | 350000<br>350000             |         | 275000                    |  |
+| Average loan outstanding during the month (Rs)* -<br>[A] | ~350000                      | ~350000 | ~312000                   |  |
+| Out of [A]<br>-<br>Applicable RoI                        |                              |         |                           |  |
+| @7%                                                      | 300000                       | 300000  | 300000                    |  |
+| @ 1yr –<br>MCLR                                          | 50000                        | 50000   | 12000                     |  |
+| @ Bank lending rate                                      | NIL                          | NIL     | NIL                       |  |
+| Calculation of Interest Subvention                       |                              |         |                           |  |
+| Scenario 1                                               |                              |         |                           |  |
+| Status of account                                        | NPA                          | NPA     | Regular/ standard         |  |
+| Amount of interest subvention#                           |                              |         |                           |  |
+| @ 4.5%                                                   | NIL                          | NIL     | (300000 x 4.5%)/12 = 1125 |  |
+| @ 5%                                                     | NIL                          | NIL     | (12000 x 5.0%)/12 = 50    |  |
+| Total subvention amount for the quarter                  | Rs 1175                      |         |                           |  |
+| Scenario 2                                               |                              |         |                           |  |
+| Status of account                                        | Overdue                      | NPA     | Regular/ standard         |  |
+| Amount of interest subvention#                           |                              |         |                           |  |
+| @ 4.5%                                                   | (300000 x 4.5%)/12 = 1125.00 | NIL     | (300000 x 4.5%)/12 = 1125 |  |
+| @ 5%                                                     | (50000 x 5.0%)/12 = 208.33   | NIL     | (12000 x 5.0%)/12 = 50    |  |
+| Total subvention amount for the quarter                  | Rs 2508                      |         |                           |  |
+
+| Particulars                                              | Months in one Quarter       |                             |                             |  |
+|----------------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|--|
+|                                                          | Month 1                     | Month 2                     | Month 3                     |  |
+| Loan Amount Outstanding at the beginning of the month    | 250000                      | 225000                      | 200000                      |  |
+| (Rs)                                                     |                             |                             |                             |  |
+| Loan Amount Outstanding at the end of the month (Rs)     | 225000                      | 200000                      | 175000                      |  |
+| Average loan outstanding during the month (Rs)* -<br>[A] | ~237500                     | ~212500                     | ~187500                     |  |
+| Out of [A]<br>-<br>Applicable RoI                        |                             |                             |                             |  |
+| @7%                                                      | 237500                      | 212500                      | 187500                      |  |
+| @ 1yr –<br>MCLR                                          | NIL                         | NIL                         | NIL                         |  |
+| @ Bank lending rate                                      | NIL                         | NIL                         | NIL                         |  |
+| Calculation of Interest Subvention                       |                             |                             |                             |  |
+| Scenario 1                                               |                             |                             |                             |  |
+| Status of account                                        | Regular/ standard           | Regular/ standard           | Regular/ standard           |  |
+| Calculation of interest subvention#                      |                             |                             |                             |  |
+| @ 4.5%                                                   | (237500 x 4.5%)/12 = 890.62 | (212500 x 4.5%)/12 = 796.88 | (187500 x 4.5%)/12 = 703.13 |  |
+| @ 5%                                                     | (NIL x 5.0%)/12 = NIL       | (NIL x 5.0%)/12 = NIL       | (NIL x 5.0%)/12 = NIL       |  |
+| Total subvention amount for the quarter                  | Rs 2391                     |                             |                             |  |
+| Scenario 2                                               |                             |                             |                             |  |
+| Status of account                                        | Overdue                     | Overdue                     | NPA                         |  |
+| Calculation of interest subvention#                      |                             |                             |                             |  |
+| @ 4.5%                                                   | (237500 x 4.5%)/12 = 890.62 | (212500 x 4.5%)/12 = 796.88 | NIL                         |  |
+| @ 5%                                                     | (NIL x 5.0%)/12 = NIL       | (NIL x 5.0%)/12 = NIL       | NIL                         |  |
+| Total subvention amount for the quarter                  | Rs 1688                     |                             |                             |  |
+
+| New loan accounts opened<br>during the period ………to | ………    | Outstanding as at ……… (end<br>of previous period) |        |                   | Total outstanding as at ………. | Amount of<br>interest<br>Subvention @4.5% |
+|-----------------------------------------------------|--------|---------------------------------------------------|--------|-------------------|------------------------------|-------------------------------------------|
+| No of<br>Accounts                                   | Amount | No of<br>Accounts                                 | Amount | No of<br>Accounts | Amount                       | Amount                                    |
+
+| No of unique SHGs availed interest subvention | Amount of Interest subvention |  |  |
+|-----------------------------------------------|-------------------------------|--|--|
+|                                               |                               |  |  |
+
+| New loan accounts opened during the<br>period ………to ……… |                                                                  |        | Outstanding as at ……… (end of previous period) |                                                               |        | Total outstanding as at ………. |                                                                  |        | Amount of<br>interest<br>subvention @ 5% |
+|---------------------------------------------------------|------------------------------------------------------------------|--------|------------------------------------------------|---------------------------------------------------------------|--------|------------------------------|------------------------------------------------------------------|--------|------------------------------------------|
+| No of<br>Accounts                                       | Applicable<br>Interest rate (1<br>yr MCLR/<br>Benchmark<br>rate) | Amount | No of<br>Accounts                              | Applicable<br>Interest rate (1 yr<br>MCLR/<br>Benchmark rate) | Amount | No of<br>Accounts            | Applicable<br>Interest rate (1<br>yr MCLR/<br>Benchmark<br>rate) | Amount | Amount                                   |
+|                                                         |                                                                  |        |                                                |                                                               |        |                              |                                                                  |        |                                          |
+|                                                         |                                                                  |        |                                                |                                                               |        |                              |                                                                  |        |                                          |
+
+| No of unique SHGs availed interest subvention | Amount of Interest subvention |
+|-----------------------------------------------|-------------------------------|
+|                                               |                               |
+
+| No. | Circular No.                            | Date       | Subject                                                                                                                      |
+|-----|-----------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | RPCD.GSSD.CO.NO.81/09.01.03/2012-13     | 27.06.2013 | Priority<br>Sector<br>Lending<br>–<br>Restructuring of SGSY as<br>National Rural Livelihoods<br>Mission(DAY-NRLM)- Aajeevika |
+| 2.  | RPCD.GSSD.CO.BC.No.38/09.01.03/2013-14  | 20.09.2013 | Credit Facility under National Rural<br>Livelihoods<br>Mission(NRLM)- Aajeevika- Reporting<br>to RBI                         |
+| 3.  | RPCD.GSSD.CO.BC.No.57/09.01.03/2013-14  | 19.11.2013 | Restructuring of SGSY as<br>National Rural Livelihoods<br>Mission (NRLM)-Aajeevika- Interest<br>Subvention<br>Scheme         |
+| 4.  | FIDD.GSSD.CO.BC.NO.45/09.01.03/2014-15  | 09.12.2014 | National Rural Livelihoods<br>Mission(NRLM)- Aajeevika- Interest<br>Subvention<br>Scheme                                     |
+| 5.  | FIDD.GSSD.CO.BC.NO.19/09.01.03/2015-16  | 21.01.2016 | National Rural Livelihoods<br>Mission(NRLM)- Aajeevika- Interest<br>Subvention<br>Scheme 2015-16                             |
+| 6.  | FIDD.GSSD.CO.BC.NO.26/09.01.03/2015-16  | 09.06.2016 | National Rural Livelihoods<br>Mission(NRLM)- Aajeevika- Interest<br>Subvention<br>Scheme 2015-16 – Modification.             |
+| 7.  | FIDD.GSSD.CO.BC.NO.13/09.01.03/2016-17  | 25.08.2016 | National Rural Livelihoods<br>Mission(NRLM)- Aajeevika- Interest<br>Subvention<br>Scheme 2016-17                             |
+| 8.  | FIDD.GSSD.CO.BC.NO.17/09.01.03/2017-18  | 18.10.2017 | National Rural Livelihoods<br>Mission(NRLM)- Aajeevika- Interest<br>Subvention<br>Scheme 2017-18                             |
+| 9.  | FIDD.GSSD.CO.BC.NO.05/09.01.03/2018-19  | 03.07.2018 | National Rural Livelihoods<br>Mission(NRLM)- Aajeevika- Interest<br>Subvention<br>Scheme 2018-19                             |
+| 10. | FIDD.GSSD.CO.BC.No.02/09.01.01/2019-20  | 01.07.2019 | Deendayal<br>Antyodaya<br>Yojana<br>-<br>National Rural Livelihoods Mission<br>(DAY-NRLM)                                    |
+| 11. | FIDD.GSSD.CO.BC.No.15/09.01.01/2019-20  | 26.11.2019 | Deendayal<br>Antyodaya<br>Yojana<br>-<br>National Rural Livelihoods Mission<br>(DAY-NRLM)                                    |
+| 12. | FIDD.GSSD.CO.BC.No.06/09.01.01/2020-21  | 18.09.2020 | Deendayal<br>Antyodaya<br>Yojana<br>-<br>National Rural Livelihoods Mission<br>(DAY-NRLM)                                    |
+| 13. | FIDD.GSSD.CO.BC.No.09/09.01.003/2021-22 | 09.08.2021 | Enhancement of collateral free loans to<br>Self Help Groups (SHGs) under DAY<br>NRLM from ₹10 lakh to ₹20 Lakh               |

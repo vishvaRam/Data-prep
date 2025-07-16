@@ -1,0 +1,31 @@
+t and monitoring process; and (iv) ensuring adequate controls over credit risk as elaborated in our Guidance note on Credit Risk issued on October 12, 2002<sup>91</sup> .
+
+11.3 The financial crisis has emphasised the importance of effective capital planning and longterm capital maintenance. A bank's ability to withstand uncertain market conditions is bolstered by maintaining a strong capital position that accounts for potential changes in the bank's strategy and volatility in market conditions over time. Banks should focus on effective and efficient capital planning, as well as long-term capital maintenance. An effective capital planning process requires a bank to assess both the risks to which it is exposed and the risk management processes in place to manage and mitigate those risks; evaluate its capital adequacy relative to its risks; and consider the potential impact on earnings and capital from economic downturns. A bank's capital planning process should incorporate rigorous, forward looking stress testing, as discussed below in paragraph 12.10.
+
+11.4 Rapid growth in any business activity can present banks with significant risk management challenges. This was the case with the expanded use of the "originate-to-distribute" business
+
+<sup>90</sup> [Master Circular DBOD.No.BP.BC.73/21.06.001/2009-10 dated Feb 8, 2010.](https://rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=5494)
+
+<sup>91</sup> Guidance Notes on Management of Credit Risk and Market Risk issued vide [circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=905&Mode=0)  [DBOD.No.BP.520/21.04.103/2002-03 dated October 12, 2002.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=905&Mode=0)
+
+model, off-balance sheet vehicles, liquidity facilities and credit derivatives. The originate-todistribute model and securitisation can enhance credit intermediation and bank profitability, as well as more widely diversify risk. Managing the associated risks, however, poses significant challenges. Indeed, these activities create exposures within business lines, across the firm and across risk factors that can be difficult to identify, measure, manage, mitigate and control. This is especially true in an environment of declining market liquidity, asset prices and risk appetite. The inability to properly identify and measure such risks may lead to unintended risk exposures and concentrations, which in turn can lead to concurrent losses arising in several businesses and risk dimensions due to a common set of factors. Strong demand for structured products created incentives for banks using the originate-to-distribute model to originate loans, such as subprime mortgages, using unsound and unsafe underwriting standards. At the same time, many investors relied solely on the ratings of the credit rating agencies (CRAs) when determining whether to invest in structured credit products. Many investors conducted little or no independent due diligence on the structured products they purchased. Furthermore, many banks had insufficient risk management processes in place to address the risks associated with exposures held on their balance sheet, as well as those associated with off-balance sheet entities, such as asset backed commercial paper (ABCP) conduits and structured investment vehicles (SIVs).
+
+11.5 Innovation has increased the complexity and potential illiquidity of structured credit products. This, in turn, can make such products more difficult to value and hedge, and may lead to inadvertent increases in overall risk. Further, the increased growth of complex investor-specific products may result in thin markets that are illiquid, which can expose a bank to large losses in times of stress if the associated risks are not well understood and managed in a timely and effective manner.
+
+## **12. Guidelines for the SREP of the RBI and the ICAAP of Banks**
+
+## **12.1 Background**
+
+12.1.1 The Basel capital adequacy framework rests on the following three mutually-reinforcing pillars:
+
+Pillar 1: Minimum Capital Requirements - which prescribes a risk-sensitive calculation of capital requirements that, for the first time, explicitly includes operational risk in addition to market and credit risk.
+
+Pillar 2: Supervisory Review Process (SRP) - which envisages the establishment of suitable risk management systems in banks and their review by the supervisory authority.
+
+Pillar 3: Market Discipline - which seeks to achieve increased transparency through expanded disclosure requirements for banks.
+
+12.1.2 The Basel Committee also lays down the following four key principles in regard to the SRP envisaged under Pillar 2:
+
+**Principle 1:** Banks should have a process for assessing their overall capital adequacy in relation to their risk profile and a strategy for maintaining their capital levels.
+
+**Principle 2:** Supervisors should review and evaluate banks' internal capital adequacy assessments and strategies, as well as their ability to monitor and ensure their complian

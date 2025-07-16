@@ -1,0 +1,49 @@
+, if satisfactory performance is demonstrated during the specified period.
+
+2.2.7.28 However, these benefits will be available subject to compliance with the following conditions:
+
+i) The dues to the bank are 'fully secured' as defined in [Annex 5.](#page--1-0) The condition of being fully secured by tangible security will not be applicable in the following cases :
+
+(a) SSI borrowers, where the outstanding is up to ₹25 lakh.
+
+(b) infrastructure projects, provided the cash flows generated from these projects are adequate for repayment of the advance, the financing bank(s) have in place an appropriate mechanism to escrow the cash flows, and also have a clear and legal first claim on these cash flows.
+
+(c) WCTL created by conversion of the irregular portion of principal dues over the drawing power, subject to the condition that provisions are made against the unsecured portion of the WCTL, as under :
+
+- Standard Assets : 20%
+- Substandard Assets : 20% during the first year and to be increased by 20% every year thereafter until the specified period (one year after the first payment is due under the terms of restructuring)
+- If the account is not eligible for upgradation after the specified period, the unsecured portion will attract provision of 100%.
+
+ii) The unit becomes viable in 10 years, if it is engaged in infrastructure activities, and in 7 years in the case of other units.
+
+iii) The repayment period of the restructured advance including the moratorium, if any, does not exceed 15 years in the case of infrastructure advances and 10 years in the case of other advances. The Board of Directors of the banks should prescribe the maximum period not exceeding 15 years for restructured advances keeping in view the safety and soundness of advances.
+
+iv) Promoters' sacrifice and additional funds brought by them should be a minimum of 15% of banks' sacrifice.
+
+v) Personal guarantee is offered by the promoter except when the unit is affected by external factors pertaining to the economy and industry.
+
+vi) The restructuring under consideration is not a 'repeated restructuring' as defined in para (iv) of [Annex 5.](#page--1-0)
+
+(g) Disclosures
+
+2.2.7.29 Banks should disclose in their published annual Balance Sheets, under 'Notes on Accounts', information relating to number and amount of advances restructured and the amount of diminution in the fair value of the restructured advances in [Annex 6.](#page--1-0)
+
+(h) Illustrations
+
+2.2.7.30 A few illustrations on the asset classification of restructured accounts are given in [Annex 7.](#page--1-0)
+
+2.2.7.31 Resolution of Covid-19 related stress implemented under the following circulars shall be subject to the specific requirements, including the prudential requirements, specified therein:
+
+(i) [DOR.No.BP.BC/3/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11941&Mode=0) on "Resolution Framework for COVID-19 related Stress" read with [DOR.No.BP.BC/13/21.04.048/2020-21 dated September 7, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11961&Mode=0) on "Resolution Framework for COVID-19-related Stress – Financial Parameters";
+
+(ii) [DOR.No.BP.BC/4/21.04.048/2020-21 dated August 6, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11942&Mode=0) on "Micro, Small and Medium Enterprises (MSME) sector – Restructuring of Advances";
+
+(iii) [DOR.STR.REC.11/21.04.048/2021-22 dated May 5, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12085&Mode=0) on "Resolution Framework – 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses" read with [DOR.STR.REC.20/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12104&Mode=0) on "Resolution Framework - 2.0: Resolution of Covid-19 related stress of Individuals and Small Businesses – Revision in the threshold for aggregate exposure";
+
+(iv) [DOR.STR.REC.12/21.04.048/2021-22 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12086&Mode=0) May 5, 2021 on 'Resolution Framework 2.0 – Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs)' read with [DOR.STR.REC.21/21.04.048/2021-22 dated June 4, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12105&Mode=0) on 'Resolution Framework - 2.0: Resolution of Covid-19 related stress of Micro, Small and Medium Enterprises (MSMEs) – Revision in the threshold for aggregate exposure'
+
+2.2.7.32 MSME accounts restructured under the [circulars DBR.No.BP.BC.18/21.04.048/2018-19 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0)  [January 1, 2019](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11445&Mode=0) and [DOR.No.BP.BC.34/21.04.048/2019-20 dated February 11, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11808&Mode=0) shall be subject to the prudential requirements specified therein.
+
+#### 2.2.8 **Other Advances**
+
+(i) Advances against term deposits, NSC

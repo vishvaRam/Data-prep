@@ -1,0 +1,29 @@
+C norms").
+
+18. In respect of borrowers where the resolution process has been invoked, lending institutions are permitted to sanction additional finance even before implementation of the plan in order to meet the interim liquidity requirements of the borrower. This facility of additional finance may be classified as 'Standard' till implementation of the plan regardless of the actual performance of the borrower in the interim. However, if the resolution plan is not implemented within the stipulated timelines, the asset classification of the additional finance sanctioned will be as per the actual performance of the borrower with respect to such additional finance or performance of the rest of the credit facilities, whichever is worse.
+
+19. The lending institutions shall keep provisions from the date of implementation, which are higher of the provisions held as per the extant IRAC norms immediately before implementation, or 10 percent of the renegotiated debt exposure of the lending institution post implementation (residual debt). Residual debt, for this purpose, will also include the portion of non-fund based facilities that may have devolved into fund based facilities after the date of implementation.
+
+20. Half of the above provisions may be written back upon the borrower paying at least 20 per cent of the residual debt without slipping into NPA post implementation of the plan, and the remaining half may be written back upon the borrower paying another 10 per cent of the residual debt without slipping into NPA subsequently.
+
+*Provided that* in respect of exposures other than personal loans, the above provisions shall not be written back before one year from the commencement of the first payment of interest or principal (whichever is later) on the credit facility with longest period of moratorium.
+
+21. The provisions required to be maintained under this window, to the extent not already reversed, shall be available for the provisioning requirements when any of the accounts, where a resolution plan had been implemented, is subsequently classified as NPA.
+
+## **Convergence of the norms for loans resolved previously**
+
+22. In cases of loans of borrowers specified in Clause 5 above where resolution plans had been implemented in terms of the Resolution Framework – 1.0, and where the resolution plans had permitted no moratoria or moratoria of less than two years and / or extension of residual tenor by a period of less than two years, lending institutions are permitted to use this window to modify such plans **only** to the extent of increasing the period of moratorium / extension of residual tenor subject to the caps in Clause 12 above, and the consequent changes necessary in the terms of the loan for implementing such extension. *The overall caps on moratorium and / or extension of residual tenor granted under Resolution Framework – 1.0 and this framework combined, shall be two years.*
+
+23. This modification shall also follow the timelines specified in Clauses 7, 10 and 15 above. For loans where modifications are implemented in line with Clause 22 above, the instructions regarding asset classification and provisioning shall continue to be as per the Resolution Framework – 1.0.
+
+# **B. Working capital support for small businesses where resolution plans were implemented previously**
+
+24. In respect of borrowers specified at sub-clauses (b) and (c) of Clause 5 above where resolution plans had been implemented in terms of the Resolution Framework – 1.0, lending institutions are permitted, as a one-time measure, to review the working capital sanctioned limits and / or drawing power based on a reassessment of the working capital cycle, reduction of margins, etc. without the same being treated as restructuring. The decision with regard to above shall be taken by lending institutions by September 30, 2021, with the margins and working capital limits being restored to the levels as per the resolution plan implemented under Resolution Framework – 1.0, by March 31, 2022.
+
+25. The above measures shall be contingent on the lending institutions satisfying themselves that the same is necessitated on account of the economic fallout from COVID-19. Further, accounts provided relief under these instructions shall be subject to subsequent supervisory review with regard to their justifiability on account of the economic fallout from COVID-19.
+
+26. Lending institutions may, accordingly, put in place a Board approved policy to implement the above measures, which should be disclosed in the public domain and placed on their websites in a prominent and easily accessible manner.
+
+## **C. Disclosures and Credit Reporting**
+
+27. Lending institutions publishing quarterly financial statements shall, at the minimum, make disclosures as per the format prescribed in [Format-X](#page--1-0) in their financial statements for the quarters ending September 30, 2021 and December 31, 2021. The resolution plans implemented in terms of Part A of this frame

@@ -1,0 +1,27 @@
+reinafter referred to as "OI Regulations").
+
+
+
+#### **Part I - Definitions and associated details**
+
+1. Reference shall be made to OI Rules and OI Regulations for the definitions of the various terms used in these directions. However, the major terms are reiterated and elaborated below:
+
+(i) **"foreign entity"** - the extant concept of Joint Venture (JV) and Wholly Owned Subsidiary (WOS) is substituted under the new regime with the concept of foreign entity, which means an entity formed or registered or incorporated outside India, including in International Financial Services Centre (IFSC) in India, that has limited liability. 'Limited liability' would mean a structure such as a limited liability company, limited liability partnership, *etc*. where the liability of the person resident in India is clear and limited. In case of a foreign entity being an investment fund or vehicle, duly regulated by the regulator for the financial sector in the host jurisdiction and set up as a trust outside India, the liability of the person resident in India shall be clear and limited not exceeding the interest or contribution in the fund in any manner. Further, the trustee of such fund shall be a person resident outside India.
+
+(ii) **"strategic sector"** shall include energy and natural resources sectors such as Oil, Gas, Coal, Mineral Ores, submarine cable system and start-ups and any other sector or sub-sector as deemed fit by the Central Government. The restriction of limited liability structure of foreign entity shall not be mandatory for entities with core activity in any strategic sector. Accordingly, Overseas Direct Investment (ODI) can be made in such sectors in unincorporated entities as well. An Indian entity is also permitted to participate in a consortium with other international operators to construct and maintain submarine cable systems on co-ownership basis. AD banks may allow remittances for ODI in strategic sector after ensuring that Indian entity has obtained necessary permission from the competent authority, wherever applicable.
+
+(iii) **"control"** means the right to appoint majority of the directors or to control the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shareholding or management rights or shareholders' agreements or voting agreements that entitle them to ten percent or more of voting rights or in any other manner in the entity.
+
+(iv) **"Indian entity"** – the extant concept of Indian party (IP) where all the investors from India in a foreign entity were together considered as IP, has been substituted under the new regime with the concept of Indian entity where each investor entity shall be separately considered as an Indian entity. Indian entity shall mean a company defined under the Companies Act, 2013 or a body corporate incorporated by any law for the time being in force or a Limited Liability Partnership formed under the Limited Liability Partnership Act, 2008 or a partnership firm registered under the Indian Partnership Act, 1932.
+
+4
+
+(v) **"subsidiary"/ "step down subsidiary (SDS)"** of a foreign entity means an entity in which the foreign entity has control and the structure of such subsidiary/SDS shall comply with the structural requirements of a foreign entity, *i.e.*, such subsidiary/SDS shall also have limited liability where the foreign entity's core activity is not in strategic sector. The investee entities of the foreign entity where such foreign entity does not have control (as defined above) shall not be treated as SDSs and therefore need not be reported henceforth.
+
+(vi) **"Overseas Direct Investment (ODI)"** means (i) acquisition of any unlisted equity capital or subscription as a part of the Memorandum of Association of a foreign entity, or (ii) investment in 10% or more of the paid-up equity capital of a listed foreign entity, or (iii) investment with control where investment is less than 10% of the paid-up equity capital of a listed foreign entity.
+
+*Explanation*: Once an investment in a foreign entity is classified as ODI, the investment shall continue to be treated as ODI even if such investment falls below 10% of the paid-up equity capital or the investor loses control in the foreign entity.
+
+(vii) **"equity capital"** means equity shares or perpetual capital or instruments that are irredeemable or contribution to non-debt capital of a foreign entity, which is in the nature of fully and compulsorily convertible instruments. Accordingly, any instrument which is redeemable or non-convertible or optionally convertible shall be treated as debt for the purpose of OI Rules/Regulations/Directions.
+
+(viii) **"financial commitment"** by a person resident in India means the aggregate amount of investment by way of ODI, debt other than Overseas Portfolio Investment (OPI) and non-fundbased facility or facilities extended by it to all foreign entities. An Indian entity may le

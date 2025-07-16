@@ -1,0 +1,37 @@
+/Pre-payment Penalty on Floating Rate Term Loans", both dated August 02, 2019.
+
+<span id="page-1-1"></span><sup>7</sup> [Circular DOR.ORG.REC.65/21.04.158/2022-23](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12378&Mode=0) on 'Outsourcing of Financial Services - Responsibilities of regulated entities employing Recovery Agents' dated August 12, 2022, and other relevant instructions as issued from time to time.
+
+*etc.* A one-time access can be taken for camera, microphone, location or any other facility necessary for the purpose of on-boarding/ KYC requirements only, with the explicit consent of the borrower.
+
+- **10.2.**The borrower shall be provided with an option to give or deny consent for use of specific data, restrict disclosure to third parties, data retention, revoke consent already granted to collect personal data and if required, make the app delete/ forget the data.
+- **10.3.**The purpose of obtaining borrowers' consent needs to be disclosed at each stage of interface with the borrowers.
+- **10.4.**Explicit consent of the borrower shall be taken before sharing personal information with any third party, except for cases where such sharing is required as per statutory or regulatory requirement.
+
+#### **11.Storage of data**
+
+- **11.1.**REs shall ensure that LSPs/DLAs engaged by them do not store personal information of borrowers except some basic minimal data (*viz.,* name, address, contact details of the customer, *etc.*) that may be required to carry out their operations. Responsibility regarding data privacy and security of the customer's personal information will be that of the RE. Withdrawn
+- **11.2.**REs shall ensure that clear policy guidelines regarding the storage of customer data including the type of data that can be stored, the length of time for which data can be stored, restrictions on the use of data, data destruction protocol, standards for handling security breach, *etc.*, are put in place and also disclosed by DLAs of the REs and of the LSP engaged by the RE prominently on their website and the apps at all times.
+- **11.3.**REs shall ensure that no biometric data is stored/ collected in the systems associated with the DLA of REs/ their LSPs, unless allowed under extant statutory guidelines.
+- **11.4.**REs shall ensure that all data is stored only in servers located within India, while ensuring compliance with statutory obligations/ regulatory instructions.
+
+#### **12.Comprehensive privacy policy**
+
+- **12.1.**REs shall ensure that their DLAs and LSPs engaged by them have a comprehensive privacy policy compliant with applicable laws, associated regulations and RBI guidelines. For access and collection of personal information of borrowers, DLAs of REs/LSPs should make the comprehensive privacy policy available publicly.
+- **12.2.**Details of third parties (where applicable) allowed to collect personal information through the DLA shall also be disclosed in the privacy policy.
+- **13.Technology standards** REs shall ensure that they and the LSPs engaged by them comply with various technology standards/ requirements on cybersecurity stipulated by RBI and other agencies, or as may be specified from time to time, for undertaking digital lending.
+
+#### **C. Regulatory Framework**
+
+## **14.Reporting to Credit Information Companies (CICs)**
+
+- **14.1.**As per the provisions of the Credit Information Companies (CIC) (Regulation) Act, 2005; CIC Rules, 2006; CIC Regulations, 2006 and related guidelines issued by RBI from time to time, REs shall ensure that any lending done through their DLAs and/or DLAs of LSPs is reported to CICs irrespective of its nature/ tenor. Withdrawn
+- **14.2.**Extension of structured digital lending products by REs and/or LSPs engaged by REs over a merchant platform involving short term, unsecured/ secured credits or deferred payments, need to be reported to CICs by the REs. REs shall ensure that LSPs, if any, associated with such deferred payment credit products shall abide by the extant outsourcing guidelines issued by the Reserve Bank and be guided by these guidelines.
+
+#### **15. Loss sharing arrangement in case of default:**
+
+As regards the industry practice of offering financial products involving contractual agreements such as First Loss Default Guarantee (FLDG) in which a third party guarantees to compensate up to a certain percentage of default in a loan portfolio of the RE, it is advised that REs shall adhere to the provisions of the [Master](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [Direction – Reserve Bank of India \(Securitisation of Standard Assets\) Directions,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [2021 dated September 24, 2021,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165) especially, synthetic securitisation[8](#page-4-0) contained in Para (6)(c).
+
+Withdrawn
+
+<span id="page-4-0"></span><sup>8</sup> "synthetic securitisation" means a structure where credit risk of 

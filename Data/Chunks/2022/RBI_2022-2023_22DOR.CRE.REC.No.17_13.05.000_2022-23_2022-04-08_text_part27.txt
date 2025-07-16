@@ -1,0 +1,59 @@
+YC should be done as per RBI circular and reported to the Central KYC Registry and the CICs. No document to be collected if the KYC has already been done at the time of opening of the Savings bank Account of the SHG member, or otherwise.
+
+
+#### II. Credit related information[6](#page-4-1)
+
+<span id="page-4-1"></span><span id="page-4-0"></span><sup>5</sup> The bank to pull out information from Central KYC registry as and when that is set up <sup>6</sup> Not applicable, if the group loan is upto Rs. 1,00,000/-.
+
+
+<span id="page-0-0"></span><sup>7</sup> Until the data base of individual SHG members is accumulated in the CICs, this information may be collected and relied upon based on a letter provided by the SHG concerned. 17.2 will not be applicable if the SHG account is regular
+
+
+<span id="page-1-0"></span><sup>8</sup> All SHGs must decide upfront how they propose to utilize the SHG loan. The actual distribution of the loan to individual members wherever it was agreed to be above Rs. 30,000 or where the actual amount disbursed exceeded Rs.30000 thoughnot agreed at the time of taking loan from the bank, must be reported to the bank by the SHG office bearers. Non-adherence to this condition may be taken into account while extending further loan to the SHG or renewing its cash credit limit next time. The banks need to incorporate suitable clauses in the loan agreements relating to penal provisions for providing wrong information regarding the amount of loans taken out of the group loans. Depending upon their experience, banks may also insist on maintenance of verifiable record of the amounts distributed out of bank loans in cases where the average amount of loan availed by the SHG per member exceeds Rs.20,000/-.
+
+**Table 2: Information to be collected from individual SHG members where the total amount of loan to be attributed to or to be availed by the SHG member is upto Rs.30,000[9](#page-2-0)**
+
+
+<span id="page-2-0"></span> <sup>9</sup> To be collected at the time of sanctioning a loan to new SHGs or at the time of renewal of existing loans or granting additional loans to the existing SHGs. With the approval of their boards, the banks with Gross NPA ratio exceeding 10% in the SHG loan segment may fix a lower threshold for collecting the information/data indicated in this Table. This amount will not include any subsidy or margin out of the member's own savings that goes towards funding the activity or the purpose for which the loan is taken (both either back end or front end)
+
+<span id="page-2-1"></span><sup>10</sup> The banks may specifically see if any of the SHG members would fall within the purview of DBR [circular DBR.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9848)  [AML.BC.No.15/14.01.001/2015-16 dated 1 July 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9848) relating to introduction of simplified measures for proof of identity by RBI and offer Small Deposit Accounts/Basic Saving Bank Deposit Account to them. Wherever a SHG member is willing to open such an account, the KYC should be done as per RBI circular and reported to the Central KYC Registry and the CICs. No document to be collected if the KYC has already been done at the time of opening of the Savings bank Account of the SHG member, or otherwise.
+
+
+<span id="page-3-0"></span><sup>11</sup> The bank to pull out information from Central KYC registry as and when that is set up
+
+
+<span id="page-4-0"></span><sup>12</sup> Not applicable, if the group loan is upto Rs.1,00,000/-
+
+# **Information to be uploaded/submitted to the CICs**
+
+# **Table 3[13](#page-0-0): Information on all individual SHG members to be reported by banks to CICs**
+
+
+<span id="page-0-0"></span><sup>13</sup> RBI has set up a Standing Technical Working Group comprising representatives from various credit institutions and CICs to institutionalise a continuing mechanism for reviewing and making changes where necessary to the data formats. This Group shall suitably adapt Table 3 for the purpose of reporting of data by banks to the CICs electronically
+
+
+<span id="page-1-0"></span><sup>14</sup> Not applicable, if the group loan is upto Rs. 1,00,000/-.
+
+# **Table 4: Information on individual SHG members to be collected at the time of opening of new SHG Savings Bank Accounts of the SHG**
+
+
+<span id="page-2-0"></span> <sup>15</sup> The banks may specifically see if any of the SHG members would fall within the purview of DBR [circular](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9848)  [DBR. AML.BC.No.15/14.01.001/2015-16 dated 1 July 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9848) relating to introduction of simplified measures for proof of identity by RBI and offer Small Deposit Accounts/Basic Saving Bank Deposit Account to them. Wherever a SHG member is willing to open such an account, the KYC should be done as per RBI circular and reported to the Central KYC Registry and the CICs
+
+<span id="page-2-1"></span><sup>16</sup> The banks will pull out information from Central KYC registry as and when that is set up
+
+
+#### **Appendix**
+
+
+#### **A. List of Circulars consolidated in the Master Circular**
+
+
+
+
+
+
+
+
+
+## **B. List of Other Circulars from which instructions relating to Management of Advances have also been consolidated in the Master Circular**
+

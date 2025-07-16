@@ -1,0 +1,30 @@
+subject to separately calculated capital charges that incorporate both general market risk and specific risk. The risk numbers thus generated are then added to the capital charges for the relevant category, i.e., interest rate related instruments, equities, and foreign exchange as described in paragraph 8.3 to 8.5 of this Master Circular. The delta-plus method uses the sensitivity parameters or "Greek letters" associated with options to measure their market risk and capital requirements. Under this method, the delta-equivalent position of each option becomes part of the standardised methodology set out in paragraph 8.3 to 8.5 of this Master Circular with the delta-equivalent amount subject to the applicable general market risk charges. Separate capital charges are then applied to the gamma and Vega risks of the option positions. The *scenario approach* uses simulation techniques to calculate changes in the value of an options portfolio for changes in the level and volatility of its associated underlyings. Under this approach, the general market risk charge is determined by the scenario "grid" (i.e., the specified combination of underlying and volatility changes) that produces the largest loss. For the delta-plus method and the scenario approach the specific risk capital charges are determined separately by multiplying the delta-equivalent of each option by the specific risk weights set out in paragraph 8.3 to 8.4 of this Master Circular.
+
+### **I. Simplified Approach**
+
+3. Banks which handle a limited range of purchased options only will be free to use the simplified approach set out in Table B below, for particular trades. As an example of how the calculation would work, if a holder of 100 shares currently valued at Rs.10 each holds an equivalent put option with a strike price of Rs.11, the capital charge would be: Rs.1,000 x 18 per cent (i.e., 9 per cent specific plus 9 per cent general market risk) = Rs.180, less the amount the option is in the money (Rs.11 – Rs.10) x 100 = Rs.100, i.e., the capital charge would be Rs.80. A similar methodology applies for options whose underlying is a foreign currency or an interest rate related instrument.
+
+<sup>201</sup> Unless all their written option positions are hedged by perfectly matched long positions in exactly the same options, in which case no capital charge for market risk is required.
+
+
+**Table B -** *Simplified approach: capital charges*
+
+### **II. Intermediate Approaches**
+
+### **(a) Delta-plus Method**
+
+4. Banks which write options will be allowed to include delta-weighted options positions within the standardised methodology set out in paragraph 8.3 to 8.5 of this Master Circular. Such options should be reported as a position equal to the market value of the underlying multiplied by the delta.
+
+However, since delta does not sufficiently cover the risks associated with options positions, banks will also be required to measure gamma (which measures the rate of change of delta) and Vega (which measures the sensitivity of the value of an option with respect to a change in volatility) sensitivities in order to calculate the total capital charge. These sensitivities will be calculated according to an approved exchange model or to the bank's proprietary options pricing model subject to oversight by the Reserve Bank of India <sup>206</sup> .
+
+5. Delta-weighted positions with *debt securities or interest rates as the underlying* will be slotted into the interest rate time-bands, as set out in **Table 15** of paragraph 8.3 of this Master
+
+ <sup>202</sup> In some cases, such as foreign exchange, it may be unclear which side is the "underlying security"; this should be taken to be the asset which would be received if the option were exercised. In addition, the nominal value should be used for items where the market value of the underlying instrument could be zero, e.g., caps and floors, swaptions etc.
+
+<sup>203</sup> Some options (e.g., where the underlying is an interest rate or a currency) bear no specific risk, but specific risk shall be present in the case of options on certain interest rate-related instruments (e.g., options on a corporate debt security or corporate bond index; see Section B for the relevant capital charges) and for options on equities and stock indices (see Section C). The charge under this measure for currency options will be 9 per cent.
+
+<sup>204</sup> For options with a residual maturity of more than six months, the strike price should be compared with the forward, not current, price. A bank unable to do this must take the "in-the-money" amount to be zero.
+
+<sup>205</sup> Where the position does not fall within the trading book (i.e., options on certain foreign exchange or commodities positions not belonging to the trading book), it may be acceptable to use the book value instead.
+
+<sup>206</sup> Reserve Bank of India may wish to require banks doing business in certain classes of exotic options (e.g., barriers, digitals) or in options "at-

@@ -1,0 +1,29 @@
+in the option portfolio's risk factors and calculating changes in the value of the option portfolio at various points along this "grid". For the purpose of calculating the capital charge, the bank will revalue the option portfolio using matrices for simultaneous changes in the option's underlying rate or price and in the volatility of that rate
+
+<sup>209</sup> The basic rules set out here for interest rate and equity options do not attempt to capture specific risk when calculating gamma capital charges. However, Reserve Bank may require specific banks to do so.
+
+<sup>210</sup> Positions have to be slotted into separate maturity ladders by currency.
+
+<sup>211</sup> Banks using the duration method should use the time-bands as set out in Table 16 of this Master Circular.
+
+or price. A different matrix will be set up for each individual underlying as defined in paragraph 7 above. As an alternative, at the discretion of each national authority, banks which are significant traders in options for interest rate options will be permitted to base the calculation on a minimum of six sets of time-bands. When using this method, not more than three of the time-bands as defined in paragraph 8.3 of this Master Circular should be combined into any one set.
+
+9. The options and related hedging positions will be evaluated over a specified range above and below the current value of the underlying. The range for interest rates is consistent with the assumed changes in yield in Table-15 of paragraph 8.3 of this Master Circular. Those banks using the alternative method for interest rate options set out in paragraph 8 above should use, for each set of time-bands, the highest of the assumed changes in yield applicable to the group to which the time-bands belong <sup>212</sup> . The other ranges are ±9 per cent for equities and ±9 per cent for foreign exchange and gold. For all risk categories, at least seven observations (including the current observation) should be used to divide the range into equally spaced intervals.
+
+10. The second dimension of the matrix entails a change in the volatility of the underlying rate or price. A single change in the volatility of the underlying rate or price equal to a shift in volatility of + 25 per cent and - 25 per cent is expected to be sufficient in most cases. As circumstances warrant, however, the Reserve Bank may choose to require that a different change in volatility be used and / or that intermediate points on the grid be calculated.
+
+11. After calculating the matrix, each cell contains the net profit or loss of the option and the underlying hedge instrument. The capital charge for each underlying will then be calculated as the largest loss contained in the matrix.
+
+12. In drawing up these intermediate approaches it has been sought to cover the major risks associated with options. In doing so, it is conscious that so far as specific risk is concerned, only the delta-related elements are captured; to capture other risks would necessitate a much more complex regime. On the other hand, in other areas the simplifying assumptions used have resulted in a relatively conservative treatment of certain options positions.
+
+13. Besides the options risks mentioned above, the RBI is conscious of the other risks also associated with options, e.g., rho (rate of change of the value of the option with respect to the interest rate) and theta (rate of change of the value of the option with respect to time). While not proposing a measurement system for those risks at present, it expects banks undertaking significant options business at the very least to monitor such risks closely. Additionally, banks will be permitted to incorporate rho into their capital calculations for interest rate risk, if they wish to do so.
+
+ <sup>212</sup> If, for example, the time-bands 3 to 4 years, 4 to 5 years and 5 to 7 years are combined, the highest assumed change in yield of these three bands would be 0.75.
+
+(cf. para 13.5)
+
+## **An Illustrative Approach for Measurement of Interest Rate Risk in the Banking Book (IRRBB) under Pillar 2**
+
+The Basel-II Framework<sup>213</sup> (Paragraphs 739 and 762 to 764) require the banks to measure the interest rate risk in the banking book (IRRBB) and hold capital commensurate with it. If supervisors determine that banks are not holding capital commensurate with the level of interest rate risk, they must require the bank to reduce its risk, to hold a specific additional amount of capital or some combination of the two. To comply with the requirements of Pillar 2 relating to IRRBB, the guidelines on Pillar 2 issued by many regulators contain definite provisions indicating the approach adopted by the supervisors to assess the level of interest rate risk in the banking book and the action to be taken in case the level of interest rate risk found is significant.
+
+In terms of para 764 of the Basel II framework, the banks can follow the indicative methodology prescribed in the supporting document "P

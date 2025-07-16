@@ -1,0 +1,29 @@
+oan will be treated as Non Performing Asset (NPA).
+
+(v) Such loans shall be governed by the extant income recognition, asset classification and provisioning norms which shall be applicable once the principal and interest become overdue.
+
+7.5.3 Crop loans sanctioned against the collateral security of gold ornaments shall continue to be governed by the extant income recognition, asset classification and provisioning norms for such loans.
+
+7.5.4 Hallmarking of gold jewellery ensures the quality of gold used in the jewellery as to caratage, fineness and purity. Banks would find granting of advances against the security of such hallmarked jewellery safer and easier. Preferential treatment of hallmarked jewellery is likely to encourage practice of hallmarking which will be in the long-term interest of consumers, lenders and the industry. Therefore, banks while considering granting advances against jewellery may keep in view the advantages of hallmarked jewellery and decide on the margin and rates of interest thereon.
+
+7.5.5 In view of the concerns arising out of the significant rise in import of gold in recent years, UCBs were advised not to grant any advance for purchase of gold in any form, including primary gold, gold bullion, gold jewellery, gold coins, units of gold Exchange Traded Funds (ETF) and units of gold Mutual Funds.
+
+7.5.6 As a prudential measure, it has been decided to prescribe a Loan to Value (LTV) Ratio of not exceeding 75 per cent for UCBs' lending against gold jewellery (including bullet repayment loans against pledge of gold jewellery). Further, in order to standardize the valuation and make it more transparent to the borrower, it has been decided that gold jewellery accepted as security/collateral will have to be valued at the average of the closing price of 22 carat gold for the preceding 30 days as quoted by the India Bullion and Jewellers Association Ltd. [Formerly known as the Bombay Bullion Association Ltd. (BBA)]. In terms of [circular DCBR.BPD. \(PCB/RCB\). Cir. No. 3/13.05.001/2015-16 dated October 15, 2015,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10075&Mode=0) UCBs may also use the historical spot gold price data of the preceding 30 days publicly disseminated by a Commodity Exchange regulated by the Securities and Exchange Board of India. If the gold is of purity less than 22 carats, the bank should translate the collateral into 22 carat and value the exact grams of the collateral. In other words, jewellery of lower purity of gold shall be valued proportionately.
+
+#### **Grant of Loans for Acquisition of / Investing in Small Savings Instruments including Kisan Vikas Patras (KVP):**
+
+7.6 Grant of loans for acquiring / investing in KVPs does not promote fresh savings and, rather, channelise the existing savings in the form of bank deposits to small savings instruments and thereby defeat the very purpose of such schemes. Banks may therefore ensure that no loans are sanctioned for acquisition of / investing in small savings instruments including KVPs.
+
+### **7.7 Lending to Public Sector Undertakings**
+
+UCBs are advised, as a matter of principle, generally not to grant large value loans to Public Sector / Government Undertakings.
+
+## **8. Discounting / Rediscounting of Bills by Banks**
+
+UCBs may adhere to the following guidelines while purchasing / discounting / negotiating / rediscounting of genuine commercial / trade bills:
+
+8.1 Since banks have already been given freedom to decide their own guidelines for assessing / sanctioning working capital limits of borrowers, they may sanction working capital limit as also bills limit to borrowers after proper appraisal of their credit needs and in accordance with the loan policy as approved by their Board of Directors.
+
+8.2 Banks should clearly lay down a bill discounting policy approved by their Board of Directors, which should be consistent with their policy of sanctioning of working capital limits. In this case, the procedure for Board approval should include banks' core operating process from the time the bills are tendered till these are realised. Banks may review their core operating processes and simplify the procedure in respect of bills financing. In order to address the problem of delay in realisation of bills, banks may take advantage of improved computer / communication network like Structured Financial Messaging System (SFMS), wherever available, and adopt the system of 'value dating' of their clients' accounts.
+
+8.3 Banks should open letters of credit (LCs) and purchase / discount / negotiate bills under LCs only in respect of genuine commercial and trade transactions of their borrower constituents who have been sanctioned regular credit facilities by the banks. Banks should not, therefore, extend fund based (including bills financing) or non-fund based facilities like opening of LCs, providing guarantees and acceptances to non-constituent borrower or / and non-constituent member of a consortium / multiple banking

@@ -1,0 +1,61 @@
+ponding credit in an account styled as "Sundry Liabilities Account (Interest Capitalization)".
+
+(iii) Only on repayment in case of FITL, the amount received will be recognized in the P&L Account, while simultaneously reducing the balance in the "Sundry Liabilities Account (Interest Capitalisation)".
+
+(e) Special Regulatory Treatment for Asset Classification
+
+2.2.7.23 The special regulatory treatment for asset classification, in modification to the provisions in this regard stipulated in para 2.2.7.1 to 2.2.7.8, will be available to the borrowers engaged in important business activities, subject to compliance with certain conditions as enumerated in para 2.2.7.28 below. Such treatment is not extended to the following categories of advances:
+
+(i) Consumer and personal advances including advances to individuals against the securities of shares / bonds / debentures, etc.
+
+(ii) Advances to traders
+
+2.2.7.24 The asset classification of the above two categories of accounts as well as that of other accounts which do not comply with the conditions enumerated in para 2.2.7.28, will be governed by the prudential norms in this regard described in para 2.2.7.1 to 2.2.7.8 above.
+
+(f) Elements of Special Regulatory Framework
+
+2.2.7.25 The special regulatory treatment has the following two components:
+
+(i) Incentive for quick implementation of the restructuring package.
+
+(ii) Retention of the asset classification of the restructured account in the pre restructuring asset classification category
+
+2.2.7.26 Incentive for Quick Implementation of the Restructuring Package
+
+During the pendency of the application for restructuring of the advance with the bank, the usual asset classification norms would continue to apply. The process of reclassification of an asset should not stop merely because the application is under consideration. However, as an incentive for quick implementation of the package, if the approved package is implemented by the bank within 90 days from the date of receipt of application by the bank, the asset classification status may be restored to the position which existed when the restructuring application was received by the bank.
+
+2.2.7.27 Asset Classification Benefits
+
+Subject to the compliance with the undernoted conditions in addition to the adherence to the prudential framework laid down in para 2.2.7.1 to 2.2.7.8:
+
+(i) In modification to para 2.2.7.2, an existing 'standard asset' will not be downgraded to the sub-standard category upon restructuring.
+
+(ii) In modification to para 2.2.7.3, during the specified period, the asset classification of the sub-standard / doubtful accounts will not deteriorate upon restructuring, if satisfactory performance is demonstrated during the specified period.
+
+2.2.7.28 However, these benefits will be available subject to compliance with the following conditions:
+
+i) The dues to the bank are 'fully secured' as defined in [Annex 5.](#page--1-0) The condition of being fully secured by tangible security will not be applicable in the following cases :
+
+(a) SSI borrowers, where the outstanding is up to ₹25 lakh.
+
+(b) infrastructure projects, provided the cash flows generated from these projects are adequate for repayment of the advance, the financing bank(s) have in place an appropriate mechanism to escrow the cash flows, and also have a clear and legal first claim on these cash flows.
+
+(c) WCTL created by conversion of the irregular portion of principal dues over the drawing power, subject to the condition that provisions are made against the unsecured portion of the WCTL, as under :
+
+- Standard Assets : 20%
+- Substandard Assets : 20% during the first year and to be increased by 20% every year thereafter until the specified period (one year after the first payment is due under the terms of restructuring)
+- If the account is not eligible for upgradation after the specified period, the unsecured portion will attract provision of 100%.
+
+ii) The unit becomes viable in 10 years, if it is engaged in infrastructure activities, and in 7 years in the case of other units.
+
+iii) The repayment period of the restructured advance including the moratorium, if any, does not exceed 15 years in the case of infrastructure advances and 10 years in the case of other advances. The Board of Directors of the banks should prescribe the maximum period not exceeding 15 years for restructured advances keeping in view the safety and soundness of advances.
+
+iv) Promoters' sacrifice and additional funds brought by them should be a minimum of 15% of banks' sacrifice.
+
+v) Personal guarantee is offered by the promoter except when the unit is affected by external factors pertaining to the economy and industry.
+
+vi) The restructuring under consideration is not a 'repeated restructuring' as defined in para (iv) of [Annex 5.](#page--1-0)
+
+(g) Disclosures
+
+2.2.7.29 Banks should disclose in their published annual Balance Sheets, under 'Notes on Accounts', information relating to number and amount of advances restr

@@ -1,0 +1,42 @@
+increments).
+
+21.4 The overarching principle should be that valuation of instruments arising out of resolution of stressed assets shall be based on conservative assessment of cash flows and appropriate discount rates to reflect the stressed cash flows of the borrowers. Statutory Auditors should also specifically examine as to whether the valuations of such instruments reflect the risk of loss associated with such instruments.
+
+21.5 In case lenders have acquired unquoted instruments on conversion of debt as a part of a RP, and if the RP is not deemed as implemented, such unquoted instruments shall collectively be valued at Re. 1 at that point, and till the RP is treated as implemented.
+
+21.6 The unrealised income represented by FITL / Debt or equity instrument should have a corresponding credit in an account styled as "Sundry Liabilities Account (Interest Capitalization)".
+
+52
+
+21.7 The unrealised income represented by FITL / Debt or equity instrument can only be recognised in the profit and loss account as under:
+
+- a) FITL/debt instruments: only on sale or redemption, as the case may be;
+- b) Unquoted equity/ quoted equity (where classified as NPA): only on sale;
+- c) Quoted equity (where classified as standard): market value of the equity as on the date of upgradation, not exceeding the amount of unrealised income converted to such equity. Subsequent changes to value of the equity will be dealt as per the extant prudential norms on investment portfolio of banks.
+
+## 22.Change in Ownership
+
+22.1 In case of change in ownership of the borrowing entities, credit facilities of the concerned borrowing entities may be continued/upgraded as 'standard' after the change in ownership is implemented, either under the IBC or under this framework. If the change in ownership is implemented under this framework, then the classification as 'standard' shall be subject to the following conditions:
+
+- a) Lenders shall conduct necessary due diligence in this regard and clearly establish that the acquirer is not a person disqualified in terms of Section 29A of the IBC. Additionally, the 'new promoter' should not be a person/entity/subsidiary/associate etc. (domestic as well as overseas), from the existing promoter/promoter group. Lenders should clearly establish that the acquirer does not belong to the existing promoter group (as defined in Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018).
+- b) The new promoter shall have acquired at least 26 per cent of the paid up equity capital as well as voting rights of the borrower entity and shall be the single largest shareholder of the borrower entity.
+- c) The new promoter shall be in 'control' of the borrower entity as per the definition of 'control' in the Companies Act, 2013 / regulations issued by the Securities and Exchange Board of India/any other applicable regulations / accounting standards as the case may be.
+- d) The conditions for implementation of RP as laid out in Part B1 of this Master Circular are complied with.
+
+22.2 Upon change in ownership, all the outstanding loans/credit facilities of the borrowing entity need to demonstrate satisfactory performance (as defined at footnote 16) during the monitoring period. If the account fails to perform satisfactorily at any point of time during the monitoring period, it shall trigger a fresh Review Period, in terms of Paragraph 9.1 above.
+
+22.3 The quantum of provisions held (excluding additional provisions) by the bank against the said account as on the date of change in ownership of the borrowing entities can be reversed only after the end of monitoring period subject to satisfactory performance during the same.
+
+23. Principles on classification of sale and lease back transactions as restructuring
+
+23.1 A sale and leaseback transaction of the assets of a borrower or other transactions of similar nature will be treated as an event of restructuring for the purpose of asset classification and provisioning in the books of lenders with regard to the residual debt of the seller as well as the debt of the buyer if all the following conditions are met:
+
+- a) The seller of the assets is in financial difficulty;
+- b) Significant portion, i.e. more than 50 per cent, of the revenues of the buyer from the specific asset is dependent upon the cash flows from the seller; and
+- c) 25 per cent or more of the loans availed by the buyer for the purchase of the specific asset is funded by the lenders who already have a credit exposure to the seller.
+
+## 24. Prudential Norms relating to Refinancing of Exposures to Borrowers If borrowings/export advances (denominated in any currency, wherever permitted) for the purpose of repayment/refinancing of loans denominated in same/another currency are obtained:
+
+a) From lenders who are part of Indian banking system (where permitted); or
+
+b) with the support (where permitted) from the Indian banking system in the form of Guarantees/Standby Letters of Cr

@@ -1,0 +1,81 @@
+mmittee will review the issue further for an appropriate treatment in this regard.
+
+<sup>131</sup> Cash variation margin exchanged on the morning of the subsequent trading day based on the previous, end-ofday market values would meet this criterion, provided that the variation margin exchanged is the full amount that would be necessary to fully extinguish the mark-to-market exposure of the derivative subject to applicable threshold and minimum transfer amounts.
+
+<sup>132</sup> A Master MNA may be deemed to be a single MNA for this purpose.
+
+<sup>133</sup> To the extent that the criteria in this paragraph include the term "master netting agreement", this term should be read as including any "netting agreement" that provides legally enforceable rights of offsets. This is to take account of the fact that no standardisation has currently emerged for netting agreements employed by CCPs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- (ii) bankruptcy, insolvency or inability of the obligor to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and analogous events; and
+- (iii) restructuring of the underlying obligation (as contemplated in the IDMD guidelines on CDS dated May 23, 2011) involving forgiveness or postponement of principal, interest or fees that results in a credit loss event (i.e. charge-off, specific provision or other similar debit to the profit and loss account);
+- (iv) when the restructuring of the underlying obligation is not covered by the CDS, but the other requirements in paragraph 4 are met, partial recognition of the CDS will be allowed. If the amount of the CDS is less than or equal to the amount of the underlying obligation, 60% of the amount of the hedge can be recognised as covered. If the amount of the CDS is larger than that of the underlying obligation, then the amount of eligible hedge is capped at 60% of the amount of the underlying obligation.
+- (f) If the CDS specifies deliverable obligations that are different from the underlying obligation, the resultant asset mismatch will be governed under paragraph (k) below.
+- (g) The CDS shall not terminate prior to expiration of any grace period required for a default on the underlying obligation to occur as a result of a failure to pay<sup>190</sup> .
+- (h) The CDS allowing for cash settlement are recognised for capital purposes insofar as a robust valuation process is in place in order to estimate loss reliably. There should be a clearly specified period for obtaining post-credit event valuations of the underlying obligation. If the reference obligation specified in the CDS for purposes of cash settlement is different than the underlying obligation, the resultant asset mismatch will be governed under paragraph (k) below.
+- (i) If the protection purchaser's right/ability to transfer the underlying obligation to the protection provider is required for settlement, the terms of the underlying obligation should provide that any required consent to such transfer may not be unreasonably withheld.
+- (j) The identity of the parties responsible for determining whether a credit event has occurred should be clearly defined. This determination should not be the sole responsibility of the protection seller. The protection buyer should have the right/ability to inform the protection provider of the occurrence of a credit event.
+
+<sup>190</sup> The maturity of the underlying exposure and the maturity of the hedge should be defined conservatively. The effective maturity of the underlying should be gauged as the longest possible remaining time before the counterparty is scheduled to fulfill its obligation, taking into account any applicable grace period.
+
+- (k) A mismatch between the underlying obligation and the reference obligation or deliverable obligation under the CDS (i.e. the obligation used for purposes of determining cash settlement value or the deliverable obligation) is permissible if (1) the reference obligation or deliverable obligation ranks *pari passu* with or is junior to the underlying obligation, and (2) the underlying obligation and reference obligation or deliverable obligation share the same obligor (i.e. the same legal entity) and legally enforceable cross-default or cross-acceleration clauses are in place.
+- (l) A mismatch between the underlying obligation and the obligation used for purposes of determining whether a credit event has occurred is permissible if (1) the latter obligation ranks *pari passu* with or is junior to the underlying obligation, and (2) the underlying obligation and reference obligation share the same obligor (i.e. the same legal entity) and legally enforceable cross-default or cross acceleration clauses are in place.
+
+## **5. Capital Adequacy Requirement for CDS Positions in the Banking Book**
+
+## **5.1 Recognition of External/Third-party CDS Hedges**
+
+5.1.1 In case of Banking Book positions hedged by bought CDS positions, no exposure

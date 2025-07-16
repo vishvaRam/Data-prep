@@ -1,0 +1,46 @@
+r the prudential norms, the total specific provision may be deducted from the amount of Gross NPAs while reporting the amount of Net NPAs. The additional specific provision made by the bank will not be reckoned as Tier II capital.
+
+#### (c) Excess Provisions on transfer of stressed loans to Asset Reconstruction Companies (ARC)
+
+In terms of instructions issued vid[e Reserve Bank of India \(Transfer of Loan](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166)  [Exposures\) Directions, 2021 dated September 24, 2021,](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12166) when the stressed loan is transferred to ARC at a price higher than the Net Book Value (NBV) at the time of transfer, UCBs shall reverse the excess provision on transfer to the profit and loss account in the year the amounts are received and only when the sum of cash received by way of initial consideration and / or redemption or transfer of Security Receipts (SR) / Pass Through Certificates (PTCs)/ other securities issued by ARCs is higher than the NBV of the loan at the time of transfer. Further, such reversal shall be limited to the extent to which cash received exceeds the NBV of the loan at the time of transfer.
+
+Until reversal, such excess provisions shall continue to be shown under 'provisions' and would be considered as Tier II capital subject to the overall ceiling of 1.25% of risk weighed assets.
+
+## (d) Provisions for Diminution in Fair Value
+
+Provisions for diminution in the fair value of restructured accounts, both in respect of standard assets and NPAs, are permitted to be netted from the relative loan asset and will not be reckoned as Tier II capital.
+
+#### **3.2.3 Investment Fluctuation Reserve**
+
+Balances in the Investment Fluctuation Reserve created out of appropriation of net profit from the realised gains from the sale of investments held in AFS & HFT can be reckoned as Tier II capital.
+
+#### **3.2.4 Tier-II capital instruments**
+
+UCBs may issue the following instruments to augment their Tier-II capital:
+
+a) Upper Tier-II instruments - Perpetual Cumulative Preference Shares
+
+(PCPS), Redeemable Non-Cumulative Preference Shares (RNCPS) and Redeemable Cumulative Preference Shares (RCPS) which comply with the regulatory requirements as specified in [Annex-II.](#page--1-0)
+
+b) Lower Tier-II instruments - Long Term Subordinated Bonds (LTSB) which comply with the regulatory requirements as specified in [Annex-III.](#page--1-0)
+
+*Note: Outstanding Long Term (Subordinated) Deposits (LTD) which were issued in terms of Annex-II to the [circular UBD.PCB.Cir.No.4/09.18.201/08-09 dated July](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4370&Mode=0)  [15, 2008,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4370&Mode=0) and subsequent amendments thereto, shall also be eligible to be reckoned as Tier-II capital subject to the ceilings prescribed in [Annex-III](#page--1-0) to this Master Circular. It may be noted that the circular dated July 15, 2008 has since been repealed vide [circular No.DOR.CAP.REC.92/09.18.201/2021-22 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0)  [March 08, 2022.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0)*
+
+# **4. Capital for Market Risk**
+
+4.1 Market risk is defined as the risk of losses in on-balance sheet and off- balance sheet positions arising from movements in market prices. The market risk positions, which are subject to capital charge are as under:
+
+- The risks pertaining to interest rate related instruments and equities in the trading book; and
+- Foreign exchange risk (including open position in precious metals) throughout the bank (both banking and trading books).
+
+4.2 As an initial step towards prescribing capital requirement for market risks, UCBs were advised to assign an additional risk weight of 2.5 per cent on investments. These additional risk weights are clubbed with the risk weights prescribed for credit risk in respect of investment portfolio of UCBs as per [Annex-I,](#page--1-0) and banks are not required to provide for the same separately. Further, UCBs are advised to assign a risk weight of 100% on the open position limits on foreign exchange and gold, and to build up investment fluctuation reserve as per extant instructions.
+
+4.3 UCBs having AD Category I licence are required to provide capital for market risk in terms of [circular UBD.BPD\(PCB\)Cir.No.42/09.11.600/2009-10 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5495&Mode=0) [February](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5495&Mode=0) 8, 2010.
+
+# **5. Share linking to Borrowings**
+
+Borrowings from UCBs shall be linked to shareholdings of the borrowing members as below:
+
+- (i) 5 per cent of the borrowings, if the borrowings are on unsecured basis.
+- (ii) 2.5 per cent of the borrowings, in case of secured borrowings.
+- (iii) In case of secured borrowings by Micro and Small Enterprises (MSEs), 2.5 pe

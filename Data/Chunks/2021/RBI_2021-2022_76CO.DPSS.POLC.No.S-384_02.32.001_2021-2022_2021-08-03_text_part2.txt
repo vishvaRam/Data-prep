@@ -1,0 +1,35 @@
+, etc.;
+- f) Exit Strategy Risk When over-reliant on one firm, the PSO loses related skills internally, and it becomes difficult to bring the activity back in-house; and where the PSO has entered into contracts that makes speedy exit prohibitively expensive;
+- g) Legal Risk Where the PSO is subjected to fines, penalties, or punitive damages resulting from supervisory actions, as well as to private settlements due to acts of omission and commission by the service provider;
+- h) Operational Risk Arising due to technology failure, fraud, error, inadequate financial capacity to fulfil obligations and / or to provide remedies;
+- i) Reputation Risk Where the service provided is poor and customer interaction is inconsistent with the overall standard expected from the PSO; and
+- j) Strategic Risk Where the service provider conducts business on its own behalf, inconsistent with the overall strategic goals of the PSO.
+- 1.9. It is essential that the PSO, which is outsourcing its activities, ensures the following:
+	- a) Exercises due diligence, puts in place sound and responsive risk management practices for effective oversight, and manages the risks arising from such outsourcing of activities.
+	- b) Outsourcing arrangements do not impede its effective supervision by RBI.
+- 1.10. Outsourcing of activities by the PSOs shall not require prior approval from RBI.
+
+#### 2. **Activities that shall not be outsourced**
+
+2.1. The PSOs shall not outsource core management functions[3](#page-2-0) , including risk management and internal audit; compliance and decision-making functions such as determining compliance with KYC norms. However, while internal audit function itself
+
+<span id="page-2-0"></span><sup>3</sup> Core management functions should include, but not be confined to, management of payment system operations (netting, settlement, etc.); transaction management (reconciliation, reporting and item processing); according sanction to merchants for acquiring; managing customer data; risk management; information technology & information security management; etc.
+
+is a management process, the auditors for this purpose can be appointed by the PSO from its own employees or from the outside on contract.
+
+### 3. **Criticality of outsourcing**
+
+3.1. The PSO shall carefully evaluate the need for outsourcing its critical processes and activities, as also selection of service provider(s) based on comprehensive risk assessment. The critical processes are those, which if disrupted, shall have the potential to significantly impact the business operations, reputation, profitability and / or customer service.
+
+#### 4. **PSO's role and regulatory and supervisory requirements**
+
+- 4.1. Outsourcing of any activity by the PSO shall not reduce its obligations, and those of its board and senior management, who are ultimately responsible for the outsourced activity. The PSO shall, therefore, be liable for the actions of its service providers and shall retain ultimate control over the outsourced activity.
+- 4.2. The PSO, while exercising due diligence in respect of outsourcing, shall consider all relevant laws, regulations, guidelines and conditions of authorisation / approval, licensing or registration.
+- 4.3. Outsourcing arrangements shall not affect the rights of a customer of a payment system against the PSO, as well as those of a payment system participant against the PSO, including her / his ability to avail grievance redressal as applicable under the relevant laws. Responsibility of addressing the grievances of its customers shall rest with the PSO, including in respect of the services provided by the outsourced agency (i.e., service provider).
+- 4.4. A PSO, which has outsourced its customer grievance redressal function, must also provide its customers the option of direct access to its nodal officials for raising and / or escalating complaints. Such access should be enabled through adequate phone numbers, e-mail ids, postal address, etc., details of which shall be displayed prominently on its website, mobile applications, advertisements, etc., and adequate awareness shall also be created about the availability of this recourse.
+- 4.5. If the customer is required to have an interface with the service provider to avail products of the PSO, then the PSO shall state the same through the product literature / brochure, etc., and also indicate therein the role of such service provider.
+- 4.6. A PSO must ensure that outsourcing does not impede or interfere with the ability of the PSO to effectively oversee and manage its activities; nor does it prevent RBI from carrying out its supervisory functions and objectives.
+
+### 5. **Outsourcing policy**
+
+5.1. To outsource any of its payment and settlement-related activities, the PSO shall have a board-approved comprehensive outsourcing policy, which incorporates, inter-alia, criteria for selection of such activities and service providers; parameters for grading the criticality of outsourcing; delegation o

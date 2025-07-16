@@ -1,0 +1,51 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_3.jpeg)
+
+[www.rbi.org.in](https://www.rbi.org.in/)
+
+RBI/2022-23/32 DOR.CRE.REC.24/21.01.003/2022-23 April 19, 2022
+
+All Non-Banking Financial Companies
+
+Madam/ Dear Sir,
+
+# **Large Exposures Framework for Non-Banking Financial Company - Upper Layer (NBFC-UL)**
+
+Please refer to paragraph 3.2.2 (d) of [RBI circular DOR.CRE.REC.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12179&Mode=0) [No.60/03.10.001/2021-22 dated October 22, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12179&Mode=0) on "Scale Based Regulation (SBR): A Revised Regulatory Framework for NBFCs", in terms of which a Large Exposure Framework (LEF) is prescribed for NBFCs in the Upper Layer.
+
+2. Detailed guidelines in this regard are [annexed.](#page--1-0)
+
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+## **Large Exposures Framework (LEF)**
+
+### **1 Introduction**
+
+1.1 Prudential guidelines on exposure norms aim at addressing credit risk concentration in NBFCs. These instructions set out to identify large exposures, refine the criteria for grouping of connected counterparties and put in place reporting norms for large exposures.
+
+#### **2 Definitions**
+
+- 2.1 "NBFC-UL" means an NBFC placed in the upper layer as per RBI [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12179&Mode=0)  [DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12179&Mode=0) on "Scale Based Regulation (SBR): A Revised Regulatory Framework for NBFCs".
+- 2.2 "Tier I Capital" for the purpose of the guidelines shall have the same meaning as defined in the Master Direction - [Non-Banking Financial Company -](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) Systemically [Important Non-Deposit taking Company and Deposit taking Company \(Reserve](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586)  [Bank\) Directions, 2016.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10586) Further, profits accrued during the year will be reckoned as Tier I capital for the purpose of LEF after making necessary adjustments as per the guidelines applicable to NBFC-UL. The NBFC-UL shall obtain an external auditor's certificate on completion of the augmentation of capital and submit the same to the Reserve Bank of India (Department of Supervision) before reckoning the additions to capital funds.
+- 2.3 "Eligible capital base" means Tier 1 capital as defined at paragraph 2.2 above.
+- 2.4 "Control[1](#page--1-1)" means the right to appoint majority of the directors or to control the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shareholding or management rights or shareholders' agreements or voting agreements or in any other manner.
+
+ <sup>1</sup> Clause (27) of Section 2 of the Companies Act, 2013
+
+- 2.5 "Group of connected counterparties" means two or more (natural or legal) persons who satisfy at least one of the following conditions:
+	- a) Control relationship: one person directly or indirectly, has control over the other(s), or such persons are under the common control of a third party (irrespective of whether the NBFC has exposure to the third party or not). Control relationship criteria is automatically satisfied if one entity owns more than 50 percent of the voting rights of the other entity;
+	- b) Economic interdependence: In establishing connectedness based on economic interdependence, NBFC-UL must consider, at a minimum, the following criteria:
+		- Where 50% or more of one counterparty's gross receipts or gross expenditure (on an annual basis) is derived from transactions with the other counterparty;
+		- Where one counterparty has fully or partly guaranteed the exposure of the other counterparty, or is liable by other means, and the exposure is so significant that the guarantor is likely to default if a claim occurs;
+		- Where a significant part of one counterparty's production/ output is sold to another counterparty, which cannot easily be replaced by other customers;
+		- When the expected source of funds to repay the loans of both counterparties is the same and neither counterparty has another independent source of income from which the loan may be serviced and fully repaid;
+		- Where it is likely that the financial problems of one counterparty would cause difficulties for the other counterparties in terms of full and timely repayment of liabilities;
+		- Where the insolvency or default of one counterparty is likely to be associated with the insolvency or default of the other(s);
+		- When two or more counterparties rely on the same source for the majority of their funding and, in the event of the common provider's default, an alternative provider cannot be found - in this case, the
+
+funding problems of one counterparty are likely to spre

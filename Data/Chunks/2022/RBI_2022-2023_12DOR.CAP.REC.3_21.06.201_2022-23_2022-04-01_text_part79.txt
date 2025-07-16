@@ -1,0 +1,34 @@
+te set out in **Table DF-11 of [Annex 18](#page--1-0)** whichever, applicable.
+
+14.13.3 *Step 1: Disclose the reported balance sheet under the regulatory scope of consolidation* 
+
+(i) The scope of consolidation for accounting purposes is often different from that applied for the regulatory purposes. Usually, there will be difference between the financial statements of a bank specifically, the bank's balance sheet in published financial statements and the balance sheet considered for the calculation of regulatory capital. Therefore, the reconciliation process involves disclosing how the balance sheet changes when the regulatory scope of consolidation is applied for the purpose of calculation of regulatory capital on a consolidated basis.
+
+(ii) Accordingly, banks are required to disclose the list of the legal entities which have been included within accounting scope of consolidation but excluded from the regulatory scope of consolidation. This is intended to enable market participants and supervisors to investigate the risks posed by unconsolidated entities (e.g., unconsolidated subsidiaries). Similarly, banks are required to list the legal entities which have been included in the regulatory consolidation but not in the accounting scope of consolidation. Finally, it is possible that some entities are included in both the regulatory scope of consolidation and accounting scope of consolidation, but the method
+
+<sup>111</sup> Regulatory scope of consolidation is explained in paragraph 3 of this Master Circular.
+
+of consolidation differs between these two scopes. In such cases, banks are required to list these legal entities and explain the differences in the consolidation methods.
+
+(iii) If the scope of regulatory consolidation and accounting consolidation is identical for a particular banking group, it would not be required to undertake Step 1. The banking group would state that there is no difference between the regulatory consolidation and the accounting consolidation and move to Step 2.
+
+(iv) In addition to the above requirements, banks must disclose for each legal entity, its total balance sheet assets, total balance sheet equity (as stated on the accounting balance sheet of the legal entity), method of consolidation and a description of the principle activities of the entity. These disclosures are required to be made as indicated in the revised templates namely **Table DF-1: Scope of Application of [Annex 18](#page--1-0)**.
+
+14.13.4 *Step 2: Expand the lines of the regulatory balance sheet to display all of the components used in the definition of capital disclosure template (Table DF-11 of [Annex 18](#page--1-0))* 
+
+(i) Many of the elements used in the calculation of regulatory capital may not be readily identified from the face of the balance sheet. This requires that banks should expand the rows of the balance sheet under regulatory scope of consolidation such that all the components used in the definition of capital disclosure template (**Table DF-11 of [Annex 18](#page--1-0)**) are displayed separately.
+
+(ii) For example, paid-up share capital may be reported as one line on the balance sheet. However, some elements of this may meet the requirements for inclusion in Common Equity Tier 1 (CET1) capital and other elements may only meet the requirements for Additional Tier 1 (AT1) or Tier 2 (T2) capital, or may not meet the requirements for inclusion in regulatory capital at all. Therefore, if a bank has some amount of paid-up capital which goes into the calculation of CET1 and some amount which goes into the calculation of AT1, it should expand the 'paid-up share capital' line of the balance sheet in the following way:
+
+
+(iii) In addition, as illustrated above, each element of the expanded balance sheet must be given a reference number / letter for use in Step 3.
+
+(iv) Another example is regulatory adjustments of the deduction of intangible assets. *Firstly*, there could be a possibility that the intangible assets may not be readily identifiable in the balance sheet. There is a possibility that the amount on the balance sheet may combine goodwill and other intangibles. *Secondly*, the amount to be deducted is net of any related deferred tax liability. This deferred tax liability is likely to be reported in combination with other deferred tax liabilities which have no relation to goodwill or intangibles. Therefore, the bank should expand the balance sheet in the following way:
+
+
+
+(v) Banks will need to expand elements of the balance sheet only to the extent required to reach the components which are used in the definition of capital disclosure template. For example, if entire paid-up capital of the bank met the requirements to be included in CET1, the bank would not need to expand this line.
+
+14.13.5 *Step 3: Map each of the components that are disclosed in Step 2 to the composition of capital disclosure templates* 
+
+(i) When reporting the disclosure template (i.e., **Table DF-11 of [Annex 18](#page--1-0)

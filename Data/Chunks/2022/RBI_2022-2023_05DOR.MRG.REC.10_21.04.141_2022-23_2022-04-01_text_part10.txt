@@ -1,0 +1,37 @@
+id investments / securities (Government bonds).
+- (d) Investment in units of Mutual Funds, other than units of Debt Mutual Funds
+
+and Money Market Mutual Funds, are not permitted. The existing holding in units of Mutual Funds other than Debt Mutual Funds and Money Market Mutual Funds, including those in UTI should be disinvested. Till such time that they are held in the books of the bank, they will be reckoned as Non-SLR investments for the purpose of the limit at 13.1.1 above. The banks should, however, review their existing risk management policy to ensure that they do not have disproportionate exposure in any one scheme of a Mutual Fund.
+
+- (e) Non-SLR investment, other than in units of Debt Mutual Funds and Money Market Mutual Funds*,* and CPs, shall be in instruments with an original maturity of over one year.
+- (f) Investments in shares of All India Financial Institutions (AIFIs) are not permitted. In terms of [UBD.\(PCB\).BPD.Cir.No.14/16.20.000/2007-08](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0)  [dated September 18, 2007,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=3817&Mode=0) the existing shareholding in these institutions may be phased out and till such time they are held in the books of the bank, they will be reckoned as non-SLR investments for the purpose of the limit at 12.1.2 (a) above.
+- (g) All fresh investments under non-SLR category should be classified under Held for Trading (HFT) / Available for Sale (AFS) categories only and marked to market as applicable to these categories of investments. However, investments in the long-term bonds issued by companies engaged in executing infrastructure projects and having a minimum residual maturity of seven years may be classified under Held to Maturity (HTM) category
+- (h) All non-SLR investments will be subject to the prescribed prudential single/group counter party exposure limits.
+- (i) All transactions for acquisition / sale of non-SLR investments in secondary market may be undertaken with mutual funds, pension / provident funds and insurance companies, in addition to undertaking transactions with commercial banks and primary dealers, subject to adherence to the instructions contained in Para 7 of RBI [Master Direction](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11089)  [FMRD.DIRD.2/14.01.002/2017-18 dated August 10, 2017.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=11089)
+
+Note: For the definitions of certain items such as rated security, investment grade rating, etc., please see **[Annex II](#page--1-0)**.
+
+## **12.1.4 Review of non-SLR investment**
+
+The Board should review the following aspects of non-SLR investment at least at half-yearly intervals:
+
+- (a) Total business (investment and divestment) during the reporting period.
+- (b) Compliance with prudential limits prescribed for non-SLR investment.
+- (c) Compliance with the prudential guidelines issued by Reserve Bank on Non-SLR securities.
+- (d) Rating migration of the issuers/issues held in the bank's books and consequent diminution in the portfolio quality.
+- (e) Extent of non-performing investments in the non-SLR category and sufficient provision thereof.
+
+### **12.1.5 Disclosure**
+
+The banks shall disclose the details of the issuer-wise composition of non-SLR investments and the non-performing investments, as indicated in Annexure III - C.3(d) of [Master Direction on Financial Statements - Presentation and](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)  [Disclosures dated August 30, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)
+
+# 12.2 **Security Receipts (SR) / Pass Through Certificates (PTCs) / other securities received through Asset Reconstruction Companies (ARC)**
+
+- (i) Investment by UCBs in SRs / PTCs / other securities issued by ARCs as consideration towards transfer of stressed loans to the ARCs will be classified as non-SLR investment in the books of UCBs. Accordingly, the valuation, classification and other norms applicable to investment in non-SLR instruments prescribed by RBI from time to time shall be applicable to UCBs' investment in SRs / PTCs / other securities issued by ARCs.
+- (ii) UCBs are allowed to hold these investments, over and above the limit of 10 per cent of its deposits as on 31 March of the previous year, for non-SLR securities. UCBs are not permitted to make any direct investment in the SRs/ PTCs/ other securities issued by ARCs.
+
+#### 12.3 **Placement of deposits with other banks by UCBs**
+
+#### 12.3.1 **Prudential inter-bank (gross) exposure limit**
+
+The total amount of deposits placed by an UCB with other banks (interbank) for all purposes including call money/ notice money, and deposits, if any, placed for availing clearing facility, CSGL facility, currency chest facility, remittance facility and non-fund based facilities like Bank Guarantee, Letter of Credit, etc. shall not exceed 20 per cent of its total deposit liabilities as on March 31 of 

@@ -1,0 +1,179 @@
+| Para. No. | Particulars                                                                                                      | Page No. |
+|-----------|------------------------------------------------------------------------------------------------------------------|----------|
+| 1         | Part I -<br>Definitions and associated details                                                                   | 4        |
+|           | Part II –<br>General provisions                                                                                  | 6        |
+| 2         | Exemptions from applicability of OI Rules/Regulations/Directions                                                 | 6        |
+| 3         | Permission for making overseas investment                                                                        | 7        |
+| 4         | Approval from the Central Government                                                                             | 8        |
+| 5         | Approval from the Reserve Bank                                                                                   | 8        |
+| 6         | No<br>Objection<br>Certificate<br>(NOC)<br>from<br>the<br>lender<br>bank/regulatory<br>body/investigative agency | 8        |
+| 7         | Rights issue and bonus shares                                                                                    | 9        |
+| 8         | Acquisition of a foreign entity through bidding or tender procedure                                              | 9        |
+| 9         | ODI in startups                                                                                                  | 9        |
+| 10        | Acquisition or transfer by way of deferred payment                                                               | 9        |
+| 11        | Mode<br>of Payment                                                                                               | 10       |
+| 12        | Pricing Guidelines                                                                                               | 10       |
+| 13        | Transfer or liquidation                                                                                          | 11       |
+| 14        | Restructuring                                                                                                    | 11       |
+| 15        | Opening of Foreign Currency Account abroad by an Indian<br>entity                                                | 11       |
+| 16        | Obligations of the Person Resident in India                                                                      | 12       |
+| 17        | Reporting                                                                                                        | 12       |
+| 18        | Delay in Reporting                                                                                               | 13       |
+| 19        | Restriction on further financial commitment<br>or transfer                                                       | 14       |
+| 20        | Restrictions and prohibitions                                                                                    | 14       |
+|           | Part III –<br>Specific provisions                                                                                | 15       |
+| 21        | Financial commitment by an Indian entity                                                                         | 15       |
+| 22        | Overseas investment by resident individuals                                                                      | 18       |
+| 23        | Overseas investment by a person resident in India, other than an Indian<br>entity or a resident individual       | 19       |
+| 24        | Overseas investment in an IFSC in India by a person<br>resident in India                                         | 20       |
+| 25        | Acquisition or Transfer of Immovable Property outside India                                                      | 21       |
+|           | Part IV -<br>Other Operational Instructions to AD banks                                                          | 21       |
+| 26        | Designated banks                                                                                                 | 21       |
+| 27        | Overseas investment under OI Rules/Regulations                                                                   | 21       |
+| 28        | General procedural instructions for online reporting                                                             | 23       |
+| -         | Annex-II: List of the circulars/ master direction<br>superseded                                                  | 24       |
+| -         | Appendix A: Request Form for creation of user id in the OID Application                                          | 26       |
+
+| INDEX |
+|-------|
+|-------|
+
+| Sr.<br>No. | Type of Reporting delays                            | LSF Amount (INR)          |
+|------------|-----------------------------------------------------|---------------------------|
+| 1          | Form ODI Part-II/ APR, FLA Returns, Form OPI,       |                           |
+|            | evidence of investment<br>or any other return which |                           |
+|            | does not capture flows or any other periodical      | 7500                      |
+|            | reporting                                           |                           |
+| 2          | Form ODI-Part I, Form ODI-Part III, Form FC, or any |                           |
+|            | other return which captures flows or returns which  |                           |
+|            | capture reporting of non-fund based transactions or | [7500 + (0.025% × A × n)] |
+|            | any other transactional reporting                   |                           |
+|            |                                                     |                           |
+
+| Sr.No | UIN with prefix                  | UIN mapped to |
+|-------|----------------------------------|---------------|
+| 1.    | AH                               | RO Ahmedabad  |
+| 2.    | BG                               | RO Bengaluru  |
+| 3.    | BL<br>or BY or PJ                | RO Mumbai     |
+| 4.    | BN<br>or CA or GA or GH          | RO Kolkata    |
+|       | CG<br>or JM or JR or KA or ND or |               |
+| 5.    | PT or WR                         | RO New Delhi  |
+| 6.    | HY                               | RO Hyderabad  |
+| 7.    | KO<br>or MA                      | RO Chennai    |
+
+| Security<br>by Indian<br>entity                                                                                              | In whose favour                                                                             | Facility availed                                                                             | Amount reckoned<br>towards financial<br>commitment                                                    |
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| A) Pledge the equity<br>capital of the foreign<br>entity<br>/its SDS outside                                                 | AD bank or a public financial<br>institution<br>in<br>India<br>or<br>an<br>overseas lender. | Fund/non-fund based<br>facilities<br>for<br>Indian<br>entity.                                | Nil.                                                                                                  |
+| India.                                                                                                                       |                                                                                             | Fund/non-fund based<br>facilities<br>for<br>any<br>foreign entity/its SDSs<br>outside India. | The value of the<br>pledge<br>or<br>the<br>amount<br>of<br>the<br>facility,<br>whichever<br>is less.  |
+|                                                                                                                              | A<br>debenture<br>trustee<br>registered with SEBI in India.                                 | Fund based facilities<br>for Indian entity.                                                  | Nil.                                                                                                  |
+| B) Create charge on its<br>assets (other than A<br>above)<br>in<br>India<br>[including the assets of<br>its group company or | AD bank or a public financial<br>institution<br>in<br>India<br>or<br>an<br>overseas lender. | Fund/non-fund based<br>facility for any foreign<br>entity/its SDS outside<br>India           | The<br>value<br>of<br>charge<br>or<br>the<br>amount<br>of<br>the<br>facility,<br>whichever<br>is less |
+| associate<br>company,<br>promoter<br>and<br>/<br>or<br>director].                                                            | Overseas or Indian lender.                                                                  | fund/non-fund<br>based<br>facilities<br>for<br>Indian<br>entity.                             | Nil.                                                                                                  |
+| C) Create charge on<br>the<br>assets<br>outside<br>India<br>of<br>the<br>foreign<br>entity/ its SDS outside<br>India.        | An AD bank in India or a<br>public financial institution in<br>India.                       | Fund/non-fund based<br>facility for any foreign<br>entity/its SDS outside<br>India.          | The value of the<br>charge<br>or<br>the<br>amount<br>of<br>the<br>facility,<br>whichever<br>is less.  |
+|                                                                                                                              |                                                                                             | Fund/non-fund based<br>facility<br>for<br>Indian<br>entity.                                  | Nil.                                                                                                  |
+|                                                                                                                              | a<br>debenture<br>trustee<br>registered with SEBI in India.                                 | fund based facilities<br>for Indian entity.                                                  | Nil                                                                                                   |
+
+| Indian entity                                                                                     | ODI in foreign entity                                                          | Subject to the financial commitment<br>limit,<br>reporting and documentation as per the OI<br>Rules/Regulations<br>and other applicable<br>provisions as under                                                                                                                                                                                                                      |  |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| a)<br>Engaged<br>in<br>Financial<br>Services activity                                             | Engaged<br>in<br>Financial<br>Services activity                                | Subject<br>to<br>the<br>provisions<br>contained<br>in<br>paragraph 2(1)<br>of schedule I of the OI Rules.<br>Where such investment is in IFSC, the<br>requisite approval by the financial services<br>regulator concerned shall be decided within 45<br>days from the date of receipt of application<br>complete in all respects failing which it shall be<br>deemed to be approved |  |
+|                                                                                                   | Not engaged in Financial<br>Services activity                                  | Subject to the guidelines issued by the<br>respective regulator                                                                                                                                                                                                                                                                                                                     |  |
+| b) Not engaged in<br>Financial<br>Services activity                                               | Engaged<br>in<br>Financial<br>Services activity except<br>banking or insurance | Indian entity<br>has posted net profits during the<br>preceding three financial years. However, an<br>Indian entity<br>not meeting 3-year profitability<br>condition may make such ODI in a foreign<br>entity in IFSC in India.                                                                                                                                                     |  |
+|                                                                                                   | Engaged in general and<br>health insurance                                     | Apart from the 3 years profitability criteria,<br>such insurance business is supporting the<br>core activity undertaken overseas by such<br>Indian entity. For instance, health insurance to<br>support medical/hospital business, vehicle<br>insurance to support the manufacturing/export<br>of motor vehicles,<br>etc.                                                           |  |
+| c) Overseas investment<br>in any sector by banks and non-banking financial institutions regulated |                                                                                |                                                                                                                                                                                                                                                                                                                                                                                     |  |
+| by the Reserve Bank shall be subject to such other conditions as may be stipulated by the         |                                                                                |                                                                                                                                                                                                                                                                                                                                                                                     |  |
+| regulatory department concerned of the Reserve Bank in this regard.                               |                                                                                |                                                                                                                                                                                                                                                                                                                                                                                     |  |
+
+| 1.<br>A.P. (DIR Series) Circular No. 32     | February 9, 2005   |
+|---------------------------------------------|--------------------|
+| 2.<br>A.P. (DIR Series) Circular No. 42     | May 12, 2005       |
+| 3.<br>A.P. (DIR Series) Circular No. 14     | October 1, 2004    |
+| 4.<br>A.P. (DIR Series) Circular No. 9      | August 29, 2005    |
+| 5.<br>A.P. (DIR Series) Circular No. 29     | March 27, 2006     |
+| 6.<br>A.P. (DIR Series) Circular No. 30     | April 5, 2006      |
+| 7.<br>A.P. (DIR Series) Circular No. 3      | July 26, 2006      |
+| 8.<br>A.P. (DIR Series) Circular No. 6      | September 6, 2006  |
+| 9.<br>A.P. (DIR Series) Circular No. 41     | April 20, 2007     |
+| 10.<br>A.P. (DIR Series) Circular No. 49    | April 30, 2007     |
+| 11.<br>A.P. (DIR Series) Circular No. 50    | May 4, 2007        |
+| 12.<br>A.P. (DIR Series) Circular No. 59    | May 18, 2007       |
+| 13.<br>A.P. (DIR Series) Circular No. 68    | June 1, 2007       |
+| 14.<br>A.P. (DIR Series) Circular No. 72    | June 8, 2007       |
+| 15.<br>A.P. (DIR Series) Circular No. 75    | June 14, 2007      |
+| 16.<br>A.P. (DIR Series) Circular No. 2     | July 19, 2007      |
+| 17.<br>A.P. (DIR Series) Circular No. 11    | September 26, 2007 |
+| 18.<br>A.P. (DIR Series) Circular No. 12    | September 26, 2007 |
+| 19.<br>A.P. (DIR Series) Circular No. 34    | April 3, 2008      |
+| 20.<br>A.P (DIR Series) Circular No. 48     | June 3, 2008       |
+| 21.<br>A.P. (DIR Series) Circular No. 53    | June 27, 2008      |
+| 22.<br>A.P. (DIR Series) Circular No. 7     | August 13, 2008    |
+| 23.<br>A.P. (DIR Series) Circular No.14     | September 5, 2008  |
+| 24.<br>A.P (DIR Series) Circular No. 5      | July 22, 2009      |
+| 25.<br>A.P. (DIR Series) Circular No. 36    | February 24, 2010  |
+| 26.<br>A.P (DIR Series) Circular No. 45     | April 1, 2010      |
+| 27.<br>A.P (DIR Series) Circular No. 69     | May 27, 2011       |
+| 28.<br>A.P (DIR Series) Circular No. 73     | June 29, 2011      |
+| 29.<br>A.P (DIR Series) Circular No. 96     | March 28, 2012     |
+| 30.<br>A.P (DIR Series) Circular No. 97     | March 28, 2012     |
+| 31.<br>A.P (DIR Series) Circular No. 101    | April 2, 2012      |
+| 32.<br>A.P (DIR Series) Circular No. 131    | May 31, 2012       |
+| 33.<br>A.P (DIR Series) Circular No. 133    | June 20, 2012      |
+| 34.<br>A.P. (DIR Series) Circular No.15     | August 21, 2012    |
+| 35.<br>A.P (DIR Series) Circular No. 25     | September 7, 2012  |
+| 36.<br>A.P. (DIR Series) Circular No. 29    | September 12, 2012 |
+| 37.<br>A.P (DIR Series) Circular No. 99     | April 23, 2013     |
+| 38.<br>A.P (DIR Series) Circular No. 100    | April 25, 2013     |
+| 39.<br>A.P (DIR Series) Circular No. 8      | July 11, 2013      |
+| 40.<br>A.P (DIR Series) Circular No. 23     | August 14, 2013    |
+| 41.<br>A.P (DIR Series) Circular No. 24     | August 14, 2013    |
+| 42.<br>A.P (DIR Series) Circular No. 41     | September 10, 2013 |
+| 43.<br>A.P. (DIR<br>Series) Circular No. 83 | January 3, 2014    |
+| 44.<br>A.P (DIR Series) Circular No. 131    | May 19, 2014       |
+| 45.<br>A.P. (DIR Series) Circular No. 1     | July 3, 2014       |
+| 46.<br>A.P (DIR Series) Circular No. 48     | December 9, 2014   |
+| 47.<br>A.P (DIR Series) Circular No. 54     | December 29, 2014  |
+
+| 48.<br>A.P (DIR Series) Circular No. 59  | January 22, 2015                         |
+|------------------------------------------|------------------------------------------|
+| 49.<br>A.P. (DIR Series) Circular No. 61 | April 13, 2016                           |
+| 50.<br>A.P. (DIR Series) Circular No. 62 | April 13, 2016                           |
+| 51.<br>A.P. (DIR Series) Circular No. 28 | January 25, 2017                         |
+| 52.<br>A.P. (DIR Series) Circular No. 4  | May 12, 2021                             |
+| 53. FED Master Direction No. 15/2015-16  | January 1, 2016,<br>as amended from time |
+|                                          | to time                                  |
+
+| Appendix A                                                  |       |  |              |      |                                     |            |  |
+|-------------------------------------------------------------|-------|--|--------------|------|-------------------------------------|------------|--|
+| Request Form for creation of user id in the OID Application |       |  |              |      |                                     |            |  |
+| Description of request                                      |       |  |              | Tick | Kindly                              | paste<br>a |  |
+| 1) Addition of user id                                      |       |  |              |      | recent                              | passport   |  |
+| 2) Modification of assigned role/ user type /               |       |  |              |      | size photograph of<br>the applicant |            |  |
+| details of the user id                                      |       |  |              |      |                                     |            |  |
+| 3) Deactivation of the user id                              |       |  |              |      |                                     |            |  |
+| Details of the User                                         |       |  |              |      |                                     |            |  |
+| Name of the user                                            |       |  | PF No. /     |      |                                     |            |  |
+|                                                             |       |  | Employee No. |      |                                     |            |  |
+| Name and address of the                                     |       |  |              |      |                                     |            |  |
+| AD bank                                                     |       |  |              |      |                                     |            |  |
+| Name of the                                                 |       |  |              |      |                                     |            |  |
+| department/division/section                                 |       |  |              |      |                                     |            |  |
+| Designation of the user                                     |       |  |              |      |                                     |            |  |
+| User Type (tick)                                            | AD    |  | AD           |      | AD                                  |            |  |
+|                                                             | Maker |  | Checker      |      | Authoriser                          |            |  |
+| Corporate mail id                                           |       |  |              |      |                                     |            |  |
+| Signature of the Applicant                                  |       |  |              |      |                                     |            |  |
+|                                                             |       |  |              |      |                                     |            |  |
+
+| Signature / Approval of Head of Department   |  |  |  |  |  |
+|----------------------------------------------|--|--|--|--|--|
+| Name                                         |  |  |  |  |  |
+| Approved Roles                               |  |  |  |  |  |
+| Justification / Remarks                      |  |  |  |  |  |
+| Signature                                    |  |  |  |  |  |
+|                                              |  |  |  |  |  |
+| To be filled by the OID System Administrator |  |  |  |  |  |
+|                                              |  |  |  |  |  |
+| Change request number                        |  |  |  |  |  |
+| User id creation date                        |  |  |  |  |  |
+| Role/s assigned                              |  |  |  |  |  |
+| Justification                                |  |  |  |  |  |
+| Name                                         |  |  |  |  |  |
+| Signature                                    |  |  |  |  |  |

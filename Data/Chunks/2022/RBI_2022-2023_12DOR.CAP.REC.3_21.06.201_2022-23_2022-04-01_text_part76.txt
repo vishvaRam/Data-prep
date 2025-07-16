@@ -1,0 +1,35 @@
+#### **14.5 Materiality**
+
+A bank should decide which disclosures are relevant for it based on the materiality concept. Information would be regarded as material if its omission or misstatement could change or influence the assessment or decision of a user relying on that information for the purpose of making economic decisions. This definition is consistent with International Accounting Standards and with the national accounting framework. The Reserve Bank recognises the need for a qualitative judgment of whether, in light of the particular circumstances, a user of financial information would consider the item to be material (user test). The Reserve Bank does not consider it necessary to set specific thresholds for disclosure as the user test is a useful benchmark for achieving sufficient disclosure. However, with a view to facilitate smooth transition to greater disclosures as well as to promote greater comparability among the banks' Pillar 3 disclosures, the materiality thresholds have been prescribed for certain limited disclosures. Notwithstanding the above, banks are encouraged to apply the user test to these specific disclosures and where considered necessary make disclosures below the specified thresholds also.
+
+#### **14.6 Proprietary and Confidential Information**
+
+Proprietary information encompasses information (for example on products or systems), that if shared with competitors would render a bank's investment in these products/systems less valuable, and hence would undermine its competitive position. Information about customers is often confidential, in that it is provided under the terms of a legal agreement or counterparty relationship. This has an impact on what banks should reveal in terms of information about their customer base, as well as details on their internal arrangements, for instance methodologies used, parameter estimates, data etc. The Reserve Bank believes that the requirements set out below strike an appropriate balance between the need for meaningful disclosure and the protection of proprietary and confidential information.
+
+#### **14.7 General Disclosure Principle**
+
+Banks should have a formal disclosure policy approved by the Board of directors that addresses the bank's approach for determining what disclosures it will make and the internal controls over the disclosure process. In addition, banks should implement a process for assessing the appropriateness of their disclosures, including validation and frequency.
+
+## **14.8 Implementation Date**
+
+In terms of Guidelines on Composition of Capital Disclosure Requirements issued vide [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8005&Mode=0)  [DBOD.No.BP.BC.98/21.06.201/2012-13 dated May 28, 2013,](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8005&Mode=0) Pillar 3 disclosures as introduced under Basel III have become effective from July 1, 2013. The first set of disclosures as required by these guidelines was to be made by banks as on September 30, 2013.
+
+### **14.9 Scope and Frequency of Disclosures**
+
+14.9.1 Pillar 3 applies at the top consolidated level of the banking group to which the Capital Adequacy Framework applies. Disclosures related to individual banks within the groups would not generally be required to be made by the parent bank. An exception to this arises in the disclosure of capital ratios by the top consolidated entity where an analysis of significant bank subsidiaries within the group is appropriate, in order to recognise the need for these subsidiaries to comply with the Framework and other applicable limitations on the transfer of funds or capital within the group. Pillar 3 disclosures will be required to be made by the individual banks on a stand-alone basis when they are not the top consolidated entity in the banking group.
+
+14.9.2 Banks are required to make Pillar 3 disclosures<sup>103</sup> at least on a half yearly basis, irrespective of whether financial statements are audited, with the exception of following disclosures:
+
+- (i) Table DF-2: Capital Adequacy;
+- (ii) Table DF-3: Credit Risk: General Disclosures for All Banks; and
+- (iii) Table DF-4: Credit Risk: Disclosures for Portfolios Subject to the Standardised Approach.
+
+The disclosures as indicated at (i), (ii) and (iii) above will be made at least on a quarterly basis by banks.
+
+14.9.3 All disclosures must either be included in a bank's published financial results / statements or, at a minimum, must be disclosed on bank's website. If a bank finds it operationally inconvenient to make these disclosures along with published financial results / statements, the bank must provide in these financial results / statements, a direct link to where the Pillar 3 disclosures can
+
+<sup>103</sup> Please refer to Annex 18 for detailed Pillar 3 disclosure templates.
+
+be found on the bank's website. The Pillar 3 disclosures should be made concurrent with publication of financial results / statements<sup>104</sup> .
+
+14.9.4 However

@@ -1,0 +1,41 @@
+es should not exceed 10% of the bank's paid-up share capital and reserves.
+
+<sup>16</sup> In terms of Securities and Exchange Board of India (Mutual Funds) Regulations 1996, no mutual fund under all its schemes should own more than ten per cent of any company's paid up capital carrying voting rights.
+
+<sup>17</sup> These rules will be applicable to a bank's equity investments in other banks and financial entities, even if such investments are exempted from 'capital market exposure' limit.
+
+(e) Equity investment by a bank in companies engaged in non-financial services activities would be subject to a limit of 10% of the investee company's paid up share capital or 10% of the bank's paid up share capital and reserves, whichever is less.
+
+(f) Equity investments in any non-financial services company held by (a) a bank; (b) entities which are bank's subsidiaries, associates or joint ventures or entities directly or indirectly controlled by the bank; and (c) mutual funds managed by AMCs controlled by the bank should in the aggregate not exceed 20% of the investee company's paid up share capital.
+
+(g) A bank's equity investments in subsidiaries and other entities that are engaged in financial services activities together with equity investments in entities engaged in non-financial services activities should not exceed 20% of the bank's paid-up share capital and reserves. The cap of 20% would not apply for investments classified under 'Held for Trading' category and which are not held beyond 90 days.
+
+(ii) An indicative list of institutions which may be deemed to be financial institutions other than banks and insurance companies for capital adequacy purposes is as under:
+
+- Asset Management Companies of Mutual Funds / Venture Capital Funds / Private Equity Funds etc;
+- Non-Banking Finance Companies;
+- Housing Finance Companies;
+- Primary Dealers;
+- Merchant Banking Companies;
+- Entities engaged in activities which are ancillary to the business of banking under the B.R. Act, 1949; and
+- Central Counterparties (CCPs).
+
+(iii) Investments made by a banking subsidiary/ associate in the equity or non- equity regulatory capital instruments issued by its parent bank should be deducted from such subsidiary's regulatory capital following corresponding deduction approach, in its capital adequacy assessment on a solo basis. The regulatory treatment of investment by the non-banking financial subsidiaries / associates in the parent bank's regulatory capital would, however, be governed by the applicable regulatory capital norms of the respective regulators of such subsidiaries / associates.
+
+## **4.4.9.2 Treatment of a Bank's Investments in the Capital Instruments Issued by Banking, Financial and Insurance Entities within Limits**
+
+The investment of banks in the regulatory capital instruments of other financial entities contributes to the inter-connectedness amongst the financial institutions. In addition, these investments also amount to double counting of capital in the financial system. Therefore, these investments have been subjected to stringent treatment in terms of deduction from respective tiers of regulatory capital. A schematic representation of treatment of banks' investments in capital instruments of financial entities is shown in **Figure 1** below. Accordingly, all investments<sup>18</sup> in the capital instruments issued by banking, financial and insurance entities within the limits mentioned in **paragraph 4.4.9.1** will be subject to the following rules:
+
+![](_page_2_Figure_1.jpeg)
+
+## **(A) Reciprocal Cross- Holdings in the Capital of Banking, Financial and Insurance Entities**
+
+Reciprocal cross holdings of capital might result in artificially inflating the capital position of banks. Such holdings of capital will be fully deducted. Banks must apply a "corresponding
+
+<sup>18</sup> For this purpose, investments held in AFS / HFT category may be reckoned at their market values, whereas, those held in HTM category may be reckoned at values appearing in the Balance sheet of the Bank.
+
+deduction approach" to such investments in the capital of other banks, other financial institutions and insurance entities. This means the deduction should be applied to the same component of capital (Common Equity, Additional Tier 1 and Tier 2 capital) for which the capital would qualify if it was issued by the bank itself. For this purpose, a holding will be treated as reciprocal cross holding if the investee entity has also invested in any class of bank's capital instruments which need not necessarily be the same as the bank's holdings.
+
+**(B) Investments in the Capital of Banking, Financial and Insurance Entities which are outside the Scope of Regulatory Consolidation and where the Bank does not Own more than 10% of the Issued Common Share Capital of the Entity**
+
+- (i) The regulatory adjustment described in this section applies to investments in the capital of banking, financial and insurance entities that are outside the scope of 

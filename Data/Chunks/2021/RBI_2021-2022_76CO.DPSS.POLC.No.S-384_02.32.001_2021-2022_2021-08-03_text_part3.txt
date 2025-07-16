@@ -1,0 +1,47 @@
+f authority depending on risks and criticality; and, systems to monitor and review the operation of these activities.
+
+# 6. **Role of the board and responsibilities of the senior management**
+
+# 6.1. **Role of the board**
+
+The board of the PSO, or a committee of the board to which powers have been delegated, shall be responsible, inter-alia, for the following:
+
+- a) approving a framework to evaluate the risks and criticality of all existing and prospective outsourcing;
+- b) approving policies that apply to outsourcing arrangements;
+- c) mapping appropriate approval authorities for outsourcing depending on risks and criticality;
+- d) setting up suitable administrative mechanism of senior management for the purpose of this framework;
+- e) undertaking periodic review of outsourcing policy, strategies and arrangements for their continued relevance, safety and soundness;
+- f) deciding on business activities to be outsourced and approving such arrangements; and
+- g) complying with regulatory instructions.
+
+### 6.2. **Responsibilities of the senior management**
+
+The senior management shall be responsible for:
+
+- a) evaluating the risks and criticality of all existing and prospective outsourcing, based on the framework approved by the board;
+- b) developing and implementing sound and prudent outsourcing policies and procedures commensurate with the nature, scope and complexity of the outsourcing activity;
+- c) reviewing periodically the effectiveness of policies and procedures, and for identifying new outsourcing risks as they arise;
+- d) communicating, in a timely manner, to the board any information related to outsourcing risks;
+- e) ensuring that contingency plans, based on realistic and probable disruptive scenarios, are in place and tested periodically; and
+- f) ensuring an independent review and audit for compliance with the set policies.
+
+6.3. A central record of all outsourcing arrangements shall be maintained and it shall be readily accessible for review by the board and senior management of the PSO. The record shall be updated promptly, and half yearly reviews shall be placed before the board or its senior management.
+
+## 7. **Evaluating capability of the service provider**
+
+7.1. While considering / renewing an outsourcing arrangement, the PSO shall include issues related to undue concentration of such arrangements with a service provider.
+
+### 8. **Outsourcing agreement**
+
+- 8.1. The terms and conditions governing the contract between the PSO and the service provider shall be carefully defined in written agreements and vetted by PSO's legal counsel for their legal effect and enforceability. Every such agreement shall address the risks and the strategies for mitigating them. The agreement shall be sufficiently flexible to allow the PSO to retain adequate control over the outsourced activity and the right to intervene with appropriate measures to meet legal and regulatory obligations. The agreement shall also bring out the nature of legal relationship between the parties, i.e. whether agent, principal or otherwise. Some of the key provisions of the agreement should incorporate the following:
+	- a) defining activity to be outsourced, including appropriate service and performance standards;
+	- b) having access by the PSO to all books, records and information relevant to the outsourced activity, available with the service provider;
+	- c) providing for continuous monitoring and assessment by the PSO of the service provider, so that any necessary corrective measure can be taken immediately;
+	- d) including termination clause and minimum period to execute such provision, if deemed necessary;
+	- e) ensuring controls are in place for maintaining confidentiality of customer data and incorporating service provider's liability in case of breach of security and leakage of such information related to customers;
+	- f) incorporating contingency plan(s) to ensure business continuity;
+	- g) requiring prior approval / consent of the PSO for use of sub-contractors by the service provider for all or part of an outsourced activity;
+	- h) retaining PSO's right to conduct audit of the service provider, whether by its internal or external auditors, or by agents appointed to act on its behalf, and to obtain copies of any audit or review reports and findings made about the service provider in conjunction with the services performed for the PSO;
+- i) adding clauses to allow RBI or person(s) authorised by it to access the PSO's documents, record of transactions and other necessary information given to, stored or processed by the service provider, within a reasonable time;
+- j) keeping clauses to recognise the right of RBI to cause an inspection to be made of a service provider of a PSO and the books of accounts, by one or more of its officers or employees or other persons;
+- k) requiring clauses relating to a clear obligation on any service provider to comply with directions given by RBI insofar as they involve activities of the PSO;

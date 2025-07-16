@@ -1,0 +1,140 @@
+| Para No | Particulars                                                                                                  | Page<br>No. |
+|---------|--------------------------------------------------------------------------------------------------------------|-------------|
+| A       | Purpose                                                                                                      | 1           |
+| B       | Classification                                                                                               | 1           |
+| C       | Previous instructions                                                                                        | 1           |
+| D       | Application                                                                                                  | 1           |
+| 1       | Introduction                                                                                                 | 2           |
+| 2       | Guidelines                                                                                                   | 2           |
+| 2.1     | General Guidelines                                                                                           | 2           |
+| 2.2     | Guidelines relating to conduct of guarantee business                                                         | 3           |
+| 2.2.1   | Norms for unsecured advances & guarantees                                                                    | 3           |
+| 2.2.2   | Precautions for issuing guarantees                                                                           | 4           |
+| 2.2.3   | Precautions for averting frauds                                                                              | 4           |
+| 2.2.4   | Ghosh Committee Recommendations                                                                              | 4           |
+| 2.2.5   | Internal Control Systems                                                                                     | 5           |
+| 2.2.6   | Guarantees on behalf of Banks' Directors                                                                     | 5           |
+| 2.2.7   | Bank Guarantee Scheme of Government of India                                                                 | 6           |
+| 2.2.8   | Guarantees on Behalf of Share and Stock Brokers/ Commodity Brokers                                           | 6           |
+| 2.2.9   | Guidelines relating to obtaining of personal guarantees of promoters,                                        | 7           |
+|         | directors, other managerial personnel, and shareholders of borrowing                                         |             |
+|         | concerns                                                                                                     |             |
+| 2.2.10  | Guarantees of State Government                                                                               | 9           |
+| 2.3     | Other Stipulations –Issuing Bid Bonds and Performance Guarantees                                             | 9           |
+|         | for export                                                                                                   |             |
+| 2.3.1   | Unconditional Guarantees in favour of Overseas Employers/ Importers<br>on behalf of Indian Exporters         | 10          |
+| 2.3.2   | Certain Precautions in case of Project Exports                                                               | 10          |
+| 2.3.3   | Guarantees for Export Advance                                                                                | 10          |
+| 2.3.4   | Review of Banks' Procedures                                                                                  | 11          |
+| 2.3.5   | Overseas Investments – Guarantee on behalf of Wholly Owned<br>Subsidiary (WOS) and Joint Venture (JV) abroad | 11          |
+| 2.4     | Restrictions on guarantees for placement of funds with NBFCs or other<br>non-bank entities                   | 12          |
+| 2.5     | Payment of invoked guarantees                                                                                | 15          |
+| 2.6     | Co-acceptance of bills                                                                                       | 17          |
+| 2.6.1   | General                                                                                                      | 17          |
+| 2.6.2   | Safeguards                                                                                                   | 18          |
+| 2.7     | Precautions to be taken in the case of Letters of Credit                                                     | 20          |
+| 2.8     | Compliance to the regulations of Foreign Exchange Management Act,<br>2000                                    | 20          |
+| 2.9     | Compliance to the Prudential Norms                                                                           | 20          |
+| Annex 1 | Model Form of Bank Guarantee Bond                                                                            | 21          |
+| Annex 2 | List of circulars consolidated                                                                               | 23          |
+
+| List of Circulars consolidated by the Master Circular on Guarantees and |  |
+|-------------------------------------------------------------------------|--|
+| Co-acceptances                                                          |  |
+
+| Sl. No. | Circular No.                        | Date       | Subject                                                                                                                                                                                            |
+|---------|-------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.      | DBR.Dir.BC.No.70/13.03.00/2015-16   | 07.01.2016 | Non-Fund Based Facility to Non<br>constituent Borrowers of Bank                                                                                                                                    |
+| 2.      | DBR.BP.BC.No.40/21.04.142/2015-16   | 24.09.2015 | Partial<br>Credit<br>Enhancement<br>to<br>Corporate Bonds                                                                                                                                          |
+| 3.      | DBR.No.BP.BC.85/21.04.048/2014-15   | 06.04.2015 | Prudential<br>Norms<br>on<br>Income<br>Recognition,<br>Asset<br>Classification<br>and<br>Provisioning<br>pertaing<br>to<br>Advance-<br>Refinancing<br>of<br>Exposures to Borrowers                 |
+| 4.      | DBOD.No.BP.BC.107/21.04.048/2013-14 | 22.04.2014 | Fund<br>/<br>Non-Fund<br>based<br>Credit<br>Facilities<br>to<br>Overseas Joint Ventures / Wholly<br>Owned<br>Subsidiaries<br>/<br>Wholly<br>owned<br>Step-down<br>Subsidiaries of Indian Companies |
+| 5.      | DBOD.BP.BC.No.98/21.04.132/2013-14  | 26.02.2014 | Framework<br>for<br>Revitalising<br>Distressed Assets in the Economy -<br>Refinancing of Project Loans, Sale<br>of<br>NPA<br>and<br>Other<br>Regulatory<br>Measures                                |
+| 6.      | Mail-Box Clarification              | 19.05.2011 | Issue of Bank Guarantee (BG) /<br>Letter of Credit (LC) by Commercial<br>Banks<br>to<br>constituents<br>of<br>Co<br>operative Banks                                                                |
+| 7.      | DBOD.BP.BC.96/08.12.014/2009-10     | 23.04.2010 | Prudential Norms on Advances to<br>Infrastructure Sector                                                                                                                                           |
+| 8.      | DBOD.No.Dir.BC.136/13.03.00/2008-09 | 29.05.2009 | Issue of Guarantees by Banks                                                                                                                                                                       |
+| 9.      | DBOD.No.BP.BC.127/21.04.009/2008-09 | 22.04.2009 | Extension of Guarantee - Maturity<br>Beyond Ten Years                                                                                                                                              |
+| 10.     | Mail-Box Clarification              | 15.04.2009 | Bank Guarantee with Auto Renewal<br>Clause                                                                                                                                                         |
+| 11.     | Mail-Box Clarification              | 27.05.2008 | Signing of Bank Guarantee                                                                                                                                                                          |
+| 12.     | DBOD.No.Dir.BC.72/13.03.00/2006-07  | 03.04.2007 | Guarantees for Export Advance                                                                                                                                                                      |
+| 13.     | DBOD.No.Dir.BC.51/13.03.00/2006-07  | 09.01.2007 | Banks'<br>Exposure<br>to<br>Commodity<br>Markets – Margin Requirements                                                                                                                             |
+| 14.     | DBOD.No.Dir.BC.35/13.07.10/2006-07  | 11.10.2006 | Guarantees and Co-acceptances                                                                                                                                                                      |
+
+| 15. | DBOD.BP.BC.No.97/21.04.141/2003-04 | 17.06.2004 | Annual Policy Statement for the<br>year<br>2004-05<br>-<br>Prudential<br>Guidelines<br>on<br>Unsecured<br>Exposures                                    |
+|-----|------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 16. | IECD.No.17/08.12.01/2002-03        | 05.04.2003 | Guarantees and Co-acceptances                                                                                                                          |
+| 17. | DBOD.No.BP.BC.47/21.04.141/2002    | 13.12.2002 | Limit of Unsecured Guarantees and<br>Advances                                                                                                          |
+| 18. | DBOD.No.BP.BC.39/21.04.141/2002-03 | 06.11.02   | Exemption of Advances granted to<br>Self Help Groups (SHGs) against<br>Group Guarantee from the Limit of<br>Unsecured<br>Guarantees<br>and<br>Advances |
+| 19. | DBOD.No.BP.BC.90/21.04.141/2001-02 | 18.04.02   | Exclusion<br>of<br>Credit<br>Card<br>Outstanding<br>from<br>the<br>Norms<br>relating to Unsecured Advances<br>and Guarantees                           |
+| 20. | IECD No 16/08.12.01/2001-02        | 20.02.02   | Financing of Infrastructure Projects                                                                                                                   |
+| 21. | DBOD.BP.BC.119/21.04137/2000-02    | 11.05.01   | Bank Financing of Equities and<br>Investment in Shares –<br>Revised<br>Guidelines                                                                      |
+| 22. | DBOD.No.BP.BC.78/21.04.009/99      | 04.08.99   | Bank Guarantees                                                                                                                                        |
+| 23. | IECD.No.26/08.12.01/98-99          | 23.04.99   | Financing of Infrastructure Projects                                                                                                                   |
+| 24. | DBOD.No.BP.BC.16/21.04.009/97      | 28.02.97   | Payment under Bank Guarantees -<br>Immediate Settlement of Cases                                                                                       |
+| 25. | DBOD.No.Dir.BC.90/13.07.05/98      | 28.08.98   | Bank Finance against Shares and<br>Debentures-Master Circular                                                                                          |
+| 26. | IECD.No.21/08.12.01/96-97          | 21.02.97   | Bill<br>Discounting<br>Scheme/<br>Rediscounting Schemes Operated<br>by Power Finance Corporation Ltd.<br>(PFC)                                         |
+| 27. | IECD.No.37/08.12.01/94-95          | 23.02.95   | Issue of Bank Guarantees in favour<br>of Financial Institutions                                                                                        |
+| 28. | IECD.No.21/08.12.01/94-95          | 01.11.94   | Bill Discounting Schemes Operated<br>by Small Industries Development<br>Bank of India (SIDBI)                                                          |
+| 29. | DBOD.No.BP.BC.194/21.04.009/ 93    | 22.11.93   | Payment under Bank Guarantees -<br>Immediate Settlement of Cases                                                                                       |
+| 30. | DBOD.No.BC.185/21.04.009-93        | 21.10.93   | Bank<br>Guarantee<br>-<br>Delay<br>in<br>Obtaining<br>Certified<br>Copies<br>of<br>Judgements                                                          |
+
+| 31. | DBOD.No.BC.20/17.04.001/92          | 25.08.92 | Committee to Enquire into Various<br>Aspects Relating to Frauds and<br>Malpractices in Banks                                                     |
+|-----|-------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 32. | DBOD.No.BP.BC.53/C.473-91           | 27.11.91 | Payment under Bank Guarantees -<br>Immediate Settlement of Cases                                                                                 |
+| 33. | DBOD.No.Dir.BC.35/C.96 (Z)-90       | 22.10.90 | Bank Guarantee Scheme                                                                                                                            |
+| 34. | IECD.No.PMD.BC.12/C.446 (C&P)-90/91 | 21.09.90 | Co-acceptance/Issuance<br>of<br>Guarantee<br>Favouring<br>Financial<br>Institutions - Buyers' Line of Credit<br>Scheme (BLCS)                    |
+| 35. | DBOD.No.Dir.BC.11/C.96-89           | 09.08.89 | Bank Guarantee Scheme                                                                                                                            |
+| 36. | DBOD.No.BP.BC.124/C.473-89          | 31.05.89 | Payment under Bank Guarantees -<br>Immediate Settlement of Cases                                                                                 |
+| 37. | DBOD.No.Inf.BC.73/C.109(H)-89       | 15.02.89 | Bank Guarantee Scheme                                                                                                                            |
+| 38. | IECD.No.PMS.207/C.446 (C&P)-87/88   | 29.06.88 | Advances on Consortium Basis -<br>Co-ordination Between Banks and<br>All-India<br>Financial<br>Institutions<br>in<br>Dealing with New Investment |
+| 39. | IECD.No.EFD.197/822-WGM-MOD-88      | 30.01.88 | Project Exports – Grant of Credit<br>Facilities to Indian Contractors                                                                            |
+| 40. | DBOD.No.BP.BC.71/C.473-87           | 10.12.87 | Payment under Bank Guarantees -<br>Immediate Settlement of Cases                                                                                 |
+| 41. | DBOD.No.BP.BC.11/C.473-87           | 10.02.87 | Payment of Invoked Guarantees                                                                                                                    |
+| 42. | DBOD.SIC.BC.5A/C.739 (A-1)-87       | 29.01.87 | Co-acceptance of Bills Drawn under<br>Letters of Credit by Banks                                                                                 |
+| 43. | DBOD.No.BP.BC.130/C.473-86          | 15.11.86 | Bank Guarantee                                                                                                                                   |
+| 44. | DBOD.No.Inf.BC.45/C.109(H)-86       | 09.04.86 | Bank Guarantee Scheme                                                                                                                            |
+| 45. | DBOD.NO.BP.BC.28/C.469(W)-86        | 07.03.86 | Safeguards<br>for<br>Issue<br>of<br>Banks<br>Instruments, etc.                                                                                   |
+| 46. | DBOD.No.BP.BC.18/C.473-86           | 24.02.86 | Bank Guarantee                                                                                                                                   |
+| 47. | IECD.No.PMS.129/C.446 (PL)-85       | 11.10.85 | CAS -<br>IDBI Bills Rediscounting<br>Scheme                                                                                                      |
+| 48. | DBOD.NO.BP.BC.111/C.469(W)-85       | 02.09.85 | Safeguards<br>for<br>Issue<br>of<br>Banks<br>Instruments, etc.                                                                                   |
+| 49. | DBOD.No.Leg.BC.77/C.235C-85         | 05.07.85 | Section<br>20<br>of<br>the<br>Banking<br>Regulation Act, 1949                                                                                    |
+| 50. | DBOD.No.Dir.BC.25/C.96-84           | 26.03.84 | Guarantee<br>of<br>Inter-company<br>Deposits/Loans<br>by<br>Commercial<br>Banks                                                                  |
+
+| 51. | IECD.No.CAD.82/C.446(HF-P)-84     | 02.02.84 | Guarantee Furnished by Banks in<br>favour of HUDCO in respect of<br>Loans to State Housing Boards and<br>similar Bodies          |
+|-----|-----------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+| 52. | DBOD.No.GC.SIC.BC.97/C.408 (A)-83 | 26.11.83 | Opening of Letters of Credit Issue of<br>Guarantees and Co-acceptance of<br>Bills by Banks                                       |
+| 53. | DBOD.No.Dir.BC.44/C.96-83         | 30.05.83 | Guarantee<br>of<br>Inter-company<br>Deposits/Loans<br>by<br>Commercial<br>Banks                                                  |
+| 54. | DBOD.No.BP.678/C.473-83           | 11.01.83 | Bank Guarantee                                                                                                                   |
+| 55. | DBOD.No.Clg.BC.91/C.109(H)-82     | 30.09.82 | Bank Guarantee Scheme                                                                                                            |
+| 56. | ICD.No.CAD.18/C.446-82            | 10.02.82 | Bank Guarantee - Honouring of                                                                                                    |
+| 57. | DBOD.No.Inf.BC.103/C.109-80       | 11.09.80 | Bank Guarantee Scheme                                                                                                            |
+| 58. | DBOD.No.Clg.BC.21/C.109(H)-80     | 08.02.80 | Bank Guarantee Scheme                                                                                                            |
+| 59. | DBOD.No.Dir.BC.122/C.107(N)-78    | 20.09.78 | Guarantee<br>of<br>Inter-company<br>Deposits/Loans<br>by<br>Commercial<br>Banks                                                  |
+| 60. | DBOD.No.Clg.BC.1/C.109-78         | 02.01.78 | Bank Guarantee Scheme                                                                                                            |
+| 61. | DBOD.No.ECC.BC.77/C.297L(1-A)-78  | 07.06.78 | Unconditional Guarantee Issued by<br>Indian Banks in favour of Overseas<br>Employers/ Importers on Behalf of<br>Indian Exporters |
+| 62. | DBOD.No.ECC.BC.89/C.297L(1-D)-76  | 04.08.76 | Bid<br>Bonds<br>and<br>Performance<br>Guarantees                                                                                 |
+| 63. | DBOD.No.Fol.BC.9/C.249-76         | 20.01.76 | Co-acceptance of Bills/Guarantees<br>by Commercial Banks on Inter<br>company Deposits/ Loans                                     |
+| 64. | DBOD.No.GCS.BC.25/C.107(N)-74     | 01.04.74 | Guarantee<br>of<br>Inter-company<br>Deposits/Loans<br>by<br>Commercial<br>Banks                                                  |
+| 65. | DBOD.No.Sch.BC.88/C.96(S)-72      | 10.10.72 | Unsecured Advances Guaranteed<br>by<br>Credit Guarantee Corporation of<br>India Ltd--                                            |
+| 66. | DBOD.No.BM.BC.81/C.297(P)-72      | 14.09.72 | Bid<br>Bonds<br>and<br>Performance<br>Guarantees                                                                                 |
+| 67. | DBOD.No.Sch.BC.68/C.109-72        | 31.07.72 | Bank Guarantee Scheme                                                                                                            |
+| 68. | DBOD.No.Sch.BC.27/C.96(S)-72      | 24.03.72 | Continuance<br>of<br>Exemption<br>in<br>respect of Inland D/A Bills for the                                                      |
+
+|     |                                |          | purpose<br>of<br>Norm<br>relating<br>to<br>Unsecured Advances/Guarantees                                           |
+|-----|--------------------------------|----------|--------------------------------------------------------------------------------------------------------------------|
+| 69. | DBOD.No.Sch.BC.1610/C.96(S)-70 | 23.10.70 | Unsecured<br>Advances<br>and<br>Guarantees                                                                         |
+| 70. | Nat 2002/c.473-70              | 29.7.70  | Guidelines under which guarantees<br>may or may not be considered                                                  |
+| 71. | DBOD.No.Sch.BC.1051/C.96(S)-69 | 01.07.69 | Unsecured<br>Advances<br>made<br>to<br>Exporters on Consignment Basis to<br>be Excluded for the Purpose of<br>Norm |
+| 72. | DBOD.No.Sch.BC.1001/C.96Z-69   | 23.06.69 | Bank Guarantees                                                                                                    |
+| 73. | DBOD.No.Sch.BC.2381/C.96(Z)-68 | 14.08.68 | Bank Guarantees                                                                                                    |
+| 74. | DBOD.No.Sch.BC.2342/C.96S-68   | 08.08.68 | Advances against Book Debts                                                                                        |
+| 75. | DBOD.No.Sch.BC.481/C.96S-68    | 30.03.68 | Unsecured Advances                                                                                                 |
+| 76. | DBOD.No.Sch.BC.421/C.96(S)-68  | 19.03.68 | Unsecured Advances -<br>Advances<br>against<br>Supply Bills Drawn on Central/State<br>Governments                  |
+| 77. | DBOD.No.Sch.BC.359/C.96S-68    | 07.03.68 | Unsecured Advances - Inland D/A<br>Bills having a Usance of 90 Days                                                |
+| 78. | DBOD.No.Sch.BC.68/C.96(S)-68   | 12.01.68 | Unsecured Advances - Guidelines                                                                                    |
+| 79. | DBOD.No.Sch.BC.1850/C.96Z-67   | 07.12.67 | Bank Guarantees                                                                                                    |
+| 80. | DBOD.No.Sch.BC.1794/C.96Z-67   | 29.11.67 | Bank Guarantees                                                                                                    |
+| 81. | DBOD.No.Sch.BC.1693/C.96S-67   | 08.11.67 | Advances<br>against<br>Shares<br>and<br>Unsecured Advances - Guidelines                                            |
+| 82. | DBOD.No.Sch.BC.1296/C.96Z-67   | 21.08.67 | Bank Guarantees                                                                                                    |
+| 83. | DBOD.No.Sch.BC.1069/C.96Z-67   | 11.07.67 | Guarantee Business of Banks -<br>Guidelines - Clarification                                                        |
+| 84. | DBOD.No.Sch.BC.666/C.96Z-67    | 03.05.67 | Guidelines<br>and<br>Norms<br>for<br>Guarantee Business Undertaken by<br>Banks                                     |
+

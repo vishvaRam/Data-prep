@@ -1,0 +1,5 @@
+| Total Exposure                      | LEI to be obtained on or before |
+|-------------------------------------|---------------------------------|
+| Above ₹25 crore                     | April 30, 2023                  |
+| Above ₹10 crore, up to ₹25 crore    | April 30, 2024                  |
+| ₹5 crore and above, up to ₹10 crore | April 30, 2025                  |

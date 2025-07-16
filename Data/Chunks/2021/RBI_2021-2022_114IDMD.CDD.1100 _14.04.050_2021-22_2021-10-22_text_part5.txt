@@ -1,0 +1,37 @@
+Reserve Bank of India shall also apply to the bonds.
+
+(iii) The pledge/hypothecation/lien on the bond held in stock certificate form shall be recorded and revoked by the banks providing the loan, in accordance with the provisions of section 28 of GS Act and Chapter VII of GS Regulations, using the facility provided in the E-Kuber portal. The lien marking rights in case of bonds held in BLA is provided to the ROs, who can do the same through E-Kuber portal of RBI.
+
+(iv) In case of bonds held with the depositories and in RDG account under RBI Retail Direct Scheme, the lien is marked by the CSGL holder in line with the practice followed for other stocks and shares which are accepted as collateral by the banks. The detailed procedure for marking of lien is provided in the user manual on our website.
+
+(v) In the event of the bank invoking the pledge/hypothecation/lien, after initiating the necessary entry In E-Kuber, the authorisation request for transfer of the bonds to the bank may be submitted to PDO, Mumbai through [E-mail](mailto:pdomumbai@rbi.org.in) in accordance with the provisions of Chapter VII, Regulation 21 of the Government Securities Regulation 2007, with additional supporting documents including court order, if any.
+
+# **12. Payment of Interest**
+
+(i) The interest on the bonds, as applicable, shall be paid on a half yearly basis. The amount will be credited by RBI to the bank account of the holder of bonds in case of bond held in BLA and RDG Acount through electronic means on the date on which the interest is payable. Where the bonds are held with the depositories, the interest amount will be disbursed through depositories, who will arrange to credit the amount to the bank accounts of the holders (as available in their records) through electronic means on the due date.
+
+(ii) In case, it is not possible to accord credit to the account of the beneficiary due to closure of bank account or otherwise, destination banks shall return the transaction to PDO Mumbai/RBI within two hours of completion of the batch in which the transaction was processed along with details of UTR number.
+
+# **13. Repayment of Bonds**
+
+RO/depository shall inform the investor about the date of maturity of the Bond one month before its maturity. The Bond shall be repayable on the expiration of eight years from the date of issue of the bond. No claim needs to be submitted to RBI for the purpose by the investors. Premature redemption of the bonds is permitted after five year from the date of issue of such bond, on the date on which the next interest is payable. The request for pre-mature redemption shall be submitted to the RO or Depository through DP (in case of dematerialized securities) at least 10 days before the next interest payment date. If the RO/Depository Participant/Depository so desires it can call for additional documents, KYC proof, declaration etc. The request shall be scrutinized to verify the correctness of the particulars and may be submitted to RBI through the E-Kuber Portal at least four days before the due date of interest. On maturity and in case of premature redemption, the Bonds shall be redeemed in Indian Rupees and the redemption price shall be based on simple average of closing price of gold of 999 purity of previous week (Monday to Friday) for SGBs issued under tranche 1 to 9 and previous three working days for tranches issued thereafter at the rate published by the India Bullion and Jewellers Association Limited. The redemption proceeds shall be credited to the bank account of the customer.
+
+### **14. Payment of brokerage**
+
+ROs may by their own, appoint agents for increasing subscription of Sovereign Gold Bonds. Commission for distribution to such agents shall be paid at the rate of rupee one per hundred of the total subscription received by the ROs on the applications received and ROs **shall share at least 50%** of the commission so received with the agents or sub-agents for the business procured through them.
+
+### **15. Change of address, correction of name, change of account number and other miscellaneous requests in case of bonds held in the form of stock certificates.**
+
+The requests of the customer (in plain paper) in case of bonds held in the form of BLA with RBI supported by the Certificate of Holding may be processed by the ROs through the E-Kuber portal after verification of the particulars and subject to their satisfaction. The ROs may call for additional documents if deemed necessary. The requests may be entered by ROs in the RBI portal for giving effect to the changes.
+
+# **16. Preservation of Records**
+
+The application forms and other requests may be preserved by the ROs/ Depositories till the maturity of the bond. Premature redemption request may be preserved for three years from the date of payment of proceeds.
+
+# **17. Links**
+
+The link to various user manual related to various modules in E-Kuber is as under:
+
+For subscription - SGB USER FLOW- INTIATION.
+
+For Subscription Cancellation

@@ -1,0 +1,48 @@
+![](_page_0_Picture_0.jpeg)
+
+## RBI/2021-22/96 CO.DPSS.POLC.No.S-516/02-14-003/2021-22 September 07, 2021
+
+All Payment System Providers and Payment System Participants
+
+Madam / Dear Sir,
+
+## **Tokenisation – Card Transactions: Permitting Card-on-File Tokenisation (CoFT) Services**
+
+We invite reference to our circular [DPSS.CO.PD No.1463/02.14.003/2018-19 dated January 8,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0)  [2019](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0) on "*Tokenisation – Card transactions*", permitting authorised card networks to offer card tokenisation services subject to the conditions listed therein. Initially limited to mobile phones and tablets, this facility was subsequently extended to laptops, desktops, wearables (wrist watches, bands, etc.), Internet of Things (IoT) devices, etc., vide our [circular CO.DPSS.POLC.No.S-](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12152&Mode=0)[469/02-14-003/2021-22 dated August 25, 2021](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12152&Mode=0) on "*Tokenisation – Card Transactions : Extending the Scope of Permitted Devices*".
+
+2. Reference is also invited to ou[r circulars DPSS.CO.PD.No.1810/02.14.008/2019-20 dated](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0)  [March 17, 2020](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) (as updated from time to time) and [CO.DPSS.POLC.No.S33/02-14-008/2020-](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12050&Mode=0) [2021 dated March 31, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12050&Mode=0) on "*Guidelines on Regulation of Payment Aggregators and Payment Gateways*", advising that neither the authorised Payment Aggregators (PAs) nor the merchants on-boarded by them shall store customer card credentials [also known as Card-on-File (CoF)].
+
+3. On a review of the tokenisation framework and to enable cardholders to benefit from the security of tokenised card transactions as also the convenience of CoF, it has been decided to effect the following enhancements –
+
+> भुगतान और िनपटान �णाली िवभाग, क� �ीय कायार्लय, 14वीमंिजल, क� �ीयकायार्लयभवन,शहीदभगत�संहमागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फै क् सFax: (91-22) 22691557; ई-मेलe-mail : [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai -
+
+�हंदी आसान है, इसका �योग बढ़ाइए
+
+- a) Extend the device-based tokenisation[1](#page-1-0) framework referred to at paragraph 1 above to CoF Tokenisation (CoFT) as well.
+- b) Permit card issuers to offer card tokenisation services as Token Service Providers[2](#page-1-1) (TSPs).
+- c) The facility of tokenisation shall be offered by the TSPs only for the cards issued by / affiliated to them.
+- d) The ability to tokenise[3](#page-1-2) and de-tokenise card data shall be with the same TSP.
+- e) Tokenisation of card data shall be done with explicit customer consent requiring Additional Factor of Authentication (AFA) validation by card issuer.
+- f) Additional requirements relating to CoFT are listed in the **[Annex](#page-2-0)**.
+- 4. Further, in the interest of cIarity, the following points may be noted
+	- a) With effect from January 1, 2022, no entity in the card transaction / payment chain, other than the card issuers and / or card networks, shall store the actual card data. Any such data stored previously shall be purged.
+	- b) For transaction tracking and / or reconciliation purposes, entities can store limited data – last four digits of actual card number and card issuer's name – in compliance with the applicable standards.
+	- c) Complete and ongoing compliance with the above by all entities involved, shall be the responsibility of the card networks.
+
+5. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(P. Vasudevan) Chief General Manager
+
+<span id="page-1-0"></span> <sup>1</sup> The term "device-based tokenisation" wherever used in this circular refers to card tokenisation framework laid down vide [RBI](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0)  [circulars dated January 8, 2019](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0) an[d August 25, 2021.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=12152&Mode=0)
+
+<span id="page-1-1"></span><sup>2</sup> Token Service Provider (TSP) refers to the entity which tokenises the actual card credentials and de-tokenises them whenever required. Earlier only card networks were allowed to act as TSPs.
+
+<span id="page-1-2"></span><sup>3</sup> In this circular, the word "token" wherever used includes token reference number, card reference number or any other similar term.
+
+<span id="page-2-0"></span>(CO.DPSS.POLC.No.S-516/02-14-003/2021-22 dated September 07, 2021)
+
+## *

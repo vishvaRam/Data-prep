@@ -1,0 +1,354 @@
+| Sl.<br>No. | Subject                                                       | PageNo. |
+|------------|---------------------------------------------------------------|---------|
+| 1.         | Introduction                                                  | 3       |
+| 2.         | Statutory<br>Requirements                                     | 3       |
+| 3.         | Capital Adequacy Norms                                        | 3       |
+| 4.         | Capital for Market Risk                                       | 7       |
+| 5.         | Share linking to Borrowings                                   | 7       |
+| 6.         | Refund of Share Capital                                       | 8       |
+| 7.         | Measures for protection of investors in regulatory            | 9       |
+|            | capital<br>instruments specified in Annex-II and Annex-III    |         |
+| 8.         | Returns                                                       | 9       |
+| 9.         | Annex-I<br>-<br>Risk<br>Weights<br>for computation<br>of CRAR | 10      |
+| 10.        | Annex-II<br>-<br>Guidelines on issuance<br>of Preference      | 17      |
+|            | Shares                                                        |         |
+| 11.        | Annex-III<br>-<br>Guidelines on issuance of Debt Capital      | 23      |
+|            | Instruments                                                   |         |
+| 12.        | Annex-IV<br>-<br>Proforma for<br>Returns                      | 29      |
+| 13.        | Appendix                                                      | 32      |
+
+| Assets<br>Items |       |                                                                                                                                                                                                                                                                                                                                                                                                          | Risk                                 |
+|-----------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+|                 |       |                                                                                                                                                                                                                                                                                                                                                                                                          | Weight                               |
+| I.              |       | Balances                                                                                                                                                                                                                                                                                                                                                                                                 |                                      |
+|                 | i.    | Cash<br>(including<br>foreign<br>currency<br>notes)<br>Balances<br>with<br>RBI                                                                                                                                                                                                                                                                                                                           | 0                                    |
+|                 | ii.   | Balances<br>in<br>current<br>account<br>with<br>UCBs                                                                                                                                                                                                                                                                                                                                                     | 20                                   |
+|                 | iii.  | Balances<br>in<br>current account<br>with<br>other banks                                                                                                                                                                                                                                                                                                                                                 | 20                                   |
+| II.             |       | Investments                                                                                                                                                                                                                                                                                                                                                                                              |                                      |
+|                 | i.    | Investment<br>in Government Securities                                                                                                                                                                                                                                                                                                                                                                   | 2.5                                  |
+|                 | ii.   | Investment<br>in<br>other<br>Approved<br>Securities<br>guaranteed                                                                                                                                                                                                                                                                                                                                        | 2.5                                  |
+|                 |       | by<br>Central Government / State Government                                                                                                                                                                                                                                                                                                                                                              |                                      |
+|                 | iii.  | Investment<br>in<br>Other<br>Securities<br>where<br>payment<br>of<br>interest<br>and repayment<br>of<br>principal are<br>guaranteed<br>by Central Govt. (include investment in Indira / Kisan<br>Vikas Patras and investments in bonds & debentures<br>where<br>payment<br>of<br>interest<br>and<br>repayment<br>of<br>principal<br>is<br>guaranteed<br>by<br>Central<br>Govt.<br>/<br>State Government) | 2.5                                  |
+|                 | iv.   | Investment<br>in<br>other<br>securities<br>where<br>payment<br>of<br>interest<br>and<br>repayment<br>of<br>principal<br>are<br>guaranteed<br>by<br>State Govt.<br>Note: Investment<br>in<br>securities<br>where<br>payment<br>of<br>interest<br>of principal is guaranteed by State Government and which                                                                                                 | 2.5<br>or repayment<br>has<br>become |
+|                 |       | a<br>non-performing<br>investment,<br>will<br>attract<br>102.5<br>percentage<br>(w.e.f.<br>March<br>31,<br>2006)                                                                                                                                                                                                                                                                                         | risk weight                          |
+|                 | v.    | Investment<br>in<br>other<br>Approved<br>Securities<br>where<br>payment<br>of<br>interest<br>and<br>repayment<br>of<br>principal<br>is<br>not<br>guaranteed<br>by Central / State Govt.                                                                                                                                                                                                                  | 22.5                                 |
+|                 |       | Investment<br>in<br>Govt.<br>guaranteed<br>securities<br>of<br>government undertakings which do not form part of<br>the<br>approved market borrowing<br>Program                                                                                                                                                                                                                                          | 22.5                                 |
+|                 | vi.   | (a)<br>Claims on commercial banks,<br>District Central<br>Co-operative<br>Banks,<br>and<br>State<br>Co-operative<br>Banks<br>such<br>as<br>fixed<br>deposits,<br>certificates<br>of<br>deposits,<br>etc.                                                                                                                                                                                                 | 20                                   |
+|                 |       | (b)<br>Claims<br>on<br>other<br>Urban<br>Co-operative<br>banks such<br>as term / fixed deposits                                                                                                                                                                                                                                                                                                          |                                      |
+|                 | vii.  | Investments<br>in<br>bonds<br>issued<br>by<br>All<br>India<br>Public<br>financial<br>Institutions.                                                                                                                                                                                                                                                                                                       | 102.5                                |
+|                 | viii. | Investments<br>in<br>bonds<br>issued<br>by<br>Public<br>Financial<br>Institutions<br>for their Tier-II Capital                                                                                                                                                                                                                                                                                           | 102.5                                |
+
+|      | ix                                                                                                        | Investment in bonds/ debentures/Security Receipts<br>102.5<br>by<br>Asset Reconstruction Company |                                                                                                          |       |  |
+|------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-------|--|
+|      |                                                                                                           | issued                                                                                           |                                                                                                          |       |  |
+|      | x.                                                                                                        | All<br>Other                                                                                     | 102.5                                                                                                    |       |  |
+|      |                                                                                                           | Note                                                                                             |                                                                                                          |       |  |
+|      | xi.                                                                                                       | The                                                                                              | capital<br>should<br>be assigned<br>zero weight                                                          |       |  |
+|      |                                                                                                           | off<br>balance<br>sheet<br>(net)<br>position<br>in<br>'WI'<br>securities,<br>scrip-wise.         |                                                                                                          |       |  |
+| III. | Loans                                                                                                     | and                                                                                              |                                                                                                          |       |  |
+|      | i.                                                                                                        |                                                                                                  | 0                                                                                                        |       |  |
+|      |                                                                                                           |                                                                                                  | Loans and advances including bills purchased and<br>discounted and other credit facilities guaranteed by |       |  |
+|      |                                                                                                           | GOI                                                                                              |                                                                                                          |       |  |
+|      | ii.                                                                                                       |                                                                                                  | Loans<br>guaranteed by State<br>Govt                                                                     |       |  |
+|      | iii.                                                                                                      | A<br>State                                                                                       | 0<br>100                                                                                                 |       |  |
+|      |                                                                                                           | become                                                                                           |                                                                                                          |       |  |
+|      | iv.                                                                                                       | a<br>non<br>performing advance<br>(w.e.f 31.03.06)<br>Loans<br>granted to<br>PSUs of GOI         |                                                                                                          |       |  |
+|      | v.                                                                                                        | Real                                                                                             |                                                                                                          |       |  |
+|      |                                                                                                           | Estate<br>Exposure<br>Mortgaged<br>residential<br>housing<br>loan<br>to<br>individuals<br>(a)    |                                                                                                          |       |  |
+|      |                                                                                                           |                                                                                                  | -<br>upto<br>₹30.00 lakh<br>(LTV* ratio =or<75%)                                                         | 50    |  |
+|      |                                                                                                           |                                                                                                  | -<br>above<br>₹30.00 (LTV<br>ratio =or<75%).                                                             | 75    |  |
+|      | -<br>Irrespective<br>of<br>the<br>loan<br>amount<br>(LTV<br>ratio<br>>75<br>%).                           |                                                                                                  |                                                                                                          |       |  |
+|      |                                                                                                           | (b)                                                                                              | Commercial<br>Real<br>Estate                                                                             | 100   |  |
+|      | (c)<br>Co-op<br>/<br>group<br>housing<br>societies<br>and<br>Housing                                      |                                                                                                  |                                                                                                          |       |  |
+|      | Board<br>and for any other purpose.<br>(d)<br>Commercial<br>Real<br>Estate<br>–<br>Residential<br>Housing |                                                                                                  |                                                                                                          | 75    |  |
+|      | *                                                                                                         | LTV ratio                                                                                        | should be<br>computed<br>as<br>a<br>percentage<br>of<br>total<br>outstanding in<br>the                   |       |  |
+|      | account                                                                                                   |                                                                                                  | (viz.<br>"principal<br>+<br>accrued<br>interest<br>+<br>other<br>charges<br>pertaining<br>to<br>the      |       |  |
+|      | loan"                                                                                                     |                                                                                                  | without<br>any<br>netting)<br>in<br>the<br>numerator<br>and<br>the<br>realizable<br>value<br>of<br>the   |       |  |
+|      |                                                                                                           | residential                                                                                      | property mortgaged<br>to<br>the<br>bank in the<br>denominator<br>Loans and<br>Advances                   |       |  |
+|      | vi.                                                                                                       | Retail                                                                                           |                                                                                                          |       |  |
+|      |                                                                                                           | (a)                                                                                              | consumer<br>credit including<br>personal<br>loan                                                         | 125   |  |
+|      |                                                                                                           | (b)                                                                                              | loans<br>up<br>to<br>₹1<br>lakh<br>against<br>gold<br>and<br>silver                                      | 50    |  |
+|      |                                                                                                           |                                                                                                  | ornaments                                                                                                |       |  |
+|      |                                                                                                           | (c)                                                                                              | all<br>other<br>loans<br>and<br>advances<br>including                                                    | 100   |  |
+|      |                                                                                                           |                                                                                                  | educational<br>loan.                                                                                     |       |  |
+|      | (d)<br>Loans<br>extended<br>against<br>primary<br>/<br>collateral                                         |                                                                                                  |                                                                                                          | 127.5 |  |
+|      | security<br>of shares / debentures<br>Leased<br>Assets                                                    |                                                                                                  |                                                                                                          |       |  |
+|      | vii.<br>(a)<br>Loans<br>and<br>advances<br>for<br>eligible<br>activities<br>to                            |                                                                                                  | 100                                                                                                      |       |  |
+|      | NBFCs<br>engaged<br>in<br>hire<br>purchase<br>/<br>leasing                                                |                                                                                                  |                                                                                                          |       |  |
+|      | activities<br>now<br>classified<br>as<br>Asset<br>Finance                                                 |                                                                                                  |                                                                                                          |       |  |
+|      |                                                                                                           | Companies                                                                                        |                                                                                                          |       |  |
+|      |                                                                                                           | (b)<br>loans<br>and<br>advances<br>for<br>eligible<br>activities<br>to                           |                                                                                                          |       |  |
+|      |                                                                                                           | 125<br>Non-Deposit<br>Taking<br>Systemically<br>Important                                        |                                                                                                          |       |  |
+|      |                                                                                                           | Non-Banking<br>Finance<br>Companies<br>(NBFC-ND                                                  |                                                                                                          |       |  |
+|      |                                                                                                           | SI)<br>engaged<br>in hire<br>purchase /<br>leasing<br>activities                                 |                                                                                                          |       |  |
+|      | viii.                                                                                                     |                                                                                                  | Advances covered<br>by<br>DICGC /<br>ECGC                                                                | 50    |  |
+
+|     | ix.                                                    | Portion<br>of<br>housing<br>loan<br>guaranteed<br>by<br>Credit<br>Risk<br>Guarantee<br>Fund<br>Trust<br>for<br>Low<br>Income<br>Housing  | 0   |  |  |
+|-----|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----|--|--|
+|     |                                                        | (CRGFTLIH).<br>The<br>balance<br>outstanding<br>excess<br>of                                                                             |     |  |  |
+|     |                                                        | guaranteed<br>portion<br>will<br>attract<br>appropriate<br>risk-weight                                                                   |     |  |  |
+|     | Note                                                   | The<br>risk<br>weight<br>of<br>50%<br>should<br>be<br>limited<br>to<br>the<br>amount<br>guaranteed<br>:                                  |     |  |  |
+|     | and                                                    | not<br>the<br>entire<br>outstanding<br>balance<br>in<br>the<br>accounts.<br>In<br>other<br>words,<br>the                                 |     |  |  |
+|     | x.                                                     | outstanding<br>in<br>excess<br>of<br>the<br>amount guaranteed,<br>will<br>carry<br>100%<br>risk<br>weight.                               |     |  |  |
+|     |                                                        | Advances<br>for<br>term<br>deposits,<br>Life<br>policies,<br>NSCs,IVPs<br>0<br>and<br>KVPs where adequate<br>margin<br>is available      |     |  |  |
+|     | xi.                                                    | Loans<br>to<br>staff<br>of<br>banks,<br>which<br>are<br>fully<br>covered<br>by<br>20                                                     |     |  |  |
+|     |                                                        | superannuation<br>benefits<br>and mortgage<br>of flat<br>/ house                                                                         |     |  |  |
+|     |                                                        | Notes : While calculating the aggregate of funded and non-funded exposure                                                                |     |  |  |
+|     |                                                        | of a borrower for the purpose of assignment of risk weight, banks may 'net                                                               |     |  |  |
+|     | off'                                                   | against<br>the total<br>outstanding<br>exposure<br>of<br>the<br>borrower<br>-                                                            |     |  |  |
+|     | (a)                                                    | advances<br>Collateralised<br>by<br>cash<br>margins<br>or<br>deposits,                                                                   |     |  |  |
+|     | (b)                                                    | credit<br>balances<br>in<br>current<br>or<br>other<br>accounts<br>of<br>the<br>borrower<br>which<br>are                                  |     |  |  |
+|     |                                                        | not<br>earmarked<br>for<br>specific<br>purposes<br>and<br>free from<br>any<br>lien,                                                      |     |  |  |
+|     | (c)                                                    | in<br>respect<br>of<br>any<br>assets<br>where<br>provisions<br>for<br>depreciation<br>or<br>for<br>bad<br>debts<br>have<br>been<br>made, |     |  |  |
+|     | (d)                                                    | claims recd. from DICGC / ECGC and kept in a separate a/c pending                                                                        |     |  |  |
+|     |                                                        | adjustment<br>in<br>case<br>these<br>are<br>not<br>adjusted<br>against<br>the<br>dues<br>outstanding                                     |     |  |  |
+|     |                                                        | in the respective<br>a/cs.                                                                                                               |     |  |  |
+| IV. | Other                                                  | Assets                                                                                                                                   |     |  |  |
+|     | 1.<br>Premises,<br>furniture<br>and<br>fixtures<br>100 |                                                                                                                                          |     |  |  |
+|     | 2.                                                     | Other<br>assets                                                                                                                          |     |  |  |
+|     |                                                        | (i)<br>Interest<br>due<br>on<br>Government<br>securities                                                                                 | 0   |  |  |
+|     |                                                        | (ii)<br>Accrued<br>interest<br>on<br>CRR<br>balances<br>maintained                                                                       | 0   |  |  |
+|     |                                                        | with<br>RBI                                                                                                                              |     |  |  |
+|     |                                                        | (iii)<br>Interest<br>receivable<br>on<br>staff<br>loans                                                                                  | 20  |  |  |
+|     |                                                        | (iv)<br>Interest<br>receivable<br>from<br>banks                                                                                          | 20  |  |  |
+|     |                                                        | (v)<br>All<br>other assets                                                                                                               | 100 |  |  |
+| V.  | Market                                                 | Risk on<br>Open Position                                                                                                                 |     |  |  |
+|     | 1.                                                     | Market<br>risk<br>on<br>foreign<br>exchange<br>open<br>position                                                                          | 100 |  |  |
+|     |                                                        | (Applicable<br>to Authorised<br>Dealers only)                                                                                            |     |  |  |
+|     | 2.                                                     | Market<br>risk on open<br>gold<br>position<br>100                                                                                        |     |  |  |
+
+| Sl. | Instruments<br>Credit                                                                                                                                                     |                |  |  |  |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--|--|--|
+| No. |                                                                                                                                                                           | Conversion     |  |  |  |
+|     |                                                                                                                                                                           | Factor<br>(%)  |  |  |  |
+| 1   | Financial Guarantees/ Direct credit substitutes e.g.                                                                                                                      | 100            |  |  |  |
+|     | general guarantees of indebtedness (including stand                                                                                                                       |                |  |  |  |
+|     | L/Cs serving as financial guarantees for loans and                                                                                                                        |                |  |  |  |
+|     | securities)<br>and<br>acceptances<br>(including                                                                                                                           |                |  |  |  |
+|     | endorsements<br>with character of<br>acceptance)                                                                                                                          |                |  |  |  |
+| 2   | Performance Guarantees/ Related contingent items<br>50                                                                                                                    |                |  |  |  |
+|     | (e.g.<br>warranties<br>and<br>standby<br>L/Cs<br>related<br>to                                                                                                            |                |  |  |  |
+|     | particular<br>transactions)                                                                                                                                               |                |  |  |  |
+| 3   | Short-term<br>self-liquidating<br>trade-related                                                                                                                           | 20             |  |  |  |
+|     | contingencies<br>(such<br>as<br>documentary<br>credits                                                                                                                    |                |  |  |  |
+|     | collateralised<br>by the underlying shipments)                                                                                                                            |                |  |  |  |
+| 4   | Sale<br>and<br>repurchase<br>agreement<br>and<br>asset<br>sales<br>with recourse, where the credit risk remains with the                                                  | 100            |  |  |  |
+|     | bank.                                                                                                                                                                     |                |  |  |  |
+| 5   | Forward asset purchase, forward deposit and partly                                                                                                                        | 100            |  |  |  |
+|     | paid<br>shams<br>and<br>securities,<br>which<br>represent                                                                                                                 |                |  |  |  |
+|     | commitments<br>with certain draw down                                                                                                                                     |                |  |  |  |
+| 6   | Note<br>issuance<br>facilities<br>and<br>revolving<br>underwriting                                                                                                        | 50             |  |  |  |
+|     | facilities                                                                                                                                                                |                |  |  |  |
+| 7   | 50<br>Other commitments (e.g., formal standby facilities                                                                                                                  |                |  |  |  |
+|     | and credit lines) with an original maturity of over one                                                                                                                   |                |  |  |  |
+|     | year.                                                                                                                                                                     |                |  |  |  |
+| 8   | Similar commitments with an original maturity upto                                                                                                                        | 0              |  |  |  |
+|     | one year, or which can be unconditionally cancelled                                                                                                                       |                |  |  |  |
+|     | at<br>any time.                                                                                                                                                           |                |  |  |  |
+| 9   | (i)<br>Guarantees<br>issued<br>by<br>banks<br>against<br>the                                                                                                              | 20             |  |  |  |
+|     | counter guarantees of other banks                                                                                                                                         |                |  |  |  |
+|     | (ii)<br>Rediscounting of documentary bills accepted by                                                                                                                    | 20             |  |  |  |
+|     | banks. Bills discounted by banks which have                                                                                                                               |                |  |  |  |
+|     | been accepted by another bank will be treated                                                                                                                             |                |  |  |  |
+|     | as<br>a funded claim on a bank.<br>In<br>these<br>cases,<br>banks<br>should<br>be<br>fully<br>satisfied<br>that<br>the<br>risk exposure<br>Note<br>:                      |                |  |  |  |
+|     | is, in fact, on the other bank. Bills purchased / discounted /                                                                                                            | negotiated     |  |  |  |
+|     | under LC (where the payment to the beneficiary is not made                                                                                                                | 'under         |  |  |  |
+|     | reserve') will be treated as an exposure on the LC issuing bank<br>and not on                                                                                             |                |  |  |  |
+|     | the borrower. All clean negotiations as indicated above,<br>will<br>be<br>assigned                                                                                        |                |  |  |  |
+|     | the<br>risk<br>weight<br>which<br>is<br>normally<br>applicable<br>to<br>inter-bank<br>exposures,<br>for                                                                   |                |  |  |  |
+|     | capital<br>adequacy<br>purposes.<br>In<br>the<br>case<br>of<br>negotiations<br>'under reserve'<br>the exposure should be treated as on the borrower and<br>risk<br>weight |                |  |  |  |
+|     | assigned accordingly.                                                                                                                                                     |                |  |  |  |
+| 10  | Aggregate<br>outstanding<br>foreign<br>exchange<br>contracts                                                                                                              | of<br>original |  |  |  |
+|     | maturity<br>-                                                                                                                                                             |                |  |  |  |
+|     | Less<br>than 14 calendar<br>days                                                                                                                                          | 0              |  |  |  |
+
+|            | more<br>than<br>14<br>days but less<br>than<br>one<br>year                    | 2                    |  |
+|------------|-------------------------------------------------------------------------------|----------------------|--|
+|            | for each<br>additional year or<br>part thereof                                | 3                    |  |
+| Notes<br>: |                                                                               |                      |  |
+|            | While calculating the aggregate of funded and non-funded exposure of a        |                      |  |
+|            | borrower for the purpose of assignment of risk weight, bank may 'net-off'     |                      |  |
+|            | against the total outstanding exposure of the borrower credit balances in     |                      |  |
+|            | current<br>or<br>other<br>accounts<br>which<br>are<br>not<br>earmarked<br>for | specific<br>purposes |  |
+|            | and<br>free<br>from<br>any<br>lien.                                           |                      |  |
+|            | After applying the conversion factor as indicated above, the adjusted off     |                      |  |
+|            | Balance Sheet value shall again be<br>multiplied by the weight attributable   | to                   |  |
+|            | the relevant counter-party as specified.                                      |                      |  |
+
+| Original maturity                   | Conversion factor          |                               |  |
+|-------------------------------------|----------------------------|-------------------------------|--|
+|                                     | Interest rate<br>contracts | Foreign Exchange<br>Contracts |  |
+| Less than one year                  | 0.5%                       | 2%                            |  |
+| One year and less<br>than two years | 1.0%                       | 5% (i.e. 2% + 3%)             |  |
+| For each additional<br>year         | 1.0%                       | 3%                            |  |
+
+| Original maturity   | Conversion factor |             |  |
+|---------------------|-------------------|-------------|--|
+|                     | Interest          | Foreign     |  |
+|                     | rate              | Exchange    |  |
+|                     | contracts         | Contracts   |  |
+| Less than one year  | 0.35%             | 1.5%        |  |
+| One year and less   | 0.75%             | 3.75% (i.e. |  |
+| than two years      |                   | 1.5% +      |  |
+|                     |                   | 2.25%)      |  |
+| For each additional | 0.75%             | 2.25%       |  |
+| year                |                   |             |  |
+
+| Remaining Maturity of Instruments             | Rate of Discount (%) |
+|-----------------------------------------------|----------------------|
+| Less than one year                            | 100                  |
+| One year and more but less than two years     | 80                   |
+| Two years and more but less than three years  | 60                   |
+| Three years and more but less than four years | 40                   |
+| Four years and more but less than five years  | 20                   |
+
+| Remaining Maturity of Instruments             | Rate of Discount (%) |  |  |
+|-----------------------------------------------|----------------------|--|--|
+| Less than one year                            | 100                  |  |  |
+| One year and more but less than two years     | 80                   |  |  |
+| Two years and more but less than three years  | 60                   |  |  |
+| Three years and more but less than four years | 40                   |  |  |
+| Four years and more but less than five years  | 20                   |  |  |
+
+| I           | Capital<br>Funds                                                                                                                                         |               |             |  |  |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------|--|--|
+| A           | Tier<br>I<br>Capital<br>elements                                                                                                                         |               |             |  |  |
+|             | (a)<br>Paid-up<br>Capital                                                                                                                                |               |             |  |  |
+|             | Less<br>: Intangible<br>assets and<br>losses                                                                                                             |               |             |  |  |
+|             | Net<br>Paid-up<br>Capital                                                                                                                                |               |             |  |  |
+|             | (b)<br>Reserves<br>& Surplus                                                                                                                             |               |             |  |  |
+|             | 1. Statutory<br>reserves                                                                                                                                 |               |             |  |  |
+|             | 2.<br>Capital<br>reserves (see<br>note below)                                                                                                            |               |             |  |  |
+|             | 3.<br>Other<br>reserves                                                                                                                                  |               |             |  |  |
+|             | 4.<br>Surplus in<br>Profit<br>&<br>Loss Account*                                                                                                         |               |             |  |  |
+|             | Total<br>Reserves & Surplus                                                                                                                              |               |             |  |  |
+|             | Total<br>Capital Funds (a +<br>b)                                                                                                                        |               |             |  |  |
+|             | Notes:<br>Capital<br>reserves<br>representing<br>surplus<br>on<br>sales<br>of<br>assets<br>and<br>held<br>in<br>a                                        |               |             |  |  |
+|             | separate<br>account<br>will<br>be<br>included                                                                                                            |               |             |  |  |
+| Revaluation | reserves,<br>general/floating<br>provisions<br>and<br>specific                                                                                           | provisions    | made<br>for |  |  |
+|             | loan<br>losses<br>and<br>other<br>asset<br>losses<br>or<br>diminution<br>in<br>the<br>value<br>of<br>any<br>assets<br>will<br>not                        |               |             |  |  |
+|             | be<br>reckoned<br>as<br>Tier<br>I<br>capital<br>funds.                                                                                                   |               |             |  |  |
+|             | *<br>In case of surplus in P & L Account [ not allocated and yet to be approved by<br>AGM]                                                               |               |             |  |  |
+| (a)         | the following<br>assumption may<br>be<br>made:<br>The<br>current<br>year's<br>surplus<br>may<br>be<br>nationally<br>arrived<br>at<br>to<br>the<br>extent |               |             |  |  |
+|             | recommended by the BOD to be allocated among various reserves/funds and                                                                                  |               |             |  |  |
+| retained    | in business.                                                                                                                                             |               |             |  |  |
+| (b)         | Where the BOD have not decided the distribution of the surplus, it may be                                                                                |               |             |  |  |
+| notionally  | arrived at on<br>the basis of<br>last 3 years average.                                                                                                   |               |             |  |  |
+| B           | Tier<br>II<br>capital elements                                                                                                                           |               |             |  |  |
+| (i)         | Undisclosed<br>reserves                                                                                                                                  |               |             |  |  |
+| (ii)        | Revaluation<br>reserves                                                                                                                                  |               |             |  |  |
+| (iii)       | General<br>provisions and loss<br>reserves #                                                                                                             |               |             |  |  |
+| (iv)        | Investment<br>Fluctuation Reserves /<br>Funds                                                                                                            |               |             |  |  |
+| (v)         | Hybrid<br>debt capital instruments                                                                                                                       |               |             |  |  |
+| (vi)        | Subordinated<br>debts                                                                                                                                    |               |             |  |  |
+|             | Total                                                                                                                                                    |               |             |  |  |
+|             | Total<br>of I<br>(A<br>+ B)                                                                                                                              |               |             |  |  |
+| #           | Includes General<br>Provision on<br>standard assets<br>(subject to                                                                                       | restrictions) |             |  |  |
+| II          | Risk<br>Assets                                                                                                                                           |               |             |  |  |
+| (a)         | Adjusted value of funded risk assets i.e. on                                                                                                             |               |             |  |  |
+|             | Balance<br>Sheet<br>items (to<br>tally with<br>Part 'B')                                                                                                 |               |             |  |  |
+| (b)         | Adjusted<br>value<br>of non-funded<br>and<br>off-Balance                                                                                                 |               |             |  |  |
+
+|     | Sheet<br>items<br>(to tally<br>with Part<br>'C')                          |  |
+|-----|---------------------------------------------------------------------------|--|
+| (c) | Total<br>risk-weighted<br>assets<br>(a+b)                                 |  |
+| III | Percentage of capital funds to risk-weighted<br>assets<br>I<br>/ II x 100 |  |
+
+|                                                                         | Book  | Risk   | Risk     |
+|-------------------------------------------------------------------------|-------|--------|----------|
+|                                                                         | Value | weight | adjusted |
+|                                                                         |       |        | value    |
+| 1                                                                       | 2     | 3      | 4        |
+| I.CASH<br>&<br>BANK<br>BALANCES                                         |       |        |          |
+| a)<br>Cash<br>in<br>hand<br>(including<br>foreign                       |       |        |          |
+| currency notes)                                                         |       |        |          |
+| b)<br>Balance with<br>banks in<br>India                                 |       |        |          |
+| i)<br>Balance with<br>RBI                                               |       |        |          |
+| ii)<br>Balances<br>with banks                                           |       |        |          |
+| 1.<br>Current<br>account<br>(in<br>India<br>and<br>outside              |       |        |          |
+| India)                                                                  |       |        |          |
+| 2.<br>Other<br>accounts<br>(in<br>India<br>and<br>outside               |       |        |          |
+| India)                                                                  |       |        |          |
+| 3.<br>Current<br>Account<br>balances<br>with<br>other                   |       |        |          |
+| primary<br>co-operative banks                                           |       |        |          |
+| II.<br>Money at<br>Call<br>and<br>Short Notice                          |       |        |          |
+| III.<br>INVESTMENTS                                                     |       |        |          |
+| a) Government<br>and other approved                                     |       |        |          |
+| Securities*                                                             |       |        |          |
+| b)<br>Other<br>(net<br>of<br>depreciation<br>provided)                  |       |        |          |
+| IV.<br>ADVANCES**                                                       |       |        |          |
+| Loans and advances, bills purchased and                                 |       |        |          |
+| discounted and<br>other<br>credit facilities                            |       |        |          |
+| a) Claim<br>guaranteed<br>by<br>Govt<br>of India                        |       |        |          |
+| b)<br>Claims guaranteed<br>by<br>State Govt                             |       |        |          |
+| c)<br>Claims<br>on<br>public<br>sector<br>undertakings<br>of            |       |        |          |
+| Government of India                                                     |       |        |          |
+| d)<br>Claims on PSUs<br>of State<br>Governments                         |       |        |          |
+| e)<br>Others                                                            |       |        |          |
+| Notes:<br>1. Netting may be done<br>only for advances                   |       |        |          |
+| collateralised<br>by<br>cash<br>margins<br>in<br>deposits<br>and<br>in  |       |        |          |
+| respect<br>of<br>assets<br>where<br>provisions<br>for<br>depreciation   |       |        |          |
+| for<br>bad and<br>doubtful debts have<br>been made.                     |       |        |          |
+|                                                                         |       |        |          |
+| 2.<br>Equity<br>investments<br>in<br>subsidiaries,<br>intangible assets |       |        |          |
+| and<br>losses<br>deducted<br>from<br>Tier<br>I<br>capital<br>should be  |       |        |          |
+| assigned zero weight                                                    |       |        |          |
+| V.<br>Premises<br>(net of<br>depreciation provided)                     |       |        |          |
+
+| VI.<br>Furniture<br>and<br>fixtures<br>(net<br>of<br>depreciation<br>provided)    |                  |                   |                 |
+|-----------------------------------------------------------------------------------|------------------|-------------------|-----------------|
+| VII.<br>Other<br>assets<br>(including<br>branch<br>adjustments,                   |                  |                   |                 |
+| non-banking<br>assets, etc.)                                                      |                  |                   |                 |
+| Total                                                                             |                  |                   |                 |
+| *<br>Provision,<br>if<br>any,<br>made<br>for<br>depreciation<br>in<br>investments | in<br>Government | and<br>other      | approved        |
+| securities<br>may<br>be<br>indicated<br>by                                        | way              | of<br>a           | footnote.       |
+| **<br>Provisions<br>held,<br>either<br>general<br>or<br>specific,<br>for          | bad<br>and       | doubtful<br>debts | and<br>standard |
+| assets<br>may<br>be<br>indicated<br>by way<br>of<br>footnote.                     |                  |                   |                 |
+
+|                   |               |                      |                     |                | (₹<br>in Lakh)    |
+|-------------------|---------------|----------------------|---------------------|----------------|-------------------|
+| Nature of<br>Item | Book<br>Value | Conversion<br>Factor | Equivalent<br>Value | Risk<br>Weight | Adjusted<br>Value |
+|                   |               |                      |                     |                |                   |
+|                   |               |                      |                     |                |                   |
+|                   |               |                      |                     |                |                   |
+|                   |               |                      |                     |                |                   |
+|                   |               |                      |                     |                |                   |
+|                   |               |                      |                     |                |                   |
+
+| Circular |
+|----------|
+|          |
+
+| Sl<br>No. | Circular                                     | Date       | Subject                                                                                                                                                                                                                                                |
+|-----------|----------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1         | DOR.CAP.REC.92/09.18.201/2021-22             | 08.03.2022 | Issue and regulation of share capital and<br>securities - Primary (Urban) Co-operative<br>Banks.                                                                                                                                                       |
+| 2         | DCBR.BPD.(PCB/RCB)Cir.No.1/16.20.000/2018-19 | 06.07.2018 | Prudential<br>Norms<br>for<br>Classification,<br>Valuation and<br>Operation of Investment<br>Portfolio by Banks – Spreading of MTM<br>losses<br>and<br>creation<br>of<br>Investment<br>Fluctuation<br>Reserve<br>(IFR)<br>by<br>Co<br>operative banks. |
+| 3         | UBD.CO.BPD.PCB.Cir.No.67/09.50.001/2013-14   | 30.05.2014 | Deferred<br>Tax<br>Liability<br>on<br>Special<br>Reserve<br>created under<br>Section<br>36(1)<br>(viii) ofthe Income Tax Act, 1961 -<br>UCBs.                                                                                                          |
+| 4         | UBD BPD(PCB) Cir No.45/13.05.000/2013-14     | 28.01.2014 | Housing Sector: New Sub- Sector CRE<br>ResidentialHousing (CRE-RH) Segment<br>within CRE Sector & Rationalisation of<br>Provisioning and Risk Weight.                                                                                                  |
+| 5         | UBD. BPD PCB Cir No.37/09.22.010/2013-14     | 14.11.2013 | Advances<br>guaranteed<br>by<br>Credit Risk<br>Guarantee Fund Trust for Low<br>Income<br>Housing<br>(CRGFTLIH)<br>–<br>Risk Weights<br>and Provisioning.                                                                                               |
+| 6         | UBP BPD (SCB) Cir.No.4/16.20.000/2012-13     | 10.06.2013 | Ready Forward Contracts<br>inCorporate<br>Debt Securities.                                                                                                                                                                                             |
+| 7         | UBD.BPD.(PCB)Cir.No.42/09.11.600/2009-10     | 08.02.2010 | Prudential<br>guidelines<br>on<br>capital<br>charge for market risks.                                                                                                                                                                                  |
+| 8         | UBD.PCB.Cir.No.30/09.14.000/2008-09          | 16.12.2009 | Prudential treatment of different types of<br>provisions in respect of loan portfolios.                                                                                                                                                                |
+| 9         | UBD.PCB.Cir.No.73/09.14.000/2008-09          | 29.06.2009 | Prudential treatment of different types of<br>provisions in respect of loan portfolios.                                                                                                                                                                |
+| 10        | UBD.PCB.Cir.No.29/09.11.600/2008-09          | 01.12.2008 | Review of Prudential Norms- Provision<br>for<br>Standard Assets & Risk weights for<br>exposures to commercial real estate and<br>NBFCs.                                                                                                                |
+| 11        | UBD.PCB.Cir.No.53/13.05.000/07-08            | 16.06.08   | Claims secured by residential property -<br>change in limits for risk weights.                                                                                                                                                                         |
+| 12        | UBD.PCB.Cir.No.31/09.11.600/07-08            | 29.01.08   | Prudential Norms for Capital Adequacy -<br>Risk Weight for Educational Loans.                                                                                                                                                                          |
+| 13        | UBD.PCB.CirNo.40/13.05.000/2006-07           | 04.05.07   | Annual Policy Statement for the Year<br>2007-08<br>-<br>residential<br>housing<br>loans<br>reduction of risk weight.                                                                                                                                   |
+| 14        | UBD(PCB).Cir.No.39/13.05.000                 | 30.04.07   | Annual<br>Policy<br>Statement<br>for2007-08-<br>Loans against Gold / silver ornaments<br>reduction of risk weight.                                                                                                                                     |
+| 15        | UBD(PCB).Cir.No.30/09.11.600/06-07           | 19.02.07   | Third Quarter Review of the<br>Annual<br>Statement on Monetary Policy for the<br>year 2006-07 - Provisioning requirement<br>for Standard Assets.                                                                                                       |
+
+| Sl<br>No. | Circular                                 | Date     | Subject                                                                                                                                  |
+|-----------|------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 16        | UBD.BPD.Cir.No:7/09.29.000/2006-07       | 18.08.06 | 'When<br>Issued'<br>Transactions in Central<br>Government Securities - Accounting and<br>Related Aspects.                                |
+| 17        | UBD.PCB.Cir.No.55/09.11.600/05-06        | 01.06.06 | Annual Policy Statement for the Year<br>2006-07 - Risk weight<br>on<br>exposure<br>to<br>commercial real estate.                         |
+| 18        | UBD.PCB).BPD.Cir.No.46/13.05.000/2005-06 | 19.04.06 | Bills<br>Discounted<br>under<br>LC<br>- Risk<br>Weight and Exposure Norms.                                                               |
+| 19        | UBD.PCB.Cir.No.9/13.05.00/05-06          | 09.08.05 | Risk Weight for Capital Market Exposure.                                                                                                 |
+| 20        | UBD.PCB.Cir.No.8/09.116.00/05-06         | 09.08.05 | Prudential Norms on Capital Adequacy -<br>Risk<br>Weight on<br>Housing<br>Finance<br>/<br>commercial real estate exposures.              |
+| 21        | UBD.DS.Cir/No.44/13.05.00/04-05          | 15.04.05 | Maximum<br>Limit<br>on<br>Advances<br>-<br>Exposures<br>to<br>individuals<br>/ group<br>of<br>borrowers.                                 |
+| 22        | UBD.PCB.Cir.33/09.116.00/2004            | 05.01.05 | Risk<br>Weight<br>on<br>Housing<br>Finance<br>and Consumer Credit.                                                                       |
+| 23        | UBD.PCB.Cir.26/09.140.00/2004-05         | 01.11.04 | Prudential<br>Norms<br>-<br>State<br>Government Guaranteed Exposures.                                                                    |
+| 24        | UBD.No.BPD.PCB.Cir.52/09.116.00/2003-04  | 15.06.04 | Risk Weight for Exposure to<br>Public<br>Financial Institutions (PFIs).                                                                  |
+| 25        | UBD.No.BPD.PCB.Cir.37/13.05.00/03-04     | 16.03.04 | Discounting / Rediscounting of Bills by<br>Banks.                                                                                        |
+| 26        | UBD.No.BPD.PCB.Cir.34/13.05.00/2003-04   | 11.02.04 | Maximum Limit on<br>Advances -<br>Limits<br>on Credit Exposure to Individual / Group<br>of borrowers<br>computation of capital<br>funds. |
+| 27        | UBD.No.POT.PCB.CIR.18/09.22.01/2002-03   | 30.09.02 | Risk<br>Weight<br>on<br>HousingFinance.                                                                                                  |
+| 28        | UBD.No.POT.PCB.Cir.No.45/09.116.00/2000  | 25.04.01 | Application<br>of<br>Capital Adequacy<br>Norms to Urban (Primary)<br>Co<br>operativeBanks.                                               |

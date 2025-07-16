@@ -1,0 +1,31 @@
+the intangible assets become impaired or derecognized under the relevant accounting standards. For this purpose, the definition of intangible assets would be in accordance with the relevant accounting standards. Losses in the current period and those brought forward from previous periods should also be deducted from Common Equity Tier 1 capital, if not already deducted.
+	- b) Deferred Tax Assets (DTAs)
+
+The following DTAs shall be deducted in full, from CET1 capital –
+
+- (i) DTAs associated with accumulated losses
+- (ii) DTAs (excluding DTAs associated with accumulated losses) net of Deferred Tax Liabilities (DTL) Note: Where the DTL is in excess of the DTA (excluding DTA associated with accumulated losses), the excess shall neither be adjusted against
+- item (i) nor added to CET1 capital.[1](#page-2-0) c) Investment in shares of other non-banking financial companies and in shares,
+- debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group[2](#page-2-1) exceeding, in aggregate, ten per cent of the owned fund[3](#page-2-2) of the NBFC.
+
+<span id="page-2-0"></span><sup>1</sup> DTAs may be netted with associated deferred tax liabilities (DTLs) only if the DTAs and DTLs relate to taxes levied by the same taxation authority and offsetting is permitted by the relevant taxation authority. The DTLs permitted to be netted against DTAs must exclude amounts that have been netted against the deduction of goodwill, intangibles and defined benefit pension assets.
+
+<span id="page-2-1"></span><sup>2</sup> "Companies in the group", shall mean an arrangement involving two or more entities related to each other through any of the following relationships: Subsidiary – parent, Joint venture, Associate, Promoter-promotee (as provided in the SEBI (Acquisition of Shares and Takeover) Regulations, 1997) for listed companies, a related party, Common brand name, and investment in equity shares of 20 per cent and above. The terms parent, subsidiary, joint venture, associate and related party shall be as defined/ described in applicable accounting standards.
+
+<span id="page-2-2"></span><sup>3</sup> "Owned Fund" will carry the same meaning as in the relevant Directions of the concerned NBFC.
+
+![](_page_3_Picture_0.jpeg)
+
+Note:
+
+- (i) The lower of acquisition cost or fair value of investments/advances shall be used to arrive at the amount of deduction mentioned above.
+- (ii) For the purpose of the above deduction, margin money placed with a subsidiary or company in the same group shall be considered as deposits.
+- d) Impairment Reserve[4](#page-3-0) shall be not be recognised in CET1 capital.
+- e) Deductions/ exclusions, required on unrealised gains and/or losses from regulatory capital in terms of paragraphs 3(a) (i) to (iii) of the Annex to [DOR](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11818&Mode=0)  [\(NBFC\).CC.PD.No.109/22.10.106/2019-20 dated March 13, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11818&Mode=0) read with [circular DOR\(NBFC\).CC.PD.No.116/22.10.106/2020-21 dated July 24, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11940&Mode=0) on "Implementation of Indian Accounting Standards", shall be reduced from CET 1 capital.
+- f) Securitisation Transactions: NBFCs shall be guided by the [Master Direction](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [no. DOR.STR.REC.53/21.04.177/2021-22 dated September 24, 2021](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165) titled Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021 in this regard.
+- g) Defined Benefit Pension Fund Assets and Liabilities: Defined benefit pension fund liabilities, as included on the balance sheet, must be fully recognised in the calculation of CET1 capital (i.e. CET 1 capital cannot be increased through derecognising these liabilities). For each defined benefit pension fund that is an asset on the balance sheet, the asset should be deducted in the calculation of CET1.
+- h) Investments in Own Shares (Treasury Stock): Investment in an NBFC's own shares is tantamount to repayment of capital and therefore, such investments, whether held directly[5](#page-3-1) or indirectly, shall be deducted from CET1 capital. This deduction would remove the double counting of equity capital which arises from direct holdings, indirect holdings via index funds and
+
+<span id="page-3-0"></span><sup>4</sup> Please refer to para 2(b) of Annex to [circular no. DOR \(NBFC\).CC.PD.No.109/22.10.106/2019-20 dated March](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11818&Mode=0)  [13, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11818&Mode=0) on Implementation of Indian Accounting Standards, for guidelines on Impairment Reserve.
+
+<span id="page-3-1"></span><sup>5</sup> It may be noted that Section 67 of the Companies Act, 2013 restricts the purchase by a company or giving 

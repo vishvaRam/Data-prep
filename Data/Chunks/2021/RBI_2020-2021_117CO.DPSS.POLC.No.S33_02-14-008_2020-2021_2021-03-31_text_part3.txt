@@ -1,0 +1,10 @@
+ing the same from an earlier date as well. However, this alone shall not make them eligible for a "designated payment system" status under Section 23A of the PSS Act.
+- 7.4. If the bank can satisfactorily establish that the nodal account of an entity has been migrated to escrow account in compliance with the new instructions, it can allow the balances under existing nodal accounts of PAs to be considered for calculation of 'Core portion'.
+- 7.5. Those entities who have not attained the requisite net-worth as of March 31, 2021 shall wind up their PA business. Banks shall be required to close such nodal accounts after June 30, 2021 unless the PA produces evidence to the bank regarding application for authorisation being made to RBI.
+- 7.6. The pre-funding has been allowed to tide over temporary mis-matches. Taking back of surplus pre-funding is not allowed.
+- 7.7. There can be different "t" for different merchants as per the agreement between PA and merchants.
+- 7.8. Para 8.6: The amount due to the merchant will be reckoned only after the settlement and credit to the escrow account. There is no need to prefund the account for this purpose. However, the proceeds shall be credited to escrow on the settlement day itself.
+- 7.9. Where PAs have no control over incoming funds and its delay thereof, the PAs need to follow the instructions and transfer the funds to the merchant within T+0 / T+1 basis, post receiving of funds into its account.
+- 7.10. The settlement accounts opened under Bharat Bill Payment System (BBPS) would be governed by BBPS instructions.
+
+-------------

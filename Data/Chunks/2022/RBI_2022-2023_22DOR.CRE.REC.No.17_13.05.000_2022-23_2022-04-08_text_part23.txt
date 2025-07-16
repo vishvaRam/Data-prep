@@ -1,0 +1,42 @@
+ reviewing and making changes where necessary to the data formats. The data formats after finalisation by the Group will be submitted to RBI for approval. The Working Group should also incorporate the additional fields as detailed in [Appendix - B.](#page--1-1)
+
+**v. Rectification of Rejected Data :** CICs are required to share with UCBs the logic and validation processes involved in data acceptance so that instances of data rejection can be minimised. The reasons for rejection need to be parameterised and circulated among the UCBs concerned. Rejection reports should be made simple and understandable so that they can be used for fixing reporting and data level issues. UCBs should rectify the rejected data and upload the same with the CICs within seven days of receipt of such rejection report.
+
+**vi. Data Quality Index :** A common Data Quality Index would assist UCBs in determining the gaps in their data and also move towards improving their performance over a period of time. In addition, they would also be able to rank their own performance against that of their peers and identify their relative position. UCBs may adopt this Data Quality Index for assessing the quality of data submissions and make efforts towards improving data quality and minimising data rejections, within a time period of six months.
+
+**vii. Best Practices for UCBs :** Every UCB should take into account the best practices as detailed in [Appendix - C](#page--1-2) while formulating or reviewing the policy and procedure under the Credit Information Companies (Regulation) Act, 2005 (CICRA) with the approval of their Board of Directors.
+
+# Appendix - A
+
+# Uniform Credit Reporting Format for Consumer and Commercial Borrowers
+
+## A. Consumer Bureau
+
+
+
+#### **B. Commercial Bureau**
+
+
+
+
+## **Changes in Data Format**
+
+The Technical Working Group [please see paragraph 2 (iv) of the circular] of banks, All India Notified Financial Institutions, CICs, NBFCs and HFCs, in association with IBA / MFIN, should review the data format periodically, say once a year and suggest modifications to the same. To start with, the Working Group may take up on priority basis changes required in the commercial segment and also in the following areas :
+
+**i. Additional Fields in Data Format :** Annex 5 of the Report contains certain additional fields for inclusion in data format (field names and their benefits). Accordingly, except for priority sector indicator field, other fields may be incorporated in the consumer data format. For vehicles, only vehicle make and registration number would be compulsory and not the chassis number. The registration number of property registered with Central Registry of Securitisation Asset Reconstruction and Security Interest of India (CERSAI) needs to be added by the CICs.[Recommendation 8.10 (b)]
+
+**ii. Compromise Settlements :** Data formats should include cases where compromise settlements have taken place and the reason for such compromise settlements. [Recommendation 8.10 (c)]
+
+**iii. Detailed Product Classification :** Urban Cooperative Banks (UCBs) should report detailed product classification to the CICs, e.g., car loans, commercial vehicles and construction equipment vehicles, under auto loans. CICs should also include the same in their reports to the UCBs. [Recommendation 8.10 (d)]
+
+**iv. Information Regarding Relationship / Guarantor :** UCBs should capture certain information pertaining to relationship / guarantor fields of the Corporates viz. the Business category / type, Mobile / Telephone number, State / PIN-code / Country in their Core Banking Solutions / System and report the same to the commercial bureau of the CICs. [Recommendation 8.10 (e)]
+
+**v. Members of Self Help Groups (SHG) :** Credit information on individual members of SHGs is critical to establish their credit history which would in turn foster growth of credit to the sector and promote financial inclusion. Therefore, UCBs may obtain data on individual members of SHGs and start reporting the same to CICs within six months. [Recommendation 8.10 (f)]
+
+**vi. Cross Reporting :** Guidelines for cross reporting, e.g., where individual is borrower and corporate is co-borrower, or vice versa, should be clearly intimated by CICs. The formats have fields to incorporate the data where consumer data will be reported in the consumer bureau and co-borrower will be reported in commercial bureau. [Recommendation 8.10 (h)]
+
+**vii. Reporting Days Past Due :** UCBs are mandated to report Days Past Due (DPD), for the credit facilities extended by them to consumers and corporates, while reporting to the CICs. [Recommendation 8.10 (i)]
+
+**viii. Treatment of Part Instalment Due :** UCBs are required to submit data as it is while qualitative information on what filters to apply based on amount and period could be done by the specified users and others who make use of the data. [Recommendation 8.10 (j)]
+
+ix. Income Data: Income data of the borrowers under the consumer bureau may co

@@ -1,0 +1,46 @@
+nd upto March 31, 2022, irrespective of the loan amount<sup>43</sup> .
+
+
+<sup>41</sup> Please refer to the [circular no. DBR.BP.BC.No.72/08.12.015/2016-17](https://rbi.org.in/scripts/NotificationUser.aspx?Id=10995&Mode=0) dated June 7, 2017 on Individual Housing Loans: Rationalisation of Risk-Weights and Loan to Value (LTV) Ratios
+
+<sup>42</sup> Please also refer to para 2 of the [circular DBOD.No.BP.BC.78/08.12.001/2011-12 dated February 3, 2012](https://rbi.org.in/scripts/NotificationUser.aspx?Id=6984&Mode=0) on Housing Loans by Commercial Banks – Loan to Value (LTV) Ratio and para 2 of th[e DBR.BP.BC.No.74/08.12.015/2014-](https://rbi.org.in/scripts/NotificationUser.aspx?Id=9591&Mode=0) [15 dated March 5, 2015](https://rbi.org.in/scripts/NotificationUser.aspx?Id=9591&Mode=0)
+
+<sup>43</sup> Please refer to [circular no. DOR.No.BP.BC.24/08.12.015/2020-21 dated October 16, 2020](https://rbi.org.in/scripts/NotificationUser.aspx?Id=11984&Mode=0) on Individual Housing Loans – Rationalisation of Risk Weights
+
+**Notes:**
+
+1 - The LTV ratios and Risk Weights set out in the [circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=10063&Mode=0)  [DBR.BP.BC.No.44/08.12.015/2015-16 dated October 8, 2015,](https://rbi.org.in/scripts/NotificationUser.aspx?Id=10063&Mode=0) shall continue to apply to loans sanctioned up to June 6, 2017.
+
+2 - The LTV ratio should not exceed the prescribed ceiling in all fresh cases of sanction. In case the LTV ratio is currently above the ceiling prescribed for any reasons, efforts shall be made to bring it within limits.
+
+3 - Banks' exposures to third dwelling unit onwards to an individual will also be treated as CRE exposures, as indicated in paragraph 2 in Appendix 2 of [Circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0)  [DBOD.BP.BC.No.42/08.12.015/2009-10 dated September 9, 2009](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0) on 'Guidelines on Classification of Exposures as Commercial Real Estate (CRE) Exposures'.
+
+5.10.2 All other claims secured by residential property would attract the higher of the risk weight applicable to the counterparty or to the purpose for which the bank has extended finance.
+
+5.10.3 Loans / exposures to intermediaries for on-lending will not be eligible for inclusion under claims secured by residential property but will be treated as claims on corporates or claims included in the regulatory retail portfolio as the case may be.
+
+5.10.4 Investments in mortgage backed securities (MBS) backed by exposures as at paragraph 5.10.1 above will be governed by the guidelines pertaining to securitisation exposures<sup>44</sup> .
+
+## **5.11 Claims Classified as Commercial Real Estate Exposure**
+
+5.11.1 Commercial Real Estate exposure is defined as per the guidelines issued vide [circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0)  [DBOD.No.BP.BC.42/08.12.015/2009-10 dated September 9, 2009.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5261&Mode=0)
+
+5.11.2 Claims mentioned above will attract a risk weight of 100 per cent.
+
+5.11.3 Investments in mortgage backed securities (MBS) backed by exposures as at paragraph 5.11.1 above will be governed by the guidelines pertaining to securitisation exposures<sup>45</sup> .
+
+## **5.12 Non-Performing Assets (NPAs)**
+
+5.12.1 The unsecured portion of NPA (other than a qualifying residential mortgage loan which is addressed in paragraph 5.12.6), net of specific provisions (including partial write-offs), will be riskweighted as follows:
+
+<sup>44</sup> Please refer to Master Direction – [Reserve Bank of India \(Securitisation of Standard Assets\) Directions, 2021 dated](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [September 24, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+
+<sup>45</sup> Please refer to Master Direction – [Reserve Bank of India \(Securitisation of Standard Assets\) Directions, 2021 dated](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)  [September 24, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12165)
+
+- (i) 150 per cent risk weight when specific provisions are less than 20 per cent of the outstanding amount of the NPA;
+- (ii) 100 per cent risk weight when specific provisions are at least 20 per cent of the outstanding amount of the NPA;
+- (iii) 50 per cent risk weight when specific provisions are at least 50 per cent of the outstanding amount of the NPA
+
+5.12.2 For the purpose of computing the level of specific provisions in NPAs for deciding the riskweighting, all funded NPA exposures of a single counterparty (without netting the value of the eligible collateral) should be reckoned in the denominator.
+
+5.12.3 For the purpose of defining the secured portion of the NPA, eligible collateral will be the same as recognised for credit risk mitigation purposes (paragraph 7.3.5). Hence, other forms of collateral like land, buildings, plant, machinery, current assets, etc. w

@@ -1,0 +1,33 @@
+c.*
+
+## **14. Restructuring**
+
+(1) A person resident in India who has made ODI in a foreign entity, may permit restructuring of the balance sheet by such foreign entity in accordance with rule 18 of OI Rules. The aggregate investment in both the equity and debt of the foreign entity shall be taken into consideration for computing the proportionate amount of accumulated losses. However, in case the restructuring involves only equity, investment only in equity of the foreign entity may be taken into consideration for computing proportionate losses.
+
+(2) The certificate required to be furnished in accordance with rule 18 of OI Rules shall mention the amount of accumulated losses as per the audited balance sheet of the foreign entity, the proportionate amount of accumulated losses based upon the share of the Indian entity/investor, the amount of diminution in the value of the outstanding dues towards the Indian entity/investor post restructuring and that such diminution does not exceed the proportionate amount of accumulated losses.
+
+(3) These provisions shall not be used where the assets are simply revalued in the books of the Indian entity without any restructuring of the balance sheet of the foreign entity.
+
+## **15. Opening of Foreign Currency Account abroad by an Indian entity**
+
+An Indian entity may open, hold and maintain Foreign Currency Account (FCA) abroad for the purpose of making ODI in accordance with the provisions contained in Regulation 5 (D) of Notification No. FEMA.10(R)/2015-RB, namely, [Foreign Exchange Management \(Foreign](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10444&Mode=0)  [Currency Accounts by a resident in India\) Regulations, 2015.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10444&Mode=0)
+
+#### **16. Obligations of the Person Resident in India**
+
+(1) A person resident in India making ODI shall meet the obligations laid down in regulation 9 of OI Regulations.
+
+(2) A person resident in India acquiring equity capital in a foreign entity, which is reckoned as ODI, shall submit the evidence of investment as per regulation 9(1) of OI Regulations to the AD bank within six months, failing which the funds remitted overseas shall be repatriated within the said period of six months. The evidence of investment shall be retained by the designated AD bank, who shall monitor the receipt of required documents and satisfy themselves about the bona fides of the documents so received.
+
+(3) Form FC shall be submitted along with requisite documents to AD bank for obtaining UIN on or before making initial ODI. The AD bank after due verification shall report the details in the OID application for allotment of UIN. Any remittance towards a foreign entity shall be facilitated by the AD bank only after obtaining the necessary UIN for such entity. The allotment of UIN does not constitute an approval from the Reserve Bank for the investment made/to be made in the foreign entity. The issue of UIN only signifies taking on record of the investment for maintaining the database. Further, with effect from June 01, 2012, an auto generated e-mail giving the details of UIN allotted to the foreign entity is forwarded to the AD bank/Indian investor as confirmation of allotment of UIN, and no separate letter is issued by the Reserve Bank.
+
+#### **17. Reporting**
+
+(1) All reporting with respect to overseas investment by a person resident in India shall be made in accordance with regulation 10 of OI Regulations through the designated AD bank as per the revised reporting forms and instructions contained in the ["Master Direction –](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10202) Reporting under [Foreign Exchange Management Act, 1999"](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10202). The reporting forms can be downloaded from Reserve Bank's website [www.rbi.org.in.](https://www.rbi.org.in/) Any incomplete filing shall be treated as non-submission. (2) Any acquisition of foreign securities through conversion of Indian Depository Receipts (IDRs) shall be duly reported as ODI or OPI, as applicable.
+
+(3) The Annual Performance Report (APR) shall be certified by a chartered accountant where the statutory audit is not applicable, including in case of resident individuals. It is also clarified that where APR is required to be filed jointly, either one investor may be authorised by other investors for filing APR, or such persons may jointly file the APR.
+
+(4) A resident individual making overseas investment must comply with the reporting requirements as provided under the OI Regulations and reporting shall also be done as provided under the LRS where such investment is reckoned towards the LRS limit. Acquisition of foreign securities by way of inheritance or gift in accordance with paragraph 2 of Schedule III of OI Rules shall not be reckoned towards the LRS limit and hence, shall not require reporting under LRS.
+
+## **18. Delay in Reporting**
+
+(1) In case a person resident i

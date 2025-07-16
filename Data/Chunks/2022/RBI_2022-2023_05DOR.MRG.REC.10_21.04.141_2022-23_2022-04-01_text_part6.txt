@@ -1,0 +1,38 @@
+ the purpose of monthly reconciliation of their SGL/CSGL balances as per their books and the position in this regard should be placed before the Audit Committee of the Board. This reconciliation should also be periodically checked by the internal audit department. A system for verification of the authenticity of the SGL transfer forms received from other banks and confirmation of authorised signatories should be put in place.
+
+- 5.3.2 Banks should also forward a quarterly certificate to the PDO concerned, indicating that the balances held in the SGL accounts with the PDO have been reconciled and that it has been placed before the Audit Committee of the Board. A copy thereof should be sent to the concerned Regional Office concerned of the Department of Supervision, RBI.
+- 5.3.3 Banks should put in place a system to report to the Top Management on a monthly basis the details of transactions in securities, details of SGL bouncing and review of investment transactions undertaken during the period.
+- 5.3.4 All promissory notes, debentures, shares, bonds, etc., held in physical form, should be properly recorded and held under joint custody. A separate register may be maintained to record the particulars of securities taken out/re-lodged. These should be subjected to periodical verification, say once in a quarter or half-year, by persons unconnected with their custody.
+- 5.3.5 Certificates should be obtained at quarterly/half-yearly intervals in respect of securities lodged with other institutions. Similarly, it is necessary to reconcile the SGL Account balance with the PDO at monthly intervals.
+- 5.3.6 The internal inspectors and concurrent auditors should peruse the transactions to ensure that the deals have been undertaken in the best interest of the bank. The Vigilance Cell should also make surprise sample checks of large transactions.
+- 5.3.7 The concurrent auditors should certify that investments held by the bank, as on the last reporting Friday of each quarter and as reported to Reserve Bank, are actually owned/held by it. Such a certificate should be submitted to the concerned Regional Office of Department of Supervision RBI, within 30 days from the end of the relative quarter.
+
+## **6 ENGAGEMENT OF BROKERS**
+
+#### 6.1 **Dealing through Brokers**
+
+6.1.1 The inter-bank securities transactions should be undertaken directly between banks and no bank should engage the services of any broker in such transactions. Banks may, however, undertake securities transactions among themselves or with non-bank clients through members of National Stock Exchange (NSE) / BSE wherein the transactions are transparent. In case any transactions in securities are not undertaken on NSE/BSE, the same should be undertaken by the banks directly without the use of brokers.
+
+- 6.1.2 Purchase of permissible shares and PSU bonds in the secondary market (other than inter-bank transactions) should be only through recognised stock exchanges and registered stock- brokers.
+- 6.1.3 The SBI DFHI has been permitted to operate as a broker in the interbank participation market. This would enable the banks to seek intermediation of SBI DFHI for borrowing/lending, if required. However, the banks shall be free to settle transaction in the inter-bank participations market directly, if so desired.
+- 6.1.4 If a deal is put through with the help of a broker, the role of the broker should be restricted to that of bringing the two parties to the deal together. Under no circumstances banks should give power of attorney or any other authorisation to the brokers/ intermediaries to deal on their behalf in the money and securities markets.
+- 6.1.5 Disclosure of counter party should be insisted upon on conclusion of the deal put through brokers.
+- 6.1.6 Contract confirmation from the counter party should be insisted upon.
+- 6.1.7 The brokers should not be involved in the settlement process at all i.e., both the fund settlement and delivery of security should be done with the counterparty directly.
+
+## 6.2 **Empanelment of Brokers**
+
+- 6.2.1 The bank should prepare a panel of brokers with the approval of their Board of Directors.
+- 6.2.2 Brokers should be empaneled after verifying their credentials e.g.:
+	- (a) SEBI registration
+	- (b) Membership of BSE/NSE for debt market.
+
+(c) Market turnover in the preceding year as certified by the Exchange/s.
+
+- (d) Market reputation etc.
+- 6.2.3 The bank should check websites of SEBI/respective exchanges, to ensure that the broker has not been put in the banned list.
+
+# 6.3 **Broker Limits**
+
+- 6.3.1 A disproportionate part of the business should not be transacted through only one or a few brokers. Banks should fix aggregate contract limits for each of the approved brokers and ensure that these limits are not exceeded. A record of broker-wise details of deals put through and brokerage paid should be maintained.
+- 6.3.2 A limit of 5 per cent of total transactions (both purchases and sales) entered into by the banks during a 

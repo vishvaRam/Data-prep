@@ -1,0 +1,33 @@
+ts as specified in [Annex-III.](#page--1-0)
+- (viii) Any surplus (net) in Profit and Loss Account i.e., balance after appropriation towards dividend payable, education fund, other funds whose utilisation is defined, asset loss, if any, etc.
+- (ix) Outstanding amount in Special Reserve created under Section 36(1) (viii) of the Income Tax Act, 1961.
+
+#### *Note :*
+
+- *(i) Amount of intangible assets, losses in current year and those brought forward from previous periods, deficit in NPA provisions, income wrongly recognized on non-performing assets, provision required for liability devolved on bank, etc. will be deducted from Tier I Capital.*
+- *(ii) For a Fund to be included in the Tier I Capital, the Fund should satisfy two criteria viz., the Fund should be created as an appropriation of net profit and should be a free reserve and not a specific reserve. However, if the same has been created not by appropriation of profit but by a charge on the profit then this Fund is in effect a provision and hence will be eligible for being reckoned only as Tier II capital as defined below and subject to a limit of 1.25% of risk weight assets provided it is not attributed to any identified potential loss or diminution in value of an asset or a known liability.*
+- *(iii) Outstanding Innovative Perpetual Debt Instruments (IPDI) which were issued in terms of Annex to [circular UCB.PCB.Cir.No.39/09.16.900/08-09 dated January](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4782&Mode=0)  23, [2009](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4782&Mode=0) shall also be eligible to be reckoned as Tier-I capital subject to the*
+
+*ceilings prescribed in Annexes to this Master Circular. It may be noted that the Annex to circular dated January 23, 2009 has since been repealed vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0)  [No. DOR.CAP.REC.92/09.18.201/2021-22 dated March 08, 2022,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12251&Mode=0) and with effect from March 08, 2022, amount issued through PDI by conversion of existing deposits as part of revival plan/ financial reconstruction of the UCBs (in terms of circular dated January 23, 2009) shall comply with the [Annex-III](#page--1-0) of this Master Circular.*
+
+## **3.2 Tier II Capital**
+
+Tier II capital shall comprise the following:
+
+## **3.2.1 Revaluation Reserves**
+
+These reserves often serve as a cushion against unexpected losses, but they are less permanent in nature and cannot be considered as 'Core Capital'. Revaluation reserves arise from revaluation of assets that are undervalued in the bank's books. The typical example in this regard is bank premises and marketable securities. The extent to which the revaluation reserves can be relied upon as a cushion for unexpected losses depends mainly upon the level of certainty that can be placed on estimates of the market value of the relevant assets, the subsequent deterioration in values under difficult market conditions or in a forced sale, potential for actual liquidation of those values, tax consequences of revaluation, etc. Therefore, it would be prudent to consider revaluation reserves at a discount of 55% when determining their value for inclusion in Tier II Capital i.e. only 45% of revaluation reserve should be taken for inclusion in Tier II Capital. Such reserves will have to be reflected on the face of the balance sheet as revaluation reserves.
+
+## **3.2.2 General Provisions and Loss Reserves**
+
+These would include such provisions of general nature appearing in the books of the bank which are not attributed to any identified potential loss or a diminution in value of an asset or a known liability. Adequate care must be taken to ensure that sufficient provisions have been made to meet all known losses and foreseeable potential losses before considering any amount of general provision as part of Tier II capital as indicated above. To illustrate: General provision for Standard Assets, excess provision on sale of NPAs etc. could be considered for inclusion under this category. Such provisions which are considered for inclusion in Tier II capital will be admitted up to 1.25% of total weighted risk assets.
+
+As per the extant instructions, provisions made for NPAs as per prudential norms are deducted from the amount of Gross NPAs to arrive at the amount of Net NPAs. The prudential treatment of different type of provisions and its treatment for capital adequacy purposes is given below:
+
+# (a) Additional General Provisions (Floating Provisions)
+
+Additional general provisions (floating provisions) for bad debts i.e., provisions not earmarked for any specific loan impairments (NPAs) may be used either for netting off of gross NPAs or for inclusion in Tier II capital but cannot be used on both counts.
+
+#### (b) Additional Provisions for NPAs at higher than prescribed rates
+
+In cases where banks make specific provision for NPAs in excess of what is prescribed unde

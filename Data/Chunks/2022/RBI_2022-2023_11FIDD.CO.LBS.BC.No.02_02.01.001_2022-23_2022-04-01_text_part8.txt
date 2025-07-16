@@ -1,0 +1,26 @@
+ to ensure better implementation. The Controlling Offices of the banks in each state should synchronize their internal business plans with the ACP.
+
+#### **3.3 Monitoring the Performance of Credit Plans**
+
+The performance of the credit plans is reviewed in the various fora created under the Lead Bank Scheme as shown below:
+
+
+#### **Monitoring of LBS by RBI - Monitoring Information System (MIS)**
+
+i) Data on Annual Credit Plan (ACP) is an important element to review the flow of credit in the State. ACP formats are aligned with the extant reporting guidelines on priority sector lending. Accordingly, the ACP is to be prepared considering the categories of priority sector that would include Agriculture, Micro, Small and Medium Enterprises, Export Credit, Education, Housing, Social Infrastructure, Renewable Energy and Others. Further, it has been decided that bank loans to Micro/Small and Medium Enterprises (Services), engaged in providing or rendering of services as defined in terms of investment in equipment under MSMED Act, 2006, shall qualify under priority sector without any credit cap. With a view to simplify the MIS Statements, it had been decided that the quarterly statement on progress under ACP may be prepared in an all-inclusive single format - MIS [\(Annex IV\)](#page--1-1) containing data on (a) ACP targets (b) ACP achievements/ disbursements and (c) ACP sector/ sub-sector wise loan amount outstanding, for all categories of LBS fora member banks viz. Public Sector Banks, Private Sector Banks, Regional Rural Banks, Small Finance Banks and Rural Cooperative Banks (StCBs and DCCBs). The bank group wise statements as per the prescribed format should be prepared and the same to be placed for meaningful review in all DCC and SLBC meetings.
+
+ii) In order to maintain consistency and integrity of data with the All-India data of scheduled commercial banks and facilitate a meaningful review/analysis of data, the ACP data needs to be grouped separately for scheduled commercial banks and other banks like State Cooperative Banks, DCCBs, etc. while presenting in the DCC/SLBC meetings and submitting to our Regional Offices. The data pertaining to scheduled commercial banks needs to be further grouped into public sector banks, private sector banks, Regional Rural Banks, Small Finance Banks and Wholly Owned Subsidiaries (WOS) of Foreign Banks to know the bank group wise position.
+
+#### **3.4 Revised mechanism of Data Flow for LBS fora meetings**
+
+At present, discussions at the quarterly meetings of the various LBS fora viz. State Level Bankers' Committee (SLBC), District level Consultative Committee (DCC) and Block Level Bankers' Committee (BLBC) primarily focus on the performance of banks in the disbursement of loans vis-a-vis the allocated target under the Annual Credit Plan. The integrity & timeliness of the data submitted by banks for the purpose has
+
+been an issue as a significant portion of this data is manually compiled and entered into the Data Management Systems of the SLBC Convenor Banks. The extent to which this data corresponds with the data present in the Core Banking Solution (CBS) of the respective banks also varies significantly. Therefore, there is need of a standardized system to be developed on the website maintained by each SLBC to enable uploading and downloading of the data pertaining to the Block, District as well as the State. The relevant data must also be directly downloadable from the CBS and/ or MIS of the banks with a view to keeping manual intervention to a minimal level in the process. The procedure relating to the envisaged intervention in this area is given below:
+
+#### **Management of Data Flow at LBS Fora – Procedure**
+
+- i. Each bank's CBS should have a provision to generate a report pertaining to all *LBS*  related data/ tables to Excel. This data should have information pertaining to all the branches operating in the state including fields/ columns for District & Block name. Access to Download & Export this data from the bank's CBS should be given to the Controlling Offices of the banks who would be solely responsible for the process of 'Data Feeding' for all districts/ blocks within their jurisdiction.
+- ii. The 'Data Feeding' process is the process of uploading this Excel file (downloaded in step (i) above) on the SLBC websites. SLBC websites should have a provision to 'Import/ Upload' all the data present in the Excel Sheet on the database of the SLBC website. This would obviate any manual 'data entry' at the SLBC/ Controlling Office level.
+- iii. To facilitate the above functionality, each SLBC Convenor Bank would have to add this 'Import/ Upload' functionality to their SLBC website along with the requisite capabilities at the back-end.
+- iv. The SLBC website would, thus, effectively work as a data aggregation platform. Further, data analysis capabilities could also be added to the SLBC websites depending on the available resources.
+- v. The SLBC websites should provide acces

@@ -1,0 +1,25 @@
+ same to their customers. The Certificate of Holding may be printed in colour on A4 size 100 GSM paper in the prescribed Form C.
+
+(ii) ROs may note that as SGB is transferable/tradable and mere possession of Certificate of Holding should not be construed as proof of title.
+
+#### **4. Nomination**
+
+(i) Nomination and its cancellation shall be governed by Section 9 of the Government Securities Act, 2006 read with Chapter III of the Government Securities Regulations, 2007. The nominations can be indicated by the customer at the time of subscribing to the bonds (in the prescribed Form 'D' or at a later date. It is permissible to designate more than one person as nominees (maximum two) to a bond. Nomination facility is not available in case the investment is on behalf of minor.
+
+**(ii) Cancellation of Nomination:** The holder of a Sovereign Gold Bond may apply for cancellation of an existing nomination in the prescribed Form 'E' and while examining the application it may be ensured that - (i) correct particulars of the Sovereign Gold Bond have been stated in the form; and (ii) the name/s of the nominee/s has/have been correctly mentioned in the form
+
+**(iii) Additions to existing nomination:** The holder can nominate second person, in addition to the existing one. On submission of a fresh nomination in Form 'D', it may be examined and dealt with in the same way as the original nomination. In case of bonds held as stock certificates, the RO shall input such requests (cancellation/addition) into the E-Kuber system subject to its satisfaction that the details provided are correct and in order, using the facility provided in the E-Kuber portal. Acknowledgement may also be issued.
+
+**(iv) Claims of nominee/s:** On the death of the holder, nominee's/nominees' claim may be recognized in terms of the provisions of Section 9 of the Government Securities Act 2006 read with Chapter III of the Government Securities Regulations 2007. Once a claim is received by the RO/Depository, as the case may be, it may recognize the claim in terms of Section 9 of the GS Act 2006 and Chapter III of the Government Securities Regulation 2007, subject to its satisfaction with respect to the legality, genuineness, and finality thereof, subject to its satisfaction that there is no rival claim in respect of such bond and on production of all documents required to substantiate the claim. For that purpose it may call for any other document or declaration, as it may consider necessary. It may also require the claimant to furnish a bond of indemnity for such amount as it may think fit, if found necessary. If the claim is found to be in order, the name/s of the nominee/s will be substituted as the bond holder/s in place of the deceased holder - and a fresh Certificate of Holding will be issued under proper authentication. In the event of doubt the case may be referred to PDO, Mumbai by the RO/Depository.
+
+# **5. Forms of holding and dematerialisation**
+
+(i) SGBs are issued as Government of India stock by RBI and are eligible to be held in Bond Ledger Account (BLA) or RDG Account with Reserve Bank of India or in demat account with Depositories viz NSDL/CDSL.
+
+(ii) The applicant can make a specific request either at the time of subscribing to the bond or at a subsequent occasion for crediting of the bond to demat account or holding the bond in gilt account under the Retail Direct Scheme. The process of conversion to demat will be subject to the correctness of details supplied by the applicant, such as name, DP ID, Client ID and acceptance of the record by the Depositories. Care may be taken by ROs to ensure that the name of the investor entered by them in RBI's portal corresponds with that in the Depositories' records. Confirmation may be taken from the customer in this regard before uploading the details.
+
+(iii) If the holder desires to convert the SGB held in BLA with RBI into de-materialised form subsequent to allotment, the ROs may accept the request along with details viz., name of the Depository, DP ID, Client ID, PAN of the first holder etc. The ROs shall enter the details in the E-Kuber portal. Such requests will be processed by Mumbai PDO, RBI on a consolidated basis every week and the details will be sent to the Depository as the case may be, for validation. Once the details are validated by the Depository, the bonds will be transferred by PDO Mumbai to Depository for onward credit to the demat accounts of the beneficiaries. Cases of rejection or acceptance as communicated by the Depository will be communicated to the ROs by Mumbai PDO, RBI. In cases of rejection, the ROs are free to resubmit the request after making the necessary corrections.
+
+(iv) The holder of SGB may subsequently convert the bonds from BLA to the gilt account under Retail Direct Scheme. The request for the same may be made by the gilt account holder on the Retail Direct Online Portal
+
+(v) Timely servicing of all the SGB held in dematerialised form is the responsibility o

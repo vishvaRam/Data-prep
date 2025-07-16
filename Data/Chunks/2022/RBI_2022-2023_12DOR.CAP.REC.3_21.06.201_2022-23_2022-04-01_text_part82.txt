@@ -1,0 +1,33 @@
+ Equity Tier 1 capital ratio in the range of 6.125% to 6.75% is required to conserve 80% of its earnings in the subsequent financial year (i.e., payout no more than 20% in terms of dividends, share buybacks and discretionary bonus payments is allowed).
+
+<sup>114</sup> Common Equity Tier 1 must first be used to meet the minimum capital requirements (including the 7% Tier 1 and 9% Total capital requirements, if necessary), before the remainder can contribute to the capital conservation buffer requirement.
+
+15.2.2 The Common Equity Tier 1 ratio includes amounts used to meet the minimum Common Equity Tier 1 capital requirement of 5.5%, but excludes any additional Common Equity Tier 1 needed to meet the 7% Tier 1 and 9% Total Capital requirements. For example, a bank maintains Common Equity Tier 1 capital of 9% and has no Additional Tier 1 or Tier 2 capital. Therefore, the bank would meet all minimum capital requirements, but would have a zero conservation buffer and therefore, the bank would be subjected to 100% constraint on distributions of capital by way of dividends, share-buybacks and discretionary bonuses.
+
+15.2.3 The following represents other key aspects of the capital conservation buffer requirements:
+
+(i) **Elements subject to the restriction on distributions**: Dividends and share buybacks, discretionary payments on other Tier 1 capital instruments and discretionary bonus payments to staff would constitute items considered to be distributions. Payments which do not result in depletion of Common Equity Tier 1 capital, (for example certain scrip dividends<sup>115</sup>) are not considered distributions.
+
+(ii) Definition of earnings: Earnings are defined as distributable profits before the deduction of elements subject to the restriction on distributions mentioned at (i) above. Earnings are calculated after the tax which would have been reported had none of the distributable items been paid. As such, any tax impact of making such distributions are reversed out. If a bank does not have positive earnings and has a Common Equity Tier 1 ratio less than 8%, it should not make positive net distributions.
+
+(iii) **Solo or consolidated application**: Capital conservation buffer is applicable both at the solo level (global position) as well as at the consolidated level, i.e., restrictions would be imposed on distributions at the level of both the solo bank and the consolidated group. In all cases where the bank is the parent of the group, it would mean that distributions by the bank can be made only in accordance with the lower of its Common Equity Tier 1 Ratio at solo level or consolidated level<sup>116</sup>. For example, if a bank's Common Equity Tier 1 ratio at solo level is 6.8% and that at consolidated level is 7.4%. It will be subject to a capital conservation requirement of 60% consistent with the Common Equity Tier 1 range of >6.75% - 7.375% as per **Table 22** in paragraph 15.2.1 above. Suppose a bank's Common Equity Tier 1 ratio at solo level is 6.6% and that at consolidated level is 6%. It will be subject to a capital conservation requirement of 100% consistent with the Common Equity Tier 1 range of >5.5% - 6.125% as per **Table 22** on minimum capital conservation standards for individual bank.
+
+<sup>115</sup> A scrip dividend is a scrip issue made in lieu of a cash dividend. The term 'scrip dividends' also includes bonus shares.
+
+<sup>116</sup> If a subsidiary is a bank, it will naturally be subject to the provisions of capita conservation buffer. If it is not a bank, even then the parent bank should not allow the subsidiary to distribute dividend which are inconsistent with the position of CCB at the consolidated level.
+
+#### **Part E: Leverage Ratio Framework 117**
+
+### **16. Leverage Ratio**
+
+## **16.1 Rationale and Objective**
+
+An underlying cause of the global financial crisis was the build-up of excessive on- and off-balance sheet leverage in the banking system. In many cases, banks built up excessive leverage while apparently maintaining strong risk-based capital ratios. During the most severe part of the crisis, the banking sector was forced by the market to reduce its leverage in a manner that amplified downward pressure on asset prices. This deleveraging process exacerbated the feedback loop between losses, falling bank capital and contraction in credit availability. Therefore, under Basel III, a simple, transparent, non-risk based leverage ratio has been introduced. The leverage ratio is calibrated to act as a credible supplementary measure to the risk based capital requirements and is intended to achieve the following objectives:
+
+(a) constrain the build-up of leverage in the banking sector to avoid destabilising deleveraging processes which can damage the broader financial system and the economy; and
+
+(b) reinforce the risk-based requirements with a simple, non-risk based "backstop" measure.
+
+# **16.2 Definition, Minimum Requirement and Scope of Application of the Leverage Ratio**
+
+###

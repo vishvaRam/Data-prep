@@ -1,0 +1,26 @@
+ exposure. The FITL / debt / equity instruments created by conversion of principal / unpaid interest, as the case may be, shall be placed in the same asset classification category in which the restructured advance has been classified.
+
+21.2 The provisioning applicable to such instruments shall be the higher of:
+
+a) The provisioning applicable to the asset classification category in which such instruments are held; or
+
+b) The provisioning applicable based on the fair valuation of such instruments as provided in the following paragraphs.
+
+21.3 Debt/quasi-debt/equity instruments[21](#page-0-0) acquired by the lenders as part of a RP shall be valued as under:
+
+- a) Debentures/bonds shall be valued as per the instructions compiled at Paragraph 3.7.1 of the Master Circular - [Prudential Norms for Classification, Valuation and Operation](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904)  [of Investment Portfolio by Banks dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904) (as amended from time to time).
+- b) Conversion of debt into Zero Coupon Bonds (ZCBs)/low coupon bonds (LCBs) as part of RP shall be subject to the conditions compiled at Paragraph 5.4 of the [Master](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904)  Circular - [Prudential Norms for Classification, Valuation and Operation of Investment](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904)  [Portfolio by Banks dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904) (as amended from time to time). Such ZCBs/LCBs shall be valued as per the instructions contained at Paragraph 3.7.3 of the above said Master Circular, subject to the following:
+	- i. Where the borrower fails to build up the sinking fund as required under the above said Master Circular, ZCBs/LCBs of such borrower shall be collectively valued at Re.1
+	- ii. Instruments without a pre-specified terminal value would be collectively valued at Re.1.
+- c) Equity instruments, where classified as standard, shall be valued at market value, if quoted, or else, should be valued at the lowest value arrived using the following valuation methodologies:
+	- i. Book value (without considering 'revaluation reserves', if any) which is to be ascertained from the company's latest audited balance sheet. The date as on which the latest balance sheet is drawn up should not precede the date of valuation by more than 18 months. In case the latest audited balance sheet is not available the shares are to be collectively valued at Re.1 per company.
+	- ii. Discounted cash flow method where the discount factor is the actual interest rate charged to the borrower on the residual debt post restructuring plus a risk premium to be determined as per the board approved policy considering the factors affecting the value of the equity. The risk premium will be subject to a
+
+<span id="page-0-0"></span> <sup>21</sup> These instruments shall be subject to all the instructions contained in Master Circular - [Prudential Norms for Classification,](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904)  [Valuation and Operation of Investment Portfolio by Banks dated July 1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904) (as amended from time to time) to the extent they are not inconsistent with the instructions contained in this circular.
+
+floor of 3 per cent and the overall discount factor will be subject to a floor of 14 per cent. Further, cash flows (cash flow available from the current as well as immediately prospective (not more than six months) level of operations) occurring within 85 per cent of the useful economic life of the project only shall be reckoned.
+
+- d) Equity instruments, where classified as NPA shall be valued at market value, if quoted, or else, shall be collectively valued at Re.1.
+- e) Preference Shares shall be valued on discounted cash flow (DCF) basis as per the instructions compiled at Paragraph 3.7.4 of the Master Circular - [Prudential Norms for](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904)  [Classification, Valuation and Operation of Investment Portfolio by Banks dated July](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904)  [1, 2015](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9904) (as amended from time to time), subject to the following modifications:
+	- i. The discount rate shall be subject to a floor of weighted average actual interest rate charged to the borrower on the residual debt after restructuring plus a mark-up of 1.5 percent.
+	- ii. Where preference dividends/coupons are in arrears, no credit should be taken for accrued dividends/coupons and the value determined as above on DCF basis should be discounted further by at least 15 per cent if arrears are for one year, 25 per cent if arrears are for two years, so on and so forth (i.e., with 10 percent 

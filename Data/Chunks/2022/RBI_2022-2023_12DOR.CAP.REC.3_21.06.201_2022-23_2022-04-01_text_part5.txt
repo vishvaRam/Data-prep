@@ -1,0 +1,57 @@
+m the average of the four quarters. The amount which can be reckoned would be arrived at by using the following formula:
+
+EPt= {NPt – 0.25\*D\*t}
+
+where;
+
+EPt = Eligible profit up to the quarter 't' of the current financial year; t varies from 1 to 4
+
+NPt = Net profit up to the quarter 't'
+
+D= average annual dividend paid during last three years
+
+It is clarified that the cumulative net loss up to the quarter end must be deducted while calculating CET1 capital for the relevant quarter.
+
+(x) While calculating capital adequacy at the consolidated level, common shares issued by consolidated subsidiaries of the bank and held by third parties (i.e., minority interest) which meet the criteria for inclusion in Common Equity Tier 1 capital (refer to paragraph 4.3.2); and
+
+(xi) Less: Regulatory adjustments / deductions applied in the calculation of Common Equity Tier 1 capital [i.e., to be deducted from the sum of items (i) to (x)].
+
+## *B. Criteria for Classification as Common Shares for Regulatory Purposes*
+
+Common Equity is recognised as the highest quality component of capital and is the primary form of funding which ensures that a bank remains solvent. Therefore, under Basel III, common shares to be included in Common Equity Tier 1 capital must meet the criteria as furnished in **[Annex 1](#page--1-0)**.
+
+## **4.2.3.2 Common Equity Tier 1 Capital – Foreign Banks' Branches**
+
+## *A. Elements of Common Equity Tier 1 Capital*
+
+Elements of Common Equity Tier 1 capital will remain the same and consist of the following:
+
+(i) Interest-free funds from Head Office kept in a separate account in Indian books specifically for the purpose of meeting the capital adequacy norms\*;
+
+(ii) Statutory reserves kept in Indian books;
+
+(iii) Remittable surplus retained in Indian books which is not repatriable so long as the bank functions in India\*;
+
+(iv) Interest-free funds remitted from abroad for the purpose of acquisition of property and held in a separate account in Indian books provided they are non-repatriable and have the ability to absorb losses regardless of their source;
+
+(v) Capital reserve representing surplus arising out of sale of assets in India held in a separate account and which is not eligible for repatriation so long as the bank functions in India;
+
+(vi) Revaluation reserves arising out of change in the carrying amount of a bank's property consequent upon its revaluation may, at the discretion of banks, be reckoned as CET1 capital at a discount of 55%, instead of as Tier 2 capital as mentioned in paragraph 4.2.5.2.A (iii), subject to meeting the same set of conditions mentioned for Indian banks in paragraph 4.2.3.1.A (v) above;
+
+(vii) Banks may, at their discretion, reckon foreign currency translation reserve arising due to translation of financial statements of their foreign operations in terms of Accounting Standard (AS) 11 as CET1 capital at a discount of 25% subject to meeting the same set of conditions mentioned for Indian banks in paragraph 4.2.3.1.A (vi) above; and
+
+(viii) Less: Regulatory adjustments / deductions applied in the calculation of Common Equity Tier 1 capital [i.e., to be deducted from the sum of items (i) to (vii)].
+
+**Note:** \*Banks are advised to refer to [circular DOR.CRE.REC.47/21.01.003/2021-22 dated](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12160&Mode=0)  [September 09, 2021](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12160&Mode=0) on 'Large Exposures Framework – Credit Risk Mitigation (CRM) for offsetting – non-centrally cleared derivative transactions of foreign bank branches in India with their Head Office' which inter alia, states that there shall not be any double counting of the funds placed under section 11(2) of the Banking Regulation Act, 1949 as both capital and CRM.
+
+## *B. Criteria for Classification as Common Equity for Regulatory Purposes*
+
+The instruments to be included in Common Equity Tier 1 capital must meet the criteria furnished in **[Annex 2](#page--1-0)**.
+
+## **Notes:**
+
+- (i) Foreign banks are required to furnish to Reserve Bank, an undertaking to the effect that the bank will not remit abroad the 'capital reserve' and 'remittable surplus retained in India' as long as they function in India to be eligible for including this item under Common Equity Tier 1 capital.
+- (ii) These funds may be retained in a separate account titled as 'Amount Retained in India for Meeting Capital to Risk-weighted Asset Ratio (CRAR) Requirements' under 'Capital Funds'.
+- (iii) An auditor's certificate to the effect that these funds represent surplus remittable to Head Office once tax assessments are completed or tax appeals are decided and do not include funds in the nature of provisions towards tax or for any other contingency may also be furnished to Reserve Bank.
+
+(iv) The net credit balance, if any, in the inter-office account with Head Office / overseas branches will not be reckoned as capital funds. However, the debit balance in the Head Office accoun

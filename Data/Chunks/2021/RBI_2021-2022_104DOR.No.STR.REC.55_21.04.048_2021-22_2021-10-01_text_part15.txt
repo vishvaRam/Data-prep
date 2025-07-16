@@ -1,0 +1,35 @@
+e the loans once the normal interest rate, which is higher than the rate applicable in the initial years, becomes effective. It has been also observed that many banks at the time of initial loan appraisal, do not take into account the repaying capacity of the borrower at normal lending rates. Therefore, the standard asset provisioning on the outstanding amount of such loans has been increased from 0.40 per cent to 2.00 per cent in view of the higher risk associated with them. The provisioning on these assets would revert to 0.40 per cent after 1 year from the date on which the rates are reset at higher rates if the accounts remain 'standard'.
+
+### 5.9.10 Provisioning requirement in terms of Guidelines on Enhancing Credit Supply for Large Borrowers through Market Mechanism
+
+In respect of specified borrowers, as per the provisions of the Guidelines on Enhancing Credit Supply for Large Borrowers through Market Mechanism dated August 25, 2016, banks shall make additional provisions of 3 percentage points over and above the applicable provision on the incremental exposure of the banking system in excess of Normally Permitted Lending Limit (NPLL) as defined in the said guidelines. This higher provisioning requirement shall be distributed in proportion to each bank's funded exposure to the specified borrower.
+
+# 5.10 Provisioning Coverage Ratio
+
+5.10.1 Provisioning Coverage Ratio (PCR) is essentially the ratio of provisioning to gross nonperforming assets and indicates the extent of funds a bank has kept aside to cover loan losses.
+
+5.10.2 From a macro-prudential perspective, banks should build up provisioning and capital buffers in good times i.e. when the profits are good, which can be used for absorbing losses in a downturn. This will enhance the soundness of individual banks, as also the stability of the financial sector. It was, therefore, decided that banks should augment their provisioning cushions consisting of specific provisions against NPAs as well as floating provisions, and ensure that their total provisioning coverage ratio, including floating provisions, is not less than 70 per cent. Accordingly, banks were advised to achieve this norm not later than end-September 2010.
+
+5.10.3 Majority of the banks had achieved PCR of 70 percent and had represented to RBI whether the prescribed PCR is required to be maintained on an ongoing basis. The matter was examined and, the banks were advised that:
+
+- (i) the PCR of 70 percent may be with reference to the gross NPA position in banks as on September 30, 2010;
+- (ii)the surplus of the provision under PCR vis-a-vis as required as per prudential norms should be segregated into an account styled as "countercyclical provisioning buffer", computation of which may be undertaken as per the format given in Annex - 3; and
+- (iii) this buffer will be allowed to be used by banks for making specific provisions for NPAs during periods of system wide downturn, with the prior approval of RBI.
+
+5.10.4 The PCR of the bank should be disclosed in the Notes to Accounts to the Balance Sheet.
+
+## 6. Writing off of NPAs
+
+# 6.1 General
+
+6.1.1 In terms of Section 43(D) of the Income Tax Act 1961, income by way of interest in relation to such categories of bad and doubtful debts as may be prescribed having regard to the guidelines issued by the RBI in relation to such debts, shall be chargeable to tax in the previous year in which it is credited to the bank's profit and loss account or received, whichever is earlier.
+
+6.1.2 This stipulation is not applicable to provisioning required to be made as indicated above. In other words, amounts set aside for making provision for NPAs as above are not eligible for tax deductions.
+
+6.1.3 Therefore, the banks should either make full provision as per the guidelines or write-off such advances and claim such tax benefits as are applicable, by evolving appropriate methodology in consultation with their auditors/tax consultants. Recoveries made in such accounts should be offered for tax purposes as per the rules.
+
+## 6.2 Write-off at Head Office Level
+
+6.2.1 Banks may write-off advances at Head Office level, even though the relative advances are still outstanding in the branch books. However, it is necessary that provision is made as per the classification accorded to the respective accounts. In other words, if an advance is a loss asset, 100 percent provision will have to be made therefor.
+
+6.2.2 Banks are custodians of public deposits and are therefore expected to make all efforts to protect the value of their assets. Banks are required to extinguish all available means of recovery before writing off any account fully or partly. It is observed that some banks are resorting to technical write off of accounts, which reduces incentives to recover. Banks resorting to partial and technical write-offs should not show the remaining part of the loan as standard asset. With a view to bring in more transparency, henceforth banks should disclose full details of

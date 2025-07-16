@@ -1,0 +1,35 @@
+nt*
+
+*(i) The entire data and recordings of V-CIP shall be stored in a system / systems located in India. REs shall ensure that the video recording is stored in a safe and secure manner and bears the date and time stamp that affords easy historical data search. The extant instructions on record management, as stipulated in this MD, shall also be applicable for V-CIP.*
+
+*(ii) The activity log along with the credentials of the official performing the V-CIP shall be preserved.*
+
+### **II. Periodic updation of KYC:**
+
+### **Amended Section 38:**
+
+*REs shall adopt a risk-based approach for periodic updation of KYC. However, periodic updation shall be carried out at least once in every two years for high risk customers, once in every eight years for medium risk customers and once in every ten years for low risk customers from the date of opening of the account / last KYC updation. Policy in this regard shall be documented as part of REs' internal KYC policy duly approved by the Board of Directors of REs or any committee of the Board to which power has been delegated.*
+
+### *i. Individual Customers:*
+
+- *a) No change in KYC information: In case of no change in the KYC information, a selfdeclaration from the customer in this regard shall be obtained through customer's emailid registered with the RE, customer's mobile number registered with the RE, ATMs, digital channels (such as online banking / internet banking, mobile application of RE), letter etc.*
+- *b) Change in address: In case of a change only in the address details of the customer, a self-declaration of the new address shall be obtained from the customer through customer's email-id registered with the RE, customer's mobile number registered with the RE, ATMs, digital channels (such as online banking / internet banking, mobile application of RE), letter etc., and the declared address shall be verified through positive*
+
+*confirmation within two months, by means such as address verification letter, contact point verification, deliverables etc.* 
+
+*Further, REs, at their option, may obtain a copy of OVD or deemed OVD or the equivalent e-documents thereof, as defined in Section 3(a)(xiii), for the purpose of proof of address, declared by the customer at the time of periodic updation. Such requirement, however, shall be clearly specified by the REs in their internal KYC policy duly approved by the Board of Directors of REs or any committee of the Board to which power has been delegated.*
+
+*c) Accounts of customers who were minor at the time of opening account on their becoming major: In case of customers for whom account was opened when they were minor, fresh photographs shall be obtained on their becoming a major and at that time it shall be ensured that CDD documents as per the current CDD standards are available with the REs. Wherever required, REs may carry out fresh KYC of such customers i.e. customers for whom account was opened when they were minor, on their becoming a major.*
+
+## *ii. Customers other than individuals:*
+
+- *a) No change in KYC information: In case of no change in the KYC information of the LE customer, a self-declaration in this regard shall be obtained from the LE customer through its email id registered with the RE, ATMs, digital channels (such as online banking / internet banking, mobile application of RE), letter from an official authorized by the LE in this regard, board resolution etc. Further, REs shall ensure during this process that Beneficial Ownership (BO) information available with them is accurate and shall update the same, if required, to keep it as up-to-date as possible.*
+- *b) Change in KYC information: In case of change in KYC information, RE shall undertake the KYC process equivalent to that applicable for on-boarding a new LE customer.*
+- *iii. Additional measures: In addition to the above, REs shall ensure that* 
+	- *a) The KYC documents of the customer as per the current CDD standards are available with them. This is applicable even if there is no change in customer information but the documents available with the RE are not as per the current CDD standards. Further, in case the validity of the CDD documents available with the RE has expired at the time of periodic updation of KYC, RE shall undertake the KYC process equivalent to that applicable for on-boarding a new customer.*
+	- *b) Customer's PAN details, if available with the RE, is verified from the database of the issuing authority at the time of periodic updation of KYC.*
+	- *c) An acknowledgment is provided to the customer mentioning the date of receipt of the relevant document(s), including self-declaration from the customer, for carrying out periodic updation. Further, it shall be ensured that the information / documents obtained from the customers at the time of periodic updation of KYC are promptly updated in the*
+
+*records / database of the REs and an intimation, mentioning the date of updation of KYC details, is provided to the customer.*
+
+- *d) In ord

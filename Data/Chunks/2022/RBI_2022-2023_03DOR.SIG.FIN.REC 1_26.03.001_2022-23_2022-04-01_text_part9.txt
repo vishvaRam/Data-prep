@@ -1,0 +1,64 @@
+own the broad parameters for utilization of funds raised from QBs under such a scheme.
+
+#### **(**4**) Disclosures**
+
+Every ARC intending to issue SRs shall make disclosures as mentioned in the [Annex.](#page--1-0)
+
+[28](#page-4-0)**(5)** In order to enable the QBs to know the value of their investments in the SRs issued by the ARC, the ARCs registered with the Bank under the Act, were advised to declare NAV of the SRs issued by them at periodical intervals.
+
+## **8. Requirement as to capital adequacy**
+
+(1) Every ARC shall maintain, on an ongoing basis, a capital adequacy ratio, which shall not be less than fifteen percent of its total risk weighted assets. The risk-weighted assets shall be calculated as the weighted aggregate of On-Balance Sheet and Off-Balance Sheet items as detailed hereunder:
+
+#### **Weighted risk assets**
+
+
+<span id="page-4-0"></span> 28 Inserted vide [Notification No.DNBS.PD\(SC/RC\).9/CGM \(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5613&Mode=0#R)
+
+## **9. Deployment of Funds**
+
+(i) The ARC, may as a sponsor and for the purpose of establishing a joint venture, invest in the equity share capital of a ARC formed for the purpose of asset reconstruction;
+
+[29\(](#page-0-0)ii) The ARC may deploy any surplus funds available with it, in terms of a policy framed in this regard by its Board of Directors, in Government securities and deposits with scheduled commercial banks, Small Industries Development Bank of India, National Bank for Agriculture and Rural Development or such other entity as may be specified by the Bank from time to time;
+
+[30](#page-0-1)In addition, ARCs can deploy the available surplus funds in short-term instruments viz., money market mutual funds, certificates of deposit and corporate bonds/ commercial papers which have a short-term rating equivalent to the long-term rating of AA- or above by an eligible CRA, subject to the following conditions:
+
+- a) Maximum investment in such instruments is capped at 10% of the NOF of the ARC.
+- b) The ARC shall have a Board-approved policy in this regard.
+
+[31\(](#page-0-2)iii) No ARC shall, invest in land or building,
+
+Provided that the restriction shall not apply to investment by ARC in land and buildings for its own use up to 10% of its owned fund;
+
+Provided further that the restriction shall not apply to land and building acquired by the ARC in satisfaction of claims in ordinary course of its business of reconstruction of assets in accordance with the provisions of Act;
+
+Provided further that any land and / or building acquired by ARC in the ordinary course of its business of reconstruction of assets while enforcing its security interest, shall be disposed of within a period of five years from the date of such acquisition or such extended period as may be permitted by the Bank in the interest of realization of the dues of the ARC.
+
+[32](#page-0-3)(iv) ARCs may deploy their funds for undertaking restructuring of acquired loan account with the sole purpose of realizing their dues.
+
+ 29 Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+<span id="page-0-2"></span><span id="page-0-1"></span><span id="page-0-0"></span><sup>30</sup> Inserted vide [circular no. DoR.SIG.FIN.REC.75 /26.03.001/2022-23 dated October 11, 2022](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12399&Mode=0)
+
+<span id="page-0-3"></span><sup>31</sup> Substituted vide [Notification No.DNBS.PD\(SC/RC\).8/CGM\(ASR\)-2010 dated April 21, 2010](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=5614&Mode=0#R)
+
+## **10. Accounting Year**
+
+Every ARC shall prepare its balance sheet and profit and loss account as on March 31 every year. ARCs are advised in their balance sheet to classify all the liabilities due within one year as "current liabilities" and assets maturing within one year along with cash and bank balances as "current assets". Capital and Reserves will be treated as liabilities on liability side while investment in SRs and long-term deposits with banks will be treated as fixed assets on the assets side.
+
+#### **11. Asset Classification**
+
+## (1) **Classification**
+
+(i) Every ARC shall, after taking into account the degree of well-defined credit weaknesses and extent of dependence on collateral security for realisation, classify the assets [33](#page-1-0)[held in its own books] into the following categories, namely :
+
+- (a) Standard assets
+- (b) NPAs.
+
+(ii) The NPAs shall be classified further as
+
+(a) 'Sub-standard asset' for a period not exceeding twelve months from the date it was classified as NPA;
+
+b) 'Doubtful asset' if the asset remains a sub-standard asset for a period exceeding twelve months;
+
+ [34](#page-1-1)(c) 'Loss asset' if (A) the asset is non-performing for a period exceeding 36 months; (B) the asset is adversely affected by a potential threat of nonrecoverability due to either

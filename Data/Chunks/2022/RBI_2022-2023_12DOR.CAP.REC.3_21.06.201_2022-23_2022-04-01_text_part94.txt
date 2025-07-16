@@ -1,0 +1,70 @@
+ther work carried out to validate the approach (e.g., board papers and minutes, internal or external reviews) could be furnished to the RBI as appendices to the ICAAP Document.
+
+### **2. Contents**
+
+The ICAAP Document should contain the following sections:
+
+- I. Executive Summary
+- II. Background
+- III. Summary of current and projected financial and capital positions
+- IV. Capital Adequacy
+- V. Key sensitivities and future scenarios
+- VI. Aggregation and diversification
+- VII. Testing and adoption of the ICAAP
+- VIII. Use of the ICAAP within the bank
+
+# **I. Executive Summary**
+
+The purpose of the Executive Summary is to present an overview of the ICAAP methodology and results. This overview would typically include:
+
+- a) the purpose of the report and the regulated entities within a banking group that are covered by the ICAAP;
+- b) the main findings of the ICAAP analysis:
+
+i how much and what composition of internal capital the bank considers it should hold as compared with the minimum CRAR requirement (CRAR) under 'Pillar 1' calculation, and
+
+ii the adequacy of the bank's risk management processes;
+
+- c) a summary of the financial position of the bank, including the strategic position of the bank, its balance sheet strength, and future profitability;
+- d) brief descriptions of the capital raising and dividend plan including how the bank intends to manage its capital in the days ahead and for what purposes;
+- e) commentary on the most material risks to which the bank is exposed, why the level of risk is considered acceptable or, if it is not, what mitigating actions are planned;
+- f) commentary on major issues where further analysis and decisions are required; and
+- g) who has carried out the assessment, how it has been challenged / validated / stress tested, and who has approved it.
+
+### **II. Background**
+
+This section would cover the relevant organisational and historical financial data for the bank. e.g., group structure (legal and operational), operating profit, profit before tax, profit after tax, dividends, shareholders' funds, capital funds held vis-à-vis the regulatory requirements, customer deposits, deposits by banks, total assets, and any conclusions that can be drawn from trends in the data which may have implications for the bank's future.
+
+### **III. Summary of current and projected financial and capital positions**
+
+This section would explain the present financial position of the bank and expected changes to the current business profile, the environment in which it expects to operate, its projected business plans (by appropriate lines of business), projected financial position, and future planned sources of capital.
+
+The starting balance sheet used as reference and date as of which the assessment is carried out should be indicated.
+
+The projected financial position could reckon both the projected capital available and projected capital requirements based on envisaged business plans. These might then provide a basis against which adverse scenarios might be compared.
+
+### **IV. Capital Adequacy**
+
+This section might start with a description of the bank's risk appetite, in quantitative terms, as approved by the bank's Board and used in the ICAAP. It would be necessary to clearly spell out in the document whether what is being presented represents the bank's view of the amount of capital required to meet minimum **regulatory needs or** whether represents the amount of capital that a bank believes it would need to **meet its business plans**. For instance, it should be clearly brought out whether the capital required is based on a particular credit rating desired by the bank or includes buffers for strategic purposes or seeks to minimise the chance of breaching regulatory requirements. Where economic capital models are used for internal capital assessment, the confidence level, time horizon, and description of the event to which the confidence level relates, should also be enumerated. Where scenario analyses or other means are used for capital assessment, then the basis / rationale for selecting the chosen severity of scenarios used, should also be included.
+
+The section would then include a detailed review of the capital adequacy of the bank.
+
+The information provided would include the following elements:
+
+# **Timing**
+
+- the effective date of the ICAAP calculations together with details of any events between this date and the date of submission to the Board / RBI which would materially impact the ICAAP calculations together with their effects; and
+- details of, and rationale for, the time period selected for which capital requirement has been assessed.
+
+## **Risks Analysed**
+
+- an identification of the major risks faced by the bank in each of the following categories:
+	- a) credit risk
+	- b) market risk
+	- c) operational risk
+	- d) liquidity risk
+	- e) concentration risk
+	- f) interest rate risk in the banking book
+	- g) residual risk of securitisation
+	- h) strategic risk
+	- i) business risk
+	

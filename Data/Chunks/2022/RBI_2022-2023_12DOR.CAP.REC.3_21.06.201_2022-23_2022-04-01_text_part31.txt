@@ -1,0 +1,34 @@
+ client and the QCCP. However, to recognize the shorter close-out period for cleared transactions, clearing members can capitalize the exposure to their clients by multiplying the EAD by a scalar which is not less than 0.71.
+
+# *Client bank exposures to clearing member*
+
+I. Where a bank is a client of the clearing member, and enters into a transaction with the clearing member acting as a financial intermediary (i.e., the clearing member completes an offsetting transaction with a QCCP), the client's exposures to the clearing member will
+
+<sup>64</sup> Please refer to paragraph 7.3.8 of this Master Circular.
+
+<sup>65</sup> Please refer to Guidelines on Implementation of Basel III Capital Regulations in India - Clarifications [\(Circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7911&Mode=0)  [DBOD.No.BP.BC.88/21.06.201/2012-13 dated March 28, 2013](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=7911&Mode=0) read with [circular](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8662&Mode=0)  [DBOD.No.BP.BC.81/21.06.201/2013-14 dated December 31, 2013\)](https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=8662&Mode=0) in terms of which CVA risk capital charges would become effective as on April 1, 2014.
+
+receive the treatment applicable to the paragraph "clearing member exposure to QCCPs" of this section (mentioned above), if following conditions are met:
+
+- (a) The offsetting transactions are identified by the QCCP as client transactions and collateral to support them is held by the QCCP and / or the clearing member, as applicable, under arrangements that prevent any losses to the client due to:
+	- (i) the default or insolvency of the clearing member;
+	- (ii) the default or insolvency of the clearing member's other clients; and
+	- (iii) the joint default or insolvency of the clearing member and any of its other clients.
+
+The client bank must obtain an independent, written and reasoned legal opinion that concludes that, in the event of legal challenge, the relevant courts and administrative authorities would find that the client would bear no losses on account of the insolvency of an intermediary under the relevant law, including:
+
+- the law(s) applicable to client bank, clearing member and QCCP;
+- the law of the jurisdiction(s) of the foreign countries in which the client bank, clearing member or QCCP are located
+- the law that governs the individual transactions and collateral; and
+- the law that governs any contract or agreement necessary to meet this condition (a).
+- (b) Relevant laws, regulations, rules, contractual, or administrative arrangements provide that the offsetting transactions with the defaulted or insolvent clearing member are highly likely to continue to be indirectly transacted through the QCCP, or by the QCCP, should the clearing member default or become insolvent. In such circumstances, the client positions and collateral with the QCCP will be transferred at the market value unless the client requests to close out the position at the market value. In this context, it may be clarified that if relevant laws, regulations, rules, contractual or administrative agreements provide that trades are highly likely to be ported, this condition can be considered to be met. If there is a clear precedent for transactions being ported at a QCCP and intention of the participants is to continue this practice, then these factors should be considered while assessing if trades are highly likely to be ported. The fact that QCCP documentation does not prohibit client trades from being ported is not sufficient to conclude that they are highly likely to be ported. Other evidence such as the criteria mentioned in this paragraph is necessary to make this claim.
+- II. Where a client is not protected from losses in the case that the clearing member and another client of the clearing member jointly default or become jointly insolvent, but all
+
+other conditions mentioned above are met and the concerned CCP is a QCCP, a risk weight of 4% will apply to the client's exposure to the clearing member.
+
+- III. Where the client bank does not meet the requirements in the above paragraphs, the bank will be required to capitalize its exposure (including potential CVA risk exposure) to the clearing member as a bilateral trade.
+- IV. Under situations in which a client enters into a transaction with the QCCP with a clearing member guaranteeing its performance, the capital requirements will be based on paragraph 5 of this Master Circular.
+
+#### *Treatment of posted collateral*
+
+- (a) In all cases, any assets or collateral posted must, from the perspective of the bank posting such collateral, receive the risk weights that otherwise applies to such assets or collateral under the capital adequacy framework, regardless of the fact that such assets have been posted as collateral. Thus collateral posted from Banking Book will receive Banking Book treatment and collateral posted from Trading Book will receive

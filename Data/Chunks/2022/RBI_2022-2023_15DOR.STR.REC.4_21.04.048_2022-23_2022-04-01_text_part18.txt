@@ -1,0 +1,48 @@
+ as on the reference date; or
+- b. The date of first default after the reference date.
+
+
+9.4 The reference dates for the above purpose shall be as under:
+
+9.5 The RP may involve any action / plan / reorganization including, but not limited to, regularisation of the account by payment of all over dues by the borrower entity, sale of the exposures to other entities / investors, change in ownership and restructuring[9](#page-2-2) . The RP shall be clearly documented by the lenders concerned (even if there is no change in any terms and conditions).
+
+## 10. Implementation Conditions for RP
+
+10.1 RPs involving restructuring / change in ownership in respect of accounts where the aggregate exposure of lenders is ₹100 crore and above, shall require independent credit
+
+<span id="page-2-0"></span> <sup>7</sup> In cases where asset reconstruction companies (ARCs) have exposure to the borrower concerned, they shall also sign the ICA and adhere to all its provisions.
+
+<span id="page-2-1"></span><sup>8</sup> Liquidation value would mean the estimated realisable value of the assets of the relevant borrower, if such borrower were to be liquidated as on the date of commencement of the Review Period.
+
+<span id="page-2-2"></span><sup>9</sup> Restructuring is an act in which a lender, for economic or legal reasons relating to the borrower's financial difficulty, grants concessions to the borrower. Restructuring would normally involve modification of terms of the advances / securities, which would generally include, among others, alteration of payment period / payable amount / the amount of instalments / rate of interest; roll over of credit facilities; sanction of additional credit facility/ release of additional funds for an account in default to aid curing of default / enhancement of existing credit limits; compromise settlements where time for payment of settlement amount exceeds three months.
+
+evaluation (ICE) of the residual debt[10](#page-3-0) by credit rating agencies (CRAs) specifically authorised by the Reserve Bank for this purpose. While accounts with aggregate exposure of ₹500 crore and above shall require two such ICEs, others shall require one ICE. Only such RPs which receive a credit opinion of RP4[11](#page-3-1) or better for the residual debt from one or two CRAs, as the case may be, shall be considered for implementation. Further, ICEs shall be subject to the following:
+
+- a) The CRAs shall be directly engaged by the lenders and the payment of fee for such assignments shall be made by the lenders.
+- b) If lenders obtain ICE from more than the required number of CRAs, all such ICE opinions shall be RP4 or better for the RP to be considered for implementation.
+
+10.2 A RP in respect of borrowers to whom the lenders continue to have credit exposure, shall be deemed to be 'implemented' only if the following conditions are met:
+
+- a) A RP which does not involve restructuring/change in ownership shall be deemed to be implemented only if the borrower is not in default with any of the lenders as on 180th day from the end of the Review Period. Any subsequent default after the 180-day period shall be treated as a fresh default, triggering a fresh review.
+- b) A RP which involves restructuring/change in ownership shall be deemed to be implemented only if all of the following conditions are met:
+	- i. all related documentation, including execution of necessary agreements between lenders and borrower / creation of security charge / perfection of securities, are completed by the lenders concerned in consonance with the RP being implemented;
+	- ii. the new capital structure and/or changes in the terms of conditions of the existing loans get duly reflected in the books of all the lenders and the borrower; and,
+	- iii. borrower is not in default with any of the lenders.
+
+10.3 A RP which involves lenders exiting the exposure by assigning the exposures to third party or a RP involving recovery action shall be deemed to be implemented only if the exposure to the borrower is fully extinguished.
+
+<span id="page-3-0"></span><sup>10</sup> The residual debt of the borrower entity, in this context, means the aggregate debt (fund based as well as non-fund based) envisaged to be held by all the lenders as per the proposed RP.
+
+<span id="page-3-1"></span><sup>11</sup> [Annex – 4](#page--1-0) provides list of RP symbols that can be provided by CRAs as ICE and their meanings.
+
+## 11. Delayed Implementation of Resolution Plan
+
+11.1 Where a viable RP in respect of a borrower is not implemented within the timelines given below, all lenders shall make additional provisions as under:
+
+
+11.2 The additional provisions shall be made over and above the higher of the following, subject to the total provisions held being capped at 100% of total outstanding:
+
+- a) The provisions already held; or,
+- b) The provisions required to be made as per the asset classification status of the borrower account.
+
+11.3 The additional provisions shall be made by all th

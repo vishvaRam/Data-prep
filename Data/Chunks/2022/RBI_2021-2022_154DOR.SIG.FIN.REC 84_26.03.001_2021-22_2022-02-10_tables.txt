@@ -1,0 +1,51 @@
+| Table of Contents |  |  |  |
+|-------------------|--|--|--|
+|-------------------|--|--|--|
+
+| Paragraph<br>No. | Particulars                                                              |
+|------------------|--------------------------------------------------------------------------|
+| 1                | Applicability of the Guidelines/ Instructions                            |
+| 2                | Definitions                                                              |
+| 3                | Registration and matter incidental thereto                               |
+| 4                | Net Owned Fund                                                           |
+| 5                | Permissible Business                                                     |
+| 6                | Asset Reconstruction                                                     |
+| 7                | Securitisation                                                           |
+| 8                | Requirement as to Capital Adequacy                                       |
+| 9                | Deployment of Funds                                                      |
+| 10               | Accounting Year                                                          |
+| 11               | Asset Classification                                                     |
+| 12               | Investments                                                              |
+| 13               | Income Recognition                                                       |
+| 14               | Disclosures in the balance sheet                                         |
+| 15               | Internal Audit                                                           |
+| 16               | Exemptions                                                               |
+| 17               | Submission of Quarterly Statements                                       |
+| 18               | Submission of Audited Balance Sheet                                      |
+| 19               | Submission of data to Credit Information Companies                       |
+| 20               | Filing of Transactions with Central Registry set up under the Act        |
+| 21               | Submission of Financial Information to Information Utilities             |
+| 22               | Reporting to Indian Banks' Association (IBA)                             |
+| 23               | Bank's prior approval for any substantial change in management by way of |
+|                  | transfer of shares                                                       |
+| 24               | Fit and Proper Criteria for Sponsors/ Investors                          |
+| 25               | Fair Practices Code                                                      |
+
+|                         | On-Balance Sheet Items                      | Percentage Risk Weight |  |
+|-------------------------|---------------------------------------------|------------------------|--|
+| (a)                     | Cash and deposits with scheduled commercial | 0                      |  |
+|                         | banks/<br>NABARD/<br>SIDBI                  |                        |  |
+| (b)                     | Investments in Government securities        | 0                      |  |
+|                         | (c) Shares in other SCs/RCs                 | 0                      |  |
+| (d)                     | All Other assets<br>100                     |                        |  |
+| Off-Balance Sheet Items |                                             |                        |  |
+|                         | All Contingent Liabilities                  | 50                     |  |
+
+| Asset Category         |                                                | Provision<br>Required                                                                                   |  |
+|------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------|--|
+| Sub-standard<br>Assets | A general provision of 10% of the outstanding; |                                                                                                         |  |
+| Doubtful Assets        | (i)                                            | 100% provision to the extent the asset is not covered by<br>the estimated realisable value of security; |  |
+|                        | (ii)                                           | In addition to item (i) above, 50% of the remaining<br>outstanding.                                     |  |
+| Loss Assets            | The entire asset shall be written off.         |                                                                                                         |  |
+|                        |                                                | (If, for any reason, the asset is retained in the books, 100%<br>thereof shall be provided for).        |  |
+

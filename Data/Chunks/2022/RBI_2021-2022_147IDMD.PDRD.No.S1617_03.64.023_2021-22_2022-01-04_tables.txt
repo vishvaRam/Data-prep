@@ -1,0 +1,10 @@
+| S. No | Trade<br>date | Trade<br>time | Deal<br>number | Instrument<br>name | Client<br>number | Buy/Sell | Trade<br>price | Trade<br>amount<br>(face<br>value) |
+|-------|---------------|---------------|----------------|--------------------|------------------|----------|----------------|------------------------------------|
+|       |               |               |                |                    |                  |          |                |                                    |
+|       |               |               |                |                    |                  |          |                |                                    |
+
+| Name of the PD | Total secondary market turnover | Secondary market turnover        |
+|----------------|---------------------------------|----------------------------------|
+|                | achieved in the FY              | achieved via the odd-lot segment |
+|                | (in ₹ cr)                       | (in ₹ cr)                        |
+|                |                                 |                                  |

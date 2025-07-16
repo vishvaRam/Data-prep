@@ -1,0 +1,32 @@
+t Valuation Guidance
+
+- (i) This section provides banks with guidance on prudent valuation for positions that are accounted for at fair value. This guidance would be applicable to all positions enumerated in **paragraph 8.2.1** above. It is especially important for positions without actual market prices or observable inputs to valuation, as well as less liquid positions which raise supervisory concerns about prudent valuation. The valuation guidance set forth below is not intended to require banks to change valuation procedures for financial reporting purposes.
+- (ii) A framework for prudent valuation practices should at a minimum include the following:
+
+#### **8.8.1.1** *Systems and Controls:*
+
+Banks must establish and maintain adequate systems and controls sufficient to give management and supervisors the confidence that their valuation estimates are prudent and reliable. These systems must be integrated with other risk management systems within the organisation (such as credit analysis). Such systems must include:
+
+(i) Documented policies and procedures for the process of valuation. This includes clearly defined responsibilities of the various areas involved in the determination of the valuation, sources of market information and review of their appropriateness, guidelines for the use of unobservable inputs reflecting the bank's assumptions of what market participants would use in pricing the position, frequency of independent valuation, timing of closing prices, procedures for adjusting valuations, end of the month and ad-hoc verification procedures; and
+
+(ii) Clear and independent (i.e., independent of front office) reporting lines for the department accountable for the valuation process.
+
+# **8.8.1.2** *Valuation Methodologies*:
+
+# **Marking to Market**
+
+(i) Marking-to-market is at least the daily valuation of positions at readily available close out prices in orderly transactions that are sourced independently. Examples of readily available close out prices include exchange prices, screen prices, or quotes from several independent reputable brokers.
+
+(ii) Banks must mark-to-market as much as possible. The more prudent side of bid/offer should be used unless the institution is a significant market maker in a particular position type and it can close out at mid-market. Banks should maximise the use of relevant observable inputs and minimise the use of unobservable inputs when estimating fair value using a valuation technique. However, observable inputs or transactions may not be relevant, such as in a forced liquidation or distressed sale, or transactions may not be observable, such as when markets are inactive. In such cases, the observable data should be considered, but may not be determinative.
+
+# **Marking to Model**
+
+(iii) Marking-to model is defined as any valuation which has to be benchmarked, extrapolated or otherwise calculated from a market input. Where marking-to-market is not possible, banks should follow the guidelines on valuation of investments contained in Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), dated August 25, 2021. For investment and derivative positions other than those covered in the Master Circular, the valuation model used by banks must be demonstrated to be prudent. When marking to valuation model other than that prescribed in RBI / FIMMDA guidelines, an extra degree of conservatism is appropriate. RBI will consider the following in assessing whether a mark-to-model valuation is prudent:
+
+- Senior management should be aware of the elements of the trading book or of other fairvalued positions which are subject to mark to model and should understand the materiality of the uncertainty this creates in the reporting of the risk/performance of the business.
+- Market inputs should be sourced, to the extent possible, in line with market prices (as discussed above). The appropriateness of the market inputs for the particular position being valued should be reviewed regularly.
+- Where available, generally accepted valuation methodologies for particular products should be used as far as possible.
+- Where the model is developed by the institution itself, it should be based on appropriate assumptions, which have been assessed and challenged by suitably qualified parties independent of the development process. The model should be developed or approved independently of the front office. It should be independently tested. This includes validating the mathematics, the assumptions and the software implementation.
+- There should be formal change control procedures in place and a secure copy of the model should be held and periodically used to check valuations.
+- Risk management should be aware of the weaknesses of the models used and how best to reflect those in the valuation output.
+- The model should be subject to periodic review to determine the accuracy of its performance (e.g., assessing continued appropriateness of 

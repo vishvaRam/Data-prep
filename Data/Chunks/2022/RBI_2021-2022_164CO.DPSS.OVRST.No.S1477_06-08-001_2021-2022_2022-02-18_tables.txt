@@ -1,0 +1,72 @@
+| Sr.No. | Reference Number                        | Date               | Subject                                                              |
+|--------|-----------------------------------------|--------------------|----------------------------------------------------------------------|
+| 1.     | DPSS(CO)Cir.No.04<br>/<br>10.01.01<br>/ | July 13, 2005      | RTGS and other payment systems service charges                       |
+|        | 2005-2006                               |                    |                                                                      |
+| 2.     | DPSS (CO) No.796<br>/ 01.01.59<br>/     | November 23, 2005  | Electronic Payment Products –<br>Service Charges                     |
+|        | 2005-2006                               |                    |                                                                      |
+| 3.     | DPSS.CO.PD.No.1873 /                    | April 27, 2009     | Policy Guidelines for issuance and operation of Prepaid Payment      |
+|        | 02.14.06 / 2008-09                      |                    | Instruments in India                                                 |
+| 4.     | DPSS (CO) RTGS No.1959<br>/             | May 11, 2009       | Usage of Inter-bank window for customer transactions                 |
+|        | 04.04. 002 /2008-2009                   |                    |                                                                      |
+| 5.     | DPSS (CO) RTGS No.2246 /                | June 16, 2009      | RTGS Transactions                                                    |
+|        | 04.04.002 / 2008-2009                   |                    |                                                                      |
+| 6.     | DPSS.CO.PD.No.344<br>/                  | August 14, 2009    | Policy Guidelines for issuance and operation of Prepaid Payment      |
+|        | 02.14.06<br>/ 2009-10                   |                    | Instruments in India                                                 |
+| 7.     | DPSS (CO) RTGS No.949<br>/              | November 11, 2009  | RTGS System –<br>Mandatory Beneficiary Account Number                |
+|        | 04.04.002 / 2009-2010                   |                    |                                                                      |
+| 8.     | DPSS (CO) EPPD No. 477<br>/             | September 01, 2010 | Uniformity in penal interest payable by banks for delays in credit / |
+|        | 04.03.01 / 2010-11                      |                    | return of NEFT / NECS / ECS transactions                             |
+| 9.     | DPSS.CO.No. 1041<br>/                   | November 04, 2010  | Issuance and Operation of pre-paid payment Instruments in India      |
+|        | 02.14.006<br>/ 2010-11                  |                    | (Reserve Bank) Directions<br>–<br>Additional guidelines              |
+| 10.    | DPSS. CO. AD. No. 780<br>/              | November 24, 2010  | Issuance and Operation of Prepaid Payment Instruments                |
+|        | 02.27.004<br>/<br>2010-11               |                    |                                                                      |
+| 11.    | DPSS.CO.OSD. No. 1381<br>/              | December 27, 2010  | Collection of Statistics on pre-paid instruments                     |
+|        | 06.08.001<br>/ 2010-11                  |                    |                                                                      |
+| 12.    | DPSS.CO.OSD. No. 1445<br>/              | December 27, 2010  | Issuance and operation of Prepaid Payment Instruments in India –     |
+|        | 06.12.001<br>/ 2010-11                  |                    | Auditor Certificate on the balances in Escrow account                |
+| 13.    | DPSS No. 2174<br>/                      | March 23, 2011     | Issuance and Operation of pre-paid payment instruments in India<br>– |
+|        | 02.14.004<br>/<br>2010-11               |                    | Clarification                                                        |
+
+| Sr.No. | Reference Number           | Date               | Subject                                                                       |
+|--------|----------------------------|--------------------|-------------------------------------------------------------------------------|
+| 14.    | DPSS.CO.No.2501<br>/       | May 04, 2011       | Policy Guidelines for issuance and operation of Prepaid Instruments           |
+|        | 02.14.06<br>/ 2010-11      |                    | in India                                                                      |
+| 15.    | DPSS.CO.PD.No.<br>225<br>/ | August 04, 2011    | Policy Guidelines for issuance and operation of Prepaid Payment               |
+|        | 02.14.006<br>/<br>2011-12  |                    | Instruments in India                                                          |
+| 16.    | DPSS.CO.PD. No. 2256<br>/  | June 14, 2012      | Policy Guidelines for issuance and operation of Prepaid Payment               |
+|        | 02.14.006<br>/ 2011-12     |                    | Instruments in India<br>–<br>Amendments                                       |
+| 17.    | DPSS.CO.PD.No.560<br>/     | October 01, 2012   | Policy Guidelines for issuance and operation of Prepaid Payment               |
+|        | 02.14.006<br>/<br>2012-13  |                    | Instruments in India<br>–<br>Amendments                                       |
+| 18.    | DPSS.CO.OSD. No.1604<br>/  | March 14, 2013     | Collection of Information on Customer Grievances                              |
+|        | 06.06.005<br>/<br>2012-13  |                    |                                                                               |
+| 19.    | DPSS.CO.PD.No.563<br>/     | September 05, 2013 | Cash withdrawal at Point of Sale (POS) –<br>Prepaid Payment                   |
+|        | 02.14.003<br>/<br>2013-14  |                    | Instruments issued by banks                                                   |
+| 20.    | DPSS.CO.PD.No.2074<br>/    | March 28, 2014     | Issuance<br>and Operation of Pre-paid Payment Instruments in India –          |
+|        | 02.14.006<br>/<br>2013-14  |                    | Consolidated Revised Policy Guidelines                                        |
+| 21.    | DPSS.CO.PD.No. 2366<br>/   | May 13, 2014       | Issuance and Operation of Pre-paid Payment Instruments in India –             |
+|        | 02.14.006<br>/<br>2013-14  |                    | Consolidated Revised Policy Guidelines                                        |
+| 22.    | DPSS.CO.PD.No.980<br>/     | December 03, 2014  | Issuance and Operation of Pre-paid Payment Instruments (PPIs) in              |
+|        | 02.14.006<br>/<br>2014-15  |                    | India<br>–<br>Relaxations                                                     |
+| 23.    | DPSS.CO.PD.No. 58<br>/     | July 09, 2015      | Prepaid Payment Instrument (PPI) guidelines –<br>Introduction of New          |
+|        | 02.14.006<br>/<br>2015-16  |                    | Category of PPI for Mass Transit Systems (PPI-MTS)                            |
+| 24.    | DPSS.CO.PD.No.1288<br>/    | November 22, 2016  | Special measures to incentivise Electronic Payments –                         |
+|        | 02.14.006<br>/<br>2016-17  |                    | (i) Enhancement in issuance limits for Pre-Paid Payment                       |
+|        |                            |                    | Instruments (PPIs) in India                                                   |
+|        |                            |                    | (ii) Special measures for merchants                                           |
+| 25.    | DPSS.CO.PD.No.1610<br>/    | December 27, 2016  | Master Circular on Issuance and Operations of Prepaid Payment                 |
+|        | 02.14.006<br>/<br>2016-17  |                    | Instruments –<br>Amendments to paragraph 7.9                                  |
+| 26.    | DPSS.CO.PD.No.1669<br>/    | December 30, 2016  | Special measures to incentivise Electronic Payments –<br>Extension of         |
+|        | 02.14.006<br>/<br>2016-17  |                    | time                                                                          |
+| 27.    | DPSS.CO.PD.No.808<br>/     | October 16, 2018   | Prepaid Payment Instruments (PPIs) –<br>Guidelines for Interoperability       |
+|        | 02.14.006<br>/<br>2018-19  |                    |                                                                               |
+| 28.    | DPSS.CO.PD.No.1417<br>/    | January 04, 2019   | Customer<br>Protection<br>–<br>Limiting<br>Liability<br>of<br>Customers<br>in |
+|        | 02.14.006<br>/<br>2018-19  |                    | Unauthorised Electronic Payment Transactions in Prepaid Payment               |
+|        |                            |                    | Instruments (PPIs) issued by Authorised Non-banks                             |
+
+| Sr.No. | Reference Number              | Date              | Subject                                                                     |
+|--------|-------------------------------|-------------------|-----------------------------------------------------------------------------|
+| 29.    | DPSS.CO.PD.No.499<br>/        | August 30, 2019   | Amendment to Master Direction on Issuance and Operation of                  |
+|        | 02.14.006<br>/<br>2019-20     |                   | Prepaid Payment Instruments (PPIs)                                          |
+| 30.    | DPSS.CO.PD.No.1198/02.14.006/ | December 24, 2019 | Introduction of a new type of semi-closed Prepaid Payment                   |
+|        | 2019-20                       |                   | Instrument (PPI) –<br>PPIs upto<br>₹10,000/-<br>with loading only from bank |
+|        |                               |                   | account                                                                     |

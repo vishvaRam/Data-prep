@@ -1,0 +1,80 @@
+
+ <sup>3</sup> Ref.: [RBI circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12179&Mode=0) on Scale Based Regulation (SBR):
+
+A Revised Regulatory Framework for NBFCs
+
+<sup>4</sup> "Public funds" shall include funds raised either directly or indirectly through public deposits, Commercial Papers, debentures, inter-corporate deposits and bank finance but excludes funds raised by issue of instruments compulsorily convertible into equity shares within a period not exceeding 5 years from the date of issue.
+
+F. Breach of any risk threshold (as detailed under) may result in invocation of PCA.
+
+
+## **For NBFCs-D and NBFCs-ND (excluding CICs):**
+
+# **For CICs:**
+
+
+
+G. Exit from PCA and Withdrawal of Restrictions under PCA - Once a NBFC is placed under PCA, taking the NBFC out of PCA Framework and/or withdrawal of restrictions imposed under the PCA Framework will be considered: a) if no breaches in risk thresholds in any of the parameters are observed as per four continuous quarterly financial statements, one of which should be Annual Audited Financial Statement (subject to assessment by RBI); and b) based on Supervisory comfort of the RBI, including an assessment on sustainability of profitability of the NBFC.
+
+
+H. The menu of corrective actions is as below:
+
+
+# **Common Menu for Selection of Discretionary Corrective Actions**
+
+# **1. Special Supervisory Actions**
+
+- Special Supervisory Monitoring Meetings (SSMMs) at quarterly or other identified frequency
+- Special inspections/targeted scrutiny of the NBFC
+- Cause a special audit/inspection of NBFC/Group entities by the extant supervisory mechanism and/or through external auditors
+- Restricted and need based regulatory/supervisory approvals to be given by the Reserve Bank
+- Resolution of NBFC by Amalgamation/ Reconstruction/ Splitting (Section 45MBA of RBI Act, 1934)
+- File insolvency application under IBC (As per the rules dated November 15, 2019 notified under section 239 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016))
+- Show Cause Notice for cancellation of CoR and winding up of the NBFC
+
+# **2. Strategy related Actions**
+
+- Activate the Recovery Plan that has been duly approved by the Supervisor
+- Undertake a detailed review of business model in terms of sustainability of the business model, profitability of business lines and activities, medium and long term viability, etc.
+- Review short-term strategy focusing on addressing immediate concerns
+- Review medium-term business plans, identify achievable targets and set concrete milestones for progress and achievement
+- Undertake business process reengineering as appropriate
+- Undertake restructuring of operations as appropriate
+
+## **3. Governance related Actions**
+
+- RBI may actively engage with the NBFC's Board on various aspects as considered appropriate
+- RBI may recommend to promoters/shareholders to bring in new Management/ Board
+- RBI may remove managerial persons under the RBI Act, as applicable
+- Removal of Director and/or appointment of another person as Director in his place
+- RBI may supersede the Board under the RBI Act and appoint an Administrator
+- RBI may require the NBFC to invoke claw back and malus clauses and other actions as available in regulatory guidelines, and impose other restrictions or conditions
+- Impose restrictions on Directors' or Management compensation, as applicable.
+
+### **4. Capital related Actions**
+
+- Detailed Board level review of capital planning
+- Submission of plans and proposals for raising additional capital
+- Requiring the NBFC to bolster reserves through retained profits
+- Restriction on investment in subsidiaries/associates
+- Restriction in expansion of high risk-weighted assets to conserve capital
+- Reduction in exposure to high-risk sectors to conserve capital
+- Restrictions on increasing stake in subsidiaries and other group companies
+
+### **5. Credit risk related Actions**
+
+- Preparation of time bound plan and commitment for reduction of stock of NPAs
+- Preparation of and commitment to plan for containing generation of fresh NPAs
+- Strengthening of loan review mechanism
+- Restrictions/reduction in total credit risk weight density (example: restriction/ reduction in credit for borrowers below certain rating grades, restriction/reduction in unsecured exposures, etc.)
+- Reduction in loan concentrations in identified sectors, industries or borrowers
+- Sale of assets
+- Action plan for recovery of assets through identification of areas (geography-wise, industry segment-wise, borrower-wise, etc.) and setting up of dedicated Recovery Task Forces, etc.
+- Prohibition on expansion of credit/ investment portfolios other than investment in government securities / other High-Quality Liquid Investments
+- Higher provisioning for NPAs/NPIs
+
+#### **6. Market risk related Actions**
+
+- Restrictions on/reduction in borrowings from the debt market
+- Restrictions on extent of ALM mismatch
+- Restrictions 

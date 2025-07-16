@@ -1,0 +1,66 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2020-21/113 A.P. (DIR Series) Circular No.13 March 25, 2021
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+# **FETERS – Cards: Monthly Reporting**
+
+Attention of Authorised Dealers (Category I) is invited to [A.P. \(DIR Series\) Circular No.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10276&Mode=0)  [50 dated February 11, 2016](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10276&Mode=0) on compilation of R-Returns for reporting under the Foreign Exchange Transactions Electronic Reporting System (FETERS). It has been decided to collect more details of international transactions using credit card / debit card / unified payment interface (UPI) along with their economic classification (merchant category code – MCC) through a new return called 'FETERS-Cards', using the same web-portal [\(https://bop.rbi.org.in\)](https://bop.rbi.org.in/).
+
+2. Nodal offices of Authorised Dealers (ADs) may submit FETERS-Cards details on the web-portal in the following manner:
+
+A. For transactions through credit card / debit card / UPI:
+
+- (i) Sale of forex by AD towards international transaction made by Indian resident (to be reported by the card issuing / transaction originating AD); and
+- (ii) Purchase of forex by AD under transaction by foreign resident with Indian resident (to be reported by merchant acquirer AD).
+- B. The information shall be submitted in the following fixed format (details given in [Annex\)](#page-2-0):
+	- a. For transactions using credit/debit card: MCC X Country X Currency X Amount (Payment/Refund) X Card Status (Present /Not present)
+	- b. For transactions through UPI: MCC X Country X Currency X Amount (Payment/Refund) X QR Code Scan (Yes/No)
+
+3. AD Banks need to report all card transactions (*e.g.*, through PoS terminals / ecommerce (online purchase) / for transferring funds to bank accounts).
+
+- 4. Data submission by ADs:
+	- (i) ADs shall submit the FETERS-Cards data on the webportal [\(https://bop.rbi.org.in\)](https://bop.rbi.org.in/) by using the RBI-provided login-name and password, within seven working days from the last date of the month for which data are being reported. The web-portal provides detailed guidance and help material.
+	- (ii) FETERS-Cards reporting will be implemented for the transactions taking place from April 1, 2021. Hence, details of the transactions in April 2021 may be reported in the first week of May 2021.
+	- (iii) In case of any clarifications, banks may send their queries through [e-mail](mailto:bkccard@rbi.org.in) or contact by phone at 022-26578416 or 022-26571154 (direct).
+
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+
+Yours faithfully
+
+Ajay Kumar Misra Chief General Manager-in-Charge
+
+# **Annex to A.P. (DIR Series) Circular No.13 dated March 25, 2021**
+
+- 2. ADs are encouraged to generate the prescribed format data file from their internal system, validate/upload it in the web-portal and get acknowledgment. The portal enables downloading reports based on their own data submitted in the past.
+- 3. Naming Convention: The file name should be "BANKCODE\_MMYYYY\_CC" for credit card, "BANKCODE\_MMYYYY\_DC" for debit card and "BANKCODE\_MMYYYY\_UPII" for UPI international transactions. For example, if bank code is XXX, the file name should be:
+	- XXX\_MMYYYY\_CC.txt for credit card file
+	- XXX\_MMYYYY\_DC.txt for debit card file
+	- XXX\_MMYYYY\_UPII.txt for UPI international transactions
+
+
+## **4. Credit Card File format for International Transactions: Structure of Record type 01 and 02**
+
+## **Annex to A.P. (DIR Series) Circular No.13 dated March 25, 2021**
+
+
+### **5. Debit Card File Format for International Transactions: Structure of Record type 01 and 02)**
+
+### **6. UPI International File Format: Structure of Record type 01 and 02)**
+
+
+**Sample file - Credit Card International Transactions- 639\_122019\_CC.TXT**
+
+
+## **Sample file - Debit Card International Transactions - 639\_122019\_DC.TXT**
+
+
+**Sample file – UPI International Transactions – 639\_122019\_UPII.TXT**
+
+
+**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***

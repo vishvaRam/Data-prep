@@ -1,0 +1,36 @@
+nd or invest in any debt instruments issued by a foreign entity or extend non-fund based commitment to or on behalf of a foreign entity, including overseas SDSs of such Indian entity, subject to the following conditions:
+
+- a) the Indian entity is eligible to make ODI;
+- b) the Indian entity has made ODI in the foreign entity;
+- c) the Indian entity has acquired control in the foreign entity on or before the date of making such financial commitment.
+
+(ix) **"Overseas Portfolio Investment (OPI)"** means investment, other than ODI, in foreign securities. The following is further provided:
+
+- a) OPI shall not be made in:
+	- i. any unlisted debt instruments; or
+	- ii. any security which is issued by a person resident in India who is not in an IFSC; or
+	- iii. any derivatives unless otherwise permitted by Reserve Bank; or
+	- iv. any commodities including Bullion Depository Receipts (BDRs).
+
+- b) OPI by a person resident in India in the listed equity capital of a listed entity, even after its delisting, shall continue to be treated as OPI until any further investment is made in the entity, i.e., any further investment made in the equity capital of the foreign entity after its delisting shall be made as ODI.
+- c) A listed Indian company may make OPI, including by way of reinvestment, in accordance with schedule II of the OI Rules. 'Reinvestment' means that the OPI proceeds are exempted from repatriation provisions as long as such proceeds are reinvested within the time specified for realisation and repatriation as per Notification No. FEMA 9(R)/2015-RB namely, [Foreign](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10258&Mode=0)  [Exchange Management \(Realisation, repatriation and surrender of foreign exchange\)](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10258&Mode=0)  [Regulations, 2015.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10258&Mode=0)
+- d) An unlisted Indian entity may make OPI in accordance with schedule II of the OI Rules.
+- e) The investment (including sponsor contribution) in units of any investment fund overseas, duly regulated by the regulator for the financial sector in the host jurisdiction, shall be considered as OPI. Accordingly, in jurisdictions other than IFSC, listed Indian companies and resident individuals may make such investment. Whereas in IFSC an unlisted Indian entity may also make such OPI in units of an investment fund or vehicle, in terms of schedule V of the OI Rules subject to limits, as applicable.
+- f) Resident individuals may make OPI within the overall limit for Liberalised Remittance Scheme (LRS) in terms of schedule III of the OI Rules. Further, shares or interest acquired by the resident individuals by way of sweat equity shares or minimum qualification shares or under Employee Stock Ownership Plan (ESOP)/ Employee Benefits Scheme up to 10% of the paidup capital/stock, whether listed or unlisted, of the foreign entity and without control shall also qualify as OPI.
+- g) Any investment made overseas in accordance with schedule IV of the OI Rules in securities as stipulated by SEBI by Mutual Funds (MFs), Venture Capital Funds (VCFs) and Alternative Investment Funds (AIFs) registered with SEBI shall be considered as OPI.
+
+(x) **"Listed equity capital or instrument"** - Wherever a reference is made in these directions or OI Rules or OI Regulations to listed equity capital or a listed instrument overseas, it shall mean that such equity capital or instrument, as the case may be, shall be listed on a recognised stock exchange outside India.
+
+## **Part II – General provisions**
+
+## **2. Exemptions from applicability of OI Rules/Regulations/Directions**
+
+The provisions contained in the OI Rules/Regulations/Directions shall not apply, and general permission shall be available for acquisition or transfer of any investment outside India made as per rule 4 of the OI Rules.
+
+#### **3. Permission for making overseas investment**
+
+(1) A person resident in India may make or transfer any investment or financial commitment outside India under general permission/automatic route subject to the provisions contained in the OI Rules, OI Regulations and these directions. Accordingly, overseas investment may be made in a foreign entity engaged in a bona fide business activity, directly or through SDS/specialpurpose vehicle (SPV).
+
+(2) The person intending to make any financial commitment shall fill up the Form FC as provided in the "Master Direction – [Reporting under Foreign Exchange Management Act, 1999"](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10202) duly supported by the requisite documents and approach the designated AD bank for making the investment/remittance.
+
+(3) In respect of any case under the approval route, the applicant shall approach their designated AD bank who shall forward the proposal to the Reserve Bank after due scrutiny and with its specific recommendations. The application for overseas investment under the approval route w

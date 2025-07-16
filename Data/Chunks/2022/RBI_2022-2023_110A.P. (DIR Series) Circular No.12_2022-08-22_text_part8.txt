@@ -1,0 +1,40 @@
+. Further a resident individual shall not make financial commitment by way of debt.
+
+(4) It is provided with respect to financial commitment by way of Guarantee [regulation 5 of OI Regulations] that-
+
+- a) In the case of performance guarantee, time specified for the completion of the contract shall be treated as its validity period.
+- b) No prior approval from the Reserve Bank shall be needed for remitting the funds from India on account of invocation of a performance guarantee extended in accordance with OI Rules/Regulations.
+- c) Any guarantee, to the extent of the amount invoked, shall cease to be a part of the nonfund based financial commitment but will be considered as financial commitment by way of debt. Such invocation shall be reported in Form FC.
+- d) Roll-over of guarantee shall not be treated as fresh financial commitment. However, such roll-over shall be reported in Form FC.
+- e) A group company of the Indian entity may extend a guarantee in accordance with the OI Regulations if such group company is eligible to make ODI as per the OI Rules and such guarantee shall be counted towards the utilisation of the financial commitment limit of such
+
+group company and shall be reported by the group company concerned. In case of a resident individual promoter, the same shall be counted towards the financial commitment limit of the Indian entity and accordingly be reported by the Indian entity. The concept of utilising the net worth of the subsidiary/holding company by the Indian entity has been discontinued henceforth. Further, for computing the financial commitment limit of the group company, any fund-based exposure of such group company to the Indian entity or of the Indian entity to such group company, as the case may be, shall be deducted from the net worth of such group company.
+
+(5) The provisions related to financial commitment by way of pledge/charge [regulation 6 of OI Regulations] are summarised below**:**
+
+
+(6) Financial commitment by way of pledge/charge shall be subject to following conditions:
+
+a) The value of the pledge/charge or the amount of the facility, whichever is less, shall be reckoned towards the financial commitment limit provided such facility has not already been reckoned towards the limit prescribed;
+
+- b) Overseas lender in whose favour such pledge/charge is created shall not be from any country or jurisdiction in which financial commitment is not permissible under the OI Rules;
+- c) the creation/enforcement of such pledge/charge shall be in accordance with the relevant provisions of the Act or rules or regulations made, or directions issued thereunder;
+- d) The assets on which charge is being created are not securitised;
+- e) The period of charge, if not specified upfront, shall be co-terminus with the period of facility (like loan or other facility) for which charge has been created;
+- f) in the event of enforcement of charge created on domestic assets, such domestic assets shall be transferred by way of sale to a person resident in India only;
+- g) Wherever creation of charge involves pledge of shares of an Indian company in favour of an overseas lender, the pledge shall also be governed by the extant FEMA provisions contained in FEM (Non-Debt Instruments) Rules, 2019.
+
+(7) The provisions pertaining to ODI in financial services activity [paragraph 2 of schedule I and paragraph 2 of schedule V of OI Rules] are summarised below:
+
+
+d) A foreign entity will be considered to be engaged in the business of financial services activity if it undertakes an activity, which if carried out by an entity in India, requires registration with or is regulated by a financial sector regulator in India.
+
+(8) Limit of financial commitment shall be governed by paragraph 3 of schedule I of the OI rules. The following is further provided:
+
+a) Utilisation of the balances held in EEFC account, and the amount raised by issue of American Depository Receipts (ADR)/ Global Depositary Receipts (GDR) and ADR/ GDR stock-swap for making financial commitment shall also be reckoned towards the financial commitment limit. However, financial commitment made through such resources prior to the date of notification of the OI Rules/Regulations shall not be reckoned towards the limit.
+
+b) Where the proceeds from External Commercial Borrowings (ECB) are utilised for making financial commitment, the same shall be reckoned towards the financial commitment limit. However, only that part of the ECB shall be reckoned towards the financial commitment limit that exceeds the amount of the corresponding pledge or creation of charge on assets which has already been counted towards the financial commitment limit.
+
+## **22. Overseas investment by resident individuals**
+
+With effect from August 05, 2013, resident individuals (single or in association with another resident individual or with an Indian entity) were permitted to make ODI. A resident individual may make overseas investment in accordance with schedule III of OI Rules.

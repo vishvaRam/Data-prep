@@ -1,0 +1,39 @@
+ repo period. On the other hand, the repo buyer, i.e., lender of funds in the first leg, shall not include the securities purchased under repo in his investment account but show it in a separate subhead [\(Annex \(III\) \(a\)](#page--1-0) & [\(III\) \(b\)\)](#page--1-0). The securities would, however, be transferred from the repo seller to repo buyer as in the case of normal outright sale/purchase transactions and such movement of securities shall be reflected using the Repo/Reverse Repo Accounts and contra entries. In the case of repo seller, the Repo Account is credited in the first leg for the securities sold (funds received), while the same is reversed when the securities are repurchased in the second leg. Similarly, in the case of repo buyer, the Reverse Repo Account is debited for the amount of securities purchased (funds lent) and the same is reversed in the second legwhen the securities are sold back.
+
+**5.** The first leg of the repo transaction should be contracted at the prevailing market
+
+rates. The reversal (second leg) of the transaction shall be such that the difference between the consideration amounts of first and second legs should reflect the repo interest.
+
+**6.** The accounting principles to be followed while accounting for repo / reverse repo transactions are as under:
+
+#### **(i) Coupon /Discount**
+
+- (a) The repo seller shall continue to accrue the coupon/discount on the securities sold under repo even during the repo period while the repo buyer shall not accrue the same.
+- (b) In case the interest payment date of the security offered under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller of the security on the date of receipt as the cash consideration payable by the seller in the second leg does not include any intervening cash flows.
+
+#### **(ii) Repo Interest Income / Expenditure**
+
+After the second leg of the repo / reverse repo transaction is over,
+
+- (a) the difference between consideration amounts of the first leg and second leg of the repo shall be reckoned as Repo Interest Income / Expenditure in the books of the repo buyer / seller respectively; and
+- (b) the balance outstanding in the Repo Interest Income / Expenditure account should be transferred to the Profit and Loss account as an income or an expenditure. As regards repo / reverse repo transactions *outstanding on the balance sheet date*, only the accrued income / expenditure *till the balance sheet date* should be taken to the Profit and Loss account. Any repo income / expenditure for the remaining period should be reckoned for the next accounting period.
+
+#### **(iii) Marking to Market**
+
+The repo seller shall continue to mark to market the securities sold under repo transactions as per the *investment classification of the security*. To illustrate, in case the securities sold by banks under repo transactions are out of the **Available for Sale** category, then the mark to market valuation for such securities should be done at least once a quarter. For entities which do not follow any investment classification norms, the *valuation for securities sold under repo transactions may be in accordance with the valuation norms followed by them in respect of securities of similar nature.*
+
+# **7. Accounting Methodology**
+
+The accounting methodology to be followed along with the illustrations is given in **[Annexes](#page--1-0)  III [\(a\)](#page--1-0) and III [\(b\)](#page--1-0)**. Participants using more stringent accounting principles may continue using the same principles.
+
+## **8. Classification of Accounts**
+
+Banks shall classify the balances in Repo Account under Schedule 4 under item I (ii) or I (iii) as appropriate. Similarly, the balances in Reverse Repo Account shall be classified under Schedule 7 under item I (ii) a or I (ii) b as appropriate. The balances in Repo interest expenditure Account and Reverse Repo interest income Account shall be classified under Schedule 15 (under item II or III as appropriate) and under Schedule 13 (under item III or IV as appropriate) respectively. The balance sheet classification for other participants shall be governed by the guidelines issued by the respective regulators.
+
+## **9. Disclosure**
+
+The disclosures should be made by banks in the "Notes on Accounts' to the Balance Sheet, as provided in Annexure III - C.3(e) of [Master Direction on Financial Statements -](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)  [Presentation and Disclosures dated August 30, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)
+
+#### **Recommended Accounting Methodology for accounting of Repo / Reverse Repo transactions** *[Paragraph 7 of Annex III]*
+
+(i) The following accounts may be maintained, viz. i) Repo Account, ii) Reverse Repo Account, iii) Reverse Repo Interest Income Account, iv) Repo Interest Expenditure Account v) Reverse Repo Interest Receivable Account and vi) Repo Interest Payable

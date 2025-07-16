@@ -1,0 +1,70 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+#### RBI/2022-23/131 DOR.MRG.REC.76/00-00-007/2022-23 October 11, 2022
+
+Dear Sir / Madam,
+
+# **Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022**
+
+The Reserve Bank of India has, from time to time, issued several guidelines / instructions / directives to the banks on Unhedged Foreign Currency Exposure (UFCE) of the entities which have borrowed from banks.
+
+2. We have received references from banks seeking clarification on various aspects including *inter-alia* clarity in the definition of 'entities' for which banks shall assess UFCE, exempted exposures / entities, alternative method for smaller entities, assessment of UFCE of entities incorporated outside India by overseas subsidiaries / branches of Indian banks etc.
+
+3. Accordingly, a comprehensive review of the extant guidelines has been undertaken and all the existing instructions on the subject including the revisions / clarifications on the issues stated above have been consolidated in the Directions enclosed herewith. An Explanatory Note providing the background for these Directions is also enclosed.
+
+# **Applicability**
+
+4. This circular is applicable to all commercial banks (excluding Payments Banks and Regional Rural Banks).
+
+5. These instructions shall come into force from January 1, 2023.
+
+Yours faithfully,
+
+(Usha Janakiraman) Chief General Manager
+
+#### **DEPARTMENT OF REGULATION**
+
+## **Notification No.DOR.MRG.77/00-00-007/2022-23 dated October 11, 2022**
+
+## **Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022**
+
+In exercise of the powers conferred under Section 35 A of the Banking Regulation Act, 1949 (hereinafter called the Act), the Reserve Bank of India (hereinafter called the Reserve Bank), being satisfied that it is necessary and expedient in the public interest to do so, hereby, issues the Directions hereinafter specified.
+
+#### CHAPTER I - PRELIMINARY
+
+#### 1. Short title and commencement
+
+a) These Directions shall be called the Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022.
+
+b) These Directions shall come into effect from January 1, 2023.
+
+#### 2. Applicability
+
+The provisions of these Directions shall be applicable to all commercial banks excluding Payments Banks and Regional Rural Banks (hereinafter collectively referred as "banks"). These Directions shall be applicable to overseas branches / subsidiaries of banks incorporated in India as specified in clause 10 hereinafter.
+
+#### 3. Definitions
+
+(a) In these Directions, unless the context states otherwise, the terms herein shall bear the meaning assigned to them below:
+
+- i. "Earnings before Interest and Depreciation (EBID)" shall have the same meaning as defined for computation of Debt Service Coverage Ratio (DSCR) i.e., EBID = Profit After Tax + Depreciation + Interest on debt + Lease Rentals, if any.
+- ii. "Entity" means a counterparty to which bank has exposure in any currency.
+
+*Explanation: Exposure shall mean all fund-based and non-fund-based exposures.*
+
+iii. "Financial hedge" shall mean hedging through a derivative contract with a financial institution. Financial hedge shall be considered only where the entity has documented the purpose and the strategy for hedging at inception of the derivative contract and assessed its effectiveness as a hedging instrument at periodic intervals.
+
+> *Note: For the purpose of assessing the effectiveness of hedge, guidance may be taken from the applicable accounting standards and the relevant guidance notes of the Institute of Chartered Accountants of India on the matter.*
+
+- iv. "Foreign Currency Exposure (FCE)" of an entity shall mean the gross sum of all items on the entity's balance sheet that have impact on its profit and loss account due to movement in foreign exchange rates.
+- v. "Listed entities" shall mean entities listed on the recognized stock exchanges.
+- vi. "Natural hedge" shall mean a hedge arising out of the operations of the company when cash flows offset the risk arising out of the Foreign Currency exposure (FCE).
+
+*Note: An exposure shall be considered as naturally hedged only if the offsetting exposure has the maturity / cash flow within the same accounting year.[1](#page-2-0)*
+
+vii. "Unhedged Foreign Currency Exposure (UFCE)" shall mean Foreign Currency Exposure (FCE) excluding items which are effective hedge of each other. While estimating UFCE of an entity, banks shall consider only two types of hedges financial hedge and natural hedge.
+
+(b) All other expressions unless defined herein shall have the same meaning as have been assigned to them under the Banking Regulation Act, 1949 or the Reserve Bank of India Act, 1934 and rules/regulations made thereunder, or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+
+<span id="page-2-0"></span> <sup>1</sup> For instance, export revenues (booked as receivable) may offset the exchange ri

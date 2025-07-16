@@ -1,0 +1,67 @@
+in unchanged.
+- ii. The aforesaid ceiling of 15 per cent for PDI can be exceeded with prior RBI approval, if PDI are issued as part of revival plan / financial reconstruction of UCBs.
+- iii. The eligible amount shall be computed with reference to the amount of Tier-I capital as on March 31 of the previous year, after deduction of goodwill, DTA and other intangible assets, but before deduction of equity investment in subsidiaries, if any.
+
+## **2.2 Amount**
+
+The amount of PDI to be raised may be decided by the Board of Directors of banks.
+
+### **2.3 Maturity**
+
+These instruments shall be perpetual.
+
+<span id="page-2-0"></span> <sup>5</sup> Reference is invited to para 2.1 of [Annex-II](#page--1-0) as per which the outstanding amount of PNCPS and Perpetual Debt Instruments (PDI) along with outstanding Innovative Perpetual Debt Instruments (IPDI) shall not exceed 35 per cent of total Tier-I capital at any point of time
+
+<span id="page-2-1"></span><sup>6</sup> Issued in terms of circular [UCB.PCB.Cir.No.39/09.16.900/08-09](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=4782&Mode=0) dated January 23, 2009 on Financial Restructuring of UCBs.
+
+# **2.4 Options**
+
+- 2.4.1 The PDI shall not be issued with a 'put option' or 'step-up' option.
+- 2.4.2 However, PDI may be issued with a call option subject to following conditions:
+	- a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+	- b) Call option shall be exercised only with the prior approval of Department of Regulation (DoR), RBI. While considering the proposals received from banks for exercising the call option, the RBI would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+### **2.5 Classification**
+
+PDI shall be classified as 'Borrowings' and shown separately in the Balance Sheet.
+
+### **2.6 Rate of interest**
+
+The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+
+#### **2.7 Lock-in-Clause**
+
+2.7.1 PDI shall be subjected to a lock-in-clause in terms of which the issuing bank shall not be liable to pay interest, if
+
+- i. the bank's CRAR is below the minimum regulatory requirement prescribed by RBI; or
+- ii. the impact of such payment results in bank's CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI;
+
+2.7.2 However, UCBs may pay interest with the prior approval of the DoR, RBI when the impact of such payment may result in net loss or increase the net loss, provided the CRAR meets the regulatory norm. For this purpose, net loss is defined as either (i) the accumulated loss at the end of the previous financial year or (ii) the loss incurred during the current financial year.
+
+2.7.3 The interest shall not be cumulative.
+
+2.7.4 All instances of invocation of the lock-in-clause should be reported by the issuing UCB to the concerned RO of DoS, RBI.
+
+#### **2.8 Seniority of claim**
+
+The claims of the investors of PDI shall be superior to the claims of investors in equity shares and PNCPS but subordinated to the claims of all other creditors and the depositors. Among investors in PDI and outstanding Innovative Perpetual Debt Instruments (IPDI[7\)](#page-4-0), the claims shall rank *pari passu* with each other.
+
+## **2.9 Discount**
+
+The PDI shall not be subjected to a progressive discount for capital adequacy purposes since these are perpetual.
+
+# **2.10 Other conditions**
+
+2.10.1 PDI shall be fully paid-up, unsecured and free of any restrictive clauses.
+
+2.10.2 UCBs shall also comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the PDI, provided they are not in conflict with the terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of the DoR of RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier-I capital.
+
+# **2.11 Compliance with Reserve Requirements**
+
+The total amount raised by a UCB through the issue of PDI shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements. However, the amount collected from members / prospective investors and pending issue of PDI, shall be reckoned as liability for the purpose of calculating the net demand and time liabilities and shall, accordingly, attract reserve requirements. Such amounts pending issue of PDI, shall not be reckoned for calculation of capital funds.
+
+## **2.12 Reporting Requirements**
+
+UCBs issuing PDI shall submit a report to the concerned RO of DoS, RBI giving details of the amount raised, including the terms and conditions of issue together with a copy of the Prospectus / Offer Document, soon after the issue is completed.
+
+# **2.13 Inves

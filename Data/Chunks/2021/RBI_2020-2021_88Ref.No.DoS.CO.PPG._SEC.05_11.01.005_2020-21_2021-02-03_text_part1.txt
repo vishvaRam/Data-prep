@@ -1,0 +1,50 @@
+![](_page_0_Picture_0.jpeg)
+
+# RBI/2020-21/88 Ref.No.DoS.CO.PPG./SEC.05/11.01.005/2020-21 February 03, 2021
+
+The Chairman / Managing Director / Chief Executive Officer All deposit taking Non-Banking Financial Companies (NBFCs) All non-deposit taking NBFCs (including Core Investment Companies) with asset size of ₹5,000 crore and above All Primary (Urban) Co-operative Banks (UCBs) with asset size of ₹500 crore and above
+
+Madam / Dear Sir,
+
+# **Risk-Based Internal Audit (RBIA)**
+
+An independent and effective internal audit function in a financial entity provides vital assurance to the Board and its senior management regarding the quality and effectiveness of the entity's internal control, risk management and governance framework. The essential requirements for a robust internal audit function include, *inter alia,* sufficient authority, proper stature, independence, adequate resources and professional competence.
+
+2. The range and commonality of risks faced by Supervised Entities (SEs) would warrant effective and harmonized systems and processes for the internal audit function across the SEs based on certain common guiding principles.
+
+3. The introduction of Risk-Based Internal Audit (RBIA) system was mandated for all Scheduled Commercial Banks (except Regional Rural Banks) vide our [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1020&Mode=0)  [DBS.CO.PP.BC.10/11.01.005/2002-03 dated December 27, 2002,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1020&Mode=0) which was further supplemented vide [circular DoS.CO.PPG./SEC.04/11.01.005/2020-21 dated January 07, 2021.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12011&Mode=0) It has now been decided to mandate RBIA framework for the following Non-Banking Financial Companies (NBFCs) and Primary (Urban) Co-operative Banks (UCBs):
+
+- a. All deposit taking NBFCs, irrespective of their size;
+- b. All Non-deposit taking NBFCs (including Core Investment Companies) with asset size of ₹5,000 crore and above; and
+
+पय�वे�ण िवभाग, के �ीय काया�लय, व��ट�ेड स�टर, स�टर-1, कफ परे ड, कोलाबा, मुंबई – 400 005 टेलीफोन: 022- 2218 8482 फै �: 022-2218 0157 ई-मेल - cgmicdosco@rbi.org.in
+
+![](_page_1_Picture_0.jpeg)
+
+c. All UCBs having asset size of ₹500 crore and above[1](#page-1-0) .
+
+4. The Supervised Entities as indicated in Para 3 above shall implement the RBIA framework by March 31, 2022 in accordance with the Guidelines on Risk-Based Internal Audit provided in the enclosed [Annex](#page--1-0). The Guidelines are intended to enhance the efficacy of internal audit systems and processes followed by the NBFCs and UCBs.
+
+5. Further, in order to ensure smooth transition from the existing system of internal audit to RBIA, the concerned NBFCs and UCBs may constitute a committee of senior executives with the responsibility of formulating a suitable action plan. The committee may address transitional and change management issues and should report progress periodically to the Board and senior management.
+
+6. This circular should be placed before the Board in its next meeting. The implementation of these guidelines as per timeline specified should be done under the oversight of the Board.
+
+Yours faithfully,
+
+(Ajay Kumar Choudhary) Chief General Manager-In-Charge
+
+Encl: Annex
+
+<span id="page-1-0"></span><sup>1</sup> The UCBs having asset size less than ₹500 crore, all Salary Earners UCBs, Unit UCBs and UCBs under All Inclusive Directions shall continue to be covered under the extant internal audit requirements as prescribed in [Master](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9810)  [Circular DCBR.CO.BPD.\(PCB\).MC.No. 3/12.05.001/2015-16 dated July 1, 2015.](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9810)
+
+![](_page_2_Picture_0.jpeg)
+
+**Annex**
+
+## Ref. No.DoS.CO.PPG./SEC.05 /11.01.005/2020-21 dated February 03, 2021
+
+### **Guidelines on Risk-Based Internal Audit (RBIA) System for Select NBFCs and UCBs**
+
+RBI vide [circular DBS.CO.PP.BC.10/11.01.005/2002-03 dated December 27, 2002,](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=1020&Mode=0) had introduced Risk-Based Internal Audit (RBIA) system in Scheduled Commercial Banks (SCBs) as part of their internal control framework, which was further supplemented vide [circular](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12011&Mode=0)  [DoS.CO.PPG./SEC.04/11.01.005/2020-21](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12011&Mode=0) dated January 07, 2021. This framework relies broadly on a well-defined policy for internal audit, functional independence with sufficient standing, effective channels of communication and adequate audit resources with sufficient professional competence.
+
+While NBFCs (Non-Banking Financial Companies) and Primary (Urban) Cooperative Banks (UCBs) have grown in size and become systemically important, prevalence of different audit system/approaches in such entities has created certain inconsistencies, risks

@@ -1,0 +1,53 @@
+gory, then the working capital loans also shall be placed in the same asset classification category as that of project loans on completion of 'monitoring period'.
+
+# *4.2.15.8 Income recognition*
+
+4.2.15.8.1 Banks may recognise income on accrual basis in respect of the projects under implementation, which are classified as 'standard'.
+
+4.2.15.8.2 Banks should not recognise income on accrual basis in respect of the projects under implementation which are classified as a 'substandard' asset. Banks may recognise income in such accounts only on realisation i.e. on cash basis.
+
+4.2.15.8.3 The regulatory treatment of FITL / debt / equity instruments created by conversion of principal / unpaid interest, as the case may be, shall be as per paragraph 21 of Part B2 of this Master Circular.
+
+### 4.2.16 Post-shipment Supplier's Credit
+
+4.2.16.1 In respect of post-shipment credit extended by the banks covering export of goods to countries for which the Export Credit Guarantee Corporation's (ECGC) cover is available, EXIM Bank has introduced a guarantee-cum-refinance programme whereby, in the event of default, EXIM Bank will pay the guaranteed amount to the bank within a period of 30 days from the day the bank invokes the guarantee after the exporter has filed claim with ECGC.
+
+4.2.16.2 Accordingly, to the extent payment has been received from the EXIM Bank, the advance may not be treated as a non performing asset for asset classification and provisioning purposes.
+
+### 4.2.17 Export Project Finance
+
+4.2.17.1 In respect of export project finance, there could be instances where the actual importer has paid the dues to the bank abroad but the bank in turn is unable to remit the amount due to political developments such as war, strife, UN embargo, etc.
+
+4.2.17.2 In such cases, where the lending bank is able to establish through documentary evidence that the importer has cleared the dues in full by depositing the amount in the bank abroad before it turned into NPA in the books of the bank, but the importer's
+
+country is not allowing the funds to be remitted due to political or other reasons, the asset classification may be made after a period of one year from the date the amount was deposited by the importer in the bank abroad.
+
+#### 4.2.18 Transfer of Loan Exposures
+
+The asset classification and provisioning requirements in respect of transactions involving transfer of loans shall be as per the Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021.
+
+# 4.2.19 Credit Card Accounts
+
+4.2.19.1 In credit card accounts, the amount spent is billed to the card users through a monthly statement with a definite due date for repayment. Banks give an option to the card users to pay either the full amount or a fraction of it, i.e., minimum amount due, on the due date and roll-over the balance amount to the subsequent months' billing cycle.
+
+4.2.19.2 A credit card account will be treated as non-performing asset if the minimum amount due, as mentioned in the statement, is not paid fully within 90 days from the payment due date mentioned in the statement.
+
+4.2.19.3 Banks shall report a credit card account as 'past due' to credit information companies (CICs) or levy penal charges, viz. late payment charges, etc., if any, only when a credit card account remains 'past due' for more than three days. The number of 'days past due' and late payment charges shall, however, be computed from the payment due date mentioned in the credit card statement.
+
+#### 5. PROVISIONING NORMS
+
+### 5.1 General
+
+5.1.1 The primary responsibility for making adequate provisions for any diminution in the value of loan assets, investment or other assets is that of the bank managements and the statutory auditors. The assessment made by the inspecting officer of the RBI is furnished to the bank to assist the bank management and the statutory auditors in taking a decision in regard to making adequate and necessary provisions in terms of prudential guidelines.
+
+5.1.2 In conformity with the prudential norms, provisions should be made on the non performing assets on the basis of classification of assets into prescribed categories as detailed in paragraph 4 supra. Taking into account the time lag between an account becoming doubtful of recovery, its recognition as such, the realisation of the security and the erosion over time in the value of security charged to the bank, the banks should make provision against substandard assets, doubtful assets and loss assets as below.
+
+# 5.2 Loss assets
+
+Loss assets should be written off. If loss assets are permitted to remain in the books for any reason, 100 percent of the outstanding should be provided for.
+
+# 5.3 Doubtful assets
+
+5.3.1 100 percent of the extent to which the advance is not covered by the realisable value of the security to which the bank has a valid recourse and the realisable value is estimated on a realistic basis.
+
+5.3.2 In regard to the secured portion, provision may be made on the following basis, at th

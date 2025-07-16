@@ -1,0 +1,51 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2021-2022/114 IDMD.CDD.1100/14.04.050/2021-22 October 22, 2021
+
+(Updated as on October 04, 2022)
+
+All Scheduled Commercial Banks (Excluding RRBs) Designated Post Offices Stock Holding Corporation of India Ltd. (SHCIL) BSE & NSE Depositories Clearing Corporation of India Limited
+
+Dear Sir/Madam,
+
+#### **Sovereign Gold Bond Scheme of the Government of India (GoI) - Procedural Guidelines - Consolidated**
+
+The [Sovereign Gold Bond \(SGB\) Scheme was first launched by Government of India \(GOI\)](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10095&Mode=0)  [on October 30, 2015.](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10095&Mode=0) As the "Receiving Offices" (RO), are entrusted with the responsibility of performing certain functions relating to receipt of applications and servicing of the bonds, RBI has also issued operational guidelines from time to time and Procedural Guidelines vide [circular IDMD.CDD. No.1569/14.04.050/2016-17](https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=10792&Mode=0) dated December 23, 2016 for guidance to the Receiving Offices.
+
+2. With a view to facilitate availability of all the current operative instructions on the above subject at one place, it has been decided to issue consolidated procedural guidelines. The rules and regulations applicable for servicing of these bonds have been updated with instructions issued till date and are given in [Annex I.](#page--1-0) The same will be updated suitably and simultaneously whenever there is a change in the rules/regulations governing the operation of the Scheme.
+
+3. This circular supersedes all operational/procedural guidelines issued till date. With the issuance of these instructions, no separate procedural/operational instructions will be issued henceforth. All the Receiving Offices shall be guided by these instructions while dealing with servicing of these bonds.
+
+4. These Guidelines are issued in exercise of the powers conferred under Section 29(2) of the GS Act 2006, to the Receiving Offices, BSE/NSE and depositories.
+
+Yours faithfully,
+
+(Rajendra Kumar) Chief General Manager
+
+Encl: as above
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# **I: Introduction**
+
+The Sovereign Gold Bonds (henceforth referred to as bonds) are issued by Government of India (GOI) as Government of India Stock in accordance with Section 3 of the Government Securities Act, 2006 (GS Act 2006). The eligibility condition and other terms and condition are specified in the relevant notifications of Government of India issued from time to time.
+
+2. In the interest of operational flexibility and ease in servicing the customers, it has been decided to entrust Receiving Offices (ROs) and Depositories along with Depository Participants (in case of dematerialized bonds), with the responsibility of performing certain functions relating to servicing of the bonds. The updated list of ROs notified by GOI and authorized to receive the subscriptions is given in [Appendix I.](#page--1-1) The ROs shall sensitize its officials regarding terms and condition of issuance and are required to strictly adhere to the same.
+
+#### **II. Definitions**
+
+In these guidelines, unless the context otherwise requires,
+
+- a. "Depository Participant" means an entity which has been granted a certificate of registration by Securities and Exchange Board of India under Chapter IV of SEBI (Depositories and Participants) Regulations 1996.
+- b. "Receiving Offices" means Scheduled Commercial Banks (excluding RRBs), SCHIL, designated Post Offices (as notified by GOI), Clearing Corporation of India Limited and recognized stock exchanges viz., National Stock Exchange of India Limited and Bombay Stock Exchange Limited as per details given in [Appendix I.](#page--1-1)
+- c. "Depository" means a company formed and registered under the Companies Act, 1956 (1 of 1956) and which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992)
+- d. Bond ledger Account or BLA means the bond held to the credit of the holder in the electronic form with Reserve Bank of India. Dematerialised Form means bonds held in the constituents' subsidiary general ledger (CSGL) Account with RBI. CSGL Account means a subsidiary general ledger account opened and maintained with the Bank by an agent on behalf of the constituents in terms of Government Securities Act, 2006
+- e. Retail Direct Gilt Account (RDG Account) means gilt account maintained in the books of RBI under RBI Retail Direct Scheme
+
+## **III. Procedural Guidelines for servicing the bonds:**
+
+#### **The ROs shall be guided by procedural/operational guidelines in connection with issue/ servicing of these bonds as under:**
+
+## **1. Nodal Branches/Offices**
+
+The Receiving Offices (ROs) and the other entities entrusted with the responsibility of issue/ servici

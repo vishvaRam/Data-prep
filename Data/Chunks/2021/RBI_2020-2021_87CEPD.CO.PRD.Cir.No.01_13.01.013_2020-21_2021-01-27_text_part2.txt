@@ -1,0 +1,68 @@
+nks from the OBOs, as also the quality and turnaround time of redress.
+
+### **Enhanced disclosures to be made by banks on complaints and grievance redress**
+
+
+Note: Maintainable complaints refer to complaints on the grounds specifically mentioned in BO Scheme 2006 and covered within the ambit of the Scheme.
+
+#### **Top five grounds of complaints received by the bank from customers**
+
+
+
+# **II. Recovery of cost of redress of complaints from banks**
+
+5. At present, redress of complaints under BO Scheme, 2006 (BOS) is cost-free for banks as well as their customers. Given that the banker-customer relationship is the primary relationship, the main responsibility of customer grievance redress lies with banks. With a view to ensure that banks discharge this responsibility effectively, the cost of redress of complaints will be recovered from those banks against whom the maintainable complaints[2](#page-0-0) in the OBOs exceed their peer group average as detailed in para 7 below. However, grievance redress under BOS for customers will continue to remain cost-free.
+
+6. To operationalize the cost-recovery framework for banks, peer groups based on the asset size of banks as on March 31 of the previous year will be identified, and peer group averages of maintainable complaints received in OBOs would be computed on the following three parameters:
+
+- average number of maintainable complaints per branch;
+- average number of maintainable complaints per 1,000 accounts (total of deposit and credit accounts) held by the bank; and
+
+<span id="page-0-0"></span> <sup>2</sup> Maintainable complaints refer to complaints on the grounds specifically mentioned in BOS 2006 and are covered within the ambit of the Scheme.
+
+• average number of maintainable digital complaints per 1,000 digital transactions[3](#page-1-0) executed through the bank by its customers.
+
+7. The cost of redressing complaints in excess of the peer group average will be recovered from the banks as follows:
+
+- excess in any one parameter 30% of the cost of redressing a complaint (in the OBO) for the number of complaints in excess of the peer group average;
+- excess in any two parameters 60% of the cost of redressing a complaint for the number of complaints exceeding the peer group average in the parameter with the higher excess;
+- excess in all the three parameters 100% of the cost of redressing a complaint for the number of complaints exceeding the peer group average in the parameter with the highest excess.
+
+8. The cost of redress to be recovered in this respect will be the average cost of handling a complaint at the OBOs during the year.
+
+# **III. Intensive Review of Grievance Redress Mechanism**
+
+9. Reserve Bank will undertake, as a part of its supervisory mechanism, annual assessments of customer service and grievance redress in banks based on the data and information available through the Complaint Management System, and other sources and interactions. Banks identified as having persisting issues in grievance redress will be subjected to an intensive review of their grievance redress mechanism to better identify the underlying systemic issues and initiate corrective measures. The intensive review shall include, but will not be limited to, the following areas:
+
+- i. Adequacy of the customer service and customer grievance redress related policies.
+- ii. Functioning of the Customer Service Committee of the Board.
+
+<span id="page-1-0"></span> <sup>3</sup> 'Digital Transaction' means a payment transaction in a seamless system effected without the need for cash at least in one of the two legs, if not in both. This includes transactions made through digital / electronic modes wherein both the originator and the beneficiary use digital / electronic medium to send or receive money.
+
+- iii. Level of involvement of the Top Management in customer service and customer grievance related issues.
+- iv. Effectiveness of the grievance redress mechanism of banks.
+
+10. Based on the review, a remedial action plan will be formulated and formally communicated to the banks for implementation within a specific time frame. In case no improvement is observed in the grievance redress mechanism within the prescribed timelines despite the measures undertaken, the bank(s) will be subjected to corrective actions through appropriate regulatory and supervisory measures.
+
+## **Appendix I**
+
+## **Strengthening of Grievance Redress Mechanism in Banks**
+
+#### **Master list of grounds of complaints to be used for disclosure on the top five ground-wise receipt of complaints by banks under Para 4 of the Annex**
+
+- 1. ATM/Debit Cards
+- 2. Credit Cards
+- 3. Internet/Mobile/Electronic Banking
+- 4. Account opening/difficulty in operation of accounts
+- 5. Mis-selling/Para-banking
+- 6. Recovery Agents/Direct Sales Agents
+- 7. Pension and facilities for senior citizens/differently abled
+- 8. Loans and advances
+- 9. Levy of charges without prior notice/excessive charges/foreclosure charges
+- 10.Cheques/drafts/bills
+- 11.Non-observance of Fair Practices Code
+- 12. Exchange of coins, issuance/acceptance of small denomination notes and coins
+- 13.Bank Guarantees/Letter of Credit and documentary credits
+- 14.Staff behaviour
+- 15.Facilities for customers visiting the branch/adherence to prescribed working hours by the branch, etc.
+- 16.Others

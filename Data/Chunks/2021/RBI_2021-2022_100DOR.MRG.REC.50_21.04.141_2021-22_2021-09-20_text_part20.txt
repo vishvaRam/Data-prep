@@ -1,0 +1,52 @@
+ of the bank under "Notes to Account".
+	- (iv) When banks invest in the security receipts issued by ARC in respect of the financial assets sold by them to the ARC, the sale shall be recognised in books of the banks at the lower of:
+		- \* the redemption value of the security receipts, and
+		- \* the NBV of the financial asset.
+
+The above investment should be carried in the books of the bank / FI at the price as determined above until its sale or realization, and on such sale or realization, the loss or gain must be dealt with in the same manner as at (ii) and (iii) above.
+
+- (b) The securities (bonds and debentures) offered by ARC should satisfy the following conditions:
+	- (i) The securities must not have a term in excess of six years.
+	- (ii) The securities must carry a rate of interest which is not lower than 1.5 per cent above the 'Bank Rate' in force at the time of issue.
+	- (iii) The securities must be secured by an appropriate charge on the assets transferred.
+	- (iv) The securities must provide for part or full prepayment in the event the ARC sells the asset securing the security before the maturity date of the security.
+	- (v) The commitment of the ARC to redeem the securities must be unconditional and not linked to the realization of the assets.
+	- (vi) Whenever the security is transferred to any other party, notice of transfer should be issued to the ARC.
+- (c) Investment in debentures / bonds / security receipts issued by ARC
+
+All instruments received by banks from ARC as sale consideration for financial assets sold to them and also other instruments issued by ARC in which banks invest will be in the nature of non SLR securities. Accordingly, the valuation, classification and other norms applicable to investment in non-SLR instruments prescribed by RBI from time to time would be applicable to bank's investment in debentures / bonds / security receipts issued by ARC. However, if any of the above instruments issued by ARC is limited to the actual realisation of the financial assets assigned to the instruments in the concerned scheme, the bank shall reckon the Net Asset Value (NAV), obtained from ARC from time to time, for valuation of such investments
+
+# **(B) Capital Adequacy**
+
+For the purpose of capital adequacy, banks should assign risk weights as under to the investments in debentures / bonds / SRs issued by ARC and held by banks as investment:
+
+- i) Risk weight for credit risk: 100%.
+- ii) Risk weight for market risk: 2.5%
+
+Applicable risk weight = (i) + (ii)
+
+# **(C) Exposure Norms**
+
+Banks' investments in debentures/ bonds / SRs issued by an ARC will constitute exposure on the ARC. As there are a few ARC, banks' exposure on ARC through their investments in debentures / bonds / SRs issued by the ARC may go beyond their prudential exposure ceiling. In view of the extra ordinary nature of event, banks will be allowed, in the initial years, to exceed prudential exposure ceiling on a case-to-case basis.
+
+## **6. Disclosure Requirements**
+
+Banks, which sell their financial assets to an ARC, shall be required to make the disclosures in the Notes on Accounts to their Balance sheets as provided in Annexure III - C.4(f)(i) of [Master Direction on Financial Statements -](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158) Presentation and Disclosures [dated August 30, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)
+
+#### **7. Related Issues**
+
+- (a) ARC will also take over financial assets which cannot be revived and which, therefore, will have to be disposed of on a realisation basis. Normally the ARC will not take over these assets but act as an agent for recovery for which it will charge a fee.
+- (b) Where the assets fall in the above category, the assets will not be removed from the books of the bank but realisations as and when received will be credited to the asset account. Provisioning for the asset will continue to be made by the bank in the normal course.
+
+## **A. List of Circulars consolidated in the Master Circular**
+
+
+
+
+
+
+
+
+
+## **B. List of Other Circulars from which instructions relating to Investments have also been consolidated in the Master Circular**
+

@@ -1,0 +1,31 @@
+position's valuation to reflect current illiquidity should be considered whether the position is marked to market using market prices or observable inputs, third-party valuations or marked to model.
+
+8.8.2.2 Bearing in mind that the assumptions made about liquidity in the market risk capital charge may not be consistent with the bank's ability to sell or hedge out less liquid positions where appropriate, banks must take an adjustment to the current valuation of these positions, and review their continued appropriateness on an on-going basis. Reduced liquidity may have arisen from market events. Additionally, close-out prices for concentrated positions and/or stale positions should be considered in establishing the adjustment. RBI has not prescribed any particularly methodology for calculating the amount of valuation adjustment on account of illiquid positions. Banks must consider all relevant factors when determining the appropriateness of the adjustment for less liquid positions. These factors may include, but are not limited to, the amount of time it would take to hedge out the position/risks within the position, the average volatility of bid/offer spreads, the availability of independent market quotes (number and identity of market makers), the average and volatility of trading volumes (including trading volumes during periods of market stress), market concentrations, the aging of positions, the extent to which valuation relies on marking-to-model, and the impact of other model risks not included in paragraph 8.8.2.2. The valuation adjustment on account of illiquidity should be considered irrespective of whether the guidelines issued by FIMMDA have taken into account the illiquidity premium or not, while fixing YTM/spreads for the purpose of valuation.
+
+8.8.2.3 For complex products including, but not limited to, securitisation exposures, banks must explicitly assess the need for valuation adjustments to reflect two forms of model risk:
+
+(i) the model risk associated with using a possibly incorrect valuation methodology; and
+
+(ii) the risk associated with using unobservable (and possibly incorrect) calibration parameters in the valuation model.
+
+8.8.2.4 The adjustment to the current valuation of less liquid positions made under paragraph 8.8.2.2 will not be debited to P&L Account, but will be deducted from Common Equity Tier 1 capital while computing CRAR of the bank. The adjustment may exceed those valuation adjustments made under financial reporting/accounting standards and paragraphs 8.8.1.2 (vi) and (vii).
+
+8.8.2.5 In calculating the eligible capital for market risk, it will be necessary first to calculate the banks' minimum capital requirement for credit and operational risk and only afterwards its market risk requirement to establish how much components of capital are available to support market risk.
+
+## **9. Capital Charge for Operational Risk**
+
+# **9.1 Definition of Operational Risk**
+
+Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk, but excludes strategic and reputational risk. Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements.
+
+## **9.2 The Measurement Methodologies**
+
+9.2.1 The New Capital Adequacy Framework outlines three methods for calculating operational risk capital charges in a continuum of increasing sophistication and risk sensitivity: (i) the Basic Indicator Approach (BIA); (ii) the Standardised Approach (TSA); and (iii) Advanced Measurement Approaches (AMA).
+
+9.2.2 Banks are encouraged to move along the spectrum of available approaches as they develop more sophisticated operational risk measurement systems and practices.
+
+9.2.3 The New Capital Adequacy Framework provides that internationally active banks and banks with significant operational risk exposures are expected to use an approach that is more sophisticated than the Basic Indicator Approach and that is appropriate for the risk profile of the institution. However, to begin with, banks in India shall compute the capital requirements for operational risk under the Basic Indicator Approach. Reserve Bank will review the capital requirement produced by the Basic Indicator Approach for general credibility, especially in relation to a bank's peers and in the event that credibility is lacking, appropriate supervisory action under Pillar 2 will be considered.
+
+## **9.3 The Basic Indicator Approach**
+
+9.3.1 Under the Basic Indicator Approach, banks must hold capital for operational risk equal to the average over the previous three years of a fixed percentage (denoted as alpha) of positive annual gross income. Figures for any year in which annual gross income is negative or zero should be excluded from both the numerator and denominator when calculating the average. If negative gross income dis

@@ -1,0 +1,35 @@
+ MGC- ₹100 crore, HFCs- ₹20 crore, SPDs which undertake only the core activities - ₹150 crore, SPDs which also undertake non-core activities -₹250 crore.
+
+### **3.2.1 Capital Guidelines –**
+
+### Regulatory changes under SBR applicable to NBFC-ML and NBFC-UL
+
+**a) Internal Capital Adequacy Assessment Process (ICAAP)** - NBFCs are required to make a thorough internal assessment of the need for capital, commensurate with the risks in their business. This internal assessment shall be on similar lines as ICAAP prescribed for commercial banks under Pillar 2 (Master Circular – [Basel III Capital Regulations dated](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859)  [July 01, 2015\)](https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859). While Pillar 2 capital will not be insisted upon, NBFCs are required to make a realistic assessment of risks. Internal capital assessment shall factor in credit risk, market risk, operational risk and all other residual risks as per methodology to be determined internally. The methodology for internal assessment of capital shall be proportionate to the scale and complexity of operations as per their Board approved policy. The objective of ICAAP is to ensure availability of adequate capital to support all risks in business as also to encourage NBFCs to develop and use better internal risk management techniques for monitoring and managing their risks. This will facilitate an active dialogue between the supervisors and NBFCs on the assessment of risks and monitoring as well as mitigation of the same.
+
+#### Additional regulatory changes under SBR applicable to NBFC-UL
+
+- **b) Common Equity Tier 1 –** In order to enhance the quality of regulatory capital, NBFC-UL shall maintain Common Equity Tier 1 capital of at least 9 per cent of Risk Weighted Assets.
+- **c) Leverage -** In addition to the CRAR, NBFC-UL will also be subjected to leverage requirement to ensure that their growth is supported by adequate capital, among other factors. A suitable ceiling for leverage will be prescribed subsequently for these entities as and when necessary.
+- **d) Differential standard asset provisioning** NBFC-UL shall be required to hold differential provisioning towards different classes of standard assets.
+- A detailed circular will be issued by the Bank for guidelines at paras **b**, **c**, and **d** above.
+
+### **3.2.2 Prudential Guidelines –**
+
+### Regulatory changes under SBR applicable to NBFC-ML and NBFC-UL
+
+**a) Concentration of credit/ investment** - The extant credit concentration limits prescribed for NBFCs separately for lending and investments shall be merged into a single exposure limit of 25% for single borrower/ party and 40% for single group of borrowers/ parties. Further, the concentration limits shall be determined with reference to the NBFC's Tier 1 capital instead of their Owned Fund. The revised norms are indicated in the table below:
+
+
+NBFC-UL shall follow these norms till Large Exposure Framework is put in place for them. Extant instructions on concentration norms for different categories of NBFC, other than the changes indicated above, will continue to remain applicable.
+
+- **b) Sensitive Sector Exposure (SSE) -** Exposure to capital market (direct and indirect) and commercial real estate[6](#page-0-0) shall be reckoned as sensitive exposure for NBFCs. NBFCs shall fix Board-approved internal limits for SSE separately for capital market and commercial real estate exposures. Dynamic vulnerability assessments of various sectors and their likely impact on business, as evaluated periodically, should help NBFCs determine such internal exposure limits. While the Board is free to determine various sub-limits within the overall SSE internal limits, the following are specifically prescribed:
+	- i) A sub-limit within the commercial real estate exposure ceiling shall be fixed internally for financing land acquisition.
+	- ii) Ceiling on IPO Funding as mentioned at Para 3.1.
+
+Housing Finance Companies shall continue to follow specific regulation on sensitive sector exposure, as are currently applicable in terms of paragraph 22[7](#page-0-1) & 23[8](#page-0-2) of [Master Direction](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)  – Non-Banking Financial Company – [Housing Finance Company \(Reserve Bank\)](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)  [Directions, 2021.](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12030)
+
+- **c) Regulatory restrictions on loans** NBFCs shall be subject to regulatory restrictions in respect of the following:
+	- i) Granting loans and advances to directors, their relatives and to entities where directors or their relatives have major shareholding.
+	- ii) Granting loans and advances to Senior Officers of the NBFC.
+
+iii) While appraising loan proposals involving real estate, NBFCs shall ensure that the borrowers have obtained prior permission from government / local governme

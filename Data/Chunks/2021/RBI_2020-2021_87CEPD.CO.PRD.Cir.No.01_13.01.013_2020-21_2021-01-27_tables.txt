@@ -1,0 +1,55 @@
+|     |                                                   | Previous year | Current year |
+|-----|---------------------------------------------------|---------------|--------------|
+| (a) | No. of complaints pending at the beginning        |               |              |
+|     | of the year                                       |               |              |
+| (b) | No. of complaints received during the year        |               |              |
+| (c) | No. of complaints redressed during the year       |               |              |
+| (d) | No. of complaints pending at the end of the       |               |              |
+|     |                                                   |               |              |
+|     | year<br>Awards passed by the Banking Ombudsman    |               |              |
+|     |                                                   | Previous year | Current year |
+| (a) | No.<br>of<br>unimplemented<br>Awards<br>at<br>the |               |              |
+|     | beginning of the year                             |               |              |
+| (b) | No. of Awards passed by the Banking               |               |              |
+|     | Ombudsmen during the year                         |               |              |
+| (c) | No. of Awards implemented during the year         |               |              |
+| (d) | No. of unimplemented Awards at the end of         |               |              |
+
+| Sr. |                                                        | Particulars                                                                                    | Previous | Current year |  |  |  |
+|-----|--------------------------------------------------------|------------------------------------------------------------------------------------------------|----------|--------------|--|--|--|
+| No  |                                                        |                                                                                                | year     |              |  |  |  |
+|     | Complaints received by the bank from its customers     |                                                                                                |          |              |  |  |  |
+| 1.  |                                                        | Number of complaints pending at beginning of the<br>year                                       |          |              |  |  |  |
+| 2.  |                                                        | Number of complaints received during the year                                                  |          |              |  |  |  |
+| 3.  |                                                        | Number of complaints disposed during the year                                                  |          |              |  |  |  |
+|     | 3.1                                                    | Of which, number of complaints rejected by the<br>bank                                         |          |              |  |  |  |
+| 4.  |                                                        | Number of complaints pending at the end of the<br>year                                         |          |              |  |  |  |
+|     | Maintainable complaints received by the bank from OBOs |                                                                                                |          |              |  |  |  |
+| 5.  |                                                        | Number of maintainable complaints received by the<br>bank from OBOs                            |          |              |  |  |  |
+|     | 5.1.                                                   | Of 5, number of complaints resolved in favour of the<br>bank by BOs                            |          |              |  |  |  |
+|     | 5.2                                                    | Of 5, number of complaints resolved through<br>conciliation/mediation/advisories issued by BOs |          |              |  |  |  |
+|     | 5.3                                                    | Of 5, number of complaints resolved after passing<br>of Awards by BOs against the bank         |          |              |  |  |  |
+| 6.  |                                                        | Number of Awards unimplemented within the<br>stipulated time (other than those appealed)       |          |              |  |  |  |
+
+| Grounds of<br>complaints,<br>(i.e.<br>complaints<br>relating to) | Number of<br>complaints<br>pending at<br>the<br>beginning of<br>the year | Number of<br>complaints<br>received<br>during the<br>year | %<br>increase/<br>decrease<br>in the<br>number of<br>complaints<br>received<br>over the<br>previous<br>year | Number of<br>complaints<br>pending at<br>the end of<br>the year | Of 5, number of<br>complaints pending<br>beyond 30 days |  |  |  |
+|------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------|--|--|--|
+| 1                                                                | 2                                                                        | 3                                                         | 4                                                                                                           | 5                                                               | 6                                                       |  |  |  |
+|                                                                  | Current Year                                                             |                                                           |                                                                                                             |                                                                 |                                                         |  |  |  |
+| Ground -<br>1                                                    |                                                                          |                                                           |                                                                                                             |                                                                 |                                                         |  |  |  |
+| Ground -<br>2                                                    |                                                                          |                                                           |                                                                                                             |                                                                 |                                                         |  |  |  |
+| Ground -<br>3                                                    |                                                                          |                                                           |                                                                                                             |                                                                 |                                                         |  |  |  |
+| Ground -<br>4                                                    |                                                                          |                                                           |                                                                                                             |                                                                 |                                                         |  |  |  |
+
+| Ground -<br>5 |               |  |  |  |  |
+|---------------|---------------|--|--|--|--|
+| Others        |               |  |  |  |  |
+| Total         |               |  |  |  |  |
+|               | Previous Year |  |  |  |  |
+| Ground -<br>1 |               |  |  |  |  |
+| Ground -<br>2 |               |  |  |  |  |
+| Ground -<br>3 |               |  |  |  |  |
+| Ground -<br>4 |               |  |  |  |  |
+| Ground -<br>5 |               |  |  |  |  |
+| Others        |               |  |  |  |  |
+| Total         |               |  |  |  |  |
+

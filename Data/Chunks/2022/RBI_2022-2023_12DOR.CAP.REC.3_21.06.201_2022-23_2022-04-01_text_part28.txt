@@ -1,0 +1,39 @@
+ulated as the applicable risk weight under the Standardised or IRB approach multiplied by the outstanding EAD of the counterparty. This reduction of EAD by CVA losses does not apply to the determination of the CVA risk capital charge as per formula given in **paragraph 5.15.3.6 (ii)**.
+- (iii) While computing the credit exposure banks may exclude 'sold options', provided the entire premium / fee or any other form of income is received / realised.
+- (iv) Current credit exposure is defined as the sum of the positive mark-to-market value of these contracts. The Current Exposure Method requires periodical calculation of the current credit exposure by marking these contracts to market, thus capturing the current credit exposure.
+- (v) Potential future credit exposure is determined by multiplying the notional principal amount of each of these contracts irrespective of whether the contract has a zero, positive or negative mark-to-market value by the relevant add-on factor indicated below according to the nature and residual maturity of the instrument.
+
+
+**Table 9: Credit Conversion Factors for Market-Related Off-Balance Sheet Items<sup>60</sup>**
+
+Notes:
+
+(a) For contracts with multiple exchanges of principal, the add-on factors are to be multiplied by the number of remaining payments in the contract.
+
+<sup>60</sup> Please refer to paragraph 8.6.3 for credit default swaps
+
+- (b) For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset such that the market value of the contract is zero on these specified dates, the residual maturity would be set equal to the time until the next reset date. However, in the case of interest rate contracts which have residual maturities of more than one year and meet the above criteria, the CCF or addon factor is subject to a floor of 1.0%.
+- (c) No potential future credit exposure would be calculated for single currency floating / floating interest rate swaps; the credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value.
+- (d) Potential future exposures should be based on 'effective' rather than 'apparent notional amounts'. In the event that the 'stated notional amount' is leveraged or enhanced by the structure of the transaction, banks must use the 'effective notional amount' when determining potential future exposure. For example, a stated notional amount of USD 1 million with payments based on an internal rate of two times the BPLR / Base Rate would have an effective notional amount of USD 2 million.
+- (vi) When effective bilateral netting contracts as specified in Annex 20 (part B) are in place, RC will be the net replacement cost and the add-on will be ANet as calculated below:
+	- (a) Credit exposure on bilaterally netted forward transactions will be calculated as the sum of the net mark-to-market replacement cost, if positive, plus an add-on based on the notional underlying principal. The add-on for netted transactions (ANet) will equal the weighted average of the gross add-on (AGross) and the gross add-on adjusted by the ratio of net current replacement cost to gross current replacement cost (NGR). This is expressed through the following formula:
+
+ANet = 0.4 · AGross + 0.6 · NGR · AGross
+
+where:
+
+NGR = level of net replacement cost / level of gross replacement cost for transactions subject to legally enforceable netting agreements<sup>61</sup> .
+
+AGross = sum of individual add-on amounts (calculated by multiplying the notional principal amount by the appropriate add-on factors set out in Table 9 of paragraph 5.15.3.5 and Tables 20 & 21 of paragraph 8.6.3) of all transactions subject to legally enforceable netting agreements with one counterparty.
+
+(b) For the purposes of calculating potential future credit exposure to a netting counterparty for forward foreign exchange contracts and other similar contracts in which the notional
+
+<sup>61</sup> Banks must calculate NGR on a counterparty by counterparty basis for all transactions that are subject to legally enforceable netting agreements.
+
+principal amount is equivalent to cash flows, the notional principal is defined as the net receipts falling due on each value date in each currency. The reason for this is that offsetting contracts in the same currency maturing on the same date will have lower potential future exposure as well as lower current exposure.
+
+**Note:** Clarifications on certain issues raised by banks regarding Bilateral netting are furnished in **[Annex 25](#page--1-0)**.
+
+## 5.15.3.6 **Capitalisation of mark-to-market counterparty risk losses (CVA capital charge)**
+
+- (i) In addition to the default risk capital requirement for counterparty credit risk, banks are also required to compute an additional capital charge to cover the risk of mark-to-market losses on the expected counterparty risk (such losses being known as credit value adjustments, CVA) to OTC derivatives. The CVA capital charge will be

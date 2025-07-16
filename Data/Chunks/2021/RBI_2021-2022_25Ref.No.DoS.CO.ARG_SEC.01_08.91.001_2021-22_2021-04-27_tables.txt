@@ -1,0 +1,98 @@
+| Sl. No. | Asset Size of the Entity                              | Maximum number of SCAs/SAs |
+|---------|-------------------------------------------------------|----------------------------|
+| 1.      | Upto ₹5,00,000 crore                                  | 4                          |
+| 2.      | Above ₹ 5,00,000 crore and Upto<br>₹ 10,00,000 crore  | 6                          |
+| 3.      | Above ₹ 10,00,000 crore and Upto<br>₹ 20,00,000 crore | 8                          |
+| 4.      | Above ₹ 20,00,000 crore                               | 12                         |
+
+| Asset Size of   | Minimum    | Out of total | Minimum       | Minimum     | Minimum      |
+|-----------------|------------|--------------|---------------|-------------|--------------|
+| Entity as on    | No. of     | FTPs,        | No. of Full   | No. of      | No. of       |
+| 31st March of   | Full-Time  | Minimum      | Time          | years of    | Professional |
+| Previous Year   | partners   | No. of       | Partners/     | Audit       | staff        |
+|                 | (FTPs)     | Fellow       | Paid CAs      | Experience  |              |
+|                 | associated | Chartered    | with          | of the firm | Note 4       |
+|                 | with the   | Accountant   | CISA/ISA      |             |              |
+|                 | firm for a | (FCA)        | Qualification | Note 3      |              |
+|                 | period of  | Partners     |               |             |              |
+|                 | at least   | associated   | Note 2        |             |              |
+|                 | three (3)  | with the     |               |             |              |
+|                 | years      | firm for a   |               |             |              |
+|                 |            | period of at |               |             |              |
+|                 | Note 1     | least        |               |             |              |
+|                 |            | three (3)    |               |             |              |
+|                 |            | years        |               |             |              |
+| Above ₹15,000   | 5          | 4            | 2             | 15          | 18           |
+| crore           |            |              |               |             |              |
+| Above ₹ 1,000   | 3          | 2            | 1             | 8           | 12           |
+| crore and Up to |            |              |               |             |              |
+| ₹15,000 crore   |            |              |               |             |              |
+| Upto<br>₹1,000  | 2          | 1            | 1*            | 6           | 8            |
+| crore           |            |              |               |             |              |
+
+| Asset     | Number of   | Out of      | Number of     | Number of   | Number of    |
+|-----------|-------------|-------------|---------------|-------------|--------------|
+| Size of   | Full-Time   | total FTPs, | Full Time     | Years of    | Professional |
+| Entity as | partners    | Number of   | Partners/     | Audit       | staff        |
+| on 31st   | (FTPs)      | FCA         | Paid CAs      | Experience# |              |
+| March of  | associated* | Partners    | with          |             |              |
+| Previous  | with the    | associated  | CISA/ISA      |             |              |
+| Year      | firm for a  | with the    | Qualification |             |              |
+|           | period of   | firm for a  |               |             |              |
+|           | three (3)   | period of   |               |             |              |
+|           | years       | three (3)   |               |             |              |
+|           |             | years       |               |             |              |
+|           |             |             |               |             |              |
+
+| Sl. | Circular/Instruction No.            | Date             | Subject                                      |
+|-----|-------------------------------------|------------------|----------------------------------------------|
+| No. |                                     |                  |                                              |
+| 1   | DBOD.No.App.BC.57/C.452(K)-83       | July 07, 1983    | Appointment<br>of<br>Statutory               |
+|     |                                     |                  | Auditors as Internal Auditors of             |
+|     |                                     |                  | Banks                                        |
+| 2   | DBOD.No.APP.BC.101/C.452(K)-83      | December 15,     | Statutory<br>Audit<br>by<br>External         |
+|     |                                     | 1983             | Auditors                                     |
+| 3   | DBOD.No.App.BC.107/C.452(K)-84      | November 13,     | Appointment<br>of<br>Statutory               |
+|     |                                     | 1984             | Auditors as Internal Auditors of             |
+|     |                                     |                  | Banks                                        |
+| 4   | DBOD.No.App.BC.28/C.452(K)-85       | March 12, 1985   | Appointment<br>of<br>Statutory               |
+|     |                                     |                  | Auditors as Internal Auditors of             |
+|     |                                     |                  | Banks                                        |
+| 5   | DOS.No.BC.9/08.91.001/94            | August 17, 1994  | Section 30(1A) of The Banking                |
+|     |                                     |                  | Regulation<br>Act,<br>1949<br>-              |
+|     |                                     |                  | Appointment<br>of<br>Statutory               |
+|     |                                     |                  | Auditors                                     |
+| 6   | DOS.No.BC.10/08.91.002/94           | August 17, 1994  | Section 30(1A) of The Banking                |
+|     |                                     |                  | Regulation<br>Act,<br>1949<br>-              |
+|     |                                     |                  | Appointment<br>of<br>Statutory               |
+|     |                                     |                  | Auditors                                     |
+| 7   | DBS.No.ARS.BC.8/08.91.001/2000-2001 | January 30, 2001 | Appointment of Statutory Central             |
+|     |                                     |                  | Auditors<br>for<br>Indian<br>Private         |
+|     |                                     |                  | Sector Banks                                 |
+| 8   | DBS.No.ARS.BC.12/08.91.001/2000-    | May 8, 2001      | Appointment of Statutory Central             |
+|     | 2001                                |                  | Auditors<br>for<br>Indian<br>Private         |
+| 9   | DBS.ARS.No.BC.08/08:91:001/2003-04  | March 26, 2004   | Sector Banks<br>Assessment of Performance of |
+|     |                                     |                  | Statutory Auditors                           |
+| 10  | DBS.ARS.No.B.C.15/08.91.001/2004-05 | January 6, 2005  | Appointment<br>of<br>Statutory               |
+|     |                                     |                  | Auditors<br>-<br>Obtention<br>of             |
+|     |                                     |                  | Declaration of Indebtedness                  |
+| 11  | DBS.ARS.No.BC.7/08.91.001/2006-07   | April 24, 2007   | Special Assignments other than               |
+|     |                                     |                  | Statutory Audit to Audit Firms by            |
+|     |                                     |                  | Banks                                        |
+|     |                                     |                  |                                              |
+
+| 12 | DBS.ARS.No.BC.02/08.91.001/2008-09 | December 31,   | Internal Assignments in Banks          |
+|----|------------------------------------|----------------|----------------------------------------|
+|    |                                    | 2008           | by Statutory Auditors                  |
+| 13 | DBS.ARS.BC No.02/08:91:001/2014-15 | September 11,  | Appointment of Auditors                |
+|    |                                    | 2014           |                                        |
+| 14 | DBS.ARS.BC No.03/08.91.001/2014-15 | September 11,  | Appointment of Auditors                |
+|    |                                    | 2014           |                                        |
+| 15 | DBS.ARS.BC.04/08.91.001/2017-18    | July 27, 2017  | Appointment of Statutory Central       |
+|    |                                    |                | Auditors (SCAs) - Modification of      |
+|    |                                    |                | Rest Period                            |
+| 16 | Not Applicable                     | Not Applicable | Norms<br>on<br>eligibility,            |
+|    |                                    |                | empanelment and selection of           |
+|    |                                    |                | Statutory<br>Central<br>Auditors<br>in |
+|    |                                    |                | Public Sector Banks from the           |
+|    |                                    |                | year 2018-19 and onwards               |

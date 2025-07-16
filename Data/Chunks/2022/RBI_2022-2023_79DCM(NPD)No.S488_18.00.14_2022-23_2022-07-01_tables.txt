@@ -1,0 +1,52 @@
+| Table 1: Sorting Criteria |               |                                                                     |  |  |  |
+|---------------------------|---------------|---------------------------------------------------------------------|--|--|--|
+| Sl.No.                    | Feature       | Criteria                                                            |  |  |  |
+| 1                         | Soiling       | General distribution of dirt across the entire note                 |  |  |  |
+| 2                         | Limpness      | Structural deterioration resulting in a marked lack of<br>stiffness |  |  |  |
+| 3                         | Dog-ears      | Corner folds                                                        |  |  |  |
+| 4                         | Tears         | Lengthwise and crosswise cuts                                       |  |  |  |
+| 5                         | Holes         | Holes of a specific diameter                                        |  |  |  |
+| 6                         | Stains        | Localised concentration of dirt                                     |  |  |  |
+| 7                         | Graffiti      | Deliberate graphic alteration of the note                           |  |  |  |
+| 8                         | Crumples      | Multiple random folds                                               |  |  |  |
+| 9                         | Decolouration | Lack of ink on part or whole of the note, e.g. a washed note        |  |  |  |
+| 10                        | Folds         | Folds reducing the length or width of the note                      |  |  |  |
+| 11                        | Repair        | Note repaired using adhesive tape/ paper/ glue                      |  |  |  |
+
+| Sl.<br>No. | Denomination | Maximum Density<br>difference | Minimum<br>Reflectance |
+|------------|--------------|-------------------------------|------------------------|
+| 1          | ₹5           | 0.07                          | 85%                    |
+| 2          | ₹10          | 0.07                          | 85%                    |
+| 3          | ₹20          | 0.06                          | 87%                    |
+| 4          | ₹50          | 0.06                          | 87%                    |
+| 5          | ₹100         | 0.05                          | 90%                    |
+| 6          | ₹200         | 0.05                          | 90%                    |
+| 7          | ₹500         | 0.04                          | 93%                    |
+| 8          | ₹2000        | 0.03                          | 95%                    |
+
+| Table 3: Tears |            |       |        |  |  |  |
+|----------------|------------|-------|--------|--|--|--|
+| Sl.No.         | Direction  | Width | Length |  |  |  |
+| 1              | Vertical   | 4 mm  | 8 mm   |  |  |  |
+| 2              | Horizontal | 4 mm  | 15 mm  |  |  |  |
+| 3              | Diagonal * | 4 mm  | 18 mm  |  |  |  |
+
+| Denomination | Category of Notes | No. of<br>Notes | Processing result |       |         |        |       |
+|--------------|-------------------|-----------------|-------------------|-------|---------|--------|-------|
+|              |                   |                 | Fit               | Unfit | Suspect | Reject | Total |
+| 100 (OLD)    | Soiled/ Reissue   |                 |                   |       |         |        |       |
+|              | Mutilated         |                 |                   |       |         |        |       |
+|              | Counterfeit       |                 |                   |       |         |        |       |
+| 100 (NEW)    | Soiled/ Reissue   |                 |                   |       |         |        |       |
+|              | Mutilated         |                 |                   |       |         |        |       |
+|              | Counterfeit       |                 |                   |       |         |        |       |
+| 200          | Soiled/ Reissue   |                 |                   |       |         |        |       |
+|              | Mutilated         |                 |                   |       |         |        |       |
+|              | Counterfeit       |                 |                   |       |         |        |       |
+| 500 (NEW)    | Soiled/ Reissue   |                 |                   |       |         |        |       |
+|              | Mutilated         |                 |                   |       |         |        |       |
+|              | Counterfeit       |                 |                   |       |         |        |       |
+| 2000         | Soiled/ Reissue   |                 |                   |       |         |        |       |
+|              | Mutilated         |                 |                   |       |         |        |       |
+|              | Counterfeit       |                 |                   |       |         |        |       |
+

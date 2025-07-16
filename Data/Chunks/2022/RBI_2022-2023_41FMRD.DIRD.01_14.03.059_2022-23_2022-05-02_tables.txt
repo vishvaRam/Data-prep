@@ -1,0 +1,18 @@
+| Sr No. | Circular No.        | Date              | Subject                     |
+|--------|---------------------|-------------------|-----------------------------|
+| 1.     | IDMC.No.PDRS.3346/  | March 07, 2000    | Ready Forward contracts     |
+|        | 10.02.01/99-2000    |                   |                             |
+| 2.     | IDMC.No.PDRS/4240/  | March 26, 2002    | Ready Forward Contracts     |
+|        | 10.02.01/2001-02    |                   |                             |
+| 3.     | DBOD.No.FSC.BC.84/  | March 26, 2003    | Ready Forward Contracts     |
+|        | 24.76.002/2002-03   |                   |                             |
+| 4.     | MPD.BC.244/         | November 05, 2003 | Primary Dealers' Access to  |
+|        | 07.01.279/2003-04   |                   | Call/Notice Money Market    |
+| 5.     | IDMD.DOD.10/        | June 23, 2010     | Issuance of Non-Convertible |
+|        | 11.01.01(A)/2009-10 |                   | Debentures (NCDs)           |
+| 6.     | IDMD.DOD.18/        | July 16, 2010     | Ready Forward Contracts in  |
+|        | 11.08.38/2010-11    |                   | Corporate Debt Securities   |
+| 7.     | IDMD.PCD.No.24/     | December 06, 2010 | Issuance of Non-Convertible |
+|        | 14.03.03/2010-11    |                   | Debentures (NCDs)           |
+| 8.     | IDMD.PCD.25/        | December 27, 2010 | Issuance of Non-Convertible |
+|        | 14.03.03/2010-11    |                   | Debentures (NCDs)           |

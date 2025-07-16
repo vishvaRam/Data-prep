@@ -1,0 +1,47 @@
+f the respective Depository viz NSDL/CDSL. They shall ensure timely credit of interest and repayment and render customer service to the demat account holders of SGB.
+
+(vi) Servicing of SGBs held under RBI Retail Direct Gilt Account shall be done by RBI. Accordingly all customer service requests may be uploaded on the Retail Direct Online Portal.
+
+## **6. Re-materialisation**
+
+The customer may approach the Depository Participant, with a request for re-materialisation of the bonds with details of his holding. They may also specify the RO and bank account details (name of bank, branch, account number, IFSC and type of account) through which the bonds will be serviced pursuant to re-materialisation. The re-materialisation request may be prepared by the Depository Participant based on the application and may be forwarded to the Depository. The request may be submitted by depository through E-Kuber Portal. No trading will be permitted for the securities sent for re-materialisation. Post conversion, the bonds will be held in BLA with RBI and servicing of the rematerialized bonds shall be done by the RO specified by the investor.
+
+# 7**. Transfer of Bonds**
+
+(i) The Bonds are issued in the form of Stock Certificate and are therefore transferable before maturity to eligible transferees either wholly or in part by execution of an instrument of transfer in [Form 'F',](https://rbidocs.rbi.org.in/rdocs/content/pdfs/TRANS14072016_F.pdf) in case of bond held in the Bond Ledger Account in accordance with the provisions of the Government Securities Act, 2006 and the Government Securities Regulations, 2007.
+
+(ii) In case of bond held in demat account with the NSDL/CDSL, the Beneficial ownership of dematerialised bonds can change either through trading in exchanges /off market transactions as per the extant practice.
+
+### **8. Procedure for recording transfer of bonds**
+
+(i) Investors holding bonds in BLA may approach the RO for effecting transfer of bonds before maturity from one eligible holder to another, through sale or by way of gift.
+
+(ii) The RO may obtain the Transfer Form duly executed as per [Form 'F'](https://rbidocs.rbi.org.in/rdocs/content/pdfs/TRANS14072016_F.pdf) along with a copy of the Certificate of Holding.
+
+(iii) The RO shall cross check the correctness of details given, with the data available on the E-Kuber portal/ their records.
+
+(iv) The KYC details of both the transferor and transferee may be verified by the RO.
+
+(v) The transfer request may then be processed through the E-Kuber Portal
+
+(vi) It may be noted that in terms of sub-section (4) of section 9 of the GS Act, the existing nomination, if any, shall stand cancelled on transfer. If the transferee wants to add a nominee, the RO may do the needful as per procedure prescribed at paragraph 5 of these guidelines.
+
+(vii) A revised Certificate of Holding may be generated from the E-Kuber Portal and issued to the transferee. The transfer of accounts will not disrupt interest payment schedule and the transferee/ holder will continue to earn interest on the relevant due dates.
+
+# **9. Partial transfer of bonds held in stock certificate form:**
+
+In case of part transfer, the original Certificate of Holding shall stand cancelled and new Certificates of Holding may be generated and issued to the transferor and transferee reflecting the changed holding.
+
+### **10. Recognition of title to SGB of deceased sole holder or joint holders and right of survivors of joint holders or several payees (when no valid nomination exists)**
+
+(i) Recognition of title to a bond of deceased sole holder or joint holders and right of survivors of joint holders or several payees, shall be subject to the provisions of Sections 7 and 8 of the Government Securities Act 2006 read with Regulation 6 of the Government Securities Regulations 2007.
+
+(ii) Once a claim is received by the RO/Depository, as the case may be, it may recognize the claim in terms of Section 7 of the GS Act 2006 and Regulation 6 of the Government Securities Regulation 2007, subject to its satisfaction with respect to the legality, genuineness, and finality thereof, provided there is no rival claim in respect of such bond and on production of all documents required to substantiate the claim. For that purpose, it may call for any other document or declaration, as it may consider necessary. It may also require the claimant to furnish a bond of indemnity for such amount as it may think fit, if found necessary.
+
+(iii) In the event of doubt, the case may be referred to PDO, Mumbai by the ROs/Depository.
+
+### **11. Loan against the bonds and creation of pledge, hypothecation or lien.**
+
+(i) The bonds may be used as collateral security for any loan. The creation of pledge, hypothecation or lien on the bonds shall be governed by Section 28 of the Government Securities Act, 2006 and Chapter VII of the Government Securities Regulations, 2007.
+
+(ii) The Loan to Value ratio as applicable to any ordinary gold loan mandated by the 

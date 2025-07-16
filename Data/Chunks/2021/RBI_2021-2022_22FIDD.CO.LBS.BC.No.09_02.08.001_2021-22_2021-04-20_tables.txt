@@ -1,0 +1,4 @@
+| Sr<br>No | Newly Carved<br>District | Erstwhile<br>District | Revenue<br>Divisions<br>under<br>newly<br>created District | Lead Bank<br>Responsibility<br>assigned to | District Working<br>Code allotted to<br>new district |
+|----------|--------------------------|-----------------------|------------------------------------------------------------|--------------------------------------------|------------------------------------------------------|
+| 1        | Mayiladuthurai           | Nagapattinam          | Mayiladuthurai<br>and<br>Sirkali (New)                     | Indian Overseas<br>Bank                    | 00Q<br>(to be read as zero<br>zero Q)                |
+

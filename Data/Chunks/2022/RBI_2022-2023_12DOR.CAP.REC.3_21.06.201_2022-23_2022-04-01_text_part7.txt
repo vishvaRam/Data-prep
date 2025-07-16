@@ -1,0 +1,49 @@
+redit risk-weighted assets under the standardized approach. Under Internal Ratings Based (IRB) approach, where the total expected loss amount is less than total eligible provisions, banks may recognise the difference as Tier 2 capital up to a maximum of 0.6% of credit-risk weighted assets calculated under the IRB approach.
+
+b. Investment Fluctuation Reserve shall also qualify for inclusion in Tier 2 capital, without any ceiling<sup>11</sup> .
+
+c. Provisions ascribed to identified deterioration of particular assets or loan liabilities, whether individual or grouped should be excluded. Accordingly, for instance, specific provisions on NPAs, both at individual account or at portfolio level, provisions in lieu of diminution in the fair value of assets in the case of restructured advances, provisions against depreciation in the value of investments will be excluded.
+
+(ii) Debt Capital Instruments issued by the banks;
+
+(iii) Preference Share Capital Instruments [Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS)] issued by the banks;
+
+(iv) Stock surplus (share premium) resulting from the issue of instruments included in Tier 2 capital;
+
+(v) While calculating capital adequacy at the consolidated level, Tier 2 capital instruments issued by consolidated subsidiaries of the bank and held by third parties which meet the criteria for inclusion in Tier 2 capital (refer to paragraph 4.3.4);
+
+<sup>8</sup> Banks will continue to have the option to net off such provisions from Gross NPAs to arrive at Net NPA or reckoning it as part of their Tier 2 capital as pe[r circular DBOD.NO.BP.BC 33/21.04.048/2009-10 dated August 27, 2009.](https://rbi.org.in/scripts/NotificationUser.aspx?Id=5234&Mode=0)
+
+<sup>9</sup> Please refer to [circular DBOD.No.BP.BC.85/21.06.200/2013-14 dated January 15, 2014](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8694&Mode=0) as well as [circular](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0)  [DBOD.No.BP.BC.116/21.06.200/2013-14 dated June 3, 2014](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8914&Mode=0) on "Capital and Provisioning Requirements for Exposures to entities with Unhedged Foreign Currency Exposure"
+
+<sup>10</sup> Please refer t[o circular DBOD.No.BP.BC.87/21.04.048/2010-11](https://rbi.org.in/scripts/NotificationUser.aspx?Id=6357&Mode=0) dated April 21, 2011 on provisioning coverage ratio (PCR) for advances.
+
+<sup>11</sup> Please refer to para 18(i)(b) of th[e Master Direction DOR.MRG.42/21.04.141/2021-22 dated August 25, 2021](https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12153) titled 'Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2021'.
+
+(vi) Revaluation reserves at a discount of 55%<sup>12</sup>;
+
+(vii) Any other type of instrument generally notified by the Reserve Bank from time to time for inclusion in Tier 2 capital; and
+
+(viii) Less: Regulatory adjustments / deductions applied in the calculation of Tier 2 capital [i.e., to be deducted from the sum of items (i) to (vii)].
+
+#### *B. Criteria for Classification as Tier 2 Capital for Regulatory Purposes*
+
+Under Basel III, the criteria for instruments to be included in Tier 2 capital have been modified to improve their loss absorbency as indicated in **[Annex 5, 6](#page--1-1) and [16](#page--1-0)**. Criteria for inclusion of Debt Capital Instruments as Tier 2 capital are furnished in **[Annex 5](#page--1-1)**. Criteria for inclusion of Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) as part of Tier 2 capital are furnished in **[Annex 6.](#page--1-1) [Annex 16](#page--1-0)** contains criteria for loss absorption through conversion / writeoff of all non-common equity regulatory capital instruments at the point of non-viability.
+
+#### **4.2.5.2 Tier 2 Capital – Foreign Banks' Branches**
+
+#### *A. Elements of Tier 2 Capital*
+
+Elements of Tier 2 capital in case of foreign banks' branches will be as under:
+
+- (i) General Provisions and Loss Reserves (as detailed in paragraph 4.2.5.1.A.(i) above);
+- (ii) Head Office (HO) borrowings in foreign currency received as part of Tier 2 debt capital;
+- (iii) Revaluation reserves at a discount of 55%; and
+
+(iv) Less: Regulatory adjustments / deductions applied in the calculation of Tier 2 capital [i.e., to be deducted from the sum of items (i) and (iii)].
+
+## *B. Criteria for Classification as Tier 2 Capital for Regulatory Purposes*
+
+Criteria for inclusion of Head Office (HO) borrowings in foreign currency received as part of Tier 2 debt Capital for foreign banks are furnished in **[Annex 5](#page--1-1) and [Annex 16](#page--1-0)**.
+
+<sup>12</sup> Revaluation reserves arise from revaluation of assets that are undervalued on the bank's books, typically bank premises. The extent to which the revaluation reserv

@@ -1,0 +1,30 @@
+t to an unrated long term claim on that counterparty where the seniority of the claim ranks pari-passu with the rated claims and the maturity of the unrated claim is not later than the rated claim. In a similar case where a short term claim is rated A1+ and a long term claim is rated A, the bank may assign 50 per cent risk weight to an unrated short term or long term claim
+
+<sup>76</sup> Please refer to the [circular DBOD.BP.BC.No.103/21.06.001/2012-13 dated June 20, 2013](https://rbi.org.in/scripts/NotificationUser.aspx?Id=8045&Mode=0) on 'Risk Weights on Deposits Placed with NABARD / SIDBI / NHB in lieu of Shortfall in Achievement of Priority Sector Lending Targets / Sub-targets'.
+
+### **7. Credit Risk Mitigation**
+
+### **7.1 General Principles**
+
+7.1.1 Banks use a number of techniques to mitigate the credit risks to which they are exposed. For example, exposures may be collateralised in whole or in part by cash or securities, deposits from the same counterparty, guarantee of a third party, etc. Credit risk mitigation approach as detailed in this section is applicable to the banking book exposures. This will also be applicable for calculation of the counterparty risk charges for OTC derivatives and repo-style transactions booked in the trading book.
+
+7.1.2 The general principles applicable to use of credit risk mitigation techniques are as under:
+
+- (i) No transaction in which Credit Risk Mitigation (CRM) techniques are used should receive a higher capital requirement than an otherwise identical transaction where such techniques are not used.
+- (ii) The effects of CRM will **not** be double counted. Therefore, no additional supervisory recognition of CRM for regulatory capital purposes will be granted on claims for which an issue-specific rating is used that already reflects that CRM.
+- (iii) Principal-only ratings will not be allowed within the CRM framework.
+- (iv) While the use of CRM techniques reduces or transfers credit risk, it simultaneously may increase other risks (residual risks). Residual risks include legal, operational, liquidity and market risks. Therefore, it is imperative that banks employ robust procedures and processes to control these risks, including strategy; consideration of the underlying credit; valuation; policies and procedures; systems; control of roll-off risks; and management of concentration risk arising from the bank's use of CRM techniques and its interaction with the bank's overall credit risk profile. Where these risks are not adequately controlled, Reserve Bank may impose additional capital charges or take other supervisory actions. The disclosure requirements prescribed in **Table DF-5 of [Annex 18](#page--1-0)** must also be observed for banks to obtain capital relief in respect of any CRM techniques.
+
+# **7.2 Legal Certainty**
+
+In order for banks to obtain capital relief for any use of CRM techniques, the following minimum standards for legal documentation must be met. All documentation used in collateralised transactions and guarantees must be binding on all parties and legally enforceable in all relevant jurisdictions. Banks must have conducted sufficient legal review, which should be well documented, to verify this requirement. Such verification should have a well-founded legal basis for reaching the conclusion about the binding nature and enforceability of the documents. Banks should also undertake such further review as necessary to ensure continuing enforceability.
+
+### **7.3 Credit Risk Mitigation Techniques - Collateralised Transactions**
+
+- 7.3.1 A Collateralised Transaction is one in which:
+	- (i) banks have a credit exposure and that credit exposure is hedged in whole or in part by collateral posted by a counterparty or by a third party on behalf of the counterparty. Here, "counterparty" is used to denote a party to whom a bank has an on- or off-balance sheet credit exposure.
+	- (ii) banks have a specific lien on the collateral and the requirements of legal certainty are met.
+
+#### 7.3.2 **Overall framework and minimum conditions**
+
+The framework allows banks to adopt either the simple approach, which, similar to the 1988 Accord, substitutes the risk weighting of the collateral for the risk weighting of the counterparty for the collateralised portion of the exposure (generally subject to a 20 per cent floor), or the comprehensive approach, which allows fuller offset of collateral against exposures, by effectively reducing the exposure amount by the value ascribed to the collateral. Banks in India shall adopt the Comprehensive Approach, which allows fuller offset of collateral against exposures, by effectively reducing the exposure amount by the value ascribed to the collateral. Under this approach, banks, which take eligible financial collateral (e.g., cash or securities, more specifically defined below), are allowed to reduce their credit exposure to a counterparty when calculating their capital requirements to take account of the risk mitigating effect o

@@ -1,0 +1,50 @@
+![](_page_0_Picture_0.jpeg)
+
+RBI/2020-21/117 CO.DPSS.POLC.No.S33/02-14-008/2020-2021 March 31, 2021
+
+All Payment System Providers and Payment System Participants
+
+Madam / Dear Sir,
+
+# **Guidelines on Regulation of Payment Aggregators and Payment Gateways**
+
+We invite a reference to our circular [DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17,](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0)  [2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) (*as updated from time to time*) and the clarification dated September 17, 2020 issued on the subject [\(Annex\)](#page-1-0). Accordingly, neither the authorised Payment Aggregators (PAs) nor the merchants on-boarded by them can store customer card credentials within their database or server.
+
+2. Based on the representations received from the industry seeking additional time for implementing the above instructions, it has been decided, as a one-time measure, to extend the timeline for non-bank PAs by six months, i.e., till December 31, 2021, to enable the payment system providers and participants to put in place workable solutions, such as tokenisation, within the framework set out in the [circular dated March 17, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) cited above and our [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0)  [DPSS.CO.PD No.1463/02.14.003/2018-19 dated January 08, 2019](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11449&Mode=0) on "Tokenisation – Card transactions". All other provisions of the [circular dated March 17, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) referred to above, shall remain unchanged.
+
+3. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+Yours faithfully,
+
+(P. Vasudevan) Chief General Manager
+
+Encl.: As above
+
+भुगतान और िनपटान �णाली िवभाग, क��ीय कायार्लय, 14वी मंिजल, क��ीय कायार्लय भवन,शहीद भगत �संह मागर्, फोटर्, मुम्बई - 400001 फोन Tel: (91-22) 2264 4995; फै क् स Fax: (91-22) 22691557; ई-मेल e-mail: [cgmdpssco@rbi.org.in](mailto:cgmdpssco@rbi.org.in)
+
+Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai -
+
+400001
+
+�हंदी आसान है, इसका �योग बढ़ाइए
+
+### <span id="page-1-0"></span>**RBI circular CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March 31, 2021**
+
+# **Clarification issued by RBI on [circular DPSS.CO.PD.No.1810/02.14.008/2019-20 dated](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0)  [March 17, 2020](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11822&Mode=0) (***as updated from time to time***) on "Guidelines on Regulation of Payment Aggregators (PAs) and Payment Gateways (PGs)"**
+
+#### 1. **Definition and applicability related**
+
+- 1.1. The circular is applicable to online PAs and PGs. The guidelines seek to regulate the activities of online PAs while providing baseline technology-related recommendations to PGs.
+- 1.2. In the case of bank PAs, there is no requirement of authorisation; they shall ensure compliance with the guidelines by September 30, 2020 (as extended vide [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11910&Mode=0) [DPSS.CO.PD.No.1897/02.14.003/2019-20 dated June 04, 2020\)](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11910&Mode=0). For non-bank PAs, the instructions will come into force from the date of their authorisation, subject to the submission of application for authorisation before the end date of June 30, 2021.
+- 1.3. The circular is also applicable to e-commerce marketplaces that are undertaking direct payment aggregation; e-commerce marketplaces availing the services of a PA shall be considered as merchants.
+- 1.4. The circular is not applicable on 'Delivery vs. Payment' transactions but addresses the transactions where the payment is made in advance while the goods are delivered in a deferred manner.
+
+#### 2. **Authorisation, capital and net-worth related**
+
+- 2.1. Banks maintaining the escrow account/s need not monitor the net-worth of the PA.
+- 2.2. For existing non-bank PAs, the CA certificate of net-worth evidencing that the requirement of net-worth is ensured (as on March 31, 2021) will be required to be submitted to RBI at the time of application for authorisation (in case of an existing entity desirous of applying before March 31, 2021 a similar certificate shall be submitted as on the nearest half-year ending date). Newly incorporated non-bank entities which may not have an audited statement of financial accounts shall submit a certificate from their CA regarding the current net-worth along with provisional balance sheet.
+
+# 3. **Governance related**
+
+- 3.1. The Promoters / Promoter Groups, shall conform to the Reserve Bank's 'fit and proper' criteria. Director of the PA company shall be deemed to be a "fit and proper" person if:
+	- 3.1.1. Such p

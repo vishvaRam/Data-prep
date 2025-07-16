@@ -1,0 +1,27 @@
+ess provision reversed to the Profit and Loss account on account of sale of NPAs shall be disclosed in the financial statements of the bank under "Notes to Account", as provided in Annexure III - C.4(f)(i) of [Master Direction on Financial Statements -](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158) Presentation and [Disclosures dated August 30, 2021.](https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12158)
+
+#### 12.3 **Placement of deposits with other banks by UCBs**
+
+#### 12.3.1 **Prudential inter-bank (gross) exposure limit**
+
+The total amount of deposits placed by an UCB with other banks (inter-bank) for all purposes including call money/ notice money, and deposits, if any, placed for availing clearing facility, CSGL facility, currency chest facility, remittance facility and non-fund based facilities like Bank Guarantee, Letter of Credit, etc. shall not exceed 20 per cent of its total deposit liabilities as on March 31 of the previous year. The balances held in deposit accounts with commercial banks (including scheduled Small Finance Banks), scheduled UCBs, State Cooperative Banks, District Central Cooperative Banks and investments in Certificate of Deposits issued by commercial banks, being interbank exposures, will be included in this 20 per cent limit.
+
+In cases where the smaller non-scheduled UCBs are keeping current account/minimum required balance for clearing purpose with relatively larger non-scheduled bank for sub-member clearing arrangements, it is possible that the financial position of the non- scheduled UCB with whom such deposits are kept, could take a hit due to unexpected downturn in its business and which could have an effect on the financial position for the depositing bank and its business. Non-scheduled UCBs, which have exposures to other non-scheduled UCBs on account of clearing arrangements may, therefore, review their exposures to such banks periodically based on their published balance sheet and Profit and Loss Account statements.
+
+#### 12.3.2 **Prudential inter-bank counter party limit**
+
+Within the prudential inter-bank (gross) exposure limit, deposits with any single bank should not exceed 5 per cent of the depositing bank's total deposit liabilities as on March 31 of the previous year.
+
+- 12.3.3 Scheduled UCBs may accept deposits from other scheduled UCBs, if it is part of an arrangement for providing specific services to the latter bank such as acting as the sponsor bank for clearing purposes, DD arrangement, CSGL facility, currency chest facility, foreign exchange transactions, remittance facility and non-fund based facilities like bank guarantee (BG), letter of credit (LC), etc. However, the acceptance of deposits by scheduled UCBs from other scheduled UCBs in the nature of placement of deposits for investment purposes is not permitted.
+- 12.3.4 Only Scheduled UCBs fulfilling the criteria provided in [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10122&Mode=0)  [DCBR.BPD.\(PCB\).Cir.No.8/16.20.000/2015-16 dated November 19, 2015](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=10122&Mode=0) are permitted to accept deposits from scheduled/ non-scheduled UCBs. Those scheduled UCBs which fail to meet the criteria shall phase out the deposits as provided in circular ibid. The total inter-UCB deposits accepted by a scheduled UCB satisfying the criteria should not exceed 10 per cent of its total deposit liabilities as on 31st March of the previous financial year.
+- 12.3.5 The interbank exposures arising from deposits placed by UCBs with a UCB under All-inclusive Directions (AID) shall be fully provided within five years
+
+at the rate of 20 per cent annually in terms of [circular](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11874&Mode=0)  [DOR.\(PCB\).BPD.Cir.No.11/16.20.000/2019-20 dated April 20, 2020.](https://rbi.org.in/Scripts/NotificationUser.aspx?Id=11874&Mode=0) Further, wherever UCBs are facing difficulty in withdrawal of deposits from a weak State Cooperative Bank/District Central Cooperative Bank, they shall make provision to the extent of 10 per cent per annum on their exposure to such State Cooperative Banks/District Central Cooperative Banks. The interest receivable on such deposits shall not be recognised as income by the UCBs.
+
+12.3.6 Keeping in view the prescribed prudential limits, UCBs may formulate a policy taking into account their funds position, liquidity and other needs for placement of deposits with other banks, the cost of funds, expected rate of return and interest margin on such deposits, the counter party risk, etc., and place it before their Board of Directors. The Board should review the position at least at half yearly intervals.
+
+## 13. **INTERNAL CONTROL AND INVESTMENT ACCOUNTING**
+
+## 13.1 **Internal Control**
+
+- 13.1.1 For every transaction entered into, a deal slip should be prepared which should contain details relating to name of the counterparty, whether it is direct deal or through a broker
